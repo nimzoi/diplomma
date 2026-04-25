@@ -1,0 +1,9 @@
+eli_id,title,url,layer,topic_group
+WDU19740240141,Kodeks pracy,https://api.sejm.gov.pl/eli/acts/DU/1974/24/text.pdf,L1,prawo_pracy
+WDU19910800350,Ustawa o PIT,https://api.sejm.gov.pl/eli/acts/DU/1991/80/text.pdf,L1,pit
+WDU19981440930,Ustawa o zryczałtowanym podatku dochodowym,https://api.sejm.gov.pl/eli/acts/DU/1998/144/text.pdf,L1,pit
+WDU20040540535,Ustawa o VAT,https://api.sejm.gov.pl/eli/acts/DU/2004/54/text.pdf,L1,vat
+WDU20180000646,Prawo przedsiębiorców,https://api.sejm.gov.pl/eli/acts/DU/2018/646/text.pdf,L1,ceidg
+WDU19981370887,Ustawa o systemie ubezpieczeń społecznych,https://api.sejm.gov.pl/eli/acts/DU/1998/137/text.pdf,L1,zus
+WDU20180001000,Ustawa o ochronie danych osobowych,https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.pdf,L1,rodo
+CELEX_02016R0679_20160504,RODO (wersja skonsolidowana PL),https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:02016R0679-20160504,L1,rodo

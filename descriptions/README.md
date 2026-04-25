@@ -34,6 +34,8 @@ All tasks except Task 10 are graded (up to 10 points each). Task 10 is for your 
 | 09  | [09.md](09.md) | **Aggregated formal and editorial requirements** — Format, length, citations, bibliography, binding | 10 |
 | 10  | [10.md](10.md) | **Self-assessment (0 points)** — Evaluation checklist; same deadline as Task 11; for self-check only | 0 |
 | 11  | [11.md](11.md) | **Comprehensive summary of the entire thesis** — Final task; full-thesis overview and checklist | 10 |
+| 12  | [12_data_collection_execution_plan.md](12_data_collection_execution_plan.md) | **Execution plan for data collection (PDF/DOCX/HTML)** — Operational roadmap for building the dataset baseline from legal and government sources | N/A |
+| 13  | [13_l1_collector_mvp.md](13_l1_collector_mvp.md) | **L1 collector MVP implementation** — working downloader + metadata/manifest/failure logging for legal acts seeds | N/A |
 
 **Deadlines:** To be set by the course (e.g. in the LMS). Task 10 has the **same deadline as Task 11**.
 

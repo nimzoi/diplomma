@@ -1,0 +1,52 @@
+topic_id,topic_group,title,priority
+zus_ulga_na_start,zus,Ulga na start,MUST
+zus_preferencyjny,zus,ZUS preferencyjny,MUST
+zus_maly_zus_plus,zus,Mały ZUS Plus,MUST
+zus_wakacje_skladkowe,zus,Wakacje składkowe,MUST
+zus_skladka_zdrowotna_jdg,zus,Składka zdrowotna JDG,MUST
+zus_zua_zwua_dra,zus,Zgłoszenia ZUA/ZWUA/DRA,MUST
+zus_zasilek_chorobowy_jdg,zus,Zasiłek chorobowy JDG,SHOULD
+zus_podstawa_wymiaru,zus,Podstawa wymiaru składek,MUST
+zus_zawieszenie_dzialalnosci,zus,ZUS przy zawieszeniu działalności,MUST
+zus_emerytura_jdg,zus,Emerytura i zbieg ubezpieczeń,SHOULD
+pit_skala,pit,Skala podatkowa,MUST
+pit_liniowy,pit,Podatek liniowy,MUST
+pit_ryczalt,pit,Ryczałt od przychodów,MUST
+pit_stawki_ryczalt_pkd,pit,Stawki ryczałtu per PKD,MUST
+pit_karta_podatkowa,pit,Karta podatkowa,SHOULD
+pit_ip_box,pit,IP Box,SHOULD
+pit_kup,pit,Koszty uzyskania przychodu,MUST
+pit_amortyzacja,pit,Amortyzacja i KŚT,MUST
+pit_kpir,pit,KPiR,MUST
+pit_ewidencja_ryczalt,pit,Ewidencja przychodów ryczałt,MUST
+pit_roczny,pit,Rozliczenie roczne PIT,MUST
+vat_rejestracja,vat,Rejestracja VAT-R,MUST
+vat_zwolnienie_200k,vat,Zwolnienie VAT 200k,MUST
+vat_jpk,vat,JPK_V7M/JPK_V7K,MUST
+vat_ksef,vat,KSeF,MUST
+vat_stawki,vat,Stawki VAT,MUST
+vat_ue,vat,VAT-UE/WDT/WNT,SHOULD
+vat_marza,vat,VAT marża,SHOULD
+vat_biala_lista,vat,Biała lista VAT,MUST
+ceidg_rejestracja,ceidg,Rejestracja JDG CEIDG-1,MUST
+ceidg_pkd,ceidg,Kody PKD,MUST
+ceidg_zawieszenie,ceidg,Zawieszenie działalności,MUST
+ceidg_wznowienie,ceidg,Wznowienie działalności,SHOULD
+ceidg_zamkniecie,ceidg,Zamknięcie działalności,SHOULD
+ceidg_zmiana_wpisu,ceidg,Zmiana wpisu CEIDG,MUST
+ceidg_dzialalnosc_nierejestrowana,ceidg,Działalność nierejestrowana,MUST
+kp_umowa_o_prace,prawo_pracy,Umowa o pracę,MUST
+kp_umowa_zlecenie,prawo_pracy,Umowa zlecenie,SHOULD
+kp_umowa_o_dzielo,prawo_pracy,Umowa o dzieło,SHOULD
+kp_czas_pracy,prawo_pracy,Czas pracy i nadgodziny,MUST
+kp_urlop,prawo_pracy,Urlopy,MUST
+kp_wypowiedzenie,prawo_pracy,Wypowiedzenie umowy,MUST
+kp_swiadectwo_pracy,prawo_pracy,Świadectwo pracy,SHOULD
+kp_bhp_biuro,prawo_pracy,BHP biuro i praca zdalna,SHOULD
+rodo_mala_firma,rodo,RODO mała firma,MUST
+rodo_rejestr_czynnosci,rodo,Rejestr czynności przetwarzania,MUST
+rodo_iod,rodo,Inspektor ochrony danych,SHOULD
+rodo_klauzula_informacyjna,rodo,Klauzula informacyjna art.13,MUST
+rodo_monitoring,rodo,Monitoring pracowników,SHOULD
+rodo_naruszenie,rodo,Naruszenie danych 72h,MUST
+rodo_rekrutacja,rodo,RODO w rekrutacji,MUST
