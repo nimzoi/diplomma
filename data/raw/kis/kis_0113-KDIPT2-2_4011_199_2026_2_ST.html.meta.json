@@ -1,0 +1,31 @@
+{
+  "id": "0d106f2033cbf848",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687900",
+  "source": "kis",
+  "topic_ids": [
+    "zus_preferencyjny"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:32Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 64508,
+  "relative_path": "raw/kis/kis_0113-KDIPT2-2_4011_199_2026_2_ST.html",
+  "title": "KIS 0113-KDIPT2-2.4011.199.2026.2.ST — Osoba samotnie wychowująca dziecko (syn wstąpił w związek małżeński).",
+  "last_modified": "2026-04-21",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "0d106f2033cbf8483ebe8721df198c39135fa573e6542d87372a1338959fb588",
+  "quality_flag": "accepted",
+  "notes": "phrase='ZUS preferencyjny', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 31074,
+    "diacritics_ratio": 0.0432,
+    "vocab_hits": 10
+  }
+}

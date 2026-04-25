@@ -1,0 +1,33 @@
+{
+  "id": "cd7167e52716fba4",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/485671",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_zawieszenie",
+    "zus_preferencyjny",
+    "zus_zawieszenie_dzialalnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:57Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 169908,
+  "relative_path": "raw/kis/kis_0115-KDIT2_4011_852_2021_3_ENB.html",
+  "title": "KIS 0115-KDIT2.4011.852.2021.3.ENB — Opodatkowanie dochodów z kwalifikowanych praw własności intelektualnej preferencyjną stawką podatkową (opodatkowanie IP-",
+  "last_modified": "2022-03-28",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "cd7167e52716fba41bb3238da1bb842cd9c948b32a84f550978f575a7cc51288",
+  "quality_flag": "accepted",
+  "notes": "phrase='zawieszenie dzialalnosci', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 76570,
+    "diacritics_ratio": 0.0405,
+    "vocab_hits": 14
+  }
+}

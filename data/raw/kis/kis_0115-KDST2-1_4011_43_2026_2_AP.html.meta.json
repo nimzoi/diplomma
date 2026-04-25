@@ -1,0 +1,31 @@
+{
+  "id": "b776ee3441e186ca",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687045",
+  "source": "kis",
+  "topic_ids": [
+    "pit_kpir"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:36Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 110832,
+  "relative_path": "raw/kis/kis_0115-KDST2-1_4011_43_2026_2_AP.html",
+  "title": "KIS 0115-KDST2-1.4011.43.2026.2.AP — Określenie właściwej stawki zryczałtowanego podatku dochodowego od przychodów ewidencjonowanych dla wykonywanych usług.",
+  "last_modified": "2026-04-14",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "b776ee3441e186ca6bc6ee61afac2502a0cc64b9ec8b2a766fdf340704de8167",
+  "quality_flag": "accepted",
+  "notes": "phrase='KPiR wydatki', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 38773,
+    "diacritics_ratio": 0.0422,
+    "vocab_hits": 12
+  }
+}

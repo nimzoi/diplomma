@@ -1,0 +1,49 @@
+{
+  "id": "ec40963e23fc607d",
+  "url": "https://www.gov.pl/web/finanse/edukacja-finansowa",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:36:36Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 31635,
+  "relative_path": "raw/govpl_html/govpl_edukacja-finansowa.html",
+  "title": "Edukacja finansowa - Ministerstwo Finansów - Portal Gov.pl",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "ssr_html",
+  "sha256": "ec40963e23fc607d4229d531c8b67daff19f6b22a3533280ba63a873f7ef27c8",
+  "quality_flag": "accepted",
+  "notes": "Rendered SSR HTML, ~6933 chars text",
+  "headers": {
+    "content-type": "text/html;charset=UTF-8",
+    "date": "Sat, 25 Apr 2026 11:40:11 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-frame-options": "SAMEORIGIN",
+    "feature-policy": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vibrate 'none'; vr 'none'",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), sync-xhr=(), usb=()",
+    "cache-control": "max-age=600",
+    "expires": "Sat, 25 Apr 2026 11:46:36 GMT",
+    "etag": "W/\"0ec40963e23fc607d4229d531c8b67daf\"",
+    "content-encoding": "gzip",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 6038,
+    "diacritics_ratio": 0.0364,
+    "vocab_hits": 5
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3b4eb80431df0ceb",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687587",
+  "source": "kis",
+  "topic_ids": [
+    "zus_preferencyjny"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:33Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 159591,
+  "relative_path": "raw/kis/kis_0113-KDIPT2-3_4011_113_2026_2_SJ.html",
+  "title": "KIS 0113-KDIPT2-3.4011.113.2026.2.SJ — Możliwość skorzystania z ulgi badawczo-rozwojowej.",
+  "last_modified": "2026-04-15",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "3b4eb80431df0cebe110f5ddf7850a8f66d131f11e70d2b81dcc39baf0d12a05",
+  "quality_flag": "accepted",
+  "notes": "phrase='ZUS preferencyjny', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 74059,
+    "diacritics_ratio": 0.0459,
+    "vocab_hits": 15
+  }
+}

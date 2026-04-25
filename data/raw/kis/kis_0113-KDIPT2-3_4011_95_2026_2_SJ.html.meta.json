@@ -1,0 +1,32 @@
+{
+  "id": "0abac2a78c982101",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687021",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ip_box",
+    "zus_preferencyjny"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:33Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 173299,
+  "relative_path": "raw/kis/kis_0113-KDIPT2-3_4011_95_2026_2_SJ.html",
+  "title": "KIS 0113-KDIPT2-3.4011.95.2026.2.SJ — Możliwość skorzystania z preferencji IP Box.",
+  "last_modified": "2026-04-10",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "0abac2a78c982101bc3a3f72b97b9c29f41569ec5f28a60a1986004cd5922570",
+  "quality_flag": "accepted",
+  "notes": "phrase='ZUS preferencyjny', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 70117,
+    "diacritics_ratio": 0.0427,
+    "vocab_hits": 15
+  }
+}

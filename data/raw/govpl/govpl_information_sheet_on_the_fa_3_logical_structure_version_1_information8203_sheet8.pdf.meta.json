@@ -1,0 +1,47 @@
+{
+  "id": "0ff98a768cce7e42",
+  "url": "https://www.gov.pl/attachment/52052b6e-b8a9-497e-a0a7-941ae77b8dc8",
+  "source": "govpl",
+  "topic_ids": [
+    "vat_ksef"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T11:30:06Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 4154959,
+  "relative_path": "raw/govpl/govpl_information_sheet_on_the_fa_3_logical_structure_version_1_information8203_sheet8.pdf",
+  "title": "Information sheet on the FA (3) logical structure version 1 Information&#8203;_sheet&#8203;_on&#8203;_the&#8203;_FA&#8203;_(3)&#8203;_logical&#8203;_structure&#8203;_version&#8203;_1.pdf 3.96MB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/kas/krajowy-system-e-faktur",
+  "discovery_source": "ssr_attachment",
+  "sha256": "0ff98a768cce7e423d13379e56d34a5a525c46080a5de33b1b3921491a061a88",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "last-modified": "Fri, 04 Jul 2025 13:50:03 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''Information_sheet_on_the_FA_%283%29_logical_structure_version_1.pdf",
+    "etag": "\"00ff98a768cce7e423d13379e56d34a5a\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "4154959",
+    "date": "Sat, 25 Apr 2026 08:47:31 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 08:43:56 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "low_polish",
+    "chars": 18725,
+    "diacritics_ratio": 0.0001,
+    "vocab_hits": 4
+  }
+}

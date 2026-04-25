@@ -1,0 +1,33 @@
+{
+  "id": "7756066764e2553a",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687443",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ip_box",
+    "zus_preferencyjny",
+    "zus_skladka_zdrowotna_jdg"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:44:06Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 225642,
+  "relative_path": "raw/kis/kis_0112-KDSL1-2_4011_150_2026_2_AP.html",
+  "title": "KIS 0112-KDSL1-2.4011.150.2026.2.AP — Preferencyjne opodatkowanie dochodów generowanych przez prawa własności intelektualnej (tzw. IP Box).",
+  "last_modified": "2026-04-20",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "7756066764e2553ae57dc4edaab5e1a9c06afe36d5eae84c340d8e0d9f3ec009",
+  "quality_flag": "accepted",
+  "notes": "phrase='skladka zdrowotna ryczalt', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 80992,
+    "diacritics_ratio": 0.0423,
+    "vocab_hits": 16
+  }
+}

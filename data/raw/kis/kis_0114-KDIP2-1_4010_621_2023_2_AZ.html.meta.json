@@ -1,0 +1,33 @@
+{
+  "id": "09991f950bcfe291",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/575942",
+  "source": "kis",
+  "topic_ids": [
+    "ksef_etapy_2026",
+    "vat_ksef",
+    "vat_zwolnienie_200k"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:44:12Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 174467,
+  "relative_path": "raw/kis/kis_0114-KDIP2-1_4010_621_2023_2_AZ.html",
+  "title": "KIS 0114-KDIP2-1.4010.621.2023.2.AZ — Art. 18d ust. 2 pkt 1 updop odnosi się do czasu pracy przeznaczonego na realizację działalności badawczo-rozwojowej, a z",
+  "last_modified": "2024-01-15",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "09991f950bcfe291a10751e13212e02692e6e1acb3a370061988b4ffdc93178f",
+  "quality_flag": "accepted",
+  "notes": "phrase='KSeF zwolnienie mikro', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 85764,
+    "diacritics_ratio": 0.0482,
+    "vocab_hits": 14
+  }
+}

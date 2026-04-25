@@ -1,0 +1,32 @@
+{
+  "id": "83bb11a83ebd1c64",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686944",
+  "source": "kis",
+  "topic_ids": [
+    "vat_rejestracja",
+    "vat_zwolnienie_200k"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:46Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 76735,
+  "relative_path": "raw/kis/kis_0112-KDIL1-1_4012_266_2026_1_AR.html",
+  "title": "KIS 0112-KDIL1-1.4012.266.2026.1.AR — Brak prawa do odliczenia od wydatków związanych z projektem.",
+  "last_modified": "2026-04-10",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "83bb11a83ebd1c64a0ce1644948904f637dbb4a59007ba1fffaa1500d36d104a",
+  "quality_flag": "accepted",
+  "notes": "phrase='VAT zwolnienie podmiotowe 200 tys', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 34580,
+    "diacritics_ratio": 0.044,
+    "vocab_hits": 13
+  }
+}

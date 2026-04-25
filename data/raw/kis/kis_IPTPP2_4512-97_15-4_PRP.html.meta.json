@@ -1,0 +1,31 @@
+{
+  "id": "538a1a48e37270f8",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/261328",
+  "source": "kis",
+  "topic_ids": [
+    "zus_maly_zus_plus"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:44:24Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 29609,
+  "relative_path": "raw/kis/kis_IPTPP2_4512-97_15-4_PRP.html",
+  "title": "KIS IPTPP2/4512-97/15-4/PRP — w zakresie braku prawa do zwrotu podatku VAT w związku z realizacją projektu",
+  "last_modified": "2015-04-22",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "538a1a48e37270f8e1d05701644584dc727460655da96171328db88084114d82",
+  "quality_flag": "accepted",
+  "notes": "phrase='Maly ZUS Plus', autor=['Dyrektor Izby Skarbowej w Łodzi']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 24526,
+    "diacritics_ratio": 0.0453,
+    "vocab_hits": 9
+  }
+}

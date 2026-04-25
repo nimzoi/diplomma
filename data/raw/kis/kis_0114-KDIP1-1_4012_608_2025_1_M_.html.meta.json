@@ -1,0 +1,31 @@
+{
+  "id": "1ecb38bbc5542965",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/659040",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_dzialalnosc_nierejestrowana"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:50Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 120999,
+  "relative_path": "raw/kis/kis_0114-KDIP1-1_4012_608_2025_1_M_.html",
+  "title": "KIS 0114-KDIP1-1.4012.608.2025.1.MŻ — W zakresie ustalenia czyje dane – Spółki Dzielonej czy Spółki Przejmującej – powinny zostać wskazane jako dane podatnika",
+  "last_modified": "2025-09-19",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "1ecb38bbc554296584a57bb5c3926473539e00193f35fa8ff53b4ab217b00d86",
+  "quality_flag": "accepted",
+  "notes": "phrase='dzialalnosc nierejestrowana', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 47129,
+    "diacritics_ratio": 0.0553,
+    "vocab_hits": 14
+  }
+}

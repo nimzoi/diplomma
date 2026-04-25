@@ -1,0 +1,31 @@
+{
+  "id": "3f37a7cf33fe1691",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687076",
+  "source": "kis",
+  "topic_ids": [
+    "zus_ulga_na_start"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:44:26Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 72517,
+  "relative_path": "raw/kis/kis_0115-KDIT2_4011_135_2026_2_DT.html",
+  "title": "KIS 0115-KDIT2.4011.135.2026.2.DT — Możliwość skorzystania z ulgi prorodzinnej w stosunku do pełnoletniego dziecka uczącego się w państwowej szkole artystyc",
+  "last_modified": "2026-04-15",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "3f37a7cf33fe1691384233240c5138c948ac98eaf3d204887952d17f87bb8058",
+  "quality_flag": "accepted",
+  "notes": "phrase='ulga na start', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 25227,
+    "diacritics_ratio": 0.0415,
+    "vocab_hits": 11
+  }
+}

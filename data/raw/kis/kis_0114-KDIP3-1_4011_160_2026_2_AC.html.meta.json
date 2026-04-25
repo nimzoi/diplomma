@@ -1,0 +1,32 @@
+{
+  "id": "fc6ed1fbb4e8725b",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687904",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ip_box",
+    "zus_preferencyjny"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:13Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 150019,
+  "relative_path": "raw/kis/kis_0114-KDIP3-1_4011_160_2026_2_AC.html",
+  "title": "KIS 0114-KDIP3-1.4011.160.2026.2.AC — Preferencyjne opodatkowanie dochodów generowanych przez prawa własności intelektualnej.",
+  "last_modified": "2026-04-13",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "fc6ed1fbb4e8725be837a8d98c96c3fbd426dea857c34e6d0ba95e906c2259e0",
+  "quality_flag": "accepted",
+  "notes": "phrase='IP Box programista', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 81173,
+    "diacritics_ratio": 0.0441,
+    "vocab_hits": 13
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c537552627991dcf",
+  "url": "https://rzecznikmsp.gov.pl/interwencje/",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:44Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 214271,
+  "relative_path": "raw/govpl_html/govpl_interwencje.html",
+  "title": "Interwencje – Rzecznik Małych i Średnich Przedsiębiorców",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "ssr_html",
+  "sha256": "c537552627991dcfbeb0cbe6cc93d399e58f08dc905b6cedb2544e384da3146d",
+  "quality_flag": "accepted",
+  "notes": "Rendered SSR HTML, ~60089 chars text",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 11:43:43 GMT",
+    "server": "Apache",
+    "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "pragma": "no-cache",
+    "link": "<https://rzecznikmsp.gov.pl/wp-json/>; rel=\"https://api.w.org/\", <https://rzecznikmsp.gov.pl/wp-json/wp/v2/pages/86013>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://rzecznikmsp.gov.pl/?p=86013>; rel=shortlink",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "content-length": "40668",
+    "content-type": "text/html; charset=UTF-8"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 15561,
+    "diacritics_ratio": 0.0253,
+    "vocab_hits": 4
+  }
+}

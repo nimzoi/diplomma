@@ -1,0 +1,31 @@
+{
+  "id": "674a90c25add3bcf",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/669514",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_dzialalnosc_nierejestrowana"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:49Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 46341,
+  "relative_path": "raw/kis/kis_0112-KDIL2-1_4011_801_2025_2_JK.html",
+  "title": "KIS 0112-KDIL2-1.4011.801.2025.2.JK — Skutki podatkowe objęcia udziałów w spółce z o. o. w zamian za aport w postaci nieruchomości gruntowej.",
+  "last_modified": "2025-11-28",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "674a90c25add3bcf45b0fef263f4ea9c05a56d13bea7e9b3daa5b9ddbd24864b",
+  "quality_flag": "accepted",
+  "notes": "phrase='dzialalnosc nierejestrowana', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 15756,
+    "diacritics_ratio": 0.0532,
+    "vocab_hits": 10
+  }
+}

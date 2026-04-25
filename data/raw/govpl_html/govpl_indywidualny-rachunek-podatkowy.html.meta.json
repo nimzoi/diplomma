@@ -1,0 +1,49 @@
+{
+  "id": "a659a57e226b95c0",
+  "url": "https://www.gov.pl/web/kas/indywidualny-rachunek-podatkowy",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:36:39Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 26977,
+  "relative_path": "raw/govpl_html/govpl_indywidualny-rachunek-podatkowy.html",
+  "title": "Indywidualny rachunek podatkowy - Ministerstwo Finansów - Krajowa Administracja Skarbowa - Portal Gov.pl",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "ssr_html",
+  "sha256": "a659a57e226b95c028df11e940e464ace0a34c175732ca8c9c69ac56e3a34e6b",
+  "quality_flag": "accepted",
+  "notes": "Rendered SSR HTML, ~6063 chars text",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 11:21:12 GMT",
+    "etag": "W/\"0a659a57e226b95c028df11e940e464ac\"",
+    "content-type": "text/html;charset=UTF-8",
+    "content-encoding": "gzip",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-frame-options": "SAMEORIGIN",
+    "feature-policy": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vibrate 'none'; vr 'none'",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), sync-xhr=(), usb=()",
+    "cache-control": "max-age=600",
+    "expires": "Sat, 25 Apr 2026 11:27:37 GMT",
+    "accept-ranges": "bytes",
+    "content-length": "7026",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 5168,
+    "diacritics_ratio": 0.0313,
+    "vocab_hits": 5
+  }
+}

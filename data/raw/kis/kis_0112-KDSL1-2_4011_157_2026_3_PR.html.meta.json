@@ -1,0 +1,31 @@
+{
+  "id": "32c6483af1371493",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/688095",
+  "source": "kis",
+  "topic_ids": [
+    "zus_preferencyjny"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:31Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 109901,
+  "relative_path": "raw/kis/kis_0112-KDSL1-2_4011_157_2026_3_PR.html",
+  "title": "KIS 0112-KDSL1-2.4011.157.2026.3.PR — Brak możliwości rozliczenia jako osoba samotnie wychowująca dzieci, w sytuacji wspólnego wychowywania z drugim rodzicem",
+  "last_modified": "2026-04-21",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "32c6483af1371493e2b6d543c273be93c2012529418904a16ca4a00d9e168f6c",
+  "quality_flag": "accepted",
+  "notes": "phrase='ZUS preferencyjny', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 36486,
+    "diacritics_ratio": 0.0402,
+    "vocab_hits": 8
+  }
+}

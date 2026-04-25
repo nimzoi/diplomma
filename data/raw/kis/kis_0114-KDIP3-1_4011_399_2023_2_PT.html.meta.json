@@ -1,0 +1,32 @@
+{
+  "id": "4cd614fc925aab71",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/548860",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_zawieszenie",
+    "zus_zawieszenie_dzialalnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:54Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 63592,
+  "relative_path": "raw/kis/kis_0114-KDIP3-1_4011_399_2023_2_PT.html",
+  "title": "KIS 0114-KDIP3-1.4011.399.2023.2.PT — PIT - w zakresie możliwości zaliczenia do kosztów uzyskania przychodów wydatków poniesionych w okresie zawieszenia dział",
+  "last_modified": "2023-06-13",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "4cd614fc925aab71a5e1f3088d46bdc2c9ee59a7cc272722912d60efb88e06a6",
+  "quality_flag": "accepted",
+  "notes": "phrase='zawieszenie dzialalnosci', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 27587,
+    "diacritics_ratio": 0.048,
+    "vocab_hits": 11
+  }
+}

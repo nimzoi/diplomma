@@ -1,0 +1,50 @@
+{
+  "id": "0fce698537da2e1a",
+  "url": "https://www.gov.pl/web/finanse/generalny-inspektor-informacji-finansowej",
+  "source": "govpl",
+  "topic_ids": [
+    "aml_giif_jdg",
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:36:03Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 37394,
+  "relative_path": "raw/govpl_html/govpl_generalny-inspektor-informacji-finansowej.html",
+  "title": "Generalny Inspektor Informacji Finansowej - Ministerstwo Finansów - Portal Gov.pl",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "ssr_html",
+  "sha256": "0fce698537da2e1a205bea21d25768d3b520a8658ea045b1209a4e489ad8c782",
+  "quality_flag": "accepted",
+  "notes": "Rendered SSR HTML, ~10415 chars text",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 10:41:57 GMT",
+    "etag": "W/\"00fce698537da2e1a205bea21d25768d3\"",
+    "content-type": "text/html;charset=UTF-8",
+    "content-encoding": "gzip",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-frame-options": "SAMEORIGIN",
+    "feature-policy": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vibrate 'none'; vr 'none'",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), sync-xhr=(), usb=()",
+    "cache-control": "max-age=600",
+    "expires": "Sat, 25 Apr 2026 10:48:22 GMT",
+    "accept-ranges": "bytes",
+    "content-length": "9603",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 9520,
+    "diacritics_ratio": 0.0317,
+    "vocab_hits": 6
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d802bb7f47c8e0d7",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/486133",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_zawieszenie",
+    "e_doreczenia_obowiazek",
+    "zus_zawieszenie_dzialalnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:56Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 118199,
+  "relative_path": "raw/kis/kis_0111-KDIB3-3_4013_26_2022_2_JS.html",
+  "title": "KIS 0111-KDIB3-3.4013.26.2022.2.JS — rozlewanie bazy do płynu do papierosów elektronicznych z zapłaconą akcyzą poza składem podatkowym, oznaczanie opakowań j",
+  "last_modified": "2022-04-08",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "d802bb7f47c8e0d786d4dba321cfeaac76e243e7aab838a8240999ffc91626bd",
+  "quality_flag": "accepted",
+  "notes": "phrase='zawieszenie dzialalnosci', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 44464,
+    "diacritics_ratio": 0.0386,
+    "vocab_hits": 10
+  }
+}

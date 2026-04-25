@@ -1,0 +1,31 @@
+{
+  "id": "7a4a5b96501aae03",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687260",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ryczalt"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:05Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 149659,
+  "relative_path": "raw/kis/kis_0112-KDSL1-2_4011_128_2026_2_PS.html",
+  "title": "KIS 0112-KDSL1-2.4011.128.2026.2.PS — Możliwość zastosowania stawki zryczałtowanego podatku dochodowego.",
+  "last_modified": "2026-04-14",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "7a4a5b96501aae032937e8165cfd6cf44b9a8149ea9aecce52641debf033dcdf",
+  "quality_flag": "accepted",
+  "notes": "phrase='ryczalt programista', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 55447,
+    "diacritics_ratio": 0.0473,
+    "vocab_hits": 13
+  }
+}

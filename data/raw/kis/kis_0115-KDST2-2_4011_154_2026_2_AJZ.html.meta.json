@@ -1,0 +1,32 @@
+{
+  "id": "1540c40132da8f7a",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687871",
+  "source": "kis",
+  "topic_ids": [
+    "pit_kpir",
+    "zus_preferencyjny"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:36Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 219127,
+  "relative_path": "raw/kis/kis_0115-KDST2-2_4011_154_2026_2_AJZ.html",
+  "title": "KIS 0115-KDST2-2.4011.154.2026.2.AJZ — Możliwość opodatkowania dochodów z kwalifikowanych praw własności intelektualnej preferencyjną stawką podatkową (opodatk",
+  "last_modified": "2026-04-15",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "1540c40132da8f7ac18546dc7579c9811c022e611924732a03a9d294fc5e6afc",
+  "quality_flag": "accepted",
+  "notes": "phrase='KPiR wydatki', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 98069,
+    "diacritics_ratio": 0.0417,
+    "vocab_hits": 16
+  }
+}

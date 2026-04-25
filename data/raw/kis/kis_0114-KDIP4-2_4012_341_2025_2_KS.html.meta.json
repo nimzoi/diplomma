@@ -1,0 +1,31 @@
+{
+  "id": "4fcff5588a13c677",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/648414",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_dzialalnosc_nierejestrowana"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:52Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 103901,
+  "relative_path": "raw/kis/kis_0114-KDIP4-2_4012_341_2025_2_KS.html",
+  "title": "KIS 0114-KDIP4-2.4012.341.2025.2.KS — Prawo do odliczenia 50% podatku VAT od samochodu osobowego zakupionego przed rozpoczęciem działalności gospodarczej z fa",
+  "last_modified": "2025-07-09",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "4fcff5588a13c6773de5875e262ef46ffaa7cd30edd4382e5a52a345ea547d40",
+  "quality_flag": "accepted",
+  "notes": "phrase='dzialalnosc nierejestrowana', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 42961,
+    "diacritics_ratio": 0.0419,
+    "vocab_hits": 11
+  }
+}

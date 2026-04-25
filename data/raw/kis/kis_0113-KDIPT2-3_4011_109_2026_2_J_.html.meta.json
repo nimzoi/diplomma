@@ -1,0 +1,32 @@
+{
+  "id": "8bec60b686b84abc",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686490",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ip_box",
+    "zus_preferencyjny"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:07Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 183973,
+  "relative_path": "raw/kis/kis_0113-KDIPT2-3_4011_109_2026_2_J_.html",
+  "title": "KIS 0113-KDIPT2-3.4011.109.2026.2.JŚ — Możliwość zastosowania preferencyjnej stawki opodatkowania (IP BOX).",
+  "last_modified": "2026-04-08",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "8bec60b686b84abc2550997e96b5acbfa738350df9bd58263c8c7eb7435f6666",
+  "quality_flag": "accepted",
+  "notes": "phrase='ryczalt programista', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 76543,
+    "diacritics_ratio": 0.0399,
+    "vocab_hits": 15
+  }
+}

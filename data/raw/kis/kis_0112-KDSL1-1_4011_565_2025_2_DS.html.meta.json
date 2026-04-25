@@ -1,0 +1,31 @@
+{
+  "id": "a153b9eb7b1eba94",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/669763",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_dzialalnosc_nierejestrowana"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:49Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 139489,
+  "relative_path": "raw/kis/kis_0112-KDSL1-1_4011_565_2025_2_DS.html",
+  "title": "KIS 0112-KDSL1-1.4011.565.2025.2.DS — Skutki podatkowe zbycia nieruchomości.",
+  "last_modified": "2025-12-05",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "a153b9eb7b1eba94df24c9084bb74ae7304a1da786c5a20d66f9062947296a5e",
+  "quality_flag": "accepted",
+  "notes": "phrase='dzialalnosc nierejestrowana', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 61218,
+    "diacritics_ratio": 0.0537,
+    "vocab_hits": 12
+  }
+}

@@ -73,6 +73,34 @@ def audit(text: str) -> dict:
     }
 
 
+def extract_text_for_audit(path: Path) -> str:
+    """Extract text by file type."""
+    suf = path.suffix.lower()
+    if suf == ".pdf":
+        return pdftotext(path)
+    if suf in (".html", ".htm"):
+        try:
+            html = path.read_text(encoding="utf-8", errors="replace")
+            no_tags = re.sub(r"<script[^>]*>.*?</script>", " ", html, flags=re.S | re.I)
+            no_tags = re.sub(r"<style[^>]*>.*?</style>", " ", no_tags, flags=re.S | re.I)
+            no_tags = re.sub(r"<[^>]+>", " ", no_tags)
+            return re.sub(r"\s+", " ", no_tags)
+        except Exception:
+            return ""
+    if suf == ".docx":
+        # Simple unzip of word/document.xml
+        try:
+            import zipfile
+            with zipfile.ZipFile(path) as z:
+                with z.open("word/document.xml") as f:
+                    xml = f.read().decode("utf-8", errors="replace")
+            no_tags = re.sub(r"<[^>]+>", " ", xml)
+            return re.sub(r"\s+", " ", no_tags)
+        except Exception:
+            return ""
+    return ""
+
+
 def main() -> None:
     rows = load_manifest()
     audit_csv = DATA_DIR / "content_audit.csv"
@@ -83,7 +111,7 @@ def main() -> None:
         if not path.exists():
             ar = {"flag": "missing", "chars": 0, "diacritics_ratio": 0.0, "vocab_hits": 0}
         else:
-            text = pdftotext(path)
+            text = extract_text_for_audit(path)
             ar = audit(text)
         flags_count[ar["flag"]] = flags_count.get(ar["flag"], 0) + 1
         out_rows.append({

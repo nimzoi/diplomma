@@ -1,0 +1,32 @@
+{
+  "id": "9a141bdd6cce28e4",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686433",
+  "source": "kis",
+  "topic_ids": [
+    "vat_rejestracja",
+    "vat_zwolnienie_200k"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:45Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 149382,
+  "relative_path": "raw/kis/kis_0114-KDIP1-1_4012_147_2026_2_M_.html",
+  "title": "KIS 0114-KDIP1-1.4012.147.2026.2.MŻ — Opodatkowanie podatkiem VAT sprzedaży niezabudowanej działki o powierzchni 0,1085 ha, która powstanie w wyniku podziału",
+  "last_modified": "2026-04-09",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "9a141bdd6cce28e41b8503e5dfca62e9862b3280f9f31f52a33d0fbfc520ffd0",
+  "quality_flag": "accepted",
+  "notes": "phrase='VAT zwolnienie podmiotowe 200 tys', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 63722,
+    "diacritics_ratio": 0.0532,
+    "vocab_hits": 13
+  }
+}

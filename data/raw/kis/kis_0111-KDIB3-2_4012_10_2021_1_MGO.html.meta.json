@@ -1,0 +1,31 @@
+{
+  "id": "34f9d43f826b59ce",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/434074",
+  "source": "kis",
+  "topic_ids": [
+    "zus_wakacje_skladkowe"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:44:18Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 138344,
+  "relative_path": "raw/kis/kis_0111-KDIB3-2_4012_10_2021_1_MGO.html",
+  "title": "KIS 0111-KDIB3-2.4012.10.2021.1.MGO — Prawo do odliczenia podatku naliczonego w związku z wydatkami poniesionymi na inwestycję od 1 stycznia 2017 r. oraz kore",
+  "last_modified": "2021-04-07",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "34f9d43f826b59ce86fb8e7b1e5a70682f971a74ae1677a3d634b86dd3829dce",
+  "quality_flag": "accepted",
+  "notes": "phrase='wakacje skladkowe', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 115213,
+    "diacritics_ratio": 0.0471,
+    "vocab_hits": 15
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "3f1c79d7e5596a13",
+  "url": "https://www.gov.pl/web/finanse/elektroniczne-ksiegi-i-ewidencje-podatkowe",
+  "source": "govpl",
+  "topic_ids": [
+    "pit_kpir"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:36:01Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 35052,
+  "relative_path": "raw/govpl_html/govpl_elektroniczne-ksiegi-i-ewidencje-podatkowe.html",
+  "title": "Elektroniczne księgi i ewidencje podatkowe - Ministerstwo Finansów - Portal Gov.pl",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "ssr_html",
+  "sha256": "3f1c79d7e5596a137526494796903e45c7751ab193431788a0ec9299adf5b031",
+  "quality_flag": "accepted",
+  "notes": "Rendered SSR HTML, ~11499 chars text",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 11:37:20 GMT",
+    "etag": "W/\"03f1c79d7e5596a137526494796903e45\"",
+    "content-type": "text/html;charset=UTF-8",
+    "content-encoding": "gzip",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-frame-options": "SAMEORIGIN",
+    "feature-policy": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vibrate 'none'; vr 'none'",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), sync-xhr=(), usb=()",
+    "cache-control": "max-age=600",
+    "expires": "Sat, 25 Apr 2026 11:43:45 GMT",
+    "accept-ranges": "bytes",
+    "content-length": "10047",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 10604,
+    "diacritics_ratio": 0.0351,
+    "vocab_hits": 7
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dea9c9c080640e3a",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687062",
+  "source": "kis",
+  "topic_ids": [
+    "pit_amortyzacja"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:28Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 68944,
+  "relative_path": "raw/kis/kis_0114-KDIP4-1_4012_108_2026_2_SK.html",
+  "title": "KIS 0114-KDIP4-1.4012.108.2026.2.SK — Opodatkowanie sprzedaży gruntu z przepompownią należącą do Gminy.",
+  "last_modified": "2026-04-14",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "dea9c9c080640e3a278d2fb79f1e065632bcca31b01773b7335a990c71a2f835",
+  "quality_flag": "accepted",
+  "notes": "phrase='amortyzacja laptop', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 35937,
+    "diacritics_ratio": 0.0427,
+    "vocab_hits": 9
+  }
+}

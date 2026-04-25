@@ -1,0 +1,32 @@
+{
+  "id": "a8b9b07935c2987f",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687460",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ip_box",
+    "zus_preferencyjny"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:10Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 183193,
+  "relative_path": "raw/kis/kis_0115-KDWT_4011_12_2026_2_AK.html",
+  "title": "KIS 0115-KDWT.4011.12.2026.2.AK — Możliwość opodatkowania dochodów z kwalifikowanych praw własności intelektualnej preferencyjną stawką podatkową (opodatk",
+  "last_modified": "2026-04-16",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "a8b9b07935c2987f5b3bf1b7263ce313623958432890c613930c1734b8a23ba2",
+  "quality_flag": "accepted",
+  "notes": "phrase='IP Box programista', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 87007,
+    "diacritics_ratio": 0.0454,
+    "vocab_hits": 12
+  }
+}

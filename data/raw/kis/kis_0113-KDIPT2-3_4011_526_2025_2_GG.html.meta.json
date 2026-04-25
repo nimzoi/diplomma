@@ -1,0 +1,32 @@
+{
+  "id": "a43debcbf47a3b73",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/653563",
+  "source": "kis",
+  "topic_ids": [
+    "b2b_test_samozatrudnienia",
+    "rodo_rekrutacja"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:44:00Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 159578,
+  "relative_path": "raw/kis/kis_0113-KDIPT2-3_4011_526_2025_2_GG.html",
+  "title": "KIS 0113-KDIPT2-3.4011.526.2025.2.GG — Obowiązki płatnika w związku z pokrywaniem kosztów zakwaterowania i podróży oddelegowanym do pracy za granicą pracowniko",
+  "last_modified": "2025-08-08",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "a43debcbf47a3b739a96a877fbfd912ac39824ff3c315577776686ffaf899bf2",
+  "quality_flag": "accepted",
+  "notes": "phrase='test samozatrudnienia b2b', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 75059,
+    "diacritics_ratio": 0.0457,
+    "vocab_hits": 15
+  }
+}

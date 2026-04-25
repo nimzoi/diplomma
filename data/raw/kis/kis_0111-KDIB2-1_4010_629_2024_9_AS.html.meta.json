@@ -1,0 +1,31 @@
+{
+  "id": "6bb220dc9e24a45d",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/688201",
+  "source": "kis",
+  "topic_ids": [
+    "zus_preferencyjny"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:30Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 231769,
+  "relative_path": "raw/kis/kis_0111-KDIB2-1_4010_629_2024_9_AS.html",
+  "title": "KIS 0111-KDIB2-1.4010.629.2024.9.AS — W zakresie obowiązku weryfikacji statusu rzeczywistego właściciela oraz prawa zastosowania zasady \"look-through\" i opoda",
+  "last_modified": "2026-04-22",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "6bb220dc9e24a45ddc4d57d37115911bb30f296ca1ad734649aad15b145dd415",
+  "quality_flag": "accepted",
+  "notes": "phrase='ZUS preferencyjny', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 103366,
+    "diacritics_ratio": 0.0459,
+    "vocab_hits": 13
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "24c17838cf541c48",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/507217",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_zawieszenie",
+    "zus_zawieszenie_dzialalnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:55Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 307612,
+  "relative_path": "raw/kis/kis_507217.html",
+  "title": "KIS — Objaśnienie podatkowe z 6 kwietnia 2018 r. - Stosowanie przepisów wprowadzonych ustawą z dnia 24 listopada 2017 r. o zmi",
+  "last_modified": "2018-04-06",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "24c17838cf541c48605d3c2f1fa25137c8fb0d5d9fcdc6afb70bfadb0dbffb4a",
+  "quality_flag": "accepted",
+  "notes": "phrase='zawieszenie dzialalnosci', autor=['Minister Finansów']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 59087,
+    "diacritics_ratio": 0.0359,
+    "vocab_hits": 11
+  }
+}

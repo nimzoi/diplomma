@@ -1,0 +1,32 @@
+{
+  "id": "54ac0c7b72a93091",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/669470",
+  "source": "kis",
+  "topic_ids": [
+    "b2b_test_samozatrudnienia",
+    "rodo_rekrutacja"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:59Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 86656,
+  "relative_path": "raw/kis/kis_0114-KDIP3-2_4011_871_2025_5_JK3.html",
+  "title": "KIS 0114-KDIP3-2.4011.871.2025.5.JK3 — Obowiązki płatnika-udostępnianie usług cateringowych.",
+  "last_modified": "2025-12-02",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "54ac0c7b72a93091f3acab7918bdde2f574514fb436f23d878556592a7ed190c",
+  "quality_flag": "accepted",
+  "notes": "phrase='test samozatrudnienia b2b', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 44385,
+    "diacritics_ratio": 0.0513,
+    "vocab_hits": 15
+  }
+}

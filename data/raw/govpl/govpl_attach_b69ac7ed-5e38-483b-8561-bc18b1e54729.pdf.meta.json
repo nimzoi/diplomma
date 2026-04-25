@@ -1,0 +1,47 @@
+{
+  "id": "c6ccca2a2b062dce",
+  "url": "https://www.gov.pl/attachment/b69ac7ed-5e38-483b-8561-bc18b1e54729",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T11:36:43Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 872259,
+  "relative_path": "raw/govpl/govpl_attach_b69ac7ed-5e38-483b-8561-bc18b1e54729.pdf",
+  "title": "attachment from https://www.gov.pl/web/kas/agenci-rozliczeniowi",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/kas/agenci-rozliczeniowi",
+  "discovery_source": "ssr_attachment",
+  "sha256": "c6ccca2a2b062dcea8251c1875346d4b809d87d08720f317baeba0686e15837a",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "last-modified": "Wed, 19 Mar 2025 08:09:26 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''Broszura_informacyjna_ITP-Z%282%29_obowi%C4%85zuj%C4%85ca_od_1_kwietnia_2025.pdf",
+    "etag": "\"0c6ccca2a2b062dcea8251c1875346d4b\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "872259",
+    "date": "Sat, 25 Apr 2026 11:40:19 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 11:36:43 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 17167,
+    "diacritics_ratio": 0.0167,
+    "vocab_hits": 6
+  }
+}

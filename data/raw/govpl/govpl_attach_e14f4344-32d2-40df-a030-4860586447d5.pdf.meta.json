@@ -1,0 +1,47 @@
+{
+  "id": "b653cb2cde636f11",
+  "url": "https://www.gov.pl/attachment/e14f4344-32d2-40df-a030-4860586447d5",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T11:36:24Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 852081,
+  "relative_path": "raw/govpl/govpl_attach_e14f4344-32d2-40df-a030-4860586447d5.pdf",
+  "title": "attachment from https://www.gov.pl/web/finanse/akty-prawne-budzet-panstwa",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/finanse/akty-prawne-budzet-panstwa",
+  "discovery_source": "ssr_attachment",
+  "sha256": "b653cb2cde636f11bb6072538b4329df45884f453f078a0ad748e45f53e5f7ce",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "last-modified": "Mon, 07 Jun 2021 07:23:06 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''20210607_Rozporz%C4%85dzenie_Ministra_Finans%C3%B3w%2C_Funduszy_i_Polityki_Regionalnej_z_dnia_31_maja_2021_r_zmieniaj%C4%85ce_rozporz%C4%85dzenie_w_sprawie_sprawozdawczo%C5%9Bci_bud%C5%BCetowej_w_uk%C5%82adzie_zadaniowym.pdf",
+    "etag": "\"0b653cb2cde636f11bb6072538b4329df\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "852081",
+    "date": "Sat, 25 Apr 2026 11:39:58 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 11:36:24 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 2854,
+    "diacritics_ratio": 0.0361,
+    "vocab_hits": 3
+  }
+}

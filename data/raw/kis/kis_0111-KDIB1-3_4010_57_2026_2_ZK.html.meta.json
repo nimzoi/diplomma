@@ -1,0 +1,31 @@
+{
+  "id": "0a7ac483c1cc6871",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687406",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ip_box"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:15Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 249898,
+  "relative_path": "raw/kis/kis_0111-KDIB1-3_4010_57_2026_2_ZK.html",
+  "title": "KIS 0111-KDIB1-3.4010.57.2026.2.ZK — Ulga na działalność badawczo-rozwojową.",
+  "last_modified": "2026-04-16",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "0a7ac483c1cc6871adc1c311b25bb73c6cf0857abe69fdd9d22375434e7a80b9",
+  "quality_flag": "accepted",
+  "notes": "phrase='IP Box programista', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 114068,
+    "diacritics_ratio": 0.0448,
+    "vocab_hits": 13
+  }
+}

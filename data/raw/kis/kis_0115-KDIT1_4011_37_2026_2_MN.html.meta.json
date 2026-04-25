@@ -1,0 +1,31 @@
+{
+  "id": "542c9d802e8607a1",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686435",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ryczalt"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:07Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 118595,
+  "relative_path": "raw/kis/kis_0115-KDIT1_4011_37_2026_2_MN.html",
+  "title": "KIS 0115-KDIT1.4011.37.2026.2.MN — Skutki podatkowe uczestnictwa w programie o charakterze motywacyjnym.",
+  "last_modified": "2026-04-10",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "542c9d802e8607a11f7e2ff651d7fbaca7e4ae5d5a816d677577c39c4c5c877f",
+  "quality_flag": "accepted",
+  "notes": "phrase='ryczalt programista', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 51364,
+    "diacritics_ratio": 0.0423,
+    "vocab_hits": 13
+  }
+}

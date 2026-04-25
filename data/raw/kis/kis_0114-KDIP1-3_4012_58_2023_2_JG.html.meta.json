@@ -1,0 +1,32 @@
+{
+  "id": "3e837e670a07579f",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/533249",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_zawieszenie",
+    "zus_zawieszenie_dzialalnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:55Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 94490,
+  "relative_path": "raw/kis/kis_0114-KDIP1-3_4012_58_2023_2_JG.html",
+  "title": "KIS 0114-KDIP1-3.4012.58.2023.2.JG — Opodatkowanie podatkiem VAT sprzedaży nieruchomości w trybie licytacji komorniczej.",
+  "last_modified": "2023-03-02",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "3e837e670a07579f139c72f6b4fe016a0d0b2ac1b944ff52404c66524adca019",
+  "quality_flag": "accepted",
+  "notes": "phrase='zawieszenie dzialalnosci', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 43299,
+    "diacritics_ratio": 0.0477,
+    "vocab_hits": 12
+  }
+}

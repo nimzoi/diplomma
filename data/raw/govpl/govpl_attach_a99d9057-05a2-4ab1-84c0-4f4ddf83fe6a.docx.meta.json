@@ -1,0 +1,47 @@
+{
+  "id": "a8ec6116b1179c13",
+  "url": "https://www.gov.pl/attachment/a99d9057-05a2-4ab1-84c0-4f4ddf83fe6a",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "docx",
+  "fetched_at": "2026-04-25T11:36:22Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 715641,
+  "relative_path": "raw/govpl/govpl_attach_a99d9057-05a2-4ab1-84c0-4f4ddf83fe6a.docx",
+  "title": "attachment from https://www.gov.pl/web/finanse/akty-prawne-budzet-panstwa",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/finanse/akty-prawne-budzet-panstwa",
+  "discovery_source": "ssr_attachment",
+  "sha256": "a8ec6116b1179c13ac3dc513f438d8054c61aadf7e2fb6f1a5624b81ff48225e",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "last-modified": "Fri, 02 Aug 2019 19:09:18 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''Rozporz%C4%85dzenie_z_9_01_2018_%28Dz_U_poz_109%29.zip",
+    "etag": "\"0a8ec6116b1179c13ac3dc513f438d805\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/zip",
+    "content-length": "715641",
+    "date": "Sat, 25 Apr 2026 11:39:57 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 11:36:22 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "unreadable",
+    "chars": 0,
+    "diacritics_ratio": 0.0,
+    "vocab_hits": 0
+  }
+}

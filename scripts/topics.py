@@ -72,6 +72,24 @@ TOPICS: list[tuple[str, str, list[str]]] = [
     ("rodo_monitoring", "rodo", ["monitoring pracownik", "art. 22^2 kodeks", "art. 222 kodeks", "monitoring", "monitoringu", "transmis", "kamery"]),
     ("rodo_naruszenie", "rodo", ["naruszenie ochrony danych", "zgloszenie do uodo", "zgłoszenie do uodo", "72h", "72 godzin"]),
     ("rodo_rekrutacja", "rodo", ["rodo rekrutacj", "klauzula cv", "rekrutacj", "kandydat", "zatrudnieni"]),
+
+    # 2025-2026 hot topics (per second agent's taxonomy)
+    ("b2b_test_samozatrudnienia", "hot2025", ["test samozatrudn", "samozatrudn", "b2b vs uop", "art. 5b", "fikcyjna jdg", "reklasyfikacja umowy", "stosunek pracy ukryty", "podporzadkowanie pracownicze", "podporządkowanie pracownicze", "ukryte zatrudnienie", "kontrakt b2b", "umowa b2b"]),
+    ("b2b_zmiana_na_uop", "hot2025", ["przejscie na uop", "przejście na uop", "wymuszenie uop", "obowiazek uop", "konwersja b2b uop", "przeksztalcenie kontraktu b2b w uop", "art. 22 kp", "domniemanie stosunku pracy", "presja pip"]),
+    ("polski_lad_skladka_zdrowotna_2026", "hot2025", ["polski lad", "polski ład", "skladka zdrowotna 2026", "skladka zdrowotna 2025", "ryczałtowa skladka zdrowotna", "reforma skladki"]),
+    ("ksef_etapy_2026", "hot2025", ["ksef fa(3)", "ksef fa(2)", "ksef etap", "ksef obowiazek", "ksef zwolnieni", "ksef mikro", "faktury konsumenckie ksef"]),
+    ("e_doreczenia_obowiazek", "hot2025", ["e-doreczeni", "e-doręczeni", "ade", "adres do doreczen elektroniczn"]),
+    ("dac7_platformy", "hot2025", ["dac7", "dac 7", "platformy cyfrowe", "allegro vinted booking raportowanie"]),
+    ("jpk_cit_jpk_kr", "hot2025", ["jpk_cit", "jpk_kr_pd", "jpk_kr", "elektroniczne ksiegi cit"]),
+    ("ulga_ekspansja_prototyp_robotyzacja", "hot2025", ["ulga na ekspansj", "ulga na prototyp", "ulga na robotyzacj", "ulga b+r"]),
+    ("estonski_cit", "hot2025", ["estonski cit", "estoński cit", "ryczalt od dochodow spolek"]),
+    ("pomoc_de_minimis", "hot2025", ["de minimis", "300 tys eur", "sudop", "pomoc publiczna kumulacj"]),
+    ("aml_giif_jdg", "hot2025", ["aml", "giif", "generalny inspektor informacji finans", "obowiazki przeciwdzialan"]),
+    ("kasa_fiskalna_online", "hot2025", ["kasa fiskaln", "kasy fiskalne", "kasy rejestrujac", "kasa online", "kasa wirtualn"]),
+    ("zatrudnianie_cudzoziemcow", "hot2025", ["cudzoziemiec", "cudzoziemc", "ukrai", "oswiadczenie powierzeni", "powiadomienie pup"]),
+    ("crbr_beneficjent_rzeczywisty", "hot2025", ["crbr", "centralny rejestr beneficjent", "beneficjent rzeczywisty"]),
+    ("przeksztalcenie_jdg_spzoo", "hot2025", ["przeksztalcenie jdg", "przeksztalcenie spolki", "jdg w spolke", "jdg na sp. z o.o"]),
+    ("faktoring_cesja_wierzytelnosci", "hot2025", ["faktoring", "cesja wierzytelnosci", "cesja wierzytelności", "art. 509 kc", "split payment"]),
 ]
 
 

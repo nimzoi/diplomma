@@ -1,0 +1,32 @@
+{
+  "id": "9e2498e7cf38d3c0",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687855",
+  "source": "kis",
+  "topic_ids": [
+    "pit_amortyzacja",
+    "vat_zwolnienie_200k"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:20Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 111475,
+  "relative_path": "raw/kis/kis_0113-KDIPT2-3_4011_125_2026_2_PR.html",
+  "title": "KIS 0113-KDIPT2-3.4011.125.2026.2.PR — Możliwość zastosowania zwolnienia przedmiotowego dotyczącego ulgi na powrót.",
+  "last_modified": "2026-04-17",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "9e2498e7cf38d3c019fa104dbaf0e712d3e824e1fcc99fed1c84f687235d4faa",
+  "quality_flag": "accepted",
+  "notes": "phrase='KUP samochod', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 39571,
+    "diacritics_ratio": 0.0406,
+    "vocab_hits": 11
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "e03e86fbca783686",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/682838",
+  "source": "kis",
+  "topic_ids": [
+    "zus_wakacje_skladkowe"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:44:19Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 501389,
+  "relative_path": "raw/kis/kis_0114-KDIP4-1_4012_710_2025_2_SK.html",
+  "title": "KIS 0114-KDIP4-1.4012.710.2025.2.SK — Prewspółczynnik w oparciu o liczbę wejść na Pływalnię.",
+  "last_modified": "2026-03-12",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "e03e86fbca78368674760dbe9bed90ef92515adb07c31d012b943210fbc75320",
+  "quality_flag": "accepted",
+  "notes": "phrase='wakacje skladkowe', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 189606,
+    "diacritics_ratio": 0.0518,
+    "vocab_hits": 14
+  }
+}

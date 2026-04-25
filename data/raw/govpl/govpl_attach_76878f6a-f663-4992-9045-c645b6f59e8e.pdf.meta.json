@@ -1,0 +1,47 @@
+{
+  "id": "cb2ab0e01202cc0a",
+  "url": "https://www.gov.pl/attachment/76878f6a-f663-4992-9045-c645b6f59e8e",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T11:36:10Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 390327,
+  "relative_path": "raw/govpl/govpl_attach_76878f6a-f663-4992-9045-c645b6f59e8e.pdf",
+  "title": "attachment from https://www.gov.pl/web/finanse/akty-prawne-budzet-panstwa",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/finanse/akty-prawne-budzet-panstwa",
+  "discovery_source": "ssr_attachment",
+  "sha256": "cb2ab0e01202cc0acc5afd9c386a2f1eb3b0a34a384dd281ff8a46ce4b1a5cb1",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "last-modified": "Wed, 24 Feb 2021 12:20:30 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''20210224_rozpMF_rachunki_bankowe_19_stycznia_2021.pdf",
+    "etag": "\"0cb2ab0e01202cc0acc5afd9c386a2f1e\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "390327",
+    "date": "Sat, 25 Apr 2026 11:39:45 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 11:36:10 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 36016,
+    "diacritics_ratio": 0.0496,
+    "vocab_hits": 10
+  }
+}

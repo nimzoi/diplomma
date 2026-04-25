@@ -1,0 +1,47 @@
+{
+  "id": "47dd8678a980ca20",
+  "url": "https://www.gov.pl/attachment/fe8aebe8-5921-43b1-bebc-bff0892ce487",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T11:37:06Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 576833,
+  "relative_path": "raw/govpl/govpl_attach_fe8aebe8-5921-43b1-bebc-bff0892ce487.pdf",
+  "title": "attachment from https://www.gov.pl/web/kas/dostawcy-uslug-platniczych",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/kas/dostawcy-uslug-platniczych",
+  "discovery_source": "ssr_attachment",
+  "sha256": "47dd8678a980ca203b6f3b510b0059cbd1e43f3834f89fc801e3515bf59be970",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "last-modified": "Wed, 08 Oct 2025 13:13:08 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''Specyfikacja_Interfejs%C3%B3w_us%C5%82ug_JPK_wersja_41.pdf",
+    "etag": "\"047dd8678a980ca203b6f3b510b0059cb\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "576833",
+    "date": "Sat, 25 Apr 2026 11:40:41 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 11:37:06 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 18872,
+    "diacritics_ratio": 0.0231,
+    "vocab_hits": 5
+  }
+}

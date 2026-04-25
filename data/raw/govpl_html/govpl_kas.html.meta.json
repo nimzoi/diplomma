@@ -1,0 +1,49 @@
+{
+  "id": "a35532a0a1c91dab",
+  "url": "https://www.gov.pl/web/kas",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:36:37Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 44182,
+  "relative_path": "raw/govpl_html/govpl_kas.html",
+  "title": "Krajowa Administracja Skarbowa - Portal gov.pl",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "ssr_html",
+  "sha256": "a35532a0a1c91dabf5b272874a605b99f106ac774c6eba376f74492fd90fe5f5",
+  "quality_flag": "accepted",
+  "notes": "Rendered SSR HTML, ~6595 chars text",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 11:32:57 GMT",
+    "etag": "W/\"0a35532a0a1c91dabf5b272874a605b99\"",
+    "content-type": "text/html;charset=UTF-8",
+    "content-encoding": "gzip",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-frame-options": "SAMEORIGIN",
+    "feature-policy": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vibrate 'none'; vr 'none'",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), sync-xhr=(), usb=()",
+    "cache-control": "max-age=600",
+    "expires": "Sat, 25 Apr 2026 11:39:22 GMT",
+    "accept-ranges": "bytes",
+    "content-length": "10024",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 5700,
+    "diacritics_ratio": 0.0316,
+    "vocab_hits": 6
+  }
+}

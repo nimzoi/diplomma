@@ -1,0 +1,31 @@
+{
+  "id": "3e22d981aeea1ce2",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/654679",
+  "source": "kis",
+  "topic_ids": [
+    "ceidg_dzialalnosc_nierejestrowana"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:51Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 188422,
+  "relative_path": "raw/kis/kis_0114-KDIP1-1_4012_526_2025_4_ESZ.html",
+  "title": "KIS 0114-KDIP1-1.4012.526.2025.4.ESZ — Uznanie, że aport oddziału będzie transakcja niepodlegającą przepisom ustawy VAT zgodnie z art. 6 pkt 1.",
+  "last_modified": "2025-08-20",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "3e22d981aeea1ce21f4238fd541b0f5bfddeb045c296038c6829b82f535d40f6",
+  "quality_flag": "accepted",
+  "notes": "phrase='dzialalnosc nierejestrowana', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 75280,
+    "diacritics_ratio": 0.052,
+    "vocab_hits": 15
+  }
+}

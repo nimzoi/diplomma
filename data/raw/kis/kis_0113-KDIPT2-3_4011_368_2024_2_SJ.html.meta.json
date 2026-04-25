@@ -1,0 +1,32 @@
+{
+  "id": "d905d0c5a9ee1605",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/597506",
+  "source": "kis",
+  "topic_ids": [
+    "b2b_test_samozatrudnienia",
+    "rodo_rekrutacja"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:44:01Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 118928,
+  "relative_path": "raw/kis/kis_0113-KDIPT2-3_4011_368_2024_2_SJ.html",
+  "title": "KIS 0113-KDIPT2-3.4011.368.2024.2.SJ — Obowiązki płatnika w związku z zapewnieniem bezpłatnie swoim pracownikom, którzy czasowo świadczą pracę w określonym mie",
+  "last_modified": "2024-07-26",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "d905d0c5a9ee16051495666070ea7724f3a00cbef8fe529911b90e5e81c6fa6a",
+  "quality_flag": "accepted",
+  "notes": "phrase='test samozatrudnienia b2b', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 60456,
+    "diacritics_ratio": 0.0438,
+    "vocab_hits": 13
+  }
+}

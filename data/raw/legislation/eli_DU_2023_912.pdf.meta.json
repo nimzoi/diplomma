@@ -3,6 +3,7 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/912/text.pdf",
   "source": "eli",
   "topic_ids": [
+    "e_doreczenia_obowiazek",
     "kp_swiadectwo_pracy"
   ],
   "layer": "L1",

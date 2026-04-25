@@ -1,0 +1,47 @@
+{
+  "id": "9ea32323b400df62",
+  "url": "https://www.gov.pl/attachment/2333f486-2852-4634-b943-9314db1ca5ef",
+  "source": "govpl",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T11:36:52Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 723728,
+  "relative_path": "raw/govpl/govpl_attach_2333f486-2852-4634-b943-9314db1ca5ef.pdf",
+  "title": "attachment from https://www.gov.pl/web/kas/agenci-rozliczeniowi",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/kas/agenci-rozliczeniowi",
+  "discovery_source": "ssr_attachment",
+  "sha256": "9ea32323b400df623bf582427388e8b45c2e8c92409a15c2d5becefee192ad23",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "last-modified": "Mon, 05 Sep 2022 09:06:56 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''Schemat_ITP%281%29_v1-0.pdf",
+    "etag": "\"09ea32323b400df623bf582427388e8b4\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "723728",
+    "date": "Sat, 25 Apr 2026 11:40:27 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 11:36:52 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 6461,
+    "diacritics_ratio": 0.011,
+    "vocab_hits": 2
+  }
+}

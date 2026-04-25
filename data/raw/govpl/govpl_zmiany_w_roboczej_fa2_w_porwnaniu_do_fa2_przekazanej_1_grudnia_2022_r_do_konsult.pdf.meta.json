@@ -1,0 +1,47 @@
+{
+  "id": "37b4743996ca1685",
+  "url": "https://www.gov.pl/attachment/0145c4b6-32db-4323-abf1-5eb7d90c0e6f",
+  "source": "govpl",
+  "topic_ids": [
+    "vat_ksef"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T11:30:10Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 548422,
+  "relative_path": "raw/govpl/govpl_zmiany_w_roboczej_fa2_w_porwnaniu_do_fa2_przekazanej_1_grudnia_2022_r_do_konsult.pdf",
+  "title": "Zmiany w roboczej FA(2) w porównaniu do FA(2) przekazanej 1 grudnia 2022 r. do konsultacji. Zmiany&#8203;_w&#8203;_roboczej&#8203;_FA(2)&#8203;_w&#8203;_porównaniu&#8203;_do&#8203;_FA(2)&#8203;_przekazanej&#8203;_1&#8203;_grudnia&#8203;_2022&#8203;_r&#8203;_do&#8203;_konsultacji.pdf 0.52MB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/kas/krajowy-system-e-faktur",
+  "discovery_source": "ssr_attachment",
+  "sha256": "37b4743996ca1685e7c1ab9cedf220453ae3201aed0210f2f6df8805a75bfac4",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "last-modified": "Tue, 23 May 2023 11:42:51 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''Zmiany_w_roboczej_FA%282%29_w_por%C3%B3wnaniu_do_FA%282%29_przekazanej_1_grudnia_2022_r_do_konsultacji.pdf",
+    "etag": "\"037b4743996ca1685e7c1ab9cedf22045\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "548422",
+    "date": "Sat, 25 Apr 2026 11:33:45 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 11:30:10 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 34105,
+    "diacritics_ratio": 0.0111,
+    "vocab_hits": 7
+  }
+}

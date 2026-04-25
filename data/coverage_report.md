@@ -6,95 +6,129 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 
 | Kryterium | Wartosc |
 |---|---|
-| Liczba dokumentow | 203 |
-| Pokrycie tematyczne (51) | 51/51 |
+| Liczba dokumentow | 322 |
+| Pokrycie tematyczne (51) | 56/51 |
 | Warstwa L1 | 42 |
-| Warstwa L2 | 161 |
-| Stosunek .gov.pl | 203/203 |
-| Total MB on disk | 337.2 |
+| Warstwa L2 | 197 |
+| Stosunek .gov.pl | 322/322 |
+| Total MB on disk | 436.3 |
 
 ## By source
 
 | Source | Count |
 |---|---|
-| pip | 67 |
-| podatki | 64 |
+| govpl | 96 |
+| kis | 83 |
+| pip | 45 |
 | eli | 37 |
+| podatki | 28 |
 | zus | 19 |
 | uodo | 8 |
 | eurlex | 5 |
-| biznes_gov | 3 |
+| biznes_gov | 1 |
 
 ## By layer
 
 | Layer | Count |
 |---|---|
-| L2 | 161 |
+| L2 | 197 |
+| L3 | 83 |
 | L1 | 42 |
 
 ## By format
 
 | Format | Count |
 |---|---|
-| pdf | 203 |
+| pdf | 199 |
+| html | 105 |
+| docx | 18 |
 
 ## Topic coverage (51 topics)
 
 | topic_id | group | docs |
 |---|---|---|
-| zus_ulga_na_start | zus | 2 |
-| zus_preferencyjny | zus | 1 |
-| zus_maly_zus_plus | zus | 1 |
-| zus_wakacje_skladkowe | zus | 1 |
-| zus_skladka_zdrowotna_jdg | zus | 13 |
+| zus_ulga_na_start | zus | 6 |
+| zus_preferencyjny | zus | 22 |
+| zus_maly_zus_plus | zus | 7 |
+| zus_wakacje_skladkowe | zus | 7 |
+| zus_skladka_zdrowotna_jdg | zus | 18 |
 | zus_zua_zwua_dra | zus | 2 |
 | zus_zasilek_chorobowy_jdg | zus | 3 |
 | zus_podstawa_wymiaru | zus | 5 |
-| zus_zawieszenie_dzialalnosci | zus | 2 |
+| zus_zawieszenie_dzialalnosci | zus | 7 |
 | zus_emerytura_jdg | zus | 6 |
-| pit_skala | pit | 48 |
+| pit_skala | pit | 16 |
 | pit_liniowy | pit | 3 |
-| pit_ryczalt | pit | 4 |
-| pit_stawki_ryczalt_pkd | pit | 1 |
-| pit_karta_podatkowa | pit | 2 |
-| pit_ip_box | pit | 2 |
+| pit_ryczalt | pit | 8 |
+| pit_stawki_ryczalt_pkd | pit | 2 |
+| pit_karta_podatkowa | pit | 1 |
+| pit_ip_box | pit | 17 |
 | pit_kup | pit | 1 |
-| pit_amortyzacja | pit | 2 |
-| pit_kpir | pit | 5 |
+| pit_amortyzacja | pit | 12 |
+| pit_kpir | pit | 11 |
 | pit_ewidencja_ryczalt | pit | 2 |
-| pit_roczny | pit | 15 |
-| vat_rejestracja | vat | 3 |
-| vat_zwolnienie_200k | vat | 3 |
+| pit_roczny | pit | 10 |
+| vat_rejestracja | vat | 7 |
+| vat_zwolnienie_200k | vat | 13 |
 | vat_jpk | vat | 10 |
-| vat_ksef | vat | 3 |
+| vat_ksef | vat | 18 |
 | vat_stawki | vat | 13 |
 | vat_ue | vat | 2 |
 | vat_marza | vat | 2 |
 | vat_biala_lista | vat | 1 |
-| ceidg_rejestracja | ceidg | 9 |
+| ceidg_rejestracja | ceidg | 89 |
 | ceidg_pkd | ceidg | 2 |
-| ceidg_zawieszenie | ceidg | 3 |
+| ceidg_zawieszenie | ceidg | 8 |
 | ceidg_wznowienie | ceidg | 4 |
 | ceidg_zamkniecie | ceidg | 5 |
 | ceidg_zmiana_wpisu | ceidg | 6 |
-| ceidg_dzialalnosc_nierejestrowana | ceidg | 3 |
-| kp_umowa_o_prace | kp | 15 |
+| ceidg_dzialalnosc_nierejestrowana | ceidg | 9 |
+| kp_umowa_o_prace | kp | 11 |
 | kp_umowa_zlecenie | kp | 3 |
 | kp_umowa_o_dzielo | kp | 3 |
-| kp_czas_pracy | kp | 5 |
-| kp_urlop | kp | 22 |
+| kp_czas_pracy | kp | 4 |
+| kp_urlop | kp | 13 |
 | kp_wypowiedzenie | kp | 4 |
 | kp_swiadectwo_pracy | kp | 2 |
-| kp_bhp_biuro | kp | 33 |
+| kp_bhp_biuro | kp | 22 |
 | rodo_mala_firma | rodo | 10 |
 | rodo_rejestr_czynnosci | rodo | 1 |
 | rodo_iod | rodo | 2 |
 | rodo_klauzula_informacyjna | rodo | 1 |
 | rodo_monitoring | rodo | 2 |
 | rodo_naruszenie | rodo | 2 |
-| rodo_rekrutacja | rodo | 1 |
+| rodo_rekrutacja | rodo | 7 |
+| b2b_test_samozatrudnienia | hot2025 | 6 |
+| b2b_zmiana_na_uop | hot2025 | 0 |
+| polski_lad_skladka_zdrowotna_2026 | hot2025 | 1 |
+| ksef_etapy_2026 | hot2025 | 3 |
+| e_doreczenia_obowiazek | hot2025 | 11 |
+| dac7_platformy | hot2025 | 0 |
+| jpk_cit_jpk_kr | hot2025 | 0 |
+| ulga_ekspansja_prototyp_robotyzacja | hot2025 | 0 |
+| estonski_cit | hot2025 | 0 |
+| pomoc_de_minimis | hot2025 | 0 |
+| aml_giif_jdg | hot2025 | 1 |
+| kasa_fiskalna_online | hot2025 | 0 |
+| zatrudnianie_cudzoziemcow | hot2025 | 0 |
+| crbr_beneficjent_rzeczywisty | hot2025 | 0 |
+| przeksztalcenie_jdg_spzoo | hot2025 | 0 |
+| faktoring_cesja_wierzytelnosci | hot2025 | 0 |
 
-Covered: **51/51**.  Gaps: **0**.
+Covered: **56/51**.  Gaps: **11**.
+
+### Uncovered
+- b2b_zmiana_na_uop
+- dac7_platformy
+- jpk_cit_jpk_kr
+- ulga_ekspansja_prototyp_robotyzacja
+- estonski_cit
+- pomoc_de_minimis
+- kasa_fiskalna_online
+- zatrudnianie_cudzoziemcow
+- crbr_beneficjent_rzeczywisty
+- przeksztalcenie_jdg_spzoo
+- faktoring_cesja_wierzytelnosci
 
 ## Biggest files
 
@@ -105,11 +139,11 @@ Covered: **51/51**.  Gaps: **0**.
 | 26.1 | eli | `raw/legislation/eli_DU_1998_887.pdf` |
 | 14.4 | pip | `raw/pip/PORADNIK-DOTUBEZPIECZENIASAZ-1.pdf` |
 | 13.8 | eli | `raw/legislation/eli_DU_1974_141.pdf` |
+| 13.4 | govpl | `raw/govpl/govpl_attach_8f28b0dc-b1fc-44ab-ba53-1d7118093342.pdf` |
+| 9.7 | govpl | `raw/govpl/govpl_attach_d7fe25d6-03bb-4a86-80d7-551cf8d7bdd9.pdf` |
 | 7.8 | eli | `raw/legislation/eli_DU_1991_350.pdf` |
 | 7.0 | uodo | `raw/uodo/uodo_5687_poradnik_dotycz_cy_narusze_ochrony_danych_osobowych_plik_pdf.pdf` |
 | 6.1 | pip | `raw/pip/bezpiecznie-i-zgodnie-z-prawem-lista-kontrolna-z-komentarzemp35223.pdf` |
-| 5.6 | pip | `raw/pip/uzytkowanie-maszyn-minimalne-wymagania-dotyczne-bhp.pdf` |
-| 5.6 | pip | `raw/pip/bhp-w-biurze.pdf` |
 
 ## Quarantine (rejected files)
 

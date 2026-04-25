@@ -1,0 +1,31 @@
+{
+  "id": "cda27ce7319bc0f4",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686805",
+  "source": "kis",
+  "topic_ids": [
+    "pit_stawki_ryczalt_pkd"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T11:43:06Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 87277,
+  "relative_path": "raw/kis/kis_0112-KDIL2-2_4011_177_2026_2_AG.html",
+  "title": "KIS 0112-KDIL2-2.4011.177.2026.2.AG — Ustalenie stawki ryczałtu PKWiU 62.01.12.0",
+  "last_modified": "2026-04-09",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api",
+  "sha256": "cda27ce7319bc0f4b612b637d3486848fe01647b748ec1184e52a9a35090a098",
+  "quality_flag": "accepted",
+  "notes": "phrase='ryczalt programista', autor=['Dyrektor Krajowej Informacji Skarbowej']",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 32258,
+    "diacritics_ratio": 0.0417,
+    "vocab_hits": 13
+  }
+}
