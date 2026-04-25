@@ -1,0 +1,37 @@
+{
+  "id": "a2ac93678dd8991e",
+  "url": "https://www.zus.pl/documents/10182/44493/nianie+kompendium.pdf/cd66ef6e-ece8-416e-8362-10154e5b20cc",
+  "source": "zus",
+  "topic_ids": [
+    "zus_skladka_zdrowotna_jdg"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:56:26Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 560053,
+  "relative_path": "raw/zus/cd66ef6e-ece8-416e-8362-10154e5b20cc.pdf",
+  "title": "Ubezpieczenie niań – poradnik (pdf)",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy",
+  "discovery_source": "bfs",
+  "sha256": "a2ac93678dd8991e014ce2317d311d5c9ae148aefce501e132e1628219cd79a6",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:56:24 GMT",
+    "content-type": "application/pdf",
+    "content-length": "560053",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1",
+    "set-cookie": "JSESSIONID=32EF4B824F7FF7D4F5A580D19CE9B0EF; Path=/; HttpOnly, TS0187939b=01238e5c9bc1d3ef2a7225108ac64fac20f9b882f2148912973514de9213ada1407e1cf223d6cc643a4cb36522b25f13e5e2fa83fc; Path=/; Domain=.www.zus.pl",
+    "last-modified": "Wed, 10 Jan 2024 09:11:37 GMT",
+    "cache-control": "private,private, no-cache, no-store, must-revalidate",
+    "content-disposition": "inline; filename=\"nianie kompendium.pdf\"",
+    "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  }
+}

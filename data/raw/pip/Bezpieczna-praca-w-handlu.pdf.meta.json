@@ -1,0 +1,39 @@
+{
+  "id": "d9d61020eb916be9",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/526/Bezpieczna-praca-w-handlu.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:58:45Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 749268,
+  "relative_path": "raw/pip/Bezpieczna-praca-w-handlu.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Bezpieczna praca w handlu",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36",
+  "discovery_source": "paginacja",
+  "sha256": "d9d61020eb916be902bf0bc1530c968a1eeedb4400057b0002d54d74448b5f50",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"Bezpieczna praca w handlu.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:58:44 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

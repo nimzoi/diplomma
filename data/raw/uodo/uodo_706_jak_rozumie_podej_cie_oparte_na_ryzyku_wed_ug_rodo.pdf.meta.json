@@ -1,0 +1,36 @@
+{
+  "id": "ff9b376abdecc569",
+  "url": "https://uodo.gov.pl/pl/file/706",
+  "source": "uodo",
+  "topic_ids": [
+    "rodo_mala_firma"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:00:04Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1424046,
+  "relative_path": "raw/uodo/uodo_706_jak_rozumie_podej_cie_oparte_na_ryzyku_wed_ug_rodo.pdf",
+  "title": "Jak rozumieć podejście oparte na ryzyku według RODO?",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://uodo.gov.pl/pl/383/208",
+  "discovery_source": "article_downloads",
+  "sha256": "ff9b376abdecc569b7c07ee7543087d459d2028569d1347775f57abdf319d3c9",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "server": "nginx/1.21.6",
+    "date": "Sat, 25 Apr 2026 10:00:03 GMT",
+    "content-type": "application/pdf",
+    "content-length": "1424046",
+    "x-powered-by": "PHP/8.0.30",
+    "cache-control": "max-age=0, must-revalidate, no-cache, no-store, private",
+    "content-disposition": "inline; filename=\"+Jak+rozumieC487+podejC59Bcie+oparte+na+ryzyku+wedC582ug+RODO3F.pdf\"; filename*=utf-8''%20Jak%20rozumie%C4%87%20podej%C5%9Bcie%20oparte%20na%20ryzyku%20wed%C5%82ug%20RODO%3F.pdf",
+    "pragma": "no-cache",
+    "expires": "Sat, 25 Apr 2026 10:00:03 GMT",
+    "strict-transport-security": "max-age=31536000"
+  }
+}

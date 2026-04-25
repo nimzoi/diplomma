@@ -1,0 +1,36 @@
+{
+  "id": "6a0fbfa3f0c698d2",
+  "url": "https://uodo.gov.pl/pl/file/708",
+  "source": "uodo",
+  "topic_ids": [
+    "rodo_mala_firma"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:00:02Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1090138,
+  "relative_path": "raw/uodo/uodo_708_wskaz_wki_i_wyja_nienia_dotycz_ce_obowi_zku_z_art_30_ust_1_i.pdf",
+  "title": "Wskazówki i wyjaśnienia dotyczące obowiązku z art. 30 ust. 1 i 2 RODO",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://uodo.gov.pl/pl/383/214",
+  "discovery_source": "article_downloads",
+  "sha256": "6a0fbfa3f0c698d2c327b265158ae3b8caad20c2730df6c9aa95b4b944f973dc",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "server": "nginx/1.21.6",
+    "date": "Sat, 25 Apr 2026 10:00:02 GMT",
+    "content-type": "application/pdf",
+    "content-length": "1090138",
+    "x-powered-by": "PHP/8.0.30",
+    "cache-control": "max-age=0, must-revalidate, no-cache, no-store, private",
+    "content-disposition": "inline; filename=\"+WskazC3B3wki+i+wyjaC59Bnienia+dotyczC485ce+obowiC485zku+z+art.+30+ust.+1+i+2+RODO.pdf\"; filename*=utf-8''%20Wskaz%C3%B3wki%20i%20wyja%C5%9Bnienia%20dotycz%C4%85ce%20obowi%C4%85zku%20z%20art.%2030%20ust.%201%20i%202%20RODO.pdf",
+    "pragma": "no-cache",
+    "expires": "Sat, 25 Apr 2026 10:00:02 GMT",
+    "strict-transport-security": "max-age=31536000"
+  }
+}

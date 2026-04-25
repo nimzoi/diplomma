@@ -1,0 +1,36 @@
+{
+  "id": "83203daf320da6de",
+  "url": "https://www.zus.pl/documents/10182/167670/poradnik_wypadkowe_2018.pdf/17e0dc69-e027-476f-e39b-b7bf4df4c93d?t=1616676188170",
+  "source": "zus",
+  "topic_ids": [
+    "zus_podstawa_wymiaru"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:57:56Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1352280,
+  "relative_path": "raw/zus/17e0dc69-e027-476f-e39b-b7bf4df4c93d.pdf",
+  "title": "Pobierz \" \n                        Ustalanie stopy  procentowej  składki   na ubezpieczenie  wypadkowe archiwum stan prawny 04.2018-03.2021\n                         \" (pdf, 1321 kB)",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow",
+  "discovery_source": "bfs",
+  "sha256": "83203daf320da6de0df16ac6086be4a72957d86d082d3a9ed3b2f28fc37bf337",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:57:52 GMT",
+    "content-type": "application/pdf",
+    "content-length": "1352280",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1",
+    "last-modified": "Thu, 25 Mar 2021 12:43:08 GMT",
+    "cache-control": "private,private, no-cache, no-store, must-revalidate",
+    "content-disposition": "inline; filename=\"poradnik_wypadkowe_2018.pdf\"",
+    "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  }
+}

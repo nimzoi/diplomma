@@ -1,0 +1,36 @@
+{
+  "id": "14c90ad1fb6ed6a5",
+  "url": "https://www.zus.pl/documents/10182/167567/poradnik_zus_iwa.korekta_pdf.pdf/a7780991-e2e8-45ce-8401-2e6983837a5f?t=1769774050260",
+  "source": "zus",
+  "topic_ids": [
+    "zus_podstawa_wymiaru"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:57:08Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1914936,
+  "relative_path": "raw/zus/a7780991-e2e8-45ce-8401-2e6983837a5f.pdf",
+  "title": "Pobierz \" \n                        ZUS IWA Informacja o danych do ustalenia składki  na ubezpieczenie wypadkowe\n                         \" (pdf, 1870 kB)",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy",
+  "discovery_source": "bfs",
+  "sha256": "14c90ad1fb6ed6a5e0d1b0914833548d675686c237d043eb91887d1cf5d6bea1",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:57:02 GMT",
+    "content-type": "application/pdf",
+    "content-length": "1914936",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1",
+    "last-modified": "Fri, 30 Jan 2026 11:54:10 GMT",
+    "cache-control": "private,private, no-cache, no-store, must-revalidate",
+    "content-disposition": "inline; filename=\"poradnik_zus_iwa.korekta_pdf.pdf\"",
+    "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  }
+}

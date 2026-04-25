@@ -1,0 +1,39 @@
+{
+  "id": "692ebe86789b1f57",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/1141/Ochrona-stosunku-pracy-kobiet-w-ciy.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:56:04Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 575818,
+  "relative_path": "raw/pip/Ochrona-stosunku-pracy-kobiet-w-ciy.pdf",
+  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Ochrona stosunku pracy kobiet w ciąży",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0",
+  "discovery_source": "paginacja",
+  "sha256": "692ebe86789b1f57e16e9182dc0206ac483a6cbd00ef136eaaec8db18bf6a776",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"Ochrona stosunku pracy kobiet w ciÄÅ¼y.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:56:03 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

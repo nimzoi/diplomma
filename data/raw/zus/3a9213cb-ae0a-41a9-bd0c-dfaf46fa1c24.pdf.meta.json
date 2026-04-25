@@ -1,0 +1,36 @@
+{
+  "id": "e91bbcd6dd3bbd57",
+  "url": "https://www.zus.pl/documents/10182/167670/Zasady+op%C5%82acania+sk%C5%82adek+na+Fundusz+Pracy%2C+Fundusz+Gwarantowanych+%C5%9Awiadcze%C5%84+Pracowniczych+oraz+Fundusz+Emerytur+Pomostowych_archiwum_2017.pdf/3a9213cb-ae0a-41a9-bd0c-dfaf46fa1c24?t=1524835101566",
+  "source": "zus",
+  "topic_ids": [
+    "zus_emerytura_jdg"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:58:00Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 925986,
+  "relative_path": "raw/zus/3a9213cb-ae0a-41a9-bd0c-dfaf46fa1c24.pdf",
+  "title": "Pobierz \" \n                        Zasady opłacania składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych oraz Fundusz Emerytur Pomostowych\n                         \" (pdf, 904 kB)",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow",
+  "discovery_source": "bfs",
+  "sha256": "e91bbcd6dd3bbd570b730d7216f914481982c8a04530647a9fe1249770c8eb72",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:57:57 GMT",
+    "content-type": "application/pdf",
+    "content-length": "925986",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1",
+    "last-modified": "Fri, 27 Apr 2018 13:18:21 GMT",
+    "cache-control": "private,private, no-cache, no-store, must-revalidate",
+    "content-disposition": "inline; filename*=UTF-8''Zasady%20op%C5%82acania%20sk%C5%82adek%20na%20Fundusz%20Pracy%2C%20Fundusz%20Gwarantowanych%20%C5%9Awiadcze%C5%84%20Pracowniczych%20oraz%20Fundusz%20Emerytur%20Pomostowych_archiwum_2017.pdf",
+    "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  }
+}

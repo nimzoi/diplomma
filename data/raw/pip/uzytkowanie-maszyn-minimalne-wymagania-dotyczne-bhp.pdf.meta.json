@@ -1,0 +1,39 @@
+{
+  "id": "9e9836f918ee5979",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/325/uzytkowanie-maszyn-minimalne-wymagania-dotyczne-bhp.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:00:34Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 5878295,
+  "relative_path": "raw/pip/uzytkowanie-maszyn-minimalne-wymagania-dotyczne-bhp.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Użytkowanie maszyn. Minimalne wymagania dotyczące bhp. Lista kontrolna z komentarzem",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9",
+  "discovery_source": "paginacja",
+  "sha256": "9e9836f918ee597914f3775ac4d278e30c43e738bb45b63b5bd29dc99493fd57",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"uzytkowanie maszyn minimalne wymagania dotyczne bhp.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:00:33 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

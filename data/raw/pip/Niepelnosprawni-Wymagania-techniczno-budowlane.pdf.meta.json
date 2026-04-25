@@ -1,0 +1,39 @@
+{
+  "id": "8ec026e0d7b6e0c7",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/392/Niepelnosprawni-Wymagania-techniczno-budowlane.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:57:58Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 806528,
+  "relative_path": "raw/pip/Niepelnosprawni-Wymagania-techniczno-budowlane.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Pracownik z niepełnosprawnością. Wymagania techniczno -budowlane",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72",
+  "discovery_source": "paginacja",
+  "sha256": "8ec026e0d7b6e0c7e61fb5866d20d4f37e8ea8c2afa1952200ed63eaa785c06f",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"Niepelnosprawni. Wymagania techniczno-budowlane.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:57:57 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

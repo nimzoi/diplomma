@@ -1,0 +1,36 @@
+{
+  "id": "544872705bcfca7e",
+  "url": "https://www.zus.pl/documents/10182/167567/poradnik_wypadkowe.pdf/15281e1b-c3f3-472a-81b3-7d10e1a434c8?t=1768996389317",
+  "source": "zus",
+  "topic_ids": [
+    "zus_podstawa_wymiaru"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:56:48Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1377830,
+  "relative_path": "raw/zus/15281e1b-c3f3-472a-81b3-7d10e1a434c8.pdf",
+  "title": "Pobierz \" \n                        Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe\n                         \" (pdf, 1346 kB)",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy",
+  "discovery_source": "bfs",
+  "sha256": "544872705bcfca7ed276c46678f7280ed0dfff0d9442cc62aebaa37a0a604737",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:56:44 GMT",
+    "content-type": "application/pdf",
+    "content-length": "1377830",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1",
+    "last-modified": "Wed, 21 Jan 2026 11:53:09 GMT",
+    "cache-control": "private,private, no-cache, no-store, must-revalidate",
+    "content-disposition": "inline; filename=\"poradnik_wypadkowe.pdf\"",
+    "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "932375bd191300d5",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/543/prace-na-drabinie-przenosnej.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:59:07Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 605080,
+  "relative_path": "raw/pip/prace-na-drabinie-przenosnej.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Prace na drabinie przenośnej",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54",
+  "discovery_source": "paginacja",
+  "sha256": "932375bd191300d53d8733983d047e1eaab2760aa34a3644d0de4a8de047f4d8",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"prace na drabinie przenosnej.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:59:06 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

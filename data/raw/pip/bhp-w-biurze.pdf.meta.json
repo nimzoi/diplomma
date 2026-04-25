@@ -1,0 +1,39 @@
+{
+  "id": "fcf4247a306c9910",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/336/bhp-w-biurze.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:56:49Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 5820101,
+  "relative_path": "raw/pip/bhp-w-biurze.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         BHP w biurze",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=72",
+  "discovery_source": "paginacja",
+  "sha256": "fcf4247a306c9910485689ae11f0cda40883fa5632a1ffe940e3af3ce7a4b50a",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"bhp w biurze.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:56:48 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

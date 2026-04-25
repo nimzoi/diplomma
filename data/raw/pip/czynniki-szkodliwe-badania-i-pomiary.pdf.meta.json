@@ -1,0 +1,39 @@
+{
+  "id": "ea13c3da5ca5565f",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/378/czynniki-szkodliwe-badania-i-pomiary.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:57:42Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 722458,
+  "relative_path": "raw/pip/czynniki-szkodliwe-badania-i-pomiary.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Czynniki szkodliwe. Badania i pomiary",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63",
+  "discovery_source": "paginacja",
+  "sha256": "ea13c3da5ca5565fb1480b39320d6ce232364e4a29bc13557b583aeac82e21eb",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"czynniki szkodliwe badania i pomiary.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:57:41 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

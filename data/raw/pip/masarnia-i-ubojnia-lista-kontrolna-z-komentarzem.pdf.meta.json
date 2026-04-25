@@ -1,0 +1,39 @@
+{
+  "id": "6b149e8b3d2f91d5",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/333/masarnia-i-ubojnia-lista-kontrolna-z-komentarzem.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:56:46Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1995743,
+  "relative_path": "raw/pip/masarnia-i-ubojnia-lista-kontrolna-z-komentarzem.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Masarnia i ubojnia. Lista kontrolna z komentarzem",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18",
+  "discovery_source": "paginacja",
+  "sha256": "6b149e8b3d2f91d520557d78f6f920c5c73ceba6f015db48afe32f5354a4633d",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"masarnia i ubojnia lista kontrolna z komentarzem.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:56:45 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

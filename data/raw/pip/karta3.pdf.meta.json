@@ -1,0 +1,39 @@
+{
+  "id": "d891973799f03d47",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/528/karta3.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:58:48Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 899780,
+  "relative_path": "raw/pip/karta3.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         ADR – Przewóz towarów niebezpiecznych",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36",
+  "discovery_source": "paginacja",
+  "sha256": "d891973799f03d4776769433d7aaac4b8627186b328eb82640c6abc698b59726",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"karta3.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:58:47 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

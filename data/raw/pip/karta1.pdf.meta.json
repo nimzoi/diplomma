@@ -1,0 +1,39 @@
+{
+  "id": "2c6c90b6b2cda309",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/530/karta1.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:58:51Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 382691,
+  "relative_path": "raw/pip/karta1.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         ADR– Obowiązki uczestników przewozu",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36",
+  "discovery_source": "paginacja",
+  "sha256": "2c6c90b6b2cda309ad340b1154aa658f4670c81520b07756ec956a67af582055",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"karta1.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:58:50 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

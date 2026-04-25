@@ -1,0 +1,39 @@
+{
+  "id": "0dc8dce70c4299a5",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/404/nadgodziny-w-praktycep45815.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_czas_pracy"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:58:14Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 225510,
+  "relative_path": "raw/pip/nadgodziny-w-praktycep45815.pdf",
+  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Nadgodzny w praktyce",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81",
+  "discovery_source": "paginacja",
+  "sha256": "0dc8dce70c4299a57338c15d38884402e010c3c5ea471d34c7d810136ebd1111",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"nadgodziny-w-praktyce_p45815.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:58:14 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

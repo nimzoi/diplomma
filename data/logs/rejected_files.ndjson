@@ -29,3 +29,9 @@
 {"name": "ulotka-ulga_rehabilitacyjna_1_2019s.pdf", "reason_dir": "_failed", "note": "status=404 waf=None", "ts": "2026-04-25T09:50:54Z"}
 {"name": "pit-16z_13-011.pdf", "reason_dir": "_failed", "note": "status=404 waf=None", "ts": "2026-04-25T09:51:24Z"}
 {"name": "pit-16a_11-02.pdf", "reason_dir": "_failed", "note": "status=404 waf=None", "ts": "2026-04-25T09:51:25Z"}
+{"name": "uodo_1383_list_prezesa_urz_du_ochrony_danych_osobowych_i_ministra_eduk.pdf", "reason_dir": "_failed", "note": "magic_or_size", "ts": "2026-04-25T09:59:59Z"}
+{"name": "eurlex_02014L0055-20140521.bin", "reason_dir": "_failed", "note": "status=404 waf=None", "ts": "2026-04-25T09:59:59Z"}
+{"name": "eurlex_02006L0123-20151028.bin", "reason_dir": "_failed", "note": "status=404 waf=None", "ts": "2026-04-25T10:00:01Z"}
+{"name": "uodo_1491_rejestr_czynno_ci_przetwarzania_przyk_ady_dla_szko_y.pdf", "reason_dir": "_failed", "note": "magic_or_size", "ts": "2026-04-25T10:00:01Z"}
+{"name": "eurlex_02008L0009-20210101.bin", "reason_dir": "_failed", "note": "status=404 waf=None", "ts": "2026-04-25T10:00:05Z"}
+{"name": "eurlex_02003L0088-20000802.bin", "reason_dir": "_failed", "note": "status=404 waf=None", "ts": "2026-04-25T10:00:06Z"}

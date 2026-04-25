@@ -1,0 +1,39 @@
+{
+  "id": "6d068589ee93843b",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/366/Szkolenia-BHP.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_umowa_o_prace"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:57:24Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 673585,
+  "relative_path": "raw/pip/Szkolenia-BHP.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Szkolenia bhp",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=72",
+  "discovery_source": "paginacja",
+  "sha256": "6d068589ee93843be5ee9accf5be87f9b60462a9c982a24d94d591a511241736",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"Szkolenia BHP.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:57:23 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7dd0dedd35b23da2",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/353/przenosne-wyciagi-towarowe.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:57:13Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 691674,
+  "relative_path": "raw/pip/przenosne-wyciagi-towarowe.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Przenośne wyciągi towarowe",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36",
+  "discovery_source": "paginacja",
+  "sha256": "7dd0dedd35b23da26bbe2701e703e85eae10dc6c9f15ddbea0e27dc82fb19af6",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"przenosne wyciagi towarowe.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:57:13 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

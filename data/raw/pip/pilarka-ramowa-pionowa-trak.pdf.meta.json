@@ -1,0 +1,39 @@
+{
+  "id": "68233938bf2a6541",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/575/pilarka-ramowa-pionowa-trak.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:59:42Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 163632,
+  "relative_path": "raw/pip/pilarka-ramowa-pionowa-trak.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Pilarka ramowa pionowa (trak)",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90",
+  "discovery_source": "paginacja",
+  "sha256": "68233938bf2a6541d4155a23b710e8e2fae5c53f1adfb60743d072cc49a54f72",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"pilarka ramowa pionowa trak.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:59:41 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

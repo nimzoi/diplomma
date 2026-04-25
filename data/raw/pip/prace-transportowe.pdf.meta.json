@@ -1,0 +1,39 @@
+{
+  "id": "ecc41585d1c0f40d",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/541/prace-transportowe.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:59:04Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 375375,
+  "relative_path": "raw/pip/prace-transportowe.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Prace transportowe",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54",
+  "discovery_source": "paginacja",
+  "sha256": "ecc41585d1c0f40d7c0f0ee3eee11ccb893c827535582a1d4d07ff340c7ee5b5",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"prace transportowe.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:59:03 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

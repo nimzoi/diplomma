@@ -1,0 +1,36 @@
+{
+  "id": "31e5264e64162f5e",
+  "url": "https://www.zus.pl/documents/10182/24210/Rachunki_IKE.pdf/3751fdf4-d1d7-4a4f-a27a-aecc447e1231",
+  "source": "zus",
+  "topic_ids": [
+    "zus_skladka_zdrowotna_jdg"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:56:33Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 316829,
+  "relative_path": "raw/zus/3751fdf4-d1d7-4a4f-a27a-aecc447e1231.pdf",
+  "title": "Rachunki IKE/PPE/PPK",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy",
+  "discovery_source": "bfs",
+  "sha256": "31e5264e64162f5e181a1ac83034e86ca34ea009082c52543659ce8affcdcb68",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:56:32 GMT",
+    "content-type": "application/pdf",
+    "content-length": "316829",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1",
+    "last-modified": "Mon, 14 Jun 2021 07:47:49 GMT",
+    "cache-control": "private,private, no-cache, no-store, must-revalidate",
+    "content-disposition": "inline; filename=\"Rachunki_IKE.pdf\"",
+    "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  }
+}

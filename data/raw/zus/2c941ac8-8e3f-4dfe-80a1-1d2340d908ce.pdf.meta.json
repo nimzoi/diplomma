@@ -1,0 +1,36 @@
+{
+  "id": "d50b903bd0809979",
+  "url": "https://www.zus.pl/documents/10182/167567/przewodnik_dla_rozpoczynajacych_dzialalnosc.pdf/2c941ac8-8e3f-4dfe-80a1-1d2340d908ce?t=1773411754011",
+  "source": "zus",
+  "topic_ids": [
+    "zus_skladka_zdrowotna_jdg"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:56:43Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 2018955,
+  "relative_path": "raw/zus/2c941ac8-8e3f-4dfe-80a1-1d2340d908ce.pdf",
+  "title": "Pobierz \" \n                        Przewodnik dla rozpoczynających działalność gospodarczą\n                         \" (pdf, 1972 kB)",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy",
+  "discovery_source": "bfs",
+  "sha256": "d50b903bd080997968db801641b962a4ac90c345615f80556c41a160a6d47354",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:56:36 GMT",
+    "content-type": "application/pdf",
+    "content-length": "2018955",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1",
+    "last-modified": "Fri, 13 Mar 2026 14:22:34 GMT",
+    "cache-control": "private,private, no-cache, no-store, must-revalidate",
+    "content-disposition": "inline; filename=\"przewodnik_dla_rozpoczynajacych_dzialalnosc.pdf\"",
+    "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  }
+}

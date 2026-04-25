@@ -1,0 +1,39 @@
+{
+  "id": "d6f0270070b336e8",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/568/prasa-hydrauliczna-krawedziowa.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:59:45Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 126369,
+  "relative_path": "raw/pip/prasa-hydrauliczna-krawedziowa.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Prasa hydrauliczna krawędziowa",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90",
+  "discovery_source": "paginacja",
+  "sha256": "d6f0270070b336e8f691899a7612f00aac754591c033ca1bd68935058badf89f",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"prasa hydrauliczna krawedziowa.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:59:44 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

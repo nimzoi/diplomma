@@ -1,0 +1,39 @@
+{
+  "id": "c1a2eedc1ecf1a32",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/409/zwolnienia-grupowep68798.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "vat_zwolnienie_200k"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:58:20Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 588964,
+  "relative_path": "raw/pip/zwolnienia-grupowep68798.pdf",
+  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Zwolnienia grupowe",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=108",
+  "discovery_source": "paginacja",
+  "sha256": "c1a2eedc1ecf1a328f509983341d5f7dda94f694c74de45c6666ea56f31f4fe7",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"zwolnienia-grupowe_p68798.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:58:20 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

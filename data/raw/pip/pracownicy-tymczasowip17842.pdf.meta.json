@@ -1,0 +1,39 @@
+{
+  "id": "a029ab364f9f33c3",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/397/pracownicy-tymczasowip17842.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:58:03Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1132825,
+  "relative_path": "raw/pip/pracownicy-tymczasowip17842.pdf",
+  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Pracownicy tymczasowi",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72",
+  "discovery_source": "paginacja",
+  "sha256": "a029ab364f9f33c31e13614b6841cf9f1227ffa2d316e18396f0dbd736ad71cf",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"pracownicy-tymczasowi_p17842.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:58:03 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

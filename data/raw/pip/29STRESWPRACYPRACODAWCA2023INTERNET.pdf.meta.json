@@ -1,0 +1,39 @@
+{
+  "id": "d992b1a74e59b854",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/787/29STRESWPRACYPRACODAWCA2023INTERNET.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:00:41Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 875015,
+  "relative_path": "raw/pip/29STRESWPRACYPRACODAWCA2023INTERNET.pdf",
+  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Stres w pracy. Poradnik dla pracodawcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81",
+  "discovery_source": "paginacja",
+  "sha256": "d992b1a74e59b854fc6f1e5d08dbf340557905a1f114aadb31fbc64444254933",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"29_STRES_W_PRACY_PRACODAWCA_2023_INTERNET.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:00:40 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

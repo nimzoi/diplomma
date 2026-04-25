@@ -1,0 +1,39 @@
+{
+  "id": "49b8e01ce9d884c8",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/387/Badania-profilaktyczne.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:57:55Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 946499,
+  "relative_path": "raw/pip/Badania-profilaktyczne.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Badania profilaktyczne pracowników",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72",
+  "discovery_source": "paginacja",
+  "sha256": "49b8e01ce9d884c879449f8400b55ff0120dc0cc87bc56184dfdb8f41c96fe33",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"Badania profilaktyczne.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:57:54 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

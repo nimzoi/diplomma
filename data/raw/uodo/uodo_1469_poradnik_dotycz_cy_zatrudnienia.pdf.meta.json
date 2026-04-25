@@ -1,0 +1,36 @@
+{
+  "id": "13ed3d7472e400ea",
+  "url": "https://uodo.gov.pl/pl/file/1469",
+  "source": "uodo",
+  "topic_ids": [
+    "rodo_mala_firma"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:59:56Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1452316,
+  "relative_path": "raw/uodo/uodo_1469_poradnik_dotycz_cy_zatrudnienia.pdf",
+  "title": "Poradnik dotyczący zatrudnienia",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://uodo.gov.pl/pl/383/545",
+  "discovery_source": "article_downloads",
+  "sha256": "13ed3d7472e400ea7760b81dc5b6357f8463d96b177f786eca940ee015b6ee91",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "server": "nginx/1.21.6",
+    "date": "Sat, 25 Apr 2026 09:59:56 GMT",
+    "content-type": "application/pdf",
+    "content-length": "1452316",
+    "x-powered-by": "PHP/8.0.30",
+    "cache-control": "max-age=0, must-revalidate, no-cache, no-store, private",
+    "content-disposition": "inline; filename=\"Poradnik+dotyczC485cy+zatrudnienia.pdf\"; filename*=utf-8''Poradnik%20dotycz%C4%85cy%20zatrudnienia.pdf",
+    "pragma": "no-cache",
+    "expires": "Sat, 25 Apr 2026 09:59:56 GMT",
+    "strict-transport-security": "max-age=31536000"
+  }
+}

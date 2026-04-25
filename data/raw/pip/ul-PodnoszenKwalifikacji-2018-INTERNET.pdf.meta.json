@@ -1,0 +1,39 @@
+{
+  "id": "05fdbab09aaaf7a6",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/587/ul-PodnoszenKwalifikacji-2018-INTERNET.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:00:27Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1110189,
+  "relative_path": "raw/pip/ul-PodnoszenKwalifikacji-2018-INTERNET.pdf",
+  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Podnoszenie kwalifikacji",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126",
+  "discovery_source": "paginacja",
+  "sha256": "05fdbab09aaaf7a6275ff955263b880302638e726ddfca54b1417f5a46a81ca1",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"ul PodnoszenKwalifikacji 2018 INTERNET.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:00:27 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "eb35d36d42e843ca",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/328/tartak-i-stolarnia-lista-kontrolna-z-komentarzem.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:56:38Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 954654,
+  "relative_path": "raw/pip/tartak-i-stolarnia-lista-kontrolna-z-komentarzem.pdf",
+  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Tartak i stolarnia. Lista kontrolna z komentarzem",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18",
+  "discovery_source": "paginacja",
+  "sha256": "eb35d36d42e843ca10e27cff9feafe553c00583e58ee9849b88bb9a7a70e6a21",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"tartak i stolarnia lista kontrolna z komentarzem.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 09:56:37 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}
