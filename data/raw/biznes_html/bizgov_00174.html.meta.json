@@ -1,0 +1,25 @@
+{
+  "id": "bfca38671f31c34e",
+  "url": "https://www.biznes.gov.pl/pl/portal/00174",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:38:11Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 53024,
+  "relative_path": "raw/biznes_html/bizgov_00174.html",
+  "title": "Jak pełnomocnik rejestruje firmę | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "bfca38671f31c34eb28515acd6da3aeec10fb1869ed7f8a91c5ee636c09f1e07",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=8014",
+  "headers": {}
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d3e56b88e7e06901",
+  "url": "https://www.biznes.gov.pl/pl/portal/001171",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "pit_ryczalt",
+    "estonski_cit"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:37:08Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 60831,
+  "relative_path": "raw/biznes_html/bizgov_001171.html",
+  "title": "Estoński CIT – podstawowe informacje | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "d3e56b88e7e069017dae09b13d6fb4c3460ce55e56bead2a11c2a96bd9110581",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=16233",
+  "headers": {}
+}

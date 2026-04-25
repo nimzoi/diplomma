@@ -1,0 +1,26 @@
+{
+  "id": "5e233d66d3f04687",
+  "url": "https://www.biznes.gov.pl/pl/portal/00246",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "vat_zwolnienie_200k",
+    "vat_ue"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:39:53Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 71845,
+  "relative_path": "raw/biznes_html/bizgov_00246.html",
+  "title": "Kto musi płacić VAT | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "5e233d66d3f0468750b5fefd6ec1c52ab91df7e92a4d2bdfc7f2e71f9713227f",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=23202",
+  "headers": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6b2d828aed72fa24",
+  "url": "https://www.biznes.gov.pl/pl/portal/00101",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:36:40Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 74175,
+  "relative_path": "raw/biznes_html/bizgov_00101.html",
+  "title": "Jak prowadzić dokumentację pracowniczą | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "6b2d828aed72fa24054fd6c83e5d4a79e968e1c3652fc49c0cf7c1568ae23b73",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=25762",
+  "headers": {}
+}

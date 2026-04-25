@@ -1,0 +1,25 @@
+{
+  "id": "4ac5d05df9d20aa8",
+  "url": "https://www.biznes.gov.pl/pl/portal/00260",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:40:30Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 77695,
+  "relative_path": "raw/biznes_html/bizgov_00260.html",
+  "title": "Podstawowe informacje o księgowości i ewidencjach w przedsiębiorstwie | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "4ac5d05df9d20aa811044b281f8fb276f5a5b2ff5051b68d6f88f02f6f9c8519",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=23607",
+  "headers": {}
+}

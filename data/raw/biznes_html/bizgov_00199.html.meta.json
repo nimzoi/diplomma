@@ -1,0 +1,25 @@
+{
+  "id": "88cc01a4ada0ed77",
+  "url": "https://www.biznes.gov.pl/pl/portal/00199",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "zatrudnianie_cudzoziemcow"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:38:57Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 57861,
+  "relative_path": "raw/biznes_html/bizgov_00199.html",
+  "title": "Skargi, wnioski i dochodzenie roszczeń przez pracownika delegowanego. | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "88cc01a4ada0ed77acc797c41183caca5ee9fafd5fab8b3a669d392e1c37fc1c",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=12595",
+  "headers": {}
+}

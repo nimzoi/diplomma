@@ -1,0 +1,25 @@
+{
+  "id": "7cc43adb8064bd20",
+  "url": "https://www.biznes.gov.pl/pl/portal/00272",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:41:04Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 64938,
+  "relative_path": "raw/biznes_html/bizgov_00272.html",
+  "title": "VAT w handlu międzynarodowym – świadczenie i nabycie usług | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "7cc43adb8064bd206baca6c7f3a64962065d132e40070fec7f471f03c4123fd7",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=18804",
+  "headers": {}
+}

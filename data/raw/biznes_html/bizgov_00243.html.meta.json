@@ -1,0 +1,26 @@
+{
+  "id": "6e4af926c3909cbd",
+  "url": "https://www.biznes.gov.pl/pl/portal/00243",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "vat_zwolnienie_200k",
+    "kasa_fiskalna_online"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:39:43Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 95206,
+  "relative_path": "raw/biznes_html/bizgov_00243.html",
+  "title": "Kasa fiskalna w firmie | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "6e4af926c3909cbd7f287ebae8d35a58440c2f6764e0f4145a78fc8954e99a83",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=40184",
+  "headers": {}
+}

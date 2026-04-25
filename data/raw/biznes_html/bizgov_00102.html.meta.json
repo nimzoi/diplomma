@@ -1,0 +1,25 @@
+{
+  "id": "03d80da52597d805",
+  "url": "https://www.biznes.gov.pl/pl/portal/00102",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "rodo_rekrutacja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:36:45Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 53169,
+  "relative_path": "raw/biznes_html/bizgov_00102.html",
+  "title": "Przetwarzanie danych kandydata i pracownika. Obowiązki pracodawcy. | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "03d80da52597d805662f4968d54899975866393f956489e84461a9626021c881",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=8298",
+  "headers": {}
+}

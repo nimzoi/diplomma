@@ -1,0 +1,25 @@
+{
+  "id": "6dc212d8ea3897a0",
+  "url": "https://www.biznes.gov.pl/pl/portal/001052",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "zus_skladka_zdrowotna_jdg"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:36:50Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 71434,
+  "relative_path": "raw/biznes_html/bizgov_001052.html",
+  "title": "Ile wynosi składka zdrowotna | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "6dc212d8ea3897a0245ff2524ae27553caf7b72bfe52d8f1fd86164b599ac1b8",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=22709",
+  "headers": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a4d9e683fda7ae45",
+  "url": "https://www.biznes.gov.pl/pl/portal/001355",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:37:37Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 68169,
+  "relative_path": "raw/biznes_html/bizgov_001355.html",
+  "title": "Jak zapłacić podatek z rocznej deklaracji | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "a4d9e683fda7ae457dc85983002198ded5d9021f99aef052494803998fa82f5b",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=17542",
+  "headers": {}
+}

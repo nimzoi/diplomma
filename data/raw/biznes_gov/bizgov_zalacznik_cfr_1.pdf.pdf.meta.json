@@ -1,0 +1,40 @@
+{
+  "id": "da8dd919a145ccfa",
+  "url": "https://pliki.biznes.gov.pl/20210810/pliki/Gdzie_placic_podatki_od_dochodow_zagranicznych/zalacznik_cfr_1.pdf",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T12:41:28Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 883371,
+  "relative_path": "raw/biznes_gov/bizgov_zalacznik_cfr_1.pdf.pdf",
+  "title": "formularzu CFR-1",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.biznes.gov.pl/pl/portal/00229",
+  "discovery_source": "playwright_deeper",
+  "sha256": "da8dd919a145ccfafb051d792695ed1f731ded57308e7ac66c54dea2455320fc",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-type": "application/pdf",
+    "content-length": "883371",
+    "accept-ranges": "bytes",
+    "content-security-policy": "block-all-mixed-content",
+    "etag": "\"00000000000000000000000000000000-1\"",
+    "last-modified": "Thu, 30 Jan 2025 12:34:14 GMT",
+    "vary": "Origin",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=15552000",
+    "expires": "Sat, 25 Apr 2026 12:41:27 GMT",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "pragma": "no-cache",
+    "date": "Sat, 25 Apr 2026 12:41:27 GMT",
+    "server-timing": "edge; dur=2, origin; dur=116, cdn-cache; desc=MISS, ak_p; desc=\"1777120887793_388045963_467597035_13552_12541_11_0_15\";dur=1"
+  }
+}

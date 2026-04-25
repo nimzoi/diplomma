@@ -1406,3 +1406,11 @@
 {"ts": "2026-04-25T11:43:47Z", "url": "https://www.parp.gov.pl/", "ok": true, "status": 200, "bytes": 218931}
 {"ts": "2026-04-25T12:19:22Z", "url": "https://media.biznes.gov.pl/v1/files/leaflets/437/Lista-uprawnie%C5%84.pdf", "ok": true, "status": 200, "bytes": 728668}
 {"ts": "2026-04-25T12:19:24Z", "url": "https://pliki.biznes.gov.pl/20210810/pliki/Jak_skladac_deklaracje_podatkowe_i_placic_podatki/zalacznik_1_pelnomocncitwo_do_skladania_deklaracji_w_wersji_papierowej.pdf", "ok": true, "status": 200, "bytes": 814819}
+{"ts": "2026-04-25T12:41:21Z", "url": "https://pliki.biznes.gov.pl/20210810/pliki/Jak_prowadzic_dokumentacje_pracownicza/e-akta_faq_v.pdf", "ok": true, "status": 200, "bytes": 325214}
+{"ts": "2026-04-25T12:41:22Z", "url": "https://pliki.biznes.gov.pl/20210810/pliki/Przetwarzanie_danych_kandydata_i_pracownika._Jakie_sa_obowiazki_pracodawcy/przyklad_klauzuli.pdf", "ok": true, "status": 200, "bytes": 628076}
+{"ts": "2026-04-25T12:41:23Z", "url": "https://pliki.biznes.gov.pl/20211221/pliki/Limit_platnosci_gotowkowych_przyklady.pdf", "ok": true, "status": 200, "bytes": 132804}
+{"ts": "2026-04-25T12:41:24Z", "url": "https://pliki.biznes.gov.pl/20211221/pliki/Limit_platnosci_gotowkowych_umowy.pdf", "ok": true, "status": 200, "bytes": 141708}
+{"ts": "2026-04-25T12:41:26Z", "url": "https://pliki.biznes.gov.pl/akademia/ZS_podrecznik.pdf", "ok": true, "status": 200, "bytes": 2700462}
+{"ts": "2026-04-25T12:41:27Z", "url": "https://pliki.biznes.gov.pl/20210810/pliki/Rozwiazanie_umowy_o_prace_bez_wypowiedzenia_przez_pracodawce/wzor_oswiadczenia_o_rozwiazaniu_umowy_bez_wypowiedzenia.docx", "ok": true, "status": 200, "bytes": 14136}
+{"ts": "2026-04-25T12:41:28Z", "url": "https://pliki.biznes.gov.pl/20210810/pliki/Gdzie_placic_podatki_od_dochodow_zagranicznych/zalacznik_cfr_1.pdf", "ok": true, "status": 200, "bytes": 883371}
+{"ts": "2026-04-25T12:41:29Z", "url": "https://media.biznes.gov.pl/v1/files/leaflets/648/wzorze%20zg%C5%82oszenia.pdf", "ok": true, "status": 200, "bytes": 245412}

@@ -1,0 +1,26 @@
+{
+  "id": "14d3a9c335e35cc5",
+  "url": "https://www.biznes.gov.pl/pl/portal/00135",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "kp_czas_pracy",
+    "rodo_rekrutacja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:37:32Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 58027,
+  "relative_path": "raw/biznes_html/bizgov_00135.html",
+  "title": "Urlopy: bezpłatny, szkoleniowy i okolicznościowy | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "14d3a9c335e35cc5f721c9f9b9959015c85a0bb0cfb8d3a1f83a33a5cd6df3e3",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=11760",
+  "headers": {}
+}

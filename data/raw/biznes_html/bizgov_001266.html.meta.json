@@ -1,0 +1,25 @@
+{
+  "id": "47b27415a5585768",
+  "url": "https://www.biznes.gov.pl/pl/portal/001266",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:37:13Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 61641,
+  "relative_path": "raw/biznes_html/bizgov_001266.html",
+  "title": "Jak przedsiębiorcy i konsumenci mogą płacić za transakcje | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "47b27415a55857688e6fe9c6fda439d49cc4cb6fd01599c21495f30ee901e7c0",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=14736",
+  "headers": {}
+}

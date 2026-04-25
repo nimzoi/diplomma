@@ -1,0 +1,25 @@
+{
+  "id": "1f6e3178ea80fd46",
+  "url": "https://www.biznes.gov.pl/pl/portal/00271",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:40:58Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 51027,
+  "relative_path": "raw/biznes_html/bizgov_00271.html",
+  "title": "Wycofanie środka trwałego na cele prywatne | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "1f6e3178ea80fd466e5ff7e4ff1b787150370f068fe39734115f79dc113a00a6",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=9326",
+  "headers": {}
+}

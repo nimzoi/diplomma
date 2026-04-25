@@ -1,0 +1,25 @@
+{
+  "id": "bff2bdd94b1c19e9",
+  "url": "https://www.biznes.gov.pl/pl/portal/00266",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:40:49Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 75391,
+  "relative_path": "raw/biznes_html/bizgov_00266.html",
+  "title": "Wystawianie paragonów – o czym powinieneś wiedzieć | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "bff2bdd94b1c19e9849ab77e123d05ddf8e42ad47f5a54476590af9ff93417d0",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=27178",
+  "headers": {}
+}

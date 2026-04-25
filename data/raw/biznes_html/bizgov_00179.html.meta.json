@@ -1,0 +1,25 @@
+{
+  "id": "aded1582fe1951b8",
+  "url": "https://www.biznes.gov.pl/pl/portal/00179",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:38:24Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 64369,
+  "relative_path": "raw/biznes_html/bizgov_00179.html",
+  "title": "Dyskryminacja i równe prawa pracowników | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "aded1582fe1951b8f460964fb4b7875b26c2f8c493a9a7c1630240501addfab0",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=20677",
+  "headers": {}
+}

@@ -1,0 +1,26 @@
+{
+  "id": "450f0a4806d1f5a0",
+  "url": "https://www.biznes.gov.pl/pl/portal/00214",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "rodo_rekrutacja",
+    "zatrudnianie_cudzoziemcow"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:39:16Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 77317,
+  "relative_path": "raw/biznes_html/bizgov_00214.html",
+  "title": "Obowiązki pracodawcy, u którego pracuje cudzoziemiec | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "450f0a4806d1f5a0d57759f1c2ce7a5685dd838be8e9a3453ad01a149a745edd",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=25283",
+  "headers": {}
+}

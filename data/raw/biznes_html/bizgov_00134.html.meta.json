@@ -1,0 +1,27 @@
+{
+  "id": "67cf80dfd9a337ca",
+  "url": "https://www.biznes.gov.pl/pl/portal/00134",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "kp_czas_pracy",
+    "kp_urlop",
+    "rodo_rekrutacja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:37:27Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 73008,
+  "relative_path": "raw/biznes_html/bizgov_00134.html",
+  "title": "Komu przysługuje urlop wypoczynkowy | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "67cf80dfd9a337ca0ccda00df6b55f120e4758cc44884a9e94b8dc7939c00d15",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=26865",
+  "headers": {}
+}

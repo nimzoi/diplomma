@@ -1,0 +1,27 @@
+{
+  "id": "c7f1b6c34663802a",
+  "url": "https://www.biznes.gov.pl/pl/portal/00267",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "zus_preferencyjny",
+    "vat_stawki",
+    "vat_ue"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:40:54Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 75052,
+  "relative_path": "raw/biznes_html/bizgov_00267.html",
+  "title": "VAT w handlu międzynarodowym – dostawa i nabycie towarów | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "c7f1b6c34663802ab794b83e027d114db4b75e7426812b56d62b354657f37789",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=26121",
+  "headers": {}
+}

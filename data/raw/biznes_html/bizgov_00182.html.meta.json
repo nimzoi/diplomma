@@ -1,0 +1,25 @@
+{
+  "id": "cd52a647f4b6884f",
+  "url": "https://www.biznes.gov.pl/pl/portal/00182",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "rodo_rekrutacja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:38:38Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 57573,
+  "relative_path": "raw/biznes_html/bizgov_00182.html",
+  "title": "Jakie prawa mają kobiety w ciąży i karmiące piersią | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "cd52a647f4b6884fa58c9d94942101aa013b775c2a33c81d203be566a1cabf50",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=13083",
+  "headers": {}
+}

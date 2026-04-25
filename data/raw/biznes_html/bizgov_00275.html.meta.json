@@ -1,0 +1,25 @@
+{
+  "id": "5c488c2d9859ebde",
+  "url": "https://www.biznes.gov.pl/pl/portal/00275",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "e_doreczenia_obowiazek"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:41:13Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 94757,
+  "relative_path": "raw/biznes_html/bizgov_00275.html",
+  "title": "Jak zarejestrować się w ZUS i zgłosić do ubezpieczeń | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "5c488c2d9859ebdebc4ecaf212a31df95421526552b6028c4240e41c111d0c59",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=31547",
+  "headers": {}
+}

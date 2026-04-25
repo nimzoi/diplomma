@@ -1,0 +1,25 @@
+{
+  "id": "ecd7063a88e27ced",
+  "url": "https://www.biznes.gov.pl/pl/portal/00247",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "rodo_iod"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:39:57Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 50630,
+  "relative_path": "raw/biznes_html/bizgov_00247.html",
+  "title": "Mikrorachunek podatkowy dla PIT, CIT lub VAT | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "ecd7063a88e27ced9a63b81784bed375416ba5630cb89bcacbe623bf6bbe37a0",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=8088",
+  "headers": {}
+}

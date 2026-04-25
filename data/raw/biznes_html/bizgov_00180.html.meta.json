@@ -1,0 +1,26 @@
+{
+  "id": "db6314927ff272e3",
+  "url": "https://www.biznes.gov.pl/pl/portal/00180",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "zus_zua_zwua_dra",
+    "rodo_rekrutacja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:38:28Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 58563,
+  "relative_path": "raw/biznes_html/bizgov_00180.html",
+  "title": "Dyskryminacja i równe traktowanie innych osób niż pracownicy | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "db6314927ff272e319961c4377cffe8841a426d5b850d6d0b81d269467a90190",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=14822",
+  "headers": {}
+}

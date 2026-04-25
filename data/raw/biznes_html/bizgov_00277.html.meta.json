@@ -1,0 +1,25 @@
+{
+  "id": "b6deb3eb23f0690d",
+  "url": "https://www.biznes.gov.pl/pl/portal/00277",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:41:18Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 65248,
+  "relative_path": "raw/biznes_html/bizgov_00277.html",
+  "title": "Jak opłacać składki ZUS | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "b6deb3eb23f0690db1dc57960e72ce1a4ac568b1f99b44bcc94fdae61c83078d",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=15095",
+  "headers": {}
+}

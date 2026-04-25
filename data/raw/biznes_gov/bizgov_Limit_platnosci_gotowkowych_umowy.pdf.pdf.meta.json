@@ -1,0 +1,42 @@
+{
+  "id": "ece3ce024643f965",
+  "url": "https://pliki.biznes.gov.pl/20211221/pliki/Limit_platnosci_gotowkowych_umowy.pdf",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T12:41:24Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 141708,
+  "relative_path": "raw/biznes_gov/bizgov_Limit_platnosci_gotowkowych_umowy.pdf.pdf",
+  "title": "przykłady zastosowania limitu płatności gotówką w zależności od rodzaju umowy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.biznes.gov.pl/pl/portal/001266",
+  "discovery_source": "playwright_deeper",
+  "sha256": "ece3ce024643f965165dbcfc7987be7fffaf93aeb864747e4ac0520beee38ac3",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-type": "application/pdf",
+    "content-length": "141708",
+    "accept-ranges": "bytes",
+    "content-security-policy": "block-all-mixed-content",
+    "etag": "\"084dd4d7bc5a4491abc43119b1b25eb2\"",
+    "last-modified": "Tue, 21 Dec 2021 13:26:15 GMT",
+    "vary": "Origin",
+    "x-xss-protection": "1; mode=block",
+    "x-amz-meta-s3b-last-modified": "20211221T132422Z",
+    "x-amz-meta-sha256": "ece3ce024643f965165dbcfc7987be7fffaf93aeb864747e4ac0520beee38ac3",
+    "strict-transport-security": "max-age=15552000",
+    "expires": "Sat, 25 Apr 2026 12:41:24 GMT",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "pragma": "no-cache",
+    "date": "Sat, 25 Apr 2026 12:41:24 GMT",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=370, origin; dur=66, ak_p; desc=\"1777120884022_388045963_467585549_43549_10752_11_0_15\";dur=1"
+  }
+}

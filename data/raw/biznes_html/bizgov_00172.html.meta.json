@@ -1,0 +1,25 @@
+{
+  "id": "31e91abe41c8e1bb",
+  "url": "https://www.biznes.gov.pl/pl/portal/00172",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:38:06Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 91350,
+  "relative_path": "raw/biznes_html/bizgov_00172.html",
+  "title": "Jaki PIT dla firmy? Jak wybrać formę opodatkowania przychodów? | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_deeper",
+  "sha256": "31e91abe41c8e1bb942afa81cb75b56cdc1333a25a79ca373a3aa204d8982535",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=35613",
+  "headers": {}
+}
