@@ -1,0 +1,43 @@
+{
+  "id": "e018d58463a13e60",
+  "url": "https://www.podatki.gov.pl/media/jirnu44h/broszura-do-pit-36ls-za-2025-r.pdf",
+  "source": "podatki",
+  "topic_ids": [
+    "pit_skala",
+    "pit_liniowy"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:51:50Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 376946,
+  "relative_path": "raw/podatki/broszura-do-pit-36ls-za-2025-r.pdf",
+  "title": "Broszura do PIT 36LS za 2025 r.  PDF, 368,11 kB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/",
+  "discovery_source": "bfs",
+  "sha256": "e018d58463a13e60ba442dedd0c317cd620363a2da3f59fb53424eb1e98ad2ba",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-length": "376946",
+    "content-type": "application/pdf",
+    "last-modified": "Wed, 31 Dec 2025 11:27:02 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"1dc7a4862548772\"",
+    "date": "Sat, 25 Apr 2026 09:51:49 GMT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-resource-policy": "cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-cdn": "Imperva",
+    "x-iinfo": "13-46423246-46346074 pNNy RT(1777110517734 192633) q(0 0 0 -1) r(1 1) U12"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3b2f7074c131d5b1",
+  "url": "https://www.podatki.gov.pl/media/bq2gbb34/broszura-informacyjna-jpk_vat-z-deklaracją-wersja-anglojęzyczna_20230201.pdf",
+  "source": "podatki",
+  "topic_ids": [
+    "vat_stawki"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:51:35Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 2322069,
+  "relative_path": "raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-wersja-angloj_zyczna_20230201.pdf",
+  "title": "SAF-T Information Brochure – January, 1st 2023  PDF, 2,21 MB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/",
+  "discovery_source": "bfs",
+  "sha256": "3b2f7074c131d5b106e1d69c300773693d526e05898479b24432115e684b6c63",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-length": "2322069",
+    "content-type": "application/pdf",
+    "last-modified": "Sun, 14 Dec 2025 21:33:16 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"1dc6d4141c01895\"",
+    "date": "Sat, 25 Apr 2026 09:51:35 GMT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-resource-policy": "cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-cdn": "Imperva",
+    "x-iinfo": "13-46423246-46346074 pNNy RT(1777110517734 177723) q(0 0 0 -1) r(1 1) U12"
+  }
+}

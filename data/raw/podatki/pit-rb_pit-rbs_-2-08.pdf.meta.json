@@ -1,0 +1,42 @@
+{
+  "id": "9b3ca572fdcddc7b",
+  "url": "https://www.podatki.gov.pl/media/ct2mhqik/pit-rb_pit-rbs_-2-08.pdf",
+  "source": "podatki",
+  "topic_ids": [
+    "pit_skala"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:51:54Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 186093,
+  "relative_path": "raw/podatki/pit-rb_pit-rbs_-2-08.pdf",
+  "title": "Pobierz",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/",
+  "discovery_source": "bfs",
+  "sha256": "9b3ca572fdcddc7befb2d96ae622585eaa14a452c0cbd0843a718c6f6f80a05e",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-length": "186093",
+    "content-type": "application/pdf",
+    "last-modified": "Tue, 02 Dec 2025 14:33:29 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"1dc6398a04d946d\"",
+    "date": "Sat, 25 Apr 2026 09:51:54 GMT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-resource-policy": "cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-cdn": "Imperva",
+    "x-iinfo": "13-46423246-46449401 pNNy RT(1777110517734 196694) q(0 0 0 -1) r(0 0) U12"
+  }
+}

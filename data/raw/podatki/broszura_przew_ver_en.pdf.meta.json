@@ -1,0 +1,42 @@
+{
+  "id": "431305a3fa55d3b8",
+  "url": "https://www.podatki.gov.pl/media/3iihmzvp/broszura_przew_ver_en.pdf",
+  "source": "podatki",
+  "topic_ids": [
+    "vat_stawki"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:50:55Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 26444,
+  "relative_path": "raw/podatki/broszura_przew_ver_en.pdf",
+  "title": "Special VAT scheme for occasional international road carriage of passengers  PDF, 25,82 kB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.podatki.gov.pl/podatki-firmowe/vat/formularze/",
+  "discovery_source": "bfs",
+  "sha256": "431305a3fa55d3b8d73f4f5f40c226c26deeb3d25d99dcc334094ff7730575a0",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-length": "26444",
+    "content-type": "application/pdf",
+    "last-modified": "Fri, 20 Feb 2026 11:54:03 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"1dca25f9b9318cc\"",
+    "date": "Sat, 25 Apr 2026 09:50:55 GMT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-resource-policy": "cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-cdn": "Imperva",
+    "x-iinfo": "13-46423246-46346074 pNNy RT(1777110517734 137359) q(0 0 0 -1) r(1 1) U12"
+  }
+}

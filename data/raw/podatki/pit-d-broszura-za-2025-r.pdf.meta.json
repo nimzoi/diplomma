@@ -1,0 +1,42 @@
+{
+  "id": "254040c213175eaf",
+  "url": "https://www.podatki.gov.pl/media/ighbx5ch/pit-d-broszura-za-2025-r.pdf",
+  "source": "podatki",
+  "topic_ids": [
+    "pit_skala"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:51:13Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 474935,
+  "relative_path": "raw/podatki/pit-d-broszura-za-2025-r.pdf",
+  "title": "PIT D Broszura informacyjna za 2025 r.  PDF, 463,80 kB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/",
+  "discovery_source": "bfs",
+  "sha256": "254040c213175eaf7339239a1f2d65f7b966cc72ba65d4774e50fce7b9311d4b",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-length": "474935",
+    "content-type": "application/pdf",
+    "last-modified": "Thu, 08 Jan 2026 12:34:54 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"1dc809b30be1437\"",
+    "date": "Sat, 25 Apr 2026 09:51:12 GMT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-resource-policy": "cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-cdn": "Imperva",
+    "x-iinfo": "13-46423246-46346074 pNNy RT(1777110517734 155190) q(0 0 0 -1) r(0 0) U12"
+  }
+}

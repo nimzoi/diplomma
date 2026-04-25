@@ -1,0 +1,42 @@
+{
+  "id": "acb93444e95efcf6",
+  "url": "https://www.podatki.gov.pl/media/2tyaqvuy/pit_wz_-2.pdf",
+  "source": "podatki",
+  "topic_ids": [
+    "pit_skala"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:51:20Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 371529,
+  "relative_path": "raw/podatki/pit_wz_-2.pdf",
+  "title": "Pobierz",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/",
+  "discovery_source": "bfs",
+  "sha256": "acb93444e95efcf6ee1bbe1cdfdde14b901ef816bcae95abd2c33b7590b8f2cc",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-length": "371529",
+    "content-type": "application/pdf",
+    "last-modified": "Tue, 02 Dec 2025 12:20:42 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"1dc6386139e2249\"",
+    "date": "Sat, 25 Apr 2026 09:51:19 GMT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-resource-policy": "cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-cdn": "Imperva",
+    "x-iinfo": "13-46423246-46447129 pNNy RT(1777110517734 162427) q(0 0 0 -1) r(1 1) U12"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5087392ffdc5c81e",
+  "url": "https://www.podatki.gov.pl/media/aosft1rf/broszura-jpk_vat-3-wersja-20180214.pdf",
+  "source": "podatki",
+  "topic_ids": [
+    "vat_stawki"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:51:42Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 862966,
+  "relative_path": "raw/podatki/broszura-jpk_vat-3-wersja-20180214.pdf",
+  "title": "Broszura informacyjna JPK_VAT(3)  PDF, 842,74 kB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat/pliki-do-pobrania-jpk-vat/",
+  "discovery_source": "bfs",
+  "sha256": "5087392ffdc5c81ed6a027a92a0b903ad61b3826868031500c200ee4f19432fc",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-length": "862966",
+    "content-type": "application/pdf",
+    "last-modified": "Sun, 14 Dec 2025 22:11:48 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"1dc6d46a3ff80f6\"",
+    "date": "Sat, 25 Apr 2026 09:51:41 GMT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-resource-policy": "cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-cdn": "Imperva",
+    "x-iinfo": "13-46423246-46447129 pNNy RT(1777110517734 184260) q(0 0 0 -1) r(1 1) U12"
+  }
+}

@@ -6,6 +6,7 @@ crawled for discovery only, not saved). Save absolute URLs unique by hash.
 """
 from __future__ import annotations
 
+import html as html_lib
 import re
 import time
 from pathlib import Path
@@ -29,9 +30,18 @@ SEED_URLS = [
     f"{BASE}/abc-podatkow/broszury-informacyjne/broszury-pit/",
     f"{BASE}/poradniki-i-informatory/",
     f"{BASE}/podatki-firmowe/vat/",
+    f"{BASE}/podatki-firmowe/vat/poradniki-i-informatory/",
+    f"{BASE}/podatki-firmowe/vat/informacje-podstawowe/",
+    f"{BASE}/podatki-firmowe/vat/stawki-i-limity/",
+    f"{BASE}/podatki-firmowe/vat/ulgi-i-odliczenia/",
+    f"{BASE}/podatki-firmowe/vat/formularze/",
+    f"{BASE}/podatki-firmowe/vat/podstawa-prawna/",
     f"{BASE}/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/",
+    f"{BASE}/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat/",
+    f"{BASE}/podatki-firmowe/jednolity-plik-kontrolny/jpk-na-zadanie/",
     f"{BASE}/podatki-firmowe/pit/informacje-podstawowe/",
     f"{BASE}/podatki-firmowe/cit/informacje-podstawowe/",
+    f"{BASE}/podatki-osobiste/pit/formularze/",
     f"{BASE}/podatki-osobiste/pit/informacje-podstawowe/",
     f"{BASE}/podatki-osobiste/pit/stawki-i-limity/",
     f"{BASE}/podatki-osobiste/pit/ulgi-i-odliczenia/",
@@ -101,24 +111,24 @@ def crawl_listing(seed_url: str, sess) -> list[tuple[str, str]]:
         return []
     html = res.content.decode("utf-8", errors="replace")
     out = []
-    # crude anchor extractor: get href + 200 chars of context
+    # crude anchor extractor: get href + content
     for m in re.finditer(r'<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>', html, re.I | re.S):
-        href = m.group(1)
-        anchor = re.sub(r"<[^>]+>", " ", m.group(2)).strip()
+        href = html_lib.unescape(m.group(1))
+        anchor = html_lib.unescape(re.sub(r"<[^>]+>", " ", m.group(2))).strip()
         absolute = urljoin(seed_url, href)
         out.append((absolute, anchor))
     return out
 
 
-def collect_pdf_links(seeds: list[str], sess) -> dict[str, dict]:
-    """BFS depth=1 over seeds collecting PDF links, deduped by URL.
+def collect_pdf_links(seeds: list[str], sess, max_pages: int = 200) -> dict[str, dict]:
+    """BFS depth<=2 over seeds collecting PDF links, deduped by URL.
     Returns dict url -> {anchor, parent}."""
     pdfs: dict[str, dict] = {}
     visited: set[str] = set()
     queue: list[tuple[str, int]] = [(s, 0) for s in seeds]
     while queue:
         url, depth = queue.pop(0)
-        if url in visited:
+        if url in visited or len(visited) >= max_pages:
             continue
         visited.add(url)
         host = urlparse(url).netloc.lower()
@@ -132,13 +142,19 @@ def collect_pdf_links(seeds: list[str], sess) -> dict[str, dict]:
             if PDF_EXT_RE.search(abs_url):
                 if abs_url not in pdfs:
                     pdfs[abs_url] = {"anchor": anchor, "parent": url}
-            elif depth == 0:
-                # only follow internal links one level (limited expansion)
-                # take a few "informacje" or "broszury" sublinks per seed
-                if any(k in abs_url.lower() for k in ("/broszur", "/informator", "/poradnik", "/abc-podatkow", "informacje")):
-                    if abs_url not in visited and len(visited) < 80:
-                        queue.append((abs_url, 1))
-        time.sleep(0.5)
+            elif depth < 2:
+                # follow subpages in JDG-related sections
+                lo = abs_url.lower()
+                if any(k in lo for k in (
+                    "/broszur", "/informator", "/poradnik", "/abc-podatkow",
+                    "informacje", "/podatki-firmowe/", "/podatki-osobiste/",
+                    "stawki-i-limity", "ulgi-i-odliczenia", "formularze",
+                    "podstawa-prawna", "/jednolity-plik", "ksef",
+                    "/dzialalnosc-", "/dochody-",
+                )):
+                    if abs_url not in visited:
+                        queue.append((abs_url, depth + 1))
+        time.sleep(0.4)
     return pdfs
 
 
@@ -157,7 +173,10 @@ def main() -> None:
         anchor = meta["anchor"]
         parent = meta["parent"]
         score = link_score(anchor, url)
-        if score <= 0:
+        # Try to assign topics from anchor + url + slug
+        topics = assign_topics(anchor, url, parent)
+        # Allow if topics found OR positive relevance score >= 1
+        if score < 1 and not topics:
             skipped_irrelevant += 1
             continue
         if url in have_urls:
@@ -173,10 +192,21 @@ def main() -> None:
             continue
         have_sha.add(sha)
         title = anchor or slug_from_url(url)
-        topics = assign_topics(title, url)
+        # Re-assign topics with parent URL context (the section page often hints topic)
+        topics = assign_topics(title, url, parent)
         if not topics:
-            skipped_irrelevant += 1
-            continue
+            # Best-effort fallback: tag with PIT/VAT/JPK/KSeF based on URL slug
+            lo = (url + " " + parent).lower()
+            if "vat" in lo: topics = ["vat_stawki"]
+            elif "jpk" in lo: topics = ["vat_jpk"]
+            elif "ksef" in lo: topics = ["vat_ksef"]
+            elif "pit" in lo: topics = ["pit_skala"]
+            elif "ryczalt" in lo or "ryczałt" in lo: topics = ["pit_ryczalt"]
+            elif "amortyz" in lo: topics = ["pit_amortyzacja"]
+            elif "white-list" in lo: topics = ["vat_biala_lista"]
+            else:
+                skipped_irrelevant += 1
+                continue
         rel = Path("raw/podatki") / slug_from_url(url)
         save_artifact(
             content=res.content,

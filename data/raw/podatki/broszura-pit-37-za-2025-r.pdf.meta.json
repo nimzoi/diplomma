@@ -1,0 +1,42 @@
+{
+  "id": "89cae4a89ac5ab02",
+  "url": "https://www.podatki.gov.pl/media/zzfhmt2c/broszura-pit-37-za-2025-r.pdf",
+  "source": "podatki",
+  "topic_ids": [
+    "pit_skala"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:51:03Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 623380,
+  "relative_path": "raw/podatki/broszura-pit-37-za-2025-r.pdf",
+  "title": "Broszura PIT 37 za 2025 r .  PDF, 608,77 kB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/",
+  "discovery_source": "bfs",
+  "sha256": "89cae4a89ac5ab02cbbc0b8667dcbf3e85a423c49ab11a1aceaf10c5b5f73877",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-length": "623380",
+    "content-type": "application/pdf",
+    "last-modified": "Thu, 08 Jan 2026 12:30:08 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"1dc809a86488b14\"",
+    "date": "Sat, 25 Apr 2026 09:51:03 GMT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-resource-policy": "cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-cdn": "Imperva",
+    "x-iinfo": "13-46423246-46447129 pNNy RT(1777110517734 145802) q(0 0 0 -1) r(0 0) U12"
+  }
+}
