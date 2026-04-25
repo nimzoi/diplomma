@@ -6,12 +6,12 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 
 | Kryterium | Wartosc |
 |---|---|
-| Liczba dokumentow | 200 |
+| Liczba dokumentow | 203 |
 | Pokrycie tematyczne (51) | 51/51 |
 | Warstwa L1 | 42 |
-| Warstwa L2 | 158 |
-| Stosunek .gov.pl | 200/200 |
-| Total MB on disk | 335.4 |
+| Warstwa L2 | 161 |
+| Stosunek .gov.pl | 203/203 |
+| Total MB on disk | 337.2 |
 
 ## By source
 
@@ -23,19 +23,20 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 | zus | 19 |
 | uodo | 8 |
 | eurlex | 5 |
+| biznes_gov | 3 |
 
 ## By layer
 
 | Layer | Count |
 |---|---|
-| L2 | 158 |
+| L2 | 161 |
 | L1 | 42 |
 
 ## By format
 
 | Format | Count |
 |---|---|
-| pdf | 200 |
+| pdf | 203 |
 
 ## Topic coverage (51 topics)
 
@@ -70,7 +71,7 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 | vat_ue | vat | 2 |
 | vat_marza | vat | 2 |
 | vat_biala_lista | vat | 1 |
-| ceidg_rejestracja | ceidg | 6 |
+| ceidg_rejestracja | ceidg | 9 |
 | ceidg_pkd | ceidg | 2 |
 | ceidg_zawieszenie | ceidg | 3 |
 | ceidg_wznowienie | ceidg | 4 |

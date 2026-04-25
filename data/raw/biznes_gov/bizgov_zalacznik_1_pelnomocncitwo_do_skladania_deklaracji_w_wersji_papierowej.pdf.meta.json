@@ -1,0 +1,46 @@
+{
+  "id": "bd519bd718129099",
+  "url": "https://pliki.biznes.gov.pl/20210810/pliki/Jak_skladac_deklaracje_podatkowe_i_placic_podatki/zalacznik_1_pelnomocncitwo_do_skladania_deklaracji_w_wersji_papierowej.pdf",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T11:15:09Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 814819,
+  "relative_path": "raw/biznes_gov/bizgov_zalacznik_1_pelnomocncitwo_do_skladania_deklaracji_w_wersji_papierowej.pdf",
+  "title": "formularz UPL-1P",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.biznes.gov.pl/pl/portal/00236",
+  "discovery_source": "playwright_focused",
+  "sha256": "bd519bd71812909927fb055b2d7f51d0b0d7514eb6159e8fd66f056b87cc4040",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-type": "application/pdf",
+    "content-length": "814819",
+    "accept-ranges": "bytes",
+    "content-security-policy": "block-all-mixed-content",
+    "etag": "\"00000000000000000000000000000000-1\"",
+    "last-modified": "Thu, 30 Jan 2025 12:34:14 GMT",
+    "vary": "Origin",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=15552000",
+    "expires": "Sat, 25 Apr 2026 11:15:09 GMT",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "pragma": "no-cache",
+    "date": "Sat, 25 Apr 2026 11:15:09 GMT",
+    "server-timing": "edge; dur=4, origin; dur=158, cdn-cache; desc=MISS, ak_p; desc=\"1777115709080_398676397_2382341061_16153_10630_22_0_15\";dur=1"
+  },
+  "content_audit": {
+    "flag": "off_topic",
+    "chars": 9752,
+    "diacritics_ratio": 0.0065,
+    "vocab_hits": 0
+  }
+}

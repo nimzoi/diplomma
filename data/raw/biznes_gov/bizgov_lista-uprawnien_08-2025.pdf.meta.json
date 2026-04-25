@@ -1,0 +1,46 @@
+{
+  "id": "8ef6842ef0dda2c6",
+  "url": "https://pliki.biznes.gov.pl/biznes-pl/20250807/lista-uprawnien_08-2025.pdf",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T11:15:04Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 395512,
+  "relative_path": "raw/biznes_gov/bizgov_lista-uprawnien_08-2025.pdf",
+  "title": "listę rodzajów działalności gospodarczej wymagających uzyskania koncesji, zezwol",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.biznes.gov.pl/pl/portal/00116",
+  "discovery_source": "playwright_focused",
+  "sha256": "8ef6842ef0dda2c669e7c218255ece30cf3225cf1d97e99711342a8a582da572",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-type": "application/pdf",
+    "content-length": "395512",
+    "accept-ranges": "bytes",
+    "content-security-policy": "block-all-mixed-content",
+    "etag": "\"b777ec1308e19ae7d638d2d40cfa708c\"",
+    "last-modified": "Thu, 07 Aug 2025 07:15:50 GMT",
+    "vary": "Origin",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=15552000",
+    "expires": "Sat, 25 Apr 2026 11:15:04 GMT",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "pragma": "no-cache",
+    "date": "Sat, 25 Apr 2026 11:15:04 GMT",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=481, origin; dur=12, ak_p; desc=\"1777115703551_398676397_2382322022_49148_9840_22_62_15\";dur=1"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 35734,
+    "diacritics_ratio": 0.0237,
+    "vocab_hits": 6
+  }
+}

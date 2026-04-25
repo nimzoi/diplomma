@@ -3,6 +3,7 @@
   "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/336/bhp-w-biurze.pdf",
   "source": "pip",
   "topic_ids": [
+    "kp_bhp_biuro",
     "kp_urlop"
   ],
   "layer": "L2",
@@ -12,7 +13,7 @@
   "content_type": "application/pdf",
   "bytes": 5820101,
   "relative_path": "raw/pip/bhp-w-biurze.pdf",
-  "title": "BHP w biurze",
+  "title": "w biurze",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",

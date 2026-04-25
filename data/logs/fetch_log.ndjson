@@ -1237,3 +1237,6 @@
 {"ts": "2026-04-25T10:53:28Z", "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/362/Zaburzenia-ukladu-miesniowo-szkieletowego-u-dzieci-i-mlodziezy.pdf", "ok": true, "status": 200, "bytes": 680573}
 {"ts": "2026-04-25T10:53:29Z", "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/380/bezpieczne-odsniezanie-dachow.pdf", "ok": true, "status": 200, "bytes": 476222}
 {"ts": "2026-04-25T10:53:31Z", "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/391/Bezpieczny-gornik.pdf", "ok": true, "status": 200, "bytes": 1124708}
+{"ts": "2026-04-25T11:15:04Z", "url": "https://pliki.biznes.gov.pl/biznes-pl/20250807/lista-uprawnien_08-2025.pdf", "ok": true, "status": 200, "bytes": 395512}
+{"ts": "2026-04-25T11:15:08Z", "url": "https://media.biznes.gov.pl/v1/files/leaflets/437/Lista-uprawnie%C5%84.pdf", "ok": true, "status": 200, "bytes": 728668}
+{"ts": "2026-04-25T11:15:09Z", "url": "https://pliki.biznes.gov.pl/20210810/pliki/Jak_skladac_deklaracje_podatkowe_i_placic_podatki/zalacznik_1_pelnomocncitwo_do_skladania_deklaracji_w_wersji_papierowej.pdf", "ok": true, "status": 200, "bytes": 814819}
