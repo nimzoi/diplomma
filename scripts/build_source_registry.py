@@ -22,15 +22,20 @@ def fmt_size(b: int) -> str:
 
 
 def main() -> None:
-    rows = list(csv.DictReader(MANIFEST_CSV.open(encoding="utf-8")))
+    all_rows = list(csv.DictReader(MANIFEST_CSV.open(encoding="utf-8")))
+    rows = [r for r in all_rows if r.get("quality_flag", "accepted") == "accepted"]
+    quarantined = [r for r in all_rows if r.get("quality_flag") == "quarantine"]
     rows.sort(key=lambda r: (r["source"], r["layer"], r["title"][:40]))
 
     lines: list[str] = []
     lines.append("# Source registry — JDG chatbot dataset")
     lines.append("")
-    lines.append(f"**Total documents: {len(rows)}**")
+    lines.append(f"**Total documents (accepted): {len(rows)}**")
+    if quarantined:
+        lines.append(f"**Quarantined (excluded from production): {len(quarantined)}**")
     lines.append("")
     lines.append("Auto-generated from `data/manifest.csv` via `scripts/build_source_registry.py`.")
+    lines.append("Production view shows only `quality_flag=accepted` rows.")
     lines.append("Use this file for human review of dataset quality / relevance.")
     lines.append("")
 

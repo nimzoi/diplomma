@@ -18,10 +18,12 @@ from topics import TOPICS, all_topic_ids
 
 
 def main() -> None:
-    rows: list[dict] = []
+    all_rows: list[dict] = []
     with MANIFEST_CSV.open(encoding="utf-8") as fh:
-        rows = list(csv.DictReader(fh))
+        all_rows = list(csv.DictReader(fh))
 
+    rows = [r for r in all_rows if r.get("quality_flag", "accepted") == "accepted"]
+    quarantined = [r for r in all_rows if r.get("quality_flag") == "quarantine"]
     n = len(rows)
     by_source = Counter(r["source"] for r in rows)
     by_layer = Counter(r["layer"] for r in rows)
@@ -100,12 +102,23 @@ def main() -> None:
         out.append(f"| {size:.1f} | {r.get('source')} | `{r.get('relative_path')}` |")
     out.append("")
 
-    out.append("## Quarantine (rejected files)")
+    out.append("## Quarantine")
     out.append("")
+    if quarantined:
+        from collections import Counter as _C
+        by_q_src = _C(r["source"] for r in quarantined)
+        out.append(f"**{len(quarantined)} dokumentow** zarekwarantowanych przez Agent B audit (off-topic / niska jakosc / redundant).")
+        out.append("Pliki w `data/quarantine/<source>/`, wpisy w manifescie zachowane z `quality_flag=quarantine`.")
+        out.append("")
+        out.append("| Source | Count |")
+        out.append("|---|---|")
+        for k, v in by_q_src.most_common():
+            out.append(f"| {k} | {v} |")
+        out.append("")
     rej_dir = DATA_DIR / "quarantine" / "_failed"
     if rej_dir.exists():
         rejected = sorted(rej_dir.iterdir())
-        out.append(f"`data/quarantine/_failed/` has **{len(rejected)}** rejected items (404, missing PDF magic, WAF redirects).")
+        out.append(f"Plus `data/quarantine/_failed/` z **{len(rejected)}** items z fetch-time validation (404, brak PDF magic, WAF redirects).")
     out.append("")
 
     out.append("## Notes")
