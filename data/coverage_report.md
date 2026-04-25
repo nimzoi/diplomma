@@ -6,18 +6,18 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 
 | Kryterium | Wartosc |
 |---|---|
-| Liczba dokumentow | 242 |
+| Liczba dokumentow | 200 |
 | Pokrycie tematyczne (51) | 51/51 |
 | Warstwa L1 | 42 |
-| Warstwa L2 | 200 |
-| Stosunek .gov.pl | 242/242 |
-| Total MB on disk | 589.9 |
+| Warstwa L2 | 158 |
+| Stosunek .gov.pl | 200/200 |
+| Total MB on disk | 335.4 |
 
 ## By source
 
 | Source | Count |
 |---|---|
-| pip | 109 |
+| pip | 67 |
 | podatki | 64 |
 | eli | 37 |
 | zus | 19 |
@@ -28,14 +28,14 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 
 | Layer | Count |
 |---|---|
-| L2 | 200 |
+| L2 | 158 |
 | L1 | 42 |
 
 ## By format
 
 | Format | Count |
 |---|---|
-| pdf | 242 |
+| pdf | 200 |
 
 ## Topic coverage (51 topics)
 
@@ -77,14 +77,14 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 | ceidg_zamkniecie | ceidg | 5 |
 | ceidg_zmiana_wpisu | ceidg | 6 |
 | ceidg_dzialalnosc_nierejestrowana | ceidg | 3 |
-| kp_umowa_o_prace | kp | 16 |
+| kp_umowa_o_prace | kp | 15 |
 | kp_umowa_zlecenie | kp | 3 |
 | kp_umowa_o_dzielo | kp | 3 |
 | kp_czas_pracy | kp | 5 |
-| kp_urlop | kp | 37 |
+| kp_urlop | kp | 22 |
 | kp_wypowiedzenie | kp | 4 |
 | kp_swiadectwo_pracy | kp | 2 |
-| kp_bhp_biuro | kp | 51 |
+| kp_bhp_biuro | kp | 33 |
 | rodo_mala_firma | rodo | 10 |
 | rodo_rejestr_czynnosci | rodo | 1 |
 | rodo_iod | rodo | 2 |
@@ -100,15 +100,15 @@ Covered: **51/51**.  Gaps: **0**.
 | size MB | source | path |
 |---|---|---|
 | 69.4 | eli | `raw/legislation/eli_DU_2024_1936.pdf` |
-| 56.6 | pip | `raw/pip/niebezpieczny-azbest.pdf` |
-| 39.1 | pip | `raw/pip/instalacje-elektryczne-na-budowie.pdf` |
-| 33.1 | pip | `raw/pip/Komiks-moja-pierwsza-praca-2016.pdf` |
 | 28.9 | eli | `raw/legislation/eli_DU_1998_930.pdf` |
 | 26.1 | eli | `raw/legislation/eli_DU_1998_887.pdf` |
-| 24.7 | pip | `raw/pip/zgodnie-z-prawem-i-bezpiecznie-poradnikp39356.pdf` |
 | 14.4 | pip | `raw/pip/PORADNIK-DOTUBEZPIECZENIASAZ-1.pdf` |
 | 13.8 | eli | `raw/legislation/eli_DU_1974_141.pdf` |
-| 10.0 | pip | `raw/pip/bezpieczne-pozyskiwanie-drewna-dobre-praktyki.pdf` |
+| 7.8 | eli | `raw/legislation/eli_DU_1991_350.pdf` |
+| 7.0 | uodo | `raw/uodo/uodo_5687_poradnik_dotycz_cy_narusze_ochrony_danych_osobowych_plik_pdf.pdf` |
+| 6.1 | pip | `raw/pip/bezpiecznie-i-zgodnie-z-prawem-lista-kontrolna-z-komentarzemp35223.pdf` |
+| 5.6 | pip | `raw/pip/uzytkowanie-maszyn-minimalne-wymagania-dotyczne-bhp.pdf` |
+| 5.6 | pip | `raw/pip/bhp-w-biurze.pdf` |
 
 ## Quarantine (rejected files)
 

@@ -62,7 +62,7 @@ TOPICS: list[tuple[str, str, list[str]]] = [
     ("kp_urlop", "kp", ["urlop wypoczynkow", "urlop macierzyn", "wymiar urlopu", "urlop opiekun"]),
     ("kp_wypowiedzenie", "kp", ["wypowiedzenie umow", "okres wypowiedzenia", "wypowiedzenie", "rozwiazanie umowy", "rozwiązanie umowy", "rozwiazumowy", "zwolnienie od pracy", "zwolnienia grupowe", "ul-rozwiazumowy", "ustanie stosunku pracy"]),
     ("kp_swiadectwo_pracy", "kp", ["swiadectwo pracy", "świadectwo pracy"]),
-    ("kp_bhp_biuro", "kp", ["bhp biuro", "bhp praca zdaln", "szkolenie wstepne bhp", "szkolenie wstępne bhp"]),
+    ("kp_bhp_biuro", "kp", ["bhp biuro", "bhp praca zdaln", "szkolenie wstepne bhp", "szkolenie wstępne bhp", " bhp ", "bhp ", "ergonomi", "wypadek przy pracy", "ryzyk", "ocena ryzyka"]),
 
     # RODO
     ("rodo_mala_firma", "rodo", ["rodo mal", "rodo mał", "rodo przedsiebiorc", "rodo przedsiębiorc"]),

@@ -178,23 +178,27 @@ async def main() -> None:
                     procedure_links.append((u, t, p))
             await page.wait_for_timeout(600)
 
-        # Visit a sample of procedure pages (cap to avoid endless crawl)
+        # Visit ALL discovered portal/firma sub-pages (cap to avoid endless crawl)
         proc_seen: set[str] = set()
+        # Sort: prefer smaller portal IDs (older, more likely to have content)
         for u, t, p in procedure_links:
             if u in proc_seen or u in seen_urls:
                 continue
             proc_seen.add(u)
             seen_urls.add(u)
-            if not title_relevant(t, u):
-                continue
-            if len(proc_seen) > 80:
+            # Apply relevance filter only on anchor TEXT, not URL — anchors are usually section labels
+            if t and not title_relevant(t, u):
+                # Anchor was non-empty and didn't match — skip unless it's a /portal/ page
+                if "/portal/" not in u:
+                    continue
+            if len(proc_seen) > 200:
                 break
             sub = await collect_links(page, u, depth=1)
             for su, st, sp in sub:
                 lo = su.lower().split("?")[0]
                 if lo.endswith((".pdf", ".docx", ".doc", ".xlsx")):
                     asset_links.append((su, st, sp))
-            await page.wait_for_timeout(400)
+            await page.wait_for_timeout(300)
 
         # Pass cookies to a requests session for binary downloads
         cookies = await context.cookies()
@@ -217,8 +221,7 @@ async def main() -> None:
             continue
         seen_assets.add(url)
         title = title.strip() or slug_from_url(url)
-        if not title_relevant(title, url):
-            continue
+        # Don't filter assets — they were found on JDG-relevant seed/procedure pages.
         ext = "docx" if url.lower().split("?")[0].endswith(".docx") else "pdf"
         time.sleep(0.4)
         res = fetch(url, sess, accept="application/pdf" if ext == "pdf" else "application/vnd.openxmlformats-officedocument.wordprocessingml.document")
