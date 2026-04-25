@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 875015,
   "relative_path": "raw/pip/29STRESWPRACYPRACODAWCA2023INTERNET.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Stres w pracy. Poradnik dla pracodawcy",
+  "title": "Stres w pracy. Poradnik dla pracodawcy",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 10:00:40 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 16479,
+    "diacritics_ratio": 0.0527,
+    "vocab_hits": 4
   }
 }

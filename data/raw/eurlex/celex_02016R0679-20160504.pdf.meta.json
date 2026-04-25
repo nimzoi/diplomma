@@ -3,11 +3,11 @@
   "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:02016R0679-20160504",
   "source": "eurlex",
   "topic_ids": [
-    "rodo_mala_firma",
-    "rodo_rejestr_czynnosci",
     "rodo_iod",
     "rodo_klauzula_informacyjna",
-    "rodo_naruszenie"
+    "rodo_mala_firma",
+    "rodo_naruszenie",
+    "rodo_rejestr_czynnosci"
   ],
   "layer": "L1",
   "format": "pdf",
@@ -30,7 +30,6 @@
     "date": "Sat, 25 Apr 2026 09:37:18 GMT",
     "x-frame-options": "SAMEORIGIN",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "set-cookie": "AWSALB=F2bed98eu1jZAlQ7hL4DQgswPYEPmW+9OLTQ65FJhPol32TKrUvkzFkr7Hl4u4Q7ncPqxa0evAxCgsVgzesU4F6USIRnVLeJlYnwkraYXhPmpNsivd7kCXINZWht; Expires=Sat, 02 May 2026 09:37:18 GMT; Path=/, AWSALBCORS=F2bed98eu1jZAlQ7hL4DQgswPYEPmW+9OLTQ65FJhPol32TKrUvkzFkr7Hl4u4Q7ncPqxa0evAxCgsVgzesU4F6USIRnVLeJlYnwkraYXhPmpNsivd7kCXINZWht; Expires=Sat, 02 May 2026 09:37:18 GMT; Path=/; SameSite=None, dtCookie=v_4_srv_40_sn_C4453A05F1A39A7A4D8725F9967045EC_perc_100000_ol_0_mul_1_app-3A47d4c64c3b67ec69_0; Path=/; Domain=.europa.eu, ELX_SESSIONID=5_XEACi0pbeXyom0dw24aGsV-k4_LTz_tP6DUKxx8Rg07gvZM0Jg!-964676527; path=/; Path=/; Secure; HttpOnly, experimentalFeaturesActivated=false; expires=Mon, 25-May-2026 09:37:18 GMT; path=/",
     "cache-control": "max-age=0",
     "pragma": "public",
     "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
@@ -48,5 +47,11 @@
     "x-amz-cf-pop": "DEN52-P3",
     "x-amz-cf-id": "SBfugDCIwap1k_RrJCPDrgmPvXGuvDApUDKUwKwjnjEPjZii2fKn5g==",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 31591,
+    "diacritics_ratio": 0.0426,
+    "vocab_hits": 9
   }
 }

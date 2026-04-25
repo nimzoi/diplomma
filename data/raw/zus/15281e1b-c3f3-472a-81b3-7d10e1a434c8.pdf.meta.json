@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1377830,
   "relative_path": "raw/zus/15281e1b-c3f3-472a-81b3-7d10e1a434c8.pdf",
-  "title": "Pobierz \" \n                        Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe\n                         \" (pdf, 1346 kB)",
+  "title": "Pobierz \" Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe \" (pdf, 1346 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename=\"poradnik_wypadkowe.pdf\"",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 22653,
+    "diacritics_ratio": 0.042,
+    "vocab_hits": 8
   }
 }

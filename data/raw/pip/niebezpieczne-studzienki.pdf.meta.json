@@ -1,0 +1,45 @@
+{
+  "id": "0cca2da37af5845c",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/375/niebezpieczne-studzienki.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:51:25Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1448069,
+  "relative_path": "raw/pip/niebezpieczne-studzienki.pdf",
+  "title": "Niebezpieczne studzienki, szamba, zbiorniki",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=54",
+  "discovery_source": "paginacja",
+  "sha256": "0cca2da37af5845ca85d55584ce02c367858507c09110aee87714a57c640d22e",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"niebezpieczne studzienki.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:51:24 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 11047,
+    "diacritics_ratio": 0.0509,
+    "vocab_hits": 4
+  }
+}

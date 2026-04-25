@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename=\"Rachunki_IKE.pdf\"",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "off_topic",
+    "chars": 2718,
+    "diacritics_ratio": 0.0136,
+    "vocab_hits": 1
   }
 }

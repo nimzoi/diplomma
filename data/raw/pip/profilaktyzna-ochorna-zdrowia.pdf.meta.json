@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1307116,
   "relative_path": "raw/pip/profilaktyzna-ochorna-zdrowia.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Profilaktyczna ochrona zdrowia",
+  "title": "Profilaktyczna ochrona zdrowia",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:56:55 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 11671,
+    "diacritics_ratio": 0.0386,
+    "vocab_hits": 9
   }
 }

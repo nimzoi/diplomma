@@ -1,0 +1,45 @@
+{
+  "id": "ce5b35757b968088",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/1081/NagrodaGIP2024.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:50:22Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 9595127,
+  "relative_path": "raw/pip/NagrodaGIP2024.pdf",
+  "title": "Nagrody Głównego Inspektora Pracy - 2024",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=0",
+  "discovery_source": "paginacja",
+  "sha256": "ce5b35757b968088e7a91b342344a968293f9d98fb42a7825f0d37ad5d487501",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"Nagroda_GIP_2024.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:50:20 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 11687,
+    "diacritics_ratio": 0.0487,
+    "vocab_hits": 5
+  }
+}

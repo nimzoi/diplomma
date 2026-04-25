@@ -7,7 +7,7 @@
   ],
   "layer": "L2",
   "format": "pdf",
-  "fetched_at": "2026-04-25T09:56:06Z",
+  "fetched_at": "2026-04-25T10:50:19Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "bytes": 1348767,
@@ -32,8 +32,14 @@
     "vary": "Accept-Encoding,User-Agent",
     "content-encoding": "gzip",
     "content-type": "application/octet-stream",
-    "date": "Sat, 25 Apr 2026 09:56:05 GMT",
+    "date": "Sat, 25 Apr 2026 10:50:18 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 17074,
+    "diacritics_ratio": 0.037,
+    "vocab_hits": 7
   }
 }

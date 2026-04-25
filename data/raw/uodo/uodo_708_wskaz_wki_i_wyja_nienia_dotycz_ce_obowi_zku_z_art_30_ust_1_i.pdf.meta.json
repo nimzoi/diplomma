@@ -32,5 +32,11 @@
     "pragma": "no-cache",
     "expires": "Sat, 25 Apr 2026 10:00:02 GMT",
     "strict-transport-security": "max-age=31536000"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 35971,
+    "diacritics_ratio": 0.0381,
+    "vocab_hits": 13
   }
 }

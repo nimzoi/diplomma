@@ -3,8 +3,8 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.pdf",
   "source": "eli",
   "topic_ids": [
-    "rodo_mala_firma",
     "rodo_iod",
+    "rodo_mala_firma",
     "rodo_naruszenie"
   ],
   "layer": "L1",
@@ -32,5 +32,11 @@
     "access-control-max-age": "7200",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 46380,
+    "diacritics_ratio": 0.0376,
+    "vocab_hits": 13
   }
 }

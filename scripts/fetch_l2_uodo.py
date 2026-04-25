@@ -42,7 +42,7 @@ UA_CHROME = (
 
 DROP_KEYWORDS = [
     "english", "deutsch", "francais", "espanol", "ucraina", "ukraine",
-    "fundamental rights", "border guards", "managers"
+    "fundamental rights", "border guards", "managers",
     " en ", " de ",
 ]
 KEEP_KEYWORDS = [

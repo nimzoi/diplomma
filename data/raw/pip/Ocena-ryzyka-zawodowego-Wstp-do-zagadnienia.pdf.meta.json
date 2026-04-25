@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 632611,
   "relative_path": "raw/pip/Ocena-ryzyka-zawodowego-Wstp-do-zagadnienia.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Ocena ryzyka zawodowego. Wstęp do zagadnienia",
+  "title": "Ocena ryzyka zawodowego. Wstęp do zagadnienia",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:56:25 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 19305,
+    "diacritics_ratio": 0.0507,
+    "vocab_hits": 9
   }
 }

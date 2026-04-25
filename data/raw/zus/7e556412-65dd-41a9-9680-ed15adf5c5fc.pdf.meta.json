@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 3779855,
   "relative_path": "raw/zus/7e556412-65dd-41a9-9680-ed15adf5c5fc.pdf",
-  "title": "Pobierz \" \n                        ZUS RCA - Imienny raport miesięczny o należnych składkach i wypłaconych świadczeniach\n                         \" (pdf, 3691 kB)",
+  "title": "Pobierz \" ZUS RCA - Imienny raport miesięczny o należnych składkach i wypłaconych świadczeniach \" (pdf, 3691 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename=\"ZUS_RCA.pdf\"",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 37919,
+    "diacritics_ratio": 0.038,
+    "vocab_hits": 13
   }
 }

@@ -1,0 +1,45 @@
+{
+  "id": "58115d329c130088",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/349/instalacje-elektryczne-na-budowie.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:51:06Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 40963808,
+  "relative_path": "raw/pip/instalacje-elektryczne-na-budowie.pdf",
+  "title": "Instalacje elektryczne na budowie",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36",
+  "discovery_source": "paginacja",
+  "sha256": "58115d329c130088ae6f4e21c4a87e48d5d35c18f3398139560230c48d1b8aa6",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"instalacje elektryczne na budowie.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:51:04 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 16868,
+    "diacritics_ratio": 0.0438,
+    "vocab_hits": 3
+  }
+}

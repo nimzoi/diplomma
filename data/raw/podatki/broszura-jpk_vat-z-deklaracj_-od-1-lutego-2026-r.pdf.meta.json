@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1696701,
   "relative_path": "raw/podatki/broszura-jpk_vat-z-deklaracj_-od-1-lutego-2026-r.pdf",
-  "title": "Broszura - JPK_VAT z deklaracją od 1 lutego 2026  PDF, 1,62 MB",
+  "title": "Broszura - JPK_VAT z deklaracją od 1 lutego 2026 PDF, 1,62 MB",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -38,5 +38,11 @@
     "referrer-policy": "strict-origin-when-cross-origin",
     "x-cdn": "Imperva",
     "x-iinfo": "13-46423246-46447129 pNNy RT(1777110517734 172946) q(0 0 0 -1) r(1 1) U12"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 15845,
+    "diacritics_ratio": 0.0309,
+    "vocab_hits": 7
   }
 }

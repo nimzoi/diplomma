@@ -1,0 +1,45 @@
+{
+  "id": "9e848ffe3c03255c",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/399/agencja-pracy-tymczasowejp21025.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:51:43Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1764610,
+  "relative_path": "raw/pip/agencja-pracy-tymczasowejp21025.pdf",
+  "title": "Agencja pracy tymczasowej",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72",
+  "discovery_source": "paginacja",
+  "sha256": "9e848ffe3c03255cb4faecb4b8844ae4b4de14d61428627c9bac258eecee676f",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"agencja-pracy-tymczasowej_p21025.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:51:43 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 3341,
+    "diacritics_ratio": 0.0335,
+    "vocab_hits": 2
+  }
+}

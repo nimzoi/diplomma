@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 637160,
   "relative_path": "raw/pip/Nadgodziny-w-praktyce.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Nadgodziny w praktyce",
+  "title": "Nadgodziny w praktyce",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:56:10 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 12665,
+    "diacritics_ratio": 0.0325,
+    "vocab_hits": 3
   }
 }

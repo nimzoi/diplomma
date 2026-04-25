@@ -38,5 +38,11 @@
     "referrer-policy": "strict-origin-when-cross-origin",
     "x-cdn": "Imperva",
     "x-iinfo": "13-46423246-46447129 pNNy RT(1777110517734 161644) q(0 0 0 -1) r(1 1) U12"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 15248,
+    "diacritics_ratio": 0.039,
+    "vocab_hits": 9
   }
 }

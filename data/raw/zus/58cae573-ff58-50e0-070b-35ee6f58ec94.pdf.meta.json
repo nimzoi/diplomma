@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1358099,
   "relative_path": "raw/zus/58cae573-ff58-50e0-070b-35ee6f58ec94.pdf",
-  "title": "Pobierz \" \n                        Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe wersja archiwalna do 31 marca 2024 r.\n                         \" (pdf, 1326 kB)",
+  "title": "Pobierz \" Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe wersja archiwalna do 31 marca 2024 r. \" (pdf, 1326 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename=\"poradnik_wypadkowe_wersja_archiwalna_do_marca_2024.pdf\"",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 19891,
+    "diacritics_ratio": 0.0426,
+    "vocab_hits": 8
   }
 }

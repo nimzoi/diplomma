@@ -1,0 +1,45 @@
+{
+  "id": "af8b64fca6845bf5",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/532/br-CzynnikiPsychospol-KierowcowXxx-Internet.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:52:07Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 2381878,
+  "relative_path": "raw/pip/br-CzynnikiPsychospol-KierowcowXxx-Internet.pdf",
+  "title": "CZYNNIKI PSYCHOSPOŁECZNE Informator dla kierowców",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=45",
+  "discovery_source": "paginacja",
+  "sha256": "af8b64fca6845bf5f4c29bdbf0b8f183eeba832e175cad376c4ef6bd33bbfbb4",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"br CzynnikiPsychospol-KierowcowXxx Internet.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:52:06 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 16444,
+    "diacritics_ratio": 0.0308,
+    "vocab_hits": 8
+  }
+}

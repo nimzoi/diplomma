@@ -3,7 +3,8 @@
   "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/411/ul-rozwiazumowy-wzn2021-okp26812.pdf",
   "source": "pip",
   "topic_ids": [
-    "kp_bhp_biuro"
+    "kp_bhp_biuro",
+    "kp_wypowiedzenie"
   ],
   "layer": "L2",
   "format": "pdf",
@@ -12,7 +13,7 @@
   "content_type": "application/pdf",
   "bytes": 1296567,
   "relative_path": "raw/pip/ul-rozwiazumowy-wzn2021-okp26812.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Rozwiązywanie umów o pracę",
+  "title": "Rozwiązywanie umów o pracę",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +36,11 @@
     "date": "Sat, 25 Apr 2026 09:58:21 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 11655,
+    "diacritics_ratio": 0.0468,
+    "vocab_hits": 4
   }
 }

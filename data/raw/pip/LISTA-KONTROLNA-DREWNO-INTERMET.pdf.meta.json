@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 911925,
   "relative_path": "raw/pip/LISTA-KONTROLNA-DREWNO-INTERMET.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Bezpieczne pozyskanie drewna Lista kontrolna z komentarzem",
+  "title": "Bezpieczne pozyskanie drewna Lista kontrolna z komentarzem",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:57:02 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 43467,
+    "diacritics_ratio": 0.0441,
+    "vocab_hits": 10
   }
 }

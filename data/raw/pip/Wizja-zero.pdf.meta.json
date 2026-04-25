@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:55:58 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 9576,
+    "diacritics_ratio": 0.0451,
+    "vocab_hits": 3
   }
 }

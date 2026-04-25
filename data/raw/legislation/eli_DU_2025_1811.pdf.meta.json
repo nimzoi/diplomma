@@ -30,5 +30,11 @@
     "access-control-max-age": "7200",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 1337,
+    "diacritics_ratio": 0.0411,
+    "vocab_hits": 6
   }
 }

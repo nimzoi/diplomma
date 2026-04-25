@@ -7,12 +7,12 @@
   ],
   "layer": "L2",
   "format": "pdf",
-  "fetched_at": "2026-04-25T10:00:34Z",
+  "fetched_at": "2026-04-25T10:53:25Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "bytes": 5878295,
   "relative_path": "raw/pip/uzytkowanie-maszyn-minimalne-wymagania-dotyczne-bhp.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Użytkowanie maszyn. Minimalne wymagania dotyczące bhp. Lista kontrolna z komentarzem",
+  "title": "Użytkowanie maszyn. Minimalne wymagania dotyczące bhp. Lista kontrolna z komentarzem",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,8 +32,14 @@
     "vary": "Accept-Encoding,User-Agent",
     "content-encoding": "gzip",
     "content-type": "application/octet-stream",
-    "date": "Sat, 25 Apr 2026 10:00:33 GMT",
+    "date": "Sat, 25 Apr 2026 10:53:24 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 19947,
+    "diacritics_ratio": 0.0403,
+    "vocab_hits": 4
   }
 }

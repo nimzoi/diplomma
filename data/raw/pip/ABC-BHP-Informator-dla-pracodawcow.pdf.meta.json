@@ -1,0 +1,45 @@
+{
+  "id": "427c92fc0064d62a",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/382/ABC-BHP-Informator-dla-pracodawcow.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:51:31Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1424069,
+  "relative_path": "raw/pip/ABC-BHP-Informator-dla-pracodawcow.pdf",
+  "title": "ABC-BHP. Informator dla pracodawców",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63",
+  "discovery_source": "paginacja",
+  "sha256": "427c92fc0064d62afcc5b1137e9b100a8039ef95e75c45ae16bad3670acda101",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"ABC BHP Informator dla pracodawcow.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:51:30 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 16775,
+    "diacritics_ratio": 0.0429,
+    "vocab_hits": 11
+  }
+}

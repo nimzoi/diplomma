@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 438346,
   "relative_path": "raw/pip/pierwsza-pomoc-apteczka.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Pierwsza pomoc-apteczka",
+  "title": "Pierwsza pomoc-apteczka",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 10:00:08 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 4302,
+    "diacritics_ratio": 0.0407,
+    "vocab_hits": 6
   }
 }

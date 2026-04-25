@@ -1,10 +1,6 @@
 id,url,source,topic_ids,layer,format,fetched_at,http_status,content_type,bytes,relative_path,title,last_modified,is_official,eli_id,parent_url,discovery_source,sha256,quality_flag,notes
-bb87011289bd12f1,https://api.sejm.gov.pl/eli/acts/DU/1974/24/text.pdf,eli,kp_czas_pracy;kp_umowa_o_prace,L1,pdf,2026-04-25T09:37:07Z,200,application/pdf,292265,raw/legislation/eli_DU_1974_24.pdf,Kodeks pracy,,True,DU/1974/24,,seed,bb87011289bd12f1c2e8e291c092167b68b9e4db5b0f9aa76ccd51264ada4973,accepted,MUST act per spec 5.1
-954fed434b8cc47e,https://api.sejm.gov.pl/eli/acts/DU/1991/80/text.pdf,eli,pit_amortyzacja;pit_ip_box;pit_kup;pit_liniowy;pit_skala,L1,pdf,2026-04-25T09:37:11Z,200,application/pdf,3302690,raw/legislation/eli_DU_1991_80.pdf,Ustawa o podatku dochodowym od osob fizycznych (PIT),,True,DU/1991/80,,seed,954fed434b8cc47e9cf55d14a8169941b4400df7188a9968ef39d234c801f686,accepted,MUST act per spec 5.1
-e304cd18b03e2b71,https://api.sejm.gov.pl/eli/acts/DU/1998/144/text.pdf,eli,pit_ewidencja_ryczalt;pit_karta_podatkowa;pit_ryczalt;pit_stawki_ryczalt_pkd,L1,pdf,2026-04-25T09:37:12Z,200,application/pdf,923436,raw/legislation/eli_DU_1998_144.pdf,Ustawa o zryczaltowanym podatku dochodowym od niektorych przychodow (ryczalt),,True,DU/1998/144,,seed,e304cd18b03e2b717a76be55f873f14ff39d03c84560d18b21000119863f0ce9,accepted,MUST act per spec 5.1
 1338f4016b7e2d0a,https://api.sejm.gov.pl/eli/acts/DU/2004/535/text.pdf,eli,vat_biala_lista;vat_jpk;vat_ksef;vat_marza;vat_rejestracja;vat_stawki;vat_ue;vat_zwolnienie_200k,L1,pdf,2026-04-25T09:37:13Z,200,application/pdf,565874,raw/legislation/eli_DU_2004_535.pdf,Ustawa o podatku od towarow i uslug (VAT),,True,DU/2004/535,,seed,1338f4016b7e2d0a0cad38af78dab8b0edad2612d883e96345bf16677c1c517a,accepted,MUST act per spec 5.1
-9bd2ae274db98028,https://api.sejm.gov.pl/eli/acts/DU/2018/646/text.pdf,eli,ceidg_dzialalnosc_nierejestrowana;ceidg_wznowienie;ceidg_zamkniecie;ceidg_zawieszenie;ceidg_zmiana_wpisu;zus_ulga_na_start;zus_zawieszenie_dzialalnosci,L1,pdf,2026-04-25T09:37:14Z,200,application/pdf,340111,raw/legislation/eli_DU_2018_646.pdf,Prawo przedsiebiorcow,,True,DU/2018/646,,seed,9bd2ae274db98028733d3f8b76b1604afa249f54813ea3baa47c711e49e6f692,accepted,MUST act per spec 5.1
-1a4ee09b51efc737,https://api.sejm.gov.pl/eli/acts/DU/1998/137/text.pdf,eli,zus_maly_zus_plus;zus_podstawa_wymiaru;zus_preferencyjny;zus_wakacje_skladkowe;zus_zasilek_chorobowy_jdg;zus_zua_zwua_dra,L1,pdf,2026-04-25T09:37:15Z,200,application/pdf,492180,raw/legislation/eli_DU_1998_137.pdf,Ustawa o systemie ubezpieczen spolecznych,,True,DU/1998/137,,seed,1a4ee09b51efc7374e5e8f14029a8af11fc3f995f346c240c222c7f10f27f6df,accepted,MUST act per spec 5.1
+9bd2ae274db98028,https://api.sejm.gov.pl/eli/acts/DU/2018/646/text.pdf,eli,ceidg_dzialalnosc_nierejestrowana;ceidg_wznowienie;ceidg_zamkniecie;ceidg_zawieszenie;ceidg_zmiana_wpisu;zus_ulga_na_start;zus_zawieszenie_dzialalnosci,L1,pdf,2026-04-25T09:37:14Z,200,application/pdf,340111,raw/legislation/eli_DU_2018_646.pdf,przedsiebiorcow,,True,DU/2018/646,,seed,9bd2ae274db98028733d3f8b76b1604afa249f54813ea3baa47c711e49e6f692,accepted,MUST act per spec 5.1
 d5c949dabcf44f4b,https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.pdf,eli,rodo_iod;rodo_mala_firma;rodo_naruszenie,L1,pdf,2026-04-25T09:37:17Z,200,application/pdf,840794,raw/legislation/eli_DU_2018_1000.pdf,Ustawa o ochronie danych osobowych,,True,DU/2018/1000,,seed,d5c949dabcf44f4ba841d35938ee8c6661f1b2a0a25077427f7086b0cbb14203,accepted,MUST act per spec 5.1
 51f7dd566c688808,https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:02016R0679-20160504,eurlex,rodo_iod;rodo_klauzula_informacyjna;rodo_mala_firma;rodo_naruszenie;rodo_rejestr_czynnosci,L1,pdf,2026-04-25T09:37:18Z,200,application/pdf,821597,raw/eurlex/celex_02016R0679-20160504.pdf,RODO (Rozporzadzenie 2016/679) - tekst skonsolidowany PL,,True,CELEX:02016R0679-20160504,,seed,51f7dd566c6888082ca9cd460c90a44613d037bf402306b444de1b467eb8d5a0,accepted,MUST act per spec 5.1 (EUR-Lex)
 02eb7cb764bfecd0,https://api.sejm.gov.pl/eli/acts/DU/2025/1299/text.pdf,eli,pit_kpir,L1,pdf,2026-04-25T09:38:32Z,200,application/pdf,973918,raw/legislation/eli_DU_2025_1299.pdf,Rozporządzenie Ministra Finansów i Gospodarki z dnia 6 września 2025 r. w sprawie prowadzenia podatkowej księgi przychodów i rozchodów,,True,DU/2025/1299,,references_api,02eb7cb764bfecd04d04eadb4de686ce0b3ba5e726abafc1cc564a5e9b318331,accepted,status=obowiązujący inForce=IN_FORCE
@@ -37,32 +33,31 @@ a34a37247c4d8ea5,https://api.sejm.gov.pl/eli/acts/DU/2026/85/text.pdf,eli,ceidg_
 1c2e9a082a66fad6,https://api.sejm.gov.pl/eli/acts/DU/2025/24/text.pdf,eli,kp_umowa_o_dzielo;pit_ip_box,L1,pdf,2026-04-25T09:41:46Z,200,application/pdf,1023163,raw/legislation/eli_DU_2025_24.pdf,Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o prawie autorskim i prawach pokrewnych,,True,DU/2025/24,,search_consolidated,1c2e9a082a66fad6e26bba1d4d01a22bd67871657416729cea62b4b9f71cff86,accepted,status=obowiązujący inForce=IN_FORCE consolidated_attempt
 6fdd15b85f55679e,https://api.sejm.gov.pl/eli/acts/DU/2026/522/text.pdf,eli,pit_amortyzacja;pit_kpir,L1,pdf,2026-04-25T09:41:49Z,200,application/pdf,1369897,raw/legislation/eli_DU_2026_522.pdf,Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rachunkowości,,True,DU/2026/522,,search_consolidated,6fdd15b85f55679eebeaf9b74c44ea339db61302304007d1bf8d9fecd5aba748,accepted,status=obowiązujący inForce=IN_FORCE consolidated_attempt
 79285700808e99ab,https://api.sejm.gov.pl/eli/acts/DU/2025/1811/text.pdf,eli,vat_ksef,L1,pdf,2026-04-25T09:41:51Z,200,application/pdf,158742,raw/legislation/eli_DU_2025_1811.pdf,Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o podatku od towarów i usług,,True,DU/2025/1811,,search_consolidated,79285700808e99abef535ce242eedac8906d3e484ab6ad176b43e6743e0d742f,accepted,status=obowiązujący inForce=IN_FORCE consolidated_attempt
-431305a3fa55d3b8,https://www.podatki.gov.pl/media/3iihmzvp/broszura_przew_ver_en.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:50:55Z,200,application/pdf,26444,raw/podatki/broszura_przew_ver_en.pdf,"Special VAT scheme for occasional international road carriage of passengers  PDF, 25,82 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/vat/formularze/,bfs,431305a3fa55d3b8d73f4f5f40c226c26deeb3d25d99dcc334094ff7730575a0,accepted,
+431305a3fa55d3b8,https://www.podatki.gov.pl/media/3iihmzvp/broszura_przew_ver_en.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:50:55Z,200,application/pdf,26444,raw/podatki/broszura_przew_ver_en.pdf,"Special VAT scheme for occasional international road carriage of passengers PDF, 25,82 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/vat/formularze/,bfs,431305a3fa55d3b8d73f4f5f40c226c26deeb3d25d99dcc334094ff7730575a0,accepted,
 d3c34b9c8779d20d,https://www.podatki.gov.pl/media/firhu0w2/pit-2_-9-20.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:50:56Z,200,application/pdf,311604,raw/podatki/pit-2_-9-20.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,d3c34b9c8779d20d2cc51f942e6dc06f2f73d1026346db3295087b0b155ef24f,accepted,
 e2152a4efda9d442,https://www.podatki.gov.pl/media/533heipr/pit-2a_-8-15.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:50:56Z,200,application/pdf,396068,raw/podatki/pit-2a_-8-15.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,e2152a4efda9d44267617b7163d4c12cfca583bce8dcdc9f61a097c7eefdadac,accepted,
 7a5424500af531e8,https://www.podatki.gov.pl/media/tqgfka2u/pit-3_-8-15.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:50:57Z,200,application/pdf,375330,raw/podatki/pit-3_-8-15.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,7a5424500af531e8f31b1fbd4eedbc410c4acd534cc434ef92649068ca1e1091,accepted,
 71ee54acd394c52d,https://www.podatki.gov.pl/media/vrelyzas/pit-6_-14-2019.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:50:58Z,200,application/pdf,59541,raw/podatki/pit-6_-14-2019.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,71ee54acd394c52d44e232fb58e7cb2bf25f03da575b29aab447ebf7d90cf701,accepted,
-6ceb9733591ec091,https://www.podatki.gov.pl/media/ruunabvq/pit-19a-11-_v1-0e.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:50:59Z,200,application/pdf,87225,raw/podatki/pit-19a-11-_v1-0e.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,6ceb9733591ec0912fbd53307bbae32ac3cdeebed71467bebc2f2214f07e5d5e,accepted,
 49d8081f006b8f06,https://www.podatki.gov.pl/media/xlydqvvy/pit-19a_11-05.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:00Z,200,application/pdf,348180,raw/podatki/pit-19a_11-05.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,49d8081f006b8f060cdfe32321c004c95c56bc52fb23f722e49b6e1a2ff001a5,accepted,
 6da311fdf05b8886,https://www.podatki.gov.pl/media/fxtjmvnu/pit-28_-27-07.pdf,podatki,pit_roczny;pit_ryczalt,L2,pdf,2026-04-25T09:51:01Z,200,application/pdf,418737,raw/podatki/pit-28_-27-07.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,6da311fdf05b88867f22fc808c302e498ffb706aa6fa12fcbe66d0bb638d60fc,accepted,
-a8e0ede428957d78,https://www.podatki.gov.pl/media/i11o5dtk/broszura-do-pit-36-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:02Z,200,application/pdf,844955,raw/podatki/broszura-do-pit-36-za-2025-r.pdf,"Broszura do PIT 36 za 2025 r.  PDF, 825,15 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,a8e0ede428957d78a9c8b1d78290ac4fb5980a99f010769961001aa13accbc32,accepted,
-89cae4a89ac5ab02,https://www.podatki.gov.pl/media/zzfhmt2c/broszura-pit-37-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:03Z,200,application/pdf,623380,raw/podatki/broszura-pit-37-za-2025-r.pdf,"Broszura PIT 37 za 2025 r .  PDF, 608,77 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,89cae4a89ac5ab02cbbc0b8667dcbf3e85a423c49ab11a1aceaf10c5b5f73877,accepted,
-c6da0a805166fb4b,https://www.podatki.gov.pl/media/g5ebnm2e/broszura-do-pit-38-za-2025-r.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:05Z,200,application/pdf,970993,raw/podatki/broszura-do-pit-38-za-2025-r.pdf,"Broszura informacyjna PIT-38  PDF, 948,24 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,c6da0a805166fb4bc8c56556e2325841b4dc99e514892706f9a3b79560cf61a9,accepted,
+a8e0ede428957d78,https://www.podatki.gov.pl/media/i11o5dtk/broszura-do-pit-36-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:02Z,200,application/pdf,844955,raw/podatki/broszura-do-pit-36-za-2025-r.pdf,"Broszura do PIT 36 za 2025 r. PDF, 825,15 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,a8e0ede428957d78a9c8b1d78290ac4fb5980a99f010769961001aa13accbc32,accepted,
+89cae4a89ac5ab02,https://www.podatki.gov.pl/media/zzfhmt2c/broszura-pit-37-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:03Z,200,application/pdf,623380,raw/podatki/broszura-pit-37-za-2025-r.pdf,"Broszura PIT 37 za 2025 r . PDF, 608,77 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,89cae4a89ac5ab02cbbc0b8667dcbf3e85a423c49ab11a1aceaf10c5b5f73877,accepted,
+c6da0a805166fb4b,https://www.podatki.gov.pl/media/g5ebnm2e/broszura-do-pit-38-za-2025-r.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:05Z,200,application/pdf,970993,raw/podatki/broszura-do-pit-38-za-2025-r.pdf,"Broszura informacyjna PIT-38 PDF, 948,24 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,c6da0a805166fb4bc8c56556e2325841b4dc99e514892706f9a3b79560cf61a9,accepted,
 0f6e6c967e589982,https://www.podatki.gov.pl/media/m0reedog/pit-39_-12-03.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:06Z,200,application/pdf,382719,raw/podatki/pit-39_-12-03.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,0f6e6c967e5899828b3f52a3730555d42e9e259e736a81348bfe4225419b11c0,accepted,
-596ea41ce5f3cce8,https://www.podatki.gov.pl/media/qjxbmjh1/broszura-do-pit-39-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:07Z,200,application/pdf,355613,raw/podatki/broszura-do-pit-39-za-2025-r.pdf,"Broszura do PIT 39 za 2025 r.  PDF, 347,28 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,596ea41ce5f3cce82d3ce6cfc4958a2842316e9b4857c4998eef1867f0019183,accepted,
+596ea41ce5f3cce8,https://www.podatki.gov.pl/media/qjxbmjh1/broszura-do-pit-39-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:07Z,200,application/pdf,355613,raw/podatki/broszura-do-pit-39-za-2025-r.pdf,"Broszura do PIT 39 za 2025 r. PDF, 347,28 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,596ea41ce5f3cce82d3ce6cfc4958a2842316e9b4857c4998eef1867f0019183,accepted,
 908d3f7a5b284472,https://www.podatki.gov.pl/media/mwch4eli/pit-dz_-2-13.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:08Z,200,application/pdf,212261,raw/podatki/pit-dz_-2-13.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,908d3f7a5b284472924d4f59e1a1516e7a077e6f47e595441486c772f2255362,accepted,
 3fb14f884978cbf6,https://www.podatki.gov.pl/media/ohuitkaw/pit-op_-03-10.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:09Z,200,application/pdf,204363,raw/podatki/pit-op_-03-10.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,3fb14f884978cbf6c4830f6643e2560dcabf7d45d06f5f2d0da2e9bc05b56e50,accepted,
 81aada989a81c7a0,https://www.podatki.gov.pl/media/s5ankliq/pit-28b_-20-03.pdf,podatki,pit_roczny;pit_ryczalt,L2,pdf,2026-04-25T09:51:09Z,200,application/pdf,145383,raw/podatki/pit-28b_-20-03.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,81aada989a81c7a08f9d0e58776ba218dcfcecd33a7bb82b6a0eb5a034b407d6,accepted,
 7938116f7889fde5,https://www.podatki.gov.pl/media/werjsgbs/pit-2k_-9-13.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:10Z,200,application/pdf,238617,raw/podatki/pit-2k_-9-13.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,7938116f7889fde53b28b53141e9d0e76bf966f98e853105738b4571a7b2a0df,accepted,
 15cd6ec718928916,https://www.podatki.gov.pl/media/zl0ldc5t/pit_b_-22-08.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:11Z,200,application/pdf,235374,raw/podatki/pit_b_-22-08.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,15cd6ec71892891654908f8572be13cb4240a18ef5e0d4ba71b132afd28a2c8a,accepted,
 6ddaa2b1bf4ae633,https://www.podatki.gov.pl/media/rg3l5cba/pit_br_-7-06.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:12Z,200,application/pdf,189596,raw/podatki/pit_br_-7-06.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,6ddaa2b1bf4ae633e59afa1d93d8627a523af47bda89d7d8c770f41c713577fe,accepted,
-254040c213175eaf,https://www.podatki.gov.pl/media/ighbx5ch/pit-d-broszura-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:13Z,200,application/pdf,474935,raw/podatki/pit-d-broszura-za-2025-r.pdf,"PIT D Broszura informacyjna za 2025 r.  PDF, 463,80 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,254040c213175eaf7339239a1f2d65f7b966cc72ba65d4774e50fce7b9311d4b,accepted,
+254040c213175eaf,https://www.podatki.gov.pl/media/ighbx5ch/pit-d-broszura-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:13Z,200,application/pdf,474935,raw/podatki/pit-d-broszura-za-2025-r.pdf,"PIT D Broszura informacyjna za 2025 r. PDF, 463,80 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,254040c213175eaf7339239a1f2d65f7b966cc72ba65d4774e50fce7b9311d4b,accepted,
 dc0e003d13f5f970,https://www.podatki.gov.pl/media/b11bmfdz/pit_ds_-6-01.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:13Z,200,application/pdf,259404,raw/podatki/pit_ds_-6-01.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,dc0e003d13f5f970339665afe8154b36843905b3e747cee252302c62a9d39b45,accepted,
 657426cf047bf295,https://www.podatki.gov.pl/media/litajg0p/pit_ip_-5-02.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:14Z,200,application/pdf,215533,raw/podatki/pit_ip_-5-02.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,657426cf047bf295969ad0bd743aa1003aa6671fbafda9752628fd8d84ef7b9a,accepted,
 c732b116b802f131,https://www.podatki.gov.pl/media/qh2hy552/pit_m_-10-04.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:15Z,200,application/pdf,146931,raw/podatki/pit_m_-10-04.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,c732b116b802f131186536c931a1b1e7d6ac258636269667ce19f9b19c5b125a,accepted,
 6d5c50569c6b5774,https://www.podatki.gov.pl/media/23nduekf/pit_mit_-2.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:16Z,200,application/pdf,286867,raw/podatki/pit_mit_-2.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,6d5c50569c6b5774115c10bfb734d8fe1a178efd809a48a87f278d89fe679489,accepted,
 28a43ada84588051,https://www.podatki.gov.pl/media/k0wicjih/pit-nzi_-1-16.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:17Z,200,application/pdf,43972,raw/podatki/pit-nzi_-1-16.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,28a43ada845880519c3be804c3bfcb49abd43efee77d480065f9dcf8d57049ba,accepted,
-bdd5128ca60b9254,https://www.podatki.gov.pl/media/z5abnlba/pit-o-broszura-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:17Z,200,application/pdf,641708,raw/podatki/pit-o-broszura-za-2025-r.pdf,"PIT O Broszura informacyjna za 2025 r.  PDF, 626,67 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,bdd5128ca60b92548429d0954d6ec63c101e9f9f993fff92217b8385dda8eae3,accepted,
+bdd5128ca60b9254,https://www.podatki.gov.pl/media/z5abnlba/pit-o-broszura-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:17Z,200,application/pdf,641708,raw/podatki/pit-o-broszura-za-2025-r.pdf,"PIT O Broszura informacyjna za 2025 r. PDF, 626,67 kB",,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,bdd5128ca60b92548429d0954d6ec63c101e9f9f993fff92217b8385dda8eae3,accepted,
 a06c81db5d44a167,https://www.podatki.gov.pl/media/l5zmaugv/pit_pm_-1.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:18Z,200,application/pdf,301794,raw/podatki/pit_pm_-1.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,a06c81db5d44a16703a9c66d185ee57933182fd70fbc530da3cb7d578d075eff,accepted,
 d178b9593d0feaaa,https://www.podatki.gov.pl/media/3lajnllf/pit_se_-4-06.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:19Z,200,application/pdf,163516,raw/podatki/pit_se_-4-06.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,d178b9593d0feaaa5385d1c4b72e3484742942a0aa16e5ab6d20935cc2ba7223,accepted,
 acb93444e95efcf6,https://www.podatki.gov.pl/media/2tyaqvuy/pit_wz_-2.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:20Z,200,application/pdf,371529,raw/podatki/pit_wz_-2.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,acb93444e95efcf6ee1bbe1cdfdde14b901ef816bcae95abd2c33b7590b8f2cc,accepted,
@@ -70,32 +65,25 @@ b97e207166b2dc08,https://www.podatki.gov.pl/media/vswlf3rz/pit-wzr-02-13.pdf,pod
 5e3b93d22f8cc960,https://www.podatki.gov.pl/media/q2cnuylu/pit_z_-11-02.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:21Z,200,application/pdf,286601,raw/podatki/pit_z_-11-02.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,5e3b93d22f8cc9601dc11d932362811ab9a4203543f92e71532ba24a8e6eaba5,accepted,
 e4108d14529a3fd6,https://www.podatki.gov.pl/media/jlvjafcd/pit_zg_-8-07-1.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:22Z,200,application/pdf,165081,raw/podatki/pit_zg_-8-07-1.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/formularze/,bfs,e4108d14529a3fd677adae1e86794c675e78d18fd3012929e84acdbc502bae56,accepted,
 02f0cc75f89d112b,https://www.podatki.gov.pl/media/id5n1qcz/poradnik-dla-emerytów-i-rencistów-jak-prawidłowo-rozliczyć-pit.pdf,podatki,zus_emerytura_jdg,L2,pdf,2026-04-25T09:51:23Z,200,application/pdf,1813412,raw/podatki/poradnik-dla-emeryt_w-i-rencist_w-jak-prawid_owo-rozliczy_-pit.pdf,Poradnik dla emerytów i rencistów - jak prawidłowo rozliczyć PIT,,True,,https://www.podatki.gov.pl/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-emerytury-lub-renty/,bfs,02f0cc75f89d112b052d22a5693fa993d95adb8794f23360cb72223e0e71d375,accepted,
-631d03cba488fe8b,https://www.podatki.gov.pl/media/uvyd0vnl/specyfikacja-interfejsów-usług-jpk-wersja-540.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:26Z,200,application/pdf,692514,raw/podatki/specyfikacja-interfejs_w-us_ug-jpk-wersja-540.pdf,"Specyfikacja Interfejsów usług JPK wersja 5.4.0  PDF, 676,28 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,631d03cba488fe8bd4c8c7bed99a461b84397cc5b60d625f9cb28af14fddccb4,accepted,
-889545cda6ebd2a0,https://www.podatki.gov.pl/media/hwsb3pqh/zmiany_w_schemie_jpk_v7m3-2.pdf,podatki,vat_jpk,L2,pdf,2026-04-25T09:51:27Z,200,application/pdf,240182,raw/podatki/zmiany_w_schemie_jpk_v7m3-2.pdf,"Zmiany w strukturze JPK_V7M(3) w porównaniu do JPK_V7M(2)   PDF, 234,55 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,889545cda6ebd2a03bd6218cffe094e0b3d4c85194ae59f601c3b7814a8f2db2,accepted,
-64c92944ae48336e,https://www.podatki.gov.pl/media/yyenub3m/zmiany_w_schemie_jpk_v7k3-2.pdf,podatki,vat_jpk,L2,pdf,2026-04-25T09:51:28Z,200,application/pdf,241148,raw/podatki/zmiany_w_schemie_jpk_v7k3-2.pdf,"Zmiany w strukturze JPK_V7K(3) w porównaniu do JPK_V7K(2)   PDF, 235,50 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,64c92944ae48336eea609820bd48a82eddab8fd21d5241a180bd16e60394491c,accepted,
-e15a00c437081a04,https://www.podatki.gov.pl/media/0h2maakz/zmiany_w_schemie_jpk_v7m-2.pdf,podatki,vat_jpk,L2,pdf,2026-04-25T09:51:29Z,200,application/pdf,556373,raw/podatki/zmiany_w_schemie_jpk_v7m-2.pdf,"Zmiany w strukturze JPK_V7M(2) w porównaniu do JPK_V7M(1)  PDF, 543,33 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,e15a00c437081a0460d19c2244a3f67b0214358c34d9728a691da78cc9969468,accepted,
-4260b1664c18fc4b,https://www.podatki.gov.pl/media/wgbkrejs/broszura-jpk_vat-z-deklaracją-od-1-lutego-2026-r.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:30Z,200,application/pdf,1696701,raw/podatki/broszura-jpk_vat-z-deklaracj_-od-1-lutego-2026-r.pdf,"Broszura - JPK_VAT z deklaracją od 1 lutego 2026  PDF, 1,62 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,4260b1664c18fc4b6c43414d18d7f9cdd9382a4979fc24c68594c843cd21947c,accepted,
-5d6313b7e2f8359e,https://www.podatki.gov.pl/media/eqrn3dey/broszura-jpk_vat-z-deklaracją-od-1-lutego-2026-r-en.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:31Z,200,application/pdf,1383091,raw/podatki/broszura-jpk_vat-z-deklaracj_-od-1-lutego-2026-r-en.pdf,"SAF-T Information Brochure – February, 1st 2026  PDF, 1,32 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,5d6313b7e2f8359e6d1281f519a972f42b3af38a7c5242d62db492010a706493,accepted,
-68a67a0e173aff82,https://www.podatki.gov.pl/media/fvlmkets/broszura-informacyjna-jpk_vat-z-deklaracją-10052023.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:32Z,200,application/pdf,1847200,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-10052023.pdf,"Broszura – JPK_VAT z deklaracją od 1 kwietnia 2023   PDF, 1,76 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,68a67a0e173aff82099405223a262c81ced67de23864e4f9757c8c5d7250d2e5,accepted,
-4cab5d5ec9f06729,https://www.podatki.gov.pl/media/qpkhvnmb/broszura-informacyjna-jpk_vat-z-deklaracją_ang_20230522.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:33Z,200,application/pdf,1774783,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj__ang_20230522.pdf,"SAF-T Information Brochure – April, 1st 2023  PDF, 1,69 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,4cab5d5ec9f06729ad46a8c2bde3b9b0fc479996fd1ad6c41dd5d6c406b66eb8,accepted,
-b248c02453de9dac,https://www.podatki.gov.pl/media/n3npahf1/broszura-informacyjna-jpk_vat-z-deklaracją-17012023.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:34Z,200,application/pdf,2373781,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-17012023.pdf,"Broszura - JPK_VAT z deklaracją od 1 stycznia 2023   PDF, 2,26 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,b248c02453de9dac759d1fbb533392027c28d941d8fadf2b442290215030802f,accepted,
-3b2f7074c131d5b1,https://www.podatki.gov.pl/media/bq2gbb34/broszura-informacyjna-jpk_vat-z-deklaracją-wersja-anglojęzyczna_20230201.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:35Z,200,application/pdf,2322069,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-wersja-angloj_zyczna_20230201.pdf,"SAF-T Information Brochure – January, 1st 2023  PDF, 2,21 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,3b2f7074c131d5b106e1d69c300773693d526e05898479b24432115e684b6c63,accepted,
-fdc42ec21d03f50b,https://www.podatki.gov.pl/media/z51iaop1/broszura-informacyjna-jpk_vat-z-deklaracją-08022022.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:36Z,200,application/pdf,2374564,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-08022022.pdf,"Broszura - JPK_VAT z deklaracją od 1 stycznia 2022  PDF, 2,26 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,fdc42ec21d03f50b375953d16878d0acd00313b0c56eed594a88dc428fdbec28,accepted,
-9bc401b8e4b133c8,https://www.podatki.gov.pl/media/cnab0ivp/broszura-informacyjna-jpk_vat-z-deklaracją-wersja-anglojęzyczna_20220216.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:37Z,200,application/pdf,1747213,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-wersja-angloj_zyczna_20220216.pdf,"SAF-T Information Brochure – January, 1st 2022  PDF, 1,67 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,9bc401b8e4b133c841c1653add23ca1dfce6c32e14c44b2eb3004bc4ffeb6410,accepted,
-fd09148f65cf99c3,https://www.podatki.gov.pl/media/nfjfjubc/broszura-informacyjna-jpk-vat-z-deklaracja.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:38Z,200,application/pdf,2177313,raw/podatki/broszura-informacyjna-jpk-vat-z-deklaracja.pdf,"Broszura - JPK_VAT z deklaracją  PDF, 2,08 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,fd09148f65cf99c3851779800be974d92cd0bc38805e2e5784e0f0d647e4cadc,accepted,
-14bca218f1d9ac7a,https://www.podatki.gov.pl/media/ibvdo1iq/broszura-informacyjna-jpk_vat-z-deklaracją-wersja-anglojęzyczna30062020.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:39Z,200,application/pdf,2065412,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-wersja-angloj_zyczna30062020.pdf,"SAF-T Information Brochure   PDF, 1,97 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,14bca218f1d9ac7a9702fc4b21d8924bcc4a5e48223a7903ba2132d1bc3a5b76,accepted,
-413bcbd2e768411b,https://www.podatki.gov.pl/media/4mfpukk3/jpk_vat_onepager__2020-10-13.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:40Z,200,application/pdf,424153,raw/podatki/jpk_vat_onepager__2020-10-13.pdf,"Broszura informacyjna: JPK_VAT z deklaracją od 1 października 2020  PDF, 414,21 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,413bcbd2e768411b3eee0baf2c4b7ff5c9de6558e389f0c056ca4efd4560b595,accepted,
-a2fa79774b646e59,https://www.podatki.gov.pl/media/lzafohup/jpk_vat-z-deklaracja-stosowanie-znacznikow.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:41Z,200,application/pdf,261807,raw/podatki/jpk_vat-z-deklaracja-stosowanie-znacznikow.pdf,"JPK_VAT z deklaracją – stosowanie znaczników  PDF, 255,67 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,a2fa79774b646e5954b7452cb8bd9e86e215538fc636e2056059a6653845cb79,accepted,
-5087392ffdc5c81e,https://www.podatki.gov.pl/media/aosft1rf/broszura-jpk_vat-3-wersja-20180214.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:42Z,200,application/pdf,862966,raw/podatki/broszura-jpk_vat-3-wersja-20180214.pdf,"Broszura informacyjna JPK_VAT(3)  PDF, 842,74 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat/pliki-do-pobrania-jpk-vat/,bfs,5087392ffdc5c81ed6a027a92a0b903ad61b3826868031500c200ee4f19432fc,accepted,
-29a31e4317b1384f,https://www.podatki.gov.pl/media/vabexysu/jpk_vat-records-for-value-added-tax-styczen-2018r.pdf,podatki,vat_rejestracja,L2,pdf,2026-04-25T09:51:42Z,200,application/pdf,776181,raw/podatki/jpk_vat-records-for-value-added-tax-styczen-2018r.pdf,"Broszura informacyjna JPK_VAT(3)EN  PDF, 757,99 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat/pliki-do-pobrania-jpk-vat/,bfs,29a31e4317b1384f6189fd423e5e8d4ca23b6b377135eb877244863a3e27f9e9,accepted,
-b1c59880639026ef,https://www.podatki.gov.pl/media/5d5fdjbj/upo-jpk_v6-0.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:44Z,200,application/pdf,47423,raw/podatki/upo-jpk_v6-0.pdf,"Formularz UPO-JPK (PDF, 48 kB)",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat/pytania-i-odpowiedzi-jpk_vat/,bfs,b1c59880639026ef7840a6bfcb9863244b2534a5633a93901d8f60c85a697bb8,accepted,
-7972ffec61428395,https://www.podatki.gov.pl/media/dw0djqf2/podręcznik-użytkownika-formularza-jpk_vat3_28042022.pdf,podatki,vat_jpk,L2,pdf,2026-04-25T09:51:45Z,200,application/pdf,1078903,raw/podatki/podr_cznik-u_ytkownika-formularza-jpk_vat3_28042022.pdf,"Podręcznik Użytkownika Formularza JPK VAT  PDF, 1,03 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat/aplikacje-do-pobrania/,bfs,7972ffec614283951576209afbaef3f83d283c70e8404e89ced3e4add19e0201,accepted,
+631d03cba488fe8b,https://www.podatki.gov.pl/media/uvyd0vnl/specyfikacja-interfejsów-usług-jpk-wersja-540.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:26Z,200,application/pdf,692514,raw/podatki/specyfikacja-interfejs_w-us_ug-jpk-wersja-540.pdf,"Specyfikacja Interfejsów usług JPK wersja 5.4.0 PDF, 676,28 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,631d03cba488fe8bd4c8c7bed99a461b84397cc5b60d625f9cb28af14fddccb4,accepted,
+889545cda6ebd2a0,https://www.podatki.gov.pl/media/hwsb3pqh/zmiany_w_schemie_jpk_v7m3-2.pdf,podatki,vat_jpk,L2,pdf,2026-04-25T09:51:27Z,200,application/pdf,240182,raw/podatki/zmiany_w_schemie_jpk_v7m3-2.pdf,"Zmiany w strukturze JPK_V7M(3) w porównaniu do JPK_V7M(2) PDF, 234,55 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,889545cda6ebd2a03bd6218cffe094e0b3d4c85194ae59f601c3b7814a8f2db2,accepted,
+64c92944ae48336e,https://www.podatki.gov.pl/media/yyenub3m/zmiany_w_schemie_jpk_v7k3-2.pdf,podatki,vat_jpk,L2,pdf,2026-04-25T09:51:28Z,200,application/pdf,241148,raw/podatki/zmiany_w_schemie_jpk_v7k3-2.pdf,"Zmiany w strukturze JPK_V7K(3) w porównaniu do JPK_V7K(2) PDF, 235,50 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,64c92944ae48336eea609820bd48a82eddab8fd21d5241a180bd16e60394491c,accepted,
+e15a00c437081a04,https://www.podatki.gov.pl/media/0h2maakz/zmiany_w_schemie_jpk_v7m-2.pdf,podatki,vat_jpk,L2,pdf,2026-04-25T09:51:29Z,200,application/pdf,556373,raw/podatki/zmiany_w_schemie_jpk_v7m-2.pdf,"Zmiany w strukturze JPK_V7M(2) w porównaniu do JPK_V7M(1) PDF, 543,33 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,e15a00c437081a0460d19c2244a3f67b0214358c34d9728a691da78cc9969468,accepted,
+4260b1664c18fc4b,https://www.podatki.gov.pl/media/wgbkrejs/broszura-jpk_vat-z-deklaracją-od-1-lutego-2026-r.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:30Z,200,application/pdf,1696701,raw/podatki/broszura-jpk_vat-z-deklaracj_-od-1-lutego-2026-r.pdf,"Broszura - JPK_VAT z deklaracją od 1 lutego 2026 PDF, 1,62 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,4260b1664c18fc4b6c43414d18d7f9cdd9382a4979fc24c68594c843cd21947c,accepted,
+68a67a0e173aff82,https://www.podatki.gov.pl/media/fvlmkets/broszura-informacyjna-jpk_vat-z-deklaracją-10052023.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:32Z,200,application/pdf,1847200,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-10052023.pdf,"Broszura – JPK_VAT z deklaracją od 1 kwietnia 2023 PDF, 1,76 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,68a67a0e173aff82099405223a262c81ced67de23864e4f9757c8c5d7250d2e5,accepted,
+b248c02453de9dac,https://www.podatki.gov.pl/media/n3npahf1/broszura-informacyjna-jpk_vat-z-deklaracją-17012023.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:34Z,200,application/pdf,2373781,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-17012023.pdf,"Broszura - JPK_VAT z deklaracją od 1 stycznia 2023 PDF, 2,26 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,b248c02453de9dac759d1fbb533392027c28d941d8fadf2b442290215030802f,accepted,
+fdc42ec21d03f50b,https://www.podatki.gov.pl/media/z51iaop1/broszura-informacyjna-jpk_vat-z-deklaracją-08022022.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:36Z,200,application/pdf,2374564,raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-08022022.pdf,"Broszura - JPK_VAT z deklaracją od 1 stycznia 2022 PDF, 2,26 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,fdc42ec21d03f50b375953d16878d0acd00313b0c56eed594a88dc428fdbec28,accepted,
+fd09148f65cf99c3,https://www.podatki.gov.pl/media/nfjfjubc/broszura-informacyjna-jpk-vat-z-deklaracja.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:38Z,200,application/pdf,2177313,raw/podatki/broszura-informacyjna-jpk-vat-z-deklaracja.pdf,"Broszura - JPK_VAT z deklaracją PDF, 2,08 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,fd09148f65cf99c3851779800be974d92cd0bc38805e2e5784e0f0d647e4cadc,accepted,
+413bcbd2e768411b,https://www.podatki.gov.pl/media/4mfpukk3/jpk_vat_onepager__2020-10-13.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:40Z,200,application/pdf,424153,raw/podatki/jpk_vat_onepager__2020-10-13.pdf,"Broszura informacyjna: JPK_VAT z deklaracją od 1 października 2020 PDF, 414,21 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,413bcbd2e768411b3eee0baf2c4b7ff5c9de6558e389f0c056ca4efd4560b595,accepted,
+a2fa79774b646e59,https://www.podatki.gov.pl/media/lzafohup/jpk_vat-z-deklaracja-stosowanie-znacznikow.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:41Z,200,application/pdf,261807,raw/podatki/jpk_vat-z-deklaracja-stosowanie-znacznikow.pdf,"JPK_VAT z deklaracją – stosowanie znaczników PDF, 255,67 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania/,bfs,a2fa79774b646e5954b7452cb8bd9e86e215538fc636e2056059a6653845cb79,accepted,
+5087392ffdc5c81e,https://www.podatki.gov.pl/media/aosft1rf/broszura-jpk_vat-3-wersja-20180214.pdf,podatki,vat_stawki,L2,pdf,2026-04-25T09:51:42Z,200,application/pdf,862966,raw/podatki/broszura-jpk_vat-3-wersja-20180214.pdf,"Broszura informacyjna JPK_VAT(3) PDF, 842,74 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat/pliki-do-pobrania-jpk-vat/,bfs,5087392ffdc5c81ed6a027a92a0b903ad61b3826868031500c200ee4f19432fc,accepted,
+7972ffec61428395,https://www.podatki.gov.pl/media/dw0djqf2/podręcznik-użytkownika-formularza-jpk_vat3_28042022.pdf,podatki,vat_jpk,L2,pdf,2026-04-25T09:51:45Z,200,application/pdf,1078903,raw/podatki/podr_cznik-u_ytkownika-formularza-jpk_vat3_28042022.pdf,"Podręcznik Użytkownika Formularza JPK VAT PDF, 1,03 MB",,True,,https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat/aplikacje-do-pobrania/,bfs,7972ffec614283951576209afbaef3f83d283c70e8404e89ced3e4add19e0201,accepted,
 b28e4546b0e3cff2,https://www.podatki.gov.pl/media/gbniae0u/pit-16_15-12.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:46Z,200,application/pdf,93144,raw/podatki/pit-16_15-12.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,b28e4546b0e3cff2a0eacfcee94da435ce2a3b6368df548341fda503dddd19d6,accepted,
 0eb05e52921a97a0,https://www.podatki.gov.pl/media/0unlf54x/pit-16a_-13-04.pdf,podatki,pit_karta_podatkowa,L2,pdf,2026-04-25T09:51:47Z,200,application/pdf,284901,raw/podatki/pit-16a_-13-04.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,0eb05e52921a97a0bd613596a32b0faba5cedbe10ac25763df3f4449d9b94908,accepted,
 4150b7151b13a6fe,https://www.podatki.gov.pl/media/4b4mhbqj/pit-28s_-26-09.pdf,podatki,pit_roczny;pit_ryczalt,L2,pdf,2026-04-25T09:51:48Z,200,application/pdf,269871,raw/podatki/pit-28s_-26-09.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,4150b7151b13a6fe5767a18bb0018e13f3cfaad0d71ec75e614bed23747b6f0c,accepted,
-e40cc8faf7b1c57f,https://www.podatki.gov.pl/media/n4gnaojl/broszura-do-pit-36s-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:48Z,200,application/pdf,472770,raw/podatki/broszura-do-pit-36s-za-2025-r.pdf,"Broszura do PIT 36S za 2025 r.  PDF, 461,69 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,e40cc8faf7b1c57f88d1089ffb4cef2cd99749d9c0a44ae2e23853844f6c4692,accepted,
-aabfabdfe76fa648,https://www.podatki.gov.pl/media/xkfazmef/broszura-do-pit-36l-za-2025-r.pdf,podatki,pit_liniowy;pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:49Z,200,application/pdf,436788,raw/podatki/broszura-do-pit-36l-za-2025-r.pdf,"Broszura do PIT 36L za 2025 r.  PDF, 426,55 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,aabfabdfe76fa648db03243594e33f0ccfb2d20f0fcf39eb8991f5faf2943460,accepted,
-e018d58463a13e60,https://www.podatki.gov.pl/media/jirnu44h/broszura-do-pit-36ls-za-2025-r.pdf,podatki,pit_liniowy;pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:50Z,200,application/pdf,376946,raw/podatki/broszura-do-pit-36ls-za-2025-r.pdf,"Broszura do PIT 36LS za 2025 r.  PDF, 368,11 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,e018d58463a13e60ba442dedd0c317cd620363a2da3f59fb53424eb1e98ad2ba,accepted,
+e40cc8faf7b1c57f,https://www.podatki.gov.pl/media/n4gnaojl/broszura-do-pit-36s-za-2025-r.pdf,podatki,pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:48Z,200,application/pdf,472770,raw/podatki/broszura-do-pit-36s-za-2025-r.pdf,"Broszura do PIT 36S za 2025 r. PDF, 461,69 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,e40cc8faf7b1c57f88d1089ffb4cef2cd99749d9c0a44ae2e23853844f6c4692,accepted,
+aabfabdfe76fa648,https://www.podatki.gov.pl/media/xkfazmef/broszura-do-pit-36l-za-2025-r.pdf,podatki,pit_liniowy;pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:49Z,200,application/pdf,436788,raw/podatki/broszura-do-pit-36l-za-2025-r.pdf,"Broszura do PIT 36L za 2025 r. PDF, 426,55 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,aabfabdfe76fa648db03243594e33f0ccfb2d20f0fcf39eb8991f5faf2943460,accepted,
+e018d58463a13e60,https://www.podatki.gov.pl/media/jirnu44h/broszura-do-pit-36ls-za-2025-r.pdf,podatki,pit_liniowy;pit_roczny;pit_skala,L2,pdf,2026-04-25T09:51:50Z,200,application/pdf,376946,raw/podatki/broszura-do-pit-36ls-za-2025-r.pdf,"Broszura do PIT 36LS za 2025 r. PDF, 368,11 kB",,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,e018d58463a13e60ba442dedd0c317cd620363a2da3f59fb53424eb1e98ad2ba,accepted,
 99e6dc906fd9e933,https://www.podatki.gov.pl/media/ecyfm2is/pit-cfc_-5-03.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:51Z,200,application/pdf,157432,raw/podatki/pit-cfc_-5-03.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,99e6dc906fd9e933b9accee4b8941383581841af5cde6fcadf2cc8aaec6f4cd7,accepted,
 4f9796c83bb35776,https://www.podatki.gov.pl/media/0sbnw003/pit-csr_pit-csrs_-1-05.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:52Z,200,application/pdf,296611,raw/podatki/pit-csr_pit-csrs_-1-05.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,4f9796c83bb35776d8c279ccccd9bb40e0b6eb1d6e8d10c57051c36a97bbad7f,accepted,
 74681c40afa7ab8d,https://www.podatki.gov.pl/media/iuulvstf/pit-nz_-2-06.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:52Z,200,application/pdf,142953,raw/podatki/pit-nz_-2-06.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,74681c40afa7ab8d0cdb9cb94be0f93bdcc95c893de90318aba06b2cb456d92b,accepted,
@@ -109,898 +97,63 @@ f3089bb2c31dd659,https://www.podatki.gov.pl/media/aixfpi4w/pit-8c_-13-08.pdf,pod
 91dc3c55e915475b,https://www.podatki.gov.pl/media/qgknj2q1/pit-40a11a_-21-17.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:51:59Z,200,application/pdf,361320,raw/podatki/pit-40a11a_-21-17.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,91dc3c55e915475b4748fb3c64d33af999a681b9f68c14854430c10f30ba8070,accepted,
 1335a9faf83a29d9,https://www.podatki.gov.pl/media/govjpd20/pit-r_-22-13.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:52:00Z,200,application/pdf,170613,raw/podatki/pit-r_-22-13.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,1335a9faf83a29d964d9c4e199f063b4754a03d05abb4d9daf983b9cc88f477c,accepted,
 2ad8f0a82ffaf589,https://www.podatki.gov.pl/media/ia2dy2ym/pit_wot_-01-10.pdf,podatki,pit_skala,L2,pdf,2026-04-25T09:52:01Z,200,application/pdf,204589,raw/podatki/pit_wot_-01-10.pdf,Pobierz,,True,,https://www.podatki.gov.pl/podatki-firmowe/pit/formularze/,bfs,2ad8f0a82ffaf5891df2e1113fa844b96554280a6f58d185bbfe2405741e495e,accepted,
-eefa6a86d4e03e33,https://www.pip.gov.pl/files/127/Dla-pracodawcow/299/Ocena-ryzyka-zawodowego-Lista-kontrolna-z-komentarzem.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:55:56Z,200,application/pdf,886620,raw/pip/Ocena-ryzyka-zawodowego-Lista-kontrolna-z-komentarzem.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Ocena ryzyka zawodowego. Lista kontrolna z komentarzem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=0,paginacja,eefa6a86d4e03e33c9ed240d3bc58bfc006be3b26db360073de5af579c5cea4c,accepted,
-a53c1f83eb31635b,https://www.pip.gov.pl/files/125/Publikacje/1187/Prawo-pracy-dla-rodzicow.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:55:58Z,200,application/pdf,921207,raw/pip/Prawo-pracy-dla-rodzicow.pdf,Drukuj,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,a53c1f83eb31635bb084067ba253a12d4683ac744b97e272a97f6d74b3df1865,accepted,
 98f38320d2d11ac8,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1165/Wizja-zero.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:55:59Z,200,application/pdf,723698,raw/pip/Wizja-zero.pdf,WIZJA ZERO. Zdrowa i bezpieczna praca,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=0,paginacja,98f38320d2d11ac863889fb2ab1780710d1d692f4ba8a3cdfe22f19e866a8876,accepted,
-692ebe86789b1f57,https://www.pip.gov.pl/files/126/Dla-pracownikow/1141/Ochrona-stosunku-pracy-kobiet-w-ciy.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:56:04Z,200,application/pdf,575818,raw/pip/Ochrona-stosunku-pracy-kobiet-w-ciy.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Ochrona stosunku pracy kobiet w ciąży",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,692ebe86789b1f57e16e9182dc0206ac483a6cbd00ef136eaaec8db18bf6a776,accepted,
-9b6bebb68ed8a8d6,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1125/Praca-zdalna-Lista-kontrolna.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:56:06Z,200,application/pdf,1348767,raw/pip/Praca-zdalna-Lista-kontrolna.pdf,Praca zdalna. Lista kontrolna z komentarzem,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=9,paginacja,9b6bebb68ed8a8d6f9405a634276875e39c942ab2bbc0e78b4eff76b66c1292a,accepted,
-6908676ae15b2832,https://www.pip.gov.pl/files/126/Dla-pracownikow/1045/Nadgodziny-w-praktyce.pdf,pip,kp_czas_pracy,L2,pdf,2026-04-25T09:56:11Z,200,application/pdf,637160,raw/pip/Nadgodziny-w-praktyce.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Nadgodziny w praktyce",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=9,paginacja,6908676ae15b28327dd356932a034eb51d8654026541966f0d18261576016268,accepted,
-61a07543dc78d409,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1019/PORADNIK-DOTUBEZPIECZENIASAZ-1.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:56:15Z,200,application/pdf,15082602,raw/pip/PORADNIK-DOTUBEZPIECZENIASAZ-1.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Poradnik dot. ubezpieczenia pracowników delegowanych",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=9,paginacja,61a07543dc78d409b93744c698841cac8f62a20eabf6c6d328b772238e7a23a7,accepted,
-487e1147d580e574,https://www.pip.gov.pl/files/126/Dla-pracownikow/1044/Zwolnienie-od-pracy.pdf,pip,kp_wypowiedzenie;vat_zwolnienie_200k,L2,pdf,2026-04-25T09:56:16Z,200,application/pdf,564142,raw/pip/Zwolnienie-od-pracy.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Zwolnienie od pracy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=0,paginacja,487e1147d580e5742a764bc4ff12675e6c4b204116f0aa27b93d284ef07b3021,accepted,
-2212b85a53a75a54,https://www.pip.gov.pl/files/127/Dla-pracodawcow/885/Gastronomia.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:56:19Z,200,application/pdf,1160917,raw/pip/Gastronomia.pdf,"Obcojęzyczne 
-    
-    
-     
-
-
-        
-        
-         Bezpieczna praca w restauracjach i innych placówkach gastronomicznych",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=18,paginacja,2212b85a53a75a5470cbe130b1e945d8c4be5c38d109602f28c9cf99ea9aa903,accepted,
-944e626d6e80cacf,https://www.pip.gov.pl/files/125/Publikacje/876/Naprawa-pojazdow-2.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:56:22Z,200,application/pdf,1023735,raw/pip/Naprawa-pojazdow-2.pdf,"Obcojęzyczne 
-    
-    
-     
-
-
-        
-        
-         Bezpieczna praca w zakładach konserwacji i napraw pojazdów samochodowych",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=18,paginacja,944e626d6e80cacf1fe3ba5b9bcaa50ae5743b645b7b7cb67a7349f689b046c8,accepted,
-d578d918ed8c2782,https://www.pip.gov.pl/files/127/Dla-pracodawcow/869/Prace-na-drabinie-1.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:56:23Z,200,application/pdf,312192,raw/pip/Prace-na-drabinie-1.pdf,"Obcojęzyczne 
-    
-    
-     
-
-
-        
-        
-         Prace na drabinie",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=18,paginacja,d578d918ed8c27828f7e0fe6acab2787ef704e3715f03fc0097573726e63a8fa,accepted,
+692ebe86789b1f57,https://www.pip.gov.pl/files/126/Dla-pracownikow/1141/Ochrona-stosunku-pracy-kobiet-w-ciy.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:56:04Z,200,application/pdf,575818,raw/pip/Ochrona-stosunku-pracy-kobiet-w-ciy.pdf,Ochrona stosunku pracy kobiet w ciąży,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,692ebe86789b1f57e16e9182dc0206ac483a6cbd00ef136eaaec8db18bf6a776,accepted,
+6908676ae15b2832,https://www.pip.gov.pl/files/126/Dla-pracownikow/1045/Nadgodziny-w-praktyce.pdf,pip,kp_czas_pracy,L2,pdf,2026-04-25T09:56:11Z,200,application/pdf,637160,raw/pip/Nadgodziny-w-praktyce.pdf,Nadgodziny w praktyce,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=9,paginacja,6908676ae15b28327dd356932a034eb51d8654026541966f0d18261576016268,accepted,
+61a07543dc78d409,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1019/PORADNIK-DOTUBEZPIECZENIASAZ-1.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:56:15Z,200,application/pdf,15082602,raw/pip/PORADNIK-DOTUBEZPIECZENIASAZ-1.pdf,Poradnik dot. ubezpieczenia pracowników delegowanych,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=9,paginacja,61a07543dc78d409b93744c698841cac8f62a20eabf6c6d328b772238e7a23a7,accepted,
+487e1147d580e574,https://www.pip.gov.pl/files/126/Dla-pracownikow/1044/Zwolnienie-od-pracy.pdf,pip,kp_wypowiedzenie;vat_zwolnienie_200k,L2,pdf,2026-04-25T09:56:16Z,200,application/pdf,564142,raw/pip/Zwolnienie-od-pracy.pdf,Zwolnienie od pracy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=0,paginacja,487e1147d580e5742a764bc4ff12675e6c4b204116f0aa27b93d284ef07b3021,accepted,
 a2ac93678dd8991e,https://www.zus.pl/documents/10182/44493/nianie+kompendium.pdf/cd66ef6e-ece8-416e-8362-10154e5b20cc,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:56:26Z,200,application/pdf,560053,raw/zus/cd66ef6e-ece8-416e-8362-10154e5b20cc.pdf,Ubezpieczenie niań – poradnik (pdf),,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,a2ac93678dd8991e014ce2317d311d5c9ae148aefce501e132e1628219cd79a6,accepted,
-13459e4140950f1b,https://www.pip.gov.pl/files/127/Dla-pracodawcow/773/Ocena-ryzyka-zawodowego-Wstp-do-zagadnienia.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:26Z,200,application/pdf,632611,raw/pip/Ocena-ryzyka-zawodowego-Wstp-do-zagadnienia.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Ocena ryzyka zawodowego. Wstęp do zagadnienia",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,13459e4140950f1bd98ce64b74b0ec76fb7ac1160cb6ec9e0521af0d959138c8,accepted,
-5af08944f6d95126,https://www.pip.gov.pl/files/127/Dla-pracodawcow/772/Umowy-Terminowe-06-2019-INTERNET.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:56:28Z,200,application/pdf,3934758,raw/pip/Umowy-Terminowe-06-2019-INTERNET.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Umowy terminowe",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=27,paginacja,5af08944f6d951266566e15d8565c66eb345e1599b3bcc948bea543900a12fbe,accepted,
+13459e4140950f1b,https://www.pip.gov.pl/files/127/Dla-pracodawcow/773/Ocena-ryzyka-zawodowego-Wstp-do-zagadnienia.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:26Z,200,application/pdf,632611,raw/pip/Ocena-ryzyka-zawodowego-Wstp-do-zagadnienia.pdf,Ocena ryzyka zawodowego. Wstęp do zagadnienia,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,13459e4140950f1bd98ce64b74b0ec76fb7ac1160cb6ec9e0521af0d959138c8,accepted,
+5af08944f6d95126,https://www.pip.gov.pl/files/127/Dla-pracodawcow/772/Umowy-Terminowe-06-2019-INTERNET.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:56:28Z,200,application/pdf,3934758,raw/pip/Umowy-Terminowe-06-2019-INTERNET.pdf,Umowy terminowe,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=27,paginacja,5af08944f6d951266566e15d8565c66eb345e1599b3bcc948bea543900a12fbe,accepted,
 e86e5bcfc105de66,https://www.zus.pl/documents/10182/167561/Pracujesz_jako_niania.pdf/55d7bce1-09a9-4c76-a03f-c8d5b7b0db10,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:56:29Z,200,application/pdf,619691,raw/zus/55d7bce1-09a9-4c76-a03f-c8d5b7b0db10.pdf,Jesteś nianią? Przeczytaj koniecznie - ulotka (pdf),,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,e86e5bcfc105de666e6b954c207af70f2af279fc9a8c70fc6bd1b16a5248e608,accepted,
-bac184d81df7a793,https://www.pip.gov.pl/files/127/Dla-pracodawcow/771/niepelnospr-pracow.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:29Z,200,application/pdf,688073,raw/pip/niepelnospr-pracow.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Pracownik niepełnosprawny",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,bac184d81df7a793fec94b688315edecef911035b3f18d90b4dcc0d0e1b6b8b9,accepted,
-06932bc108ea197b,https://www.pip.gov.pl/files/127/Dla-pracodawcow/770/Pracownik.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:31Z,200,application/pdf,753092,raw/pip/Pracownik.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Pracownik młodociany",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,06932bc108ea197b1145c5cb2746d71ab6cdf1a93cffaa102eccb736bbccc1e8,accepted,
-75925d2e3ddf2d24,https://www.zus.pl/documents/10182/0/Kodeks+etyki+Zak%C5%82adu+ubezpiecze%C5%84+Spo%C5%82ecznych.pdf/7f5edf34-c554-e5d4-6ed6-5796fcceed99,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:56:31Z,200,application/pdf,337841,raw/zus/7f5edf34-c554-e5d4-6ed6-5796fcceed99.pdf,Kodeks etyki pracownika ZUS (pdf 230kb),,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,75925d2e3ddf2d2417d23bd07dcd341f465a16eced605529929136613287d2c4,accepted,
+bac184d81df7a793,https://www.pip.gov.pl/files/127/Dla-pracodawcow/771/niepelnospr-pracow.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:29Z,200,application/pdf,688073,raw/pip/niepelnospr-pracow.pdf,Pracownik niepełnosprawny,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,bac184d81df7a793fec94b688315edecef911035b3f18d90b4dcc0d0e1b6b8b9,accepted,
+06932bc108ea197b,https://www.pip.gov.pl/files/127/Dla-pracodawcow/770/Pracownik.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:31Z,200,application/pdf,753092,raw/pip/Pracownik.pdf,Pracownik młodociany,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,06932bc108ea197b1145c5cb2746d71ab6cdf1a93cffaa102eccb736bbccc1e8,accepted,
 31e5264e64162f5e,https://www.zus.pl/documents/10182/24210/Rachunki_IKE.pdf/3751fdf4-d1d7-4a4f-a27a-aecc447e1231,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:56:33Z,200,application/pdf,316829,raw/zus/3751fdf4-d1d7-4a4f-a27a-aecc447e1231.pdf,Rachunki IKE/PPE/PPK,,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,31e5264e64162f5e181a1ac83034e86ca34ea009082c52543659ce8affcdcb68,accepted,
-abee37496946c890,https://www.pip.gov.pl/files/127/Dla-pracodawcow/326/dostosuj-swoj-zaklad-do-obowiazujacego-prawa-pracy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:34Z,200,application/pdf,2563833,raw/pip/dostosuj-swoj-zaklad-do-obowiazujacego-prawa-pracy.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Dostosuj swój zakład do obowiązującego prawa pracy. Lista kontrolna z komentarzem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,abee37496946c890289511b48342229442dc22e88b108868f453d183e3acf08f,accepted,
-4a3bafd6a7286709,https://www.zus.pl/documents/10182/0/Kontrola+prawid%C5%82owo%C5%9Bci+wykorzystywania+zwolnie%C5%84+lekarskich.pdf/ef458770-eff8-5460-cb31-f548c763acc4?t=1776151096679,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:56:35Z,200,application/pdf,471781,raw/zus/ef458770-eff8-5460-cb31-f548c763acc4.pdf,"Pobierz "" 
-                        Kontrola prawidłowości wykorzystywania zwolnień lekarskich od pracy
-                         "" (pdf, 461 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,4a3bafd6a7286709368e7823aa4faf6e6676f44f57741dc0f5c3b221bf76c963,accepted,
-3fad2bfa035cbb18,https://www.pip.gov.pl/files/127/Dla-pracodawcow/327/prewencja-wypadkowa-lista-kontrolna-z-komentarzem.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:56:36Z,200,application/pdf,5426360,raw/pip/prewencja-wypadkowa-lista-kontrolna-z-komentarzem.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prewencja wypadkowa Lista kontrolna z komentarzem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=36,paginacja,3fad2bfa035cbb18ef3dc9fb7218ac7a25465757e7fd44bc4d57446833592c64,accepted,
-eb35d36d42e843ca,https://www.pip.gov.pl/files/127/Dla-pracodawcow/328/tartak-i-stolarnia-lista-kontrolna-z-komentarzem.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:38Z,200,application/pdf,954654,raw/pip/tartak-i-stolarnia-lista-kontrolna-z-komentarzem.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Tartak i stolarnia. Lista kontrolna z komentarzem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,eb35d36d42e843ca10e27cff9feafe553c00583e58ee9849b88bb9a7a70e6a21,accepted,
-b690e1c4d92294b6,https://www.pip.gov.pl/files/127/Dla-pracodawcow/329/bezpiecznie-i-zgodnie-z-prawem-lista-kontrolna-z-komentarzemp35223.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:40Z,200,application/pdf,6437791,raw/pip/bezpiecznie-i-zgodnie-z-prawem-lista-kontrolna-z-komentarzemp35223.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpiecznie i zgodnie z prawem. Lista kontrolna z komentarezem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,b690e1c4d92294b62a16fed5c9f29405a2723955d0014e15f60b5dc00da4ded9,accepted,
-62c14ce3fdb22635,https://www.pip.gov.pl/files/127/Dla-pracodawcow/331/czas-pracy-kierowcow.pdf,pip,kp_czas_pracy,L2,pdf,2026-04-25T09:56:43Z,200,application/pdf,981169,raw/pip/czas-pracy-kierowcow.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Czas pracy kierowców",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,62c14ce3fdb2263559d2d2109a5ed26145ba29c33facc7f7cda095aff57e2dba,accepted,
-d50b903bd0809979,https://www.zus.pl/documents/10182/167567/przewodnik_dla_rozpoczynajacych_dzialalnosc.pdf/2c941ac8-8e3f-4dfe-80a1-1d2340d908ce?t=1773411754011,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:56:43Z,200,application/pdf,2018955,raw/zus/2c941ac8-8e3f-4dfe-80a1-1d2340d908ce.pdf,"Pobierz "" 
-                        Przewodnik dla rozpoczynających działalność gospodarczą
-                         "" (pdf, 1972 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,d50b903bd080997968db801641b962a4ac90c345615f80556c41a160a6d47354,accepted,
-6b149e8b3d2f91d5,https://www.pip.gov.pl/files/127/Dla-pracodawcow/333/masarnia-i-ubojnia-lista-kontrolna-z-komentarzem.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:46Z,200,application/pdf,1995743,raw/pip/masarnia-i-ubojnia-lista-kontrolna-z-komentarzem.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Masarnia i ubojnia. Lista kontrolna z komentarzem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,6b149e8b3d2f91d520557d78f6f920c5c73ceba6f015db48afe32f5354a4633d,accepted,
-b2599d96751a7bd0,https://www.pip.gov.pl/files/127/Dla-pracodawcow/335/Bezpieczna-praca-w-biurze-INTERNET.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:47Z,200,application/pdf,1459744,raw/pip/Bezpieczna-praca-w-biurze-INTERNET.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczna praca w biurze",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,b2599d96751a7bd074a6d9ca7d90cce49edc25e6469462acb6d907dca8f74dfa,accepted,
-544872705bcfca7e,https://www.zus.pl/documents/10182/167567/poradnik_wypadkowe.pdf/15281e1b-c3f3-472a-81b3-7d10e1a434c8?t=1768996389317,zus,zus_podstawa_wymiaru,L2,pdf,2026-04-25T09:56:48Z,200,application/pdf,1377830,raw/zus/15281e1b-c3f3-472a-81b3-7d10e1a434c8.pdf,"Pobierz "" 
-                        Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe
-                         "" (pdf, 1346 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,544872705bcfca7ed276c46678f7280ed0dfff0d9442cc62aebaa37a0a604737,accepted,
-fcf4247a306c9910,https://www.pip.gov.pl/files/127/Dla-pracodawcow/336/bhp-w-biurze.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:56:49Z,200,application/pdf,5820101,raw/pip/bhp-w-biurze.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         BHP w biurze",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=72,paginacja,fcf4247a306c9910485689ae11f0cda40883fa5632a1ffe940e3af3ce7a4b50a,accepted,
-f34bac636bcd0422,https://www.pip.gov.pl/files/127/Dla-pracodawcow/337/ergonomia-pracy-z-laptopem.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:56:50Z,200,application/pdf,1314734,raw/pip/ergonomia-pracy-z-laptopem.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Ergonomia pracy z laptopem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=72,paginacja,f34bac636bcd042247d8f1493e41a8bce91e2d036d1c2231970f3a790eb26dda,accepted,
-38a2b526a752467e,https://www.pip.gov.pl/files/127/Dla-pracodawcow/338/6-CYTOSTATYKI-BHP-2022-INTERNET.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:52Z,200,application/pdf,721759,raw/pip/6-CYTOSTATYKI-BHP-2022-INTERNET.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Cytostatyki: ekspozycja zawodowa",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=27,paginacja,38a2b526a752467e5a9ab3d10c4e038198aee7f2076332dfc1f6ce4a37ca3e2c,accepted,
-75d3788611b6f512,https://www.pip.gov.pl/files/127/Dla-pracodawcow/340/profilaktyzna-ochorna-zdrowia.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:55Z,200,application/pdf,1307116,raw/pip/profilaktyzna-ochorna-zdrowia.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Profilaktyczna ochrona zdrowia",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=27,paginacja,75d3788611b6f5126a1ca2dc3d151d18558269f2387a0ed1772e6e14c6a05f03,accepted,
-e2bd4ec38bb3db17,https://www.zus.pl/documents/10182/167567/ZUS_RCA.pdf/7e556412-65dd-41a9-9680-ed15adf5c5fc?t=1768993116950,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:57:01Z,200,application/pdf,3779855,raw/zus/7e556412-65dd-41a9-9680-ed15adf5c5fc.pdf,"Pobierz "" 
-                        ZUS RCA - Imienny raport miesięczny o należnych składkach i wypłaconych świadczeniach
-                         "" (pdf, 3691 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,e2bd4ec38bb3db17f6e0001fde9f3ac052ed72bebc929a4416bcb85ef7753630,accepted,
-fb418230d4060b40,https://www.pip.gov.pl/files/127/Dla-pracodawcow/346/LISTA-KONTROLNA-DREWNO-INTERMET.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:03Z,200,application/pdf,911925,raw/pip/LISTA-KONTROLNA-DREWNO-INTERMET.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczne pozyskanie drewna Lista kontrolna z komentarzem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=54,paginacja,fb418230d4060b40cef7ca0fe9a5a90724289153a4ee8c94765c126c691c4604,accepted,
-14c90ad1fb6ed6a5,https://www.zus.pl/documents/10182/167567/poradnik_zus_iwa.korekta_pdf.pdf/a7780991-e2e8-45ce-8401-2e6983837a5f?t=1769774050260,zus,zus_podstawa_wymiaru,L2,pdf,2026-04-25T09:57:08Z,200,application/pdf,1914936,raw/zus/a7780991-e2e8-45ce-8401-2e6983837a5f.pdf,"Pobierz "" 
-                        ZUS IWA Informacja o danych do ustalenia składki  na ubezpieczenie wypadkowe
-                         "" (pdf, 1870 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,14c90ad1fb6ed6a5e0d1b0914833548d675686c237d043eb91887d1cf5d6bea1,accepted,
-7dd0dedd35b23da2,https://www.pip.gov.pl/files/127/Dla-pracodawcow/353/przenosne-wyciagi-towarowe.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:13Z,200,application/pdf,691674,raw/pip/przenosne-wyciagi-towarowe.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Przenośne wyciągi towarowe",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36,paginacja,7dd0dedd35b23da26bbe2701e703e85eae10dc6c9f15ddbea0e27dc82fb19af6,accepted,
-aa93389903febbb2,https://www.pip.gov.pl/files/127/Dla-pracodawcow/360/bhp---obowiazki-kierownika-budowy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:18Z,200,application/pdf,152583,raw/pip/bhp---obowiazki-kierownika-budowy.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         BHP Obowiązki kierownika budowy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=45,paginacja,aa93389903febbb2a1b77c66ebb5ae172d89184e930d4083ce646a16f6586b48,accepted,
-7788bfe821caba0c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/363/wypadki-w-szkole.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:19Z,200,application/pdf,389710,raw/pip/wypadki-w-szkole.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Wypadki w szkole",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=45,paginacja,7788bfe821caba0c323c8646148ef22e13ad03713ee2e50a1661274ae63c89ec,accepted,
-45e1d57f5fa5836d,https://www.zus.pl/documents/10182/167567/poradnik+ZUS+DRA.pdf/8b7a1ca0-6145-ae37-d90a-a74871de6ca7?t=1767972149200,zus,zus_zua_zwua_dra,L2,pdf,2026-04-25T09:57:21Z,200,application/pdf,3944471,raw/zus/8b7a1ca0-6145-ae37-d90a-a74871de6ca7.pdf,"Pobierz "" 
-                        ZUS DRA - deklaracja rozliczeniowa. Jak wypełnić i skorygować
-                         "" (pdf, 3852 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,45e1d57f5fa5836d51c55dcfa4f6f5b509120354b7de0cd654c37c50e571887f,accepted,
-0e7deac683e624f8,https://www.pip.gov.pl/files/127/Dla-pracodawcow/365/Wypadek-przy-pracy-Poradnik-pracodawcy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:23Z,200,application/pdf,864490,raw/pip/Wypadek-przy-pracy-Poradnik-pracodawcy.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Wypadek przy pracy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=45,paginacja,0e7deac683e624f812feed5716e2039ec5b4e70b740c550b74c204df9ec2cf20,accepted,
-6d068589ee93843b,https://www.pip.gov.pl/files/127/Dla-pracodawcow/366/Szkolenia-BHP.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:24Z,200,application/pdf,673585,raw/pip/Szkolenia-BHP.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Szkolenia bhp",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=72,paginacja,6d068589ee93843be5ee9accf5be87f9b60462a9c982a24d94d591a511241736,accepted,
-ef982db6443ef56f,https://www.zus.pl/documents/10182/167567/Zasady+op%C5%82acania+sk%C5%82adek+na+Fundusz+Pracy%2C+Fundusz+Gwarantowanych+%C5%9Awiadcze%C5%84+Pracowniczych+oraz+Fundusz+Emerytur+Pomostowych.pdf/92a5c5b1-cf05-4869-8845-538a48fd5129?t=1748869328973,zus,zus_emerytura_jdg,L2,pdf,2026-04-25T09:57:25Z,200,application/pdf,856953,raw/zus/92a5c5b1-cf05-4869-8845-538a48fd5129.pdf,"Pobierz "" 
-                        Zasady opłacania składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych oraz Fundusz Solidarnościowy
-                         "" (pdf, 837 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,ef982db6443ef56f4062eae687ffcdfc7a82a7106c1fbcbd7f794c7f5d17e5ef,accepted,
-b9e86e0952d77555,https://www.pip.gov.pl/files/127/Dla-pracodawcow/367/srodkiochronyoddech.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:26Z,200,application/pdf,1295661,raw/pip/srodkiochronyoddech.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Środki ochrony układu oddechowego",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=72,paginacja,b9e86e0952d77555e51623b6747fbd9cd8e8a6dde70257e335cc6c0262a4c78f,accepted,
-3ba495b96d92ab0a,https://www.zus.pl/documents/10182/3996913/Polski+%C5%81ad+-+poradnik.pdf/f4f5043f-4487-2e82-e93a-8f8d7cc6c5f9?t=1737971535392,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:57:30Z,200,application/pdf,1304132,raw/zus/f4f5043f-4487-2e82-e93a-8f8d7cc6c5f9.pdf,"Pobierz "" 
-                        Polski Ład. Co zmienia się w przepisach dotyczących rozliczania składki na ubezpieczenie zdrowotne od 1 stycznia 2022 r.
-                         "" (pdf, 1274 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,3ba495b96d92ab0acfcba07f4324c1814319f039d7a0bbed2309718ae8414f68,accepted,
-37f57177e6dbf05f,https://www.pip.gov.pl/files/127/Dla-pracodawcow/370/produkty-biobojcze.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:31Z,200,application/pdf,689328,raw/pip/produkty-biobojcze.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Produkty biobójcze",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=54,paginacja,37f57177e6dbf05feac7de8d15318a53c36c6d9e206a54817f5bf929692502fd,accepted,
-81d30c371e2d567c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/373/Ocena-ryzyka-zawodowego-Czynniki-psychospoleczne.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:34Z,200,application/pdf,469919,raw/pip/Ocena-ryzyka-zawodowego-Czynniki-psychospoleczne.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Ocena ryzyka zawodowego. Czynniki psychospołeczne",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=81,paginacja,81d30c371e2d567ca23bbdb632897bf6baa749bf5dcc390263f1bd3e91663ca7,accepted,
-c6983483e0525c36,https://www.pip.gov.pl/files/127/Dla-pracodawcow/374/Prawa-i-obowiazki-pracodawcy-w-zakresie-BHP.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:36Z,200,application/pdf,924878,raw/pip/Prawa-i-obowiazki-pracodawcy-w-zakresie-BHP.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prawa i obowiązki pracodawcy w zakresie bhp",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=81,paginacja,c6983483e0525c36962f5f792d9e5ff8344f16abbe2b3b47643f43d75ba0458f,accepted,
-343c4192ac2887b3,https://www.pip.gov.pl/files/127/Dla-pracodawcow/376/nanomaterialy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:39Z,200,application/pdf,328523,raw/pip/nanomaterialy.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Nanomateriały: bezpiecznie w pracy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=54,paginacja,343c4192ac2887b3364e632a1d7f3e1504eca3dcfa9b4ff193ef8785ddb978ac,accepted,
-7ad5e2bdc702f8a4,https://www.pip.gov.pl/files/127/Dla-pracodawcow/377/jak-kocenic-ryzyko-zawodowe.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:40Z,200,application/pdf,198654,raw/pip/jak-kocenic-ryzyko-zawodowe.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Jak ocenić ryzyko zawodowe?",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=81,paginacja,7ad5e2bdc702f8a418ab8fbc1f50daa438b6524e076709b04f4f0d48921c5a99,accepted,
-ea13c3da5ca5565f,https://www.pip.gov.pl/files/127/Dla-pracodawcow/378/czynniki-szkodliwe-badania-i-pomiary.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:42Z,200,application/pdf,722458,raw/pip/czynniki-szkodliwe-badania-i-pomiary.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Czynniki szkodliwe. Badania i pomiary",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63,paginacja,ea13c3da5ca5565fb1480b39320d6ce232364e4a29bc13557b583aeac82e21eb,accepted,
-5978480a50a851f7,https://www.zus.pl/documents/10182/167567/Poradnik+ZUS+OSW%2C+ZUS+RIA.pdf/5bd51288-7bae-d65b-b2c0-5a13c5dffde2?t=1727339828786,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:57:42Z,200,application/pdf,3629983,raw/zus/5bd51288-7bae-d65b-b2c0-5a13c5dffde2.pdf,"Pobierz "" 
-                        Oświadczenie o zamiarze przekazania raportów informacyjnych ZUS OSW; Raport informacyjny ZUS RIA
-                         "" (pdf, 3545 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,5978480a50a851f7becddfe3d9fa4f46cdf75434165b507cdc11e9fc94c3ca65,accepted,
-91b22e5e48390012,https://www.pip.gov.pl/files/127/Dla-pracodawcow/381/choroby-narzadu-glosu.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:45Z,200,application/pdf,205608,raw/pip/choroby-narzadu-glosu.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Choroby narządu głosu",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63,paginacja,91b22e5e483900128b06e650a10adf755bcdf2ba9c08e641cea252893cff343b,accepted,
-c3c15cfb67ad6f1e,https://www.zus.pl/documents/10182/167670/Zasady+op%C5%82acania+sk%C5%82adek+na+Fundusz+Pracy%2C+Fundusz+Gwarantowanych+%C5%9Awiadcze%C5%84+Pracowniczych+oraz+Fundusz+Emerytur+Pomostowych+-+archiwum+2022.pdf/13cba0a8-2ee4-8726-52ef-98012557901f?t=1748869756001,zus,zus_emerytura_jdg,L2,pdf,2026-04-25T09:57:46Z,200,application/pdf,801168,raw/zus/13cba0a8-2ee4-8726-52ef-98012557901f.pdf,"Pobierz "" 
-                        Zasady opłacania składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych oraz Fundusz Solidarnościowy - 2022 r.
-                         "" (pdf, 782 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,c3c15cfb67ad6f1e10af1bf2c23f16f03f9fcf85109dec9f8e2f6e4b0db8b660,accepted,
-476418a3104c525b,https://www.pip.gov.pl/files/127/Dla-pracodawcow/384/bezpieczna-praca-w-zawodzie-magazyniera.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:50Z,200,application/pdf,787199,raw/pip/bezpieczna-praca-w-zawodzie-magazyniera.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczna praca w zawodzie magazyniera",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63,paginacja,476418a3104c525b091bc65c98c8937308260fa37fcfb582c4274b248cdcf450,accepted,
-ff88bd0cfef8f5fe,https://www.zus.pl/documents/10182/167670/poradnik_wypadkowe_wersja_archiwalna_do_marca_2024.pdf/58cae573-ff58-50e0-070b-35ee6f58ec94?t=1711613674365,zus,zus_podstawa_wymiaru,L2,pdf,2026-04-25T09:57:51Z,200,application/pdf,1358099,raw/zus/58cae573-ff58-50e0-070b-35ee6f58ec94.pdf,"Pobierz "" 
-                        Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe wersja archiwalna do 31 marca 2024 r.
-                         "" (pdf, 1326 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,ff88bd0cfef8f5feba45dfd8ad8b09a50515507fb3cde2408056decc29aa6a2e,accepted,
-5513b0decfac862c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/386/Bezpieczenstwo-uzytkowania-maszyn-Poradnik-dla-pracodawcow.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:53Z,200,application/pdf,552444,raw/pip/Bezpieczenstwo-uzytkowania-maszyn-Poradnik-dla-pracodawcow.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczeństwo użytkowania maszyn",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=90,paginacja,5513b0decfac862c75336b6f439b37f4c6c5fd20402d4603080c42fb6d56fc0b,accepted,
-49b8e01ce9d884c8,https://www.pip.gov.pl/files/127/Dla-pracodawcow/387/Badania-profilaktyczne.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:55Z,200,application/pdf,946499,raw/pip/Badania-profilaktyczne.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Badania profilaktyczne pracowników",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,49b8e01ce9d884c879449f8400b55ff0120dc0cc87bc56184dfdb8f41c96fe33,accepted,
-83203daf320da6de,https://www.zus.pl/documents/10182/167670/poradnik_wypadkowe_2018.pdf/17e0dc69-e027-476f-e39b-b7bf4df4c93d?t=1616676188170,zus,zus_podstawa_wymiaru,L2,pdf,2026-04-25T09:57:56Z,200,application/pdf,1352280,raw/zus/17e0dc69-e027-476f-e39b-b7bf4df4c93d.pdf,"Pobierz "" 
-                        Ustalanie stopy  procentowej  składki   na ubezpieczenie  wypadkowe archiwum stan prawny 04.2018-03.2021
-                         "" (pdf, 1321 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,83203daf320da6de0df16ac6086be4a72957d86d082d3a9ed3b2f28fc37bf337,accepted,
-313be0b8be7da124,https://www.pip.gov.pl/files/127/Dla-pracodawcow/388/Bezpieczna-praca-w-restauracjach-i-innych-placowkach-gastronomicznych.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:57Z,200,application/pdf,500248,raw/pip/Bezpieczna-praca-w-restauracjach-i-innych-placowkach-gastronomicznych.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczna praca w restauracjach i innych placówkach gastronomicznych",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,313be0b8be7da124d84866289bb9dc05209867107f035d9587f9724200bc55f3,accepted,
-8ec026e0d7b6e0c7,https://www.pip.gov.pl/files/127/Dla-pracodawcow/392/Niepelnosprawni-Wymagania-techniczno-budowlane.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:58Z,200,application/pdf,806528,raw/pip/Niepelnosprawni-Wymagania-techniczno-budowlane.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Pracownik z niepełnosprawnością. Wymagania techniczno -budowlane",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,8ec026e0d7b6e0c7e61fb5866d20d4f37e8ea8c2afa1952200ed63eaa785c06f,accepted,
-e91bbcd6dd3bbd57,https://www.zus.pl/documents/10182/167670/Zasady+op%C5%82acania+sk%C5%82adek+na+Fundusz+Pracy%2C+Fundusz+Gwarantowanych+%C5%9Awiadcze%C5%84+Pracowniczych+oraz+Fundusz+Emerytur+Pomostowych_archiwum_2017.pdf/3a9213cb-ae0a-41a9-bd0c-dfaf46fa1c24?t=1524835101566,zus,zus_emerytura_jdg,L2,pdf,2026-04-25T09:58:00Z,200,application/pdf,925986,raw/zus/3a9213cb-ae0a-41a9-bd0c-dfaf46fa1c24.pdf,"Pobierz "" 
-                        Zasady opłacania składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych oraz Fundusz Emerytur Pomostowych
-                         "" (pdf, 904 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,e91bbcd6dd3bbd570b730d7216f914481982c8a04530647a9fe1249770c8eb72,accepted,
-a029ab364f9f33c3,https://www.pip.gov.pl/files/127/Dla-pracodawcow/397/pracownicy-tymczasowip17842.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:03Z,200,application/pdf,1132825,raw/pip/pracownicy-tymczasowip17842.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Pracownicy tymczasowi",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,a029ab364f9f33c31e13614b6841cf9f1227ffa2d316e18396f0dbd736ad71cf,accepted,
-a9ad3a05cd91c4de,https://www.zus.pl/documents/10182/167670/Poradnik_ubezp_os%C3%B3b_duchownych_2018.pdf/d070a414-39a8-060e-fc88-3dec3bd22878?t=1589970652314,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:58:04Z,200,application/pdf,875945,raw/zus/d070a414-39a8-060e-fc88-3dec3bd22878.pdf,"Pobierz "" 
-                        Ubezpieczenia społeczne i ubezpieczenie zdrowotne osób duchownych stan prawny na 1.01.2018 r.
-                         "" (pdf, 855 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,a9ad3a05cd91c4de90c205161d2c2d5bd1de468992a5b2d7256501ba7340a197,accepted,
-3b509aaf571dcfe1,https://www.pip.gov.pl/files/127/Dla-pracodawcow/400/mobbing-inforamtor-dla-pracodawcy-2019p95366.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:58:08Z,200,application/pdf,873758,raw/pip/mobbing-inforamtor-dla-pracodawcy-2019p95366.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Mobbing. Informator dla pracodawcy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=99,paginacja,3b509aaf571dcfe1d0931899ad5177b22b2ed25bf98d33d06cffae5305fb2f21,accepted,
-c822c86d0767f153,https://www.zus.pl/documents/10182/167670/Zasady+podlegania+ubezpieczeniom+spo%C5%82ecznym+i+ubezpieczeniu+zdrowotnemu+oraz+ustalania+podstawy+wymiaru+sk%C5%82adek+1.9.2017+archiwum.pdf/2aca8721-e347-456d-a136-ef25f5707d56?t=1514557893772,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:58:09Z,200,application/pdf,1149273,raw/zus/2aca8721-e347-456d-a136-ef25f5707d56.pdf,"Pobierz "" 
-                        Zasady podlegania ubezpieczeniom społecznym i ubezpieczeniu zdrowotnemu oraz ustalania podstawy wymiaru składek
-                         "" (pdf, 1122 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,c822c86d0767f1535ca9c6f107009643996e6fc30463aa78ee8f2256e7f91b7e,accepted,
-b0680900b4ddc670,https://www.pip.gov.pl/files/127/Dla-pracodawcow/401/zagrozenia-psychospoleczne-poradnik-dla-pracodawcow-i-specjalisp94880.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:10Z,200,application/pdf,8037345,raw/pip/zagrozenia-psychospoleczne-poradnik-dla-pracodawcow-i-specjalisp94880.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Zagrożenia psychospołeczne",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,b0680900b4ddc670f9000d9944b982227ac64facee255bea4474520f5118575b,accepted,
-eb063675b8dc5360,https://www.pip.gov.pl/files/127/Dla-pracodawcow/402/stres-w-pracy-przyklady-dobrych-praktykp38690.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:11Z,200,application/pdf,307190,raw/pip/stres-w-pracy-przyklady-dobrych-praktykp38690.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Stres w pracy. Przykłady dobrych praktyk",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,eb063675b8dc5360e823901a193838f020f66b2d0236fc27cd9d605fa5e065b7,accepted,
-207f927fbd6a4639,https://www.pip.gov.pl/files/127/Dla-pracodawcow/403/urlopyp84442.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:13Z,200,application/pdf,1158973,raw/pip/urlopyp84442.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Urlopy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,207f927fbd6a4639ca22e69d9f175447319bbf95e9264d42f92e77b0150241f9,accepted,
-0dc8dce70c4299a5,https://www.pip.gov.pl/files/127/Dla-pracodawcow/404/nadgodziny-w-praktycep45815.pdf,pip,kp_czas_pracy,L2,pdf,2026-04-25T09:58:14Z,200,application/pdf,225510,raw/pip/nadgodziny-w-praktycep45815.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Nadgodzny w praktyce",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,0dc8dce70c4299a57338c15d38884402e010c3c5ea471d34c7d810136ebd1111,accepted,
-55a53a1cda6ab7ed,https://www.zus.pl/documents/10182/167670/Zasady+podlegania+ubezpieczeniom+spo%C5%82ecznym+i+ubezpieczeniu+zdrowotnemu+oraz+ustalania+podstawy+wymiaru+sk%C5%82adek_archiwum_2017.pdf/1195809f-a305-46e2-abf0-58e528f57ab7?t=1524827978857,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:58:14Z,200,application/pdf,1299261,raw/zus/1195809f-a305-46e2-abf0-58e528f57ab7.pdf,"Pobierz "" 
-                        Zasady podlegania ubezpieczeniom społecznym i ubezpieczeniu zdrowotnemu oraz ustalania podstawy  wymiaru składek
-                         "" (pdf, 1269 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,55a53a1cda6ab7ed25a1ed2b5896ccb8fda873144d229488d7720239653f1156,accepted,
-8917adff0262d638,https://www.pip.gov.pl/files/127/Dla-pracodawcow/405/praca-w-niedziele-i-swietap36488.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:16Z,200,application/pdf,1233416,raw/pip/praca-w-niedziele-i-swietap36488.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Praca w niedziele i święta",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,8917adff0262d638c91670453fcba7c2c099665d9f6f4e03d66b9144cd69489d,accepted,
-1e835b2700a22274,https://www.pip.gov.pl/files/127/Dla-pracodawcow/406/zakladowy-fundusz-swiadczen-socjalnychp91479.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:17Z,200,application/pdf,590814,raw/pip/zakladowy-fundusz-swiadczen-socjalnychp91479.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Zakładowy fundusz świadczeń socjalnych",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,1e835b2700a22274d3daaaf16438b4b73e1bb68aad4a583c248d99244f961fdf,accepted,
-15c2496ebc2fde83,https://www.pip.gov.pl/files/127/Dla-pracodawcow/408/wynagrodzenie-za-pracep19021.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:19Z,200,application/pdf,1057470,raw/pip/wynagrodzenie-za-pracep19021.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Wynagrodzenie za pracę",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,15c2496ebc2fde83f1a4cf245a4113e4fedad816baf7cb17b0d40ae3b47b6828,accepted,
-c1a2eedc1ecf1a32,https://www.pip.gov.pl/files/127/Dla-pracodawcow/409/zwolnienia-grupowep68798.pdf,pip,kp_wypowiedzenie;vat_zwolnienie_200k,L2,pdf,2026-04-25T09:58:20Z,200,application/pdf,588964,raw/pip/zwolnienia-grupowep68798.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Zwolnienia grupowe",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=108,paginacja,c1a2eedc1ecf1a328f509983341d5f7dda94f694c74de45c6666ea56f31f4fe7,accepted,
-82be82153503e3c9,https://www.pip.gov.pl/files/127/Dla-pracodawcow/411/ul-rozwiazumowy-wzn2021-okp26812.pdf,pip,kp_bhp_biuro;kp_wypowiedzenie,L2,pdf,2026-04-25T09:58:22Z,200,application/pdf,1296567,raw/pip/ul-rozwiazumowy-wzn2021-okp26812.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Rozwiązywanie umów o pracę",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=90,paginacja,82be82153503e3c911cb86458c42b421a0a7a9af2088a5b7d3b19eeae1a83ca4,accepted,
-85eed41a0d82eb81,https://www.pip.gov.pl/files/127/Dla-pracodawcow/414/obowiazki-pracodawcy-po-ustaniu-stosunku-pracyp72567.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:24Z,200,application/pdf,1116976,raw/pip/obowiazki-pracodawcy-po-ustaniu-stosunku-pracyp72567.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Obowiązki pracodawcy po ustaniu stosunku pracy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=90,paginacja,85eed41a0d82eb816122d172760f9bf046387ee0c7369b0332f9e9b247074c1c,accepted,
-854078ab55cde2a5,https://www.pip.gov.pl/files/127/Dla-pracodawcow/415/dokumentacja-pracowniczap22901.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:26Z,200,application/pdf,2246587,raw/pip/dokumentacja-pracowniczap22901.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Dokumentacja pracownicza",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=90,paginacja,854078ab55cde2a58fb3d10b2d670f0aa816ada2c05a26b3a4c127bb0eb22ecb,accepted,
-203baf2aba699077,https://www.pip.gov.pl/files/127/Dla-pracodawcow/416/nowy-pracownik-obowiazki-pracodawcyp18266.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:58:27Z,200,application/pdf,681376,raw/pip/nowy-pracownik-obowiazki-pracodawcyp18266.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Nowy pracownik-obowiązki pracodawcy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=117,paginacja,203baf2aba699077d9f10e9a3f42b8532984c38e8a2fcedb7d8feb10bd70053e,accepted,
-f9953e982a9a6042,https://www.pip.gov.pl/files/126/Dla-pracownikow/586/PrawoPracyPierwKroki-INTERNET-OKL.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:28Z,200,application/pdf,868630,raw/pip/PrawoPracyPierwKroki-INTERNET-OKL.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Prawo pracy - pierwsze kroki",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,f9953e982a9a6042f9e40e930e32c4ca9f27d9dd047d27980447c6444c93a54c,accepted,
-aee3027ce6a9fda5,https://www.pip.gov.pl/files/126/Dla-pracownikow/1155/Uprawnienia-pracownikow-powoanych-do-suby-wojskowej.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:30Z,200,application/pdf,662433,raw/pip/Uprawnienia-pracownikow-powoanych-do-suby-wojskowej.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Uprawnienia pracowników powołanych do służby wojskowej",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,aee3027ce6a9fda57e2935373529ed5d2590b1dd81ce3d89f1ae232e98b6f93b,accepted,
-1ffaeb713a882bf2,https://www.pip.gov.pl/files/126/Dla-pracownikow/1142/Uprawnienia-rodzicielskie-pracujcych-ojcow.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:31Z,200,application/pdf,629243,raw/pip/Uprawnienia-rodzicielskie-pracujcych-ojcow.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Uprawnienia rodzicielskie pracujących ojców",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,1ffaeb713a882bf2d2a467f9a763ec02879f5385141629a406d5a27d35e293fa,accepted,
-1e8a56bf209d1060,https://www.pip.gov.pl/files/125/Publikacje/792/Pracownicy-delegowani-w-sektorze-budowlanym.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:41Z,200,application/pdf,467240,raw/pip/Pracownicy-delegowani-w-sektorze-budowlanym.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Pracownicy delegowani w sektorze budowlanym",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=27,paginacja,1e8a56bf209d1060c3e463bd797bbcc035d67a052bce5fb86c5fbe3121561830,accepted,
-c6951e960fa3103c,https://www.pip.gov.pl/files/126/Dla-pracownikow/324/bezpieczenstwo-w-indywidualnym-gospodarstwie-rolnym-lista-kontrolna.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:42Z,200,application/pdf,115324,raw/pip/bezpieczenstwo-w-indywidualnym-gospodarstwie-rolnym-lista-kontrolna.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczeństwo w indywidualnym gospodarstwie rolnym. Lista kontrolna",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36,paginacja,c6951e960fa3103ca0458986e7940bc1dd147afe6a3b12db72f5bd98460c62a7,accepted,
-d9d61020eb916be9,https://www.pip.gov.pl/files/126/Dla-pracownikow/526/Bezpieczna-praca-w-handlu.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:45Z,200,application/pdf,749268,raw/pip/Bezpieczna-praca-w-handlu.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczna praca w handlu",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36,paginacja,d9d61020eb916be902bf0bc1530c968a1eeedb4400057b0002d54d74448b5f50,accepted,
-bb2873817720e31a,https://www.pip.gov.pl/files/126/Dla-pracownikow/527/karta4.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:47Z,200,application/pdf,600739,raw/pip/karta4.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         ADR – Zasady zabezpieczeń ładunków",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36,paginacja,bb2873817720e31a142320014664f72f7268d1080978a6342718a952c0d1ddac,accepted,
-d891973799f03d47,https://www.pip.gov.pl/files/126/Dla-pracownikow/528/karta3.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:48Z,200,application/pdf,899780,raw/pip/karta3.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         ADR – Przewóz towarów niebezpiecznych",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36,paginacja,d891973799f03d4776769433d7aaac4b8627186b328eb82640c6abc698b59726,accepted,
-4c9b49f8e0e5afb6,https://www.pip.gov.pl/files/126/Dla-pracownikow/529/karta2.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:49Z,200,application/pdf,318587,raw/pip/karta2.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         ADR – Postępowanie w razie zagrożenia",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36,paginacja,4c9b49f8e0e5afb6f2a47f4a360503be7c5eb8ba49cba4640ee1deef5ab315eb,accepted,
-2c6c90b6b2cda309,https://www.pip.gov.pl/files/126/Dla-pracownikow/530/karta1.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:51Z,200,application/pdf,382691,raw/pip/karta1.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         ADR– Obowiązki uczestników przewozu",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36,paginacja,2c6c90b6b2cda309ad340b1154aa658f4670c81520b07756ec956a67af582055,accepted,
-40d27b8d343c0f6e,https://www.pip.gov.pl/files/126/Dla-pracownikow/533/kleszcze.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:54Z,200,application/pdf,1180405,raw/pip/kleszcze.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Choroby odkleszczowe",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=45,paginacja,40d27b8d343c0f6ec2643360a712448db2094eb4378d4fff5cf6c80145d62b3b,accepted,
-ed9e081ca58e7298,https://www.pip.gov.pl/files/126/Dla-pracownikow/535/wal-przegubowo-teleskopowy.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:58Z,200,application/pdf,280063,raw/pip/wal-przegubowo-teleskopowy.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Wał przegubowo-teleskopowy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=45,paginacja,ed9e081ca58e7298d832447be6ffa03fb86bfcaf0cf691da4160a3e5126560c4,accepted,
-c49dddefc0c5cb7e,https://www.pip.gov.pl/files/126/Dla-pracownikow/537/siano.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:01Z,200,application/pdf,926328,raw/pip/siano.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Sianokiszonki zasady bezpiecznej pracy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=45,paginacja,c49dddefc0c5cb7e74b73ea66b2aba4ed7082517d6b200fb6cdf6319f9eedf2f,accepted,
-ecc313a6e5d54470,https://www.pip.gov.pl/files/126/Dla-pracownikow/539/prace-prasa-do-slomy.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:03Z,200,application/pdf,437862,raw/pip/prace-prasa-do-slomy.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace prasą do słomy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=45,paginacja,ecc313a6e5d54470e5594480ff30c276d67ad16328e5199ddd51171f86500b91,accepted,
-ecc41585d1c0f40d,https://www.pip.gov.pl/files/126/Dla-pracownikow/541/prace-transportowe.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:04Z,200,application/pdf,375375,raw/pip/prace-transportowe.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace transportowe",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54,paginacja,ecc41585d1c0f40d7c0f0ee3eee11ccb893c827535582a1d4d07ff340c7ee5b5,accepted,
-5c0aebfcff18f0a8,https://www.pip.gov.pl/files/126/Dla-pracownikow/542/prace-pilarka-tarczowa.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:05Z,200,application/pdf,292402,raw/pip/prace-pilarka-tarczowa.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace pilarką tarczową",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54,paginacja,5c0aebfcff18f0a815c31121790a778a1d59e556680534869d305fbe1b775d10,accepted,
-932375bd191300d5,https://www.pip.gov.pl/files/126/Dla-pracownikow/543/prace-na-drabinie-przenosnej.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:07Z,200,application/pdf,605080,raw/pip/prace-na-drabinie-przenosnej.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace na drabinie przenośnej",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54,paginacja,932375bd191300d53d8733983d047e1eaab2760aa34a3644d0de4a8de047f4d8,accepted,
-edcc3733751e0f67,https://www.pip.gov.pl/files/126/Dla-pracownikow/544/prace-opryskiwaczem-ciagnikowym.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:08Z,200,application/pdf,369535,raw/pip/prace-opryskiwaczem-ciagnikowym.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace opryskiwaczem ciągnikowym",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54,paginacja,edcc3733751e0f67aa3062a57a68d1c398d657d3066800e990d2bdf69bd191c2,accepted,
-1e8a2e5b9c74b4d1,https://www.pip.gov.pl/files/126/Dla-pracownikow/545/prace-ladowarka-teleskowpowa.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:09Z,200,application/pdf,620255,raw/pip/prace-ladowarka-teleskowpowa.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace ładowarką teleskopową",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54,paginacja,1e8a2e5b9c74b4d14f119f3cf1ceecba88ecf25d627e59d725edf9fc7022cac0,accepted,
-608f137ff34f1c30,https://www.pip.gov.pl/files/126/Dla-pracownikow/546/prace-kosiarka-rotacyjna.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:10Z,200,application/pdf,411662,raw/pip/prace-kosiarka-rotacyjna.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace kosiarką rotacyjną",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54,paginacja,608f137ff34f1c30e5463f9ce48c7760826fee556a77fe872952e6028a391fcd,accepted,
-f9ec8199292d6dd9,https://www.pip.gov.pl/files/126/Dla-pracownikow/548/prace-kombajnem-zobozowym.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:14Z,200,application/pdf,420816,raw/pip/prace-kombajnem-zobozowym.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace kombajnem zbożowym",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54,paginacja,f9ec8199292d6dd93a1e0e5804ffedeb386c9e230aedc677db99b19012a24636,accepted,
-ced27686dea0f900,https://www.pip.gov.pl/files/126/Dla-pracownikow/550/dzwigaj-bezpiecznie.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:15Z,200,application/pdf,458307,raw/pip/dzwigaj-bezpiecznie.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Dźwigaj bezpiecznie. Jak pracować by nie bolały Cię plecy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=63,paginacja,ced27686dea0f900a136ab1659240d8917494ee9b8a03cd129e447b2eb3d81e3,accepted,
-e657d4cfc9d9884d,https://www.pip.gov.pl/files/126/Dla-pracownikow/559/bezpieczna-obsluga-zwierzat.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:20Z,200,application/pdf,1253034,raw/pip/bezpieczna-obsluga-zwierzat.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczna obsługa zwierząt",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=63,paginacja,e657d4cfc9d9884d0433724a12e5a427cc74bed50bef06ef73e31af8d3614d36,accepted,
-ef81a5030fe7b547,https://www.pip.gov.pl/files/126/Dla-pracownikow/560/bezpiecznie-ciagnikiem.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:21Z,200,application/pdf,752911,raw/pip/bezpiecznie-ciagnikiem.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpiecznie ciągnikiem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=63,paginacja,ef81a5030fe7b5472afc4a6eb1ddf19f880f16d36de3657cee5d3cd37fd966c3,accepted,
-0bccb1b50fd212ad,https://www.pip.gov.pl/files/127/Dla-pracodawcow/334/Transport-i-rozladunek-zwierzat.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:59:27Z,200,application/pdf,381247,raw/pip/Transport-i-rozladunek-zwierzat.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Transport i rozładunek zwierząt",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,0bccb1b50fd212adc8508d60fa79899ef3de655f30aef7188ce765d3ea61ad8f,accepted,
-72f89427f59ebd24,https://www.pip.gov.pl/files/126/Dla-pracownikow/566/wytlaczarka-do-tworzyw-sztucznych.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:34Z,200,application/pdf,92446,raw/pip/wytlaczarka-do-tworzyw-sztucznych.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Wytłaczarka do tworzyw sztucznych",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=81,paginacja,72f89427f59ebd240d9daeddbe0b3983bc321754d92a4ccc2cb1c605a6736211,accepted,
-20d4338efb2c599d,https://www.pip.gov.pl/files/126/Dla-pracownikow/577/szlifierka-dwutarczowa.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:35Z,200,application/pdf,121988,raw/pip/szlifierka-dwutarczowa.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Szlifierka dwutarczowa",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=81,paginacja,20d4338efb2c599d3a844fcf80997ea51c7c80b2c5341cc72f77380b6c074b23,accepted,
-c81ac36a4f73302c,https://www.pip.gov.pl/files/126/Dla-pracownikow/565/tokarka-uniwersalna.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:36Z,200,application/pdf,158089,raw/pip/tokarka-uniwersalna.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Tokarka uniwersalna",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=81,paginacja,c81ac36a4f73302ca0c81e9f19a840670762b24ee061f7e5ee172cd278ed8f34,accepted,
-6d5dc86dabf69381,https://www.pip.gov.pl/files/126/Dla-pracownikow/569/prasa-mechaniczna.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:38Z,200,application/pdf,146758,raw/pip/prasa-mechaniczna.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prasa mechaniczna",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90,paginacja,6d5dc86dabf6938143e6348a27b22c73e3f854c1c084eac1b3d530a8929c258a,accepted,
-8c6644580e996c46,https://www.pip.gov.pl/files/126/Dla-pracownikow/572/strugarki-grubiarki-jednostronne.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:39Z,200,application/pdf,119430,raw/pip/strugarki-grubiarki-jednostronne.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Strugarki grubiarki jednostronne",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90,paginacja,8c6644580e996c46dd0a0027fc241630a5ba931b00c173e6182cf155747370c5,accepted,
-27b47770fa558619,https://www.pip.gov.pl/files/126/Dla-pracownikow/571/strugarki-wyrowniarki-z-recznym-posuem.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:40Z,200,application/pdf,110113,raw/pip/strugarki-wyrowniarki-z-recznym-posuem.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Strugarki wyrówniarki z ręcznym posuwem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90,paginacja,27b47770fa558619786f6faf24e0d0d570ddd444445e0d26bc05fee2acd1618c,accepted,
-68233938bf2a6541,https://www.pip.gov.pl/files/126/Dla-pracownikow/575/pilarka-ramowa-pionowa-trak.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:42Z,200,application/pdf,163632,raw/pip/pilarka-ramowa-pionowa-trak.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Pilarka ramowa pionowa (trak)",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90,paginacja,68233938bf2a6541d4155a23b710e8e2fae5c53f1adfb60743d072cc49a54f72,accepted,
-5fa4af109c040f58,https://www.pip.gov.pl/files/126/Dla-pracownikow/574/pilarka-tarczowa-stlolowa-i-formatowa.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:44Z,200,application/pdf,142956,raw/pip/pilarka-tarczowa-stlolowa-i-formatowa.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Pilarka tarczowa stoowa i formatowa",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90,paginacja,5fa4af109c040f58e4d9ba80225f8f3c5125965d5a33876bb8fe22d063a1c8b1,accepted,
-d6f0270070b336e8,https://www.pip.gov.pl/files/126/Dla-pracownikow/568/prasa-hydrauliczna-krawedziowa.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:45Z,200,application/pdf,126369,raw/pip/prasa-hydrauliczna-krawedziowa.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prasa hydrauliczna krawędziowa",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90,paginacja,d6f0270070b336e8f691899a7612f00aac754591c033ca1bd68935058badf89f,accepted,
-c6336477914e3ddb,https://www.pip.gov.pl/files/126/Dla-pracownikow/567/nozyce-gilotynowe.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:47Z,200,application/pdf,128252,raw/pip/nozyce-gilotynowe.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Nożyce gilotynowe",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90,paginacja,c6336477914e3ddb1866c60c35c7fd4fa9274b9f9c75e004784329a877a30f44,accepted,
-f5ceb8f0249fd8f4,https://www.pip.gov.pl/files/126/Dla-pracownikow/573/frezarki-dolnowrzecionowe-pionowe.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:50Z,200,application/pdf,120771,raw/pip/frezarki-dolnowrzecionowe-pionowe.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Frezarki dolnowrzecionowe pionowe",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=99,paginacja,f5ceb8f0249fd8f4305f7b4ded54d30142c4a6c26b11ce78bde9c7141a1f93e0,accepted,
-62b8f182752ea6d4,https://www.pip.gov.pl/files/126/Dla-pracownikow/578/aby-zwiekszyc-sowje-bezpiecznetwo-pracy.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:59:52Z,200,application/pdf,455629,raw/pip/aby-zwiekszyc-sowje-bezpiecznetwo-pracy.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace pilarką spalinową",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=99,paginacja,62b8f182752ea6d4d6e6061c48ace3cd00331b9f0238e5ae7c2e6e254874baf6,accepted,
+abee37496946c890,https://www.pip.gov.pl/files/127/Dla-pracodawcow/326/dostosuj-swoj-zaklad-do-obowiazujacego-prawa-pracy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:34Z,200,application/pdf,2563833,raw/pip/dostosuj-swoj-zaklad-do-obowiazujacego-prawa-pracy.pdf,Dostosuj swój zakład do obowiązującego prawa pracy. Lista kontrolna z komentarzem,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,abee37496946c890289511b48342229442dc22e88b108868f453d183e3acf08f,accepted,
+4a3bafd6a7286709,https://www.zus.pl/documents/10182/0/Kontrola+prawid%C5%82owo%C5%9Bci+wykorzystywania+zwolnie%C5%84+lekarskich.pdf/ef458770-eff8-5460-cb31-f548c763acc4?t=1776151096679,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:56:35Z,200,application/pdf,471781,raw/zus/ef458770-eff8-5460-cb31-f548c763acc4.pdf,"Pobierz "" Kontrola prawidłowości wykorzystywania zwolnień lekarskich od pracy "" (pdf, 461 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,4a3bafd6a7286709368e7823aa4faf6e6676f44f57741dc0f5c3b221bf76c963,accepted,
+d50b903bd0809979,https://www.zus.pl/documents/10182/167567/przewodnik_dla_rozpoczynajacych_dzialalnosc.pdf/2c941ac8-8e3f-4dfe-80a1-1d2340d908ce?t=1773411754011,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:56:43Z,200,application/pdf,2018955,raw/zus/2c941ac8-8e3f-4dfe-80a1-1d2340d908ce.pdf,"Pobierz "" Przewodnik dla rozpoczynających działalność gospodarczą "" (pdf, 1972 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,d50b903bd080997968db801641b962a4ac90c345615f80556c41a160a6d47354,accepted,
+b2599d96751a7bd0,https://www.pip.gov.pl/files/127/Dla-pracodawcow/335/Bezpieczna-praca-w-biurze-INTERNET.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:47Z,200,application/pdf,1459744,raw/pip/Bezpieczna-praca-w-biurze-INTERNET.pdf,Bezpieczna praca w biurze,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,b2599d96751a7bd074a6d9ca7d90cce49edc25e6469462acb6d907dca8f74dfa,accepted,
+544872705bcfca7e,https://www.zus.pl/documents/10182/167567/poradnik_wypadkowe.pdf/15281e1b-c3f3-472a-81b3-7d10e1a434c8?t=1768996389317,zus,zus_podstawa_wymiaru,L2,pdf,2026-04-25T09:56:48Z,200,application/pdf,1377830,raw/zus/15281e1b-c3f3-472a-81b3-7d10e1a434c8.pdf,"Pobierz "" Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe "" (pdf, 1346 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,544872705bcfca7ed276c46678f7280ed0dfff0d9442cc62aebaa37a0a604737,accepted,
+75d3788611b6f512,https://www.pip.gov.pl/files/127/Dla-pracodawcow/340/profilaktyzna-ochorna-zdrowia.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:56:55Z,200,application/pdf,1307116,raw/pip/profilaktyzna-ochorna-zdrowia.pdf,Profilaktyczna ochrona zdrowia,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=27,paginacja,75d3788611b6f5126a1ca2dc3d151d18558269f2387a0ed1772e6e14c6a05f03,accepted,
+e2bd4ec38bb3db17,https://www.zus.pl/documents/10182/167567/ZUS_RCA.pdf/7e556412-65dd-41a9-9680-ed15adf5c5fc?t=1768993116950,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:57:01Z,200,application/pdf,3779855,raw/zus/7e556412-65dd-41a9-9680-ed15adf5c5fc.pdf,"Pobierz "" ZUS RCA - Imienny raport miesięczny o należnych składkach i wypłaconych świadczeniach "" (pdf, 3691 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,e2bd4ec38bb3db17f6e0001fde9f3ac052ed72bebc929a4416bcb85ef7753630,accepted,
+fb418230d4060b40,https://www.pip.gov.pl/files/127/Dla-pracodawcow/346/LISTA-KONTROLNA-DREWNO-INTERMET.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:03Z,200,application/pdf,911925,raw/pip/LISTA-KONTROLNA-DREWNO-INTERMET.pdf,Bezpieczne pozyskanie drewna Lista kontrolna z komentarzem,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=54,paginacja,fb418230d4060b40cef7ca0fe9a5a90724289153a4ee8c94765c126c691c4604,accepted,
+14c90ad1fb6ed6a5,https://www.zus.pl/documents/10182/167567/poradnik_zus_iwa.korekta_pdf.pdf/a7780991-e2e8-45ce-8401-2e6983837a5f?t=1769774050260,zus,zus_podstawa_wymiaru,L2,pdf,2026-04-25T09:57:08Z,200,application/pdf,1914936,raw/zus/a7780991-e2e8-45ce-8401-2e6983837a5f.pdf,"Pobierz "" ZUS IWA Informacja o danych do ustalenia składki na ubezpieczenie wypadkowe "" (pdf, 1870 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,14c90ad1fb6ed6a5e0d1b0914833548d675686c237d043eb91887d1cf5d6bea1,accepted,
+aa93389903febbb2,https://www.pip.gov.pl/files/127/Dla-pracodawcow/360/bhp---obowiazki-kierownika-budowy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:18Z,200,application/pdf,152583,raw/pip/bhp---obowiazki-kierownika-budowy.pdf,Obowiązki kierownika budowy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=45,paginacja,aa93389903febbb2a1b77c66ebb5ae172d89184e930d4083ce646a16f6586b48,accepted,
+7788bfe821caba0c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/363/wypadki-w-szkole.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:19Z,200,application/pdf,389710,raw/pip/wypadki-w-szkole.pdf,Wypadki w szkole,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=45,paginacja,7788bfe821caba0c323c8646148ef22e13ad03713ee2e50a1661274ae63c89ec,accepted,
+45e1d57f5fa5836d,https://www.zus.pl/documents/10182/167567/poradnik+ZUS+DRA.pdf/8b7a1ca0-6145-ae37-d90a-a74871de6ca7?t=1767972149200,zus,zus_zua_zwua_dra,L2,pdf,2026-04-25T09:57:21Z,200,application/pdf,3944471,raw/zus/8b7a1ca0-6145-ae37-d90a-a74871de6ca7.pdf,"Pobierz "" ZUS DRA - deklaracja rozliczeniowa. Jak wypełnić i skorygować "" (pdf, 3852 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,45e1d57f5fa5836d51c55dcfa4f6f5b509120354b7de0cd654c37c50e571887f,accepted,
+6d068589ee93843b,https://www.pip.gov.pl/files/127/Dla-pracodawcow/366/Szkolenia-BHP.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:24Z,200,application/pdf,673585,raw/pip/Szkolenia-BHP.pdf,Szkolenia bhp,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=72,paginacja,6d068589ee93843be5ee9accf5be87f9b60462a9c982a24d94d591a511241736,accepted,
+ef982db6443ef56f,https://www.zus.pl/documents/10182/167567/Zasady+op%C5%82acania+sk%C5%82adek+na+Fundusz+Pracy%2C+Fundusz+Gwarantowanych+%C5%9Awiadcze%C5%84+Pracowniczych+oraz+Fundusz+Emerytur+Pomostowych.pdf/92a5c5b1-cf05-4869-8845-538a48fd5129?t=1748869328973,zus,zus_emerytura_jdg,L2,pdf,2026-04-25T09:57:25Z,200,application/pdf,856953,raw/zus/92a5c5b1-cf05-4869-8845-538a48fd5129.pdf,"Pobierz "" Zasady opłacania składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych oraz Fundusz Solidarnościowy "" (pdf, 837 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,ef982db6443ef56f4062eae687ffcdfc7a82a7106c1fbcbd7f794c7f5d17e5ef,accepted,
+b9e86e0952d77555,https://www.pip.gov.pl/files/127/Dla-pracodawcow/367/srodkiochronyoddech.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:26Z,200,application/pdf,1295661,raw/pip/srodkiochronyoddech.pdf,Środki ochrony układu oddechowego,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=72,paginacja,b9e86e0952d77555e51623b6747fbd9cd8e8a6dde70257e335cc6c0262a4c78f,accepted,
+3ba495b96d92ab0a,https://www.zus.pl/documents/10182/3996913/Polski+%C5%81ad+-+poradnik.pdf/f4f5043f-4487-2e82-e93a-8f8d7cc6c5f9?t=1737971535392,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:57:30Z,200,application/pdf,1304132,raw/zus/f4f5043f-4487-2e82-e93a-8f8d7cc6c5f9.pdf,"Pobierz "" Polski Ład. Co zmienia się w przepisach dotyczących rozliczania składki na ubezpieczenie zdrowotne od 1 stycznia 2022 r. "" (pdf, 1274 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,3ba495b96d92ab0acfcba07f4324c1814319f039d7a0bbed2309718ae8414f68,accepted,
+81d30c371e2d567c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/373/Ocena-ryzyka-zawodowego-Czynniki-psychospoleczne.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:34Z,200,application/pdf,469919,raw/pip/Ocena-ryzyka-zawodowego-Czynniki-psychospoleczne.pdf,Ocena ryzyka zawodowego. Czynniki psychospołeczne,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=81,paginacja,81d30c371e2d567ca23bbdb632897bf6baa749bf5dcc390263f1bd3e91663ca7,accepted,
+c6983483e0525c36,https://www.pip.gov.pl/files/127/Dla-pracodawcow/374/Prawa-i-obowiazki-pracodawcy-w-zakresie-BHP.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:36Z,200,application/pdf,924878,raw/pip/Prawa-i-obowiazki-pracodawcy-w-zakresie-BHP.pdf,Prawa i obowiązki pracodawcy w zakresie bhp,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=81,paginacja,c6983483e0525c36962f5f792d9e5ff8344f16abbe2b3b47643f43d75ba0458f,accepted,
+7ad5e2bdc702f8a4,https://www.pip.gov.pl/files/127/Dla-pracodawcow/377/jak-kocenic-ryzyko-zawodowe.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:57:40Z,200,application/pdf,198654,raw/pip/jak-kocenic-ryzyko-zawodowe.pdf,Jak ocenić ryzyko zawodowe?,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=81,paginacja,7ad5e2bdc702f8a418ab8fbc1f50daa438b6524e076709b04f4f0d48921c5a99,accepted,
+ea13c3da5ca5565f,https://www.pip.gov.pl/files/127/Dla-pracodawcow/378/czynniki-szkodliwe-badania-i-pomiary.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:42Z,200,application/pdf,722458,raw/pip/czynniki-szkodliwe-badania-i-pomiary.pdf,Czynniki szkodliwe. Badania i pomiary,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63,paginacja,ea13c3da5ca5565fb1480b39320d6ce232364e4a29bc13557b583aeac82e21eb,accepted,
+5978480a50a851f7,https://www.zus.pl/documents/10182/167567/Poradnik+ZUS+OSW%2C+ZUS+RIA.pdf/5bd51288-7bae-d65b-b2c0-5a13c5dffde2?t=1727339828786,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:57:42Z,200,application/pdf,3629983,raw/zus/5bd51288-7bae-d65b-b2c0-5a13c5dffde2.pdf,"Pobierz "" Oświadczenie o zamiarze przekazania raportów informacyjnych ZUS OSW; Raport informacyjny ZUS RIA "" (pdf, 3545 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/firmy,bfs,5978480a50a851f7becddfe3d9fa4f46cdf75434165b507cdc11e9fc94c3ca65,accepted,
+c3c15cfb67ad6f1e,https://www.zus.pl/documents/10182/167670/Zasady+op%C5%82acania+sk%C5%82adek+na+Fundusz+Pracy%2C+Fundusz+Gwarantowanych+%C5%9Awiadcze%C5%84+Pracowniczych+oraz+Fundusz+Emerytur+Pomostowych+-+archiwum+2022.pdf/13cba0a8-2ee4-8726-52ef-98012557901f?t=1748869756001,zus,zus_emerytura_jdg,L2,pdf,2026-04-25T09:57:46Z,200,application/pdf,801168,raw/zus/13cba0a8-2ee4-8726-52ef-98012557901f.pdf,"Pobierz "" Zasady opłacania składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych oraz Fundusz Solidarnościowy - 2022 r. "" (pdf, 782 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,c3c15cfb67ad6f1e10af1bf2c23f16f03f9fcf85109dec9f8e2f6e4b0db8b660,accepted,
+ff88bd0cfef8f5fe,https://www.zus.pl/documents/10182/167670/poradnik_wypadkowe_wersja_archiwalna_do_marca_2024.pdf/58cae573-ff58-50e0-070b-35ee6f58ec94?t=1711613674365,zus,zus_podstawa_wymiaru,L2,pdf,2026-04-25T09:57:51Z,200,application/pdf,1358099,raw/zus/58cae573-ff58-50e0-070b-35ee6f58ec94.pdf,"Pobierz "" Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe wersja archiwalna do 31 marca 2024 r. "" (pdf, 1326 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,ff88bd0cfef8f5feba45dfd8ad8b09a50515507fb3cde2408056decc29aa6a2e,accepted,
+49b8e01ce9d884c8,https://www.pip.gov.pl/files/127/Dla-pracodawcow/387/Badania-profilaktyczne.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:55Z,200,application/pdf,946499,raw/pip/Badania-profilaktyczne.pdf,Badania profilaktyczne pracowników,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,49b8e01ce9d884c879449f8400b55ff0120dc0cc87bc56184dfdb8f41c96fe33,accepted,
+83203daf320da6de,https://www.zus.pl/documents/10182/167670/poradnik_wypadkowe_2018.pdf/17e0dc69-e027-476f-e39b-b7bf4df4c93d?t=1616676188170,zus,zus_podstawa_wymiaru,L2,pdf,2026-04-25T09:57:56Z,200,application/pdf,1352280,raw/zus/17e0dc69-e027-476f-e39b-b7bf4df4c93d.pdf,"Pobierz "" Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe archiwum stan prawny 04.2018-03.2021 "" (pdf, 1321 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,83203daf320da6de0df16ac6086be4a72957d86d082d3a9ed3b2f28fc37bf337,accepted,
+313be0b8be7da124,https://www.pip.gov.pl/files/127/Dla-pracodawcow/388/Bezpieczna-praca-w-restauracjach-i-innych-placowkach-gastronomicznych.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:57:57Z,200,application/pdf,500248,raw/pip/Bezpieczna-praca-w-restauracjach-i-innych-placowkach-gastronomicznych.pdf,Bezpieczna praca w restauracjach i innych placówkach gastronomicznych,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,313be0b8be7da124d84866289bb9dc05209867107f035d9587f9724200bc55f3,accepted,
+e91bbcd6dd3bbd57,https://www.zus.pl/documents/10182/167670/Zasady+op%C5%82acania+sk%C5%82adek+na+Fundusz+Pracy%2C+Fundusz+Gwarantowanych+%C5%9Awiadcze%C5%84+Pracowniczych+oraz+Fundusz+Emerytur+Pomostowych_archiwum_2017.pdf/3a9213cb-ae0a-41a9-bd0c-dfaf46fa1c24?t=1524835101566,zus,zus_emerytura_jdg,L2,pdf,2026-04-25T09:58:00Z,200,application/pdf,925986,raw/zus/3a9213cb-ae0a-41a9-bd0c-dfaf46fa1c24.pdf,"Pobierz "" Zasady opłacania składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych oraz Fundusz Emerytur Pomostowych "" (pdf, 904 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,e91bbcd6dd3bbd570b730d7216f914481982c8a04530647a9fe1249770c8eb72,accepted,
+a9ad3a05cd91c4de,https://www.zus.pl/documents/10182/167670/Poradnik_ubezp_os%C3%B3b_duchownych_2018.pdf/d070a414-39a8-060e-fc88-3dec3bd22878?t=1589970652314,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:58:04Z,200,application/pdf,875945,raw/zus/d070a414-39a8-060e-fc88-3dec3bd22878.pdf,"Pobierz "" Ubezpieczenia społeczne i ubezpieczenie zdrowotne osób duchownych stan prawny na 1.01.2018 r. "" (pdf, 855 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,a9ad3a05cd91c4de90c205161d2c2d5bd1de468992a5b2d7256501ba7340a197,accepted,
+3b509aaf571dcfe1,https://www.pip.gov.pl/files/127/Dla-pracodawcow/400/mobbing-inforamtor-dla-pracodawcy-2019p95366.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:58:08Z,200,application/pdf,873758,raw/pip/mobbing-inforamtor-dla-pracodawcy-2019p95366.pdf,Mobbing. Informator dla pracodawcy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=99,paginacja,3b509aaf571dcfe1d0931899ad5177b22b2ed25bf98d33d06cffae5305fb2f21,accepted,
+c822c86d0767f153,https://www.zus.pl/documents/10182/167670/Zasady+podlegania+ubezpieczeniom+spo%C5%82ecznym+i+ubezpieczeniu+zdrowotnemu+oraz+ustalania+podstawy+wymiaru+sk%C5%82adek+1.9.2017+archiwum.pdf/2aca8721-e347-456d-a136-ef25f5707d56?t=1514557893772,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:58:09Z,200,application/pdf,1149273,raw/zus/2aca8721-e347-456d-a136-ef25f5707d56.pdf,"Pobierz "" Zasady podlegania ubezpieczeniom społecznym i ubezpieczeniu zdrowotnemu oraz ustalania podstawy wymiaru składek "" (pdf, 1122 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,c822c86d0767f1535ca9c6f107009643996e6fc30463aa78ee8f2256e7f91b7e,accepted,
+eb063675b8dc5360,https://www.pip.gov.pl/files/127/Dla-pracodawcow/402/stres-w-pracy-przyklady-dobrych-praktykp38690.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:11Z,200,application/pdf,307190,raw/pip/stres-w-pracy-przyklady-dobrych-praktykp38690.pdf,Stres w pracy. Przykłady dobrych praktyk,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,eb063675b8dc5360e823901a193838f020f66b2d0236fc27cd9d605fa5e065b7,accepted,
+207f927fbd6a4639,https://www.pip.gov.pl/files/127/Dla-pracodawcow/403/urlopyp84442.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:13Z,200,application/pdf,1158973,raw/pip/urlopyp84442.pdf,Urlopy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,207f927fbd6a4639ca22e69d9f175447319bbf95e9264d42f92e77b0150241f9,accepted,
+0dc8dce70c4299a5,https://www.pip.gov.pl/files/127/Dla-pracodawcow/404/nadgodziny-w-praktycep45815.pdf,pip,kp_czas_pracy,L2,pdf,2026-04-25T09:58:14Z,200,application/pdf,225510,raw/pip/nadgodziny-w-praktycep45815.pdf,Nadgodzny w praktyce,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,0dc8dce70c4299a57338c15d38884402e010c3c5ea471d34c7d810136ebd1111,accepted,
+55a53a1cda6ab7ed,https://www.zus.pl/documents/10182/167670/Zasady+podlegania+ubezpieczeniom+spo%C5%82ecznym+i+ubezpieczeniu+zdrowotnemu+oraz+ustalania+podstawy+wymiaru+sk%C5%82adek_archiwum_2017.pdf/1195809f-a305-46e2-abf0-58e528f57ab7?t=1524827978857,zus,zus_skladka_zdrowotna_jdg,L2,pdf,2026-04-25T09:58:14Z,200,application/pdf,1299261,raw/zus/1195809f-a305-46e2-abf0-58e528f57ab7.pdf,"Pobierz "" Zasady podlegania ubezpieczeniom społecznym i ubezpieczeniu zdrowotnemu oraz ustalania podstawy wymiaru składek "" (pdf, 1269 kB)",,True,,https://www.zus.pl/baza-wiedzy/biblioteka-zus/poradniki/archiwum-poradnikow,bfs,55a53a1cda6ab7ed25a1ed2b5896ccb8fda873144d229488d7720239653f1156,accepted,
+8917adff0262d638,https://www.pip.gov.pl/files/127/Dla-pracodawcow/405/praca-w-niedziele-i-swietap36488.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:16Z,200,application/pdf,1233416,raw/pip/praca-w-niedziele-i-swietap36488.pdf,Praca w niedziele i święta,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,8917adff0262d638c91670453fcba7c2c099665d9f6f4e03d66b9144cd69489d,accepted,
+1e835b2700a22274,https://www.pip.gov.pl/files/127/Dla-pracodawcow/406/zakladowy-fundusz-swiadczen-socjalnychp91479.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:17Z,200,application/pdf,590814,raw/pip/zakladowy-fundusz-swiadczen-socjalnychp91479.pdf,Zakładowy fundusz świadczeń socjalnych,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,1e835b2700a22274d3daaaf16438b4b73e1bb68aad4a583c248d99244f961fdf,accepted,
+15c2496ebc2fde83,https://www.pip.gov.pl/files/127/Dla-pracodawcow/408/wynagrodzenie-za-pracep19021.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:19Z,200,application/pdf,1057470,raw/pip/wynagrodzenie-za-pracep19021.pdf,Wynagrodzenie za pracę,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,15c2496ebc2fde83f1a4cf245a4113e4fedad816baf7cb17b0d40ae3b47b6828,accepted,
+c1a2eedc1ecf1a32,https://www.pip.gov.pl/files/127/Dla-pracodawcow/409/zwolnienia-grupowep68798.pdf,pip,kp_wypowiedzenie;vat_zwolnienie_200k,L2,pdf,2026-04-25T09:58:20Z,200,application/pdf,588964,raw/pip/zwolnienia-grupowep68798.pdf,Zwolnienia grupowe,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=108,paginacja,c1a2eedc1ecf1a328f509983341d5f7dda94f694c74de45c6666ea56f31f4fe7,accepted,
+82be82153503e3c9,https://www.pip.gov.pl/files/127/Dla-pracodawcow/411/ul-rozwiazumowy-wzn2021-okp26812.pdf,pip,kp_bhp_biuro;kp_wypowiedzenie,L2,pdf,2026-04-25T09:58:22Z,200,application/pdf,1296567,raw/pip/ul-rozwiazumowy-wzn2021-okp26812.pdf,Rozwiązywanie umów o pracę,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=90,paginacja,82be82153503e3c911cb86458c42b421a0a7a9af2088a5b7d3b19eeae1a83ca4,accepted,
+85eed41a0d82eb81,https://www.pip.gov.pl/files/127/Dla-pracodawcow/414/obowiazki-pracodawcy-po-ustaniu-stosunku-pracyp72567.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:24Z,200,application/pdf,1116976,raw/pip/obowiazki-pracodawcy-po-ustaniu-stosunku-pracyp72567.pdf,Obowiązki pracodawcy po ustaniu stosunku pracy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=90,paginacja,85eed41a0d82eb816122d172760f9bf046387ee0c7369b0332f9e9b247074c1c,accepted,
+854078ab55cde2a5,https://www.pip.gov.pl/files/127/Dla-pracodawcow/415/dokumentacja-pracowniczap22901.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T09:58:26Z,200,application/pdf,2246587,raw/pip/dokumentacja-pracowniczap22901.pdf,Dokumentacja pracownicza,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=90,paginacja,854078ab55cde2a58fb3d10b2d670f0aa816ada2c05a26b3a4c127bb0eb22ecb,accepted,
+203baf2aba699077,https://www.pip.gov.pl/files/127/Dla-pracodawcow/416/nowy-pracownik-obowiazki-pracodawcyp18266.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T09:58:27Z,200,application/pdf,681376,raw/pip/nowy-pracownik-obowiazki-pracodawcyp18266.pdf,Nowy pracownik-obowiązki pracodawcy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=117,paginacja,203baf2aba699077d9f10e9a3f42b8532984c38e8a2fcedb7d8feb10bd70053e,accepted,
+aee3027ce6a9fda5,https://www.pip.gov.pl/files/126/Dla-pracownikow/1155/Uprawnienia-pracownikow-powoanych-do-suby-wojskowej.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:30Z,200,application/pdf,662433,raw/pip/Uprawnienia-pracownikow-powoanych-do-suby-wojskowej.pdf,Uprawnienia pracowników powołanych do służby wojskowej,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,aee3027ce6a9fda57e2935373529ed5d2590b1dd81ce3d89f1ae232e98b6f93b,accepted,
+1e8a56bf209d1060,https://www.pip.gov.pl/files/125/Publikacje/792/Pracownicy-delegowani-w-sektorze-budowlanym.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:41Z,200,application/pdf,467240,raw/pip/Pracownicy-delegowani-w-sektorze-budowlanym.pdf,Pracownicy delegowani w sektorze budowlanym,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=27,paginacja,1e8a56bf209d1060c3e463bd797bbcc035d67a052bce5fb86c5fbe3121561830,accepted,
+d9d61020eb916be9,https://www.pip.gov.pl/files/126/Dla-pracownikow/526/Bezpieczna-praca-w-handlu.pdf,pip,kp_urlop,L2,pdf,2026-04-25T09:58:45Z,200,application/pdf,749268,raw/pip/Bezpieczna-praca-w-handlu.pdf,Bezpieczna praca w handlu,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=36,paginacja,d9d61020eb916be902bf0bc1530c968a1eeedb4400057b0002d54d74448b5f50,accepted,
 30e5186d356c0ed3,https://uodo.gov.pl/pl/file/5687,uodo,rodo_mala_firma,L2,pdf,2026-04-25T09:59:55Z,200,application/pdf,7382896,raw/uodo/uodo_5687_poradnik_dotycz_cy_narusze_ochrony_danych_osobowych_plik_pdf.pdf,"Poradnik dotyczący naruszeń ochrony danych osobowych (plik PDF, 7.04 MB)",,True,,https://uodo.gov.pl/pl/598/3563,article_downloads,30e5186d356c0ed3214d4855b831b5c625974e2b2567225d5ce27d28c2996747,accepted,
 13ed3d7472e400ea,https://uodo.gov.pl/pl/file/1469,uodo,rodo_mala_firma;rodo_rekrutacja,L2,pdf,2026-04-25T09:59:56Z,200,application/pdf,1452316,raw/uodo/uodo_1469_poradnik_dotycz_cy_zatrudnienia.pdf,Poradnik dotyczący zatrudnienia,,True,,https://uodo.gov.pl/pl/383/545,article_downloads,13ed3d7472e400ea7760b81dc5b6357f8463d96b177f786eca940ee015b6ee91,accepted,
 4c579ca7b55450af,https://uodo.gov.pl/pl/file/1447,uodo,rodo_mala_firma,L2,pdf,2026-04-25T09:59:57Z,200,application/pdf,1644273,raw/uodo/uodo_1447_poradnik_ochrona_danych_osobowych_w_kampanii_wyborczej.pdf,"Poradnik ""Ochrona danych osobowych w kampanii wyborczej""",,True,,https://uodo.gov.pl/pl/383/497,article_downloads,4c579ca7b55450af3bbe5cd8f60a496ed419a813db130a464b0fffbf5a642917,accepted,
@@ -1009,197 +162,82 @@ ce2392efb48dc392,https://uodo.gov.pl/pl/file/1384,uodo,rodo_mala_firma,L2,pdf,20
 68d8623cf9f4edc0,https://uodo.gov.pl/pl/file/1200,uodo,rodo_mala_firma;rodo_monitoring,L2,pdf,2026-04-25T10:00:00Z,200,application/pdf,476257,raw/uodo/uodo_1200_wskaz_wki_prezesa_urz_du_ochrony_danych_osobowych_dotycz_ce.pdf,Wskazówki Prezesa Urzędu Ochrony Danych Osobowych dotyczące wykorzystywania monitoringu wizyjnego,,True,,https://uodo.gov.pl/pl/383/354,article_downloads,68d8623cf9f4edc09af6b3be3c57b81c7e73be4f172b4e68db67e028ce828bc8,accepted,
 981d334d6efdf483,https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:02011L0083-20220528,eurlex,ceidg_rejestracja,L1,pdf,2026-04-25T10:00:01Z,200,application/pdf,477380,raw/eurlex/celex_02011L0083-20220528.pdf,Dyrektywa 2011/83/UE - prawa konsumentów,,True,CELEX:02011L0083-20220528,,seed,981d334d6efdf4836fb8a122259a1eb74b6a9f128aefd5f362093b850dcf7b3c,accepted,EU act (PL consolidated)
 6a0fbfa3f0c698d2,https://uodo.gov.pl/pl/file/708,uodo,rodo_mala_firma,L2,pdf,2026-04-25T10:00:02Z,200,application/pdf,1090138,raw/uodo/uodo_708_wskaz_wki_i_wyja_nienia_dotycz_ce_obowi_zku_z_art_30_ust_1_i.pdf,Wskazówki i wyjaśnienia dotyczące obowiązku z art. 30 ust. 1 i 2 RODO,,True,,https://uodo.gov.pl/pl/383/214,article_downloads,6a0fbfa3f0c698d2c327b265158ae3b8caad20c2730df6c9aa95b4b944f973dc,accepted,
-8244872a3109b75a,https://www.pip.gov.pl/files/126/Dla-pracownikow/576/Prawa-i-obowiazki-pracownika-w-zakresie-BHP.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:03Z,200,application/pdf,1037985,raw/pip/Prawa-i-obowiazki-pracownika-w-zakresie-BHP.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prawa i obowiązki pracownika w zakresie bhp",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=108,paginacja,8244872a3109b75a3158ad7dfb0f33a1d27acd4563277c53d686b34f76c2da84,accepted,
+8244872a3109b75a,https://www.pip.gov.pl/files/126/Dla-pracownikow/576/Prawa-i-obowiazki-pracownika-w-zakresie-BHP.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:03Z,200,application/pdf,1037985,raw/pip/Prawa-i-obowiazki-pracownika-w-zakresie-BHP.pdf,Prawa i obowiązki pracownika w zakresie bhp,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=108,paginacja,8244872a3109b75a3158ad7dfb0f33a1d27acd4563277c53d686b34f76c2da84,accepted,
 b991c58b57654035,https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:02014R0910-20240520,eurlex,ceidg_rejestracja,L1,pdf,2026-04-25T10:00:03Z,200,application/pdf,862460,raw/eurlex/celex_02014R0910-20240520.pdf,Rozporządzenie 910/2014 (eIDAS),,True,CELEX:02014R0910-20240520,,seed,b991c58b57654035ce4b4a48ac0654552b31eba99ccba84f8057611f0a06d673,accepted,EU act (PL consolidated)
 ff9b376abdecc569,https://uodo.gov.pl/pl/file/706,uodo,rodo_mala_firma,L2,pdf,2026-04-25T10:00:04Z,200,application/pdf,1424046,raw/uodo/uodo_706_jak_rozumie_podej_cie_oparte_na_ryzyku_wed_ug_rodo.pdf,Jak rozumieć podejście oparte na ryzyku według RODO?,,True,,https://uodo.gov.pl/pl/383/208,article_downloads,ff9b376abdecc569b7c07ee7543087d459d2028569d1347775f57abdf319d3c9,accepted,
 cf346be0f6c6084b,https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32022R2065,eurlex,ceidg_rejestracja,L1,pdf,2026-04-25T10:00:04Z,200,application/pdf,1771990,raw/eurlex/celex_32022R2065.pdf,Rozporządzenie 2022/2065 (Digital Services Act),,True,CELEX:32022R2065,,seed,cf346be0f6c6084b1196ad5a59114fe489e37b125dcd75f782c9db5fa8d08c2a,accepted,EU act (PL consolidated)
-920e1d9fe6d74042,https://www.pip.gov.pl/files/126/Dla-pracownikow/602/prace-wozkiem-jezdniowym-z-mechanicznym-napedem-podnoszenia.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:04Z,200,application/pdf,405433,raw/pip/prace-wozkiem-jezdniowym-z-mechanicznym-napedem-podnoszenia.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Prace wózkiem jezdniowym",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=108,paginacja,920e1d9fe6d74042d366d85c079ba247dfdd8cceee4d8e367a85996cd0cd856c,accepted,
 c862da432b9d95f9,https://uodo.gov.pl/pl/file/5899,uodo,rodo_mala_firma;rodo_monitoring,L2,pdf,2026-04-25T10:00:05Z,200,application/pdf,700835,raw/uodo/uodo_5899_projektowanie_ochrony_danych_osobowych_w_zwi_zku_z_transmisj.pdf,"Projektowanie ochrony danych osobowych w związku z transmisją i nagrywaniem obrad [plik PDF, 684 KB]",,True,,https://uodo.gov.pl/pl/383/3649,article_downloads,c862da432b9d95f954abc3921942e75dcb8706dd1e2e2c4b6539deab89b5bf51,accepted,
-4553e7b756d8aff5,https://www.pip.gov.pl/files/126/Dla-pracownikow/607/pierwsza-pomoc-nagle-zatrzymanie-powietrza.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:06Z,200,application/pdf,583079,raw/pip/pierwsza-pomoc-nagle-zatrzymanie-powietrza.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Pierwsza pomoc. Nagłe zatrzymanie krążenia",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=54,paginacja,4553e7b756d8aff5e7f4ebe5d7e453db3532297fc186e9eae98ccaab23a93ae0,accepted,
-abc0b20a47cf6150,https://www.pip.gov.pl/files/127/Dla-pracodawcow/371/praca-w-wysokich-i-niskich-temperaturach.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:07Z,200,application/pdf,631721,raw/pip/praca-w-wysokich-i-niskich-temperaturach.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Praca w wysokich i niskich temperaturach",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=54,paginacja,abc0b20a47cf6150d7c2c24c669972206846f07c26ee18497df94c342b6710dd,accepted,
-fc69c03d476701bf,https://www.pip.gov.pl/files/126/Dla-pracownikow/606/pierwsza-pomoc-apteczka.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:09Z,200,application/pdf,438346,raw/pip/pierwsza-pomoc-apteczka.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Pierwsza pomoc-apteczka",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=108,paginacja,fc69c03d476701bf0e46de095d44def8476ee83affbafd7bb5764bf01a4078ee,accepted,
-8a2528ee22ed5995,https://www.pip.gov.pl/files/126/Dla-pracownikow/588/praca-tymczasowa.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:12Z,200,application/pdf,234666,raw/pip/praca-tymczasowa.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Praca tymczasowa",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=117,paginacja,8a2528ee22ed5995333f3044ab9df19175cfbd4969b59ec53566075d6b8225ca,accepted,
-c9219480112aceab,https://www.pip.gov.pl/files/126/Dla-pracownikow/592/dyskrym.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:13Z,200,application/pdf,398927,raw/pip/dyskrym.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Stop dyskryminacji",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=117,paginacja,c9219480112aceabc6f124fdff791464082407cdb5561ce25af7c436b3156015,accepted,
-1cb54e5d4cf78381,https://www.pip.gov.pl/files/126/Dla-pracownikow/600/PRACOWNIK-WOBEC-MOBBINGU-DRUK-19.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:15Z,200,application/pdf,840409,raw/pip/PRACOWNIK-WOBEC-MOBBINGU-DRUK-19.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Pracownik wobec mobbingu",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=117,paginacja,1cb54e5d4cf78381df9bfb13ab1f502c88fc26d22fba1040bd8d5ac80d020472,accepted,
-a4b341d51be6db02,https://www.pip.gov.pl/files/126/Dla-pracownikow/599/Stres-por-pracow-dodruk2016-Intern.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:16Z,200,application/pdf,828783,raw/pip/Stres-por-pracow-dodruk2016-Intern.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Stres w pracy. Poradnik dla pracownika",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=117,paginacja,a4b341d51be6db02700083c17c0859843116ec4d5c161a35d90aa276561f651b,accepted,
-5fa5ae0bf471fed8,https://www.pip.gov.pl/files/126/Dla-pracownikow/1043/Czas-pracy.pdf,pip,kp_czas_pracy,L2,pdf,2026-04-25T10:00:18Z,200,application/pdf,1179883,raw/pip/Czas-pracy.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Czas pracy. Zawiera informacje dla pracowników niepełnosprawnych",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,5fa5ae0bf471fed8464c903962366c404bee33efe0be1493190619dd06bf7648,accepted,
-86c7eeba15b5a2df,https://www.pip.gov.pl/files/127/Dla-pracodawcow/407/28-potraceniawynagrodz-internet-18-06-21p74095.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:19Z,200,application/pdf,679885,raw/pip/28-potraceniawynagrodz-internet-18-06-21p74095.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Potrącenia z wynagrodzenia",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,86c7eeba15b5a2df2227895148c0106c8876161a4d3b62c4edf1787ec0c2135b,accepted,
-f9b83f0df73592fc,https://www.pip.gov.pl/files/126/Dla-pracownikow/589/ul-ZakazKonkurencji-Internet.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:21Z,200,application/pdf,229823,raw/pip/ul-ZakazKonkurencji-Internet.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Zakaz konkurencji",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,f9b83f0df73592fc086b965ecd9315d311955886243b8c07802e0b4b5e73833c,accepted,
-051edaefa003a499,https://www.pip.gov.pl/files/126/Dla-pracownikow/594/ul-UsprawedlNieobecn-2018-INTERNET.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:23Z,200,application/pdf,1072473,raw/pip/ul-UsprawedlNieobecn-2018-INTERNET.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Usprawiedliwianie nieobecności w pracy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,051edaefa003a499900cf3f016d3a4120adf4ccd19dcb8169d5825770b1cd8cc,accepted,
-ae8ad696782e8c98,https://www.pip.gov.pl/files/126/Dla-pracownikow/598/SwiadectwoPracy-2018-INTERNET.pdf,pip,kp_swiadectwo_pracy,L2,pdf,2026-04-25T10:00:24Z,200,application/pdf,1137864,raw/pip/SwiadectwoPracy-2018-INTERNET.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Świadectwo pracy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,ae8ad696782e8c984e4a02833b3a037762090b93b2e60c56ec9bbd32a950eb99,accepted,
-05fdbab09aaaf7a6,https://www.pip.gov.pl/files/126/Dla-pracownikow/587/ul-PodnoszenKwalifikacji-2018-INTERNET.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:27Z,200,application/pdf,1110189,raw/pip/ul-PodnoszenKwalifikacji-2018-INTERNET.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Podnoszenie kwalifikacji",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,05fdbab09aaaf7a6275ff955263b880302638e726ddfca54b1417f5a46a81ca1,accepted,
-c4199c8896a21fb6,https://www.pip.gov.pl/files/126/Dla-pracownikow/584/Umowa-o-prac-a-umowy-cywilnoprawne-2020-INTERNET.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T10:00:29Z,200,application/pdf,625953,raw/pip/Umowa-o-prac-a-umowy-cywilnoprawne-2020-INTERNET.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Umowa o pracę a umowy cywilnoprawne",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=135,paginacja,c4199c8896a21fb6d490987d83427d0063cb384fd3d67a1e1941ea02d767a834,accepted,
-79a1801fb4a47fed,https://www.pip.gov.pl/files/128/Dla-sub-BHP/1127/BHP-w-indywidualnych-gospodarstwach-rolnych-Lk.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:30Z,200,application/pdf,1409054,raw/pip/BHP-w-indywidualnych-gospodarstwach-rolnych-Lk.pdf,BHP w indywidualnych gospodarstwach rolnych. Lista kontrolna z komentarzem,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=0,paginacja,79a1801fb4a47fed3606c0c70566d9b450eb86604755ca50c5a8986b9a1078df,accepted,
-9e9836f918ee5979,https://www.pip.gov.pl/files/127/Dla-pracodawcow/325/uzytkowanie-maszyn-minimalne-wymagania-dotyczne-bhp.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:34Z,200,application/pdf,5878295,raw/pip/uzytkowanie-maszyn-minimalne-wymagania-dotyczne-bhp.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Użytkowanie maszyn. Minimalne wymagania dotyczące bhp. Lista kontrolna z komentarzem",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,9e9836f918ee597914f3775ac4d278e30c43e738bb45b63b5bd29dc99493fd57,accepted,
-52f5b59554a4fa40,https://www.pip.gov.pl/files/127/Dla-pracodawcow/362/Zaburzenia-ukladu-miesniowo-szkieletowego-u-dzieci-i-mlodziezy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:36Z,200,application/pdf,680573,raw/pip/Zaburzenia-ukladu-miesniowo-szkieletowego-u-dzieci-i-mlodziezy.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Zaburzenia układu mięśniowo-szkieletowego",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=45,paginacja,52f5b59554a4fa402aeff6a29478e393f73585e2720d87be6d0f87f35a597bff,accepted,
-4fbd11df2ff612a9,https://www.pip.gov.pl/files/127/Dla-pracodawcow/380/bezpieczne-odsniezanie-dachow.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:38Z,200,application/pdf,476222,raw/pip/bezpieczne-odsniezanie-dachow.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczne odśnieżanie dachów",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63,paginacja,4fbd11df2ff612a9feb9da55c10460f7efaf5fbfbb6a06971a76cd506a0ec03f,accepted,
-59ec8a1b3d3f974b,https://www.pip.gov.pl/files/127/Dla-pracodawcow/391/Bezpieczny-gornik.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:39Z,200,application/pdf,1124708,raw/pip/Bezpieczny-gornik.pdf,"BHP 
-    
-    
-     
-
-
-        
-        
-         Bezpieczny górnik",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,59ec8a1b3d3f974b6c09b28ea5184f69d48e02bd848f93e7039bf5fdb0611ccd,accepted,
-d992b1a74e59b854,https://www.pip.gov.pl/files/127/Dla-pracodawcow/787/29STRESWPRACYPRACODAWCA2023INTERNET.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:41Z,200,application/pdf,875015,raw/pip/29STRESWPRACYPRACODAWCA2023INTERNET.pdf,"Prawo 
-    
-    
-     
-
-
-        
-        
-         Stres w pracy. Poradnik dla pracodawcy",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,d992b1a74e59b854fc6f1e5d08dbf340557905a1f114aadb31fbc64444254933,accepted,
+abc0b20a47cf6150,https://www.pip.gov.pl/files/127/Dla-pracodawcow/371/praca-w-wysokich-i-niskich-temperaturach.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:07Z,200,application/pdf,631721,raw/pip/praca-w-wysokich-i-niskich-temperaturach.pdf,Praca w wysokich i niskich temperaturach,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=54,paginacja,abc0b20a47cf6150d7c2c24c669972206846f07c26ee18497df94c342b6710dd,accepted,
+fc69c03d476701bf,https://www.pip.gov.pl/files/126/Dla-pracownikow/606/pierwsza-pomoc-apteczka.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:09Z,200,application/pdf,438346,raw/pip/pierwsza-pomoc-apteczka.pdf,Pierwsza pomoc-apteczka,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=108,paginacja,fc69c03d476701bf0e46de095d44def8476ee83affbafd7bb5764bf01a4078ee,accepted,
+8a2528ee22ed5995,https://www.pip.gov.pl/files/126/Dla-pracownikow/588/praca-tymczasowa.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:12Z,200,application/pdf,234666,raw/pip/praca-tymczasowa.pdf,Praca tymczasowa,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=117,paginacja,8a2528ee22ed5995333f3044ab9df19175cfbd4969b59ec53566075d6b8225ca,accepted,
+c9219480112aceab,https://www.pip.gov.pl/files/126/Dla-pracownikow/592/dyskrym.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:13Z,200,application/pdf,398927,raw/pip/dyskrym.pdf,Stop dyskryminacji,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=117,paginacja,c9219480112aceabc6f124fdff791464082407cdb5561ce25af7c436b3156015,accepted,
+1cb54e5d4cf78381,https://www.pip.gov.pl/files/126/Dla-pracownikow/600/PRACOWNIK-WOBEC-MOBBINGU-DRUK-19.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:15Z,200,application/pdf,840409,raw/pip/PRACOWNIK-WOBEC-MOBBINGU-DRUK-19.pdf,Pracownik wobec mobbingu,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=117,paginacja,1cb54e5d4cf78381df9bfb13ab1f502c88fc26d22fba1040bd8d5ac80d020472,accepted,
+a4b341d51be6db02,https://www.pip.gov.pl/files/126/Dla-pracownikow/599/Stres-por-pracow-dodruk2016-Intern.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:16Z,200,application/pdf,828783,raw/pip/Stres-por-pracow-dodruk2016-Intern.pdf,Stres w pracy. Poradnik dla pracownika,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=117,paginacja,a4b341d51be6db02700083c17c0859843116ec4d5c161a35d90aa276561f651b,accepted,
+5fa5ae0bf471fed8,https://www.pip.gov.pl/files/126/Dla-pracownikow/1043/Czas-pracy.pdf,pip,kp_czas_pracy,L2,pdf,2026-04-25T10:00:18Z,200,application/pdf,1179883,raw/pip/Czas-pracy.pdf,Czas pracy. Zawiera informacje dla pracowników niepełnosprawnych,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,5fa5ae0bf471fed8464c903962366c404bee33efe0be1493190619dd06bf7648,accepted,
+86c7eeba15b5a2df,https://www.pip.gov.pl/files/127/Dla-pracodawcow/407/28-potraceniawynagrodz-internet-18-06-21p74095.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:19Z,200,application/pdf,679885,raw/pip/28-potraceniawynagrodz-internet-18-06-21p74095.pdf,Potrącenia z wynagrodzenia,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,86c7eeba15b5a2df2227895148c0106c8876161a4d3b62c4edf1787ec0c2135b,accepted,
+f9b83f0df73592fc,https://www.pip.gov.pl/files/126/Dla-pracownikow/589/ul-ZakazKonkurencji-Internet.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:21Z,200,application/pdf,229823,raw/pip/ul-ZakazKonkurencji-Internet.pdf,Zakaz konkurencji,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,f9b83f0df73592fc086b965ecd9315d311955886243b8c07802e0b4b5e73833c,accepted,
+051edaefa003a499,https://www.pip.gov.pl/files/126/Dla-pracownikow/594/ul-UsprawedlNieobecn-2018-INTERNET.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:23Z,200,application/pdf,1072473,raw/pip/ul-UsprawedlNieobecn-2018-INTERNET.pdf,Usprawiedliwianie nieobecności w pracy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,051edaefa003a499900cf3f016d3a4120adf4ccd19dcb8169d5825770b1cd8cc,accepted,
+ae8ad696782e8c98,https://www.pip.gov.pl/files/126/Dla-pracownikow/598/SwiadectwoPracy-2018-INTERNET.pdf,pip,kp_swiadectwo_pracy,L2,pdf,2026-04-25T10:00:24Z,200,application/pdf,1137864,raw/pip/SwiadectwoPracy-2018-INTERNET.pdf,Świadectwo pracy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,ae8ad696782e8c984e4a02833b3a037762090b93b2e60c56ec9bbd32a950eb99,accepted,
+05fdbab09aaaf7a6,https://www.pip.gov.pl/files/126/Dla-pracownikow/587/ul-PodnoszenKwalifikacji-2018-INTERNET.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:00:27Z,200,application/pdf,1110189,raw/pip/ul-PodnoszenKwalifikacji-2018-INTERNET.pdf,Podnoszenie kwalifikacji,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,05fdbab09aaaf7a6275ff955263b880302638e726ddfca54b1417f5a46a81ca1,accepted,
+c4199c8896a21fb6,https://www.pip.gov.pl/files/126/Dla-pracownikow/584/Umowa-o-prac-a-umowy-cywilnoprawne-2020-INTERNET.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T10:00:29Z,200,application/pdf,625953,raw/pip/Umowa-o-prac-a-umowy-cywilnoprawne-2020-INTERNET.pdf,Umowa o pracę a umowy cywilnoprawne,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=135,paginacja,c4199c8896a21fb6d490987d83427d0063cb384fd3d67a1e1941ea02d767a834,accepted,
+d992b1a74e59b854,https://www.pip.gov.pl/files/127/Dla-pracodawcow/787/29STRESWPRACYPRACODAWCA2023INTERNET.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:00:41Z,200,application/pdf,875015,raw/pip/29STRESWPRACYPRACODAWCA2023INTERNET.pdf,Stres w pracy. Poradnik dla pracodawcy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=81,paginacja,d992b1a74e59b854fc6f1e5d08dbf340557905a1f114aadb31fbc64444254933,accepted,
+7eb26248183039ec,https://api.sejm.gov.pl/eli/acts/DU/1974/141/text.pdf,eli,kp_czas_pracy;kp_umowa_o_prace;kp_wypowiedzenie,L1,pdf,2026-04-25T10:43:17Z,200,application/pdf,14483801,raw/legislation/eli_DU_1974_141.pdf,Kodeks pracy,,True,DU/1974/141,,seed_corrected,7eb26248183039ec19fb66ac815eb1222bea9fec08d0d1ee789e96e8ab607401,accepted,MUST act per spec 5.1 (corrected URL: spec used nr instead of poz)
+29389cc5cb8c522d,https://api.sejm.gov.pl/eli/acts/DU/1991/350/text.pdf,eli,pit_amortyzacja;pit_ip_box;pit_kpir;pit_kup;pit_liniowy;pit_roczny;pit_skala,L1,pdf,2026-04-25T10:43:26Z,200,application/pdf,8143352,raw/legislation/eli_DU_1991_350.pdf,Ustawa o podatku dochodowym od osob fizycznych (PIT),,True,DU/1991/350,,seed_corrected,29389cc5cb8c522dedc92dd7f1e28461798a676c951fc56b7603e3a36b1c5089,accepted,MUST act per spec 5.1 (corrected URL: spec used nr instead of poz)
+281b2cc4a59cb5db,https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.pdf,eli,zus_maly_zus_plus;zus_podstawa_wymiaru;zus_preferencyjny;zus_wakacje_skladkowe;zus_zasilek_chorobowy_jdg;zus_zua_zwua_dra,L1,pdf,2026-04-25T10:43:55Z,200,application/pdf,27417195,raw/legislation/eli_DU_1998_887.pdf,Ustawa o systemie ubezpieczen spolecznych,,True,DU/1998/887,,seed_corrected,281b2cc4a59cb5dbb673bec4d0f1f57c854fc13951d0b4bc38c78b4183bf0bde,accepted,MUST act per spec 5.1 (corrected URL: spec used nr instead of poz)
+7865678326f4e4a3,https://api.sejm.gov.pl/eli/acts/DU/1998/930/text.pdf,eli,ceidg_pkd;pit_ewidencja_ryczalt;pit_karta_podatkowa;pit_roczny;pit_ryczalt;pit_stawki_ryczalt_pkd,L1,pdf,2026-04-25T10:44:26Z,200,application/pdf,30259390,raw/legislation/eli_DU_1998_930.pdf,Ustawa o zryczaltowanym podatku dochodowym (ryczalt),,True,DU/1998/930,,seed_corrected,7865678326f4e4a33b84626423d3dbfe427658954e524f2e2979e2c7a5269a5a,accepted,MUST act per spec 5.1 (corrected URL: spec used nr instead of poz)
+db607ce764390a49,https://www.pip.gov.pl/files/128/Dla-sub-BHP/1188/rodki-ochrony-indywidualnej---zasady-doboru.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:50:02Z,200,application/pdf,4778955,raw/pip/rodki-ochrony-indywidualnej---zasady-doboru.pdf,Drukuj,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=0,paginacja,db607ce764390a499f824c137b284adf6d7cd57ddfabd8f90ea4e5300c4532ea,accepted,
+9ecab4e99ba14cde,https://www.pip.gov.pl/files/126/Dla-pracownikow/585/Komiks-moja-pierwsza-praca-2016.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:50:11Z,200,application/pdf,34669343,raw/pip/Komiks-moja-pierwsza-praca-2016.pdf,Moja pierwsza praca,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,9ecab4e99ba14cde586f820e9588af632c5aa0a50856047194d2f1785caef134,accepted,
+eefa6a86d4e03e33,https://www.pip.gov.pl/files/127/Dla-pracodawcow/299/Ocena-ryzyka-zawodowego-Lista-kontrolna-z-komentarzem.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T10:50:12Z,200,application/pdf,886620,raw/pip/Ocena-ryzyka-zawodowego-Lista-kontrolna-z-komentarzem.pdf,Ocena ryzyka zawodowego. Lista kontrolna z komentarzem,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=0,paginacja,eefa6a86d4e03e33c9ed240d3bc58bfc006be3b26db360073de5af579c5cea4c,accepted,
+a53c1f83eb31635b,https://www.pip.gov.pl/files/125/Publikacje/1187/Prawo-pracy-dla-rodzicow.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:50:14Z,200,application/pdf,921207,raw/pip/Prawo-pracy-dla-rodzicow.pdf,Drukuj,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,a53c1f83eb31635bb084067ba253a12d4683ac744b97e272a97f6d74b3df1865,accepted,
+7ef0dce5035622af,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1189/Spoeczna-odpowiedzialno-generalnego-wykonawcy.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:50:16Z,200,application/pdf,6213537,raw/pip/Spoeczna-odpowiedzialno-generalnego-wykonawcy.pdf,Społeczna odpowiedzialność generalnego wykonawcy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,7ef0dce5035622af17129494db1dc33f61c0f385fbb02a02ed52c9c2da1b7b91,accepted,
+ec2d7d2a82dbc207,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1166/KATALOGDOBRYEPRAKTYKI2025OK.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:50:18Z,200,application/pdf,2901960,raw/pip/KATALOGDOBRYEPRAKTYKI2025OK.pdf,Prezentacja dobrych praktyk w zakresie prewencji zagrożeń psychospołecznych,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,ec2d7d2a82dbc20710b8715989b4e358e2c5cf968953a06cf0795306b0cadf72,accepted,
+9b6bebb68ed8a8d6,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1125/Praca-zdalna-Lista-kontrolna.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:50:19Z,200,application/pdf,1348767,raw/pip/Praca-zdalna-Lista-kontrolna.pdf,Praca zdalna. Lista kontrolna z komentarzem,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=9,paginacja,9b6bebb68ed8a8d6f9405a634276875e39c942ab2bbc0e78b4eff76b66c1292a,accepted,
+ce5b35757b968088,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1081/NagrodaGIP2024.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:50:22Z,200,application/pdf,9595127,raw/pip/NagrodaGIP2024.pdf,Nagrody Głównego Inspektora Pracy - 2024,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=0,paginacja,ce5b35757b968088e7a91b342344a968293f9d98fb42a7825f0d37ad5d487501,accepted,
+59517a8c7869e4e9,https://www.pip.gov.pl/files/126/Dla-pracownikow/1056/Sygnalisciprawaiobowiazki.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:50:23Z,200,application/pdf,2835638,raw/pip/Sygnalisciprawaiobowiazki.pdf,Sygnaliści - prawa i obowiązki,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=9,paginacja,59517a8c7869e4e9da0887667216c8fcc3b9eb89b98d0635f91688d6bddadca5,accepted,
+1dd16f738e2ef6a1,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1042/Normatywy-higieniczne-w-rodowisku-pracy.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T10:50:25Z,200,application/pdf,1385319,raw/pip/Normatywy-higieniczne-w-rodowisku-pracy.pdf,Normatywy higieniczne w środowisku pracy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=9,paginacja,1dd16f738e2ef6a157eec0e5c91e02c5c230248a26d10a80e735c24c1f85945c,accepted,
+fb9a30cfb233b48b,https://www.pip.gov.pl/files/125/Publikacje/879/Bezpieczestwo-na-stanowiskach-pracy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:50:30Z,200,application/pdf,4308218,raw/pip/Bezpieczestwo-na-stanowiskach-pracy.pdf,Bezpieczeństwo na stanowiskach pracy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,fb9a30cfb233b48be65e5fa5f2b85934646f5653e2ac523e61f84badcb18f145,accepted,
+dfab113d73e6f789,https://www.pip.gov.pl/files/127/Dla-pracodawcow/769/ochrona-pracy-kobiet-i-mlodocianych.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:50:36Z,200,application/pdf,2131300,raw/pip/ochrona-pracy-kobiet-i-mlodocianych.pdf,Ochrona pracy kobiet i młodocianych,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,dfab113d73e6f7898d6aeb2466e9183452d0228b404add3f4e31be83fa13a413,accepted,
+3fad2bfa035cbb18,https://www.pip.gov.pl/files/127/Dla-pracodawcow/327/prewencja-wypadkowa-lista-kontrolna-z-komentarzem.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T10:50:38Z,200,application/pdf,5426360,raw/pip/prewencja-wypadkowa-lista-kontrolna-z-komentarzem.pdf,Prewencja wypadkowa Lista kontrolna z komentarzem,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=36,paginacja,3fad2bfa035cbb18ef3dc9fb7218ac7a25465757e7fd44bc4d57446833592c64,accepted,
+b690e1c4d92294b6,https://www.pip.gov.pl/files/127/Dla-pracodawcow/329/bezpiecznie-i-zgodnie-z-prawem-lista-kontrolna-z-komentarzemp35223.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:50:42Z,200,application/pdf,6437791,raw/pip/bezpiecznie-i-zgodnie-z-prawem-lista-kontrolna-z-komentarzemp35223.pdf,Bezpiecznie i zgodnie z prawem. Lista kontrolna z komentarezem,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,b690e1c4d92294b62a16fed5c9f29405a2723955d0014e15f60b5dc00da4ded9,accepted,
+5cde6271f5684216,https://www.pip.gov.pl/files/127/Dla-pracodawcow/330/roboty-torowe.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:50:43Z,200,application/pdf,3514658,raw/pip/roboty-torowe.pdf,Roboty torowe,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,5cde6271f568421631103a356b9faa5f236374e8c289c5aaa8432ed0084aa1c6,accepted,
+62c14ce3fdb22635,https://www.pip.gov.pl/files/127/Dla-pracodawcow/331/czas-pracy-kierowcow.pdf,pip,kp_czas_pracy,L2,pdf,2026-04-25T10:50:45Z,200,application/pdf,981169,raw/pip/czas-pracy-kierowcow.pdf,Czas pracy kierowców,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18,paginacja,62c14ce3fdb2263559d2d2109a5ed26145ba29c33facc7f7cda095aff57e2dba,accepted,
+fcf4247a306c9910,https://www.pip.gov.pl/files/127/Dla-pracodawcow/336/bhp-w-biurze.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:50:50Z,200,application/pdf,5820101,raw/pip/bhp-w-biurze.pdf,BHP w biurze,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=72,paginacja,fcf4247a306c9910485689ae11f0cda40883fa5632a1ffe940e3af3ce7a4b50a,accepted,
+e4d649e0b6053e9c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/339/bezpieczna-praca-w-zawodzie-pielegniarki.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:50:55Z,200,application/pdf,5211610,raw/pip/bezpieczna-praca-w-zawodzie-pielegniarki.pdf,Bezpieczna praca w zawodzie pielęgniarki,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=27,paginacja,e4d649e0b6053e9cff194c81b6050233f264c7dd6f8faad40d256ba41f760646,accepted,
+ee7cb8653e4534e4,https://www.pip.gov.pl/files/127/Dla-pracodawcow/342/wypadki-przy-obrobce-drewna.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:50:58Z,200,application/pdf,2449021,raw/pip/wypadki-przy-obrobce-drewna.pdf,Wypadki przy obróbce drewna,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=27,paginacja,ee7cb8653e4534e409a1dd6c6cda24042a1b970c59c6ab529e094729cbd39d1e,accepted,
+b51d53cfd9816172,https://www.pip.gov.pl/files/127/Dla-pracodawcow/344/maszyny-do-obrobki-drewna.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:50:59Z,200,application/pdf,1656939,raw/pip/maszyny-do-obrobki-drewna.pdf,Maszyny do obróbki drewna,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=27,paginacja,b51d53cfd981617211794e7084ab4c729c55a1b061fd05172c76345f9672318b,accepted,
+dce6ce0fe5139723,https://www.pip.gov.pl/files/127/Dla-pracodawcow/345/PYL-DREWNO-BROSZURA-.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:01Z,200,application/pdf,209318,raw/pip/PYL-DREWNO-BROSZURA-.pdf,Pył drewna,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=27,paginacja,dce6ce0fe51397238d4b25883377b36c58d392638fe9a2980274ed6cd1af3cb2,accepted,
+6fd2738b01000ee5,https://www.pip.gov.pl/files/127/Dla-pracodawcow/348/pozysk-drewna-poradnik.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:03Z,200,application/pdf,3906568,raw/pip/pozysk-drewna-poradnik.pdf,Bezpieczne pozyskanie drewna. Poradnik,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36,paginacja,6fd2738b01000ee5e78ad52e1579b7ff95c96bebf2ffcaa476e08b1eda0a45a9,accepted,
+58115d329c130088,https://www.pip.gov.pl/files/127/Dla-pracodawcow/349/instalacje-elektryczne-na-budowie.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:06Z,200,application/pdf,40963808,raw/pip/instalacje-elektryczne-na-budowie.pdf,Instalacje elektryczne na budowie,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36,paginacja,58115d329c130088ae6f4e21c4a87e48d5d35c18f3398139560230c48d1b8aa6,accepted,
+dddde5233bf8fb24,https://www.pip.gov.pl/files/127/Dla-pracodawcow/350/transport-reczny-na-placu-budowy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:08Z,200,application/pdf,1791978,raw/pip/transport-reczny-na-placu-budowy.pdf,Transport ręczny na placu budowy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36,paginacja,dddde5233bf8fb24217e69e09fbcc889624cc61e2d44d8440d7dc4ce9b49936d,accepted,
+9a8a0693684e0adc,https://www.pip.gov.pl/files/127/Dla-pracodawcow/351/Siatki-ktore-ratuja-zycie.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:09Z,200,application/pdf,1845292,raw/pip/Siatki-ktore-ratuja-zycie.pdf,"Siatki, które ratują życie",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36,paginacja,9a8a0693684e0adcdc72c4d7589d6598e56e11e0dc87d5457517b1672decfbfb,accepted,
+68a29aa238fa8035,https://www.pip.gov.pl/files/127/Dla-pracodawcow/354/O-bezpiecznej-pracy-na-budowie.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:12Z,200,application/pdf,3782984,raw/pip/O-bezpiecznej-pracy-na-budowie.pdf,O bezpiecznej pracy na budowie,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36,paginacja,68a29aa238fa8035a59708ca20548aae384aeca139b47833af779e4e6db077f3,accepted,
+fc810b7b0725644d,https://www.pip.gov.pl/files/127/Dla-pracodawcow/364/wypadki-w-pracy-obowiazki-pracodawcy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:16Z,200,application/pdf,1352401,raw/pip/wypadki-w-pracy-obowiazki-pracodawcy.pdf,Wypadki w pracy. Obowiązki pracodawcy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=45,paginacja,fc810b7b0725644d0d677046aaea15d085c3a83c1c19ae210887fbe103d8ab0e,accepted,
+0e7deac683e624f8,https://www.pip.gov.pl/files/127/Dla-pracodawcow/365/Wypadek-przy-pracy-Poradnik-pracodawcy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:17Z,200,application/pdf,864490,raw/pip/Wypadek-przy-pracy-Poradnik-pracodawcy.pdf,Wypadek przy pracy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=45,paginacja,0e7deac683e624f812feed5716e2039ec5b4e70b740c550b74c204df9ec2cf20,accepted,
+249578c65c90b56c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/368/srodki-ochrony-narzadu-wzroku.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:19Z,200,application/pdf,695694,raw/pip/srodki-ochrony-narzadu-wzroku.pdf,Środki ochrony narządu wzroku,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=54,paginacja,249578c65c90b56ce0ec144c5d27e33c952e1556e1dbd9d7da78165e6dbc74fb,accepted,
+fb130c6e5bfc15bb,https://www.pip.gov.pl/files/127/Dla-pracodawcow/372/Poslizgniecia-i-potkniecia002.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:23Z,200,application/pdf,1523741,raw/pip/Poslizgniecia-i-potkniecia002.pdf,Poślizgnięcia i potknięcia,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=54,paginacja,fb130c6e5bfc15bb40471b71c0ad07928e26773a7f128138ac75692a5d29ee76,accepted,
+0cca2da37af5845c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/375/niebezpieczne-studzienki.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:25Z,200,application/pdf,1448069,raw/pip/niebezpieczne-studzienki.pdf,"Niebezpieczne studzienki, szamba, zbiorniki",,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=54,paginacja,0cca2da37af5845ca85d55584ce02c367858507c09110aee87714a57c640d22e,accepted,
+617af618bf60ba5c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/379/czynniki-chemiczne-obowiazki-pracodawcy.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:28Z,200,application/pdf,722587,raw/pip/czynniki-chemiczne-obowiazki-pracodawcy.pdf,Czynniki chemiczne. Obowiązki pracodawcy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63,paginacja,617af618bf60ba5c06747ae0a99a94f6dcf3049d1d0686e20b18f3091f96cacf,accepted,
+427c92fc0064d62a,https://www.pip.gov.pl/files/127/Dla-pracodawcow/382/ABC-BHP-Informator-dla-pracodawcow.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:31Z,200,application/pdf,1424069,raw/pip/ABC-BHP-Informator-dla-pracodawcow.pdf,ABC-BHP. Informator dla pracodawców,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63,paginacja,427c92fc0064d62afcc5b1137e9b100a8039ef95e75c45ae16bad3670acda101,accepted,
+fad00b343e1beb29,https://www.pip.gov.pl/files/127/Dla-pracodawcow/383/Bezpieczna-praca-w-zakladach-konserwacji-i-naprawy-pojazdow-samochodowych.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:33Z,200,application/pdf,651173,raw/pip/Bezpieczna-praca-w-zakladach-konserwacji-i-naprawy-pojazdow-samochodowych.pdf,Bezpieczna praca w zakładach konserwacji i naprawy pojazdów samochodowych,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=63,paginacja,fad00b343e1beb297eb40806016ca2f22989a0009a595cb9e2b30acbd8d265b5,accepted,
+5513b0decfac862c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/386/Bezpieczenstwo-uzytkowania-maszyn-Poradnik-dla-pracodawcow.pdf,pip,kp_umowa_o_prace,L2,pdf,2026-04-25T10:51:37Z,200,application/pdf,552444,raw/pip/Bezpieczenstwo-uzytkowania-maszyn-Poradnik-dla-pracodawcow.pdf,Bezpieczeństwo użytkowania maszyn,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracodawcow?start=90,paginacja,5513b0decfac862c75336b6f439b37f4c6c5fd20402d4603080c42fb6d56fc0b,accepted,
+27f6f551c5de22e0,https://www.pip.gov.pl/files/127/Dla-pracodawcow/396/zgodnie-z-prawem-i-bezpiecznie-poradnikp39356.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:40Z,200,application/pdf,25896999,raw/pip/zgodnie-z-prawem-i-bezpiecznie-poradnikp39356.pdf,Zgodnie z prawem i bezpiecznie. Poradnik dla związkowców i społecznych inspektorów pracy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,27f6f551c5de22e0a472f11a8686c94bca46d258e7fe1254dec32e2d39242a95,accepted,
+3d2ac44e77e4cb3c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/398/pracodawca-uzytkownikp27949.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:42Z,200,application/pdf,1447636,raw/pip/pracodawca-uzytkownikp27949.pdf,Pracodawca użytkownik,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,3d2ac44e77e4cb3cb17067f1cca36fc32b76a25b942274b529ff95dd3ab92223,accepted,
+9e848ffe3c03255c,https://www.pip.gov.pl/files/127/Dla-pracodawcow/399/agencja-pracy-tymczasowejp21025.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:51:43Z,200,application/pdf,1764610,raw/pip/agencja-pracy-tymczasowejp21025.pdf,Agencja pracy tymczasowej,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72,paginacja,9e848ffe3c03255cb4faecb4b8844ae4b4de14d61428627c9bac258eecee676f,accepted,
+f9953e982a9a6042,https://www.pip.gov.pl/files/126/Dla-pracownikow/586/PrawoPracyPierwKroki-INTERNET-OKL.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:51:47Z,200,application/pdf,868630,raw/pip/PrawoPracyPierwKroki-INTERNET-OKL.pdf,Prawo pracy - pierwsze kroki,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,f9953e982a9a6042f9e40e930e32c4ca9f27d9dd047d27980447c6444c93a54c,accepted,
+1ffaeb713a882bf2,https://www.pip.gov.pl/files/126/Dla-pracownikow/1142/Uprawnienia-rodzicielskie-pracujcych-ojcow.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:51:48Z,200,application/pdf,629243,raw/pip/Uprawnienia-rodzicielskie-pracujcych-ojcow.pdf,Uprawnienia rodzicielskie pracujących ojców,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=0,paginacja,1ffaeb713a882bf2d2a467f9a763ec02879f5385141629a406d5a27d35e293fa,accepted,
+01ea553eaa264f27,https://www.pip.gov.pl/files/126/Dla-pracownikow/1103/Sposoby-na-stres.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:51:51Z,200,application/pdf,1432492,raw/pip/Sposoby-na-stres.pdf,Sposoby na stres. Poradnik dla pracownika,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=9,paginacja,01ea553eaa264f274aee13aceb9f5bd7a096c0ad29156847344ef218309d186d,accepted,
+6d4fbb3dd4f6c3fc,https://www.pip.gov.pl/files/127/Dla-pracodawcow/1079/Rczne-prace-transportowe.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:51:53Z,200,application/pdf,2365220,raw/pip/Rczne-prace-transportowe.pdf,Ręczne prace transportowe,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=9,paginacja,6d4fbb3dd4f6c3fc156fe6367fafc61cac3cf3aa84992ef1acb9ccf35b371bb7,accepted,
+095f473c3ea39307,https://www.pip.gov.pl/files/126/Dla-pracownikow/1049/Zagroenia-czynnikami-chemicznymi-w-miejscu-pracy.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:51:55Z,200,application/pdf,1496888,raw/pip/Zagroenia-czynnikami-chemicznymi-w-miejscu-pracy.pdf,Zagrożenia czynnikami chemicznymi w miejscu pracy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=9,paginacja,095f473c3ea39307d42ed567af4a210c6b7a9ebcacc858eafe01c9b17612a681,accepted,
+02c6947b875a3270,https://www.pip.gov.pl/files/126/Dla-pracownikow/768/Praca-w-wakacje.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:51:56Z,200,application/pdf,482660,raw/pip/Praca-w-wakacje.pdf,Praca w wakacje,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=27,paginacja,02c6947b875a3270867a55db9bc0fa9b7d2f2dfc5e86b8dd5b429aecc1c312aa,accepted,
+af8b64fca6845bf5,https://www.pip.gov.pl/files/126/Dla-pracownikow/532/br-CzynnikiPsychospol-KierowcowXxx-Internet.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:52:07Z,200,application/pdf,2381878,raw/pip/br-CzynnikiPsychospol-KierowcowXxx-Internet.pdf,CZYNNIKI PSYCHOSPOŁECZNE Informator dla kierowców,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=45,paginacja,af8b64fca6845bf5f4c29bdbf0b8f183eeba832e175cad376c4ef6bd33bbfbb4,accepted,
+7482251afca274b4,https://www.pip.gov.pl/files/126/Dla-pracownikow/536/uwaga-azbest.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:52:14Z,200,application/pdf,8999398,raw/pip/uwaga-azbest.pdf,Uwaga azbest!,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=45,paginacja,7482251afca274b4ef11f990c55249f63c4c586b6912559507238c607f3eddc3,accepted,
+ecc313a6e5d54470,https://www.pip.gov.pl/files/126/Dla-pracownikow/539/prace-prasa-do-slomy.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:52:17Z,200,application/pdf,437862,raw/pip/prace-prasa-do-slomy.pdf,Prace prasą do słomy,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=45,paginacja,ecc313a6e5d54470e5594480ff30c276d67ad16328e5199ddd51171f86500b91,accepted,
+ecc41585d1c0f40d,https://www.pip.gov.pl/files/126/Dla-pracownikow/541/prace-transportowe.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:52:18Z,200,application/pdf,375375,raw/pip/prace-transportowe.pdf,Prace transportowe,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=54,paginacja,ecc41585d1c0f40d7c0f0ee3eee11ccb893c827535582a1d4d07ff340c7ee5b5,accepted,
+376ef0d9ae7e2cfb,https://www.pip.gov.pl/files/126/Dla-pracownikow/552/ChronDziecko-PraceZabrDzieciom-20-DRUK-K.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:52:31Z,200,application/pdf,1967317,raw/pip/ChronDziecko-PraceZabrDzieciom-20-DRUK-K.pdf,Chroń dziecko w gospodarstwie rolnym - prace zabronione dzieciom,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=63,paginacja,376ef0d9ae7e2cfba6701308c0b5f8173f77d1edab8d1e98986bd07f897361c9,accepted,
+c5d84ddd3f4c6f89,https://www.pip.gov.pl/files/126/Dla-pracownikow/580/bezpieczne-pozyskiwanie-drewna-dobre-praktyki.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:52:47Z,200,application/pdf,10508742,raw/pip/bezpieczne-pozyskiwanie-drewna-dobre-praktyki.pdf,Bezpieczne pozyskanie drewna. Dobre praktyki,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=81,paginacja,c5d84ddd3f4c6f893f05f14910cee6f74db87b5cede9a19e4fab8529340c75eb,accepted,
+bc59c7251a0e5cf6,https://www.pip.gov.pl/files/126/Dla-pracownikow/564/pilarka-fasmowa-stolarska.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:53:04Z,200,application/pdf,159584,raw/pip/pilarka-fasmowa-stolarska.pdf,Pilarka taśmowa stolarska,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=90,paginacja,bc59c7251a0e5cf6c51f8ce2a5a5dddb05ce8b277081d6b0c316439961cff376,accepted,
+9a42490d2bf53cbe,https://www.pip.gov.pl/files/127/Dla-pracodawcow/352/transport-mech.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:53:11Z,200,application/pdf,4203909,raw/pip/transport-mech.pdf,Transport mechaniczny,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36,paginacja,9a42490d2bf53cbef646b4363782f340d7827fa2a8afa64e05324194e5a91cc6,accepted,
+10bbf44182388281,https://www.pip.gov.pl/files/126/Dla-pracownikow/581/niebezpieczny-azbest.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:53:15Z,200,application/pdf,59355808,raw/pip/niebezpieczny-azbest.pdf,Niebezpieczny azbest,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=108,paginacja,10bbf441823882819673d89c221760e2c4a3381dce8f8e4a00bd4934bc201a74,accepted,
+abfdcddd2e82bcee,https://www.pip.gov.pl/files/126/Dla-pracownikow/601/51-PodrozeSluzbowe-2018-INTERNET.pdf,pip,kp_urlop,L2,pdf,2026-04-25T10:53:20Z,200,application/pdf,1351360,raw/pip/51-PodrozeSluzbowe-2018-INTERNET.pdf,Podróże służbowe krajowe i zagraniczne,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=126,paginacja,abfdcddd2e82bcee8f4294c059cee5e27df160aec2851d1a4fd023fe10103851,accepted,
+9e9836f918ee5979,https://www.pip.gov.pl/files/127/Dla-pracodawcow/325/uzytkowanie-maszyn-minimalne-wymagania-dotyczne-bhp.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:53:25Z,200,application/pdf,5878295,raw/pip/uzytkowanie-maszyn-minimalne-wymagania-dotyczne-bhp.pdf,Użytkowanie maszyn. Minimalne wymagania dotyczące bhp. Lista kontrolna z komentarzem,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9,paginacja,9e9836f918ee597914f3775ac4d278e30c43e738bb45b63b5bd29dc99493fd57,accepted,
+5e772de961536a86,https://www.pip.gov.pl/files/127/Dla-pracodawcow/343/urzadzenia-poddozorowe-internet.pdf,pip,kp_bhp_biuro,L2,pdf,2026-04-25T10:53:26Z,200,application/pdf,1047552,raw/pip/urzadzenia-poddozorowe-internet.pdf,Urządzenia poddozorowe w tartaku i stolarni,,True,,https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=27,paginacja,5e772de961536a86d3856d99f876c1c7ab3ad138fcff9ddbb853c832fc5d4be4,accepted,

@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 856953,
   "relative_path": "raw/zus/92a5c5b1-cf05-4869-8845-538a48fd5129.pdf",
-  "title": "Pobierz \" \n                        Zasady opłacania składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych oraz Fundusz Solidarnościowy\n                         \" (pdf, 837 kB)",
+  "title": "Pobierz \" Zasady opłacania składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych oraz Fundusz Solidarnościowy \" (pdf, 837 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename*=UTF-8''Zasady%20op%C5%82acania%20sk%C5%82adek%20na%20Fundusz%20Pracy%2C%20Fundusz%20Gwarantowanych%20%C5%9Awiadcze%C5%84%20Pracowniczych%20oraz%20Fundusz%20Emerytur%20Pomostowych.pdf",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 19522,
+    "diacritics_ratio": 0.0442,
+    "vocab_hits": 12
   }
 }

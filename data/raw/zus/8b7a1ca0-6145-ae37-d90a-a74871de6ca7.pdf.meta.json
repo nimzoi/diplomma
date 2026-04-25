@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 3944471,
   "relative_path": "raw/zus/8b7a1ca0-6145-ae37-d90a-a74871de6ca7.pdf",
-  "title": "Pobierz \" \n                        ZUS DRA - deklaracja rozliczeniowa. Jak wypełnić i skorygować\n                         \" (pdf, 3852 kB)",
+  "title": "Pobierz \" ZUS DRA - deklaracja rozliczeniowa. Jak wypełnić i skorygować \" (pdf, 3852 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename=\"poradnik ZUS DRA.pdf\"",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 31990,
+    "diacritics_ratio": 0.0348,
+    "vocab_hits": 11
   }
 }

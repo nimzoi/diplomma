@@ -1,0 +1,45 @@
+{
+  "id": "3d2ac44e77e4cb3c",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/398/pracodawca-uzytkownikp27949.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:51:42Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1447636,
+  "relative_path": "raw/pip/pracodawca-uzytkownikp27949.pdf",
+  "title": "Pracodawca użytkownik",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=72",
+  "discovery_source": "paginacja",
+  "sha256": "3d2ac44e77e4cb3cb17067f1cca36fc32b76a25b942274b529ff95dd3ab92223",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"pracodawca-uzytkownik_p27949.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:51:41 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 5202,
+    "diacritics_ratio": 0.0373,
+    "vocab_hits": 2
+  }
+}

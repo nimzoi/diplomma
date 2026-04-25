@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1352280,
   "relative_path": "raw/zus/17e0dc69-e027-476f-e39b-b7bf4df4c93d.pdf",
-  "title": "Pobierz \" \n                        Ustalanie stopy  procentowej  składki   na ubezpieczenie  wypadkowe archiwum stan prawny 04.2018-03.2021\n                         \" (pdf, 1321 kB)",
+  "title": "Pobierz \" Ustalanie stopy procentowej składki na ubezpieczenie wypadkowe archiwum stan prawny 04.2018-03.2021 \" (pdf, 1321 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename=\"poradnik_wypadkowe_2018.pdf\"",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 19346,
+    "diacritics_ratio": 0.0432,
+    "vocab_hits": 8
   }
 }

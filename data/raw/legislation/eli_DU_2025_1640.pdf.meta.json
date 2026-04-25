@@ -2,7 +2,9 @@
   "id": "3b87eb584fc853f4",
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/1640/text.pdf",
   "source": "eli",
-  "topic_ids": [],
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
   "layer": "L1",
   "format": "pdf",
   "fetched_at": "2026-04-25T09:38:44Z",
@@ -28,5 +30,11 @@
     "access-control-max-age": "7200",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 2279,
+    "diacritics_ratio": 0.0259,
+    "vocab_hits": 6
   }
 }

@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 2018955,
   "relative_path": "raw/zus/2c941ac8-8e3f-4dfe-80a1-1d2340d908ce.pdf",
-  "title": "Pobierz \" \n                        Przewodnik dla rozpoczynających działalność gospodarczą\n                         \" (pdf, 1972 kB)",
+  "title": "Pobierz \" Przewodnik dla rozpoczynających działalność gospodarczą \" (pdf, 1972 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename=\"przewodnik_dla_rozpoczynajacych_dzialalnosc.pdf\"",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 20024,
+    "diacritics_ratio": 0.0473,
+    "vocab_hits": 9
   }
 }

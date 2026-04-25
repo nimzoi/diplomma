@@ -7,12 +7,12 @@
   ],
   "layer": "L2",
   "format": "pdf",
-  "fetched_at": "2026-04-25T09:57:53Z",
+  "fetched_at": "2026-04-25T10:51:37Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "bytes": 552444,
   "relative_path": "raw/pip/Bezpieczenstwo-uzytkowania-maszyn-Poradnik-dla-pracodawcow.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Bezpieczeństwo użytkowania maszyn",
+  "title": "Bezpieczeństwo użytkowania maszyn",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,8 +32,14 @@
     "vary": "Accept-Encoding,User-Agent",
     "content-encoding": "gzip",
     "content-type": "application/octet-stream",
-    "date": "Sat, 25 Apr 2026 09:57:52 GMT",
+    "date": "Sat, 25 Apr 2026 10:51:37 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 25865,
+    "diacritics_ratio": 0.0403,
+    "vocab_hits": 7
   }
 }

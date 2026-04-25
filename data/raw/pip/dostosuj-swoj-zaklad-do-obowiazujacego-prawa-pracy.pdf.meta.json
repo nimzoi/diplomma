@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 2563833,
   "relative_path": "raw/pip/dostosuj-swoj-zaklad-do-obowiazujacego-prawa-pracy.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Dostosuj swój zakład do obowiązującego prawa pracy. Lista kontrolna z komentarzem",
+  "title": "Dostosuj swój zakład do obowiązującego prawa pracy. Lista kontrolna z komentarzem",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:56:33 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 16699,
+    "diacritics_ratio": 0.0411,
+    "vocab_hits": 4
   }
 }

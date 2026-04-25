@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 753092,
   "relative_path": "raw/pip/Pracownik.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Pracownik młodociany",
+  "title": "Pracownik młodociany",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:56:30 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 10338,
+    "diacritics_ratio": 0.0411,
+    "vocab_hits": 8
   }
 }

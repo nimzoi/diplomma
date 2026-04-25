@@ -3,6 +3,7 @@
   "url": "https://www.podatki.gov.pl/media/fxtjmvnu/pit-28_-27-07.pdf",
   "source": "podatki",
   "topic_ids": [
+    "pit_roczny",
     "pit_ryczalt"
   ],
   "layer": "L2",
@@ -38,5 +39,11 @@
     "referrer-policy": "strict-origin-when-cross-origin",
     "x-cdn": "Imperva",
     "x-iinfo": "13-46423246-46447129 pNNy RT(1777110517734 143742) q(0 0 0 -1) r(1 1) U12"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 43559,
+    "diacritics_ratio": 0.0494,
+    "vocab_hits": 12
   }
 }

@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1299261,
   "relative_path": "raw/zus/1195809f-a305-46e2-abf0-58e528f57ab7.pdf",
-  "title": "Pobierz \" \n                        Zasady podlegania ubezpieczeniom społecznym i ubezpieczeniu zdrowotnemu oraz ustalania podstawy  wymiaru składek\n                         \" (pdf, 1269 kB)",
+  "title": "Pobierz \" Zasady podlegania ubezpieczeniom społecznym i ubezpieczeniu zdrowotnemu oraz ustalania podstawy wymiaru składek \" (pdf, 1269 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename*=UTF-8''Zasady%20podlegania%20ubezpieczeniom%20spo%C5%82ecznym%20i%20ubezpieczeniu%20zdrowotnemu%20oraz%20ustalania%20podstawy%20wymiaru%20sk%C5%82adek_archiwum_2017.pdf",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 19037,
+    "diacritics_ratio": 0.0383,
+    "vocab_hits": 12
   }
 }

@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 471781,
   "relative_path": "raw/zus/ef458770-eff8-5460-cb31-f548c763acc4.pdf",
-  "title": "Pobierz \" \n                        Kontrola prawidłowości wykorzystywania zwolnień lekarskich od pracy\n                         \" (pdf, 461 kB)",
+  "title": "Pobierz \" Kontrola prawidłowości wykorzystywania zwolnień lekarskich od pracy \" (pdf, 461 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename*=UTF-8''Kontrola%20prawid%C5%82owo%C5%9Bci%20wykorzystywania%20zwolnie%C5%84%20lekarskich.pdf",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 23825,
+    "diacritics_ratio": 0.0413,
+    "vocab_hits": 8
   }
 }

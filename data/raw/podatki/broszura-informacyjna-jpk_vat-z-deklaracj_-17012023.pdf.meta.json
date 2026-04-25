@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 2373781,
   "relative_path": "raw/podatki/broszura-informacyjna-jpk_vat-z-deklaracj_-17012023.pdf",
-  "title": "Broszura - JPK_VAT z deklaracją od 1 stycznia 2023   PDF, 2,26 MB",
+  "title": "Broszura - JPK_VAT z deklaracją od 1 stycznia 2023 PDF, 2,26 MB",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -38,5 +38,11 @@
     "referrer-policy": "strict-origin-when-cross-origin",
     "x-cdn": "Imperva",
     "x-iinfo": "13-46423246-46346074 pNNy RT(1777110517734 176739) q(0 0 0 -1) r(1 1) U12"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 16594,
+    "diacritics_ratio": 0.0306,
+    "vocab_hits": 6
   }
 }

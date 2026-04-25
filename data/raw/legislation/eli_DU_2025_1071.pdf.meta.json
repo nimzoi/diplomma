@@ -3,8 +3,8 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/1071/text.pdf",
   "source": "eli",
   "topic_ids": [
-    "kp_umowa_zlecenie",
-    "kp_umowa_o_dzielo"
+    "kp_umowa_o_dzielo",
+    "kp_umowa_zlecenie"
   ],
   "layer": "L1",
   "format": "pdf",
@@ -31,5 +31,11 @@
     "access-control-max-age": "7200",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 45146,
+    "diacritics_ratio": 0.0537,
+    "vocab_hits": 9
   }
 }

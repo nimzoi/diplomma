@@ -3,9 +3,9 @@
   "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:02006L0112-20240101",
   "source": "eurlex",
   "topic_ids": [
+    "vat_marza",
     "vat_stawki",
-    "vat_ue",
-    "vat_marza"
+    "vat_ue"
   ],
   "layer": "L1",
   "format": "pdf",
@@ -28,7 +28,6 @@
     "date": "Sat, 25 Apr 2026 09:59:58 GMT",
     "x-frame-options": "SAMEORIGIN",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "set-cookie": "AWSALB=bHLjM8UD7cWrw7OUrbd84mT5vGrELBv9tDstHxvBgBKGwZUyQJFoNWPZbEtE8B/NLUDfDJV52zgxHzafjigdGKQ6IH3fbm4rF/zWbOmXlWnPVZ7nx+fRv+7cYro8; Expires=Sat, 02 May 2026 09:59:58 GMT; Path=/, AWSALBCORS=bHLjM8UD7cWrw7OUrbd84mT5vGrELBv9tDstHxvBgBKGwZUyQJFoNWPZbEtE8B/NLUDfDJV52zgxHzafjigdGKQ6IH3fbm4rF/zWbOmXlWnPVZ7nx+fRv+7cYro8; Expires=Sat, 02 May 2026 09:59:58 GMT; Path=/; SameSite=None, dtCookie=v_4_srv_35_sn_BCDA5422C71FC80599F37370C4A3139F_perc_100000_ol_0_mul_1_app-3A47d4c64c3b67ec69_0; Path=/; Domain=.europa.eu, ELX_SESSIONID=VaHEFOt9BzoVi7qKqlC_LvUJgZGm25FKZzalY812miBko9Id4sgi!1734391283; path=/; Path=/; Secure; HttpOnly, experimentalFeaturesActivated=false; expires=Mon, 25-May-2026 09:59:58 GMT; path=/",
     "cache-control": "max-age=0",
     "pragma": "public",
     "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
@@ -46,5 +45,11 @@
     "x-amz-cf-pop": "DEN52-P3",
     "x-amz-cf-id": "K1NrwkShfg0kp--FhQ6K7_LG4s8Xy8_3gCpmM0x6nqxfHVzP3Ndhig==",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 22615,
+    "diacritics_ratio": 0.0443,
+    "vocab_hits": 10
   }
 }

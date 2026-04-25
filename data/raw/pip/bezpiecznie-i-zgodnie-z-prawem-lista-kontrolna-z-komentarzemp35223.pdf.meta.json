@@ -7,12 +7,12 @@
   ],
   "layer": "L2",
   "format": "pdf",
-  "fetched_at": "2026-04-25T09:56:40Z",
+  "fetched_at": "2026-04-25T10:50:42Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "bytes": 6437791,
   "relative_path": "raw/pip/bezpiecznie-i-zgodnie-z-prawem-lista-kontrolna-z-komentarzemp35223.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Bezpiecznie i zgodnie z prawem. Lista kontrolna z komentarezem",
+  "title": "Bezpiecznie i zgodnie z prawem. Lista kontrolna z komentarezem",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,8 +32,14 @@
     "vary": "Accept-Encoding,User-Agent",
     "content-encoding": "gzip",
     "content-type": "application/octet-stream",
-    "date": "Sat, 25 Apr 2026 09:56:38 GMT",
+    "date": "Sat, 25 Apr 2026 10:50:41 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 18561,
+    "diacritics_ratio": 0.0392,
+    "vocab_hits": 8
   }
 }

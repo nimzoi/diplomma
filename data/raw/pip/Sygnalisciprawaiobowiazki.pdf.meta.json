@@ -1,0 +1,45 @@
+{
+  "id": "59517a8c7869e4e9",
+  "url": "https://www.pip.gov.pl/files/126/Dla-pracownikow/1056/Sygnalisciprawaiobowiazki.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_urlop"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:50:23Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 2835638,
+  "relative_path": "raw/pip/Sygnalisciprawaiobowiazki.pdf",
+  "title": "Sygnaliści - prawa i obowiązki",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-pracownikow?start=9",
+  "discovery_source": "paginacja",
+  "sha256": "59517a8c7869e4e9da0887667216c8fcc3b9eb89b98d0635f91688d6bddadca5",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"Sygnalisci_prawa_i_obowiazki.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:50:22 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 11885,
+    "diacritics_ratio": 0.0475,
+    "vocab_hits": 12
+  }
+}

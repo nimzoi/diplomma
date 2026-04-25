@@ -1,0 +1,45 @@
+{
+  "id": "dce6ce0fe5139723",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/345/PYL-DREWNO-BROSZURA-.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:51:01Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 209318,
+  "relative_path": "raw/pip/PYL-DREWNO-BROSZURA-.pdf",
+  "title": "Pył drewna",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=27",
+  "discovery_source": "paginacja",
+  "sha256": "dce6ce0fe51397238d4b25883377b36c58d392638fe9a2980274ed6cd1af3cb2",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"PYL DREWNO BROSZURA .pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:51:00 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 21663,
+    "diacritics_ratio": 0.042,
+    "vocab_hits": 6
+  }
+}

@@ -2,7 +2,10 @@
   "id": "6fdd15b85f55679e",
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2026/522/text.pdf",
   "source": "eli",
-  "topic_ids": [],
+  "topic_ids": [
+    "pit_amortyzacja",
+    "pit_kpir"
+  ],
   "layer": "L1",
   "format": "pdf",
   "fetched_at": "2026-04-25T09:41:49Z",
@@ -28,5 +31,11 @@
     "access-control-max-age": "7200",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 50481,
+    "diacritics_ratio": 0.0433,
+    "vocab_hits": 15
   }
 }

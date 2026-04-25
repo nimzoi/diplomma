@@ -28,10 +28,15 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1",
-    "set-cookie": "JSESSIONID=32EF4B824F7FF7D4F5A580D19CE9B0EF; Path=/; HttpOnly, TS0187939b=01238e5c9bc1d3ef2a7225108ac64fac20f9b882f2148912973514de9213ada1407e1cf223d6cc643a4cb36522b25f13e5e2fa83fc; Path=/; Domain=.www.zus.pl",
     "last-modified": "Wed, 10 Jan 2024 09:11:37 GMT",
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename=\"nianie kompendium.pdf\"",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 23743,
+    "diacritics_ratio": 0.0452,
+    "vocab_hits": 11
   }
 }

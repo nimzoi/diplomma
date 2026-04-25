@@ -7,12 +7,12 @@
   ],
   "layer": "L2",
   "format": "pdf",
-  "fetched_at": "2026-04-25T09:58:28Z",
+  "fetched_at": "2026-04-25T10:51:47Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "bytes": 868630,
   "relative_path": "raw/pip/PrawoPracyPierwKroki-INTERNET-OKL.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Prawo pracy - pierwsze kroki",
+  "title": "Prawo pracy - pierwsze kroki",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,8 +32,14 @@
     "vary": "Accept-Encoding,User-Agent",
     "content-encoding": "gzip",
     "content-type": "application/octet-stream",
-    "date": "Sat, 25 Apr 2026 09:58:28 GMT",
+    "date": "Sat, 25 Apr 2026 10:51:46 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 15301,
+    "diacritics_ratio": 0.0429,
+    "vocab_hits": 9
   }
 }

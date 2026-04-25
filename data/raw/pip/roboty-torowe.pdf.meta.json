@@ -1,0 +1,45 @@
+{
+  "id": "5cde6271f5684216",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/330/roboty-torowe.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:50:43Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 3514658,
+  "relative_path": "raw/pip/roboty-torowe.pdf",
+  "title": "Roboty torowe",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=18",
+  "discovery_source": "paginacja",
+  "sha256": "5cde6271f568421631103a356b9faa5f236374e8c289c5aaa8432ed0084aa1c6",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"roboty torowe.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:50:43 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 10152,
+    "diacritics_ratio": 0.052,
+    "vocab_hits": 4
+  }
+}

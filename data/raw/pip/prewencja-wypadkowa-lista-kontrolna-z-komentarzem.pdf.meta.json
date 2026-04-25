@@ -7,12 +7,12 @@
   ],
   "layer": "L2",
   "format": "pdf",
-  "fetched_at": "2026-04-25T09:56:36Z",
+  "fetched_at": "2026-04-25T10:50:38Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "bytes": 5426360,
   "relative_path": "raw/pip/prewencja-wypadkowa-lista-kontrolna-z-komentarzem.pdf",
-  "title": "BHP \n    \n    \n     \n\n\n        \n        \n         Prewencja wypadkowa Lista kontrolna z komentarzem",
+  "title": "Prewencja wypadkowa Lista kontrolna z komentarzem",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,8 +32,14 @@
     "vary": "Accept-Encoding,User-Agent",
     "content-encoding": "gzip",
     "content-type": "application/octet-stream",
-    "date": "Sat, 25 Apr 2026 09:56:35 GMT",
+    "date": "Sat, 25 Apr 2026 10:50:37 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 24123,
+    "diacritics_ratio": 0.0437,
+    "vocab_hits": 10
   }
 }

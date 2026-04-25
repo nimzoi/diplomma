@@ -3,7 +3,8 @@
   "url": "https://uodo.gov.pl/pl/file/1469",
   "source": "uodo",
   "topic_ids": [
-    "rodo_mala_firma"
+    "rodo_mala_firma",
+    "rodo_rekrutacja"
   ],
   "layer": "L2",
   "format": "pdf",
@@ -32,5 +33,11 @@
     "pragma": "no-cache",
     "expires": "Sat, 25 Apr 2026 09:59:56 GMT",
     "strict-transport-security": "max-age=31536000"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 21780,
+    "diacritics_ratio": 0.0379,
+    "vocab_hits": 12
   }
 }

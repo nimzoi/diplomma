@@ -2,7 +2,11 @@
   "id": "7c91233e3e8f0506",
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/111/text.pdf",
   "source": "eli",
-  "topic_ids": [],
+  "topic_ids": [
+    "pit_kpir",
+    "vat_jpk",
+    "vat_rejestracja"
+  ],
   "layer": "L1",
   "format": "pdf",
   "fetched_at": "2026-04-25T09:41:29Z",
@@ -28,5 +32,11 @@
     "access-control-max-age": "7200",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 44855,
+    "diacritics_ratio": 0.0376,
+    "vocab_hits": 11
   }
 }

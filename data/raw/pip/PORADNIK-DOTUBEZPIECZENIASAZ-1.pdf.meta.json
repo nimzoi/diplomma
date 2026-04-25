@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 15082602,
   "relative_path": "raw/pip/PORADNIK-DOTUBEZPIECZENIASAZ-1.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Poradnik dot. ubezpieczenia pracowników delegowanych",
+  "title": "Poradnik dot. ubezpieczenia pracowników delegowanych",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:56:13 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 25522,
+    "diacritics_ratio": 0.0473,
+    "vocab_hits": 11
   }
 }

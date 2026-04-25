@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1233416,
   "relative_path": "raw/pip/praca-w-niedziele-i-swietap36488.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Praca w niedziele i święta",
+  "title": "Praca w niedziele i święta",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:58:15 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 13553,
+    "diacritics_ratio": 0.0474,
+    "vocab_hits": 8
   }
 }

@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 681376,
   "relative_path": "raw/pip/nowy-pracownik-obowiazki-pracodawcyp18266.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Nowy pracownik-obowiązki pracodawcy",
+  "title": "Nowy pracownik-obowiązki pracodawcy",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:58:26 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 14007,
+    "diacritics_ratio": 0.0401,
+    "vocab_hits": 7
   }
 }

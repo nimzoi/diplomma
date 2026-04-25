@@ -26,7 +26,6 @@
     "date": "Sat, 25 Apr 2026 10:00:02 GMT",
     "x-frame-options": "SAMEORIGIN",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "set-cookie": "AWSALB=f/K9FBTubczT0LHrisZBaOP600qFA+nc8h8w9BL951eZq1UQSiGbbECos6FJkzadb6Zg/Fm7JAI7g69fZB223T2rSms4Kdh9pUHE6V0hJkw5SeALS72rSgTU/R06; Expires=Sat, 02 May 2026 10:00:02 GMT; Path=/, AWSALBCORS=f/K9FBTubczT0LHrisZBaOP600qFA+nc8h8w9BL951eZq1UQSiGbbECos6FJkzadb6Zg/Fm7JAI7g69fZB223T2rSms4Kdh9pUHE6V0hJkw5SeALS72rSgTU/R06; Expires=Sat, 02 May 2026 10:00:02 GMT; Path=/; SameSite=None",
     "cache-control": "max-age=0",
     "pragma": "public",
     "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
@@ -44,5 +43,11 @@
     "x-amz-cf-pop": "DEN52-P3",
     "x-amz-cf-id": "JOASksAoRHpI1U1KeiLt0AURaYzhSer8D9egTMbWMbgg4QxmJw546g==",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 30648,
+    "diacritics_ratio": 0.0454,
+    "vocab_hits": 7
   }
 }

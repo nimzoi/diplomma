@@ -11,6 +11,7 @@ from pathlib import Path
 from common import (
     DATA_DIR,
     fetch,
+    load_manifest,
     log_fetch,
     log_rejected,
     magic_ok,
@@ -21,6 +22,10 @@ from common import (
     short_id,
 )
 from topics import assign_topics
+
+
+def _existing_urls() -> set[str]:
+    return {r.get("url", "") for r in load_manifest()}
 
 # spec 5.1
 ELI_ACTS = [
@@ -71,9 +76,12 @@ EURLEX_ACTS = [
 ]
 
 
-def fetch_eli_pdf(act: dict, session) -> None:
+def fetch_eli_pdf(act: dict, session, have_urls: set[str]) -> None:
     eli_id = f"{act['publisher']}/{act['year']}/{act['position']}"
     pdf_url = f"https://api.sejm.gov.pl/eli/acts/{act['publisher']}/{act['year']}/{act['position']}/text.pdf"
+    if pdf_url in have_urls:
+        print(f"SKIP {eli_id}: already in manifest")
+        return
     res = fetch(pdf_url, session=session, accept="application/pdf")
     log_fetch({
         "ts": now_iso(), "url": pdf_url, "ok": res.ok, "status": res.status,
@@ -113,7 +121,10 @@ def fetch_eli_pdf(act: dict, session) -> None:
     print(f"OK   {eli_id} {row['bytes']} B -> {rel}")
 
 
-def fetch_eurlex(act: dict, session) -> None:
+def fetch_eurlex(act: dict, session, have_urls: set[str]) -> None:
+    if act["url"] in have_urls:
+        print(f"SKIP CELEX:{act['celex']}: already in manifest")
+        return
     res = fetch(act["url"], session=session, accept="application/pdf")
     log_fetch({
         "ts": now_iso(), "url": act["url"], "ok": res.ok, "status": res.status,
@@ -149,11 +160,12 @@ def fetch_eurlex(act: dict, session) -> None:
 
 def main() -> None:
     sess = session_factory({"Accept": "application/pdf"})
+    have_urls = _existing_urls()
     for act in ELI_ACTS:
-        fetch_eli_pdf(act, sess)
+        fetch_eli_pdf(act, sess, have_urls)
         time.sleep(0.4)
     for act in EURLEX_ACTS:
-        fetch_eurlex(act, sess)
+        fetch_eurlex(act, sess, have_urls)
         time.sleep(0.4)
 
 

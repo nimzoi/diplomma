@@ -18,6 +18,7 @@ import requests
 
 from common import (
     fetch,
+    load_manifest,
     log_fetch,
     log_rejected,
     magic_ok,
@@ -116,7 +117,7 @@ def pick_canonical(items: list[dict]) -> dict | None:
     return candidates[0]
 
 
-def fetch_act(item: dict, topic_hint: str, sess: requests.Session) -> None:
+def fetch_act(item: dict, topic_hint: str, sess: requests.Session, have_urls: set[str]) -> None:
     publisher = item.get("publisher") or "DU"
     year = item.get("year")
     pos = item.get("pos")
@@ -124,6 +125,8 @@ def fetch_act(item: dict, topic_hint: str, sess: requests.Session) -> None:
         return
     eli_id = f"{publisher}/{year}/{pos}"
     pdf_url = f"https://api.sejm.gov.pl/eli/acts/{publisher}/{year}/{pos}/text.pdf"
+    if pdf_url in have_urls:
+        return
     res = fetch(pdf_url, session=sess, accept="application/pdf")
     log_fetch({
         "ts": now_iso(), "url": pdf_url, "ok": res.ok, "status": res.status,
@@ -160,6 +163,7 @@ def fetch_act(item: dict, topic_hint: str, sess: requests.Session) -> None:
 
 def main() -> None:
     sess = session_factory({"Accept": "application/json"})
+    have_urls = {r.get("url", "") for r in load_manifest()}
     seen_eli: set[str] = set()
     for label, params, hint, max_n in QUERIES:
         print(f"\n>>> {label}")
@@ -186,7 +190,7 @@ def main() -> None:
             if not item.get("textPDF"):
                 continue
             seen_eli.add(eli)
-            fetch_act(item, hint, sess)
+            fetch_act(item, hint, sess, have_urls)
             picked += 1
             time.sleep(0.4)
 

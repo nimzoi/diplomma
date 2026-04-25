@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 873758,
   "relative_path": "raw/pip/mobbing-inforamtor-dla-pracodawcy-2019p95366.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Mobbing. Informator dla pracodawcy",
+  "title": "Mobbing. Informator dla pracodawcy",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:58:07 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 13649,
+    "diacritics_ratio": 0.0517,
+    "vocab_hits": 5
   }
 }

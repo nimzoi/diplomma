@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 875945,
   "relative_path": "raw/zus/d070a414-39a8-060e-fc88-3dec3bd22878.pdf",
-  "title": "Pobierz \" \n                        Ubezpieczenia społeczne i ubezpieczenie zdrowotne osób duchownych stan prawny na 1.01.2018 r.\n                         \" (pdf, 855 kB)",
+  "title": "Pobierz \" Ubezpieczenia społeczne i ubezpieczenie zdrowotne osób duchownych stan prawny na 1.01.2018 r. \" (pdf, 855 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename*=UTF-8''Poradnik_ubezp_os%C3%B3b_duchownych_2018.pdf",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 20136,
+    "diacritics_ratio": 0.0445,
+    "vocab_hits": 9
   }
 }

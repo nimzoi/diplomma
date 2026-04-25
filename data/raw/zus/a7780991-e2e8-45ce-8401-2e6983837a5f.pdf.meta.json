@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1914936,
   "relative_path": "raw/zus/a7780991-e2e8-45ce-8401-2e6983837a5f.pdf",
-  "title": "Pobierz \" \n                        ZUS IWA Informacja o danych do ustalenia składki  na ubezpieczenie wypadkowe\n                         \" (pdf, 1870 kB)",
+  "title": "Pobierz \" ZUS IWA Informacja o danych do ustalenia składki na ubezpieczenie wypadkowe \" (pdf, 1870 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename=\"poradnik_zus_iwa.korekta_pdf.pdf\"",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 24150,
+    "diacritics_ratio": 0.045,
+    "vocab_hits": 11
   }
 }

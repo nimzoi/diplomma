@@ -1,0 +1,45 @@
+{
+  "id": "dfab113d73e6f789",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/769/ochrona-pracy-kobiet-i-mlodocianych.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:50:36Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 2131300,
+  "relative_path": "raw/pip/ochrona-pracy-kobiet-i-mlodocianych.pdf",
+  "title": "Ochrona pracy kobiet i młodocianych",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=9",
+  "discovery_source": "paginacja",
+  "sha256": "dfab113d73e6f7898d6aeb2466e9183452d0228b404add3f4e31be83fa13a413",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"ochrona pracy kobiet i mlodocianych.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:50:35 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 13455,
+    "diacritics_ratio": 0.0475,
+    "vocab_hits": 7
+  }
+}

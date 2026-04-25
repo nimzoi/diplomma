@@ -3,14 +3,14 @@
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/535/text.pdf",
   "source": "eli",
   "topic_ids": [
-    "vat_rejestracja",
-    "vat_zwolnienie_200k",
+    "vat_biala_lista",
     "vat_jpk",
     "vat_ksef",
+    "vat_marza",
+    "vat_rejestracja",
     "vat_stawki",
     "vat_ue",
-    "vat_marza",
-    "vat_biala_lista"
+    "vat_zwolnienie_200k"
   ],
   "layer": "L1",
   "format": "pdf",
@@ -37,5 +37,11 @@
     "access-control-max-age": "7200",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 55833,
+    "diacritics_ratio": 0.0107,
+    "vocab_hits": 13
   }
 }

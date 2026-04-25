@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1078903,
   "relative_path": "raw/podatki/podr_cznik-u_ytkownika-formularza-jpk_vat3_28042022.pdf",
-  "title": "Podręcznik Użytkownika Formularza JPK VAT  PDF, 1,03 MB",
+  "title": "Podręcznik Użytkownika Formularza JPK VAT PDF, 1,03 MB",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -38,5 +38,11 @@
     "referrer-policy": "strict-origin-when-cross-origin",
     "x-cdn": "Imperva",
     "x-iinfo": "13-46423246-46449401 pNNy RT(1777110517734 187613) q(0 0 0 -1) r(1 1) U12"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 12409,
+    "diacritics_ratio": 0.0324,
+    "vocab_hits": 8
   }
 }

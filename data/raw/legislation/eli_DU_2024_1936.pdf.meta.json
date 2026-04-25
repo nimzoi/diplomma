@@ -2,7 +2,9 @@
   "id": "7a87ac3451d161dc",
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1936/text.pdf",
   "source": "eli",
-  "topic_ids": [],
+  "topic_ids": [
+    "ceidg_pkd"
+  ],
   "layer": "L1",
   "format": "pdf",
   "fetched_at": "2026-04-25T09:39:57Z",
@@ -28,5 +30,11 @@
     "access-control-max-age": "7200",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 28489,
+    "diacritics_ratio": 0.0417,
+    "vocab_hits": 8
   }
 }

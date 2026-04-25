@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 26444,
   "relative_path": "raw/podatki/broszura_przew_ver_en.pdf",
-  "title": "Special VAT scheme for occasional international road carriage of passengers  PDF, 25,82 kB",
+  "title": "Special VAT scheme for occasional international road carriage of passengers PDF, 25,82 kB",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -38,5 +38,11 @@
     "referrer-policy": "strict-origin-when-cross-origin",
     "x-cdn": "Imperva",
     "x-iinfo": "13-46423246-46346074 pNNy RT(1777110517734 137359) q(0 0 0 -1) r(1 1) U12"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 2969,
+    "diacritics_ratio": 0.003,
+    "vocab_hits": 2
   }
 }

@@ -1,0 +1,45 @@
+{
+  "id": "68a29aa238fa8035",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/354/O-bezpiecznej-pracy-na-budowie.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:51:12Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 3782984,
+  "relative_path": "raw/pip/O-bezpiecznej-pracy-na-budowie.pdf",
+  "title": "O bezpiecznej pracy na budowie",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36",
+  "discovery_source": "paginacja",
+  "sha256": "68a29aa238fa8035a59708ca20548aae384aeca139b47833af779e4e6db077f3",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"O bezpiecznej pracy na budowie.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:51:11 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 14406,
+    "diacritics_ratio": 0.0514,
+    "vocab_hits": 6
+  }
+}

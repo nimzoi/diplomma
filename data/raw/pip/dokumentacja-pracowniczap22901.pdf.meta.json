@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 2246587,
   "relative_path": "raw/pip/dokumentacja-pracowniczap22901.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Dokumentacja pracownicza",
+  "title": "Dokumentacja pracownicza",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 09:58:25 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 11692,
+    "diacritics_ratio": 0.0418,
+    "vocab_hits": 6
   }
 }

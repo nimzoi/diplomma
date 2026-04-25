@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 1304132,
   "relative_path": "raw/zus/f4f5043f-4487-2e82-e93a-8f8d7cc6c5f9.pdf",
-  "title": "Pobierz \" \n                        Polski Ład. Co zmienia się w przepisach dotyczących rozliczania składki na ubezpieczenie zdrowotne od 1 stycznia 2022 r.\n                         \" (pdf, 1274 kB)",
+  "title": "Pobierz \" Polski Ład. Co zmienia się w przepisach dotyczących rozliczania składki na ubezpieczenie zdrowotne od 1 stycznia 2022 r. \" (pdf, 1274 kB)",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -32,5 +32,11 @@
     "cache-control": "private,private, no-cache, no-store, must-revalidate",
     "content-disposition": "inline; filename*=UTF-8''Polski%20%C5%81ad%20-%20poradnik.pdf",
     "x-cache-tuning": "ACP-34f6cc9c798700338c1d6576a2b84bdbe4cf78456ef30ad59d31c29ca7ab6572-[others]"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 28300,
+    "diacritics_ratio": 0.0463,
+    "vocab_hits": 12
   }
 }

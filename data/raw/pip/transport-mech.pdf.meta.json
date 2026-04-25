@@ -1,0 +1,45 @@
+{
+  "id": "9a42490d2bf53cbe",
+  "url": "https://www.pip.gov.pl/files/127/Dla-pracodawcow/352/transport-mech.pdf",
+  "source": "pip",
+  "topic_ids": [
+    "kp_bhp_biuro"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T10:53:11Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 4203909,
+  "relative_path": "raw/pip/transport-mech.pdf",
+  "title": "Transport mechaniczny",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.pip.gov.pl/publikacje/publikacje-dla-sluzb-bhp?start=36",
+  "discovery_source": "paginacja",
+  "sha256": "9a42490d2bf53cbef646b4363782f340d7827fa2a8afa64e05324194e5a91cc6",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-disposition": "attachment; filename=\"transport mech.pdf\"",
+    "content-description": "File Transfer",
+    "content-transfer-encoding": "binary",
+    "expires": "0",
+    "cache-control": "must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "public",
+    "x-content-type-options": "nosniff",
+    "vary": "Accept-Encoding,User-Agent",
+    "content-encoding": "gzip",
+    "content-type": "application/octet-stream",
+    "date": "Sat, 25 Apr 2026 10:53:10 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 13350,
+    "diacritics_ratio": 0.0463,
+    "vocab_hits": 8
+  }
+}

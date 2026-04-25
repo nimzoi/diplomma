@@ -12,7 +12,7 @@
   "content_type": "application/pdf",
   "bytes": 625953,
   "relative_path": "raw/pip/Umowa-o-prac-a-umowy-cywilnoprawne-2020-INTERNET.pdf",
-  "title": "Prawo \n    \n    \n     \n\n\n        \n        \n         Umowa o pracę a umowy cywilnoprawne",
+  "title": "Umowa o pracę a umowy cywilnoprawne",
   "last_modified": "",
   "is_official": true,
   "eli_id": "",
@@ -35,5 +35,11 @@
     "date": "Sat, 25 Apr 2026 10:00:28 GMT",
     "server": "Apache/2",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 13270,
+    "diacritics_ratio": 0.0414,
+    "vocab_hits": 9
   }
 }

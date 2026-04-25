@@ -2,7 +2,11 @@
   "id": "6c713744a8c2a3e9",
   "url": "https://api.sejm.gov.pl/eli/acts/DU/2026/30/text.pdf",
   "source": "eli",
-  "topic_ids": [],
+  "topic_ids": [
+    "ceidg_wznowienie",
+    "ceidg_zamkniecie",
+    "ceidg_zmiana_wpisu"
+  ],
   "layer": "L1",
   "format": "pdf",
   "fetched_at": "2026-04-25T09:41:30Z",
@@ -28,5 +32,11 @@
     "access-control-max-age": "7200",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 46405,
+    "diacritics_ratio": 0.0362,
+    "vocab_hits": 11
   }
 }
