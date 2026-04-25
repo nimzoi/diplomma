@@ -33,7 +33,7 @@ TOPICS: list[tuple[str, str, list[str]]] = [
     ("pit_amortyzacja", "pit", ["amortyzacj", "ksrodków trwa", "kśt", "wykaz rocznych stawek"]),
     ("pit_kpir", "pit", ["kpir", "podatkowej ksiegi przychodow", "podatkowej księgi przychodów", "ksiega przychodow", "księga przychodów"]),
     ("pit_ewidencja_ryczalt", "pit", ["ewidencja przychod", "ewidencji przychod"]),
-    ("pit_roczny", "pit", ["pit roczny", "rozliczenie roczne", "termin pit", "kalendarz pit"]),
+    ("pit_roczny", "pit", ["pit roczny", "rozliczenie roczne", "termin pit", "kalendarz pit", "pit-37", "pit-36", "pit-28", "pit-36l", "rozliczenie pit", "twoj e-pit", "twój e-pit", "pit-d", "pit-o", "broszura do pit", "broszura pit"]),
 
     # VAT + JPK + KSeF
     ("vat_rejestracja", "vat", ["rejestracja vat", "vat-r"]),
@@ -47,11 +47,11 @@ TOPICS: list[tuple[str, str, list[str]]] = [
 
     # CEIDG
     ("ceidg_rejestracja", "ceidg", ["rejestracja ceidg", "wniosek ceidg-1", "ceidg-1"]),
-    ("ceidg_pkd", "ceidg", ["kody pkd", "klasyfikacja pkd"]),
-    ("ceidg_zawieszenie", "ceidg", ["zawieszenie dzialalnosci", "zawieszenie działalnosci", "zawieszenie działalności"]),
-    ("ceidg_wznowienie", "ceidg", ["wznowienie dzialalnosci", "wznowienie działalności"]),
-    ("ceidg_zamkniecie", "ceidg", ["zamkniecie dzialalnosci", "zamknięcie działalności", "wykreslenie ceidg", "wykreślenie ceidg"]),
-    ("ceidg_zmiana_wpisu", "ceidg", ["zmiana wpisu ceidg", "zmiana wpisu w ceidg"]),
+    ("ceidg_pkd", "ceidg", ["kody pkd", "klasyfikacja pkd", " pkd ", "pkd 2007", "pkd 2025", "pkd2025", "polskiej klasyfikacji dzialalnosci", "polskiej klasyfikacji działalności"]),
+    ("ceidg_zawieszenie", "ceidg", ["zawieszenie dzialalnosci", "zawieszenie działalnosci", "zawieszenie działalności", "zawieszenia"]),
+    ("ceidg_wznowienie", "ceidg", ["wznowienie dzialalnosci", "wznowienie działalności", "wznowienie", "wznowienia"]),
+    ("ceidg_zamkniecie", "ceidg", ["zamkniecie dzialalnosci", "zamknięcie działalności", "wykreslenie ceidg", "wykreślenie ceidg", "wykreslenie wpisu", "wykreślenie wpisu", "likwidacja firmy", "likwidacja dzialalnosci"]),
+    ("ceidg_zmiana_wpisu", "ceidg", ["zmiana wpisu ceidg", "zmiana wpisu w ceidg", "zmiana wpisu", "zmiana danych ceidg", "aktualizacja wpisu"]),
     ("ceidg_dzialalnosc_nierejestrowana", "ceidg", ["dzialalnosc nierejestrowan", "działalność nierejestrowan", "art. 5 prawo przedsiebiorc"]),
 
     # Prawo pracy
@@ -60,7 +60,7 @@ TOPICS: list[tuple[str, str, list[str]]] = [
     ("kp_umowa_o_dzielo", "kp", ["umowa o dzielo", "umowa o dzieło"]),
     ("kp_czas_pracy", "kp", ["czas pracy", "ewidencja czasu pracy", "nadgodzin"]),
     ("kp_urlop", "kp", ["urlop wypoczynkow", "urlop macierzyn", "wymiar urlopu", "urlop opiekun"]),
-    ("kp_wypowiedzenie", "kp", ["wypowiedzenie umow", "okres wypowiedzenia"]),
+    ("kp_wypowiedzenie", "kp", ["wypowiedzenie umow", "okres wypowiedzenia", "wypowiedzenie", "rozwiazanie umowy", "rozwiązanie umowy", "rozwiazumowy", "zwolnienie od pracy", "zwolnienia grupowe", "ul-rozwiazumowy", "ustanie stosunku pracy"]),
     ("kp_swiadectwo_pracy", "kp", ["swiadectwo pracy", "świadectwo pracy"]),
     ("kp_bhp_biuro", "kp", ["bhp biuro", "bhp praca zdaln", "szkolenie wstepne bhp", "szkolenie wstępne bhp"]),
 
@@ -69,9 +69,9 @@ TOPICS: list[tuple[str, str, list[str]]] = [
     ("rodo_rejestr_czynnosci", "rodo", ["rejestr czynnosci przetwarzania", "rejestr czynności przetwarzania", "art. 30 rodo"]),
     ("rodo_iod", "rodo", ["iod", "inspektor ochrony danych"]),
     ("rodo_klauzula_informacyjna", "rodo", ["klauzula informacyjn", "art. 13 rodo"]),
-    ("rodo_monitoring", "rodo", ["monitoring pracownik", "art. 22^2 kodeks", "art. 222 kodeks"]),
+    ("rodo_monitoring", "rodo", ["monitoring pracownik", "art. 22^2 kodeks", "art. 222 kodeks", "monitoring", "monitoringu", "transmis", "kamery"]),
     ("rodo_naruszenie", "rodo", ["naruszenie ochrony danych", "zgloszenie do uodo", "zgłoszenie do uodo", "72h", "72 godzin"]),
-    ("rodo_rekrutacja", "rodo", ["rodo rekrutacj", "klauzula cv"]),
+    ("rodo_rekrutacja", "rodo", ["rodo rekrutacj", "klauzula cv", "rekrutacj", "kandydat", "zatrudnieni"]),
 ]
 
 
