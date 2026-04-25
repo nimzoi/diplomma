@@ -1,0 +1,39 @@
+{
+  "id": "caeacab0c1926a9c",
+  "url": "https://www.pip.gov.pl/pl/baza-wiedzy/prawo-pracy/nawiazanie-stosunku-pracy",
+  "source": "pip",
+  "topic_ids": [
+    "b2b_zmiana_na_uop"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:47:27Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 54331,
+  "relative_path": "raw/pip_html/pip_hot_nawiazanie-stosunku-pracy.html",
+  "title": "404 - Państwowa Inspekcja Pracy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_seed",
+  "sha256": "caeacab0c1926a9c652d1e8a8fe8d3769386b825eb267ee1e3ad316f62fc4da6",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=b2b_zmiana_na_uop",
+  "headers": {
+    "x-frame-options": "SAMEORIGIN",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "content-encoding": "gzip",
+    "vary": "Accept-Encoding,User-Agent",
+    "expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+    "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0,private, must-revalidate",
+    "pragma": "no-cache",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Sat, 25 Apr 2026 20:47:27 GMT",
+    "server": "Apache/2",
+    "transfer-encoding": "chunked"
+  }
+}

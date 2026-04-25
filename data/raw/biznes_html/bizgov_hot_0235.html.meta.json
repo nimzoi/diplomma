@@ -1,0 +1,25 @@
+{
+  "id": "ef8124b2d459d0e3",
+  "url": "https://www.biznes.gov.pl/pl/portal/0235",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "zatrudnianie_cudzoziemcow"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:44:09Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 45614,
+  "relative_path": "raw/biznes_html/bizgov_hot_0235.html",
+  "title": "Firma cudzoziemca | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_whitelist",
+  "sha256": "ef8124b2d459d0e365c435e5db2e51f4cc3c7a3fadd40f0155af987bcc2acc0d",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=zatrudnianie_cudzoziemcow",
+  "headers": {}
+}

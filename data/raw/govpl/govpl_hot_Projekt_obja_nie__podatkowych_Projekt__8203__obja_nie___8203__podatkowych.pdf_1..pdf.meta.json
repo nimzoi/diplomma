@@ -1,0 +1,41 @@
+{
+  "id": "55b77384b1eee4ea",
+  "url": "https://www.gov.pl/attachment/6e02397b-2ff5-457a-867a-784171374889",
+  "source": "govpl",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T20:47:08Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 1992018,
+  "relative_path": "raw/govpl/govpl_hot_Projekt_obja_nie__podatkowych_Projekt__8203__obja_nie___8203__podatkowych.pdf_1..pdf",
+  "title": "Projekt objaśnień podatkowych Projekt&#8203;_objaśnień&#8203;_podatkowych.pdf 1.90MB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/finanse/konsultacje-podatkowe---estonski-cit",
+  "discovery_source": "hot2025_attachment",
+  "sha256": "55b77384b1eee4ea6c11f3caf941b73f4f5b11f35f42a818660b04fa4702b42b",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=estonski_cit",
+  "headers": {
+    "last-modified": "Thu, 10 Dec 2020 21:23:46 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''Projekt_obja%C5%9Bnie%C5%84_podatkowych.pdf",
+    "etag": "\"055b77384b1eee4ea6c11f3caf941b73f\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "1992018",
+    "date": "Sat, 25 Apr 2026 20:50:42 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 20:47:07 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  }
+}

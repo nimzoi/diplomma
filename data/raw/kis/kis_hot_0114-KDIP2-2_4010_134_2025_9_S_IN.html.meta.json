@@ -1,0 +1,25 @@
+{
+  "id": "33e78984521bb59a",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/683492",
+  "source": "kis",
+  "topic_ids": [
+    "ulga_ekspansja_prototyp_robotyzacja"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:29Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 117613,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-2_4010_134_2025_9_S_IN.html",
+  "title": "KIS 0114-KDIP2-2.4010.134.2025.9.S/IN — Sposób obliczenia wskaźnika dochodowości na potrzeby podatku minimalnego oraz możliwości zastosowania wyłączeniu.",
+  "last_modified": "2026-03-18",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "33e78984521bb59aefd31df4b0b446611c1f0f666af1c67938da918421d19e0b",
+  "quality_flag": "accepted",
+  "notes": "phrase='ulga na robotyzacje art 38eb', hot_hint=ulga_ekspansja_prototyp_robotyzacja",
+  "headers": {}
+}

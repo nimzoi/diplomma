@@ -1,0 +1,25 @@
+{
+  "id": "3226e07e8665a20a",
+  "url": "https://www.biznes.gov.pl/pl/portal/ou896",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "faktoring_cesja_wierzytelnosci"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:45:12Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 75914,
+  "relative_path": "raw/biznes_html/bizgov_hot_ou896.html",
+  "title": "Wniosek o przekazanie środków z rachunku VAT",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_whitelist",
+  "sha256": "3226e07e8665a20a96a86c7c5aed2f7b85d35c3d182263a3cda61ac1d151ca62",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=faktoring_cesja_wierzytelnosci",
+  "headers": {}
+}

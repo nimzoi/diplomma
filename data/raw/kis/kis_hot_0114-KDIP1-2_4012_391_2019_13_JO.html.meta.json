@@ -1,0 +1,25 @@
+{
+  "id": "765e7d33d93c2418",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/649251",
+  "source": "kis",
+  "topic_ids": [
+    "crbr_beneficjent_rzeczywisty"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:38Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 466279,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP1-2_4012_391_2019_13_JO.html",
+  "title": "KIS 0114-KDIP1-2.4012.391.2019.13.JO — Brak opodatkowania czynności związanych z rozliczaniem transakcji przenoszenia uprawnień do emisji CO2.",
+  "last_modified": "2025-07-17",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "765e7d33d93c2418fc9abd438c4a66b3819bef1cff76417003970f7173c5bf41",
+  "quality_flag": "accepted",
+  "notes": "phrase='CRBR beneficjent rzeczywisty', hot_hint=crbr_beneficjent_rzeczywisty",
+  "headers": {}
+}

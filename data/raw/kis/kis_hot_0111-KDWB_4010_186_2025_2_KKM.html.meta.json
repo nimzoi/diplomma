@@ -1,0 +1,25 @@
+{
+  "id": "02daf315073e24d3",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/676081",
+  "source": "kis",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:48:59Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 64648,
+  "relative_path": "raw/kis/kis_hot_0111-KDWB_4010_186_2025_2_KKM.html",
+  "title": "KIS 0111-KDWB.4010.186.2025.2.KKM — Podpisanie sprawozdania finansowego a spełnienie warunków do opodatkowania ryczałtem od dochodów spółek.",
+  "last_modified": "2026-01-15",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "02daf315073e24d3d95c404a65e14960d5f6b6219d4006078999b0c55202675c",
+  "quality_flag": "accepted",
+  "notes": "phrase='estonski CIT ryczalt od dochodow spolek', hot_hint=estonski_cit",
+  "headers": {}
+}

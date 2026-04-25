@@ -1,0 +1,41 @@
+{
+  "id": "ec62492f49dd5468",
+  "url": "https://www.podatki.gov.pl/crbr/",
+  "source": "podatki",
+  "topic_ids": [
+    "crbr_beneficjent_rzeczywisty"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:47:16Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 62863,
+  "relative_path": "raw/podatki_html/podatki_hot_crbr.html",
+  "title": "Serwis o podatkach - #CRBR",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_seed",
+  "sha256": "ec62492f49dd54688a1a93c4e71e1eec307c2e2f561772e0811e9df73246fcd4",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=crbr_beneficjent_rzeczywisty",
+  "headers": {
+    "content-type": "text/html; charset=utf-8",
+    "content-encoding": "gzip",
+    "vary": "Accept-Encoding",
+    "date": "Sat, 25 Apr 2026 20:47:15 GMT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-resource-policy": "cross-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-cdn": "Imperva",
+    "x-iinfo": "13-57776117-57378061 pNNy RT(1777150006891 29386) q(0 0 0 -1) r(1 1) U12",
+    "transfer-encoding": "chunked"
+  }
+}

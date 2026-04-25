@@ -1,0 +1,27 @@
+{
+  "id": "3ed5691a711f6bea",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/682372",
+  "source": "kis",
+  "topic_ids": [
+    "zus_preferencyjny",
+    "pit_ip_box",
+    "ulga_ekspansja_prototyp_robotyzacja"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:23Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 225093,
+  "relative_path": "raw/kis/kis_hot_0112-KDSL1-2_4011_3_2026_2_PS.html",
+  "title": "KIS 0112-KDSL1-2.4011.3.2026.2.PS — Preferencyjne opodatkowanie dochodów generowanych przez prawa własności intelektualnej (tzw. IP Box).",
+  "last_modified": "2026-03-05",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "3ed5691a711f6bea59101c28ce05c1da66d33545fc9e2219af819fd96e5f7097",
+  "quality_flag": "accepted",
+  "notes": "phrase='ulga na ekspansje', hot_hint=ulga_ekspansja_prototyp_robotyzacja",
+  "headers": {}
+}

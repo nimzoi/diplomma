@@ -1,0 +1,26 @@
+{
+  "id": "891ea56c87e6697c",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/662629",
+  "source": "kis",
+  "topic_ids": [
+    "vat_zwolnienie_200k",
+    "crbr_beneficjent_rzeczywisty"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:36Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 132419,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-1_4010_448_2025_2_PP.html",
+  "title": "KIS 0114-KDIP2-1.4010.448.2025.2.PP — W związku z wypłatą wynagrodzenia na rzecz luksemburskiego Kontrahenta w ramach transakcji sekurytyzacji syntetycznej na",
+  "last_modified": "2025-10-15",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "891ea56c87e6697c230675295f1c462f12030be884edb1e370113c4f6276c70f",
+  "quality_flag": "accepted",
+  "notes": "phrase='CRBR beneficjent rzeczywisty', hot_hint=crbr_beneficjent_rzeczywisty",
+  "headers": {}
+}

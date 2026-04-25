@@ -1,0 +1,26 @@
+{
+  "id": "075a38e17ab9e027",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/679286",
+  "source": "kis",
+  "topic_ids": [
+    "pit_kup",
+    "ulga_ekspansja_prototyp_robotyzacja"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:31Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 80444,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB2-1_4010_607_2025_1_ED.html",
+  "title": "KIS 0111-KDIB2-1.4010.607.2025.1.ED — W związku z przejęciem m.in. Robotów oraz Urządzeń i maszyn peryferyjnych w ramach dokonanego podziału przez wydzielenie",
+  "last_modified": "2026-02-16",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "075a38e17ab9e027684683a697d1b3036ff2488d6095d2a57cb222b81caf6134",
+  "quality_flag": "accepted",
+  "notes": "phrase='ulga na robotyzacje art 38eb', hot_hint=ulga_ekspansja_prototyp_robotyzacja",
+  "headers": {}
+}

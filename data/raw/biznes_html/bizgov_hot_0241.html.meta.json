@@ -1,0 +1,25 @@
+{
+  "id": "992d60a59a8fc49b",
+  "url": "https://www.biznes.gov.pl/pl/portal/0241",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "zatrudnianie_cudzoziemcow"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:44:04Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 59596,
+  "relative_path": "raw/biznes_html/bizgov_hot_0241.html",
+  "title": "Praca cudzoziemca | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_whitelist",
+  "sha256": "992d60a59a8fc49baf11364e4acbd0e8075febc47f4c50b73872918c0a96f1eb",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=zatrudnianie_cudzoziemcow",
+  "headers": {}
+}

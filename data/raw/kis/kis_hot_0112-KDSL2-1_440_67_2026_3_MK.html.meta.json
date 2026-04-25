@@ -1,0 +1,27 @@
+{
+  "id": "0a8aa2f2efcead46",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687448",
+  "source": "kis",
+  "topic_ids": [
+    "rodo_rekrutacja",
+    "b2b_test_samozatrudnienia",
+    "b2b_zmiana_na_uop"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:45Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 139249,
+  "relative_path": "raw/kis/kis_hot_0112-KDSL2-1_440_67_2026_3_MK.html",
+  "title": "KIS 0112-KDSL2-1.440.67.2026.3.MK — WIS USŁUGA – grupowe zajęcia nauki i doskonalenia pływania dla dzieci od 5 do 15 roku życia (poziom początkujący) prowad",
+  "last_modified": "2026-04-20",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "0a8aa2f2efcead4628f81744ae7854fff4f19d913479dafc69c542334b095d08",
+  "quality_flag": "accepted",
+  "notes": "phrase='ukryte zatrudnienie b2b', hot_hint=b2b_zmiana_na_uop",
+  "headers": {}
+}

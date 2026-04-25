@@ -1,0 +1,25 @@
+{
+  "id": "cd4a4ed7184f9d7d",
+  "url": "https://www.biznes.gov.pl/pl/portal/001139",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ulga_ekspansja_prototyp_robotyzacja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:44:29Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 58258,
+  "relative_path": "raw/biznes_html/bizgov_hot_001139.html",
+  "title": "Podatkowe wsparcie ekspansji i rozwoju firm | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_whitelist",
+  "sha256": "cd4a4ed7184f9d7d28b928a0adce9bb0cd10fe552582c053bedaf50a088a3a7e",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=ulga_ekspansja_prototyp_robotyzacja",
+  "headers": {}
+}

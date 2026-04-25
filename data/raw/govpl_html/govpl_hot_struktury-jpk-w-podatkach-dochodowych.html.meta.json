@@ -1,0 +1,43 @@
+{
+  "id": "3b693954bb3ba745",
+  "url": "https://www.gov.pl/web/kas/struktury-jpk-w-podatkach-dochodowych",
+  "source": "govpl",
+  "topic_ids": [
+    "jpk_cit_jpk_kr"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:46:54Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 41515,
+  "relative_path": "raw/govpl_html/govpl_hot_struktury-jpk-w-podatkach-dochodowych.html",
+  "title": "Struktury JPK w podatkach dochodowych - Ministerstwo Finansów - Krajowa Administracja Skarbowa - Portal Gov.pl",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_seed",
+  "sha256": "3b693954bb3ba74539826c10196cd75f3e60f5cdf8178944d698718d56a1dfa2",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=jpk_cit_jpk_kr",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 19:36:49 GMT",
+    "etag": "W/\"03b693954bb3ba74539826c10196cd75f\"",
+    "content-type": "text/html;charset=UTF-8",
+    "content-encoding": "gzip",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-frame-options": "SAMEORIGIN",
+    "feature-policy": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vibrate 'none'; vr 'none'",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), sync-xhr=(), usb=()",
+    "cache-control": "max-age=600",
+    "expires": "Sat, 25 Apr 2026 19:43:14 GMT",
+    "accept-ranges": "bytes",
+    "content-length": "9979",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  }
+}

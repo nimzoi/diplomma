@@ -1,0 +1,26 @@
+{
+  "id": "9cd9a9e4b6567ec9",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/680879",
+  "source": "kis",
+  "topic_ids": [
+    "pit_kup",
+    "ulga_ekspansja_prototyp_robotyzacja"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:30Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 205737,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-1_4010_704_2025_2_KW.html",
+  "title": "KIS 0114-KDIP2-1.4010.704.2025.2.KW — W zakresie skorzystania z ulgi na robotyzację.",
+  "last_modified": "2026-02-24",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "9cd9a9e4b6567ec9566096a6e8410b90b6f2ad30c1bbfa2522952d54c00f9d07",
+  "quality_flag": "accepted",
+  "notes": "phrase='ulga na robotyzacje art 38eb', hot_hint=ulga_ekspansja_prototyp_robotyzacja",
+  "headers": {}
+}

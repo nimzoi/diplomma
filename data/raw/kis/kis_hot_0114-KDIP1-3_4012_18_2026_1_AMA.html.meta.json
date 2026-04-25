@@ -1,0 +1,25 @@
+{
+  "id": "fb5060278a26d6a6",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686791",
+  "source": "kis",
+  "topic_ids": [
+    "kasa_fiskalna_online"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:06Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 124570,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP1-3_4012_18_2026_1_AMA.html",
+  "title": "KIS 0114-KDIP1-3.4012.18.2026.1.AMA — Uznanie za działanie prawidłowe na gruncie art. 111 ust. 3a pkt 1 ustawy o VAT, w aktualnym stanie prawnym, udostępniani",
+  "last_modified": "2026-04-10",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "fb5060278a26d6a677e6b24967d974bd0501c51a5116b065fd64d079c577fa34",
+  "quality_flag": "accepted",
+  "notes": "phrase='kasa fiskalna online obowiazek', hot_hint=kasa_fiskalna_online",
+  "headers": {}
+}

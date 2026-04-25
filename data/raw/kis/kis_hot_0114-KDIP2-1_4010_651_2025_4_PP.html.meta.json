@@ -1,0 +1,26 @@
+{
+  "id": "48ba695b901e6802",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/678335",
+  "source": "kis",
+  "topic_ids": [
+    "estonski_cit",
+    "przeksztalcenie_jdg_spzoo"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:42Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 118516,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-1_4010_651_2025_4_PP.html",
+  "title": "KIS 0114-KDIP2-1.4010.651.2025.4.PP — Planowana wypłata zysku wypracowanego przez wspólnika w okresie prowadzenia jednoosobowej działalności gospodarczej nie ",
+  "last_modified": "2026-01-30",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "48ba695b901e6802e68f63a0aaab8d3f2e60a9f65c9e34da66d6e0a09915350f",
+  "quality_flag": "accepted",
+  "notes": "phrase='art 5841 ksh przeksztalcenie przedsiebiorcy', hot_hint=przeksztalcenie_jdg_spzoo",
+  "headers": {}
+}

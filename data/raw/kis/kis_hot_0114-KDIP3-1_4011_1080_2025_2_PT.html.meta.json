@@ -1,0 +1,28 @@
+{
+  "id": "9e0f7f2b19520933",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/681928",
+  "source": "kis",
+  "topic_ids": [
+    "vat_zwolnienie_200k",
+    "rodo_rekrutacja",
+    "b2b_test_samozatrudnienia",
+    "b2b_zmiana_na_uop"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:41Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 52157,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP3-1_4011_1080_2025_2_PT.html",
+  "title": "KIS 0114-KDIP3-1.4011.1080.2025.2.PT — Kwota umorzonego zobowiązania wynikającego z umowy pożyczki stanowić będzie dla Wnioskodawcy przychód z działalności gos",
+  "last_modified": "2026-02-27",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "9e0f7f2b195209337ecc883626d5a847da2de535809496e410eefaf94f7d4e5d",
+  "quality_flag": "accepted",
+  "notes": "phrase='art 22 kodeksu pracy samozatrudnienie', hot_hint=b2b_zmiana_na_uop",
+  "headers": {}
+}

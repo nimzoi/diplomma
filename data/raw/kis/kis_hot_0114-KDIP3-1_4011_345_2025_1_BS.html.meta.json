@@ -1,0 +1,25 @@
+{
+  "id": "e622c7ed7fd2a2ae",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/639489",
+  "source": "kis",
+  "topic_ids": [
+    "dac7_platformy"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:19Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 37731,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP3-1_4011_345_2025_1_BS.html",
+  "title": "KIS 0114-KDIP3-1.4011.345.2025.1.BS — Sprzedaż kart kolekcjonerskich, dokonana po upływie pół roku, licząc od końca miesiąca, w którym nastąpiło nabycie ww. p",
+  "last_modified": "2025-05-16",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "e622c7ed7fd2a2aea38a91ef230e470a46f396837f89699a986ca13aeee82e7d",
+  "quality_flag": "accepted",
+  "notes": "phrase='operator platformy DAC7', hot_hint=dac7_platformy",
+  "headers": {}
+}

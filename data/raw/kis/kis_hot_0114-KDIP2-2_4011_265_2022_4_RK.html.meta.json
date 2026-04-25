@@ -1,0 +1,26 @@
+{
+  "id": "e8739bec1d731963",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/501097",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ryczalt",
+    "przeksztalcenie_jdg_spzoo"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:38Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 63716,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-2_4011_265_2022_4_RK.html",
+  "title": "KIS 0114-KDIP2-2.4011.265.2022.4.RK — Możliwość opodatkowania przychodów jako przychodów z najmu prywatnego w formie ryczałtu ewidencjonowanego.",
+  "last_modified": "2022-07-14",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "e8739bec1d731963420e9f10a8cc337bf55f6c1f0b1ba719d864e8104dba2bf6",
+  "quality_flag": "accepted",
+  "notes": "phrase='przeksztalcenie jednoosobowej dzialalnosci spolka', hot_hint=przeksztalcenie_jdg_spzoo",
+  "headers": {}
+}

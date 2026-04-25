@@ -1,0 +1,41 @@
+{
+  "id": "68ea90eb44b67489",
+  "url": "https://www.gov.pl/attachment/525b9889-265d-47b1-9718-328878913018",
+  "source": "govpl",
+  "topic_ids": [
+    "jpk_cit_jpk_kr"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T20:47:00Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 111586,
+  "relative_path": "raw/govpl/govpl_hot_Errata_do_broszury_informacyjnej_dotycz_cej_struktury_JPK__8203__ST__8203__KR_1_.pdf",
+  "title": "Errata do broszury informacyjnej dotyczącej struktury JPK&#8203;_ST&#8203;_KR(1) errata-broszura-jpk&#8203;_st&#8203;_kr-w1.pdf 0.11MB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/kas/struktury-jpk-w-podatkach-dochodowych",
+  "discovery_source": "hot2025_attachment",
+  "sha256": "68ea90eb44b6748915fd60a547c23a5d67aa6ddc45532a988f9b990c9d7985bd",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=jpk_cit_jpk_kr",
+  "headers": {
+    "last-modified": "Tue, 25 Nov 2025 14:57:58 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''errata-broszura-jpk_st_kr-w1.pdf",
+    "etag": "\"068ea90eb44b6748915fd60a547c23a5d\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "111586",
+    "date": "Sat, 25 Apr 2026 20:50:35 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 20:47:00 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  }
+}

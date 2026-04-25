@@ -1,0 +1,25 @@
+{
+  "id": "e11aab31decfb53d",
+  "url": "https://www.biznes.gov.pl/pl/portal/006390",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "jpk_cit_jpk_kr"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:45:24Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 52412,
+  "relative_path": "raw/biznes_html/bizgov_hot_006390.html",
+  "title": "Zmiany podatkowe od 2026 roku – co musisz wiedzieć | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_whitelist",
+  "sha256": "e11aab31decfb53dcbd6a8c4a7294a338464d7bba0f1526eeb2c0eacc877b06c",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=jpk_cit_jpk_kr",
+  "headers": {}
+}

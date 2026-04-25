@@ -1,0 +1,25 @@
+{
+  "id": "0d04a6aa67dbbce2",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/679905",
+  "source": "kis",
+  "topic_ids": [
+    "przeksztalcenie_jdg_spzoo"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:42Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 102918,
+  "relative_path": "raw/kis/kis_hot_0113-KDIPT2-3_4011_1045_2021_11_AK.html",
+  "title": "KIS 0113-KDIPT2-3.4011.1045.2021.11.AK — Skutki podatkowe wypłaty zysku wypracowanego do dnia przekształcenia jednoosobowej działalności gospodarczej w spółkę z ",
+  "last_modified": "2026-02-17",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "0d04a6aa67dbbce2816aa9da5dfc3438f6ee0321c90a0fc72e80a63273f221e3",
+  "quality_flag": "accepted",
+  "notes": "phrase='art 5841 ksh przeksztalcenie przedsiebiorcy', hot_hint=przeksztalcenie_jdg_spzoo",
+  "headers": {}
+}

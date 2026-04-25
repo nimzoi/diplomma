@@ -1,0 +1,26 @@
+{
+  "id": "d11142ab6e612ae6",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/165700",
+  "source": "kis",
+  "topic_ids": [
+    "vat_zwolnienie_200k",
+    "faktoring_cesja_wierzytelnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:53Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 90520,
+  "relative_path": "raw/kis/kis_hot_IPPP3_443-659_12-3_RD.html",
+  "title": "KIS IPPP3/443-659/12-3/RD — W przedmiotowej sprawie należy zgodzić się z Wnioskodawcą, iż transakcja sprzedaży dotycząca tej części Nieruchomości, w",
+  "last_modified": "2012-09-07",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "d11142ab6e612ae6efd1917fe668af73de38d994b317ddf5074f1d016c93f1ec",
+  "quality_flag": "accepted",
+  "notes": "phrase='cesja wierzytelnosci podatek', hot_hint=faktoring_cesja_wierzytelnosci",
+  "headers": {}
+}

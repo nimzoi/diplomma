@@ -1,0 +1,26 @@
+{
+  "id": "fc4520a976e4afb9",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/684494",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ip_box",
+    "kasa_fiskalna_online"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:14Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 487813,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB1-3_4010_802_2025_2_JKU.html",
+  "title": "KIS 0111-KDIB1-3.4010.802.2025.2.JKU — Skoro Wnioskodawca skomercjalizował wytworzone i rozwinięte przez Spółkę kwalifikowane prawo własności intelektualnej w ",
+  "last_modified": "2026-03-26",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "fc4520a976e4afb9e496e8aeab6444c8fae88f709c2c1aee422b3305cee8927d",
+  "quality_flag": "accepted",
+  "notes": "phrase='ulga na zakup kasy fiskalnej', hot_hint=kasa_fiskalna_online",
+  "headers": {}
+}

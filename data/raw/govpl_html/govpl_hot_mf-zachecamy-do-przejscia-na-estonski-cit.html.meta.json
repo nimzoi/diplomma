@@ -1,0 +1,43 @@
+{
+  "id": "bf4abf03b6e81e7c",
+  "url": "https://www.gov.pl/web/finanse/mf-zachecamy-do-przejscia-na-estonski-cit",
+  "source": "govpl",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:47:09Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 33524,
+  "relative_path": "raw/govpl_html/govpl_hot_mf-zachecamy-do-przejscia-na-estonski-cit.html",
+  "title": "MF: Zachęcamy do przejścia na estoński CIT - Ministerstwo Finansów - Portal Gov.pl",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_seed",
+  "sha256": "bf4abf03b6e81e7c8719837bde04ddd2544ab1c87de5bf74caa7fd6205233770",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=estonski_cit",
+  "headers": {
+    "content-type": "text/html;charset=UTF-8",
+    "date": "Sat, 25 Apr 2026 20:50:44 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-frame-options": "SAMEORIGIN",
+    "feature-policy": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vibrate 'none'; vr 'none'",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), sync-xhr=(), usb=()",
+    "cache-control": "max-age=600",
+    "expires": "Sat, 25 Apr 2026 20:57:09 GMT",
+    "etag": "W/\"0bf4abf03b6e81e7c8719837bde04ddd2\"",
+    "content-encoding": "gzip",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload",
+    "transfer-encoding": "chunked"
+  }
+}

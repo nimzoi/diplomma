@@ -1,0 +1,27 @@
+{
+  "id": "c741cf341b3e101b",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686440",
+  "source": "kis",
+  "topic_ids": [
+    "zus_preferencyjny",
+    "pit_ip_box",
+    "kasa_fiskalna_online"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:12Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 135789,
+  "relative_path": "raw/kis/kis_hot_0113-KDIPT2-1_4011_126_2026_1_ISL.html",
+  "title": "KIS 0113-KDIPT2-1.4011.126.2026.1.ISL — Możliwość skorzystania z preferencyjnego opodatkowania dochodów z kwalifikowanych praw własności intelektualnej (tzw. IP",
+  "last_modified": "2026-04-07",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "c741cf341b3e101b79ed963ce44dc723d62573b73722379d54201d00fe954004",
+  "quality_flag": "accepted",
+  "notes": "phrase='ulga na zakup kasy fiskalnej', hot_hint=kasa_fiskalna_online",
+  "headers": {}
+}

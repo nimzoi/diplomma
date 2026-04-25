@@ -1,0 +1,25 @@
+{
+  "id": "893118d523808b1c",
+  "url": "https://www.biznes.gov.pl/pl/portal/ou78",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:44:22Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 62118,
+  "relative_path": "raw/biznes_html/bizgov_hot_ou78.html",
+  "title": "Zeznanie podatkowe CIT-8e",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_whitelist",
+  "sha256": "893118d523808b1cf5ce09d0935818a16f7858bed705922205b27081f1f0eea2",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=estonski_cit",
+  "headers": {}
+}

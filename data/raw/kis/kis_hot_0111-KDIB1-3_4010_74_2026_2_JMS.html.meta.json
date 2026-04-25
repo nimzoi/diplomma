@@ -1,0 +1,25 @@
+{
+  "id": "5219db8ea4b61b77",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687336",
+  "source": "kis",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:02Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 70497,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB1-3_4010_74_2026_2_JMS.html",
+  "title": "KIS 0111-KDIB1-3.4010.74.2026.2.JMS — Ustalenie, czy koszt kary pieniężnej za nierealizowanie obowiązków w zakresie NCR (dalej: „Kara”), która może zostać nał",
+  "last_modified": "2026-04-14",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "5219db8ea4b61b77bc73cf45f45af4aa5dae5467ed41f7e08ebe3362aa67974f",
+  "quality_flag": "accepted",
+  "notes": "phrase='ukryte zyski estonski CIT', hot_hint=estonski_cit",
+  "headers": {}
+}

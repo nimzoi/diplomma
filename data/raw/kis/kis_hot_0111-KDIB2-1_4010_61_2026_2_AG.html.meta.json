@@ -1,0 +1,25 @@
+{
+  "id": "ed8fc6efd8af9e9e",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686399",
+  "source": "kis",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:06Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 79877,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB2-1_4010_61_2026_2_AG.html",
+  "title": "KIS 0111-KDIB2-1.4010.61.2026.2.AG — Skuteczność wyboru ryczałtu od dochodów spółek.",
+  "last_modified": "2026-04-10",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "ed8fc6efd8af9e9ed6c691f0ed2bab7a5184280fc476aa5cb2accf0b7d7fa3c1",
+  "quality_flag": "accepted",
+  "notes": "phrase='CIT-8E warunki', hot_hint=estonski_cit",
+  "headers": {}
+}

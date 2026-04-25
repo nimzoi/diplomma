@@ -1,0 +1,26 @@
+{
+  "id": "7fb9c50e29511bb1",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/674323",
+  "source": "kis",
+  "topic_ids": [
+    "vat_zwolnienie_200k",
+    "crbr_beneficjent_rzeczywisty"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:35Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 93397,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB2-1_4010_535_2025_1_AJ.html",
+  "title": "KIS 0111-KDIB2-1.4010.535.2025.1.AJ — Uprawnienie do skorzystania ze zwolnienia przewidzianego w art. 24o ustawy o podatku dochodowym od osób prawnych w stosu",
+  "last_modified": "2026-01-05",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "7fb9c50e29511bb16723bcd6483c1949090d1c24e2143e4e3343da252a511e55",
+  "quality_flag": "accepted",
+  "notes": "phrase='CRBR beneficjent rzeczywisty', hot_hint=crbr_beneficjent_rzeczywisty",
+  "headers": {}
+}

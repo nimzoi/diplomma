@@ -1,0 +1,27 @@
+{
+  "id": "dc41732b00625278",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/685087",
+  "source": "kis",
+  "topic_ids": [
+    "zus_preferencyjny",
+    "pit_ip_box",
+    "kasa_fiskalna_online"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:13Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 240464,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP3-1_4011_60_2026_2_PT.html",
+  "title": "KIS 0114-KDIP3-1.4011.60.2026.2.PT — Preferencyjne opodatkowanie dochodów z kwalifikowanych praw własności intelektualnej preferencyjną stawką podatku (tzw. ",
+  "last_modified": "2026-03-24",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "dc41732b00625278833310679dc0ad7af73f21f40c08ebc5663474d5ea6481a4",
+  "quality_flag": "accepted",
+  "notes": "phrase='ulga na zakup kasy fiskalnej', hot_hint=kasa_fiskalna_online",
+  "headers": {}
+}

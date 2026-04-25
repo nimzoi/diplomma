@@ -1,0 +1,25 @@
+{
+  "id": "8a6bc0a86ecfdc02",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/679045",
+  "source": "kis",
+  "topic_ids": [
+    "jpk_cit_jpk_kr"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:02Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 136789,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB2-1_4010_585_2025_1_AJ.html",
+  "title": "KIS 0111-KDIB2-1.4010.585.2025.1.AJ — W zakresie obowiązku składania JPK_KR_PD wraz z dodatkowymi danymi dla samobilansujących się oddziałów zagranicznych w r",
+  "last_modified": "2026-02-06",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "8a6bc0a86ecfdc02a1da2fc08004d6c9d44db466494d3b2be930253b0048988f",
+  "quality_flag": "accepted",
+  "notes": "phrase='JPK_CIT JPK_KR_PD obowiazek', hot_hint=jpk_cit_jpk_kr",
+  "headers": {}
+}

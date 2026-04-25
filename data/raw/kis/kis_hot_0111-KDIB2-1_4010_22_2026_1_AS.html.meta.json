@@ -1,0 +1,25 @@
+{
+  "id": "84ed754f436007f2",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/682503",
+  "source": "kis",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:08Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 35443,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB2-1_4010_22_2026_1_AS.html",
+  "title": "KIS 0111-KDIB2-1.4010.22.2026.1.AS — W zakresie ustalenia, czy przed upływem 4-letniego okresu wykazanego w ZAW-RD (1 października 2023 r. do 31 grudnia 2027",
+  "last_modified": "2026-03-11",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "84ed754f436007f26ed9f1ba8c7f2e1e5de7e01065fcdf0f6fe42b276e7e0f71",
+  "quality_flag": "accepted",
+  "notes": "phrase='CIT-8E warunki', hot_hint=estonski_cit",
+  "headers": {}
+}

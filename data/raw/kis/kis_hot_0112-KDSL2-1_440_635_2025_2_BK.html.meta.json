@@ -1,0 +1,27 @@
+{
+  "id": "e471ab6ed4fb9cad",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/678795",
+  "source": "kis",
+  "topic_ids": [
+    "rodo_rekrutacja",
+    "b2b_test_samozatrudnienia",
+    "b2b_zmiana_na_uop"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:48Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 89768,
+  "relative_path": "raw/kis/kis_hot_0112-KDSL2-1_440_635_2025_2_BK.html",
+  "title": "KIS 0112-KDSL2-1.440.635.2025.2.BK — WIS USŁUGA – wstęp na zajęcia prowadzone przez instruktora zatrudnionego przez Wnioskodawcę.",
+  "last_modified": "2026-02-03",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "e471ab6ed4fb9cad0e07bcf29ceb2df64f7c69705668f51c0a950058cab7d1a4",
+  "quality_flag": "accepted",
+  "notes": "phrase='ukryte zatrudnienie b2b', hot_hint=b2b_zmiana_na_uop",
+  "headers": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "adc671d744680e08",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/677475",
+  "source": "kis",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:48:58Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 58683,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-2_4010_566_2025_2_ASK.html",
+  "title": "KIS 0114-KDIP2-2.4010.566.2025.2.ASK — Uznanie, że Spółka skutecznie wybrała formę opodatkowania ryczałtem od dochodów spółek pomimo sporządzenia rocznego spra",
+  "last_modified": "2026-01-29",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "adc671d744680e087bbb9d50d1fd72ae85c7268c31f8894e091e338c4773ae40",
+  "quality_flag": "accepted",
+  "notes": "phrase='estonski CIT ryczalt od dochodow spolek', hot_hint=estonski_cit",
+  "headers": {}
+}

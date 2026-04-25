@@ -1,0 +1,27 @@
+{
+  "id": "472636383453aac2",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/480111",
+  "source": "kis",
+  "topic_ids": [
+    "zus_preferencyjny",
+    "pit_ip_box",
+    "przeksztalcenie_jdg_spzoo"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:39Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 93305,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-1_4011_462_2021_2_KS.html",
+  "title": "KIS 0114-KDIP2-1.4011.462.2021.2.KS — Opodatkowanie dochodów z kwalifikowanych praw własności intelektualnej preferencyjną stawką podatkową (tzw. IP Box)",
+  "last_modified": "2022-02-08",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "472636383453aac2d8fae4d366a686e8fec612409584b560e47d0db6bc9cb850",
+  "quality_flag": "accepted",
+  "notes": "phrase='przeksztalcenie jednoosobowej dzialalnosci spolka', hot_hint=przeksztalcenie_jdg_spzoo",
+  "headers": {}
+}

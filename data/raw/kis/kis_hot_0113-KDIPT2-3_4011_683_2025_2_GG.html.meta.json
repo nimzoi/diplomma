@@ -1,0 +1,27 @@
+{
+  "id": "fea0747240e183d8",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/663575",
+  "source": "kis",
+  "topic_ids": [
+    "rodo_rekrutacja",
+    "b2b_test_samozatrudnienia",
+    "b2b_zmiana_na_uop"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:42Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 139481,
+  "relative_path": "raw/kis/kis_hot_0113-KDIPT2-3_4011_683_2025_2_GG.html",
+  "title": "KIS 0113-KDIPT2-3.4011.683.2025.2.GG — Opodatkowanie wartości finansowanych noclegów dla Zleceniobiorców jako przychodu z tytułu nieodpłatnych świadczeń.",
+  "last_modified": "2025-10-23",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "fea0747240e183d8c244b250edc3462ca215e35daf44a67aa914c5dfb5e8ece8",
+  "quality_flag": "accepted",
+  "notes": "phrase='art 22 kodeksu pracy samozatrudnienie', hot_hint=b2b_zmiana_na_uop",
+  "headers": {}
+}

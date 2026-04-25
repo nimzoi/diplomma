@@ -1,0 +1,26 @@
+{
+  "id": "f27678ce3a46c4cb",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/684394",
+  "source": "kis",
+  "topic_ids": [
+    "pit_kup",
+    "faktoring_cesja_wierzytelnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:50Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 97013,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP4-1_4012_195_2026_3_AK.html",
+  "title": "KIS 0114-KDIP4-1.4012.195.2026.3.AK — Uznanie sprzedaży licencji za czynność podlegającą opodatkowaniu oraz brak prawa do odliczenia podatku naliczonego związ",
+  "last_modified": "2026-03-20",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "f27678ce3a46c4cb2801d1015055547212a73ba95036a9fc547c49f06cc9e6d7",
+  "quality_flag": "accepted",
+  "notes": "phrase='faktoring koszty uzyskania przychodow', hot_hint=faktoring_cesja_wierzytelnosci",
+  "headers": {}
+}

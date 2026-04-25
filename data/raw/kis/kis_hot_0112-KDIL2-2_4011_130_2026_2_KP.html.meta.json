@@ -1,0 +1,26 @@
+{
+  "id": "9ad15983606ab357",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687170",
+  "source": "kis",
+  "topic_ids": [
+    "pit_ryczalt",
+    "kasa_fiskalna_online"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:07Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 126589,
+  "relative_path": "raw/kis/kis_hot_0112-KDIL2-2_4011_130_2026_2_KP.html",
+  "title": "KIS 0112-KDIL2-2.4011.130.2026.2.KP — Opodatkowanie ryczałtem od przychodów ewidencjonowanych.",
+  "last_modified": "2026-04-10",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "9ad15983606ab357dad79714ce27d4187058db71908a90647babb91c49d5f206",
+  "quality_flag": "accepted",
+  "notes": "phrase='kasa fiskalna online obowiazek', hot_hint=kasa_fiskalna_online",
+  "headers": {}
+}

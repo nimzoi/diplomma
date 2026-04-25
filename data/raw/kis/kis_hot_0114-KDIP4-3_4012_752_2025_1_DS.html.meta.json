@@ -1,0 +1,27 @@
+{
+  "id": "bff21a7d92f75a6b",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/684309",
+  "source": "kis",
+  "topic_ids": [
+    "pit_kup",
+    "vat_ksef",
+    "faktoring_cesja_wierzytelnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:49Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 107658,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP4-3_4012_752_2025_1_DS.html",
+  "title": "KIS 0114-KDIP4-3.4012.752.2025.1.DS — Rozliczenie dokonywane w ramach Umowy zawartej pomiędzy Wnioskodawcą a Kontrahentem, nie jest objęte obowiązkiem oznacza",
+  "last_modified": "2026-03-20",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "bff21a7d92f75a6b16d5510cfef46af12af108ae0f0ab602e4259de68c045ed7",
+  "quality_flag": "accepted",
+  "notes": "phrase='faktoring koszty uzyskania przychodow', hot_hint=faktoring_cesja_wierzytelnosci",
+  "headers": {}
+}

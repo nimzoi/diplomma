@@ -1,0 +1,25 @@
+{
+  "id": "17c7a1bb1d92e66a",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/348948",
+  "source": "kis",
+  "topic_ids": [
+    "faktoring_cesja_wierzytelnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:54Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 61072,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP1-2_4012_236_2017_1_SM.html",
+  "title": "KIS 0114-KDIP1-2.4012.236.2017.1.SM — w zakresie rozpoznania importu usług zwolnionych od podatku i obowiązku zapłaty podatku",
+  "last_modified": "2017-09-07",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "17c7a1bb1d92e66a91fc488f4bd26c85ae9c5bdc031a33edb05c6bdb130d56dc",
+  "quality_flag": "accepted",
+  "notes": "phrase='cesja wierzytelnosci podatek', hot_hint=faktoring_cesja_wierzytelnosci",
+  "headers": {}
+}

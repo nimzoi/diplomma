@@ -1,0 +1,26 @@
+{
+  "id": "9c390906574222c2",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/120946",
+  "source": "kis",
+  "topic_ids": [
+    "vat_zwolnienie_200k",
+    "faktoring_cesja_wierzytelnosci"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:54Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 35272,
+  "relative_path": "raw/kis/kis_hot_IPPP2-443-413_11-2_IZ.html",
+  "title": "KIS IPPP2-443-413/11-2/IZ — Otrzymywanego przez Stronę wynagrodzenia z tytułu udzielenia kontrahentowi finansowania w postaci dyskonta od nabytych w",
+  "last_modified": "2011-07-01",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "9c390906574222c28bc1345c6b75a80edb89d1efddcbeb321c267bd7bc947cfd",
+  "quality_flag": "accepted",
+  "notes": "phrase='cesja wierzytelnosci podatek', hot_hint=faktoring_cesja_wierzytelnosci",
+  "headers": {}
+}

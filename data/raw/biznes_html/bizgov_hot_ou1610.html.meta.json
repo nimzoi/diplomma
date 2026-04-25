@@ -1,0 +1,26 @@
+{
+  "id": "c78a39ec5e066e4f",
+  "url": "https://www.biznes.gov.pl/pl/portal/ou1610",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "rodo_rekrutacja",
+    "zatrudnianie_cudzoziemcow"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:44:17Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 77554,
+  "relative_path": "raw/biznes_html/bizgov_hot_ou1610.html",
+  "title": "Oświadczenie o zatrudnieniu cudzoziemca",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_whitelist",
+  "sha256": "c78a39ec5e066e4f1875bdf687967c1cf982f025ec13463e858bc30534ff2572",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=zatrudnianie_cudzoziemcow",
+  "headers": {}
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f270ecb4a2ccd8da",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/671811",
+  "source": "kis",
+  "topic_ids": [
+    "estonski_cit",
+    "przeksztalcenie_jdg_spzoo"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:44Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 55775,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-2_4010_489_2025_3_PK.html",
+  "title": "KIS 0114-KDIP2-2.4010.489.2025.3.PK — Uznanie przekształconej jdg w sp. z o.o. za podatnika rozpoczynającego działalność lub małego podatnika.",
+  "last_modified": "2025-12-12",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "f270ecb4a2ccd8dabeedfe6981d9416ddf368db4d8cce2a1c7c625edd45c8050",
+  "quality_flag": "accepted",
+  "notes": "phrase='art 5841 ksh przeksztalcenie przedsiebiorcy', hot_hint=przeksztalcenie_jdg_spzoo",
+  "headers": {}
+}

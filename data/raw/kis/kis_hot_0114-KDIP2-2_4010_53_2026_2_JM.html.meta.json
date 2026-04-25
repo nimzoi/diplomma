@@ -1,0 +1,25 @@
+{
+  "id": "d3be24cd4005ab06",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686837",
+  "source": "kis",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:02Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 83011,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-2_4010_53_2026_2_JM.html",
+  "title": "KIS 0114-KDIP2-2.4010.53.2026.2.JM — Ponoszenie przez Spółkę wydatków na najem Budynku od Wspólnika Spółki nie będzie stanowiło dochodu z tytułu ukrytego zys",
+  "last_modified": "2026-04-10",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "d3be24cd4005ab0687bdb012e51c34c54490e5984c098b85d19703d4dd51cb61",
+  "quality_flag": "accepted",
+  "notes": "phrase='ukryte zyski estonski CIT', hot_hint=estonski_cit",
+  "headers": {}
+}

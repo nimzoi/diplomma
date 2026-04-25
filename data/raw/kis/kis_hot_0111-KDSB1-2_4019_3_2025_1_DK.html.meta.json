@@ -1,0 +1,25 @@
+{
+  "id": "8581720b52290557",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/627272",
+  "source": "kis",
+  "topic_ids": [
+    "dac7_platformy"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:12Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 105606,
+  "relative_path": "raw/kis/kis_hot_0111-KDSB1-2_4019_3_2025_1_DK.html",
+  "title": "KIS 0111-KDSB1-2.4019.3.2025.1.DK — Wymiana informacji podatkowych z innymi Państwami – uznanie Oprogramowania za Platformę, uznanie podmiotu za posiadające",
+  "last_modified": "2025-02-21",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "8581720b522905577d4a87410cdaf2ebfdb9d14da64e18fdd7604cee83343fd7",
+  "quality_flag": "accepted",
+  "notes": "phrase='DAC7 platformy cyfrowe', hot_hint=dac7_platformy",
+  "headers": {}
+}

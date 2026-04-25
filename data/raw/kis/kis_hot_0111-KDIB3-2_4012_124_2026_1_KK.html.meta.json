@@ -1,0 +1,25 @@
+{
+  "id": "60f2728cf2ff149f",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/687533",
+  "source": "kis",
+  "topic_ids": [
+    "kasa_fiskalna_online"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:06Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 59074,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB3-2_4012_124_2026_1_KK.html",
+  "title": "KIS 0111-KDIB3-2.4012.124.2026.1.KK — Brak prawa do zwrotu kwoty wydatkowanej",
+  "last_modified": "2026-04-15",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "60f2728cf2ff149f934244b87ce242ac2b94902cbfca032a0ec83eb83d046b4e",
+  "quality_flag": "accepted",
+  "notes": "phrase='kasa fiskalna online obowiazek', hot_hint=kasa_fiskalna_online",
+  "headers": {}
+}

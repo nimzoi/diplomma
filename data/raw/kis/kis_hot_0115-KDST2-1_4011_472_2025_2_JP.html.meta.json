@@ -1,0 +1,25 @@
+{
+  "id": "28f8ca09c3a7f764",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/668271",
+  "source": "kis",
+  "topic_ids": [
+    "pomoc_de_minimis"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:17Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 134429,
+  "relative_path": "raw/kis/kis_hot_0115-KDST2-1_4011_472_2025_2_JP.html",
+  "title": "KIS 0115-KDST2-1.4011.472.2025.2.JP — Skutki podatkowe zawarcia ugody z bankiem w związku z kredytem hipotecznym.",
+  "last_modified": "2025-11-26",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "28f8ca09c3a7f764550a27452b0853d9f929cfe5e4ee1bcf1e202cdfe4e0e1d3",
+  "quality_flag": "accepted",
+  "notes": "phrase='pomoc de minimis 300 tys', hot_hint=pomoc_de_minimis",
+  "headers": {}
+}

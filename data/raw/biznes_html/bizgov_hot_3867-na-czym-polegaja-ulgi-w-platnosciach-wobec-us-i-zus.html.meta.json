@@ -1,0 +1,25 @@
+{
+  "id": "784bb580f7363de5",
+  "url": "https://www.biznes.gov.pl/pl/publikacje/3867-na-czym-polegaja-ulgi-w-platnosciach-wobec-us-i-zus",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "pomoc_de_minimis"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:44:50Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 49036,
+  "relative_path": "raw/biznes_html/bizgov_hot_3867-na-czym-polegaja-ulgi-w-platnosciach-wobec-us-i-zus.html",
+  "title": "Strona główna | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_whitelist",
+  "sha256": "784bb580f7363de5dcf18c9d35b16144d0c26ca6921d336e6275d4de387f08c4",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=pomoc_de_minimis",
+  "headers": {}
+}

@@ -1,0 +1,2266 @@
+
+
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+   
+    <meta name="language" content="pl" /> <!-- Dodane -->
+    ﻿
+
+
+
+
+<meta name="robots" content="index, follow" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="description" content="portal podatki.gov.pl " />
+<meta name="author" content="MF" />
+<title>Serwis o podatkach - DPI (Digital Platform Information)  </title>
+
+
+   
+
+    <script>
+         
+        var cat = localStorage.getItem("matomoConsentChoice:v2");       
+         console.log("test");
+        console.log(cat);
+        if(cat==null || cat=="declined" || cat=="customNO"){
+             const cookies = document.cookie.split(";");
+
+             for (let i = 0; i < cookies.length; i++) {
+                    const cookie = cookies[i];
+                    const eqPos = cookie.indexOf("=");
+                     const name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+                        // Ustawiamy datę wygaśnięcia na 1 sty 1970
+                       document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/";
+                        }
+        }
+        else{
+        (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N2PN2W8');
+        }</script>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2PN2W8"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    
+
+
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css?v=PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g" />
+    <link rel="stylesheet" href="/bootstrap/css/style.css?v=w5__G1AJelp1axnpLZML3pfg1HCVm2ZZJUsX6VzrRGg" />
+    <link rel="stylesheet" href="/bootstrap/css/cookieconsent.min.css?v=psHBeH_tZbqrO3-El-uCgUsKqrC9Mm1KqQMkGfJvlIY" />
+    <script src="/scripts/zawbi_banner.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/zawbi_banner.css">
+
+
+    <script src="/scripts/jquery-3.6.0.min.js"></script>
+    
+</head>
+<body>
+        <div id="scrollDown"><div id="scrollDownAfter"></div></div>
+
+    
+
+
+<div class="umb-block-grid"
+     data-grid-columns="12;"
+     style="--umb-block-grid--grid-columns: 12;">
+    
+
+
+
+
+
+<header class="masthead">
+	<!-- Pasek nawigacji -->
+
+	<nav class="navbar navbar-expand-lg border-bottom">
+		<div class="container-fluid">
+			<button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon color-mobile-icon"></span>
+			</button>
+				<h1>
+					<a class="navbar-brand" href="/">
+						<img src="/media/o04cxeqb/godlopolski.svg?width=50&amp;v=1dc5e5fcd69a870" alt="God&#x142;o Polski" height="50" class="d-inline-block align-text-center">podatki.gov.pl					</a>
+				</h1>
+
+			<div class="offcanvas">
+				<ul class="navbar-nav justify-content-end">
+					<li class="nav-item p-2">
+						<form class="d-flex" role="search" action="/nowe-wyszukiwanie/">
+							<input type="search" class="form-control me-2" placeholder="Wpisz min. 3... znaki" aria-label="Szukaj" id="query" name="query">
+							<button type="submit" class="search-submit-btn">Szukaj</button>
+						</form>
+					</li>
+
+
+					<li class="nav-item p-2">
+						<a class="btn btn-primary" href="https://urzadskarbowy.gov.pl/">Zaloguj się do e-Urzędu Skarbowego</a>
+					</li>
+				</ul>
+			</div>
+			<a class="search-link" href="/nowe-wyszukiwanie/"><i class="color-mobile-icon fas fa-search"></i></a>
+
+		</div>
+	</nav>
+
+
+	<div class="offcanvas offcanvas-end" tabindex="-1" id="navbarToggleExternalContent" aria-labelledby="offcanvasTopLabel">
+		<div class="offcanvas-header justify-content-between">
+			<button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+		</div>
+
+
+		<div class="offcanvas-body">
+			<div class="offcanvas-body">
+				<div class="accordion accordion-flush" id="accordionFlushMobile">
+												<div class="accordion-item">
+													<h2 class="accordion-header mobile-accordion-header" id="flush-headingMobile_osobiste">
+															<button class="accordion-button collapsed primary fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseMobile_osobiste" aria-expanded="false" aria-controls="flush-collapseMobile_osobiste">
+															Podatki osobiste
+															</button>
+													</h2>
+													<div id="flush-collapseMobile_osobiste" class="accordion-collapse collapse" aria-labelledby="flush-headingMobile_osobiste" data-bs-parent="#accordionFlushMobile">
+														<div class="accordion-body mb-4">
+																	<h3 class="fw-bold mb-4">Od dochodu</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/podatki-osobiste/pit/informacje-podstawowe/" title="Informacje podstawowe"><strong>PIT</strong></a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/" title="Informacje podstawowe">Informacje podstawowe</a></p>
+<p><a href="/podatki-osobiste/pit/ulgi-i-odliczenia/" title="Ulgi i odliczenia">Ulgi i odliczenia</a></p>
+<p><a href="/podatki-osobiste/pit/stawki-i-limity/" title="Stawki i limity">Stawki i limity</a></p>
+<p><a href="/podatki-osobiste/pit/formularze/" title="Formularze">Formularze</a></p>
+																</div>
+																	<h4 data-bs-toggle="collapse" href="#collapseMobile_osobiste0" role="button" aria-expanded="false" aria-controls="collapseMobile_osobiste0"><img src="/assets/ICONS/Caretdown.svg"><strong>Wybierz swoją sytuację</strong></h4>
+																	<ul class="list-unstyled collapse mx-4" id="collapseMobile_osobiste0">
+																		<h3><strong>Wybierz swoją sytuację</strong></h3>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-pracy/" title="Dochody z pracy">Mam dochody z pracy</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-pracy-wykonywanej-za-granica/" title="Dochody z pracy wykonywanej za granicą">Mam dochody z pracy wykonywanej za granicą</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-umowy-zlecenia-lub-o-dzielo/" title="Dochody z umowy zlecenia lub o dzieło">Mam dochody z umowy zlecenia lub o dzieło</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-praw-autorskich/" title="Dochody z praw autorskich">Mam dochody z praw autorskich</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-najmu/" title="Dochody z najmu">Mam dochody z najmu</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-dzialalnosci-nierejestrowanej/" title="Dochody z działalności nierejestrowanej">Mam dochody z działalności nierejestrowanej</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-niani/" title="Dochody niani">Mam dochody niani</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-emerytury-lub-renty/" title="Dochody z emerytury lub renty">Mam dochody z emerytury</a></p>
+																	</ul>
+																	<hr />
+																	<h3 class="fw-bold mb-4">Od maj&#x105;tku</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/podatki-osobiste/sd/informacje-podstawowe/" title="Informacje podstawowe">Spadki i darowizny (<strong>SD</strong>)</a></p>
+<p><a href="/podatki-osobiste/pcc/informacje-podstawowe/" title="Informacje podstawowe">Czynności cywilnoprawne (<strong>PCC</strong>)</a></p>
+																</div>
+																	<h3 class="fw-bold mb-4">Od zakup&#xF3;w</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/akcyza/informacje-podstawowe/" title="Informacje podstawowe">Akcyza</a></p>
+<p><a href="/podatki-firmowe/vat/" title="VAT">VAT</a></p>
+																</div>
+																	<h3 class="fw-bold mb-4">Pozosta&#x142;e</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/pozostale/podatek-od-gier/informacje-podstawowe/" title="Informacje podstawowe">Podatek od gier</a></p>
+<p><a href="/podatki-lokalne/" title="Podatki lokalne">Podatki lokalne</a></p>
+<p><a href="/interpretacje-podatkowe/" title="Interpretacje podatkowe">Interpretacje podatkowe</a></p>
+																</div>
+														</div>
+													</div>
+												</div>
+												<div class="accordion-item">
+													<h2 class="accordion-header mobile-accordion-header" id="flush-headingMobile_firmowe">
+															<button class="accordion-button collapsed primary fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseMobile_firmowe" aria-expanded="false" aria-controls="flush-collapseMobile_firmowe">
+															Podatki dla przedsi&#x119;biorc&#xF3;w
+															</button>
+													</h2>
+													<div id="flush-collapseMobile_firmowe" class="accordion-collapse collapse" aria-labelledby="flush-headingMobile_firmowe" data-bs-parent="#accordionFlushMobile">
+														<div class="accordion-body mb-4">
+																	<h3 class="fw-bold mb-4">Podstawowe podatki dla przedsi&#x119;biorc&#xF3;w</h3>
+																			<ul class="nav nav-tabs" role="tablist">
+																				
+
+
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/podatki-firmowe/pit/informacje-podstawowe/" title="">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							PIT
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/podatki-firmowe/cit/informacje-podstawowe/" title="CIT">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							CIT
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/podatki-firmowe/vat/" title="">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							VAT
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/" title="JPK">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							<p>JPK</p>
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/akcyza/informacje-podstawowe/" title="">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							Akcyza
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+
+
+																			</ul>
+																<div class="fw-bold mb-4">
+																	
+																</div>
+																	<h3 class="fw-bold mb-4">Pozosta&#x142;e podatki</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/podatki-osobiste/pcc/informacje-podstawowe/" title="Informacje podstawowe">od czynności cywilnoprawnych (<strong>PCC</strong>)</a></p>
+<p><a href="/podatki-osobiste/sd/informacje-podstawowe/" title="Informacje podstawowe">od spadków i darowizn (<strong>SD</strong>)</a></p>
+<p><a href="/pozostale/podatek-tonazowy/informacje-podstawowe/" title="Informacje podstawowe">tonażowy</a></p>
+<p><a href="/pozostale/podatek-od-gier/informacje-podstawowe/" title="Informacje podstawowe">od gier</a></p>
+<p><a href="/pozostale/podatek-od-sprzedazy-detalicznej/informacje-podstawowe/" title="Informacje podstawowe">od sprzedaży detalicznej</a></p>
+<p><a href="/pozostale/podatek-od-wydobycia-niektorych-kopalin/informacje-podstawowe/" title="Informacje podstawowe">od wydobycia niektórych kopalin</a></p>
+<p><a href="/pozostale/podatek-od-niektorych-instytucji-finansowych/informacje-podstawowe/" title="Informacje podstawowe">od niektórych instytucji finansowych</a></p>
+<p><a href="/pozostale/oplata-od-sprzedazy-alkoholu-w-opak-do-300-ml/informacje-podstawowe/" title="Informacje podstawowe">od sprzedaży alkoholu w opakowaniach powyżej 300 ml</a></p>
+<p><a href="/pozostale/oplata-cukrowa/informacje-podstawowe/" title="Informacje podstawowe">Opłata cukrowa</a></p>
+<p><a href="/pozostale/klauzula-ogolna-przeciwko-unikaniu-opodatkowania/" title="Klauzula ogólna przeciwko unikaniu opodatkowania">Klauzula ogólna przeciwko unikaniu opodatkowania</a></p>
+																</div>
+																	<h3 class="fw-bold mb-4"></h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/podatki-lokalne/" title="Podatki lokalne">Podatki lokalne</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/pelnomocnictwa/">Pełnomocnictwa&nbsp;</a></p>
+<p><a href="/pozostale/oplata-skarbowa/informacje-podstawowe/" title="Informacje podstawowe">Opłata skarbowa</a></p>
+<p><a href="https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/zalatwianie-spraw/rejestr-dzialalnosci-na-rzecz-spolek-lub-trustow">Rejestr działalności  na rzecz spółek  lub  trustów</a></p>
+<p><a href="https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/zalatwianie-spraw/rejestr-dzialalnosci-w-zakresie-walut-wirtualnych/-/asset_publisher/R7Yl/content/rejestr-dzialalnosci-w-zakresie-walut-wirtualnych?redirect=https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/zalatwianie-spraw/rejestr-dzialalnosci-w-zakresie-walut-wirtualnych?p_p_id=101_INSTANCE_R7Yl&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=1#p_p_id_101_INSTANCE_R7Yl_">Rejestr działalności w zakresie walut wirtualnych</a></p>
+<p><a href="/ceny-transferowe/" title="Ceny transferowe">Ceny transferowe </a></p>
+<p><a href="/pozostale/program-wspoldzialania-pw/" title="Program Współdziałania (PW)">Program współdziałania </a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/dzialalnosc-gospodarcza/">Działalność gospodarcza</a> </p>
+<p><a href="/interpretacje-podatkowe/" title="Interpretacje podatkowe">Interpretacje podatkowe</a></p>
+<p><a href="/podatkowa-wspolpraca-miedzynarodowa/" title="Podatkowa współpraca międzynarodowa">Podatkowa współpraca międzynarodowa</a></p>
+<p><a href="/pozostale/porozumienie-inwestycyjne/informacje-podstawowe/" title="Informacje podstawowe">Porozumienie inwestycyjne</a></p>
+<p><a href="/wiazace-informacje-podatkowe-i-celne/" title="Wiążące informacje podatkowe i celne">Wiążące informacje podatkowe i celne</a></p>
+																</div>
+																	<h3 class="fw-bold mb-4"></h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/enotariusz/" title="eNotariusz">eNotariusz</a></p>
+<p><a href="/e-sprawozdania-finansowe/" title="e-Sprawozdania Finansowe">eSprawozdania</a></p>
+<p><a href="/e-urzad-skarbowy/konto-organizacji/zawiadomienie-zaw-nr/" title="Zawiadomienie ZAW-NR">Zawiadomienie <strong>ZAW-NR</strong></a></p>
+<p><a href="/pozostale/wht-withholding-tax-podatek-u-zrodla/" title="WHT - Withholding Tax (podatek u źródła)"><strong>WHT</strong> - Withholding Tax (podatek u źródła)</a></p>
+<p><a href="/mdr/" title="MDR"><strong>MDR</strong> - Raportowanie schematów podatkowych</a></p>
+<p><a href="/icap/" title="ICAP"><strong>ICAP</strong> -&nbsp;</a><a href="/icap/" title="ICAP">International Compliance Assurance Programme</a></p>
+<p><a href="/pozostale/etaca/" title="ETACA"><strong>ETACA</strong> - European Trust And Cooperation Approac</a></p>
+<p><a href="/pozostale/procedura-szczegolna-sme/" title="Procedura szczególna SME"><strong>SME</strong> - procedura szczególna</a></p>
+<p><a href="/pozostale/globe-opodatkowanie-wyrownawcze/opinia-globe/" title="Opinia GloBE"><strong>GLOBE</strong> - opodatkowanie wyrównawcze</a></p>
+<p><a href="/pozostale/crbr/" title="CRBR"><strong>CRBR</strong> - Centralny Rejestr Beneficjentów Rzeczywistych</a></p>
+<p><a href="/pozostale/tax-free-vat-refund-vap-oss-i-ioss/" title="TAX FREE, VAT-REFUND, VAP, OSS i IOSS">Procedury <strong>TAX FREE, VAT-REFUND, VAP, OSS i IOSS</strong></a><a href="https://podatki-arch.mf.gov.pl/wht/"></a></p>
+																</div>
+														</div>
+													</div>
+												</div>
+												<div class="accordion-item">
+													<h2 class="accordion-header mobile-accordion-header" id="flush-headingMobile_clo">
+															<button class="accordion-button collapsed primary fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseMobile_clo" aria-expanded="false" aria-controls="flush-collapseMobile_clo">
+															C&#x142;o
+															</button>
+													</h2>
+													<div id="flush-collapseMobile_clo" class="accordion-collapse collapse" aria-labelledby="flush-headingMobile_clo" data-bs-parent="#accordionFlushMobile">
+														<div class="accordion-body mb-4">
+																	<h3 class="fw-bold mb-4">Podstawowe informacje o cle</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/informacje-dla-osob-fizycznych/towary-objete-ograniczeniami-i-zakazami/" title="Towary objęte ograniczeniami i zakazami">Informacje dla osób fizycznych</a></p>
+<p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/informacje-dla-przedsiebiorcow/aeo/" title="AEO">Informacje dla przedsiębiorców</a></p>
+<p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/ograniczenia-przywozu-i-wywozu-towarow/srodki-ochrony-roslin/" title="Środki ochrony roślin">Ograniczenia przywozu i wywozu towarów</a></p>
+<p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/zabezpieczenie-i-pobor-naleznosci-celnych-oraz-zwrot-i-umorzenia-naleznosci-celnych/odroczenie-terminu-platnosci-naleznosci/" title="Odroczenie terminu płatności należności">Zabezpieczenie i pobór należności celnych oraz zwrot i umorzenia należności celnych</a></p>
+<p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/zintegrowana-taryfa-celna/nomenklatura-taryfowa-i-wspolna-taryfa-celna/" title="Nomenklatura taryfowa i WTC">Zintegrowana Taryfa Celna </a></p>
+																</div>
+																	<h3 class="fw-bold mb-4">Pozosta&#x142;e</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/informacje-o-cle/pozostale-informacje/agenci-celni/" title="Agenci celni">Agenci celni</a></p>
+<p><a href="/informacje-o-cle/pozostale-informacje/gwaranci-celni/" title="Gwaranci celni">Gwaranci celni</a></p>
+<p><a href="/informacje-o-cle/pozostale-informacje/kursy-walut-w-przepisach-celnych/" title="Kursy walut w przepisach celnych">Kursy walut w przepisach</a></p>
+<p><a href="/informacje-o-cle/akty-prawne-regulujace-sprawy-celne/" title="Akty prawne regulujące sprawy celne">Podstawa prawna</a></p>
+<p><a href="/informacje-o-cle/pozostale-informacje/zwolnienia-celne/" title="Zwolnienia celne">Zwolnienia</a></p>
+																</div>
+																	<h4 data-bs-toggle="collapse" href="#collapseMobile_clo0" role="button" aria-expanded="false" aria-controls="collapseMobile_clo0"><img src="/assets/ICONS/Caretdown.svg"><strong>Wybierz swoją sytuację</strong></h4>
+																	<ul class="list-unstyled collapse mx-4" id="collapseMobile_clo0">
+																		<p> </p>
+<p> </p>
+																	</ul>
+																	<hr />
+																	<h3 class="fw-bold mb-4">Og&#xF3;lne</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/informacje-o-cle/ogolne/cbam/" title="CBAM">CBAM</a></p>
+<p><a href="/informacje-o-cle/ogolne/zgloszenie-celne-i-intrastat/" title="Zgłoszenie celne i INTRASTAT">Zgłoszenie celne i INTRASTAT</a></p>
+<p><a href="/informacje-o-cle/ogolne/brexit-a-clo/" title="Brexit a cło">Brexit a cło</a></p>
+<p><a href="/informacje-o-cle/ogolne/reforma-celna/" title="Reforma celna">Reforma celna</a><a href="/narzedzia/kalkulator-taryfowy/" title="Kalkulator taryfowy"></a></p>
+																</div>
+																	<h3 class="fw-bold mb-4">Narz&#x119;dzia</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/narzedzia/kalkulator-taryfowy/" title="Kalkulator taryfowy">Kalkulator taryfowy</a></p>
+<p><a href="/narzedzia/przegladarka-taryfowa/" title="Przeglądarka taryfowa">Przeglądarka taryfowa</a></p>
+																</div>
+														</div>
+													</div>
+												</div>
+													<div class="accordion-item">
+														<h2 class="accordion-header mobile-accordion-header" id="flush-headingMobile_">
+															<a class="accordion-button primary fw-bold collapsed" role="button" href="/poradniki-i-informatory/">
+																Poradniki i informatory
+															</a>
+														</h2>
+													</div>
+													<div class="accordion-item">
+														<h2 class="accordion-header mobile-accordion-header" id="flush-headingMobile_">
+															<a class="accordion-button primary fw-bold collapsed" role="button" href="/aktualnosci/">
+																Aktualno&#x15B;ci
+															</a>
+														</h2>
+													</div>
+												<div class="accordion-item">
+													<h2 class="accordion-header mobile-accordion-header" id="flush-headingMobile_Narzedzia">
+															<button class="accordion-button collapsed primary fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseMobile_Narzedzia" aria-expanded="false" aria-controls="flush-collapseMobile_Narzedzia">
+															Narz&#x119;dzia
+															</button>
+													</h2>
+													<div id="flush-collapseMobile_Narzedzia" class="accordion-collapse collapse" aria-labelledby="flush-headingMobile_Narzedzia" data-bs-parent="#accordionFlushMobile">
+														<div class="accordion-body mb-4">
+																	<h3 class="fw-bold mb-4">Kalkulatory</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="https://podatki-arch.mf.gov.pl/kalkulatory-podatkowe/kalkulator-odsetek-za-zwloke-od-zaleglosci-podatkowych-oraz-oplaty-prolongacyjnej/">Kalkulator odsetek za zwłokę od zaległości podatkowych oraz opłaty prolongacyjnej</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/kalkulatory-podatkowe/kalkulator-odsetek-ustawowych/">Kalkulatora odsetek ustawowych</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/kalkulatory-podatkowe/kalkulator-walut/">Kalkulator walut</a></p>
+																</div>
+																	<h3 class="fw-bold mb-4">Wyszukiwarki</h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/narzedzia/eureka/" title="EUREKA">System Informacji Celno-Skarbowej EUREKA </a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/wyszukiwarki/wyszukiwarka-teleadresowa-jednostek-kas/">Wyszukiwarka urzędów skarbowych i jednostek Krajowej Administracji Skarbowej</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/wykaz-podatnikow-vat-wyszukiwarka/">Wykaz podmiotów zarejestrowanych jako podatnicy VAT, niezarejestrowanych oraz wykreślonych i przywróconych do rejestru VAT</a></p>
+<p><a href="/narzedzia/white-list/" title="White List">Plik płaski</a></p>
+<p><a href="https://niw.gov.pl/opp/wykaz-opp/">Wyszukiwarka OPP 1,5%</a></p>
+<p><a href="https://kaucja-gwarancyjna.mf.gov.pl/">Kaucja gwarancyjna</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/wyszukiwarka-uprawnien-serwisantow/">Wyszukiwarka uprawnień serwisantów&nbsp;</a></p>
+<p><a href="http://ec.europa.eu/taxation_customs/vies/?locale=pl&amp;;" data-anchor="?locale=pl&amp;;">Potwierdzanie numeru VAT UE (VIES)</a></p>
+																</div>
+																	<h3 class="fw-bold mb-4">Inne narz&#x119;dzia </h3>
+																<div class="fw-bold mb-4">
+																	<p><a href="/aplikacja-mobilna-e-us/" title="Aplikacja mobilna e-US">Aplikacja mobilna e-US</a></p>
+<p><a href="/aplikacja-e-paragony/" title="Aplikacja e-Paragony">Aplikacja e-Paragony</a></p>
+<p><a href="/narzedzia/jak-pobrac-urzedowe-poswiadczenie-odbioru-upo/" title="Jak pobrać Urzędowe Poświadczenie Odbioru (UPO)">Jak pobrać Urzędowe Poświadczenie Odbioru (UPO)</a></p>
+<p><a href="https://granica.gov.pl/index_wait.php">Czas oczekiwania na granicy</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/inne-narzedzia/wazne-terminy/">Ważne terminy&nbsp;</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/inne-narzedzia/rejestr-zastawow-skarbowych/">Rejestr zastawów skarbowych </a></p>
+<p><a href="/narzedzia/glos-podatnika/" title="Głos Podatnika">Głos podatnika</a></p>
+<p><a href="https://ord-in.podatki.gov.pl/" title="Kreator wniosku ORD-IN">Kreator wniosku ORD-IN</a></p>
+																</div>
+														</div>
+													</div>
+												</div>
+												<div class="accordion-item">
+													<h2 class="accordion-header mobile-accordion-header" id="flush-headingMobile_Zalatwsprawe">
+															<a class="accordion-button primary fw-bold collapsed" role="button" href="/zalatw-sprawe-online/">
+																Za&#x142;atw spraw&#x119; online
+															</a>
+													</h2>
+													<div id="flush-collapseMobile_Zalatwsprawe" class="accordion-collapse collapse" aria-labelledby="flush-headingMobile_Zalatwsprawe" data-bs-parent="#accordionFlushMobile">
+														<div class="accordion-body mb-4">
+														</div>
+													</div>
+												</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+
+
+</div>
+
+
+<div class="umb-block-grid"
+     data-grid-columns="12;"
+     style="--umb-block-grid--grid-columns: 12;">
+    
+
+<ul class="nav nav-tabs" id="taxTabs" role="tablist">
+
+
+
+
+            <li class="nav-item accordion" role="presentation">
+                <a class="nav-link accordion-item" role="button" type="button">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed primary fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#osobiste" aria-expanded="false" aria-controls="osobiste">
+                            Podatki osobiste
+                        </button>
+                    </h2>
+                </a>
+            </li>
+
+
+            <li class="nav-item accordion" role="presentation">
+                <a class="nav-link accordion-item" role="button" type="button">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed primary fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#firmowe" aria-expanded="false" aria-controls="firmowe">
+                            Podatki dla przedsi&#x119;biorc&#xF3;w
+                        </button>
+                    </h2>
+                </a>
+            </li>
+
+
+            <li class="nav-item accordion" role="presentation">
+                <a class="nav-link accordion-item" role="button" type="button">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed primary fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#clo" aria-expanded="false" aria-controls="clo">
+                            C&#x142;o
+                        </button>
+                    </h2>
+                </a>
+            </li>
+
+
+             <li class="nav-item accordion" role="presentation">
+                <a class="nav-link accordion-item" href="/poradniki-i-informatory/" role="button" type="button">
+                    <h2 class="accordion-header">
+                        <div class="link primary fw-bold">
+                            Poradniki i informatory
+                        </div>
+                    </h2>
+                </a>
+            </li>
+
+
+             <li class="nav-item accordion" role="presentation">
+                <a class="nav-link accordion-item" href="/aktualnosci/" role="button" type="button">
+                    <h2 class="accordion-header">
+                        <div class="link primary fw-bold">
+                            Aktualno&#x15B;ci
+                        </div>
+                    </h2>
+                </a>
+            </li>
+
+
+            <li class="nav-item accordion" role="presentation">
+                <a class="nav-link accordion-item" role="button" type="button">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed primary fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#Narzedzia" aria-expanded="false" aria-controls="Narzedzia">
+                            Narz&#x119;dzia
+                        </button>
+                    </h2>
+                </a>
+            </li>
+
+
+             <li class="nav-item accordion" role="presentation">
+                <a class="nav-link accordion-item" href="/zalatw-sprawe-online/" role="button" type="button">
+                    <h2 class="accordion-header">
+                        <div class="link primary fw-bold">
+                            Za&#x142;atw spraw&#x119; online
+                        </div>
+                    </h2>
+                </a>
+            </li>
+
+
+
+</ul>
+
+
+
+<div class="tab-content accordion" id="taxTabsContent">
+    
+
+
+
+    <div class="tab-pane fade active py-3 px-5 accordion-collapse collapse" id="osobiste" role="tabpanel" data-bs-parent="#taxTabsContent">
+        <div class="row px-5">
+            
+
+
+
+<div class="col-md-3 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Od dochodu</h3>
+    <p>Podstawowy podatek od dochod&#xF3;w osobistych.</p>
+    <p><p><a href="/podatki-osobiste/pit/informacje-podstawowe/" title="Informacje podstawowe"><strong>PIT</strong></a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/" title="Informacje podstawowe">Informacje podstawowe</a></p>
+<p><a href="/podatki-osobiste/pit/ulgi-i-odliczenia/" title="Ulgi i odliczenia">Ulgi i odliczenia</a></p>
+<p><a href="/podatki-osobiste/pit/stawki-i-limity/" title="Stawki i limity">Stawki i limity</a></p>
+<p><a href="/podatki-osobiste/pit/formularze/" title="Formularze">Formularze</a></p></p>
+    <p><h3><strong>Wybierz swoją sytuację</strong></h3>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-pracy/" title="Dochody z pracy">Mam dochody z pracy</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-pracy-wykonywanej-za-granica/" title="Dochody z pracy wykonywanej za granicą">Mam dochody z pracy wykonywanej za granicą</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-umowy-zlecenia-lub-o-dzielo/" title="Dochody z umowy zlecenia lub o dzieło">Mam dochody z umowy zlecenia lub o dzieło</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-praw-autorskich/" title="Dochody z praw autorskich">Mam dochody z praw autorskich</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-najmu/" title="Dochody z najmu">Mam dochody z najmu</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-dzialalnosci-nierejestrowanej/" title="Dochody z działalności nierejestrowanej">Mam dochody z działalności nierejestrowanej</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-niani/" title="Dochody niani">Mam dochody niani</a></p>
+<p><a href="/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-emerytury-lub-renty/" title="Dochody z emerytury lub renty">Mam dochody z emerytury</a></p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-3 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Od maj&#x105;tku</h3>
+    <p>Podatki, kt&#xF3;re op&#x142;acasz, kiedy zmienia si&#x119; Twoja sytuacja majatkowa.</p>
+    <p><p><a href="/podatki-osobiste/sd/informacje-podstawowe/" title="Informacje podstawowe">Spadki i darowizny (<strong>SD</strong>)</a></p>
+<p><a href="/podatki-osobiste/pcc/informacje-podstawowe/" title="Informacje podstawowe">Czynności cywilnoprawne (<strong>PCC</strong>)</a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-3 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Od zakup&#xF3;w</h3>
+    <p>Podatki zwi&#x105;zane z transakcjami kupna r&#xF3;&#x17C;nych produkt&#xF3;w z kraju i zagranicy.</p>
+    <p><p><a href="/akcyza/informacje-podstawowe/" title="Informacje podstawowe">Akcyza</a></p>
+<p><a href="/podatki-firmowe/vat/" title="VAT">VAT</a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-3 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Pozosta&#x142;e</h3>
+    <p>Wybrane podatki lokalne oraz inne formy opodatkowania.</p>
+    <p><p><a href="/pozostale/podatek-od-gier/informacje-podstawowe/" title="Informacje podstawowe">Podatek od gier</a></p>
+<p><a href="/podatki-lokalne/" title="Podatki lokalne">Podatki lokalne</a></p>
+<p><a href="/interpretacje-podatkowe/" title="Interpretacje podatkowe">Interpretacje podatkowe</a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+
+
+        </div>
+    </div>
+
+
+    <div class="tab-pane fade active py-3 px-5 accordion-collapse collapse" id="firmowe" role="tabpanel" data-bs-parent="#taxTabsContent">
+        <div class="row px-5">
+            
+
+
+
+<div class="col-md-4 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Podstawowe podatki dla przedsi&#x119;biorc&#xF3;w</h3>
+    <p></p>
+    <p></p>
+                <ul class="nav nav-tabs"  role="tablist">
+                    
+
+
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/podatki-firmowe/pit/informacje-podstawowe/" title="">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							PIT
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/podatki-firmowe/cit/informacje-podstawowe/" title="CIT">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							CIT
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/podatki-firmowe/vat/" title="">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							VAT
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/" title="JPK">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							<p>JPK</p>
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="/akcyza/informacje-podstawowe/" title="">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							Akcyza
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+
+
+                </ul>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-3 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Pozosta&#x142;e podatki</h3>
+    <p></p>
+    <p><p><a href="/podatki-osobiste/pcc/informacje-podstawowe/" title="Informacje podstawowe">od czynności cywilnoprawnych (<strong>PCC</strong>)</a></p>
+<p><a href="/podatki-osobiste/sd/informacje-podstawowe/" title="Informacje podstawowe">od spadków i darowizn (<strong>SD</strong>)</a></p>
+<p><a href="/pozostale/podatek-tonazowy/informacje-podstawowe/" title="Informacje podstawowe">tonażowy</a></p>
+<p><a href="/pozostale/podatek-od-gier/informacje-podstawowe/" title="Informacje podstawowe">od gier</a></p>
+<p><a href="/pozostale/podatek-od-sprzedazy-detalicznej/informacje-podstawowe/" title="Informacje podstawowe">od sprzedaży detalicznej</a></p>
+<p><a href="/pozostale/podatek-od-wydobycia-niektorych-kopalin/informacje-podstawowe/" title="Informacje podstawowe">od wydobycia niektórych kopalin</a></p>
+<p><a href="/pozostale/podatek-od-niektorych-instytucji-finansowych/informacje-podstawowe/" title="Informacje podstawowe">od niektórych instytucji finansowych</a></p>
+<p><a href="/pozostale/oplata-od-sprzedazy-alkoholu-w-opak-do-300-ml/informacje-podstawowe/" title="Informacje podstawowe">od sprzedaży alkoholu w opakowaniach powyżej 300 ml</a></p>
+<p><a href="/pozostale/oplata-cukrowa/informacje-podstawowe/" title="Informacje podstawowe">Opłata cukrowa</a></p>
+<p><a href="/pozostale/klauzula-ogolna-przeciwko-unikaniu-opodatkowania/" title="Klauzula ogólna przeciwko unikaniu opodatkowania">Klauzula ogólna przeciwko unikaniu opodatkowania</a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-2 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> </h3>
+    <p></p>
+    <p><p><a href="/podatki-lokalne/" title="Podatki lokalne">Podatki lokalne</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/pelnomocnictwa/">Pełnomocnictwa&nbsp;</a></p>
+<p><a href="/pozostale/oplata-skarbowa/informacje-podstawowe/" title="Informacje podstawowe">Opłata skarbowa</a></p>
+<p><a href="https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/zalatwianie-spraw/rejestr-dzialalnosci-na-rzecz-spolek-lub-trustow">Rejestr działalności  na rzecz spółek  lub  trustów</a></p>
+<p><a href="https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/zalatwianie-spraw/rejestr-dzialalnosci-w-zakresie-walut-wirtualnych/-/asset_publisher/R7Yl/content/rejestr-dzialalnosci-w-zakresie-walut-wirtualnych?redirect=https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/zalatwianie-spraw/rejestr-dzialalnosci-w-zakresie-walut-wirtualnych?p_p_id=101_INSTANCE_R7Yl&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=1#p_p_id_101_INSTANCE_R7Yl_">Rejestr działalności w zakresie walut wirtualnych</a></p>
+<p><a href="/ceny-transferowe/" title="Ceny transferowe">Ceny transferowe </a></p>
+<p><a href="/pozostale/program-wspoldzialania-pw/" title="Program Współdziałania (PW)">Program współdziałania </a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/dzialalnosc-gospodarcza/">Działalność gospodarcza</a> </p>
+<p><a href="/interpretacje-podatkowe/" title="Interpretacje podatkowe">Interpretacje podatkowe</a></p>
+<p><a href="/podatkowa-wspolpraca-miedzynarodowa/" title="Podatkowa współpraca międzynarodowa">Podatkowa współpraca międzynarodowa</a></p>
+<p><a href="/pozostale/porozumienie-inwestycyjne/informacje-podstawowe/" title="Informacje podstawowe">Porozumienie inwestycyjne</a></p>
+<p><a href="/wiazace-informacje-podatkowe-i-celne/" title="Wiążące informacje podatkowe i celne">Wiążące informacje podatkowe i celne</a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-3 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> </h3>
+    <p></p>
+    <p><p><a href="/enotariusz/" title="eNotariusz">eNotariusz</a></p>
+<p><a href="/e-sprawozdania-finansowe/" title="e-Sprawozdania Finansowe">eSprawozdania</a></p>
+<p><a href="/e-urzad-skarbowy/konto-organizacji/zawiadomienie-zaw-nr/" title="Zawiadomienie ZAW-NR">Zawiadomienie <strong>ZAW-NR</strong></a></p>
+<p><a href="/pozostale/wht-withholding-tax-podatek-u-zrodla/" title="WHT - Withholding Tax (podatek u źródła)"><strong>WHT</strong> - Withholding Tax (podatek u źródła)</a></p>
+<p><a href="/mdr/" title="MDR"><strong>MDR</strong> - Raportowanie schematów podatkowych</a></p>
+<p><a href="/icap/" title="ICAP"><strong>ICAP</strong> -&nbsp;</a><a href="/icap/" title="ICAP">International Compliance Assurance Programme</a></p>
+<p><a href="/pozostale/etaca/" title="ETACA"><strong>ETACA</strong> - European Trust And Cooperation Approac</a></p>
+<p><a href="/pozostale/procedura-szczegolna-sme/" title="Procedura szczególna SME"><strong>SME</strong> - procedura szczególna</a></p>
+<p><a href="/pozostale/globe-opodatkowanie-wyrownawcze/opinia-globe/" title="Opinia GloBE"><strong>GLOBE</strong> - opodatkowanie wyrównawcze</a></p>
+<p><a href="/pozostale/crbr/" title="CRBR"><strong>CRBR</strong> - Centralny Rejestr Beneficjentów Rzeczywistych</a></p>
+<p><a href="/pozostale/tax-free-vat-refund-vap-oss-i-ioss/" title="TAX FREE, VAT-REFUND, VAP, OSS i IOSS">Procedury <strong>TAX FREE, VAT-REFUND, VAP, OSS i IOSS</strong></a><a href="https://podatki-arch.mf.gov.pl/wht/"></a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+
+
+        </div>
+    </div>
+
+
+    <div class="tab-pane fade active py-3 px-5 accordion-collapse collapse" id="clo" role="tabpanel" data-bs-parent="#taxTabsContent">
+        <div class="row px-5">
+            
+
+
+
+<div class="col-md-6 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Podstawowe informacje o cle</h3>
+    <p></p>
+    <p><p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/informacje-dla-osob-fizycznych/towary-objete-ograniczeniami-i-zakazami/" title="Towary objęte ograniczeniami i zakazami">Informacje dla osób fizycznych</a></p>
+<p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/informacje-dla-przedsiebiorcow/aeo/" title="AEO">Informacje dla przedsiębiorców</a></p>
+<p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/ograniczenia-przywozu-i-wywozu-towarow/srodki-ochrony-roslin/" title="Środki ochrony roślin">Ograniczenia przywozu i wywozu towarów</a></p>
+<p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/zabezpieczenie-i-pobor-naleznosci-celnych-oraz-zwrot-i-umorzenia-naleznosci-celnych/odroczenie-terminu-platnosci-naleznosci/" title="Odroczenie terminu płatności należności">Zabezpieczenie i pobór należności celnych oraz zwrot i umorzenia należności celnych</a></p>
+<p><a href="/informacje-o-cle/podstawowe-informacje-o-cle/zintegrowana-taryfa-celna/nomenklatura-taryfowa-i-wspolna-taryfa-celna/" title="Nomenklatura taryfowa i WTC">Zintegrowana Taryfa Celna </a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-3 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Pozosta&#x142;e</h3>
+    <p></p>
+    <p><p><a href="/informacje-o-cle/pozostale-informacje/agenci-celni/" title="Agenci celni">Agenci celni</a></p>
+<p><a href="/informacje-o-cle/pozostale-informacje/gwaranci-celni/" title="Gwaranci celni">Gwaranci celni</a></p>
+<p><a href="/informacje-o-cle/pozostale-informacje/kursy-walut-w-przepisach-celnych/" title="Kursy walut w przepisach celnych">Kursy walut w przepisach</a></p>
+<p><a href="/informacje-o-cle/akty-prawne-regulujace-sprawy-celne/" title="Akty prawne regulujące sprawy celne">Podstawa prawna</a></p>
+<p><a href="/informacje-o-cle/pozostale-informacje/zwolnienia-celne/" title="Zwolnienia celne">Zwolnienia</a></p></p>
+    <p><p> </p>
+<p> </p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-3 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Og&#xF3;lne</h3>
+    <p></p>
+    <p><p><a href="/informacje-o-cle/ogolne/cbam/" title="CBAM">CBAM</a></p>
+<p><a href="/informacje-o-cle/ogolne/zgloszenie-celne-i-intrastat/" title="Zgłoszenie celne i INTRASTAT">Zgłoszenie celne i INTRASTAT</a></p>
+<p><a href="/informacje-o-cle/ogolne/brexit-a-clo/" title="Brexit a cło">Brexit a cło</a></p>
+<p><a href="/informacje-o-cle/ogolne/reforma-celna/" title="Reforma celna">Reforma celna</a><a href="/narzedzia/kalkulator-taryfowy/" title="Kalkulator taryfowy"></a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-2 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Narz&#x119;dzia</h3>
+    <p></p>
+    <p><p><a href="/narzedzia/kalkulator-taryfowy/" title="Kalkulator taryfowy">Kalkulator taryfowy</a></p>
+<p><a href="/narzedzia/przegladarka-taryfowa/" title="Przeglądarka taryfowa">Przeglądarka taryfowa</a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+
+
+        </div>
+    </div>
+
+
+    <div class="tab-pane fade active py-3 px-5 accordion-collapse collapse" id="Informacje o cle" role="tabpanel" data-bs-parent="#taxTabsContent">
+        <div class="row px-5">
+            
+
+
+
+<div class="col-md-12 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> </h3>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-12 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> </h3>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-12 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> </h3>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-12 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> </h3>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-12 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> </h3>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-12 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> </h3>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-12 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> </h3>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+
+
+        </div>
+    </div>
+
+
+    <div class="tab-pane fade active py-3 px-5 accordion-collapse collapse" id="Narzedzia" role="tabpanel" data-bs-parent="#taxTabsContent">
+        <div class="row px-5">
+            
+
+
+
+<div class="col-md-4 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Kalkulatory</h3>
+    <p></p>
+    <p><p><a href="https://podatki-arch.mf.gov.pl/kalkulatory-podatkowe/kalkulator-odsetek-za-zwloke-od-zaleglosci-podatkowych-oraz-oplaty-prolongacyjnej/">Kalkulator odsetek za zwłokę od zaległości podatkowych oraz opłaty prolongacyjnej</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/kalkulatory-podatkowe/kalkulator-odsetek-ustawowych/">Kalkulatora odsetek ustawowych</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/kalkulatory-podatkowe/kalkulator-walut/">Kalkulator walut</a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-3 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Wyszukiwarki</h3>
+    <p></p>
+    <p><p><a href="/narzedzia/eureka/" title="EUREKA">System Informacji Celno-Skarbowej EUREKA </a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/wyszukiwarki/wyszukiwarka-teleadresowa-jednostek-kas/">Wyszukiwarka urzędów skarbowych i jednostek Krajowej Administracji Skarbowej</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/wykaz-podatnikow-vat-wyszukiwarka/">Wykaz podmiotów zarejestrowanych jako podatnicy VAT, niezarejestrowanych oraz wykreślonych i przywróconych do rejestru VAT</a></p>
+<p><a href="/narzedzia/white-list/" title="White List">Plik płaski</a></p>
+<p><a href="https://niw.gov.pl/opp/wykaz-opp/">Wyszukiwarka OPP 1,5%</a></p>
+<p><a href="https://kaucja-gwarancyjna.mf.gov.pl/">Kaucja gwarancyjna</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/wyszukiwarka-uprawnien-serwisantow/">Wyszukiwarka uprawnień serwisantów&nbsp;</a></p>
+<p><a href="http://ec.europa.eu/taxation_customs/vies/?locale=pl&amp;;" data-anchor="?locale=pl&amp;;">Potwierdzanie numeru VAT UE (VIES)</a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+<div class="col-md-2 col-lg-3">
+    <h3 class="fw-bold pt-4 mb-2"> Inne narz&#x119;dzia </h3>
+    <p></p>
+    <p><p><a href="/aplikacja-mobilna-e-us/" title="Aplikacja mobilna e-US">Aplikacja mobilna e-US</a></p>
+<p><a href="/aplikacja-e-paragony/" title="Aplikacja e-Paragony">Aplikacja e-Paragony</a></p>
+<p><a href="/narzedzia/jak-pobrac-urzedowe-poswiadczenie-odbioru-upo/" title="Jak pobrać Urzędowe Poświadczenie Odbioru (UPO)">Jak pobrać Urzędowe Poświadczenie Odbioru (UPO)</a></p>
+<p><a href="https://granica.gov.pl/index_wait.php">Czas oczekiwania na granicy</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/inne-narzedzia/wazne-terminy/">Ważne terminy&nbsp;</a></p>
+<p><a href="https://podatki-arch.mf.gov.pl/inne-narzedzia/rejestr-zastawow-skarbowych/">Rejestr zastawów skarbowych </a></p>
+<p><a href="/narzedzia/glos-podatnika/" title="Głos Podatnika">Głos podatnika</a></p>
+<p><a href="https://ord-in.podatki.gov.pl/" title="Kreator wniosku ORD-IN">Kreator wniosku ORD-IN</a></p></p>
+    <p></p>
+    <p></p>
+</div>
+
+
+
+
+        </div>
+    </div>
+
+
+    <div class="tab-pane fade active py-3 px-5 accordion-collapse collapse" id="Zalatwsprawe" role="tabpanel" data-bs-parent="#taxTabsContent">
+        <div class="row px-5">
+            
+
+
+
+        </div>
+    </div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div class="container-fluid nav-tabs pt-3 d-none d-lg-block">
+    <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+        <ol class="breadcrumb">
+
+                    <li class="breadcrumb-item">
+                        <a href="/">Strona G&#x142;&#xF3;wna</a>
+                    </li>
+                    <li class="breadcrumb-item">
+                        <a href="/podatkowa-wspolpraca-miedzynarodowa/">Podatkowa wsp&#xF3;&#x142;praca mi&#x119;dzynarodowa</a>
+                    </li>
+                <li class="breadcrumb-item active" aria-current="page">
+                    DPI (Digital Platform Information)
+                </li>
+        </ol>
+    </nav>
+</div>
+
+<!-- Masthead-->
+
+    
+
+<div class="container-fluid bg-shadow">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 col-lg-3 mb-4">
+				<div class="fw-bold pt-4 mb-4">
+						<h2></h2>
+				</div>
+				<div class="list-group" id="menuboczne">
+								<a href="/podatkowa-wspolpraca-miedzynarodowa/konwencja-mli/" class="list-group-item list-group-item-action">Konwencja MLI</a>
+								<a href="/podatkowa-wspolpraca-miedzynarodowa/procedury-map-i-drm/" class="list-group-item list-group-item-action">Procedury (MAP i DRM)</a>
+								<a href="/podatkowa-wspolpraca-miedzynarodowa/automatyczna-wymiana-informacji/" class="list-group-item list-group-item-action">Automatyczna wymiana informacji</a>
+							<a href="/podatkowa-wspolpraca-miedzynarodowa/dpi-digital-platform-information/" class="list-group-item list-group-item-action primary fw-bold active">DPI (Digital Platform Information)</a>
+								<a href="/podatkowa-wspolpraca-miedzynarodowa/wykaz-umow-o-wymianie-informacji-w-sprawach-podatkowych/" class="list-group-item list-group-item-action">Wykaz um&#xF3;w o wymianie informacji w sprawach podatkowych</a>
+				</div>
+				<div class="list-group accordion accordion-flush" id="menubocznemobilne">
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="panelsStayOpen-heading">
+							<button class="accordion-button primary fw-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse" aria-expanded="false" aria-controls="panelsStayOpen-collapse"/>
+								DPI (Digital Platform Information)
+						</h2>
+						<div id="panelsStayOpen-collapse" class="collapse" aria-labelledby="panelsStayOpen-heading">
+							<div class="accordion-body">
+										<a href="/podatkowa-wspolpraca-miedzynarodowa/konwencja-mli/" class="list-group-item">Konwencja MLI</a>
+										<a href="/podatkowa-wspolpraca-miedzynarodowa/procedury-map-i-drm/" class="list-group-item">Procedury (MAP i DRM)</a>
+										<a href="/podatkowa-wspolpraca-miedzynarodowa/automatyczna-wymiana-informacji/" class="list-group-item">Automatyczna wymiana informacji</a>
+										<a href="/podatkowa-wspolpraca-miedzynarodowa/dpi-digital-platform-information/" class="list-group-item fw-bold">DPI (Digital Platform Information)</a>
+										<a href="/podatkowa-wspolpraca-miedzynarodowa/wykaz-umow-o-wymianie-informacji-w-sprawach-podatkowych/" class="list-group-item">Wykaz um&#xF3;w o wymianie informacji w sprawach podatkowych</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-1">	</div>
+			<div class="col-12 col-lg-8">
+				<h2 class="fw-bold pt-4 mb-4">DPI (Digital Platform Information)</h2>
+				<h3 class="fw-bold mb-4"></h3>
+                <p>
+                    Data publikacji: <span class="fw-bold">15.12.2025</span><br />
+                    Data aktualizacji: <span class="fw-bold">15.12.2025</span>
+                </p>
+                
+<div class="umb-block-grid"
+     data-grid-columns="12;"
+     style="--umb-block-grid--grid-columns: 12;">
+    
+
+
+<div class="accordion accordion-flush mb-4" id="accordionFlush_696" role="tablist" aria-label="Informacje o obowi&#x105;zkach operator&#xF3;w platform ">
+
+
+
+
+<div class="accordion-item">
+		<div class="accordion-header mb-4 pt-4" id="flush-heading58">
+			<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse58" aria-expanded="false" aria-controls="flush-collapse58">
+				<h3><strong>Informacje o obowi&#x105;zkach operator&#xF3;w platform </strong></h3>
+			</button>
+		</div>
+		<div id="flush-collapse58" class="accordion-collapse collapsed collapse" aria-labelledby="flush-heading58">
+			<div class="accordion-body mb-4">
+				
+
+
+
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_600" role="button" aria-expanded="false" aria-controls="collapse_600" aria-label="Obowi&#x105;zki operator&#xF3;w platform wynikaj&#x105; z:"><img src="/assets/ICONS/Caretdown.svg" alt="Obowi&#x105;zki operator&#xF3;w platform wynikaj&#x105; z:"><strong>Obowi&#x105;zki operator&#xF3;w platform wynikaj&#x105; z:</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_600">
+	<ul>
+<li>Dyrektywy Rady (UE) 2021/514 z dnia 22 marca 2021 r. zmieniającej dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania, znana także jako Dyrektywa DAC7,</li>
+<li>Działu IIIA ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241), w którym zaimplementowano przepisy Dyrektywy DAC7 (dalej: ustawa).</li>
+</ul>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_780" role="button" aria-expanded="false" aria-controls="collapse_780" aria-label="Kogo dotyczy raportowanie"><img src="/assets/ICONS/Caretdown.svg" alt="Kogo dotyczy raportowanie"><strong>Kogo dotyczy raportowanie</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_780">
+	<p>Raportowanie dotyczy sprzedawców. Twoje czynności podlegają raportowaniu, jeśli za pośrednictwem platformy:</p>
+<ul>
+<li>udostępniasz nieruchomość, jej część (w tym pomieszczenia przynależne) lub udział w nieruchomości,</li>
+<li>sprzedajesz towary,</li>
+<li>udostępniasz środek transportu,</li>
+<li>świadczysz usługi osobiście.</li>
+</ul>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_293" role="button" aria-expanded="false" aria-controls="collapse_293" aria-label="Co to s&#x105; us&#x142;ugi &#x15B;wiadczone osobi&#x15B;cie "><img src="/assets/ICONS/Caretdown.svg" alt="Co to s&#x105; us&#x142;ugi &#x15B;wiadczone osobi&#x15B;cie "><strong>Co to s&#x105; us&#x142;ugi &#x15B;wiadczone osobi&#x15B;cie </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_293">
+	<p>To praca, którą wykonujesz w trybie zadaniowym lub czasowym na żądanie użytkownika. Wykonujesz ją:</p>
+<ul>
+<li>niezależnie albo na rzecz lub w imieniu innego podmiotu,</li>
+<li>online lub fizycznie (offline), po tym jak platforma umożliwiła jej wykonanie.</li>
+</ul>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_372" role="button" aria-expanded="false" aria-controls="collapse_372" aria-label="Kto jest wy&#x142;&#x105;czony z raportowania  "><img src="/assets/ICONS/Caretdown.svg" alt="Kto jest wy&#x142;&#x105;czony z raportowania  "><strong>Kto jest wy&#x142;&#x105;czony z raportowania  </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_372">
+	<p>Nie podlegasz raportowaniu, jeśli jesteś tzw. wyłączonym sprzedawcą. Oznacza to, że w ciągu roku kalendarzowego na danej platformie spełniasz jeden z warunków:</p>
+<ul>
+<li>zawarłeś&nbsp;mniej niż 30 transakcji,</li>
+<li>lub Twoje łączne wynagrodzenie nie przekroczyło równowartości 2000 euro.</li>
+</ul>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_562" role="button" aria-expanded="false" aria-controls="collapse_562" aria-label="Kto jest podmiotem raportuj&#x105;cym "><img src="/assets/ICONS/Caretdown.svg" alt="Kto jest podmiotem raportuj&#x105;cym "><strong>Kto jest podmiotem raportuj&#x105;cym </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_562">
+	<p>Obowiązek ten dotyczy Cię, jeśli jesteś raportującym <strong>operatorem platformy</strong>. Oznacza to, że na podstawie umowy udostępniasz sprzedawcom platformę (lub jej część), która pozwala im sprzedawać towary lub oferować usługi.</p>
+<p>W praktyce musisz przekazywać nam informacje o tych sprzedawcach w uporządkowany sposób.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_709" role="button" aria-expanded="false" aria-controls="collapse_709" aria-label="Wyb&#xF3;r Polski jako pa&#x144;stwa raportowania"><img src="/assets/ICONS/Caretdown.svg" alt="Wyb&#xF3;r Polski jako pa&#x144;stwa raportowania"><strong>Wyb&#xF3;r Polski jako pa&#x144;stwa raportowania</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_709">
+	<p>Nie jesteś rezydentem podatkowym w Unii Europejskiej, ale spełniasz warunki raportującego operatora w Polsce i innym kraju UE? Możesz wybrać Polskę jako państwo, w którym będziesz wypełniać swoje obowiązki.</p>
+<div class="fw-bold bd-excerpt">
+<p>Jeśli wybierzesz Polskę, musisz powiadomić o tym Szefa Krajowej Administracji Skarbowej.</p>
+<p>Zrobisz to elektronicznie. Skorzystaj z formularza rejestracyjnego.</p>
+</div>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_417" role="button" aria-expanded="false" aria-controls="collapse_417" aria-label="Rejestracja operatora spoza UE"><img src="/assets/ICONS/Caretdown.svg" alt="Rejestracja operatora spoza UE"><strong>Rejestracja operatora spoza UE</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_417">
+	<p>Spełniasz warunki operatora spoza UE w Polsce i innym kraju Unii Europejskiej? Możesz wybrać Polskę jako państwo, w którym będziesz wypełniać swoje obowiązki.</p>
+<p>W takim przypadku musisz się zarejestrować. Zrób to elektronicznie najpóźniej w dniu, w którym rozpoczniesz działalność jako operator platformy. Rejestracja jest jednorazowa.</p>
+<p>Jak złożyć i podpisać formularz Formularz wyślij przez odpowiednie oprogramowanie (adres bramki i wzór dokumentu znajdziesz w Biuletynie Informacji Publicznej). Formularz musi podpisać osoba uprawniona do reprezentowania operatora.</p>
+<p>Można go podpisać:</p>
+<ul>
+<li>podpisem zaufanym,</li>
+<li>lub kwalifikowanym podpisem elektronicznym (XAdES).</li>
+</ul>
+<p class="fw-bold bd-excerpt">Jeśli masz pełnomocnictwo do podpisywania deklaracji elektronicznych (UPL), możesz nim podpisać również ten formularz rejestracyjny.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_281" role="button" aria-expanded="false" aria-controls="collapse_281" aria-label="Czy strony z og&#x142;oszeniami musz&#x105; raportowa&#x107; "><img src="/assets/ICONS/Caretdown.svg" alt="Czy strony z og&#x142;oszeniami musz&#x105; raportowa&#x107; "><strong>Czy strony z og&#x142;oszeniami musz&#x105; raportowa&#x107; </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_281">
+	<p style="text-align: left;">Nie każda platforma podlega temu obowiązkowi. Nie musisz raportować, jeśli Twoja strona działa jedynie jak tzw. słup ogłoszeniowy.</p>
+<p style="text-align: left;">Obowiązek masz tylko wtedy, gdy wiesz:</p>
+<ul>
+<li style="text-align: left;">ile transakcji przeprowadził sprzedawca,</li>
+<li style="text-align: left;">jaką miały wartość.</li>
+</ul>
+<p style="text-align: left;">Raportowaniu nie podlegają też sklepy internetowe, w których działasz wyłącznie we własnym imieniu.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_830" role="button" aria-expanded="false" aria-controls="collapse_830" aria-label="Kiedy sprzedawca jest wy&#x142;&#x105;czony z raportowania "><img src="/assets/ICONS/Caretdown.svg" alt="Kiedy sprzedawca jest wy&#x142;&#x105;czony z raportowania "><strong>Kiedy sprzedawca jest wy&#x142;&#x105;czony z raportowania </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_830">
+	<p>Jako operator nie musisz raportować danych sprzedawców, którzy dokonują jedynie drobnej sprzedaży towarów (np. wyprzedają swoje ubrania lub książki o niskiej wartości).</p>
+<p>Danych takiego sprzedawcy nie raportujesz wcale, jeśli w okresie sprawozdawczym spełnił on łącznie poniższe warunki:</p>
+<ul>
+<li>zrealizował&nbsp;mniej niż 30 transakcji sprzedaży towarów,</li>
+<li>a jego łączne wynagrodzenie nie przekroczyło 2000 euro.</li>
+</ul>
+<p class="fw-bold bd-excerpt"><br>Ważne! Przekroczenie tych progów i zaraportowanie sprzedawcy nie oznacza automatycznie, że musi on zapłacić podatek. O obowiązku zapłaty podatku decydują inne przepisy.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_276" role="button" aria-expanded="false" aria-controls="collapse_276" aria-label="Jakie dane zbiera operator platformy "><img src="/assets/ICONS/Caretdown.svg" alt="Jakie dane zbiera operator platformy "><strong>Jakie dane zbiera operator platformy </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_276">
+	<p>Operator platformy gromadzi informacje dotyczące sprzedawców, w tym:</p>
+<p><strong>Dane finansowe i transakcyjne:</strong></p>
+<ul>
+<li>kwotę łącznego wynagrodzenia wypłaconego lub uznanego w każdym kwartale,</li>
+<li>pobrane przez operatora składki, prowizje lub podatki,</li>
+<li>liczbę czynności (transakcji), za które wypłacono to wynagrodzenie,</li>
+<li>identyfikator rachunku finansowego (np. numer konta) i informacje</li>
+<li>jego posiadaczu.</li>
+</ul>
+<p><strong>Dane identyfikacyjne sprzedawcy:</strong></p>
+<ul>
+<li>imię i nazwisko lub nazwę firmy,</li>
+<li>adres,</li>
+<li>numer identyfikacji podatkowej (TIN) – np. NIP lub PESEL,</li>
+<li>numer identyfikacji VAT,</li>
+<li>datę urodzenia lub numer we właściwym rejestrze gospodarczym,</li>
+<li>państwo rezydencji,</li>
+<li>informacje o zagranicznych zakładach.</li>
+</ul>
+<div class="fw-bold bd-excerpt">
+<p>Najem nieruchomości Jeśli platforma ułatwia najem nieruchomości, operator zbiera dodatkowo:</p>
+<ul>
+<li>numery ksiąg wieczystych,</li>
+<li>adres i rodzaj grupy obiektów,</li>
+</ul>
+<p>liczbę dni, przez które nieruchomość była udostępniana</p>
+</div>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_409" role="button" aria-expanded="false" aria-controls="collapse_409" aria-label="Jakie masz obowi&#x105;zki jako operator platformy "><img src="/assets/ICONS/Caretdown.svg" alt="Jakie masz obowi&#x105;zki jako operator platformy "><strong>Jakie masz obowi&#x105;zki jako operator platformy </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_409">
+	<p>Jako operator platformy masz konkretne obowiązki, które musisz wypełnić:</p>
+<ul>
+<li>Dopełnienie procedur należytej staranności <br>To zespół czynności, które musisz wykonać, aby Twoje dane były poprawne. W ramach tego obowiązku:
+<ul>
+<li>gromadź informacje o aktywnych sprzedawcach,</li>
+<li>weryfikuj zgromadzone informacje,</li>
+<li>ustalaj rezydencję podatkową sprzedawców,</li>
+<li>identyfikuj sprzedawców, którzy podlegają raportowaniu, oraz tych, którzy są z niego wyłączeni.</li>
+</ul>
+</li>
+<li>Przekazywanie informacji</li>
+</ul>
+<p>Twoim zadaniem jest przekazanie informacji o sprzedawcach Szefowi Krajowej Administracji Skarbowej.</p>
+<ul>
+<li>Rejestracja lub powiadomienie</li>
+</ul>
+<p>W określonych sytuacjach musisz się zarejestrować lub powiadomić nas o wyborze państwa, w którym będziesz wypełniać obowiązki operatora platformy.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_240" role="button" aria-expanded="false" aria-controls="collapse_240" aria-label="Terminy wykonania obowi&#x105;zk&#xF3;w za lata 2023 i 2024"><img src="/assets/ICONS/Caretdown.svg" alt="Terminy wykonania obowi&#x105;zk&#xF3;w za lata 2023 i 2024"><strong>Terminy wykonania obowi&#x105;zk&#xF3;w za lata 2023 i 2024</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_240">
+	<div class="table-responsive"><table>
+<tbody>
+<tr>
+<td></td>
+<td>Termin wykonania procedur należytej staranności</td>
+<td>Termin wykonania obowiązku sprawozdawczego</td>
+</tr>
+<tr>
+<td>Podmiot, który w dowolnym momencie okresu od 1 stycznia 2023 roku do dnia poprzedzającego dzień wejścia w życie ustawy spełnił warunki uznania za raportującego operatora platformy</td>
+<td>31 grudnia 2024 roku<br>(za 2023 rok)</td>
+<td>31 stycznia 2025 roku (za 2023 rok)</td>
+</tr>
+<tr>
+<td>Podmiot, który od dnia wejścia w życie ustawy będzie raportującym operatorem platformy*</td>
+<td>31 grudnia 2024 roku<br>(za 2024 rok)</td>
+<td>31 stycznia 2025 roku (za 2024 rok)</td>
+</tr>
+</tbody>
+</table></div>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_49" role="button" aria-expanded="false" aria-controls="collapse_49" aria-label="Kiedy i jak raportowa&#x107; "><img src="/assets/ICONS/Caretdown.svg" alt="Kiedy i jak raportowa&#x107; "><strong>Kiedy i jak raportowa&#x107; </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_49">
+	<p>Jako raportujący operator platformy przekaż informację o sprzedawcach Szefowi KAS.</p>
+<p>Termin Informację złóż do końca miesiąca następującego po zakończeniu okresu sprawozdawczego, w którym zidentyfikowałeś sprzedawcę jako podlegającego raportowaniu.</p>
+<p class="fw-bold bd-excerpt">Pamiętaj! Raportowaniem objęte są czynności wykonywane od 1 stycznia 2023 roku.</p>
+<p><strong>Jak podpisać informację</strong> <br>Jeśli masz pełnomocnictwo do podpisywania deklaracji elektronicznych (zgodne z Ordynacją podatkową), nie potrzebujesz nowego upoważnienia. To pełnomocnictwo pozwala Ci podpisać również informację o sprzedawcach.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_76" role="button" aria-expanded="false" aria-controls="collapse_76" aria-label="Jak przekaza&#x107; informacj&#x119; o sprzedawcach "><img src="/assets/ICONS/Caretdown.svg" alt="Jak przekaza&#x107; informacj&#x119; o sprzedawcach "><strong>Jak przekaza&#x107; informacj&#x119; o sprzedawcach </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_76">
+	<p>Informację o sprzedawcach przygotuj na podstawie <strong>wzoru dokumentu elektronicznego</strong>. Gotowy plik prześlij do nas za pomocą dedykowanego <strong>oprogramowania interfejsowego</strong>.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_958" role="button" aria-expanded="false" aria-controls="collapse_958" aria-label="Co grozi za nieprzestrzeganie przepis&#xF3;w"><img src="/assets/ICONS/Caretdown.svg" alt="Co grozi za nieprzestrzeganie przepis&#xF3;w"><strong>Co grozi za nieprzestrzeganie przepis&#xF3;w</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_958">
+	<p>Jeśli nie przestrzegasz obowiązków wskazanych w ustawie, Szef KAS może nałożyć na Ciebie karę pieniężną. Nakłada ją w drodze&nbsp;decyzji.</p>
+<p class="fw-bold bd-excerpt">Maksymalna wysokość kary to 1 000 000 zł.</p>
+
+
+
+</div>
+
+
+			</div>
+		</div>
+
+	
+</div>
+
+
+
+</div>
+
+<div class="accordion accordion-flush mb-4" id="accordionFlush_446" role="tablist" aria-label="Struktury">
+
+
+
+
+<div class="accordion-item">
+		<div class="accordion-header mb-4 pt-4" id="flush-heading340">
+			<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse340" aria-expanded="false" aria-controls="flush-collapse340">
+				<h3><strong>Struktury</strong></h3>
+			</button>
+		</div>
+		<div id="flush-collapse340" class="accordion-collapse collapsed collapse" aria-labelledby="flush-heading340">
+			<div class="accordion-body mb-4">
+				
+
+
+
+
+<div class="col-12 col-lg-12 mb-4">
+	<a class="card h-100 primary card-link fw-bold" href="https://www.gov.pl/web/kas/struktury-dpi-dla-operatorow-platform" title="Struktury">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+						<div class="col-10">
+							<p>Struktury</p>
+						</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+
+			</div>
+		</div>
+
+	
+</div>
+
+
+
+</div>
+
+<div class="accordion accordion-flush mb-4" id="accordionFlush_473" role="tablist" aria-label="Pytania i odpowiedzi dla operator&#xF3;w platform">
+
+
+
+
+<div class="accordion-item">
+		<div class="accordion-header mb-4 pt-4" id="flush-heading343">
+			<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse343" aria-expanded="false" aria-controls="flush-collapse343">
+				<h3><strong>Pytania i odpowiedzi dla operator&#xF3;w platform</strong></h3>
+			</button>
+		</div>
+		<div id="flush-collapse343" class="accordion-collapse collapsed collapse" aria-labelledby="flush-heading343">
+			<div class="accordion-body mb-4">
+				<p>Odpowiedzi na najczęściej zadawane pytania przez operatorów platform</p>
+
+
+
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_431" role="button" aria-expanded="false" aria-controls="collapse_431" aria-label="1. W jaki spos&#xF3;b mog&#x119; zarejestrowa&#x107; swoj&#x105; platform&#x119; handlow&#x105; zgodnie z dyrektyw&#x105; DAC7?"><img src="/assets/ICONS/Caretdown.svg" alt="1. W jaki spos&#xF3;b mog&#x119; zarejestrowa&#x107; swoj&#x105; platform&#x119; handlow&#x105; zgodnie z dyrektyw&#x105; DAC7?"><strong>1. W jaki spos&#xF3;b mog&#x119; zarejestrowa&#x107; swoj&#x105; platform&#x119; handlow&#x105; zgodnie z dyrektyw&#x105; DAC7?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_431">
+	<p>Prawne warunki rejestracji operatora platformy zostały określone w Rozdziale 4 Działu IIIA ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami.</p>
+<p>W zakresie technicznych możliwości przesłania formularza rejestracyjnego DPI-FR(1) do Szefa KAS informujemy, że 1 lipca 2024 r. uruchomione zostało środowisko produkcyjne dla operatorów platform, które zapewnia możliwość wysyłania plików DPI-FR(1) w formacie XML, zgodnych ze schematami XSD za pośrednictwem API.</p>
+<p>16 grudnia 2024 r. udostępniona została aplikacja WEB DPI, która umożliwia wygenerowanie plików DPI-FR(1), DPI-IS(1) i ich wizualizację. Kreator jest dostępny pod adresem -&nbsp;<a href="https://kwd.mf.gov.pl/dpi/start">https://kwd.mf.gov.pl/dpi/start</a>.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_597" role="button" aria-expanded="false" aria-controls="collapse_597" aria-label="2. Czy prawid&#x142;owym b&#x119;dzie, je&#x17C;eli platforma dostosuje si&#x119; do dyrektywy DAC7, ale tylko dla u&#x17C;ytkownik&#xF3;w, kt&#xF3;rzy zarejestrowali si&#x119; po 1 stycznia 2023 r.?"><img src="/assets/ICONS/Caretdown.svg" alt="2. Czy prawid&#x142;owym b&#x119;dzie, je&#x17C;eli platforma dostosuje si&#x119; do dyrektywy DAC7, ale tylko dla u&#x17C;ytkownik&#xF3;w, kt&#xF3;rzy zarejestrowali si&#x119; po 1 stycznia 2023 r.?"><strong>2. Czy prawid&#x142;owym b&#x119;dzie, je&#x17C;eli platforma dostosuje si&#x119; do dyrektywy DAC7, ale tylko dla u&#x17C;ytkownik&#xF3;w, kt&#xF3;rzy zarejestrowali si&#x119; po 1 stycznia 2023 r.?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_597">
+	<div id="content" class="container-fluid">
+<div class="container">
+<div id="accordion" class="accordion pl-0 pr-0">
+<div>
+<div>
+<div id="colapse11" data-parent="#accordion">
+<div>
+<p>Ustawa z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, w której dokonano implementacji dyrektywy DAC7, nie wyłącza z zakresu raportowania sprzedawców, którzy zarejestrowali się na platformie przed 1 stycznia 2023 r. Oznacza to, że obowiązki nałożone na operatorów platform mają zastosowanie zarówno wobec sprzedawców, którzy zarejestrowali się na danej platformie przed 1 stycznia 2023 r., jak i tych, którzy zarejestrowali się na niej od 1 stycznia 2023 r. (zob. art. 9 ust. 1 pkt 1 ustawy z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw. W szczególności należy podkreślić, że art. 9 ust. 1 pkt 1 ustawy z 23 maja 2024 r. nie odnosi się do sprzedawców, którzy na platformie zarejestrowali się w okresie wskazanym w tym przepisie, lecz do sprzedawców, którzy byli zarejestrowani na platformie w tym okresie (tj. w dowolnym momencie tego okresu, niezależnie od tego kiedy nastąpił moment rejestracji).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading12" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading13" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading14" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading15" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading16" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading17" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading18" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading19" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading110" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading111" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading112" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading113" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading114" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading115" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading116" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading117" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading118" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading119" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading120" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading121" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading122" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_879" role="button" aria-expanded="false" aria-controls="collapse_879" aria-label="3. Czy raportowa&#x107; musimy wszystkich u&#x17C;ytkownik&#xF3;w, czy tylko tych z Unii Europejskiej? Tylko oko&#x142;o 20% naszych u&#x17C;ytkownik&#xF3;w pochodzi z Unii. Je&#x15B;li inne kraje r&#xF3;wnie&#x17C; podlegaj&#x105; raportowaniu, to kt&#xF3;re?"><img src="/assets/ICONS/Caretdown.svg" alt="3. Czy raportowa&#x107; musimy wszystkich u&#x17C;ytkownik&#xF3;w, czy tylko tych z Unii Europejskiej? Tylko oko&#x142;o 20% naszych u&#x17C;ytkownik&#xF3;w pochodzi z Unii. Je&#x15B;li inne kraje r&#xF3;wnie&#x17C; podlegaj&#x105; raportowaniu, to kt&#xF3;re?"><strong>3. Czy raportowa&#x107; musimy wszystkich u&#x17C;ytkownik&#xF3;w, czy tylko tych z Unii Europejskiej? Tylko oko&#x142;o 20% naszych u&#x17C;ytkownik&#xF3;w pochodzi z Unii. Je&#x15B;li inne kraje r&#xF3;wnie&#x17C; podlegaj&#x105; raportowaniu, to kt&#xF3;re?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_879">
+	<p>Zgodnie z art. 75a ust. 1 pkt 19 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, przez sprzedawcę podlegającego raportowaniu rozumie się aktywnego sprzedawcę, niebędącego wyłączonym sprzedawcą, który jest rezydentem w państwie uczestniczącym lub udostępnił nieruchomość położoną w państwie uczestniczącym.</p>
+<p>Z kolei zgodnie z definicją z art. 75a ust. 1 pkt 11 ustawy, przez państwo uczestniczące rozumie się:<br>a) Rzeczpospolitą Polską oraz inne państwo członkowskie,<br>b) kwalifikowaną jurysdykcję spoza Unii Europejskiej,<br>c) państwo lub terytorium, z którym Rzeczpospolita Polska zawarła porozumienie stanowiące podstawę automatycznej wymiany informacji o sprzedawcach, niebędące kwalifikowaną jurysdykcją spoza Unii Europejskiej.</p>
+<p>Powyższe oznacza, że raportowaniu podlegają także sprzedawcy będący rezydentami państw spoza Unii Europejskiej lub udostępniający nieruchomość położoną w państwie spoza Unii Europejskiej, o ile są to państwa o których mowa w lit. b i c. Listę tych państw minister właściwy do spraw finansów publicznych będzie ogłaszał corocznie, w terminie do dnia 31 grudnia, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, i będzie ona obowiązywała za okres sprawozdawczy, w którym ta lista została ogłoszona (zob. art. 75a ust. 6 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami oraz art. 11 ustawy z dnia 23 maja 2024 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw).</p>
+<p>Jednakże zaraportowanie sprzedawców niespełniających powyższych kryteriów, nie stanowi naruszenia przepisów ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_917" role="button" aria-expanded="false" aria-controls="collapse_917" aria-label="4. Jaka jest kwota pieni&#x119;&#x17C;na (operujemy wy&#x142;&#x105;cznie w USD), kt&#xF3;r&#x105; u&#x17C;ytkownik/sprzedawca musi przekroczy&#x107;, aby by&#x107; uwzgl&#x119;dnionym zgodnie z dyrektyw&#x105; DAC7?"><img src="/assets/ICONS/Caretdown.svg" alt="4. Jaka jest kwota pieni&#x119;&#x17C;na (operujemy wy&#x142;&#x105;cznie w USD), kt&#xF3;r&#x105; u&#x17C;ytkownik/sprzedawca musi przekroczy&#x107;, aby by&#x107; uwzgl&#x119;dnionym zgodnie z dyrektyw&#x105; DAC7?"><strong>4. Jaka jest kwota pieni&#x119;&#x17C;na (operujemy wy&#x142;&#x105;cznie w USD), kt&#xF3;r&#x105; u&#x17C;ytkownik/sprzedawca musi przekroczy&#x107;, aby by&#x107; uwzgl&#x119;dnionym zgodnie z dyrektyw&#x105; DAC7?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_917">
+	<p>Kwestię przeliczania kwot reguluje art. 75a ust. 5 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami. Zgodnie z tym przepisem kwotę, o której mowa w art. 75a ust. 1 pkt 24 lit. d, oraz wyrażoną w euro albo w innej walucie obcej wartość wynagrodzenia przelicza się na złote według średniego kursu tych walut ogłoszonego przez Narodowy Bank Polski na pierwszy dzień roboczy okresu sprawozdawczego.</p>
+<p>Odnosząc się zatem do tego jak należy przeliczać kwotę, o której mowa w art. 75a ust. 1 pkt 24 lit. d, w przypadku wynagrodzenia wypłacanego w dolarach amerykańskich, zgodnie z przywołanym art. 75a ust. 5, należy najpierw przeliczyć na złote kwotę 2 tys. euro według średniego kursu euro ogłoszonego przez Narodowy Bank Polski na pierwszy dzień roboczy danego okresu sprawozdawczego, a następnie przeliczyć na złote wynagrodzenie w dolarach amerykańskich według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski na pierwszy dzień roboczy tego samego okresu sprawozdawczego.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_246" role="button" aria-expanded="false" aria-controls="collapse_246" aria-label="5. Co jaki czas nale&#x17C;y raportowa&#x107; o transakcjach u&#x17C;ytkownik&#xF3;w w ramach DAC7?"><img src="/assets/ICONS/Caretdown.svg" alt="5. Co jaki czas nale&#x17C;y raportowa&#x107; o transakcjach u&#x17C;ytkownik&#xF3;w w ramach DAC7?"><strong>5. Co jaki czas nale&#x17C;y raportowa&#x107; o transakcjach u&#x17C;ytkownik&#xF3;w w ramach DAC7?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_246">
+	<p>Zgodnie z art. 75b ust. 1 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, raportujący operator platformy przekazuje Szefowi KAS informację o sprzedawcach, w terminie do końca miesiąca następującego po zakończeniu okresu sprawozdawczego, w którym raportujący operator platformy zidentyfikował sprzedawcę jako sprzedawcę podlegającego raportowaniu. Przez okres sprawozdawczy rozumie się rok kalendarzowy, za który jest przekazywana informacja o sprzedawcach. Ponadto należy pamiętać o możliwości skorygowania złożonej informacji o sprzedawcach.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_704" role="button" aria-expanded="false" aria-controls="collapse_704" aria-label="6. Czy operator platformy wobec sprzedawcy, kt&#xF3;ry nie przekazuje danych, zobowi&#x105;zany jest do zastosowania obu &#x15B;rodk&#xF3;w dyscyplinuj&#x105;cych przewidzianych w Dyrektywie DAC7, tj. blokady wyp&#x142;aty wynagrodzenia i blokady konta u&#x17C;ytkownika?"><img src="/assets/ICONS/Caretdown.svg" alt="6. Czy operator platformy wobec sprzedawcy, kt&#xF3;ry nie przekazuje danych, zobowi&#x105;zany jest do zastosowania obu &#x15B;rodk&#xF3;w dyscyplinuj&#x105;cych przewidzianych w Dyrektywie DAC7, tj. blokady wyp&#x142;aty wynagrodzenia i blokady konta u&#x17C;ytkownika?"><strong>6. Czy operator platformy wobec sprzedawcy, kt&#xF3;ry nie przekazuje danych, zobowi&#x105;zany jest do zastosowania obu &#x15B;rodk&#xF3;w dyscyplinuj&#x105;cych przewidzianych w Dyrektywie DAC7, tj. blokady wyp&#x142;aty wynagrodzenia i blokady konta u&#x17C;ytkownika?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_704">
+	<p>Zgodnie z przepisami ustawy obligatoryjnie w pierwszej kolejności należy dokonać blokady wypłaty wynagrodzenia na rzecz sprzedawcy. Dopiero w dalszej kolejności – w przypadku gdy raportujący operator platformy nie ma możliwości wstrzymania wypłaty wynagrodzenia – jest zobowiązany do blokady możliwości dalszego wykonywania stosownych czynności przez danego sprzedawcę za pośrednictwem platformy.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_49" role="button" aria-expanded="false" aria-controls="collapse_49" aria-label="7. Gdzie znajdziemy niezb&#x119;dne informacje techniczne zwi&#x105;zane z wdro&#x17C;eniem DAC7?"><img src="/assets/ICONS/Caretdown.svg" alt="7. Gdzie znajdziemy niezb&#x119;dne informacje techniczne zwi&#x105;zane z wdro&#x17C;eniem DAC7?"><strong>7. Gdzie znajdziemy niezb&#x119;dne informacje techniczne zwi&#x105;zane z wdro&#x17C;eniem DAC7?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_49">
+	<p>Zgodnie z podstawowymi wymaganiami struktury formularzy DPI-FR i DPI-IS zostały udostępnione, wraz ze stosowną dokumentacją, operatorom platform sprzedażowych na stronie&nbsp;<a href="https://www.gov.pl/web/kas/struktury-dpi-dla-operatorow-platform">Struktury DPI dla operatorów platform</a>.</p>
+<p>4 listopada 2024 r. zostało udostępnione środowisko testowe dla plików DPI. Środowisko testowe obejmuje możliwość wysyłania plików w formacie XML, zgodnym ze schematami XSD. Środowisko testowe (dostępne pod adresem: <a href="https://test-e-dokumenty.mf.gov.pl/">https://test-e-dokumenty.mf.gov.pl</a>) umożliwia sprawdzenie poprawności wysyłania formularza rejestracyjnego (DPI-FR(1)) oraz informacji o sprzedawcach (DPI-IS(1)). W środowisku tym sprawdzana jest zgodność ze schematem XML i walidacjami biznesowymi, a plik może być również weryfikowany pod kątem ważności podpisu w pliku. Ponieważ nie wszystkie funkcjonalności są dostępne w środowisku testowym, należy pamiętać, że pełnomocnictwa nie będą weryfikowane.</p>
+<p>Szczegółowy opis środowiska znajduje się w Specyfikacji Interfejsu Usługi JPK w wersji 4.3.1, która wraz z plikiem InitUploud dostępna jest na stronie Krajowej Administracji Skarbowej, w zakładce <a href="https://www.gov.pl/web/kas/struktury-dpi-dla-operatorow-platform">Struktury DPI dla operatorów platform</a>.</p>
+<p>Uwaga: Dane przekazywane w ramach testów powinny być fikcyjne i nie powinny zawierać rzeczywistych danych osobowych.</p>
+<p>W zakresie technicznych możliwości przesłania formularza rejestracyjnego DPI-FR(1) do Szefa KAS informujemy, że 1 lipca 2024 r. uruchomione zostało środowisko produkcyjne dla operatorów platform, które zapewnia możliwość wysyłania plików DPI-FR(1) w formacie XML, zgodnych ze schematami XSD za pośrednictwem API.</p>
+<p>16 grudnia 2024 r. udostępniona została aplikacja WEB DPI, która umożliwia wygenerowanie plików DPI-FR(1), DPI-IS(1) i ich wizualizację. Kreator jest dostępny pod adresem - <a href="https://kwd.mf.gov.pl/dpi/start">https://kwd.mf.gov.pl/dpi/start</a>.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_758" role="button" aria-expanded="false" aria-controls="collapse_758" aria-label="8. Czy s&#x105; przygotowane narz&#x119;dzia (typu serwis internetowy, API) dla raportowania o transakcjach w ramach DAC7?"><img src="/assets/ICONS/Caretdown.svg" alt="8. Czy s&#x105; przygotowane narz&#x119;dzia (typu serwis internetowy, API) dla raportowania o transakcjach w ramach DAC7?"><strong>8. Czy s&#x105; przygotowane narz&#x119;dzia (typu serwis internetowy, API) dla raportowania o transakcjach w ramach DAC7?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_758">
+	<p>Od dnia wejścia w życie przepisów wdrażających do polskiego porządku prawnego dyrektywę DAC7, uruchomione zostało środowisko produkcyjne dla operatorów platform, które zapewnia możliwość wysyłania plików DPI-FR(1) i DPI-IS(1) w formacie XML, zgodnych ze schematami XSD.</p>
+<p>Uruchomiony interfejs usług Jednolitego Pliku Kontrolnego (bramka JPK) umożliwia sprawdzenie poprawności plików oraz ich przesłanie do Szefa KAS.</p>
+<p>Interfejs usług Jednolitego Pliku Kontrolnego (Bramka e-Dokumenty) dostępny jest pod adresem:&nbsp;<a href="https://e-dokumenty.mf.gov.pl/">https://e-dokumenty.mf.gov.pl</a>.</p>
+<p>Szczegółowe informacje oraz dokumenty zamieszczone są na stronie <a href="https://www.gov.pl/web/kas/struktury-dpi-dla-operatorow-platform">Struktury DPI dla operatorów platform</a>.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_416" role="button" aria-expanded="false" aria-controls="collapse_416" aria-label="9. Czy nieuzupe&#x142;nienie p&#xF3;l obligatoryjnych / jednego z p&#xF3;l obligatoryjnych, w przypadku gdy schema przewiduje konieczno&#x15B;&#x107; wyboru, b&#x119;dzie skutkowa&#x142;o technicznym brakiem mo&#x17C;liwo&#x15B;ci zaraportowania danych do Szefa KAS?"><img src="/assets/ICONS/Caretdown.svg" alt="9. Czy nieuzupe&#x142;nienie p&#xF3;l obligatoryjnych / jednego z p&#xF3;l obligatoryjnych, w przypadku gdy schema przewiduje konieczno&#x15B;&#x107; wyboru, b&#x119;dzie skutkowa&#x142;o technicznym brakiem mo&#x17C;liwo&#x15B;ci zaraportowania danych do Szefa KAS?"><strong>9. Czy nieuzupe&#x142;nienie p&#xF3;l obligatoryjnych / jednego z p&#xF3;l obligatoryjnych, w przypadku gdy schema przewiduje konieczno&#x15B;&#x107; wyboru, b&#x119;dzie skutkowa&#x142;o technicznym brakiem mo&#x17C;liwo&#x15B;ci zaraportowania danych do Szefa KAS?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_416">
+	<p>Zakres danych obowiązkowych do przekazania przez operatorów platform wyznaczony jest przez przepisy ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami. W odniesieniu do DPI-FR(1) jest to art. 75t ust. 4 oraz 75u ust. 3, natomiast w odniesieniu do DPI-IS(1) art. 75c.</p>
+<p>Każdy składany formularz DPI-FR oraz DPI-IS będzie podlegał weryfikacji technicznej, tzn. weryfikowany na zgodność ze schemą. Jeśli pola obowiązkowe nie zostaną wypełnione, nie będzie możliwości przekazania takiego pliku.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_145" role="button" aria-expanded="false" aria-controls="collapse_145" aria-label="10. Czy w przypadku element&#xF3;w &#x201E;Entity Seller&#x201D; oraz &quot;Individual Seller&quot;, gdy operator platformy posiada dane pozwalaj&#x105;ce na wype&#x142;nienie pola &quot;GVS&quot;, obowi&#x105;zkowe b&#x119;dzie wype&#x142;nienie zar&#xF3;wno pola &quot;Standard&quot;, jak i &quot;GVS&quot;?"><img src="/assets/ICONS/Caretdown.svg" alt="10. Czy w przypadku element&#xF3;w &#x201E;Entity Seller&#x201D; oraz &quot;Individual Seller&quot;, gdy operator platformy posiada dane pozwalaj&#x105;ce na wype&#x142;nienie pola &quot;GVS&quot;, obowi&#x105;zkowe b&#x119;dzie wype&#x142;nienie zar&#xF3;wno pola &quot;Standard&quot;, jak i &quot;GVS&quot;?"><strong>10. Czy w przypadku element&#xF3;w &#x201E;Entity Seller&#x201D; oraz &quot;Individual Seller&quot;, gdy operator platformy posiada dane pozwalaj&#x105;ce na wype&#x142;nienie pola &quot;GVS&quot;, obowi&#x105;zkowe b&#x119;dzie wype&#x142;nienie zar&#xF3;wno pola &quot;Standard&quot;, jak i &quot;GVS&quot;?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_145">
+	<p>Tak, zgodnie z art. 75l ust. 5 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, w przypadku gdy potwierdzenie tożsamości i rezydencji sprzedawcy jest dokonywane za pomocą elektronicznej usługi identyfikacyjnej udostępnionej przez państwo uczestniczące lub Unię Europejską, należy i tak przekazać całą informację o sprzedawcy. Budowa formularza DPI-IS wymusza uzupełnienie elementu „Standard”, natomiast element „GVS” jest elementem fakultatywnym (nieobowiązkowym).</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_329" role="button" aria-expanded="false" aria-controls="collapse_329" aria-label="11. Zgodnie z informacjami zawartymi w Biuletynie Informacji Publicznej, interfejs us&#x142;ug Jednolitego Pliku Kontrolnego b&#x119;dzie umo&#x17C;liwia&#x107; sprawdzenie poprawno&#x15B;ci plik&#xF3;w. Jaki jest zakres walidacji poprawno&#x15B;ci plik&#xF3;w?"><img src="/assets/ICONS/Caretdown.svg" alt="11. Zgodnie z informacjami zawartymi w Biuletynie Informacji Publicznej, interfejs us&#x142;ug Jednolitego Pliku Kontrolnego b&#x119;dzie umo&#x17C;liwia&#x107; sprawdzenie poprawno&#x15B;ci plik&#xF3;w. Jaki jest zakres walidacji poprawno&#x15B;ci plik&#xF3;w?"><strong>11. Zgodnie z informacjami zawartymi w Biuletynie Informacji Publicznej, interfejs us&#x142;ug Jednolitego Pliku Kontrolnego b&#x119;dzie umo&#x17C;liwia&#x107; sprawdzenie poprawno&#x15B;ci plik&#xF3;w. Jaki jest zakres walidacji poprawno&#x15B;ci plik&#xF3;w?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_329">
+	<p>Informacje o regułach biznesowych znajdują się na stronie&nbsp;<a href="https://www.gov.pl/web/kas/struktury-dpi-dla-operatorow-platform">Struktury DPI dla operatorów platform</a>&nbsp;-&nbsp;Załącznik nr 1 DPI-IS(1) - Reguły biznesowe.</p>
+<p>Specyfikacja interfejsów usług JPK wersja 5.2.0. dostępna jest na stronie <a href="/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat/pliki-do-pobrania-jpk-vat/" title="Pliki do pobrania JPK VAT">JPK_VAT Pliki do pobrania</a><a href="https://podatki-arch.mf.gov.pl/jednolity-plik-kontrolny/jpk_vat/pliki-do-pobrania/"></a>.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_506" role="button" aria-expanded="false" aria-controls="collapse_506" aria-label="12. Do jakich podmiot&#xF3;w skierowany jest Za&#x142;&#x105;cznik nr 1 &quot;DPI-IS(1) - Regu&#x142;y biznesowe&quot;. Czy jest to materia&#x142; skierowany do operator&#xF3;w platform i czy wymienione w nim b&#x142;&#x119;dy pojawi&#x105; si&#x119; podczas walidacji plik&#xF3;w w bramce JPK?"><img src="/assets/ICONS/Caretdown.svg" alt="12. Do jakich podmiot&#xF3;w skierowany jest Za&#x142;&#x105;cznik nr 1 &quot;DPI-IS(1) - Regu&#x142;y biznesowe&quot;. Czy jest to materia&#x142; skierowany do operator&#xF3;w platform i czy wymienione w nim b&#x142;&#x119;dy pojawi&#x105; si&#x119; podczas walidacji plik&#xF3;w w bramce JPK?"><strong>12. Do jakich podmiot&#xF3;w skierowany jest Za&#x142;&#x105;cznik nr 1 &quot;DPI-IS(1) - Regu&#x142;y biznesowe&quot;. Czy jest to materia&#x142; skierowany do operator&#xF3;w platform i czy wymienione w nim b&#x142;&#x119;dy pojawi&#x105; si&#x119; podczas walidacji plik&#xF3;w w bramce JPK?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_506">
+	<div id="content" class="container-fluid">
+<div class="container">
+<div id="accordion" class="accordion pl-0 pr-0">
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="colapse111" class="collapse show" data-parent="#accordion">
+<div class="card-body pl-0 pr-0 will-change">
+<p>Immanentną częścią wzoru struktury logicznej DPI-IS jest Załącznik nr 1 DPI-IS(1) Reguły biznesowe. Oznacza to, że poza zapewnieniem zgodności semantycznej przesyłanych do Szefa KAS plików operatorzy platform celem skutecznego ich przekazania, muszą zapewnić zgodność pliku DPI-IS ze wskazanymi regułami biznesowymi.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading112" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading113" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading114" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading115" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading116" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading117" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading118" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading119" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading120" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading121" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 mx-auto">
+<div id="heading122" class=" card-header border-bottom-0 bg-white border-left-0 border-right-0 pb-0 pl-0 pr-0"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_364" role="button" aria-expanded="false" aria-controls="collapse_364" aria-label="13. Czy pe&#x142;nomocnik ustanowiony w DPI-FR(1) musi posiada&#x107; numer PESEL? Czy ustanowienie pe&#x142;nomocnika w DPI-FR(1) poci&#x105;ga za sob&#x105; konieczno&#x15B;&#x107; z&#x142;o&#x17C;enia UPL-1 dla tej osoby?"><img src="/assets/ICONS/Caretdown.svg" alt="13. Czy pe&#x142;nomocnik ustanowiony w DPI-FR(1) musi posiada&#x107; numer PESEL? Czy ustanowienie pe&#x142;nomocnika w DPI-FR(1) poci&#x105;ga za sob&#x105; konieczno&#x15B;&#x107; z&#x142;o&#x17C;enia UPL-1 dla tej osoby?"><strong>13. Czy pe&#x142;nomocnik ustanowiony w DPI-FR(1) musi posiada&#x107; numer PESEL? Czy ustanowienie pe&#x142;nomocnika w DPI-FR(1) poci&#x105;ga za sob&#x105; konieczno&#x15B;&#x107; z&#x142;o&#x17C;enia UPL-1 dla tej osoby?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_364">
+	<p>Pełnomocnik ustanowiony w DPI-FR(1) nie musi posiadać numeru PESEL, musi posiadać jeden z wymienionych rodzajów podpisów wskazanych w ustawie. Elektroniczny podpis kwalifikowany musi być wydany zgodnie z Rozporządzeniem eIDAS, nie musi więc być wydany przez polskiego wystawcę, ani zawierać numeru PESEL. Proces ustanowienia pełnomocnika w DPI-FR(1) jest odrębny i niezależny od procesu udzielania pełnomocnictwa do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej, na dokumencie UPL-1.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_516" role="button" aria-expanded="false" aria-controls="collapse_516" aria-label="14. Czy wyst&#x105;pienie b&#x142;&#x119;du walidacji biznesowej (np. E020) b&#x119;dzie wi&#x105;za&#x142;o si&#x119; z brakiem mo&#x17C;liwo&#x15B;ci przes&#x142;ania informacji o sprzedawcach przez operatora platformy czy wy&#x142;&#x105;cznie z wygenerowaniem raportu b&#x142;&#x119;d&#xF3;w?"><img src="/assets/ICONS/Caretdown.svg" alt="14. Czy wyst&#x105;pienie b&#x142;&#x119;du walidacji biznesowej (np. E020) b&#x119;dzie wi&#x105;za&#x142;o si&#x119; z brakiem mo&#x17C;liwo&#x15B;ci przes&#x142;ania informacji o sprzedawcach przez operatora platformy czy wy&#x142;&#x105;cznie z wygenerowaniem raportu b&#x142;&#x119;d&#xF3;w?"><strong>14. Czy wyst&#x105;pienie b&#x142;&#x119;du walidacji biznesowej (np. E020) b&#x119;dzie wi&#x105;za&#x142;o si&#x119; z brakiem mo&#x17C;liwo&#x15B;ci przes&#x142;ania informacji o sprzedawcach przez operatora platformy czy wy&#x142;&#x105;cznie z wygenerowaniem raportu b&#x142;&#x119;d&#xF3;w?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_516">
+	<p>Załącznikiem do schemy DPI-IS(1) są reguły biznesowe zawierające listę błędów walidacji biznesowych, dokonywanych na przesłanych plikach DPI-IS(1). Identyfikacja wskazanych błędów wiąże się z wystawieniem Raportu błędów – w konsekwencji przesłany plik DPI-IS(1) nie zostaje przyjęty, a raportujący operator platformy zobowiązany jest do ponownego przesłania pliku DPI-IS po wyeliminowaniu wskazanych w Raporcie błędów.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_820" role="button" aria-expanded="false" aria-controls="collapse_820" aria-label="15. Czy w ramach struktury Schematu DPI-IS(1) pole &#x201E;BirthPlace&#x201D; jest w jakikolwiek spos&#xF3;b technicznie powi&#x105;zane z polem &#x201E;TIN&#x201D; (w przypadku sprzedawcy b&#x119;d&#x105;cego osob&#x105; fizyczn&#x105;)? W szczeg&#xF3;lno&#x15B;ci czy wskazanie atrybutu unknown =&#x2019;true&#x2019; w polu &#x201E;TIN&#x201D; wi&#x105;&#x17C;e si&#x119; z konieczno&#x15B;ci&#x105; wype&#x142;nienia pola &#x201E;BirthPlace&#x201D;?"><img src="/assets/ICONS/Caretdown.svg" alt="15. Czy w ramach struktury Schematu DPI-IS(1) pole &#x201E;BirthPlace&#x201D; jest w jakikolwiek spos&#xF3;b technicznie powi&#x105;zane z polem &#x201E;TIN&#x201D; (w przypadku sprzedawcy b&#x119;d&#x105;cego osob&#x105; fizyczn&#x105;)? W szczeg&#xF3;lno&#x15B;ci czy wskazanie atrybutu unknown =&#x2019;true&#x2019; w polu &#x201E;TIN&#x201D; wi&#x105;&#x17C;e si&#x119; z konieczno&#x15B;ci&#x105; wype&#x142;nienia pola &#x201E;BirthPlace&#x201D;?"><strong>15. Czy w ramach struktury Schematu DPI-IS(1) pole &#x201E;BirthPlace&#x201D; jest w jakikolwiek spos&#xF3;b technicznie powi&#x105;zane z polem &#x201E;TIN&#x201D; (w przypadku sprzedawcy b&#x119;d&#x105;cego osob&#x105; fizyczn&#x105;)? W szczeg&#xF3;lno&#x15B;ci czy wskazanie atrybutu unknown =&#x2019;true&#x2019; w polu &#x201E;TIN&#x201D; wi&#x105;&#x17C;e si&#x119; z konieczno&#x15B;ci&#x105; wype&#x142;nienia pola &#x201E;BirthPlace&#x201D;?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_820">
+	<p>W ramach struktury Schematu DPI-IS(1) pole „BirthPlace” nie jest w jakikolwiek sposób technicznie powiązane z polem „TIN”. Wymaganie określone w art. 75c pkt 3) lit. c) ustawy o wymianie informacji z innymi państwami jest sprawdzane walidatorem reguł biznesowych. W przypadku kiedy dla sprzedawcy będącego osobą fizyczną atrybut dla element TIN zostanie określony jako „unknown”, walidator będzie weryfikował czy w takiej sytuacji został wypełniony element<span>&nbsp;</span>BirthPlace<span>&nbsp;</span>(miejsce urodzenia).</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_511" role="button" aria-expanded="false" aria-controls="collapse_511" aria-label="16. W przypadku, gdy konsekwencj&#x105; b&#x142;&#x119;du E020 jest brak mo&#x17C;liwo&#x15B;ci przes&#x142;ania informacji o sprzedawcach, jak&#x105; warto&#x15B;&#x107; mo&#x17C;e wskaza&#x107; w polu &#x201E;BirthPlace&#x201D; operator platformy w przypadku, kiedy nie otrzyma&#x142; on od sprzedawcy b&#x119;d&#x105;cego osob&#x105; fizyczn&#x105;, informacji o miejscu urodzenia?"><img src="/assets/ICONS/Caretdown.svg" alt="16. W przypadku, gdy konsekwencj&#x105; b&#x142;&#x119;du E020 jest brak mo&#x17C;liwo&#x15B;ci przes&#x142;ania informacji o sprzedawcach, jak&#x105; warto&#x15B;&#x107; mo&#x17C;e wskaza&#x107; w polu &#x201E;BirthPlace&#x201D; operator platformy w przypadku, kiedy nie otrzyma&#x142; on od sprzedawcy b&#x119;d&#x105;cego osob&#x105; fizyczn&#x105;, informacji o miejscu urodzenia?"><strong>16. W przypadku, gdy konsekwencj&#x105; b&#x142;&#x119;du E020 jest brak mo&#x17C;liwo&#x15B;ci przes&#x142;ania informacji o sprzedawcach, jak&#x105; warto&#x15B;&#x107; mo&#x17C;e wskaza&#x107; w polu &#x201E;BirthPlace&#x201D; operator platformy w przypadku, kiedy nie otrzyma&#x142; on od sprzedawcy b&#x119;d&#x105;cego osob&#x105; fizyczn&#x105;, informacji o miejscu urodzenia?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_511">
+	<p>Struktura DPI-IS, a tym samym obowiązkowość i fakultatywność elementów, wynika z ustawy o wymianie informacji podatkowych z innymi państwami. W art. 75c ustawy wskazano, jakie dane zawiera informacja o sprzedawcach – brak wypełnionych pól obowiązkowych będzie skutkował niezgodnością ze schemą, a tym samym niemożliwe będzie przesłanie takiego pliku.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_776" role="button" aria-expanded="false" aria-controls="collapse_776" aria-label="17. Czy wszystkie warto&#x15B;ci kwot przekazywane w raporcie powinny by&#x107; w groszach, czy te&#x17C; powinny to by&#x107; warto&#x15B;ci zaokr&#x105;glone do z&#x142;ot&#xF3;wki?"><img src="/assets/ICONS/Caretdown.svg" alt="17. Czy wszystkie warto&#x15B;ci kwot przekazywane w raporcie powinny by&#x107; w groszach, czy te&#x17C; powinny to by&#x107; warto&#x15B;ci zaokr&#x105;glone do z&#x142;ot&#xF3;wki?"><strong>17. Czy wszystkie warto&#x15B;ci kwot przekazywane w raporcie powinny by&#x107; w groszach, czy te&#x17C; powinny to by&#x107; warto&#x15B;ci zaokr&#x105;glone do z&#x142;ot&#xF3;wki?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_776">
+	<p>Kwoty pieniężne w elementach Consideration (Wynagrodzenie), Fees (Składki, prowizje) oraz Taxes (Podatki) należy podawać w pełnych jednostkach, tj. bez miejsc po przecinku, a przy zaokrąglaniu należy stosować zasady ogólne.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_176" role="button" aria-expanded="false" aria-controls="collapse_176" aria-label="18. Schema dopuszcza brak wpisania nr identyfikacji VAT lub te&#x17C; wpisanie jednego nr identyfikacji VAT sprzedawcy. Kt&#xF3;ry numer identyfikacji VAT nale&#x17C;y wpisa&#x107;, w przypadku gdy sprzedawca podlegaj&#x105;cy raportowaniu posiada kilka numer&#xF3;w z r&#xF3;&#x17C;nych kraj&#xF3;w cz&#x142;onkowskich? Czy w takiej sytuacji operator platformy mo&#x17C;e podj&#x105;&#x107; decyzj&#x119;, &#x17C;e nie wpisuje &#x17C;adnego numeru VAT?"><img src="/assets/ICONS/Caretdown.svg" alt="18. Schema dopuszcza brak wpisania nr identyfikacji VAT lub te&#x17C; wpisanie jednego nr identyfikacji VAT sprzedawcy. Kt&#xF3;ry numer identyfikacji VAT nale&#x17C;y wpisa&#x107;, w przypadku gdy sprzedawca podlegaj&#x105;cy raportowaniu posiada kilka numer&#xF3;w z r&#xF3;&#x17C;nych kraj&#xF3;w cz&#x142;onkowskich? Czy w takiej sytuacji operator platformy mo&#x17C;e podj&#x105;&#x107; decyzj&#x119;, &#x17C;e nie wpisuje &#x17C;adnego numeru VAT?"><strong>18. Schema dopuszcza brak wpisania nr identyfikacji VAT lub te&#x17C; wpisanie jednego nr identyfikacji VAT sprzedawcy. Kt&#xF3;ry numer identyfikacji VAT nale&#x17C;y wpisa&#x107;, w przypadku gdy sprzedawca podlegaj&#x105;cy raportowaniu posiada kilka numer&#xF3;w z r&#xF3;&#x17C;nych kraj&#xF3;w cz&#x142;onkowskich? Czy w takiej sytuacji operator platformy mo&#x17C;e podj&#x105;&#x107; decyzj&#x119;, &#x17C;e nie wpisuje &#x17C;adnego numeru VAT?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_176">
+	<p>Jeśli operator platformy jest w posiadaniu numeru VAT sprzedawcy podlegającego raportowaniu będącego podmiotem, powinien taki numer wskazać w informacji DPI-IS. W elemencie ‘VAT’ można wpisać do 200 znaków. W przypadku posiadania przez operatora platformy informacji o więcej niż jednym numerze VAT sprzedawcy, należy podać je wszystkie rozdzielając przecinkiem. W tym miejscu zwracamy uwagę na znaki, które należy zamienić odpowiednio na ciągi znaków wskazane w tabeli:</p>
+<div class="table-responsive"><table>
+<tbody>
+<tr>
+<td>Znak</td>
+<td>Ciąg znaków</td>
+</tr>
+<tr>
+<td>&amp;</td>
+<td>&amp;amp;</td>
+</tr>
+<tr>
+<td>&lt;</td>
+<td>&amp;lt;</td>
+</tr>
+<tr>
+<td>&gt;</td>
+<td>&amp;gt;</td>
+</tr>
+<tr>
+<td>'</td>
+<td>&amp;apos;</td>
+</tr>
+<tr>
+<td>„</td>
+<td>&amp;quot;</td>
+</tr>
+</tbody>
+</table></div>
+<p>Poniższe kombinacje znaków są zabronione:</p>
+<div class="table-responsive"><table>
+<tbody>
+<tr>
+<td>Kombinacja znaków</td>
+<td>Opis</td>
+</tr>
+<tr>
+<td>--</td>
+<td>podwójny myślnik</td>
+</tr>
+<tr>
+<td>/*</td>
+<td>ukośnik prawy gwiazdka</td>
+</tr>
+<tr>
+<td>&amp;#</td>
+<td>ampersand kratka</td>
+</tr>
+</tbody>
+</table></div>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_472" role="button" aria-expanded="false" aria-controls="collapse_472" aria-label="19. Jaki format powinien mie&#x107; nr identyfikacji VAT sprzedawcy podlegaj&#x105;cego raportowaniu? Czy powinien by&#x107; to nr VAT UE (znak kraju&#x2B; ci&#x105;g numeryczny) czy te&#x17C; sam ci&#x105;g numeryczny?"><img src="/assets/ICONS/Caretdown.svg" alt="19. Jaki format powinien mie&#x107; nr identyfikacji VAT sprzedawcy podlegaj&#x105;cego raportowaniu? Czy powinien by&#x107; to nr VAT UE (znak kraju&#x2B; ci&#x105;g numeryczny) czy te&#x17C; sam ci&#x105;g numeryczny?"><strong>19. Jaki format powinien mie&#x107; nr identyfikacji VAT sprzedawcy podlegaj&#x105;cego raportowaniu? Czy powinien by&#x107; to nr VAT UE (znak kraju&#x2B; ci&#x105;g numeryczny) czy te&#x17C; sam ci&#x105;g numeryczny?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_472">
+	<p>Należy wpisać numer w formacie kod kraju + ciąg znaków numerycznych.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_855" role="button" aria-expanded="false" aria-controls="collapse_855" aria-label="20. Co oznaczaj&#x105; pola &#x201E;Podatki zatrzymane lub pobrane&#x201D; w I, II, III i IV kwartale?"><img src="/assets/ICONS/Caretdown.svg" alt="20. Co oznaczaj&#x105; pola &#x201E;Podatki zatrzymane lub pobrane&#x201D; w I, II, III i IV kwartale?"><strong>20. Co oznaczaj&#x105; pola &#x201E;Podatki zatrzymane lub pobrane&#x201D; w I, II, III i IV kwartale?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_855">
+	<p>Elementy te prezentują pozycje obowiązkowe dla raportującego operatora platformy, w których wskazywane są zgodnie z ustawą składki, prowizje lub podatki zatrzymane lub pobrane przez raportującego operatora platformy w każdym kwartale okresu sprawozdawczego. Element ten jest istotny w kontekście ustawowej definicji wynagrodzenia, przez którą rozumie się kompensatę, w dowolnej formie, pomniejszoną o składki, opłaty, prowizje lub podatki zatrzymane lub pobrane przez raportującego operatora platformy, wypłaconą lub uznaną na rzecz sprzedawcy w związku z wykonywaniem stosownej czynności, jeżeli kwota tej kompensaty jest znana operatorowi platformy lub operator platformy może, w rozsądny sposób, ustalić tę kwotę.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_71" role="button" aria-expanded="false" aria-controls="collapse_71" aria-label="21. Jaki jest przewidywany czas trwania procesu rejestracji?"><img src="/assets/ICONS/Caretdown.svg" alt="21. Jaki jest przewidywany czas trwania procesu rejestracji?"><strong>21. Jaki jest przewidywany czas trwania procesu rejestracji?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_71">
+	<p>Szef Krajowej Administracji Skarbowej w terminie 30 dni od dnia otrzymania formularza rejestracyjnego nadaje raportującemu operatorowi platformy spoza Unii Europejskiej, indywidualny numer operatora platformy.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_885" role="button" aria-expanded="false" aria-controls="collapse_885" aria-label="22. Jakie dane s&#x105; wymagane, aby podmiot zagraniczny nieposiadaj&#x105;cy siedziby na terytorium UE, sam m&#xF3;g&#x142; sk&#x142;ada&#x107; w Polsce takie sprawozdania?"><img src="/assets/ICONS/Caretdown.svg" alt="22. Jakie dane s&#x105; wymagane, aby podmiot zagraniczny nieposiadaj&#x105;cy siedziby na terytorium UE, sam m&#xF3;g&#x142; sk&#x142;ada&#x107; w Polsce takie sprawozdania?"><strong>22. Jakie dane s&#x105; wymagane, aby podmiot zagraniczny nieposiadaj&#x105;cy siedziby na terytorium UE, sam m&#xF3;g&#x142; sk&#x142;ada&#x107; w Polsce takie sprawozdania?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_885">
+	<ol>
+<li>Formularz rejestracyjny składny przez raportującego operatora platformy spoza Unii Europejskiej, który wybrał Rzeczpospolitą Polską jako państwo, w którym będzie wypełniać obowiązki, zawiera niezbędne dane, tj.:<br>informacje dotyczące raportującego operatora platformy:
+<ol>
+<li>nazwę,</li>
+<li>główny adres,</li>
+<li>adres do doręczeń elektronicznych,</li>
+<li>adresy stron internetowych,</li>
+<li>każdy TIN nadany raportującemu operatorowi platformy spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT,</li>
+<li>informację o identyfikacji raportującego operatora platformy do celów podatku od towarów i usług lub podatku od wartości dodanej, zgodnie z tytułem XII rozdziałem 6 sekcją 2 i 3 dyrektywy 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz.Urz. UE L 347 z 11.12.2006, str. 1, z późn. zm.52)),</li>
+<li>wskazanie państw członkowskich, których rezydentami są sprzedawcy podlegający raportowaniu;</li>
+</ol>
+</li>
+<li>informacje dotyczące pełnomocnika upoważnionego do podpisywania informacji o sprzedawcach oraz korekt formularza rejestracyjnego:
+<ol>
+<li>imię, nazwisko i datę urodzenia,</li>
+<li>TIN, jeżeli jest dostępny,</li>
+<li>w przypadku braku TIN - numer i serię paszportu lub innego dokumentu potwierdzającego tożsamość albo inny numer identyfikacyjny,</li>
+<li>państwo wydania dokumentu, o którym mowa w lit. c,</li>
+<li>dane pełnomocnika oraz dane wystawcy kwalifikowanego certyfikatu podpisu elektronicznego, zawarte w kwalifikowanym certyfikacie podpisu elektronicznego - w przypadku gdy pełnomocnik będzie opatrywał dokumenty kwalifikowanym podpisem elektronicznym,</li>
+<li>numer PESEL pełnomocnika posługującego się podpisem zaufanym - w przypadku gdy nie są przekazywane dane, o których mowa w lit. e,</li>
+<li>adres do doręczeń elektronicznych - w przypadku gdy pełnomocnikiem jest adwokat, radca prawny lub doradca podatkowy albo osoba, o której mowa w art. 138c § 2 ustawy - Ordynacja podatkowa,</li>
+<li>numer telefonu,</li>
+<li>adres poczty elektronicznej,</li>
+<li>oświadczenie raportującego operatora platformy o upoważnieniu pełnomocnika do podpisywania informacji o sprzedawcach oraz korekt formularza rejestracyjnego.</li>
+</ol>
+</li>
+</ol>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_154" role="button" aria-expanded="false" aria-controls="collapse_154" aria-label="23. Gdzie dost&#x119;pne s&#x105; struktury dokument&#xF3;w DPI-IS(1) i DPI-FR(1)?"><img src="/assets/ICONS/Caretdown.svg" alt="23. Gdzie dost&#x119;pne s&#x105; struktury dokument&#xF3;w DPI-IS(1) i DPI-FR(1)?"><strong>23. Gdzie dost&#x119;pne s&#x105; struktury dokument&#xF3;w DPI-IS(1) i DPI-FR(1)?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_154">
+	<p>Struktury dokumentów DPI-IS oraz DPI-FR znajdują się na stronie<span>&nbsp;</span><a href="https://www.gov.pl/web/kas/struktury-dpi-dla-operatorow-platform">Struktury DPI dla operatorów platform</a>.</p>
+
+
+
+</div>
+
+
+			</div>
+		</div>
+
+	
+</div>
+
+
+
+</div>
+
+<div class="accordion accordion-flush mb-4" id="accordionFlush_53" role="tablist" aria-label="Pytania i odpowiedzi dla sprzedawc&#xF3;w">
+
+
+
+
+<div class="accordion-item">
+		<div class="accordion-header mb-4 pt-4" id="flush-heading73">
+			<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse73" aria-expanded="false" aria-controls="flush-collapse73">
+				<h3><strong>Pytania i odpowiedzi dla sprzedawc&#xF3;w</strong></h3>
+			</button>
+		</div>
+		<div id="flush-collapse73" class="accordion-collapse collapsed collapse" aria-labelledby="flush-heading73">
+			<div class="accordion-body mb-4">
+				<p>Odpowiedzi na najczęściej zadawane pytania przez sprzedawców</p>
+
+
+
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_477" role="button" aria-expanded="false" aria-controls="collapse_477" aria-label="1. Czy je&#x17C;eli sprzedaj&#x119; na platformie sprzeda&#x17C;owej, musz&#x119; raportowa&#x107; w jaki&#x15B; spos&#xF3;b dokonan&#x105; sprzeda&#x17C;?"><img src="/assets/ICONS/Caretdown.svg" alt="1. Czy je&#x17C;eli sprzedaj&#x119; na platformie sprzeda&#x17C;owej, musz&#x119; raportowa&#x107; w jaki&#x15B; spos&#xF3;b dokonan&#x105; sprzeda&#x17C;?"><strong>1. Czy je&#x17C;eli sprzedaj&#x119; na platformie sprzeda&#x17C;owej, musz&#x119; raportowa&#x107; w jaki&#x15B; spos&#xF3;b dokonan&#x105; sprzeda&#x17C;?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_477">
+	<p>Nie, to na operatorach platform ciąży taki obowiązek.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_461" role="button" aria-expanded="false" aria-controls="collapse_461" aria-label="2. Czy raportowaniu podlega&#x107; b&#x119;d&#x105; osoby przeprowadzaj&#x105;ce remonty lub kierowcy, kt&#xF3;rzy oferuj&#x105; swoje us&#x142;ugi za po&#x15B;rednictwem e-platform?"><img src="/assets/ICONS/Caretdown.svg" alt="2. Czy raportowaniu podlega&#x107; b&#x119;d&#x105; osoby przeprowadzaj&#x105;ce remonty lub kierowcy, kt&#xF3;rzy oferuj&#x105; swoje us&#x142;ugi za po&#x15B;rednictwem e-platform?"><strong>2. Czy raportowaniu podlega&#x107; b&#x119;d&#x105; osoby przeprowadzaj&#x105;ce remonty lub kierowcy, kt&#xF3;rzy oferuj&#x105; swoje us&#x142;ugi za po&#x15B;rednictwem e-platform?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_461">
+	<p>Tak, po spełnieniu kryteriów ustawowych, raportowaniu oprócz sprzedaży towarów, podlegać będzie także sprzedaż usług. Jest to obowiązek wynikający wprost&nbsp;z Dyrektywy DAC7.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_697" role="button" aria-expanded="false" aria-controls="collapse_697" aria-label="3. Czy do Szefa KAS b&#x119;d&#x105; raportowane informacje o tym jakie konkretne przedmioty zosta&#x142;y sprzedane?"><img src="/assets/ICONS/Caretdown.svg" alt="3. Czy do Szefa KAS b&#x119;d&#x105; raportowane informacje o tym jakie konkretne przedmioty zosta&#x142;y sprzedane?"><strong>3. Czy do Szefa KAS b&#x119;d&#x105; raportowane informacje o tym jakie konkretne przedmioty zosta&#x142;y sprzedane?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_697">
+	<p>Nie. Przekazaniu do Szefa KAS będzie podlegała zagregowana informacja o ilości transakcji i łącznym wynagrodzeniu, bez wskazywania jaki konkretnie przedmiot został sprzedany, czy też jaka konkretnie usługa została wykonana.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_199" role="button" aria-expanded="false" aria-controls="collapse_199" aria-label="4. Czy do Szefa KAS s&#x105; raportowane informacje o kupuj&#x105;cych?"><img src="/assets/ICONS/Caretdown.svg" alt="4. Czy do Szefa KAS s&#x105; raportowane informacje o kupuj&#x105;cych?"><strong>4. Czy do Szefa KAS s&#x105; raportowane informacje o kupuj&#x105;cych?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_199">
+	<p>Nie. Informacje przekazywane przez operatorów platform dotyczą jedynie sprzedawców, nie zaś kupujących.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_47" role="button" aria-expanded="false" aria-controls="collapse_47" aria-label="5. Czy Dyrektywa DAC7 wprowadza nowy podatek dla sprzedawc&#xF3;w internetowych?"><img src="/assets/ICONS/Caretdown.svg" alt="5. Czy Dyrektywa DAC7 wprowadza nowy podatek dla sprzedawc&#xF3;w internetowych?"><strong>5. Czy Dyrektywa DAC7 wprowadza nowy podatek dla sprzedawc&#xF3;w internetowych?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_47">
+	<p>Dyrektywa DAC7 nie wprowadza nowych podatków i nie sprawia także, że sprzedaż okazjonalna lub prywatna będzie opodatkowana. Nowe obowiązki informacyjne nie skutkują nałożeniem nowych podatków na sprzedawców ani nie zmieniają zasad opodatkowania podatkami dochodowymi.</p>
+<p>Nie ulega również zmianie to, że osoby sprzedające w Internecie powinny ocenić czy ich działalność nie podlega opodatkowaniu w ramach obowiązujących już przepisów podatkowych (a więc czy ich sprzedaż nie generuje dochodu do opodatkowania).</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_14" role="button" aria-expanded="false" aria-controls="collapse_14" aria-label="6. Czy je&#x17C;eli dokonuj&#x119; sta&#x142;ej sprzeda&#x17C;y ubra&#x144; za po&#x15B;rednictwem platformy sprzeda&#x17C;owej, to urz&#x105;d skarbowy b&#x119;dzie mnie kontrolowa&#x142;?"><img src="/assets/ICONS/Caretdown.svg" alt="6. Czy je&#x17C;eli dokonuj&#x119; sta&#x142;ej sprzeda&#x17C;y ubra&#x144; za po&#x15B;rednictwem platformy sprzeda&#x17C;owej, to urz&#x105;d skarbowy b&#x119;dzie mnie kontrolowa&#x142;?"><strong>6. Czy je&#x17C;eli dokonuj&#x119; sta&#x142;ej sprzeda&#x17C;y ubra&#x144; za po&#x15B;rednictwem platformy sprzeda&#x17C;owej, to urz&#x105;d skarbowy b&#x119;dzie mnie kontrolowa&#x142;?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_14">
+	<p>Limit 30 transakcji nie jest wysoki i często może być przekroczony, np. w przypadku wyprzedawania używanych ubrań. Zaraportowanie tego faktu przez operatora platformy nie jest równoznaczne z koniecznością opodatkowania tej sprzedaży, czy też rejestracją działalności gospodarczej w zakresie handlu.</p>
+<p>Zweryfikuj czy dopełniłeś wszystkich obowiązków podatkowych.</p>
+<p>Wprowadzone przepisy nie zmieniają dotychczasowych zasad opodatkowania sprzedaży w Intrenecie. Nawet w przypadku przeprowadzenia 100 transakcji czy sprzedaży za 10 000 zł, o ile będzie to Twoja prywatna sprzedaż używanych rzeczy, które masz dłużej niż 6 miesięcy i będziesz w stanie to udowodnić, to taka sprzedaż nie podlega opodatkowaniu, o ile nie jest to sprzedaż zarobkowa (tu nie ma żadnych limitów i podatek płaci się od pierwszej transakcji o ile kupujesz i odsprzedajesz zarobkowo).</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_526" role="button" aria-expanded="false" aria-controls="collapse_526" aria-label="7. Po co organy podatkowe zbieraj&#x105; informacje o sprzedawcach?"><img src="/assets/ICONS/Caretdown.svg" alt="7. Po co organy podatkowe zbieraj&#x105; informacje o sprzedawcach?"><strong>7. Po co organy podatkowe zbieraj&#x105; informacje o sprzedawcach?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_526">
+	<p>Wprowadzenie obowiązków raportowania przez operatorów platform wynika z implantacji Dyrektywy DAC7, której celem jest wyeliminowanie nieprawidłowości w handlu/usługach internetowych. Dzięki raportowaniu zwiększy się dostępność danych dotyczących dochodów uzyskanych przez podatników za pośrednictwem platform, które wspomogą organy administracji skarbowej w weryfikacji prawidłowości deklarowania przez sprzedawców uzyskiwanych dochodów. Pozwoli to również na zapewnienie uczciwej konkurencji pomiędzy platformami, a tradycyjnymi przedsiębiorstwami.</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_614" role="button" aria-expanded="false" aria-controls="collapse_614" aria-label="8. Czy je&#x17C;eli wystawi&#x142;em na platformie ponad 30 ofert sprzeda&#x17C;y, ale transakcje nie zosta&#x142;y sfinalizowane, czy w&#xF3;wczas moje dane r&#xF3;wnie&#x17C; zostan&#x105; zaraportowane?"><img src="/assets/ICONS/Caretdown.svg" alt="8. Czy je&#x17C;eli wystawi&#x142;em na platformie ponad 30 ofert sprzeda&#x17C;y, ale transakcje nie zosta&#x142;y sfinalizowane, czy w&#xF3;wczas moje dane r&#xF3;wnie&#x17C; zostan&#x105; zaraportowane?"><strong>8. Czy je&#x17C;eli wystawi&#x142;em na platformie ponad 30 ofert sprzeda&#x17C;y, ale transakcje nie zosta&#x142;y sfinalizowane, czy w&#xF3;wczas moje dane r&#xF3;wnie&#x17C; zostan&#x105; zaraportowane?</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_614">
+	<p>Nie. Podkreślić należy, że raportowaniu podlegają tylko zrealizowane transakcje – samo oferowanie przedmiotów na sprzedaż nie generuje obowiązku sprawozdawczego po stronie platformy.</p>
+
+
+
+</div>
+
+
+			</div>
+		</div>
+
+	
+</div>
+
+
+
+</div>
+
+<div class="accordion accordion-flush mb-4" id="accordionFlush_764" role="tablist" aria-label="Opodatkowanie handlu w Internecie">
+
+
+
+
+<div class="accordion-item">
+		<div class="accordion-header mb-4 pt-4" id="flush-heading938">
+			<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse938" aria-expanded="false" aria-controls="flush-collapse938">
+				<h3><strong>Opodatkowanie handlu w Internecie</strong></h3>
+			</button>
+		</div>
+		<div id="flush-collapse938" class="accordion-collapse collapsed collapse" aria-labelledby="flush-heading938">
+			<div class="accordion-body mb-4">
+				<p>Automatyczna wymiana informacji o sprzedawcach nie zmienia zasad opodatkowania dochodów z internetu.</p>
+<p class="fw-bold bd-excerpt">Nowe przepisy (dyrektywa DAC7) nie wprowadzają nowego podatku od handlu w sieci.</p>
+<p>Regulacje te nie zmieniają też przepisów, które dotyczą opodatkowania takich dochodów. Dzięki nim możemy jednak skuteczniej sprawdzać, czy sprzedawcy i kupujący rzetelnie płacą podatki od sprzedaży w internecie.</p>
+<p>Zasady opodatkowania handlu w internecie:</p>
+
+
+
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_940" role="button" aria-expanded="false" aria-controls="collapse_940" aria-label="Jak opodatkowa&#x107; sprzeda&#x17C; towar&#xF3;w"><img src="/assets/ICONS/Caretdown.svg" alt="Jak opodatkowa&#x107; sprzeda&#x17C; towar&#xF3;w"><strong>Jak opodatkowa&#x107; sprzeda&#x17C; towar&#xF3;w</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_940">
+	<p>Sposób rozliczenia zależy od tego, w jaki sposób sprzedajesz towary: w ramach firmy, działalności nieewidencjonowanej czy prywatnie. Poniżej znajdziesz zasady dla każdej z tych sytuacji.</p>
+<p><strong>Jeśli prowadzisz działalność gospodarczą </strong></p>
+<p><br>Możesz wybrać jedną z dwóch form opodatkowania:</p>
+<ul>
+<li><strong>skala podatkowa</strong> – to podstawowa forma. Płacisz podatek od dochodu (przychód minus koszty). Stawki to 12% (do 120 tys. zł dochodu) i 32% (od nadwyżki ponad 120 tys. zł),</li>
+<li><strong>ryczałt od przychodów ewidencjonowanych </strong>– to forma dobrowolna. Płacisz podatek od przychodu, więc nie odliczasz kosztów. Stawka dla sprzedaży towarów wynosi 3%.</li>
+</ul>
+<p><strong>Jeśli sprzedajesz prywatnie (poza działalnością) </strong></p>
+<p>Płacisz podatek tylko wtedy, gdy sprzedajesz rzecz przed upływem pół roku, licząc od końca miesiąca, w którym ją kupiłeś.</p>
+<ul>
+<li>Podatek rozliczasz na zasadach ogólnych (według skali podatkowej: 12% i 32%).</li>
+<li>Opodatkowujesz dochód, czyli przychód ze sprzedaży pomniejszony o koszty jej uzyskania.</li>
+</ul>
+<p><strong>Jeśli prowadzisz działalność nieewidencjonowaną</strong></p>
+<p>Przychody z takiej sprzedaży zaliczasz do tzw. przychodów z innych źródeł.</p>
+<ul>
+<li>Podatek płacisz według skali podatkowej (12% i 32%).</li>
+<li>Opodatkowujesz dochód (przychód minus koszty).</li>
+</ul>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_65" role="button" aria-expanded="false" aria-controls="collapse_65" aria-label="Jak rozliczy&#x107; sprzeda&#x17C; towar&#xF3;w w CIT "><img src="/assets/ICONS/Caretdown.svg" alt="Jak rozliczy&#x107; sprzeda&#x17C; towar&#xF3;w w CIT "><strong>Jak rozliczy&#x107; sprzeda&#x17C; towar&#xF3;w w CIT </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_65">
+	<p>Płacisz podatek od dochodu, czyli przychodu pomniejszonego o koszty jego uzyskania.</p>
+<ul>
+<li>Podstawowa stawka podatku wynosi 19%.</li>
+</ul>
+<p>W określonych sytuacjach</p>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_449" role="button" aria-expanded="false" aria-controls="collapse_449" aria-label="Jak rozliczy&#x107; podatek VAT"><img src="/assets/ICONS/Caretdown.svg" alt="Jak rozliczy&#x107; podatek VAT"><strong>Jak rozliczy&#x107; podatek VAT</strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_449">
+	<p>Jeśli Twoja sprzedaż w Polsce jest działalnością gospodarczą, musisz stosować polskie przepisy o VAT. Sposób rozliczenia zależy od tego, czy jesteś czynnym podatnikiem, czy korzystasz ze zwolnienia.</p>
+<p><strong>Jesteś czynnym podatnikiem VAT</strong></p>
+<p>W tej sytuacji:</p>
+<ul>
+<li>sprzedaż opodatkowujesz odpowiednią stawką VAT: 0%, 5%, 8% lub 23% (zależy to od tego, co sprzedajesz). Niektóre towary lub usługi mogą być zwolnione z podatku;</li>
+<li>możesz skorzystać z procedury VAT marża, jeśli handlujesz towarami używanymi, dziełami sztuki lub antykami. Wtedy opodatkowujesz tylko marżę (różnicę między ceną sprzedaży a zakupu).</li>
+<ul>
+<li>Warunek: musisz kupić towar w celu dalszej odsprzedaży od określonych podmiotów.</li>
+</ul>
+</ul>
+<p><strong>Korzystasz ze zwolnienia z VAT</strong></p>
+<p>Nie doliczasz podatku VAT do sprzedaży, jeśli korzystasz ze zwolnienia podmiotowego (ze względu na niskie obroty).</p>
+<ul>
+<li>Limit zwolnienia wynosi 200 000 zł rocznie.</li>
+<li>Jeśli zaczynasz sprzedaż w trakcie roku, limit ten obliczasz proporcjonalnie do okresu prowadzenia działalności.</li>
+<li>Wartość sprzedaży towarów używanych wlicza się do tego limitu.</li>
+</ul>
+
+
+
+</div>
+<button class="accordion-button  mt-4 mb-4 collapsed" data-bs-toggle="collapse" href="#collapse_487" role="button" aria-expanded="false" aria-controls="collapse_487" aria-label="Kontakt "><img src="/assets/ICONS/Caretdown.svg" alt="Kontakt "><strong>Kontakt </strong></button>
+
+<div class="collapse mb-4 ms-4" id="collapse_487">
+	<p>Pytania o działanie systemu i przekazywanie plików wyślij na adres: <a href="mailto:dpi-dac7@mf.gov.pl">dpi-dac7@mf.gov.pl</a>.<br><br></p>
+
+
+
+</div>
+
+
+			</div>
+		</div>
+
+	
+</div>
+
+
+
+</div>
+
+</div>
+
+			</div>
+		</div>
+		<div class="row mb-4 d-flex">
+			
+		</div>
+	</div>
+</div>
+
+
+    
+    
+
+<footer>  
+
+
+   
+        
+
+<div class="container-fluid">
+    <div class="bg-white">
+        <div class="container">
+				<div class="row fw-bold pt-4 mb-4">
+
+
+	<div class="mt-5 mb-5">
+	<h2>Załatw swoją sprawę podatkową</h2>
+	</div>
+
+
+
+</div>
+            <div class="row justify-content-center">
+                
+
+
+
+<div class="col-12 col-lg-3 mb-4">
+	<a class="card h-100 primary Primary Default Hover" href="/e-urzad-skarbowy/" target="_blank" title="Znajd&#x17A; us&#x142;ug&#x119;">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+					<div class="col-2">
+						<img src="/media/1acmmqjd/quick_reference_all.svg?width=50&amp;v=1dc5e5fcd8f58e0" alt="ikona z lup&#x105;">
+					</div>
+					<div class="col-8">
+						<p>Znajdź usługę</p>
+					</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-3 mb-4">
+	<a class="card h-100 primary Primary Default Hover" href="/e-deklaracje/" title="">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+					<div class="col-2">
+						<img src="/media/1klpcxtf/contract_edit.svg?width=50&amp;v=1dc5e5fcd90df80" alt="">
+					</div>
+					<div class="col-8">
+						Znajdź deklarację
+					</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-3 mb-4">
+	<a class="card h-100 primary Primary Default Hover" href="/zalatw-sprawe-online/" title="">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+					<div class="col-2">
+						<img src="/media/bbedtxkn/computer.svg?width=50&amp;v=1dc5e5fcd8323e0" alt="">
+					</div>
+					<div class="col-8">
+						Znajdź serwis
+					</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+<div class="col-12 col-lg-3 mb-4">
+	<a class="card h-100 primary Primary Default Hover" href="/narzedzia-i-uslugi/" title="Znajd&#x17A; narz&#x119;dzie">
+		<div class="card-body align-middle">
+			<div class="card-title fw-bold row align-middle">
+					<div class="col-2">
+						<img src="/media/fswgw0og/handyman.svg?width=50&amp;v=1dc5e5fcd9684d0" alt="">
+					</div>
+					<div class="col-8">
+						<p>Znajdź narzędzie</p>
+					</div>
+				<div class="col-2 text-end">
+						<i class="text-right fas fa-arrow-right"></i>
+				</div>
+			</div>
+				<div class="card-text small-text" ></div>
+		</div>
+	</a>
+</div>
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+	<div class="mt-5 mb-5">
+	<hr class="linia">
+	</div>
+
+
+
+<div class="container">
+    <div class="row">
+         <div class="col-12 col-md-3">
+            
+
+
+
+    
+    <div class="col-12 footer-logo mb-4"><img src="/assets/logoMF_znak_bez_orla_kolor_biale_tlo.svg?rmode=max&amp;width=147&amp;height=74" alt="logo Ministerstwa Finansów" width="147" height="74"></div>
+<div class="col-12 footer-logo"><img src="/assets/logoKAS.svg?rmode=max&amp;width=127&amp;height=72" alt="logo KAS" width="127" height="72"></div>
+
+
+
+
+        </div>
+         <div class="col-12 col-md-6">
+            
+
+
+
+    
+    <ul>
+<li><a href="/mapa-strony/" title="Mapa Strony 2" data-anchor="#">Mapa strony</a></li>
+<li><a href="/deklaracja-dostepnosci/" title="Deklaracja dostepności" data-anchor="#">Deklaracja dostępności serwisu</a></li>
+<li><a href="/polityka-cookie/" title="Polityka cookie" data-anchor="#">Polityka cookie</a></li>
+<li><a href="/klauzula-informacyjna-ministra-finansow-i-gospodarki/" title="Klauzula informacyjna Ministra Finansów i Gospodarki">Klauzula informacyjna Ministra Finansów i Gospodarki</a></li>
+<li><a href="/klauzula-informacyjna-szefa-kas/" title="Klauzula informacyjna Szefa KAS">Klauzula informacyjna Szefa Krajowej Administracji Skarbowej</a></li>
+<li><a href="https://podatki-arch.mf.gov.pl/">podatki.gov.pl - archiwum</a></li>
+</ul>
+
+
+
+
+        </div>
+         <div class="col-12 col-md-3">
+            
+
+
+
+    
+    <div class=" col-sm-12 row">
+<div class="col-12 mb-4"><a href="https://podatki.gov.pl" class="footer-link"><img src="/assets/logoPodatki.svg?rmode=max&amp;width=205&amp;height=28" alt="logo podatki.gov.pl" width="205" height="28"></a></div>
+<div class="col-12 mb-4"><button class="tax-box-button fw-bold"><a href="/skontaktuj-sie-z-nami/" title="Skontaktuj się z Nami" data-anchor="#">Skontaktuj się z nami <img src="/assets/ICONS/open_in_new.svg" alt=""></a></button></div>
+<div class="col-4"></div>
+</div>
+
+
+
+
+        </div>
+         <div class="col-12 col-md-12">
+            
+
+
+
+    
+    <p>Treści zamieszczone w serwisie udostępniamy bezpłatnie. Korzystanie z treści opublikowanych w serwisie podatki.gov.pl, niezależnie od celu i sposobu korzystania, nie wymaga zgody Ministerstwa Finansów. Treści znaczone w serwisie jako treści będące przedmiotem praw autorskich, o ile nie jest to stwierdzone inaczej, są udostępniane na licencji Creative Commons Uznanie Autorstwa 3.0 Polska.</p>
+
+
+
+
+        </div>
+    </div>
+</div>
+
+				
+
+</footer>
+    <!-- Bootstrap core JS-->
+    <script src="/bootstrap/js/bootstrap.bundle.min.js?v=CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC-mjoJimHGw"></script>
+	<script src="/scripts/accordion-anchors.js"></script>
+
+
+    
+
+
+<a href="#" id="manage-consent1">Ustawienia prywatności</a>
+<script>
+    MatomoConsentSDK.init({
+        policyUrl: '/polityka-cookie/',
+    cookieTableEnabled: false,
+    });
+        if (!window.location.pathname.includes('/polityka-cookie/')) {
+    MatomoConsentSDK.showBanner();
+    }
+    document.getElementById('manage-consent1').addEventListener('click', function(e){
+    e.preventDefault();
+    if (typeof showMatomoConsentBanner === 'function') {
+    showMatomoConsentBanner({ forceShow: true, forceCookiePanel: true });
+    } else if (typeof MatomoConsentSDK !== 'undefined') {
+    MatomoConsentSDK.showBanner({ forceShow: true, forceCookiePanel: true });
+    }
+    });
+</script>
+
+
+
+
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=158753898" async></script></body>
+</html>
+
+
+

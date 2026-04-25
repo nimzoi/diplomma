@@ -1,0 +1,25 @@
+{
+  "id": "ed63d90c4a43a1c4",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/686016",
+  "source": "kis",
+  "topic_ids": [
+    "estonski_cit"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:06Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 45081,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB1-3_4010_112_2026_1_JG.html",
+  "title": "KIS 0111-KDIB1-3.4010.112.2026.1.JG — Brak konieczności złożenia kolejnego zawiadomienia ZAW-RD po upływie czteroletniego okresu opodatkowania ryczałtem w prz",
+  "last_modified": "2026-04-08",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "ed63d90c4a43a1c40c0378db3223e924874194bf8f1fafbe4cc8cc156b7f949d",
+  "quality_flag": "accepted",
+  "notes": "phrase='CIT-8E warunki', hot_hint=estonski_cit",
+  "headers": {}
+}

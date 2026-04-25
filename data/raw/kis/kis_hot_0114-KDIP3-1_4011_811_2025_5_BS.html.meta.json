@@ -1,0 +1,25 @@
+{
+  "id": "1730baf20e6679c2",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/672107",
+  "source": "kis",
+  "topic_ids": [
+    "przeksztalcenie_jdg_spzoo"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:43Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 174333,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP3-1_4011_811_2025_5_BS.html",
+  "title": "KIS 0114-KDIP3-1.4011.811.2025.5.BS — Planowany podział przez wydzielenie nie będzie skutkował powstaniem po stronie Wspólników obowiązku podatkowego na momen",
+  "last_modified": "2025-12-17",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "1730baf20e6679c20c244a84ff6ce33e7fa993f0f54e5511e267b41befbd0383",
+  "quality_flag": "accepted",
+  "notes": "phrase='art 5841 ksh przeksztalcenie przedsiebiorcy', hot_hint=przeksztalcenie_jdg_spzoo",
+  "headers": {}
+}

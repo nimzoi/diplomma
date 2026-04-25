@@ -1,0 +1,25 @@
+{
+  "id": "db2741dc7cfbba49",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/680925",
+  "source": "kis",
+  "topic_ids": [
+    "zatrudnianie_cudzoziemcow"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:26Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 228185,
+  "relative_path": "raw/kis/kis_hot_0114-KDIP2-1_4010_716_2025_2_PK.html",
+  "title": "KIS 0114-KDIP2-1.4010.716.2025.2.PK — Zaliczenie do kosztów uzyskania przychodów wydatków ponoszonyvh na nabycie Usług od Podmiotów Naukowych na potrzeby dzia",
+  "last_modified": "2026-02-23",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "db2741dc7cfbba497d66fab0ed7189f04ce9ddb63ec70425dd9c193d24e743c7",
+  "quality_flag": "accepted",
+  "notes": "phrase='zezwolenie na prace cudzoziemca', hot_hint=zatrudnianie_cudzoziemcow",
+  "headers": {}
+}

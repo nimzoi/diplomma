@@ -1,0 +1,41 @@
+{
+  "id": "ee2da44bf80034a1",
+  "url": "https://www.gov.pl/attachment/831fa9ad-17be-4608-a9e1-a4a37fc3b6b6",
+  "source": "govpl",
+  "topic_ids": [
+    "jpk_cit_jpk_kr"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T20:46:59Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 1021253,
+  "relative_path": "raw/govpl/govpl_hot_Broszura_informacyjna_dotycz_ca_struktury_JPK__8203__KR__8203__PD_1__wersja_angl.pdf",
+  "title": "Broszura informacyjna dotycząca struktury JPK&#8203;_KR&#8203;_PD(1) wersja anglojęzyczna information-brochure-on-the-structure-of-jpk&#8203;_kr&#8203;_pd-1.pdf 0.97MB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/kas/struktury-jpk-w-podatkach-dochodowych",
+  "discovery_source": "hot2025_attachment",
+  "sha256": "ee2da44bf80034a1a02e841f0343031b886408edc5f7028919b4fd34de53259d",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=jpk_cit_jpk_kr",
+  "headers": {
+    "last-modified": "Fri, 08 Nov 2024 09:04:44 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''information-brochure-on-the-structure-of-jpk_kr_pd-1.pdf",
+    "etag": "\"0ee2da44bf80034a1a02e841f0343031b\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "1021253",
+    "date": "Sat, 25 Apr 2026 20:50:33 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 20:46:58 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "80fd04ef03306b60",
+  "url": "https://www.biznes.gov.pl/pl/portal/ou1650",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "kasa_fiskalna_online"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:43:54Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 69869,
+  "relative_path": "raw/biznes_html/bizgov_hot_ou1650.html",
+  "title": "Zwrot kosztów na zakup kasy fiskalnej on-line",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "hot2025_whitelist",
+  "sha256": "80fd04ef03306b60455bb24b86a00552153030f4932e618c7447d4a1dea62ac2",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=kasa_fiskalna_online",
+  "headers": {}
+}

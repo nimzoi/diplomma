@@ -1,0 +1,26 @@
+{
+  "id": "cb774eb3c3d6eed6",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/680983",
+  "source": "kis",
+  "topic_ids": [
+    "e_doreczenia_obowiazek",
+    "zatrudnianie_cudzoziemcow"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:30Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 362776,
+  "relative_path": "raw/kis/kis_hot_0110-KSI2-2_441_68_2025_3_AK.html",
+  "title": "KIS 0110-KSI2-2.441.68.2025.3.AK — WIS USŁUGA - udostępnienie pokoju studentom lub młodym osobom pracującym na okres roku akademickiego.",
+  "last_modified": "2026-02-20",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "cb774eb3c3d6eed6dce2d675d60350e30c18720901eac51881d14c97b3c06377",
+  "quality_flag": "accepted",
+  "notes": "phrase='oswiadczenie o powierzeniu pracy cudzoziemcowi', hot_hint=zatrudnianie_cudzoziemcow",
+  "headers": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b1e7c4fe6d276eb9",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/688131",
+  "source": "kis",
+  "topic_ids": [
+    "ulga_ekspansja_prototyp_robotyzacja"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:26Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 187127,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB1-3_4010_70_2026_2_JMS.html",
+  "title": "KIS 0111-KDIB1-3.4010.70.2026.2.JMS — Dotyczy ustalenia, czy prawidłowe jest stanowisko Wnioskodawcy, zgodnie z którym prowadzone przez Spółkę prace, w ramach",
+  "last_modified": "2026-04-21",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "b1e7c4fe6d276eb9127619c781583b979b6385e8f0887d5cda277c46e2ba511b",
+  "quality_flag": "accepted",
+  "notes": "phrase='ulga na prototyp', hot_hint=ulga_ekspansja_prototyp_robotyzacja",
+  "headers": {}
+}

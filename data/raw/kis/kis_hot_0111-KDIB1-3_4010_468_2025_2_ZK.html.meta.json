@@ -1,0 +1,25 @@
+{
+  "id": "1b75bf05ef20a5f8",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/659712",
+  "source": "kis",
+  "topic_ids": [
+    "dac7_platformy"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:49:18Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 49769,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB1-3_4010_468_2025_2_ZK.html",
+  "title": "KIS 0111-KDIB1-3.4010.468.2025.2.ZK — Otrzymanie nieodpłatnej licencji niewyłącznej będzie powodowało powstanie przychodu z tytułu otrzymania nieodpłatnego św",
+  "last_modified": "2025-09-29",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "1b75bf05ef20a5f8057fbe67df11201034c2730dad0577d929ce47206d436d49",
+  "quality_flag": "accepted",
+  "notes": "phrase='operator platformy DAC7', hot_hint=dac7_platformy",
+  "headers": {}
+}

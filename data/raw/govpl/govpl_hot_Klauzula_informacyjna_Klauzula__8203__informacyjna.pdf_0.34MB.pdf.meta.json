@@ -1,0 +1,42 @@
+{
+  "id": "ed7438c1a5e4cbb7",
+  "url": "https://www.gov.pl/attachment/a24a7f7e-f126-4f08-a7ea-21ca33b15afa",
+  "source": "govpl",
+  "topic_ids": [
+    "rodo_klauzula_informacyjna",
+    "estonski_cit"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T20:47:08Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 355731,
+  "relative_path": "raw/govpl/govpl_hot_Klauzula_informacyjna_Klauzula__8203__informacyjna.pdf_0.34MB.pdf",
+  "title": "Klauzula informacyjna Klauzula&#8203;_informacyjna.pdf 0.34MB",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.gov.pl/web/finanse/konsultacje-podatkowe---estonski-cit",
+  "discovery_source": "hot2025_attachment",
+  "sha256": "ed7438c1a5e4cbb7c4dba6492b526c89f11b89df232bb43f330404dcff711f42",
+  "quality_flag": "accepted",
+  "notes": "hot_hint=estonski_cit",
+  "headers": {
+    "last-modified": "Thu, 10 Dec 2020 15:29:10 GMT",
+    "content-disposition": "attachment; filename*=UTF-8''Klauzula_informacyjna.pdf",
+    "etag": "\"0ed7438c1a5e4cbb7c4dba6492b526c89\"",
+    "x-frame-options": "SAMEORIGIN",
+    "content-type": "application/pdf",
+    "content-length": "355731",
+    "date": "Sat, 25 Apr 2026 20:50:43 GMT",
+    "expect-ct": "max-age=2592000, enforce",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1;mode=block",
+    "cache-control": "max-age=2592000",
+    "expires": "Mon, 25 May 2026 20:47:08 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31557600; includeSubDomains; preload"
+  }
+}

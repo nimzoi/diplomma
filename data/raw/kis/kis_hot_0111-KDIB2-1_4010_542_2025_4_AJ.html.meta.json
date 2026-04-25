@@ -1,0 +1,28 @@
+{
+  "id": "ab2b7fbd4b1c0b4a",
+  "url": "https://eureka.mf.gov.pl/informacje/podglad/680698",
+  "source": "kis",
+  "topic_ids": [
+    "vat_zwolnienie_200k",
+    "rodo_rekrutacja",
+    "b2b_test_samozatrudnienia",
+    "b2b_zmiana_na_uop"
+  ],
+  "layer": "L3",
+  "format": "html",
+  "fetched_at": "2026-04-25T20:50:47Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 132229,
+  "relative_path": "raw/kis/kis_hot_0111-KDIB2-1_4010_542_2025_4_AJ.html",
+  "title": "KIS 0111-KDIB2-1.4010.542.2025.4.AJ — Skutków podatkowych zwolnienia z długu (umorzenia kwoty pożyczki oraz naliczonych odsetek).",
+  "last_modified": "2026-02-20",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "eureka_api_hot",
+  "sha256": "ab2b7fbd4b1c0b4ae43005b6a31b0453d113d99c1986b7e4b81f80d1700f9ce2",
+  "quality_flag": "accepted",
+  "notes": "phrase='ukryte zatrudnienie b2b', hot_hint=b2b_zmiana_na_uop",
+  "headers": {}
+}
