@@ -1,0 +1,32 @@
+{
+  "id": "9e0a2839034b10bf",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2026/507/text.pdf",
+  "source": "eli",
+  "topic_ids": [],
+  "layer": "L1",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:40:05Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 430801,
+  "relative_path": "raw/legislation/eli_DU_2026_507.pdf",
+  "title": "Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "DU/2026/507",
+  "parent_url": "",
+  "discovery_source": "references_api",
+  "sha256": "9e0a2839034b10bf50adceaff753444db09f2f49e173950454f6dc81a09760ec",
+  "quality_flag": "accepted",
+  "notes": "status=obowiązujący inForce=IN_FORCE",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:40:04 GMT",
+    "content-type": "application/pdf",
+    "content-language": "en-US",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-headers": "Content-Type, Accept, Authorization",
+    "access-control-max-age": "7200",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked"
+  }
+}

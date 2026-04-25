@@ -1,0 +1,34 @@
+{
+  "id": "1211198141690daf",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/1800/text.pdf",
+  "source": "eli",
+  "topic_ids": [
+    "vat_jpk"
+  ],
+  "layer": "L1",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:38:35Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 161027,
+  "relative_path": "raw/legislation/eli_DU_2025_1800.pdf",
+  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 12 grudnia 2025 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "DU/2025/1800",
+  "parent_url": "",
+  "discovery_source": "references_api",
+  "sha256": "1211198141690dafa343466e55a0d4430315732fb075bdea0d2e7393bb0db9d7",
+  "quality_flag": "accepted",
+  "notes": "status=obowiązujący inForce=IN_FORCE",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:38:35 GMT",
+    "content-type": "application/pdf",
+    "content-language": "en-US",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-headers": "Content-Type, Accept, Authorization",
+    "access-control-max-age": "7200",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked"
+  }
+}

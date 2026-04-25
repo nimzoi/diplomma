@@ -1,0 +1,34 @@
+{
+  "id": "6b15c712fc8c716a",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2026/441/text.pdf",
+  "source": "eli",
+  "topic_ids": [
+    "zus_zasilek_chorobowy_jdg"
+  ],
+  "layer": "L1",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:40:02Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 169567,
+  "relative_path": "raw/legislation/eli_DU_2026_441.pdf",
+  "title": "Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "DU/2026/441",
+  "parent_url": "",
+  "discovery_source": "references_api",
+  "sha256": "6b15c712fc8c716acc5ea066b4b9680f863e880b34a86e1c8befff1b7b01fc23",
+  "quality_flag": "accepted",
+  "notes": "status=obowiązujący inForce=IN_FORCE",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:40:01 GMT",
+    "content-type": "application/pdf",
+    "content-language": "en-US",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-headers": "Content-Type, Accept, Authorization",
+    "access-control-max-age": "7200",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked"
+  }
+}

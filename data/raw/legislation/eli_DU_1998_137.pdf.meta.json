@@ -1,0 +1,39 @@
+{
+  "id": "1a4ee09b51efc737",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/137/text.pdf",
+  "source": "eli",
+  "topic_ids": [
+    "zus_preferencyjny",
+    "zus_maly_zus_plus",
+    "zus_wakacje_skladkowe",
+    "zus_zua_zwua_dra",
+    "zus_zasilek_chorobowy_jdg",
+    "zus_podstawa_wymiaru"
+  ],
+  "layer": "L1",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:37:15Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 492180,
+  "relative_path": "raw/legislation/eli_DU_1998_137.pdf",
+  "title": "Ustawa o systemie ubezpieczen spolecznych",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "DU/1998/137",
+  "parent_url": "",
+  "discovery_source": "seed",
+  "sha256": "1a4ee09b51efc7374e5e8f14029a8af11fc3f995f346c240c222c7f10f27f6df",
+  "quality_flag": "accepted",
+  "notes": "MUST act per spec 5.1",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:37:15 GMT",
+    "content-type": "application/pdf",
+    "content-language": "en-US",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-headers": "Content-Type, Accept, Authorization",
+    "access-control-max-age": "7200",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked"
+  }
+}

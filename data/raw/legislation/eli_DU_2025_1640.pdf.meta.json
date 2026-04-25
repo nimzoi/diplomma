@@ -1,0 +1,32 @@
+{
+  "id": "3b87eb584fc853f4",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/1640/text.pdf",
+  "source": "eli",
+  "topic_ids": [],
+  "layer": "L1",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:38:44Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 183182,
+  "relative_path": "raw/legislation/eli_DU_2025_1640.pdf",
+  "title": "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 24 listopada 2025 r. zmieniające rozporządzenie w sprawie szkolenia w dziedzinie bezpieczeństwa i higieny pracy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "DU/2025/1640",
+  "parent_url": "",
+  "discovery_source": "references_api",
+  "sha256": "3b87eb584fc853f4d824a995a9f34b413c33cc78c9ac31657e4b5658802e8917",
+  "quality_flag": "accepted",
+  "notes": "status=obowiązujący inForce=IN_FORCE",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:38:43 GMT",
+    "content-type": "application/pdf",
+    "content-language": "en-US",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-headers": "Content-Type, Accept, Authorization",
+    "access-control-max-age": "7200",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked"
+  }
+}

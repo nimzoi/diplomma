@@ -1,0 +1,34 @@
+{
+  "id": "6d656c743673120e",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/1880/text.pdf",
+  "source": "eli",
+  "topic_ids": [
+    "pit_ewidencja_ryczalt"
+  ],
+  "layer": "L1",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T09:38:34Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes": 619742,
+  "relative_path": "raw/legislation/eli_DU_2025_1880.pdf",
+  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 22 grudnia 2025 r. w sprawie prowadzenia uproszczonej ewidencji przychodów i kosztów przez niektóre organizacje pozarządowe oraz stowarzyszenia jednostek samorządu terytorialnego",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "DU/2025/1880",
+  "parent_url": "",
+  "discovery_source": "references_api",
+  "sha256": "6d656c743673120e7b069ed847c4ee200b9cae9f69fe582d14bf2463d6009d51",
+  "quality_flag": "accepted",
+  "notes": "status=obowiązujący inForce=IN_FORCE",
+  "headers": {
+    "date": "Sat, 25 Apr 2026 09:38:34 GMT",
+    "content-type": "application/pdf",
+    "content-language": "en-US",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-headers": "Content-Type, Accept, Authorization",
+    "access-control-max-age": "7200",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked"
+  }
+}
