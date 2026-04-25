@@ -1,0 +1,31 @@
+{
+  "id": "4eaa309cf496b187",
+  "url": "https://www.biznes.gov.pl/pl/portal/00226",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "vat_biala_lista"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:14:47Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 61967,
+  "relative_path": "raw/biznes_html/bizgov_00226.html",
+  "title": "Biała lista podatników VAT – narzędzie do sprawdzania kontrahentó | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "4eaa309cf496b18787294e661089d5010181ee47ff4a28f93cc45508025cb0f1",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=13730",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 15562,
+    "diacritics_ratio": 0.0453,
+    "vocab_hits": 10
+  }
+}

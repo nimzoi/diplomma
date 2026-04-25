@@ -1,0 +1,31 @@
+{
+  "id": "ae4e1ccdfca08d25",
+  "url": "https://www.biznes.gov.pl/pl/portal/00162",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:14:18Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 58671,
+  "relative_path": "raw/biznes_html/bizgov_00162.html",
+  "title": "Spółka partnerska – podstawowe informacje | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "ae4e1ccdfca08d2557902fb318d3c068f29380a9723efc7e5fa0644c2a9e226f",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=12681",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 14488,
+    "diacritics_ratio": 0.0614,
+    "vocab_hits": 14
+  }
+}

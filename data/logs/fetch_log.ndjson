@@ -1404,3 +1404,5 @@
 {"ts": "2026-04-25T11:43:42Z", "url": "https://rzecznikmsp.gov.pl/aktualnosci/", "ok": true, "status": 200, "bytes": 250173}
 {"ts": "2026-04-25T11:43:44Z", "url": "https://rzecznikmsp.gov.pl/interwencje/", "ok": true, "status": 200, "bytes": 214271}
 {"ts": "2026-04-25T11:43:47Z", "url": "https://www.parp.gov.pl/", "ok": true, "status": 200, "bytes": 218931}
+{"ts": "2026-04-25T12:19:22Z", "url": "https://media.biznes.gov.pl/v1/files/leaflets/437/Lista-uprawnie%C5%84.pdf", "ok": true, "status": 200, "bytes": 728668}
+{"ts": "2026-04-25T12:19:24Z", "url": "https://pliki.biznes.gov.pl/20210810/pliki/Jak_skladac_deklaracje_podatkowe_i_placic_podatki/zalacznik_1_pelnomocncitwo_do_skladania_deklaracji_w_wersji_papierowej.pdf", "ok": true, "status": 200, "bytes": 814819}

@@ -1,0 +1,31 @@
+{
+  "id": "8d69cc0c1366abcb",
+  "url": "https://www.biznes.gov.pl/pl/portal/02140",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "pit_liniowy"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:17:17Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 41641,
+  "relative_path": "raw/biznes_html/bizgov_02140.html",
+  "title": "Podatek liniowy | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "8d69cc0c1366abcba1899886fb4b73f820b00382777c9a165475e56fe2b3db2e",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=2992",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 4798,
+    "diacritics_ratio": 0.0404,
+    "vocab_hits": 6
+  }
+}

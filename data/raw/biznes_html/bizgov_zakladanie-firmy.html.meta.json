@@ -1,0 +1,31 @@
+{
+  "id": "98981fb5de0dd92b",
+  "url": "https://www.biznes.gov.pl/pl/firma/zakladanie-firmy",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:18:12Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 53452,
+  "relative_path": "raw/biznes_html/bizgov_zakladanie-firmy.html",
+  "title": "Zakładanie i rejestracja firmy | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "98981fb5de0dd92bea25fb23a46c7d06b8ecde4c35f0aaf094a922dfb445e824",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=8170",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 9959,
+    "diacritics_ratio": 0.0533,
+    "vocab_hits": 5
+  }
+}

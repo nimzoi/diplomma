@@ -1,0 +1,31 @@
+{
+  "id": "8c64c84f0f1461eb",
+  "url": "https://www.biznes.gov.pl/pl/portal/0245",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:17:01Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 52363,
+  "relative_path": "raw/biznes_html/bizgov_0245.html",
+  "title": "CIT | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "8c64c84f0f1461eb1d98619e33509d314410a99dd6a9f10fcbe162f8901b3087",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=6369",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 8141,
+    "diacritics_ratio": 0.0488,
+    "vocab_hits": 8
+  }
+}

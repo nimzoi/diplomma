@@ -1,0 +1,31 @@
+{
+  "id": "15e690317c9f549d",
+  "url": "https://www.biznes.gov.pl/pl/portal/00124",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:13:56Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 46202,
+  "relative_path": "raw/biznes_html/bizgov_00124.html",
+  "title": "Kiedy przedsiębiorca może popełnić błąd i uniknąć kary | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "15e690317c9f549db9214341cd23dae74664457eea3b392d83e79c0eb81e3635",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=7186",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 7381,
+    "diacritics_ratio": 0.05,
+    "vocab_hits": 7
+  }
+}

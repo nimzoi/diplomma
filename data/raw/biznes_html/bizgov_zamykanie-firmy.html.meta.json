@@ -1,0 +1,31 @@
+{
+  "id": "be43c22e2836479a",
+  "url": "https://www.biznes.gov.pl/pl/firma/zamykanie-firmy",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_zamkniecie"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:18:29Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 45914,
+  "relative_path": "raw/biznes_html/bizgov_zamykanie-firmy.html",
+  "title": "Zakończenie i likwidacja firmy | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "be43c22e2836479a2a4e3550a5abded0a995ba09f7c095740c0d48454d92e49d",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=4969",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 6783,
+    "diacritics_ratio": 0.0491,
+    "vocab_hits": 5
+  }
+}

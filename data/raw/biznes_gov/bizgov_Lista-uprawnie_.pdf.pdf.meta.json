@@ -1,0 +1,44 @@
+{
+  "id": "efe74efbb19d6696",
+  "url": "https://media.biznes.gov.pl/v1/files/leaflets/437/Lista-uprawnie%C5%84.pdf",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "pdf",
+  "fetched_at": "2026-04-25T12:19:22Z",
+  "http_status": 200,
+  "content_type": "",
+  "bytes": 728668,
+  "relative_path": "raw/biznes_gov/bizgov_Lista-uprawnie_.pdf.pdf",
+  "title": ".",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "https://www.biznes.gov.pl/pl/portal/00116",
+  "discovery_source": "playwright_render",
+  "sha256": "efe74efbb19d66965accd6cc4f63ebedaf1776f1ffae0e8bcbe096ec5be2670a",
+  "quality_flag": "accepted",
+  "notes": "",
+  "headers": {
+    "content-type": "application/pdf",
+    "content-length": "728668",
+    "accept-ranges": "bytes",
+    "access-control-allow-headers": "Auth-Token",
+    "access-control-allow-origin": "*",
+    "last-modified": "Fri, 05 Jan 2024 12:06:07 GMT",
+    "x-frame-options": "DENY",
+    "expires": "Sat, 25 Apr 2026 12:19:21 GMT",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "pragma": "no-cache",
+    "date": "Sat, 25 Apr 2026 12:19:21 GMT",
+    "server-timing": "cdn-cache; desc=MISS, edge; dur=386, origin; dur=42, ak_p; desc=\"1777119560976_388045958_2640270263_42713_9911_11_27_15\";dur=1"
+  },
+  "content_audit": {
+    "flag": "ok",
+    "chars": 27541,
+    "diacritics_ratio": 0.0255,
+    "vocab_hits": 5
+  }
+}

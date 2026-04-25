@@ -1,0 +1,31 @@
+{
+  "id": "2b592569662b5ec2",
+  "url": "https://www.biznes.gov.pl/pl/portal/02149",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:17:38Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 57095,
+  "relative_path": "raw/biznes_html/bizgov_02149.html",
+  "title": "Zakładanie spółki handlowej | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "2b592569662b5ec2a9cc15f1be3df1b744726bab1751d1658942bc5564f00e3c",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=8579",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 10365,
+    "diacritics_ratio": 0.0576,
+    "vocab_hits": 6
+  }
+}

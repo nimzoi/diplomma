@@ -6,12 +6,12 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 
 | Kryterium | Wartosc |
 |---|---|
-| Liczba dokumentow | 322 |
+| Liczba dokumentow | 384 |
 | Pokrycie tematyczne (51) | 56/51 |
 | Warstwa L1 | 42 |
-| Warstwa L2 | 197 |
-| Stosunek .gov.pl | 322/322 |
-| Total MB on disk | 436.3 |
+| Warstwa L2 | 259 |
+| Stosunek .gov.pl | 384/384 |
+| Total MB on disk | 441.1 |
 
 ## By source
 
@@ -19,19 +19,19 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 |---|---|
 | govpl | 96 |
 | kis | 83 |
+| biznes_gov | 63 |
 | pip | 45 |
 | eli | 37 |
 | podatki | 28 |
 | zus | 19 |
 | uodo | 8 |
 | eurlex | 5 |
-| biznes_gov | 1 |
 
 ## By layer
 
 | Layer | Count |
 |---|---|
-| L2 | 197 |
+| L2 | 259 |
 | L3 | 83 |
 | L1 | 42 |
 
@@ -39,8 +39,8 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 
 | Format | Count |
 |---|---|
-| pdf | 199 |
-| html | 105 |
+| pdf | 201 |
+| html | 165 |
 | docx | 18 |
 
 ## Topic coverage (51 topics)
@@ -58,14 +58,14 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 | zus_zawieszenie_dzialalnosci | zus | 7 |
 | zus_emerytura_jdg | zus | 6 |
 | pit_skala | pit | 16 |
-| pit_liniowy | pit | 3 |
-| pit_ryczalt | pit | 8 |
+| pit_liniowy | pit | 4 |
+| pit_ryczalt | pit | 9 |
 | pit_stawki_ryczalt_pkd | pit | 2 |
 | pit_karta_podatkowa | pit | 1 |
 | pit_ip_box | pit | 17 |
 | pit_kup | pit | 1 |
 | pit_amortyzacja | pit | 12 |
-| pit_kpir | pit | 11 |
+| pit_kpir | pit | 12 |
 | pit_ewidencja_ryczalt | pit | 2 |
 | pit_roczny | pit | 10 |
 | vat_rejestracja | vat | 7 |
@@ -75,14 +75,14 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 | vat_stawki | vat | 13 |
 | vat_ue | vat | 2 |
 | vat_marza | vat | 2 |
-| vat_biala_lista | vat | 1 |
-| ceidg_rejestracja | ceidg | 89 |
-| ceidg_pkd | ceidg | 2 |
+| vat_biala_lista | vat | 2 |
+| ceidg_rejestracja | ceidg | 143 |
+| ceidg_pkd | ceidg | 3 |
 | ceidg_zawieszenie | ceidg | 8 |
 | ceidg_wznowienie | ceidg | 4 |
-| ceidg_zamkniecie | ceidg | 5 |
+| ceidg_zamkniecie | ceidg | 6 |
 | ceidg_zmiana_wpisu | ceidg | 6 |
-| ceidg_dzialalnosc_nierejestrowana | ceidg | 9 |
+| ceidg_dzialalnosc_nierejestrowana | ceidg | 10 |
 | kp_umowa_o_prace | kp | 11 |
 | kp_umowa_zlecenie | kp | 3 |
 | kp_umowa_o_dzielo | kp | 3 |
@@ -97,7 +97,7 @@ Auto-generated from `data/manifest.csv`. Run `python3 scripts/build_coverage_rep
 | rodo_klauzula_informacyjna | rodo | 1 |
 | rodo_monitoring | rodo | 2 |
 | rodo_naruszenie | rodo | 2 |
-| rodo_rekrutacja | rodo | 7 |
+| rodo_rekrutacja | rodo | 8 |
 | b2b_test_samozatrudnienia | hot2025 | 6 |
 | b2b_zmiana_na_uop | hot2025 | 0 |
 | polski_lad_skladka_zdrowotna_2026 | hot2025 | 1 |

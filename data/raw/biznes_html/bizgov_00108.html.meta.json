@@ -1,0 +1,31 @@
+{
+  "id": "ad78bf54093bf00c",
+  "url": "https://www.biznes.gov.pl/pl/portal/00108",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:17:55Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 53746,
+  "relative_path": "raw/biznes_html/bizgov_00108.html",
+  "title": "Prawa i obowiązki pracodawcy | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "ad78bf54093bf00ce9dc86a6e6dae477f91ae0cb624a52bea1382143bc3ee2c4",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=9915",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 11767,
+    "diacritics_ratio": 0.037,
+    "vocab_hits": 9
+  }
+}

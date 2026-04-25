@@ -1,0 +1,31 @@
+{
+  "id": "9adf5aff717085f1",
+  "url": "https://www.biznes.gov.pl/pl/portal/00115",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_dzialalnosc_nierejestrowana"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:13:21Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 97261,
+  "relative_path": "raw/biznes_html/bizgov_00115.html",
+  "title": "Działalność nierejestrowana i inne rodzaje działalności, których nie t | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "9adf5aff717085f1f4d4a55548b6bad73a481c1cef67d4a833661140543e3fd9",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=41489",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 41517,
+    "diacritics_ratio": 0.0536,
+    "vocab_hits": 20
+  }
+}

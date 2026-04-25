@@ -1,0 +1,31 @@
+{
+  "id": "d2e1d585280c48bb",
+  "url": "https://www.biznes.gov.pl/pl/portal/0223",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:16:17Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 57847,
+  "relative_path": "raw/biznes_html/bizgov_0223.html",
+  "title": "Etat | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "d2e1d585280c48bbed1250a1780281fde8609dc83fd88760a7634802e6b0a237",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=8395",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 10156,
+    "diacritics_ratio": 0.0469,
+    "vocab_hits": 7
+  }
+}

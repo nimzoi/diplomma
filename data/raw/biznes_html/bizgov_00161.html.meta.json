@@ -1,0 +1,31 @@
+{
+  "id": "7ce57d288209465b",
+  "url": "https://www.biznes.gov.pl/pl/portal/00161",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:14:12Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 62750,
+  "relative_path": "raw/biznes_html/bizgov_00161.html",
+  "title": "Spółka jawna – podstawowe informacje | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "7ce57d288209465b85980475acbf6d98b35e65074f25e21f925281f6615eb76c",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=15453",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 17244,
+    "diacritics_ratio": 0.0641,
+    "vocab_hits": 14
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "34f2b325e99db0cf",
+  "url": "https://www.biznes.gov.pl/pl/portal/0228",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:16:33Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 54611,
+  "relative_path": "raw/biznes_html/bizgov_0228.html",
+  "title": "Prawa pracownika | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "34f2b325e99db0cf71344273eb8a5ab27cec6cb57644ca5c184f1806999b21b9",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=8088",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 9863,
+    "diacritics_ratio": 0.0425,
+    "vocab_hits": 8
+  }
+}

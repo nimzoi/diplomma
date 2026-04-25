@@ -1,0 +1,31 @@
+{
+  "id": "9c394a57fce7c15e",
+  "url": "https://www.biznes.gov.pl/pl/firma",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:18:06Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 43932,
+  "relative_path": "raw/biznes_html/bizgov_firma.html",
+  "title": "Informacje | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "9c394a57fce7c15eefb1732eadf89fd3d8010829ab2354fa84369e725026a776",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=3984",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 5749,
+    "diacritics_ratio": 0.0397,
+    "vocab_hits": 11
+  }
+}

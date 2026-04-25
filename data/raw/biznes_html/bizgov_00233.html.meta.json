@@ -1,0 +1,31 @@
+{
+  "id": "099294f9779e2379",
+  "url": "https://www.biznes.gov.pl/pl/portal/00233",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "pit_kpir"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:15:10Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 81495,
+  "relative_path": "raw/biznes_html/bizgov_00233.html",
+  "title": "Jak prowadzić podatkową księgę przychodów i rozchodów (PKPiR) Sprawdź | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "099294f9779e23796b0e0a6ab1171a5dad3d1b802681383e7d3dec248daace87",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=31356",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 33114,
+    "diacritics_ratio": 0.054,
+    "vocab_hits": 14
+  }
+}

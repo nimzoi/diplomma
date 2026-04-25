@@ -1,0 +1,31 @@
+{
+  "id": "ddba769fdd3468b5",
+  "url": "https://www.biznes.gov.pl/pl/firma/handel-zagraniczny",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:19:09Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 48332,
+  "relative_path": "raw/biznes_html/bizgov_handel-zagraniczny.html",
+  "title": "Import i eksport | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "ddba769fdd3468b593778522e4b3f8aa6c207d12f97eb0f0eb300a43cfa724bb",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=5609",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 7400,
+    "diacritics_ratio": 0.0422,
+    "vocab_hits": 8
+  }
+}

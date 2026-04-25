@@ -1,0 +1,31 @@
+{
+  "id": "2eb20b28d6176a1d",
+  "url": "https://www.biznes.gov.pl/pl/portal/00236",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:15:27Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 87917,
+  "relative_path": "raw/biznes_html/bizgov_00236.html",
+  "title": "Jak składać deklaracje podatkowe: PIT, CIT, VAT i inne | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "2eb20b28d6176a1d522c2cd28e867c3b6d08f840e54825bde065547f74ea932a",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=29719",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 31318,
+    "diacritics_ratio": 0.0464,
+    "vocab_hits": 16
+  }
+}

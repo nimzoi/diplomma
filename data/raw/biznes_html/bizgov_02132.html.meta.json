@@ -1,0 +1,31 @@
+{
+  "id": "260889c05ea8a522",
+  "url": "https://www.biznes.gov.pl/pl/portal/02132",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:17:12Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 45177,
+  "relative_path": "raw/biznes_html/bizgov_02132.html",
+  "title": "Faktury i paragony | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "260889c05ea8a5223c0a51938a0498f2e84fbcda8933893be2168cccb4f2073e",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=4033",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 5830,
+    "diacritics_ratio": 0.0467,
+    "vocab_hits": 8
+  }
+}

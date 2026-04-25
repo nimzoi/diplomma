@@ -1,0 +1,31 @@
+{
+  "id": "aea627293d309a85",
+  "url": "https://www.biznes.gov.pl/pl/portal/026",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:16:50Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 38190,
+  "relative_path": "raw/biznes_html/bizgov_026.html",
+  "title": "Działalność nierejestrowa | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "aea627293d309a85163a493361d3435b7ab057d8a15dc2a060074ba06bcf55b3",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=1841",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 3663,
+    "diacritics_ratio": 0.0377,
+    "vocab_hits": 4
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "9d0ab784038ae1ba",
+  "url": "https://www.biznes.gov.pl/pl/portal/0091",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:15:49Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 66648,
+  "relative_path": "raw/biznes_html/bizgov_0091.html",
+  "title": "Pełnomocnicy i przedstawiciele podatkowi | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "9d0ab784038ae1ba9eb270c8c561207f0112f43ae0955cced4f337ca1119cc98",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=17533",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 19242,
+    "diacritics_ratio": 0.0445,
+    "vocab_hits": 11
+  }
+}

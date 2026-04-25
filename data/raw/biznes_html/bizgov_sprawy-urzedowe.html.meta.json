@@ -1,0 +1,31 @@
+{
+  "id": "165baeb5988c7b0f",
+  "url": "https://www.biznes.gov.pl/pl/firma/sprawy-urzedowe",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:18:41Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 43818,
+  "relative_path": "raw/biznes_html/bizgov_sprawy-urzedowe.html",
+  "title": "Jak korzystać z portalu | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "165baeb5988c7b0f4fac8fcc55bce02d2865287932c826724f037b3f9aec13f0",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=4902",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 6701,
+    "diacritics_ratio": 0.0464,
+    "vocab_hits": 4
+  }
+}

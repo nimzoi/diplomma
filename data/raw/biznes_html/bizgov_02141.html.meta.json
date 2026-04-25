@@ -1,0 +1,31 @@
+{
+  "id": "22bdecda37eee063",
+  "url": "https://www.biznes.gov.pl/pl/portal/02141",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "pit_ryczalt"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:17:22Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 41932,
+  "relative_path": "raw/biznes_html/bizgov_02141.html",
+  "title": "Ryczałt od przychodów ewidencjonowanych | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "22bdecda37eee0631537380ff232a3fc0c1b5eae92ca195c22538e1cd089272d",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=3204",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 5034,
+    "diacritics_ratio": 0.0411,
+    "vocab_hits": 6
+  }
+}

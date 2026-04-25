@@ -1,0 +1,31 @@
+{
+  "id": "0aaa711324e8e1e3",
+  "url": "https://www.biznes.gov.pl/pl/portal/00119",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_pkd"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:13:44Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 65503,
+  "relative_path": "raw/biznes_html/bizgov_00119.html",
+  "title": "Jak wybrać i zmienić kod PKD | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "0aaa711324e8e1e305aa7df78435f1801af1564de58f6c01f2a1ace309921ee8",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=20670",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 20790,
+    "diacritics_ratio": 0.057,
+    "vocab_hits": 11
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ec9a32f2b466b509",
+  "url": "https://www.biznes.gov.pl/pl/portal/0214",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:16:00Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 44828,
+  "relative_path": "raw/biznes_html/bizgov_0214.html",
+  "title": "Pełnomocnik | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "ec9a32f2b466b509ea6ed86262c41b01c0317e557fad436cd9a88d31938e59c4",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=4184",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 5976,
+    "diacritics_ratio": 0.0475,
+    "vocab_hits": 6
+  }
+}

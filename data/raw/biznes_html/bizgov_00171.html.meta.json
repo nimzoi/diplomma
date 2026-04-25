@@ -1,0 +1,31 @@
+{
+  "id": "5c824c49af49422f",
+  "url": "https://www.biznes.gov.pl/pl/portal/00171",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:14:42Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 103556,
+  "relative_path": "raw/biznes_html/bizgov_00171.html",
+  "title": "W jakiej formie można prowadzić firmę. Firma jednoosobowa a spółki. | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "5c824c49af49422f26eb14793c94e8679cbe9ccf1318c0ae8a21c98d2acdcd1c",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=40409",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 41174,
+    "diacritics_ratio": 0.0756,
+    "vocab_hits": 14
+  }
+}

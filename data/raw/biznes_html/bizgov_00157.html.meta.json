@@ -1,0 +1,31 @@
+{
+  "id": "dabbb2dd4f984231",
+  "url": "https://www.biznes.gov.pl/pl/portal/00157",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:17:49Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 80624,
+  "relative_path": "raw/biznes_html/bizgov_00157.html",
+  "title": "Jak firma może zapobiegać zatorom płatniczym | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "dabbb2dd4f9842319d50594fae3c963a3b7e13215a90c8b1b5a890635a67ca73",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=32060",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 33793,
+    "diacritics_ratio": 0.0596,
+    "vocab_hits": 14
+  }
+}

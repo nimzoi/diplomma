@@ -1,0 +1,31 @@
+{
+  "id": "16d33fadc16b0ee8",
+  "url": "https://www.biznes.gov.pl/pl/portal/00117",
+  "source": "biznes_gov",
+  "topic_ids": [
+    "ceidg_rejestracja"
+  ],
+  "layer": "L2",
+  "format": "html",
+  "fetched_at": "2026-04-25T12:13:33Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 56773,
+  "relative_path": "raw/biznes_html/bizgov_00117.html",
+  "title": "Jak nazwać firmę | Biznes.gov.pl - Serwis informacyjno-usługowy dla przedsiebiorcy",
+  "last_modified": "",
+  "is_official": true,
+  "eli_id": "",
+  "parent_url": "",
+  "discovery_source": "playwright_render",
+  "sha256": "16d33fadc16b0ee8cb4b684529ea050c8f97285e44a1ec3c8d5ce669f9a78b5e",
+  "quality_flag": "accepted",
+  "notes": "rendered DOM, body_text=12904",
+  "headers": {},
+  "content_audit": {
+    "flag": "ok",
+    "chars": 13028,
+    "diacritics_ratio": 0.0529,
+    "vocab_hits": 11
+  }
+}
