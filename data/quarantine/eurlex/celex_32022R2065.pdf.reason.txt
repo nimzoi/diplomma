@@ -1,1 +1,0 @@
-overkill: DSA dotyczy bardzo duzych platform (VLOP/VLOSE), poza zakresem typowej JDG
