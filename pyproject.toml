@@ -2,4 +2,8 @@
 name = "diplomma"
 version = "0.1.0"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "black>=26.3.1",
+    "pyrefly>=0.45.0",
+    "ruff>=0.15.13",
+]

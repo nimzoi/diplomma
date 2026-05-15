@@ -1,0 +1,61 @@
+# Iteracja 0a — feasibility sampling config
+# Locked random seed dla reproducibility (zobacz: sources_catalog.md § Strata 1 Stratified sampling
+# + DEC-001 § Uzasadnienie eval set design).
+#
+# DO NOT change `random_seed` lub `psych_atc_prefixes` bez DEC update — to złamie reproducibility.
+
+random_seed: 42
+
+# URPL RPL XML feed URL — to fill in po manual recon.
+# Page: https://rejestry.ezdrowie.gov.pl/registry/rpl
+# Look for: direct daily XML download link. Paste full URL below.
+urpl_xml_url: null  # TODO Magda: discover via manual visit lub WebFetch
+
+# Sample sizes for Iteracja 0a phase 1
+sample_size_total: 100         # for pre-conditions #3/#4/#5/#6 automation
+spot_check_psych_size: 10      # competence-stratified manual review (autorka, psych subset)
+
+# ATC stratification (sources_catalog.md § Strata 1)
+# Note: dla Iteracji 0a używamy tylko psych_atc_prefixes do spot-check.
+# Pełna stratifikacja (30% over-rep) — dla Iteracji 1 corpus scrape.
+psych_overrep_proportion: 0.30
+psych_atc_prefixes:
+  - "N05"
+  - "N06"
+
+# Thresholds (sources_catalog.md § Iteracja 0 — Feasibility pre-conditions + Kill criteria + Warning bands)
+thresholds:
+  pre_2_xml_parse:
+    success: "100% valid"
+    failure: "parse error w xml.etree"
+  pre_3_chpl_p95_sec:
+    success_max: 2.0
+    warning_max: 5.0      # 2-5s = WARN (throttle + retry/backoff, no kill)
+  pre_4_ulotka_p95_sec:
+    success_max: 2.0
+    warning_max: 5.0
+  pre_5_alignment_rate:
+    success_min: 0.90
+    warning_min: 0.80     # 80-89% = WARN (tighten data_modyfikacji tolerance, re-run #5)
+    kill_below: 0.80
+  pre_6_ocr_overhead:
+    success_max: 0.15
+    warning_max: 0.25     # 15-24% = WARN (Tesseract -l pol w pipeline, flag w R4/R8)
+    kill_above: 0.25
+
+# Kill criteria DEC-001 activation (sources_catalog.md § Iteracja 0)
+kill_criteria:
+  min_failed_preconditions: 2
+  ocr_overhead_max: 0.25
+  alignment_rate_min: 0.80
+
+# Endpoint behavior tuning
+request_timeout_sec: 30.0
+ocr_text_min_chars: 100
+alignment_date_tolerance_days: 1
+
+# Uptime probe (pre-condition #1) — separate run
+uptime:
+  hours: 24
+  interval_min: 60
+  success_min: 0.99       # ≥99% probes status 200

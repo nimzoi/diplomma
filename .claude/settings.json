@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(git push:*)",
+      "Bash(git push --force:*)",
+      "Bash(git push -f:*)",
+      "Bash(git reset --hard:*)",
+      "Bash(git checkout --:*)",
+      "Bash(git clean -f:*)",
+      "Bash(git clean -fd:*)",
+      "Bash(git branch -D:*)",
+      "Bash(rm -rf:*)",
+      "Bash(rm -r :*)",
+      "Bash(rmdir /S:*)",
+      "Bash(rmdir /s:*)",
+      "Bash(Remove-Item -Recurse:*)",
+      "Bash(Remove-Item -Force:*)",
+      "Bash(del /S:*)",
+      "Bash(pip install:*)",
+      "Bash(pip uninstall:*)",
+      "Bash(poetry add:*)",
+      "Bash(conda install:*)",
+      "Bash(black:*)",
+      "Read(.env)",
+      "Read(.env.local)",
+      "Read(.env.production)",
+      "Read(**/.env)",
+      "Read(**/secrets.*)",
+      "Edit(.git/**)",
+      "Edit(.venv/**)",
+      "Edit(.idea/**)",
+      "Write(.git/**)",
+      "Write(.venv/**)",
+      "Write(.idea/**)"
+    ]
+  }
+}
