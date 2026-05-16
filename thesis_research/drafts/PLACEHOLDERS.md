@@ -79,6 +79,28 @@
 |---|---|---|---|---|
 | `{{REPO_COMMIT_HASH}}` | Git commit hash dla reprodukcji bit-identical v0.6 | post-final commit R3 | ⏳ | R03 |
 
+## R4 EDA metrics (z notebooka eda_v0.ipynb)
+
+| Placeholder | Opis | Source | Status | Files |
+|---|---|---|---|---|
+| `{{CHUNK_LENGTH_MEDIAN_OVERALL}}` | Mediana długości chunków w korpusie | Notebook run | ⏳ | R04 |
+| `{{CHUNK_LENGTH_P95}}` | Percentyl 95 długości chunków | Notebook run | ⏳ | R04 |
+| `{{CHUNK_LENGTH_MAX}}` | Max długość chunka (TSUE Dziubak) | Notebook run | ⏳ default ~40k | R04 |
+| `{{CIT_COV_*_PCT}}` (9× per source_type) | Pokrycie cytacji per source | citation_extractor stats | ⏳ | R04 |
+| `{{CATEGORIES_PER_CHUNK_MEDIAN}}` | Mediana liczby kategorii per chunk | Notebook run | ⏳ default 2-3 | R04 |
+| `{{BERTOPIC_N_CLUSTERS}}` | Liczba naturalnych klastrów BERTopic | Notebook BERTopic run | ⏳ default 15-25 | R04 |
+| `{{BERTOPIC_TOP_TOPICS}}` + `{{BT_C0-9_*}}` (40× dla 10 klastrów × 4 pola) | Top 10 klastrów: ID, size, terms, label | Notebook BERTopic run | ⏳ | R04 |
+| `{{CATEGORY_BERTOPIC_ALIGNMENT}}` | Liczba kategorii alignowanych z dominującym klastrem (chi-square α=0.05) | Notebook analysis | ⏳ default 10-12 z 14 | R04 |
+| `{{UMAP_SILHOUETTE_SCORE}}` | Silhouette score dla HDBSCAN clustering | Notebook silhouette | ⏳ default 0.3-0.5 | R04 |
+| `{{SILHOUETTE_INTERPRETATION}}` | Interpretacja silhouette score | derived | ⏳ | R04 |
+| `{{TOK_*}}` (27× tokens: 9 source_types × 3 metryki mean/median/p95) | APT4 token length distribution | Notebook tokenizer run | ⏳ | R04 |
+| `{{TOK_MAX_OVERALL}}` | Max tokens w korpusie (Bielik APT4) | Notebook | ⏳ default ~15-20k | R04 |
+| `{{FIG_4_1_SOURCE_TYPE_PIE}}` | Wykres kołowy 9 source_types | Notebook matplotlib | ⏳ | R04 |
+| `{{FIG_4_2_CHUNK_LENGTH_BOXPLOT}}` | Boxplot długości per source_type | Notebook seaborn | ⏳ | R04 |
+| `{{FIG_4_3_HALU_TYPE_BARS}}` | Bar chart 5 typów + neg | Notebook | ⏳ | R04 |
+| `{{FIG_4_4_PRE_POST_CLEANUP_DIST}}` | Pre/post Wariant B comparison | Notebook | ⏳ | R04 |
+| `{{FIG_4_5_UMAP_2D_SCATTER}}` | UMAP 2D scatter kolorowany Category | Notebook UMAP + matplotlib | ⏳ | R04 |
+
 ## Baselines (R7 comparison)
 
 | Placeholder | Opis | Source | Status | Files |
