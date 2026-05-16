@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00586",
+  "source_url": "https://forumprawne.org/watek/zwrot-a-gwarancja.871475/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-a-gwarancja.871475/",
+  "archive_file": "forumprawne/forumprawne_00586.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58241,
+  "sha256": "8f21f75f33041efbd3d1e3d72db663a7127bec588dac62fa7ae85d0c4436dcca",
+  "download_date": "2026-05-16T07:52:36Z",
+  "duration_sec": 0.162,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

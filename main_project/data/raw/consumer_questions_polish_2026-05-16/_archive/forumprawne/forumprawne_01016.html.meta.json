@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01016",
+  "source_url": "https://forumprawne.org/watek/raport-po-audycie-instalacji-fotowoltaicznej.862863/",
+  "fetch_url": "https://forumprawne.org/watek/raport-po-audycie-instalacji-fotowoltaicznej.862863/",
+  "archive_file": "forumprawne/forumprawne_01016.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53900,
+  "sha256": "f894919d861847bb4bd475628e1a260c9274cf11ad60933e674e141ce7cf6534",
+  "download_date": "2026-05-16T08:00:42Z",
+  "duration_sec": 0.078,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00844",
+  "source_url": "https://forumprawne.org/watek/uszkodzenie-opony-na-stacji.755126/",
+  "fetch_url": "https://forumprawne.org/watek/uszkodzenie-opony-na-stacji.755126/",
+  "archive_file": "forumprawne/forumprawne_00844.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 98890,
+  "sha256": "235dab697d6c5722066531388fdf7cee190ac211248f159be83c3dcc63f76860",
+  "download_date": "2026-05-16T07:57:27Z",
+  "duration_sec": 0.132,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

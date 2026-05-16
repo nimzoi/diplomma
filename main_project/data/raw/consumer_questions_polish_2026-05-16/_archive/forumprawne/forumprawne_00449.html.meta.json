@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00449",
+  "source_url": "https://forumprawne.org/watek/naprawiony-zegarek-wydany-obcej-osobie.874802/",
+  "fetch_url": "https://forumprawne.org/watek/naprawiony-zegarek-wydany-obcej-osobie.874802/",
+  "archive_file": "forumprawne/forumprawne_00449.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65072,
+  "sha256": "08bbda26dced132f9291bcb7eb8ec6fea267e7481fb19384336e3e19f50c6a2f",
+  "download_date": "2026-05-16T07:50:01Z",
+  "duration_sec": 0.119,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

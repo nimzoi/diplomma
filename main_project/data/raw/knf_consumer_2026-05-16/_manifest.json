@@ -1,5 +1,755 @@
 {
   "scrape_date": "2026-05-16",
-  "count": 0,
-  "entries": []
+  "count": 107,
+  "entries": [
+    {
+      "article_id": "knf_0001_knf",
+      "url": "https://www.knf.gov.pl/aktualnosci",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1397
+    },
+    {
+      "article_id": "knf_0002_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1189
+    },
+    {
+      "article_id": "knf_0003_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/Global_Money_Week",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 5168
+    },
+    {
+      "article_id": "knf_0004_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/Global_Money_Week/propozycje",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0005_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1988
+    },
+    {
+      "article_id": "knf_0006_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW/poprzednie_edycje",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0007_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW/poprzednie_edycje/WIW_2019",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0008_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW/poprzednie_edycje/WIW_2020",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0009_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW/poprzednie_edycje/WIW_2021",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 682
+    },
+    {
+      "article_id": "knf_0010_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW/poprzednie_edycje/WIW_2022",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1105
+    },
+    {
+      "article_id": "knf_0011_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW/poprzednie_edycje/WIW_2023",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3059
+    },
+    {
+      "article_id": "knf_0012_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW/poprzednie_edycje/WIW_2024",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0013_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW/propozycje_programowe",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1591
+    },
+    {
+      "article_id": "knf_0014_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/WIW/webinaria_CEDUR_WIW",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 767
+    },
+    {
+      "article_id": "knf_0015_knf",
+      "url": "https://www.knf.gov.pl/co_robimy/edukacja_finansowa/seminaria_cedur",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1762
+    },
+    {
+      "article_id": "knf_0016_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1145
+    },
+    {
+      "article_id": "knf_0017_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/Informacja_dotyczaca_otwartych_funduszy_emerytalnych",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 654
+    },
+    {
+      "article_id": "knf_0018_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/Lista_ostrzezen_publicznych_KNF",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0019_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/Ochrona_klienta_na_rynku_uslug_finansowych",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1175
+    },
+    {
+      "article_id": "knf_0020_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/Ochrona_klienta_na_rynku_uslug_finansowych/KNF",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3611
+    },
+    {
+      "article_id": "knf_0021_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/Ochrona_klienta_na_rynku_uslug_finansowych/Reklamacje",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0022_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/Ochrona_klienta_na_rynku_uslug_finansowych/UOKIK",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1793
+    },
+    {
+      "article_id": "knf_0023_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/Ochrona_klienta_na_rynku_uslug_finansowych/organizacje_konsumenckie",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 902
+    },
+    {
+      "article_id": "knf_0024_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/Ochrona_klienta_na_rynku_uslug_finansowych/rzecznik_finansowy",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 617
+    },
+    {
+      "article_id": "knf_0025_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/Ochrona_klienta_na_rynku_uslug_finansowych/sad_polubowny_przy_KNF",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 617
+    },
+    {
+      "article_id": "knf_0026_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/gdzie_szukac_pomocy_w_przypadku_sporu_z_instytucja_finansowa",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2863
+    },
+    {
+      "article_id": "knf_0027_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0028_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Crowdfunding",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1927
+    },
+    {
+      "article_id": "knf_0029_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1819
+    },
+    {
+      "article_id": "knf_0030_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja/finansowanie",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1008
+    },
+    {
+      "article_id": "knf_0031_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja/lokalizacja",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1510
+    },
+    {
+      "article_id": "knf_0032_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja/plynnosc_inwestycji",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1668
+    },
+    {
+      "article_id": "knf_0033_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja/przedmiot_inwestycji",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1833
+    },
+    {
+      "article_id": "knf_0034_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja/status_prawny",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3055
+    },
+    {
+      "article_id": "knf_0035_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja/sytuacja_dewelopera",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1652
+    },
+    {
+      "article_id": "knf_0036_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja/tresc_umowy",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1488
+    },
+    {
+      "article_id": "knf_0037_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja/zarzadzajacy_nieruchomoscia",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 961
+    },
+    {
+      "article_id": "knf_0038_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Dopilnuj_zeby_Twoja_inwestycja_nie_stala_sie_iluzja/zyski",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1957
+    },
+    {
+      "article_id": "knf_0039_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Finfluencer_dobre_praktyki_i_ryzyka",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2524
+    },
+    {
+      "article_id": "knf_0040_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Finfluencer_dobre_praktyki_i_ryzyka/Fininfluenserzy_kim_sa_jak_dzialaja",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0041_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Finfluencer_dobre_praktyki_i_ryzyka/dobre_praktyki_fininfluencerzy",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1148
+    },
+    {
+      "article_id": "knf_0042_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Finfluencer_dobre_praktyki_i_ryzyka/dobre_praktyki_firmy_inwestycyjne",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 920
+    },
+    {
+      "article_id": "knf_0043_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Finfluencer_dobre_praktyki_i_ryzyka/wskazowki_odbiorcy_tresci",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1667
+    },
+    {
+      "article_id": "knf_0044_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Uwazajnakryptowaluty_pl",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0045_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Weksle_inwestycyjne",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1703
+    },
+    {
+      "article_id": "knf_0046_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Weksle_inwestycyjne/Weksle",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1869
+    },
+    {
+      "article_id": "knf_0047_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Weksle_inwestycyjne/bezpieczenstwo_inwestycji",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2108
+    },
+    {
+      "article_id": "knf_0048_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Weksle_inwestycyjne/brak_nadzor_nad_wekslami_inwestycyjnymi",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1382
+    },
+    {
+      "article_id": "knf_0049_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Weksle_inwestycyjne/komunikat",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 660
+    },
+    {
+      "article_id": "knf_0050_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/Weksle_inwestycyjne/ryzyka",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2624
+    },
+    {
+      "article_id": "knf_0051_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/a_Ty_kim_bedziesz_kiedy_banka_peknie",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 6202
+    },
+    {
+      "article_id": "knf_0052_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1989
+    },
+    {
+      "article_id": "knf_0053_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/gdzie_uzyskam_pomoc",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1051
+    },
+    {
+      "article_id": "knf_0054_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/materialy_kampanii",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 601
+    },
+    {
+      "article_id": "knf_0055_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 601
+    },
+    {
+      "article_id": "knf_0056_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw/business_e-mail_compromise",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2427
+    },
+    {
+      "article_id": "knf_0057_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw/fraud_nigeryjski",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 8824
+    },
+    {
+      "article_id": "knf_0058_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw/oszustwa_inwestycyjne",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 6334
+    },
+    {
+      "article_id": "knf_0059_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw/oszustwa_w_mediach_spolecznosciowych",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 4371
+    },
+    {
+      "article_id": "knf_0060_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw/oszustwa_w_serwisach_ogloszeniowych",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 4325
+    },
+    {
+      "article_id": "knf_0061_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw/sklepy_internetowe",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2536
+    },
+    {
+      "article_id": "knf_0062_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw/vishing",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3670
+    },
+    {
+      "article_id": "knf_0063_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw/wiadomosci_sms",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2539
+    },
+    {
+      "article_id": "knf_0064_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/schematy_oszustw/zlosliwe_aplikacje_mobilne",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2110
+    },
+    {
+      "article_id": "knf_0065_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 601
+    },
+    {
+      "article_id": "knf_0066_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik/Atak_z_wykorzystaniem_nakladek",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1548
+    },
+    {
+      "article_id": "knf_0067_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik/Deepfake",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0068_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik/Malware",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0069_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik/Oszustwo",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3198
+    },
+    {
+      "article_id": "knf_0070_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik/Phishing",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2117
+    },
+    {
+      "article_id": "knf_0071_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik/Scam",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1728
+    },
+    {
+      "article_id": "knf_0072_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik/Socjotechnika",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2318
+    },
+    {
+      "article_id": "knf_0073_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik/Spear_phishing",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1454
+    },
+    {
+      "article_id": "knf_0074_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/cyberoszustwa_inwestycyjne/slownik/Spoofing",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0075_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/emitenci",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 686
+    },
+    {
+      "article_id": "knf_0076_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/gdzie_szukac_pomocy",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3277
+    },
+    {
+      "article_id": "knf_0077_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/inwestuj_swiadomie",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 6313
+    },
+    {
+      "article_id": "knf_0078_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/inwestuj_swiadomie/akcje",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3169
+    },
+    {
+      "article_id": "knf_0079_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/inwestuj_swiadomie/fundusze",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3801
+    },
+    {
+      "article_id": "knf_0080_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/inwestuj_swiadomie/komunikaty",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 623
+    },
+    {
+      "article_id": "knf_0081_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/inwestuj_swiadomie/obligacje",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3190
+    },
+    {
+      "article_id": "knf_0082_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/nadzor_KNF_nad_emitentami",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1307
+    },
+    {
+      "article_id": "knf_0083_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/nadzor_KNF_nad_emitentami/pomoc",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 636
+    },
+    {
+      "article_id": "knf_0084_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/nadzor_nad_emitentami_zagranicznymi",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 5538
+    },
+    {
+      "article_id": "knf_0085_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/nie_wszystko_zloto_co_sie_swieci",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2541
+    },
+    {
+      "article_id": "knf_0086_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/obowiazki_emitentow",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2383
+    },
+    {
+      "article_id": "knf_0087_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/przyklady_naruszen_prawa",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1039
+    },
+    {
+      "article_id": "knf_0088_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/ryzyko_stopy_procentowej",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 4819
+    },
+    {
+      "article_id": "knf_0089_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/slownik",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 6542
+    },
+    {
+      "article_id": "knf_0090_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/stala_czy_zmienna_stopa_oprocentowania",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 620
+    },
+    {
+      "article_id": "knf_0091_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/uprawnienia_KNF_wzgledem_emitentow",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1471
+    },
+    {
+      "article_id": "knf_0092_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/uwaga_cyberoszust",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1818
+    },
+    {
+      "article_id": "knf_0093_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/uwaga_cyberoszust/porady",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 3073
+    },
+    {
+      "article_id": "knf_0094_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/uwaga_cyberoszust/przyklady",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2227
+    },
+    {
+      "article_id": "knf_0095_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/zakres",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 675
+    },
+    {
+      "article_id": "knf_0096_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/zakres_nadzoru_nad_emitentami",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2065
+    },
+    {
+      "article_id": "knf_0097_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/zakres_nadzoru_wobec_akcjonariuszy",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2085
+    },
+    {
+      "article_id": "knf_0098_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/kampanie_informacyjne/zrodla_informacji_o_emitentach",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 574
+    },
+    {
+      "article_id": "knf_0099_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/ostrzezenia_publiczne",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 7021
+    },
+    {
+      "article_id": "knf_0100_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/ostrzezenia_zagranicznych_organow_nadzoru",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 763
+    },
+    {
+      "article_id": "knf_0101_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/porownywarka_oplat",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1555
+    },
+    {
+      "article_id": "knf_0102_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/porownywarka_wybieram_fundusze",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2614
+    },
+    {
+      "article_id": "knf_0103_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/przydatne_informacje_dla_klientow_rynku_uslug_finansowych",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 892
+    },
+    {
+      "article_id": "knf_0104_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/sad_polubowny",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 2324
+    },
+    {
+      "article_id": "knf_0105_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/sposob_przyjmowania_informacji_nieprawidlowosci",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 4098
+    },
+    {
+      "article_id": "knf_0106_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/stopa_zwrotu",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 1988
+    },
+    {
+      "article_id": "knf_0107_knf",
+      "url": "https://www.knf.gov.pl/dla_konsumenta/wyszukiwarka_podmiotow",
+      "status": 200,
+      "title": "KNF",
+      "char_count": 727
+    }
+  ]
 }

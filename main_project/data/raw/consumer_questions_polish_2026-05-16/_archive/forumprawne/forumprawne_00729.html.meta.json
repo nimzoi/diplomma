@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00729",
+  "source_url": "https://forumprawne.org/watek/dostep-do-swoich-danych-raz-na-pol-roku-czesciej-za-oplata-i-inne-zapisy.868820/",
+  "fetch_url": "https://forumprawne.org/watek/dostep-do-swoich-danych-raz-na-pol-roku-czesciej-za-oplata-i-inne-zapisy.868820/",
+  "archive_file": "forumprawne/forumprawne_00729.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62065,
+  "sha256": "bd2b94c3e4cd2dacdf48dc6ab6297e14a988c6ad3b91826c54279fcf6b1109e3",
+  "download_date": "2026-05-16T07:55:17Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

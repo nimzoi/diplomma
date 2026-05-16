@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00991",
+  "source_url": "https://forumprawne.org/watek/zakup-telefonu-z-sieci.863460/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-telefonu-z-sieci.863460/",
+  "archive_file": "forumprawne/forumprawne_00991.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 75589,
+  "sha256": "2217a66af51f87cc329044514eaf9e37068eedee4c2db374fe3eead5d0e50f8e",
+  "download_date": "2026-05-16T08:00:13Z",
+  "duration_sec": 0.155,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

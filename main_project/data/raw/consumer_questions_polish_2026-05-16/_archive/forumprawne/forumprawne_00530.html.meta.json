@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00530",
+  "source_url": "https://forumprawne.org/watek/zlecenie-rozliczenia-podatku-za-granica.872661/",
+  "fetch_url": "https://forumprawne.org/watek/zlecenie-rozliczenia-podatku-za-granica.872661/",
+  "archive_file": "forumprawne/forumprawne_00530.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54179,
+  "sha256": "e058a8d3c0157af5809c8eff7953e142b17c810b9cc8cfeb1dfa2991ce57062d",
+  "download_date": "2026-05-16T07:51:33Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,18 @@
+{
+  "source": "cik.uke.gov.pl",
+  "scrape_date": "2026-05-16",
+  "license": "urzędowe (Art. 4 ust. 2 PrAut, public domain)",
+  "discovered_urls": 200,
+  "successful_articles": 200,
+  "failed_urls": 0,
+  "skipped_too_short": 0,
+  "skipped_duplicate": 0,
+  "waf_blocks": 0,
+  "total_chars": 317875,
+  "avg_chars_per_article": 1589.4,
+  "archive_mb": 4.61,
+  "notes": "BFS walk cik.uke.gov.pl od 5 entries, depth max 4. Centrum Informacji Konsumenckiej UKE — porady telekomunikacja, poczta, ochrona danych.",
+  "categories": {
+    "news": 200
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01004",
+  "source_url": "https://forumprawne.org/watek/wypozyczenie-auta-a-obtarcie-nadwozia.863254/",
+  "fetch_url": "https://forumprawne.org/watek/wypozyczenie-auta-a-obtarcie-nadwozia.863254/",
+  "archive_file": "forumprawne/forumprawne_01004.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59917,
+  "sha256": "4a40ae5030f47cc4100942c4fc0295f2793938e42b2a4d3ed0a9ac2158b34d3e",
+  "download_date": "2026-05-16T08:00:28Z",
+  "duration_sec": 0.124,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

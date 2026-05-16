@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00126",
+  "source_url": "https://forumprawne.org/watek/blokowanie-urzadzenia.882443/",
+  "fetch_url": "https://forumprawne.org/watek/blokowanie-urzadzenia.882443/",
+  "archive_file": "forumprawne/forumprawne_00126.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54386,
+  "sha256": "9ebdae692692e53781a854adbf4728d9d629e8bb28ec108ca62745b6cfee6af0",
+  "download_date": "2026-05-16T07:43:57Z",
+  "duration_sec": 0.126,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

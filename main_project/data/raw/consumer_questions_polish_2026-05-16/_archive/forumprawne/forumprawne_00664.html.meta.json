@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00664",
+  "source_url": "https://forumprawne.org/watek/zwrot-podzespolow-elektronicznych.869893/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-podzespolow-elektronicznych.869893/",
+  "archive_file": "forumprawne/forumprawne_00664.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 74460,
+  "sha256": "890fe210386acc1f0e08b92b701bd3cf7b6400743727164952a75fac7808c3f1",
+  "download_date": "2026-05-16T07:54:04Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

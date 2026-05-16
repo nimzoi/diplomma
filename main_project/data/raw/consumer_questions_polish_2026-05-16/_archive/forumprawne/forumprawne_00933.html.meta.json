@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00933",
+  "source_url": "https://forumprawne.org/watek/wadliwy-pomnik.865067/",
+  "fetch_url": "https://forumprawne.org/watek/wadliwy-pomnik.865067/",
+  "archive_file": "forumprawne/forumprawne_00933.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58561,
+  "sha256": "5f28a7af9ad1b3999a652d8339012fec33f1b965aa7e24e978e73c10274f530a",
+  "download_date": "2026-05-16T07:59:08Z",
+  "duration_sec": 0.229,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

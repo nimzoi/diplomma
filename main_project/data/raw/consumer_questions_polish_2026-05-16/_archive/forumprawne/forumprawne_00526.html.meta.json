@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00526",
+  "source_url": "https://forumprawne.org/watek/rekojmia-dla-firmy.872875/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-dla-firmy.872875/",
+  "archive_file": "forumprawne/forumprawne_00526.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52330,
+  "sha256": "b3b73f5ecb93ed11502eb8857e7a74fe1f35e063312fcf9d2817e9a8be0f0465",
+  "download_date": "2026-05-16T07:51:28Z",
+  "duration_sec": 0.103,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

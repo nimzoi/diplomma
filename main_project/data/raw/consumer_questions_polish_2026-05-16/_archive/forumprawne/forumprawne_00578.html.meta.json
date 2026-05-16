@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00578",
+  "source_url": "https://forumprawne.org/watek/uszkodzenie-komputera-po-reklamacji.871612/",
+  "fetch_url": "https://forumprawne.org/watek/uszkodzenie-komputera-po-reklamacji.871612/",
+  "archive_file": "forumprawne/forumprawne_00578.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66206,
+  "sha256": "c1d1337dc8d19ce11116372657f558a6f9c56d8ba00ed14fb9632e77fe2039ec",
+  "download_date": "2026-05-16T07:52:27Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

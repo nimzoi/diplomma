@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00656",
+  "source_url": "https://forumprawne.org/watek/przeterminowane-produkty.760006/",
+  "fetch_url": "https://forumprawne.org/watek/przeterminowane-produkty.760006/",
+  "archive_file": "forumprawne/forumprawne_00656.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 97769,
+  "sha256": "d0772991c775a6cc6285b5f444df16ca8ec99fb888479892973c39a74b942acb",
+  "download_date": "2026-05-16T07:53:55Z",
+  "duration_sec": 0.169,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

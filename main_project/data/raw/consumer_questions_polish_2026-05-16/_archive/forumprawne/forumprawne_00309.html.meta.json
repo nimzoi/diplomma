@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00309",
+  "source_url": "https://forumprawne.org/watek/zamowienie-nowego-samochodu-w-salonie.877972/",
+  "fetch_url": "https://forumprawne.org/watek/zamowienie-nowego-samochodu-w-salonie.877972/",
+  "archive_file": "forumprawne/forumprawne_00309.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 86250,
+  "sha256": "b70488c20a896a5a863d27c6b3df3a996981f38ad440a3c7b7163329d48a5b4a",
+  "download_date": "2026-05-16T07:47:24Z",
+  "duration_sec": 0.153,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

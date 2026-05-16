@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00853",
+  "source_url": "https://forumprawne.org/watek/reklamacja-psa.866700/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-psa.866700/",
+  "archive_file": "forumprawne/forumprawne_00853.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 71053,
+  "sha256": "c6dbff0e918a4faa8e4eaa0cb320ead7895953339dd94e5f3f4de365f9bcecc2",
+  "download_date": "2026-05-16T07:57:38Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

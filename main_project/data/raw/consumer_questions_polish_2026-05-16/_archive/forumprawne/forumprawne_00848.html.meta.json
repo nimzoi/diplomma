@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00848",
+  "source_url": "https://forumprawne.org/watek/usluga-a-rzeczy-pozostawione.866753/",
+  "fetch_url": "https://forumprawne.org/watek/usluga-a-rzeczy-pozostawione.866753/",
+  "archive_file": "forumprawne/forumprawne_00848.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58525,
+  "sha256": "74955d507c2b5999412b15c049fb5189b41f4fce1985757d347003d60f60ffcd",
+  "download_date": "2026-05-16T07:57:32Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

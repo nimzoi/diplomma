@@ -47,13 +47,27 @@ logger = logging.getLogger("scrape.new_sources.bankier")
 BASE = "https://www.bankier.pl"
 SOURCE_NAME = "bankier.pl"
 
-# Listing pages — pagination via /N suffix. Bankier redirectsa /wiadomosci/prawo
-# to /wiadomosc/ (główna), więc używamy paginacji /wiadomosc/N i filtrujemy
-# heurystycznie po keywordach. Plus dedykowane tematyczne sekcje.
+# Listing pages — pagination via /N suffix. Bankier endpoints:
+# - /wiadomosci (lista, redirects to /wiadomosc/)
+# - /wiadomosc/N — pagination strona N
 LISTING_PAGES = [
-    "/wiadomosc",  # ogólna lista — paginacja /wiadomosc/N
+    "/wiadomosci",  # initial → /wiadomosc/
+    "/wiadomosc/2",
+    "/wiadomosc/3",
+    "/wiadomosc/4",
+    "/wiadomosc/5",
+    "/wiadomosc/6",
+    "/wiadomosc/7",
+    "/wiadomosc/8",
+    "/wiadomosc/9",
+    "/wiadomosc/10",
+    "/wiadomosc/15",
+    "/wiadomosc/20",
+    "/wiadomosc/30",
+    "/wiadomosc/40",
+    "/wiadomosc/50",
 ]
-MAX_PAGES_PER_LISTING = 50  # przy ~70-80 article URL/strona daje 3500-4000 candidates
+MAX_PAGES_PER_LISTING = 1  # każda LISTING_PAGE = jedna strona
 
 ARTICLE_RE = re.compile(r"/wiadomosc/[\w\-%]+-\d+\.html")
 
@@ -82,22 +96,20 @@ KONSUMENT_KEYWORDS = (
 def discover_article_urls(fetcher: Fetcher) -> list[str]:
     seen: set[str] = set()
     for path in LISTING_PAGES:
-        for pg in range(1, MAX_PAGES_PER_LISTING + 1):
-            url = f"{BASE}{path}" if pg == 1 else f"{BASE}{path}/{pg}"
-            resp = fetcher.get(url)
-            if resp is None or resp.status_code != 200:
-                break
-            text = resp.content.decode("utf-8", "replace")
-            found = ARTICLE_RE.findall(text)
-            new = 0
-            for href in found:
-                full = urljoin(BASE, href)
-                if full not in seen:
-                    seen.add(full)
-                    new += 1
-            logger.info("%s page %d: +%d (total %d)", path, pg, new, len(seen))
-            if new == 0 and pg > 1:
-                break
+        url = f"{BASE}{path}"
+        resp = fetcher.get(url)
+        if resp is None or resp.status_code != 200:
+            logger.warning("listing %s skipped", path)
+            continue
+        text = resp.content.decode("utf-8", "replace")
+        found = ARTICLE_RE.findall(text)
+        new = 0
+        for href in found:
+            full = urljoin(BASE, href)
+            if full not in seen:
+                seen.add(full)
+                new += 1
+        logger.info("%s: +%d (total %d)", path, new, len(seen))
     return sorted(seen)
 
 

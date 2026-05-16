@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00170",
+  "source_url": "https://forumprawne.org/watek/czy-sprzedawca-ma-racje-rekojmia.880940/",
+  "fetch_url": "https://forumprawne.org/watek/czy-sprzedawca-ma-racje-rekojmia.880940/",
+  "archive_file": "forumprawne/forumprawne_00170.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 133532,
+  "sha256": "fd74674aa0451cd6100cee91c022b57f381dee193bf651c435c817b8240f9178",
+  "download_date": "2026-05-16T07:44:47Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

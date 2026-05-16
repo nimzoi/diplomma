@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00496",
+  "source_url": "https://forumprawne.org/watek/szkody-wyrzadzone-przez-hydraulika.873577/",
+  "fetch_url": "https://forumprawne.org/watek/szkody-wyrzadzone-przez-hydraulika.873577/",
+  "archive_file": "forumprawne/forumprawne_00496.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70427,
+  "sha256": "8f5bff86a5915d961ff3f8485477888d669d9e2841830844176bde38237bbc1f",
+  "download_date": "2026-05-16T07:50:55Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

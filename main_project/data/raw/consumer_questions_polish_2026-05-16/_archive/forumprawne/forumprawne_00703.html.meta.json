@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00703",
+  "source_url": "https://forumprawne.org/watek/zwrot-ustawowy-a-karta-podarunkowa.869240/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-ustawowy-a-karta-podarunkowa.869240/",
+  "archive_file": "forumprawne/forumprawne_00703.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58578,
+  "sha256": "76d0110c401096453305307466fbf994dc32907cd0403978d60b788313e4be56",
+  "download_date": "2026-05-16T07:54:48Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

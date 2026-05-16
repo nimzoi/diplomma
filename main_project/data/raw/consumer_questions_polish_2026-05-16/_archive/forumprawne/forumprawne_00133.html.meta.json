@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00133",
+  "source_url": "https://forumprawne.org/watek/nie-da-sie-zalogowac-a-prawidlowy-login-i-haslo.882081/",
+  "fetch_url": "https://forumprawne.org/watek/nie-da-sie-zalogowac-a-prawidlowy-login-i-haslo.882081/",
+  "archive_file": "forumprawne/forumprawne_00133.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70110,
+  "sha256": "d131ac23a42ea9e059d70963e44fb8ab5d02f25f8b9a4229e48a6ff458b35da9",
+  "download_date": "2026-05-16T07:44:05Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

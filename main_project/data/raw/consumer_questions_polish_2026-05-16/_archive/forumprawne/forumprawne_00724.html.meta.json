@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00724",
+  "source_url": "https://forumprawne.org/watek/zwrot-towaru-zakupionego-przez-internet.868972/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-towaru-zakupionego-przez-internet.868972/",
+  "archive_file": "forumprawne/forumprawne_00724.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65879,
+  "sha256": "ad04a6eda2f9ba7a48b408b77556c3a1770d1d035489d6ce76cad3eab9ecef51",
+  "download_date": "2026-05-16T07:55:12Z",
+  "duration_sec": 0.076,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

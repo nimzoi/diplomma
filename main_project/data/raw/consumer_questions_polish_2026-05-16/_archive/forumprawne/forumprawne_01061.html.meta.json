@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01061",
+  "source_url": "https://forumprawne.org/watek/zakup-towaru-niezgodnego-z-opisem.861835/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-towaru-niezgodnego-z-opisem.861835/",
+  "archive_file": "forumprawne/forumprawne_01061.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72607,
+  "sha256": "d5b8dd0a764539a4874ed258d3434dcb71d17ea8191fb86b1fac4d7ab8051fcf",
+  "download_date": "2026-05-16T08:01:32Z",
+  "duration_sec": 0.097,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

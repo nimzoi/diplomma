@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00185",
+  "source_url": "https://forumprawne.org/watek/serwis-uszkodzenie-odkurzacza.880720/",
+  "fetch_url": "https://forumprawne.org/watek/serwis-uszkodzenie-odkurzacza.880720/",
+  "archive_file": "forumprawne/forumprawne_00185.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60629,
+  "sha256": "4ee2ad214ba430e1c5efd87be1405ac9538bd6c2b0a53d697a60a75546c8eb0f",
+  "download_date": "2026-05-16T07:45:04Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

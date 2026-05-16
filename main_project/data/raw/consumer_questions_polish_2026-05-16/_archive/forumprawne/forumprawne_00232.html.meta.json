@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00232",
+  "source_url": "https://forumprawne.org/watek/h-m-brak-pieniedzy-za-zwrot-towaru.879681/",
+  "fetch_url": "https://forumprawne.org/watek/h-m-brak-pieniedzy-za-zwrot-towaru.879681/",
+  "archive_file": "forumprawne/forumprawne_00232.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59508,
+  "sha256": "ca47b9c8cb6ef25de743c6704fd0908dbc4f37e1e319703ec512e003da891f28",
+  "download_date": "2026-05-16T07:45:57Z",
+  "duration_sec": 0.17,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

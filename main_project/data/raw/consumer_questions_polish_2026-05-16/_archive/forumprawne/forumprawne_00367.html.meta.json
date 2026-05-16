@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00367",
+  "source_url": "https://forumprawne.org/watek/zwrot-pieniedzy-za-voucher.876630/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-pieniedzy-za-voucher.876630/",
+  "archive_file": "forumprawne/forumprawne_00367.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54205,
+  "sha256": "7cb0ff0bf34aa3dfc033479b4e609818ec28b4aa87d47667440ce71f78f11399",
+  "download_date": "2026-05-16T07:48:30Z",
+  "duration_sec": 0.18,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

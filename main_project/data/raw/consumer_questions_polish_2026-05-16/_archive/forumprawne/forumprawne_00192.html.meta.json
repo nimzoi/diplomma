@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00192",
+  "source_url": "https://forumprawne.org/watek/ciagle-psujaca-sie-pralka.880615/",
+  "fetch_url": "https://forumprawne.org/watek/ciagle-psujaca-sie-pralka.880615/",
+  "archive_file": "forumprawne/forumprawne_00192.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52990,
+  "sha256": "2a4cc8026f16d4911c7d8c23832798f5f630210e1f63e3d88af9fda7157fb819",
+  "download_date": "2026-05-16T07:45:11Z",
+  "duration_sec": 0.129,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

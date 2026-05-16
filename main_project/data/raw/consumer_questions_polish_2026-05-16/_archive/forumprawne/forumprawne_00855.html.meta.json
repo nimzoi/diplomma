@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00855",
+  "source_url": "https://forumprawne.org/watek/rozpatrzenie-reklamacji.866630/",
+  "fetch_url": "https://forumprawne.org/watek/rozpatrzenie-reklamacji.866630/",
+  "archive_file": "forumprawne/forumprawne_00855.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 86817,
+  "sha256": "e8a0d793e2b6c51112bee19efb5bba782d1167edccd759039af33348c0a34910",
+  "download_date": "2026-05-16T07:57:40Z",
+  "duration_sec": 0.151,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00555",
+  "source_url": "https://forumprawne.org/watek/zwrot-uszkodzonego-art-higienicznego.871990/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-uszkodzonego-art-higienicznego.871990/",
+  "archive_file": "forumprawne/forumprawne_00555.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70039,
+  "sha256": "a402130ecae39ecf6a07bd79bb5e6c3adccd7308496da2253df950c587f4e81b",
+  "download_date": "2026-05-16T07:52:00Z",
+  "duration_sec": 0.117,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

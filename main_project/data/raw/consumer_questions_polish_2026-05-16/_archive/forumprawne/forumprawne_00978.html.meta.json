@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00978",
+  "source_url": "https://forumprawne.org/watek/otwarty-paczkomat.863835/",
+  "fetch_url": "https://forumprawne.org/watek/otwarty-paczkomat.863835/",
+  "archive_file": "forumprawne/forumprawne_00978.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53866,
+  "sha256": "e3c0c55fc3f5fa83546e9fb35b2acd445c7b0b8f38e163934992a5d4e5809c7e",
+  "download_date": "2026-05-16T07:59:58Z",
+  "duration_sec": 0.239,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

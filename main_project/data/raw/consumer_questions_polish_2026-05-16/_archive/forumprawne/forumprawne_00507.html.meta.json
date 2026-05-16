@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00507",
+  "source_url": "https://forumprawne.org/watek/reklamacja-obuwia-odrzucona-moliera.873295/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-obuwia-odrzucona-moliera.873295/",
+  "archive_file": "forumprawne/forumprawne_00507.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65606,
+  "sha256": "6d1f7068ab8ef1dece1374581905f72d1b24e39a2875307884102dc6bde5b949",
+  "download_date": "2026-05-16T07:51:07Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

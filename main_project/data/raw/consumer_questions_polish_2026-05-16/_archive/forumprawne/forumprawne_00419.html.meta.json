@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00419",
+  "source_url": "https://forumprawne.org/watek/platny-zwrot-towaru.875427/",
+  "fetch_url": "https://forumprawne.org/watek/platny-zwrot-towaru.875427/",
+  "archive_file": "forumprawne/forumprawne_00419.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 79247,
+  "sha256": "3e2bbd1ced1893f74b23cbf5d0ac2105e4c64bfaed4430f997fd4c1134f72b5c",
+  "download_date": "2026-05-16T07:49:28Z",
+  "duration_sec": 0.114,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

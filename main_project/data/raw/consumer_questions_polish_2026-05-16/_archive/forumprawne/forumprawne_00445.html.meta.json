@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00445",
+  "source_url": "https://forumprawne.org/watek/wymiana-towaru-zakupionego-za-granica.874877/",
+  "fetch_url": "https://forumprawne.org/watek/wymiana-towaru-zakupionego-za-granica.874877/",
+  "archive_file": "forumprawne/forumprawne_00445.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59695,
+  "sha256": "fb2de0285bc8bd4fca89c9a9452f7bbd0b1f34266e04be46fb4b708d3aa33e83",
+  "download_date": "2026-05-16T07:49:57Z",
+  "duration_sec": 0.091,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

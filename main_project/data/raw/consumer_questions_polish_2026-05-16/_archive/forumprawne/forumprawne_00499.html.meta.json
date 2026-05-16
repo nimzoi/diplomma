@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00499",
+  "source_url": "https://forumprawne.org/watek/rekojmia-plus.873540/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-plus.873540/",
+  "archive_file": "forumprawne/forumprawne_00499.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57962,
+  "sha256": "13c35c893f7866fcc610a31cf55d5c7f7b7fe47ab906ee7a2cffd44ce45ef35c",
+  "download_date": "2026-05-16T07:50:58Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00284",
+  "source_url": "https://forumprawne.org/watek/reklamacja-towaru-odeslanie-do-producenta.878542/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-towaru-odeslanie-do-producenta.878542/",
+  "archive_file": "forumprawne/forumprawne_00284.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 105509,
+  "sha256": "d1e272cbe453a10612acfb7b4f6c3277c63126c44160602e810525f73fe2a889",
+  "download_date": "2026-05-16T07:46:56Z",
+  "duration_sec": 0.128,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

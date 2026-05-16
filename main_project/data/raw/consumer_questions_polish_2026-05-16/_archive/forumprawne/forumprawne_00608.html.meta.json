@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00608",
+  "source_url": "https://forumprawne.org/watek/mandat-komunikacja-miejska-kradziez-danych.870901/",
+  "fetch_url": "https://forumprawne.org/watek/mandat-komunikacja-miejska-kradziez-danych.870901/",
+  "archive_file": "forumprawne/forumprawne_00608.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58799,
+  "sha256": "2c881ddfc7055bff01d61a996b0b4de009878fa6676694d3c7766d9f8e34e41a",
+  "download_date": "2026-05-16T07:53:01Z",
+  "duration_sec": 0.213,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

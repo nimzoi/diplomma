@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01006",
+  "source_url": "https://forumprawne.org/watek/wada-w-nowym-aucie-w-leasingu.863195/",
+  "fetch_url": "https://forumprawne.org/watek/wada-w-nowym-aucie-w-leasingu.863195/",
+  "archive_file": "forumprawne/forumprawne_01006.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59263,
+  "sha256": "e0422f69a9ae59bad92d1d5d3fff9292b053b2d3289100ed7939cdcde569fcab",
+  "download_date": "2026-05-16T08:00:30Z",
+  "duration_sec": 0.118,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

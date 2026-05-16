@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00999",
+  "source_url": "https://forumprawne.org/watek/reklamacja-laptopa-z-tytulu-rekojmi.863012/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-laptopa-z-tytulu-rekojmi.863012/",
+  "archive_file": "forumprawne/forumprawne_00999.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 67797,
+  "sha256": "cea45bea06ad63587b943cc9309c89aebbe69cff2cd048dc0bec510a5feac8b2",
+  "download_date": "2026-05-16T08:00:23Z",
+  "duration_sec": 0.208,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

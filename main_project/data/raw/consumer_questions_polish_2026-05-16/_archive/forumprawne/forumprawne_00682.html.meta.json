@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00682",
+  "source_url": "https://forumprawne.org/watek/program-lojalnosciowy.869595/",
+  "fetch_url": "https://forumprawne.org/watek/program-lojalnosciowy.869595/",
+  "archive_file": "forumprawne/forumprawne_00682.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59863,
+  "sha256": "1eb1a8733c7dd7c08b4e6c546d20f6cb33f777b134c370e98d6facfa3895f2de",
+  "download_date": "2026-05-16T07:54:24Z",
+  "duration_sec": 0.242,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

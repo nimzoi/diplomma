@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00428",
+  "source_url": "https://forumprawne.org/watek/14-dni-na-odpowiedz-jak-jest-liczone.875195/",
+  "fetch_url": "https://forumprawne.org/watek/14-dni-na-odpowiedz-jak-jest-liczone.875195/",
+  "archive_file": "forumprawne/forumprawne_00428.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58228,
+  "sha256": "f32fb069a49601f49b9b4e613118863a7c4fd508bf0c8689b8ebee9f1cc8849e",
+  "download_date": "2026-05-16T07:49:38Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

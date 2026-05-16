@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01002",
+  "source_url": "https://forumprawne.org/watek/reklamacja-spodni.863137/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-spodni.863137/",
+  "archive_file": "forumprawne/forumprawne_01002.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65058,
+  "sha256": "1826ff4c89373becea8fbffb48c5ec696d274986de3e601bff962e4308544fa1",
+  "download_date": "2026-05-16T08:00:26Z",
+  "duration_sec": 0.123,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

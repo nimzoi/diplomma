@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00695",
+  "source_url": "https://forumprawne.org/watek/kradziez-pieniedzy-z-bankomatu.866648/",
+  "fetch_url": "https://forumprawne.org/watek/kradziez-pieniedzy-z-bankomatu.866648/",
+  "archive_file": "forumprawne/forumprawne_00695.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 67449,
+  "sha256": "99f74159f1374739f088e3234412d337f598ddc24540553512fdd75e87833aff",
+  "download_date": "2026-05-16T07:54:40Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

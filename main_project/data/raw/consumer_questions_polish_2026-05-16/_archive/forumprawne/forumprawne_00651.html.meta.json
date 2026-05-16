@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00651",
+  "source_url": "https://forumprawne.org/watek/reklamacja-produktu.870214/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-produktu.870214/",
+  "archive_file": "forumprawne/forumprawne_00651.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58602,
+  "sha256": "f10dfc8ad14b12a79d9cd6e32f29a3cb3e0f6ef0a961440fce89c39e535ea99c",
+  "download_date": "2026-05-16T07:53:50Z",
+  "duration_sec": 0.251,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

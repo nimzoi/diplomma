@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00937",
+  "source_url": "https://forumprawne.org/watek/olx-zawyzony-koszt-przesylki.865012/",
+  "fetch_url": "https://forumprawne.org/watek/olx-zawyzony-koszt-przesylki.865012/",
+  "archive_file": "forumprawne/forumprawne_00937.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 75605,
+  "sha256": "9b457e96a358d83423edddd85f595e0802159700838af0b00c5c01ba381cf654",
+  "download_date": "2026-05-16T07:59:12Z",
+  "duration_sec": 0.087,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

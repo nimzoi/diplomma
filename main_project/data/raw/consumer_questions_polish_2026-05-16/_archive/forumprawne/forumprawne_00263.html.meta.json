@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00263",
+  "source_url": "https://forumprawne.org/watek/uszkodzone-nowe-auto-z-salonu-przy-odbiorze.879045/",
+  "fetch_url": "https://forumprawne.org/watek/uszkodzone-nowe-auto-z-salonu-przy-odbiorze.879045/",
+  "archive_file": "forumprawne/forumprawne_00263.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60229,
+  "sha256": "9f5918ad9ffa5d25e0e691f4b52980689dd48923b876d5c9ae96aabcab0680a1",
+  "download_date": "2026-05-16T07:46:32Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

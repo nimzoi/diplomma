@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00810",
+  "source_url": "https://forumprawne.org/watek/wada-wanny.867367/",
+  "fetch_url": "https://forumprawne.org/watek/wada-wanny.867367/",
+  "archive_file": "forumprawne/forumprawne_00810.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 81565,
+  "sha256": "4a477b126d25ff7ced432187c8ead5c46d11dd254f4d352f5a8561d2d7f4379d",
+  "download_date": "2026-05-16T07:56:49Z",
+  "duration_sec": 0.128,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

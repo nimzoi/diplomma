@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00963",
+  "source_url": "https://forumprawne.org/watek/auto-z-komisu.863758/",
+  "fetch_url": "https://forumprawne.org/watek/auto-z-komisu.863758/",
+  "archive_file": "forumprawne/forumprawne_00963.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 107337,
+  "sha256": "4f0088d972db50cb0cc9c0252b0e74cc884ca01489f474c8341148e7e227b16c",
+  "download_date": "2026-05-16T07:59:41Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

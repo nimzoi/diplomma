@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00225",
+  "source_url": "https://forumprawne.org/watek/wadliwy-ekspres.879876/",
+  "fetch_url": "https://forumprawne.org/watek/wadliwy-ekspres.879876/",
+  "archive_file": "forumprawne/forumprawne_00225.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69138,
+  "sha256": "d0bd102baaab6f1c3ad71a4f47362b155cc5991651fe22e46f5873ac9409e432",
+  "download_date": "2026-05-16T07:45:49Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

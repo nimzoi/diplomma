@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00995",
+  "source_url": "https://forumprawne.org/watek/zmiana-ceny-za-kurs-prawa-jazdy.863379/",
+  "fetch_url": "https://forumprawne.org/watek/zmiana-ceny-za-kurs-prawa-jazdy.863379/",
+  "archive_file": "forumprawne/forumprawne_00995.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62340,
+  "sha256": "67516b909c8f9537fe4be51fcdff1e0791793d9cbe32e1692989b5738af82f6d",
+  "download_date": "2026-05-16T08:00:18Z",
+  "duration_sec": 0.274,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

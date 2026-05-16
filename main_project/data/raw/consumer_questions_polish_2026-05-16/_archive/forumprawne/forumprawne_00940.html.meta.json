@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00940",
+  "source_url": "https://forumprawne.org/watek/demontaz-i-reklamacja-produktu.864949/",
+  "fetch_url": "https://forumprawne.org/watek/demontaz-i-reklamacja-produktu.864949/",
+  "archive_file": "forumprawne/forumprawne_00940.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53655,
+  "sha256": "57abde4eb05c6afe8e04444503892d30a74e6138af9d7a569897a767e89bdb6e",
+  "download_date": "2026-05-16T07:59:16Z",
+  "duration_sec": 0.113,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

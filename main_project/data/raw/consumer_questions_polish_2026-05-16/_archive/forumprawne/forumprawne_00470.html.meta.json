@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00470",
+  "source_url": "https://forumprawne.org/watek/rekojma-na-zakupiony-samochod.874286/",
+  "fetch_url": "https://forumprawne.org/watek/rekojma-na-zakupiony-samochod.874286/",
+  "archive_file": "forumprawne/forumprawne_00470.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58921,
+  "sha256": "2a9674e2328975e97888d0414ed3a36af288df59b507022ad2133a0735a42f70",
+  "download_date": "2026-05-16T07:50:25Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

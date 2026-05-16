@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00967",
+  "source_url": "https://forumprawne.org/watek/oplata-za-zwrot-biletow-za-przelozony-koncert.863877/",
+  "fetch_url": "https://forumprawne.org/watek/oplata-za-zwrot-biletow-za-przelozony-koncert.863877/",
+  "archive_file": "forumprawne/forumprawne_00967.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58038,
+  "sha256": "040d180b646302ecc2b5d513ae5354614c1afce42b30dbe1a18d97822eb5b3e8",
+  "download_date": "2026-05-16T07:59:46Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

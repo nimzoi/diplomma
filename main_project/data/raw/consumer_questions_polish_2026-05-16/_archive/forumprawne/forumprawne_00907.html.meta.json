@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00907",
+  "source_url": "https://forumprawne.org/watek/czy-sprzedaz-gazu-rozweselajacego-jest-legalna.865578/",
+  "fetch_url": "https://forumprawne.org/watek/czy-sprzedaz-gazu-rozweselajacego-jest-legalna.865578/",
+  "archive_file": "forumprawne/forumprawne_00907.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53952,
+  "sha256": "8f82fba1679de7fd89fb70314bac48990c479ca641b2e3ba7081f1c84e679f9c",
+  "download_date": "2026-05-16T07:58:39Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

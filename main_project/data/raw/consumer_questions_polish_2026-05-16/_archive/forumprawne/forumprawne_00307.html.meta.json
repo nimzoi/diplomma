@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00307",
+  "source_url": "https://forumprawne.org/watek/klawiatura-uszkodzenie-podswietlenia.877949/",
+  "fetch_url": "https://forumprawne.org/watek/klawiatura-uszkodzenie-podswietlenia.877949/",
+  "archive_file": "forumprawne/forumprawne_00307.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 74104,
+  "sha256": "e19588da1db40f4069cb85ae5d3ee52ad4a386698c7c16f544e4312393280347",
+  "download_date": "2026-05-16T07:47:22Z",
+  "duration_sec": 0.285,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

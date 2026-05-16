@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00196",
+  "source_url": "https://forumprawne.org/watek/reklamacja-towaru-i-informacja-o-braku-usterki.880479/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-towaru-i-informacja-o-braku-usterki.880479/",
+  "archive_file": "forumprawne/forumprawne_00196.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72040,
+  "sha256": "4159d5a476a4f0072e31cb74abffefc7206b83a71501cba25507e94277b28200",
+  "download_date": "2026-05-16T07:45:16Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

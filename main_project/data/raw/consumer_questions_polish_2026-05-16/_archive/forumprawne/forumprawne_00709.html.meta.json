@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00709",
+  "source_url": "https://forumprawne.org/watek/problem-z-reklamacja-firma-kurierska.869147/",
+  "fetch_url": "https://forumprawne.org/watek/problem-z-reklamacja-firma-kurierska.869147/",
+  "archive_file": "forumprawne/forumprawne_00709.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61477,
+  "sha256": "111ec58cad201b90544848a94d1267371ca19d5b7376917cbffd018e26a85aa2",
+  "download_date": "2026-05-16T07:54:55Z",
+  "duration_sec": 0.1,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

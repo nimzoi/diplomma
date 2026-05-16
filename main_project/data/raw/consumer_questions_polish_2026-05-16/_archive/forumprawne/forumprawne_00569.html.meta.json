@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00569",
+  "source_url": "https://forumprawne.org/watek/rekojmia-na-uzywany-samochod.871722/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-na-uzywany-samochod.871722/",
+  "archive_file": "forumprawne/forumprawne_00569.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61044,
+  "sha256": "ffd0195432c540d899c00bd56a9e74043e3139c1aab2575715f2dddca13f7fd3",
+  "download_date": "2026-05-16T07:52:16Z",
+  "duration_sec": 0.106,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

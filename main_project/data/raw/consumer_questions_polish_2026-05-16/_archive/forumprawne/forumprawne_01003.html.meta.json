@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01003",
+  "source_url": "https://forumprawne.org/watek/denstysta-wizyta-nfz.863265/",
+  "fetch_url": "https://forumprawne.org/watek/denstysta-wizyta-nfz.863265/",
+  "archive_file": "forumprawne/forumprawne_01003.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59245,
+  "sha256": "01422d65cd15f172a9d68c3646662e5b21e2afca8c4ebd2352faf9f1e167227b",
+  "download_date": "2026-05-16T08:00:27Z",
+  "duration_sec": 0.078,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

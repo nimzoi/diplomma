@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00926",
+  "source_url": "https://forumprawne.org/watek/wymiana-z-tytulu-rekojmi.865225/",
+  "fetch_url": "https://forumprawne.org/watek/wymiana-z-tytulu-rekojmi.865225/",
+  "archive_file": "forumprawne/forumprawne_00926.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61183,
+  "sha256": "c920ddfda82fe08dc81ba753a7b23ef9ecf26949b88949a319b99610b2c5224d",
+  "download_date": "2026-05-16T07:59:00Z",
+  "duration_sec": 0.112,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

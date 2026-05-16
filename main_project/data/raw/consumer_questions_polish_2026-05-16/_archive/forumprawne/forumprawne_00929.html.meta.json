@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00929",
+  "source_url": "https://forumprawne.org/watek/problem-na-allegro-z-kontem-z-gry.865174/",
+  "fetch_url": "https://forumprawne.org/watek/problem-na-allegro-z-kontem-z-gry.865174/",
+  "archive_file": "forumprawne/forumprawne_00929.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59451,
+  "sha256": "632ea4fcc5ee3f93f13222249056f522f4674bd770c1ebe07900c45d106b8076",
+  "download_date": "2026-05-16T07:59:03Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

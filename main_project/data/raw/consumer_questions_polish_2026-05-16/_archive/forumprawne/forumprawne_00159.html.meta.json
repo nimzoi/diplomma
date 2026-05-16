@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00159",
+  "source_url": "https://forumprawne.org/watek/attirra-oplata-za-zwrot.881324/",
+  "fetch_url": "https://forumprawne.org/watek/attirra-oplata-za-zwrot.881324/",
+  "archive_file": "forumprawne/forumprawne_00159.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 73902,
+  "sha256": "4fb6d9fc129594a645c7702438b439b5f34c77db95d07e7723e7b05e7ccee7ca",
+  "download_date": "2026-05-16T07:44:35Z",
+  "duration_sec": 0.326,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01026",
+  "source_url": "https://forumprawne.org/watek/spzedalem-samochod-kupujacy-chce-go-zwrocic.862620/",
+  "fetch_url": "https://forumprawne.org/watek/spzedalem-samochod-kupujacy-chce-go-zwrocic.862620/",
+  "archive_file": "forumprawne/forumprawne_01026.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65803,
+  "sha256": "5108a0b8f883b50b5ab37c9ac37e6beed0f95f833510f10f93a145df1309ebbb",
+  "download_date": "2026-05-16T08:00:53Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

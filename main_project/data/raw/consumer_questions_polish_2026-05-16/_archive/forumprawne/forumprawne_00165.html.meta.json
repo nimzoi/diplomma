@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00165",
+  "source_url": "https://forumprawne.org/watek/auto-u-mechanika-a-usterka-nie-znika.881206/",
+  "fetch_url": "https://forumprawne.org/watek/auto-u-mechanika-a-usterka-nie-znika.881206/",
+  "archive_file": "forumprawne/forumprawne_00165.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 85376,
+  "sha256": "544fa528b49cd1f48b5f1e2bc6f32fca210f1ae18f0fb1054715e632e5218b0c",
+  "download_date": "2026-05-16T07:44:42Z",
+  "duration_sec": 0.202,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

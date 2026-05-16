@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00725",
+  "source_url": "https://forumprawne.org/watek/moja-upadlosc-konsumencka.867727/",
+  "fetch_url": "https://forumprawne.org/watek/moja-upadlosc-konsumencka.867727/",
+  "archive_file": "forumprawne/forumprawne_00725.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64313,
+  "sha256": "280d116ecdd0ef428ad64e8f8a2a8e7e3bb48c314ee804d1983e8042c803bc25",
+  "download_date": "2026-05-16T07:55:13Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

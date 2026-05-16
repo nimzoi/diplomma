@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00115",
+  "source_url": "https://forumprawne.org/watek/naprawa-pojazdu-rekojmia.882674/",
+  "fetch_url": "https://forumprawne.org/watek/naprawa-pojazdu-rekojmia.882674/",
+  "archive_file": "forumprawne/forumprawne_00115.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58283,
+  "sha256": "3d129ff488bc9e5df9a2994a3301b64ef2deb167f3db736217a08c83521ef522",
+  "download_date": "2026-05-16T07:43:45Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

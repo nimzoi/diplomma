@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00625",
+  "source_url": "https://forumprawne.org/watek/schody-reklamacja.870574/",
+  "fetch_url": "https://forumprawne.org/watek/schody-reklamacja.870574/",
+  "archive_file": "forumprawne/forumprawne_00625.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70122,
+  "sha256": "e9826300f0767002b2447526e8a9e09defb38a5763a5758eb6e2d54b6e055eb4",
+  "download_date": "2026-05-16T07:53:20Z",
+  "duration_sec": 0.131,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

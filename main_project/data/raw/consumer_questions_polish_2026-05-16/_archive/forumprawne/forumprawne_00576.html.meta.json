@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00576",
+  "source_url": "https://forumprawne.org/watek/reklamacja-suszarki-do-ubran.871666/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-suszarki-do-ubran.871666/",
+  "archive_file": "forumprawne/forumprawne_00576.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59253,
+  "sha256": "58f75c2857a06d0d8578a9af5bf36e031805b7764949b14b1968abe5cbbdfe1b",
+  "download_date": "2026-05-16T07:52:25Z",
+  "duration_sec": 0.263,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

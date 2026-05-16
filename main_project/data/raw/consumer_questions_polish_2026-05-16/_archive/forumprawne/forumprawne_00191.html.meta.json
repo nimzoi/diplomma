@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00191",
+  "source_url": "https://forumprawne.org/watek/brak-odpowiedzi-na-reklamacje.880619/",
+  "fetch_url": "https://forumprawne.org/watek/brak-odpowiedzi-na-reklamacje.880619/",
+  "archive_file": "forumprawne/forumprawne_00191.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52739,
+  "sha256": "ae72098401d7fbebf082851a843976c7c554238916efc986fa6d430c349ccfa8",
+  "download_date": "2026-05-16T07:45:10Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

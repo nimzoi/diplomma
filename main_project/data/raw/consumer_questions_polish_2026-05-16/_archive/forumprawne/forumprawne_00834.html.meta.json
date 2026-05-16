@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00834",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-samochodu-problem-z-kupujacym.867003/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-samochodu-problem-z-kupujacym.867003/",
+  "archive_file": "forumprawne/forumprawne_00834.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65569,
+  "sha256": "f1434a1c9bfebe2161efcf8c321c99f6703c20aad39c476b749f5e2365bf2914",
+  "download_date": "2026-05-16T07:57:16Z",
+  "duration_sec": 0.109,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

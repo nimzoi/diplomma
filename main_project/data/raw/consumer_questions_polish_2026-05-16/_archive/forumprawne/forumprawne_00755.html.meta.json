@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00755",
+  "source_url": "https://forumprawne.org/watek/fv-a-biuro-podruzy.868189/",
+  "fetch_url": "https://forumprawne.org/watek/fv-a-biuro-podruzy.868189/",
+  "archive_file": "forumprawne/forumprawne_00755.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52862,
+  "sha256": "7c33e7d71d570491df297f2c675673acd599a4869a1eea43dfe5e0224c71df8a",
+  "download_date": "2026-05-16T07:55:47Z",
+  "duration_sec": 0.197,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

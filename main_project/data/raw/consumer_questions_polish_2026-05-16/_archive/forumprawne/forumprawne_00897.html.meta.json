@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00897",
+  "source_url": "https://forumprawne.org/watek/prawo-do-zwrotu-w-sklepie-stacjonarnym.398213/",
+  "fetch_url": "https://forumprawne.org/watek/prawo-do-zwrotu-w-sklepie-stacjonarnym.398213/",
+  "archive_file": "forumprawne/forumprawne_00897.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69902,
+  "sha256": "06fa19d5b87dea43d113b074298f243b28d5970b82b8caa177230bb9c4631dc8",
+  "download_date": "2026-05-16T07:58:27Z",
+  "duration_sec": 0.233,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

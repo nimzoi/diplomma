@@ -1,0 +1,29 @@
+{
+  "source": "gazetaprawna.pl",
+  "scrape_date": "2026-05-16",
+  "license": "fair-use Art. 29 PrAut (academic research, attribution preserved)",
+  "discovered_urls": 61,
+  "successful_articles": 59,
+  "failed_urls": 0,
+  "skipped_too_short": 2,
+  "skipped_duplicate": 0,
+  "waf_blocks": 0,
+  "total_chars": 128930,
+  "avg_chars_per_article": 2185.3,
+  "archive_mb": 17.22,
+  "notes": "Listing walks on www.gazetaprawna.pl (4 sekcji) + edgp.gazetaprawna.pl (4). Premium articles wykluczone.",
+  "categories": {
+    "gospodarka": 9,
+    "kadry-i-place": 2,
+    "kraj": 20,
+    "magazyn": 1,
+    "opinie": 5,
+    "podatki": 4,
+    "swiat": 2,
+    "wideo": 1,
+    "biznes": 3,
+    "praca": 3,
+    "prawnik": 1,
+    "wiadomosci": 8
+  }
+}

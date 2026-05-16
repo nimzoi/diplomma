@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00411",
+  "source_url": "https://forumprawne.org/watek/blad-cenowy-w-sklepie-roznica-cen.875654/",
+  "fetch_url": "https://forumprawne.org/watek/blad-cenowy-w-sklepie-roznica-cen.875654/",
+  "archive_file": "forumprawne/forumprawne_00411.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58130,
+  "sha256": "e46a3a15f25a4acce7626fbd04f0f930c65cf76203d7512c45be08de6d80977f",
+  "download_date": "2026-05-16T07:49:19Z",
+  "duration_sec": 0.117,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

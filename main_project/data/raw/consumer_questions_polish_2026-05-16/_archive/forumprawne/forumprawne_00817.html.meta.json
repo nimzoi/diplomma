@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00817",
+  "source_url": "https://forumprawne.org/watek/uszkodzony-zbiornik-instalacji-c-w-u.867269/",
+  "fetch_url": "https://forumprawne.org/watek/uszkodzony-zbiornik-instalacji-c-w-u.867269/",
+  "archive_file": "forumprawne/forumprawne_00817.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56235,
+  "sha256": "a846f8017298270be985ed52858a54d6688311a721e9bd6493b9a9732481f17a",
+  "download_date": "2026-05-16T07:56:57Z",
+  "duration_sec": 0.118,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

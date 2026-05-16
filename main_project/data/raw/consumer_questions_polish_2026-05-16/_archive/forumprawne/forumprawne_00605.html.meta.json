@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00605",
+  "source_url": "https://forumprawne.org/watek/kilkukrotny-zakup-w-promocji-a-wyludzenie.870944/",
+  "fetch_url": "https://forumprawne.org/watek/kilkukrotny-zakup-w-promocji-a-wyludzenie.870944/",
+  "archive_file": "forumprawne/forumprawne_00605.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 81333,
+  "sha256": "af5243d7338357d21f96f84d31b23a1b8af13ad3bed0b8e3322d714dd9eb6bc5",
+  "download_date": "2026-05-16T07:52:57Z",
+  "duration_sec": 0.181,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

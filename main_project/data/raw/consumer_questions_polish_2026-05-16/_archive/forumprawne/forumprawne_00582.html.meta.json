@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00582",
+  "source_url": "https://forumprawne.org/watek/nie-odebrana-paczka-za-pobraniem.871540/",
+  "fetch_url": "https://forumprawne.org/watek/nie-odebrana-paczka-za-pobraniem.871540/",
+  "archive_file": "forumprawne/forumprawne_00582.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63760,
+  "sha256": "52567bb36ba5ad1ad696ef4692498812f5c32301c68c14af27880763782fa37c",
+  "download_date": "2026-05-16T07:52:31Z",
+  "duration_sec": 0.165,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

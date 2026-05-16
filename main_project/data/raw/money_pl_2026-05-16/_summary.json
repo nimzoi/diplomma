@@ -1,0 +1,26 @@
+{
+  "source": "money.pl",
+  "scrape_date": "2026-05-16",
+  "license": "fair-use Art. 29 PrAut (academic research, attribution preserved)",
+  "discovered_urls": 31,
+  "successful_articles": 31,
+  "failed_urls": 0,
+  "skipped_too_short": 0,
+  "skipped_duplicate": 0,
+  "waf_blocks": 0,
+  "total_chars": 95101,
+  "avg_chars_per_article": 3067.8,
+  "archive_mb": 4.29,
+  "notes": "RSS feed + 5 sekcji × 10 paginacji. Tagging consumer-relevant vs general po keywordach (≥2 = consumer).",
+  "categories": {
+    "biznes": 3,
+    "finanse": 3,
+    "firma": 1,
+    "gielda": 1,
+    "gospodarka": 9,
+    "mobility": 1,
+    "pieniadze": 9,
+    "podatki": 2,
+    "polityka": 2
+  }
+}

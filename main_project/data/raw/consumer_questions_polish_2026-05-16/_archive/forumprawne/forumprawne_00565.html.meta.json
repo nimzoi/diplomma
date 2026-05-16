@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00565",
+  "source_url": "https://forumprawne.org/watek/zwrot-towaru-w-sprzedazy-online.871777/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-towaru-w-sprzedazy-online.871777/",
+  "archive_file": "forumprawne/forumprawne_00565.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 90864,
+  "sha256": "454a0d79156edddbcdd58ba234cbe9ec25390156352e3bc3d221e37c2ea10dd6",
+  "download_date": "2026-05-16T07:52:12Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

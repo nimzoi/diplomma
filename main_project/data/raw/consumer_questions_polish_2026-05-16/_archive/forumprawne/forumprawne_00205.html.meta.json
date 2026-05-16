@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00205",
+  "source_url": "https://forumprawne.org/watek/zalando-odmawia-zwrotu-pieniedzy-bez-powodu.880300/",
+  "fetch_url": "https://forumprawne.org/watek/zalando-odmawia-zwrotu-pieniedzy-bez-powodu.880300/",
+  "archive_file": "forumprawne/forumprawne_00205.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 103419,
+  "sha256": "2cf222faf405c56c82d5ec857cbc764139d4d8562909fddad77b3914575fdd72",
+  "download_date": "2026-05-16T07:45:26Z",
+  "duration_sec": 0.092,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

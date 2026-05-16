@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00376",
+  "source_url": "https://forumprawne.org/watek/wezwanie-do-zaplaty.876278/",
+  "fetch_url": "https://forumprawne.org/watek/wezwanie-do-zaplaty.876278/",
+  "archive_file": "forumprawne/forumprawne_00376.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69088,
+  "sha256": "883d68b73d73ea49bdb0e45dbeb8ef7fe0921f42241b855d6cbf1dedd769c3b7",
+  "download_date": "2026-05-16T07:48:40Z",
+  "duration_sec": 0.163,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

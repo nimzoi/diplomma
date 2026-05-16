@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00397",
+  "source_url": "https://forumprawne.org/watek/awaria-sprzetu-rtv.875948/",
+  "fetch_url": "https://forumprawne.org/watek/awaria-sprzetu-rtv.875948/",
+  "archive_file": "forumprawne/forumprawne_00397.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52198,
+  "sha256": "43f5483698e384a51893998739be5ce446f0b826825d597d96377fc393c6d93e",
+  "download_date": "2026-05-16T07:49:03Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00203",
+  "source_url": "https://forumprawne.org/watek/zakup-podrobki-brak-informacji-o-wysylce-z-zagranicy.880393/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-podrobki-brak-informacji-o-wysylce-z-zagranicy.880393/",
+  "archive_file": "forumprawne/forumprawne_00203.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59463,
+  "sha256": "01db6185e9da95fdb8357ef4d3f353aea6175c3372907633e2af001441b0959b",
+  "download_date": "2026-05-16T07:45:24Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

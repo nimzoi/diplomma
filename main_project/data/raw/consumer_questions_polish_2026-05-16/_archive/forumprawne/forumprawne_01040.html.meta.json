@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01040",
+  "source_url": "https://forumprawne.org/watek/zakup-niesprawnego-silnika.862342/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-niesprawnego-silnika.862342/",
+  "archive_file": "forumprawne/forumprawne_01040.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53358,
+  "sha256": "38289607d18fa194d10054af3ad5d23bb5baa37588cad77b9535eb09729ff9ce",
+  "download_date": "2026-05-16T08:01:09Z",
+  "duration_sec": 0.116,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

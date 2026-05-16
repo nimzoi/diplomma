@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01021",
+  "source_url": "https://forumprawne.org/watek/pomoc-z-reklamacja-oddaniem-roweru.862780/",
+  "fetch_url": "https://forumprawne.org/watek/pomoc-z-reklamacja-oddaniem-roweru.862780/",
+  "archive_file": "forumprawne/forumprawne_01021.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58778,
+  "sha256": "72631b758302a984ae329e9866af7002095201ad81ce44db0040994b749ed05f",
+  "download_date": "2026-05-16T08:00:47Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

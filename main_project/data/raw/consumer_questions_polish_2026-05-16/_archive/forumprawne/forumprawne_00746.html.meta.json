@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00746",
+  "source_url": "https://forumprawne.org/watek/klient-chce-zwrocic-sprzet-po-roku.868187/",
+  "fetch_url": "https://forumprawne.org/watek/klient-chce-zwrocic-sprzet-po-roku.868187/",
+  "archive_file": "forumprawne/forumprawne_00746.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 89148,
+  "sha256": "c5b6152f45a148a0fb3afb07893a6042c6efdc8b1ce2ecb952f1d082a179c8c6",
+  "download_date": "2026-05-16T07:55:37Z",
+  "duration_sec": 0.092,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

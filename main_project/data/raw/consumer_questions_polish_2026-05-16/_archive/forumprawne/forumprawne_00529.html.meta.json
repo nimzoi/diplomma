@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00529",
+  "source_url": "https://forumprawne.org/watek/reklamacja-w-przekroczony-czas-14-dni.872694/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-w-przekroczony-czas-14-dni.872694/",
+  "archive_file": "forumprawne/forumprawne_00529.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61169,
+  "sha256": "925b6dd83085da8b7e807d1e634b6eb1a14eac021a117bf28266c417fbb4b75e",
+  "download_date": "2026-05-16T07:51:32Z",
+  "duration_sec": 0.087,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

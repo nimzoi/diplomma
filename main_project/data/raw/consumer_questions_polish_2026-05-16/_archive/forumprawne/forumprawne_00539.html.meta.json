@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00539",
+  "source_url": "https://forumprawne.org/watek/wysokosc-zadatku.872322/",
+  "fetch_url": "https://forumprawne.org/watek/wysokosc-zadatku.872322/",
+  "archive_file": "forumprawne/forumprawne_00539.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 90034,
+  "sha256": "fa56c65fbcb1fd5e8f663ac755b9fdeeecee4ca4ec51fcadfce86262c44e2da8",
+  "download_date": "2026-05-16T07:51:43Z",
+  "duration_sec": 0.166,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

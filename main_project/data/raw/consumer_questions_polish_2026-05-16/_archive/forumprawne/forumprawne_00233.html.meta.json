@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00233",
+  "source_url": "https://forumprawne.org/watek/cena-reklamowanego-towaru.879651/",
+  "fetch_url": "https://forumprawne.org/watek/cena-reklamowanego-towaru.879651/",
+  "archive_file": "forumprawne/forumprawne_00233.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52256,
+  "sha256": "d9d6c0c3cdbd3a7f0b75bddc7a06c6dc4c38118c43bd895ac8e48cac1ad92b2a",
+  "download_date": "2026-05-16T07:45:58Z",
+  "duration_sec": 0.214,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

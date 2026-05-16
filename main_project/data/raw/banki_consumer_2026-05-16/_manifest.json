@@ -1,0 +1,650 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 92,
+  "entries": [
+    {
+      "article_id": "ing_0002_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__bankowosc-internetowa__platnosci__tryb-realizacji-zlecen/10_html_1_06102017.1e260901623e70a0331a.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 211
+    },
+    {
+      "article_id": "ing_0003_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__bankowosc-internetowa__widzisz-wiecej/10_html_1_23112016.10c52f82e3d203e5236b.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 291
+    },
+    {
+      "article_id": "ing_0004_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__inwestycje-i-oszczednosci/101_html_1_15122016.14bb441887e6fa06dbd8.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2156
+    },
+    {
+      "article_id": "ing_0006_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__inwestycje-i-oszczednosci/111_html_1_22072019.ef25a95ae486b26e0b19.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1845
+    },
+    {
+      "article_id": "ing_0007_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__inwestycje-i-oszczednosci__fundusze-inwestycyjne-ing-ki/27_html_1_14042017.72cbb3968f51598d265f.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 655
+    },
+    {
+      "article_id": "ing_0010_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__inwestycje-i-oszczednosci__konto-funduszowe/32_html_1_17062015.87dc2a0130f0b881bb9b.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2687
+    },
+    {
+      "article_id": "ing_0011_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__inwestycje-i-oszczednosci__konto-funduszowe/41_html_1_30122016.8d134e95080cb3b1f82a.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 5125
+    },
+    {
+      "article_id": "ing_0013_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__inwestycje-i-oszczednosci__lokata-z-funduszem/16_html_1_15112016.05a98a672e0eebf344c7.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 4138
+    },
+    {
+      "article_id": "ing_0015_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__karty/71_html_1_16012019.c55d37dcb3795c80acef.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1071
+    },
+    {
+      "article_id": "ing_0016_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__karty__karty-kredytowe__platynowa-karta-kredytowa-mastercard/21_html_1_14092017.042445276ff7dab515ba.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 600
+    },
+    {
+      "article_id": "ing_0018_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__karty__platnosci-telefonem/10_html_1_08052018.fc4e43fe84af8a450b83.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1673
+    },
+    {
+      "article_id": "ing_0019_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__karty__platnosci-telefonem/11_html_1_23052017.75c89bf7f3d2eb0b835e.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1638
+    },
+    {
+      "article_id": "ing_0020_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__karty__platnosci-telefonem/17_html_1_16012019.c55d37dcb3795c80acef.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1071
+    },
+    {
+      "article_id": "ing_0021_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__konta-osobiste__konto-komfort/10_html_1_14062016.d092c6e8a67b29e0f362.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2570
+    },
+    {
+      "article_id": "ing_0022_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__konta-osobiste__konto-prp-podstawowy-rachunek-platniczy/10_html_3_11072018.d092c6e8a67b29e0f362.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2570
+    },
+    {
+      "article_id": "ing_0023_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__konta-osobiste__konto-walutowe/10_html_5_10062016.d092c6e8a67b29e0f362.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2570
+    },
+    {
+      "article_id": "ing_0024_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__konta-osobiste__konto-walutowe/11_html_1_09062017.042445276ff7dab515ba.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 600
+    },
+    {
+      "article_id": "ing_0025_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__kredyty-i-pozyczki__kredyt-hipoteczny/100_html_1_02052018.042445276ff7dab515ba.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 600
+    },
+    {
+      "article_id": "ing_0026_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__kredyty-i-pozyczki__limit-zadluzenia-w-koncie-pensja-na-juz/16_html_1_16032018.042445276ff7dab515ba.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 600
+    },
+    {
+      "article_id": "ing_0027_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__kredyty-i-pozyczki__limit-zadluzenia-w-koncie/18_html_1_28062018.de0c741b0b3034fee1b9.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 398
+    },
+    {
+      "article_id": "ing_0028_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__kredyty-i-pozyczki__pozyczka-hipoteczna/11_html_1_07062016.2cc5e464e43ba3f32339.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2201
+    },
+    {
+      "article_id": "ing_0029_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__tabele-i-regulaminy__monitoring-wizyjny/28_html_2_30062016.d092c6e8a67b29e0f362.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2570
+    },
+    {
+      "article_id": "ing_0031_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ochrona-splaty-pozyczki/10_html_1_02082017.042445276ff7dab515ba.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 600
+    },
+    {
+      "article_id": "ing_0032_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__program-bezpieczny-kredyt/10_html_1_23082017.042445276ff7dab515ba.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 600
+    },
+    {
+      "article_id": "ing_0033_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__pzu-ochrona-karty-ing/15_html_1_22082018.042445276ff7dab515ba.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 600
+    },
+    {
+      "article_id": "ing_0034_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-auta/10_html_1_14032017.b7328e6a985381ec7931.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2487
+    },
+    {
+      "article_id": "ing_0035_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-auta/10_html_1_21032017.d99eeef674da2f80b957.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1599
+    },
+    {
+      "article_id": "ing_0036_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-domu-i-mieszkania/10_html_1_14032017.c1a8f1c82171f8859517.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2390
+    },
+    {
+      "article_id": "ing_0037_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-domu-i-mieszkania/10_html_1_21032017.58da110ad12c47d3dfd4.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1646
+    },
+    {
+      "article_id": "ing_0038_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-dziecka-bez-przerwy/18_html_1_08082017.d99eeef674da2f80b957.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1599
+    },
+    {
+      "article_id": "ing_0039_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-na-wypadek-nowotworu/10_html_1_14032017.b7328e6a985381ec7931.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2487
+    },
+    {
+      "article_id": "ing_0040_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-na-wypadek-nowotworu/10_html_1_21032017.d99eeef674da2f80b957.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1599
+    },
+    {
+      "article_id": "ing_0041_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-nieruchomosci-i-ruchomosci/10_html_1_11082017.042445276ff7dab515ba.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 600
+    },
+    {
+      "article_id": "ing_0042_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-turystyczne/10_html_1_14032017.0a35626d29cfbb78f8c2.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 2451
+    },
+    {
+      "article_id": "ing_0043_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-turystyczne/10_html_1_21032017.d99eeef674da2f80b957.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1599
+    },
+    {
+      "article_id": "ing_0044_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-turystyczne/10_html_1_21062018.7c03e0666cf15bcbbee2.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1084
+    },
+    {
+      "article_id": "ing_0045_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-turystyczne/10_html_1_27032017.0bddc7b4c839a5fa41d6.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 996
+    },
+    {
+      "article_id": "ing_0046_no_title",
+      "url": "https://www.ing.pl/_static/html/indywidualni__ubezpieczenia__ubezpieczenie-zycia-zdrowia/14_html_1_08082017.d99eeef674da2f80b957.css",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 1599
+    },
+    {
+      "article_id": "ing_0047_regulaminy_i_wnioski_ing_dla_firm_samorzadow_i_kor",
+      "url": "https://www.ing.pl/dokumenty-fis-i-korporacji/regulaminy-i-komunikaty",
+      "status": 200,
+      "title": "Regulaminy i wnioski ING dla firm, samorządów i korporacji",
+      "char_count": 21721
+    },
+    {
+      "article_id": "ing_0048_archiwum_rachunkow_i_usug_patniczych_ing_bank",
+      "url": "https://www.ing.pl/dokumenty-fis-i-korporacji/regulaminy-i-komunikaty/archiwum-rachunkow-i-uslug-platniczych",
+      "status": 200,
+      "title": "Archiwum rachunków i usług płatniczych | ING Bank",
+      "char_count": 33536
+    },
+    {
+      "article_id": "ing_0049_regulaminy_i_wnioski_ing_dla_firm_samorzadow_i_kor",
+      "url": "https://www.ing.pl/dokumenty-fis-i-korporacji/regulaminy-i-wnioski",
+      "status": 200,
+      "title": "Regulaminy i wnioski ING dla firm, samorządów i korporacji",
+      "char_count": 21721
+    },
+    {
+      "article_id": "ing_0050_archiwum_rachunkow_i_usug_patniczych_ing_bank",
+      "url": "https://www.ing.pl/dokumenty-fis-i-korporacji/regulaminy-i-wnioski/archiwum-rachunkow-i-uslug-platniczych",
+      "status": 200,
+      "title": "Archiwum rachunków i usług płatniczych | ING Bank",
+      "char_count": 33536
+    },
+    {
+      "article_id": "ing_0051_tabela_opat_i_prowizji_spoki_samorzady_wspolnoty_k",
+      "url": "https://www.ing.pl/dokumenty-fis-i-korporacji/tabela-oplat-prowizji",
+      "status": 200,
+      "title": "Tabela Opłat i Prowizji - spółki, samorządy, wspólnoty, korporacje | ING Bank",
+      "char_count": 17691
+    },
+    {
+      "article_id": "ing_0052_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni",
+      "status": 200,
+      "title": "ING Bank Śląski",
+      "char_count": 3516
+    },
+    {
+      "article_id": "ing_0053_aplikacja_moje_ing_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna",
+      "status": 200,
+      "title": "Aplikacja Moje ING | ING Bank Śląski",
+      "char_count": 8821
+    },
+    {
+      "article_id": "ing_0054_aplikacja_moje_ing_dla_dzieci_od_6_do_12_lat",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna-dla-dzieci",
+      "status": 200,
+      "title": "Aplikacja Moje ING dla dzieci od 6 do 12 lat",
+      "char_count": 15163
+    },
+    {
+      "article_id": "ing_0055_co_sie_zmienia_w_moim_ing_dla_dziecka_po_ukonczeni",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna-dla-dzieci/co-sie-zmienia-po-ukonczeniu-13-lat",
+      "status": 200,
+      "title": "Co się zmienia w Moim ING dla dziecka po ukończeniu 13 lat | ING Bank Śląski",
+      "char_count": 7910
+    },
+    {
+      "article_id": "ing_0056_analiza_wydatkow",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/analiza-wydatkow",
+      "status": 200,
+      "title": "Analiza wydatków",
+      "char_count": 3387
+    },
+    {
+      "article_id": "ing_0057_bezpieczenstwo_aplikacji_moje_ing",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/bezpieczenstwo-aplikacji-mobilnej",
+      "status": 200,
+      "title": "Bezpieczeństwo aplikacji Moje ING",
+      "char_count": 11944
+    },
+    {
+      "article_id": "ing_0058_czy_to_bank_dzwoni_lub_pisze",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/bezpieczenstwo-aplikacji-mobilnej/czy-to-bank-dzwoni-pisze",
+      "status": 200,
+      "title": "Czy to bank dzwoni lub pisze",
+      "char_count": 6111
+    },
+    {
+      "article_id": "ing_0059_ograniczanie_dostepu_do_mojego_ing",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/bezpieczenstwo-aplikacji-mobilnej/ograniczanie-dostepu-do-mojego-ing",
+      "status": 200,
+      "title": "Ograniczanie dostępu do Mojego ING",
+      "char_count": 4430
+    },
+    {
+      "article_id": "ing_0060_poradnik_dobrego_logowania_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/bezpieczenstwo-aplikacji-mobilnej/poradnik-dobrego-logowania",
+      "status": 200,
+      "title": "Poradnik dobrego logowania | ING Bank Śląski",
+      "char_count": 6610
+    },
+    {
+      "article_id": "ing_0061_weryfikacja_behawioralna",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/bezpieczenstwo-aplikacji-mobilnej/weryfikacja-behawioralna",
+      "status": 200,
+      "title": "Weryfikacja behawioralna",
+      "char_count": 6733
+    },
+    {
+      "article_id": "ing_0062_bankuj_bezpiecznie_na_telefonie",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/bezpieczenstwo-aplikacji-mobilnej/zasady-bezpiecznego-bankowania-na-telefonie",
+      "status": 200,
+      "title": "Bankuj bezpiecznie na telefonie",
+      "char_count": 7283
+    },
+    {
+      "article_id": "ing_0063_pomoc_i_kontakt_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/centrum-pomocy",
+      "status": 200,
+      "title": "Pomoc i kontakt | ING Bank Śląski",
+      "char_count": 40331
+    },
+    {
+      "article_id": "ing_0064_patnosci_telefonem_i_zegarkiem_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/codzienne-platnosci",
+      "status": 200,
+      "title": "Płatności telefonem i zegarkiem | ING Bank Śląski",
+      "char_count": 1236
+    },
+    {
+      "article_id": "ing_0065_dodatki_i_rabaty_w_moim_ing",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki",
+      "status": 200,
+      "title": "Dodatki i rabaty w Moim ING",
+      "char_count": 2513
+    },
+    {
+      "article_id": "ing_0066_autostrady_w_moim_ing",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki/autostrady-autopay",
+      "status": 200,
+      "title": "Autostrady w Moim ING",
+      "char_count": 20957
+    },
+    {
+      "article_id": "ing_0067_bilety_komunikacyjne",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki/bilety-komunikacyjne",
+      "status": 200,
+      "title": "Bilety komunikacyjne",
+      "char_count": 11085
+    },
+    {
+      "article_id": "ing_0068_program_dobry_start",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki/dobry-start",
+      "status": 200,
+      "title": "Program Dobry Start",
+      "char_count": 2971
+    },
+    {
+      "article_id": "ing_0069_doadowania_gier_multimediow_i_kart_podarunkowych",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki/doladowania-gier",
+      "status": 200,
+      "title": "Doładowania gier, multimediów i kart podarunkowych",
+      "char_count": 9769
+    },
+    {
+      "article_id": "ing_0070_moje_dokumenty",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki/moje-dokumenty",
+      "status": 200,
+      "title": "Moje dokumenty",
+      "char_count": 9957
+    },
+    {
+      "article_id": "ing_0071_parkingi_w_moim_ing",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki/parkingi",
+      "status": 200,
+      "title": "Parkingi w Moim ING",
+      "char_count": 10926
+    },
+    {
+      "article_id": "ing_0072_potwierdzanie_tozsamosci_online",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki/potwierdzanie-tozsamosci",
+      "status": 200,
+      "title": "Potwierdzanie tożsamości online",
+      "char_count": 3333
+    },
+    {
+      "article_id": "ing_0073_wniosek_rodzina_800_w_ing_banku_slaskim",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki/rodzina-500-plus",
+      "status": 200,
+      "title": "Wniosek Rodzina 800+ w ING Banku Śląskim",
+      "char_count": 29131
+    },
+    {
+      "article_id": "ing_0074_visa_oferty",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/dodatki/visa-oferty",
+      "status": 200,
+      "title": "Visa Oferty",
+      "char_count": 9900
+    },
+    {
+      "article_id": "ing_0075_przelewy_z_kont_osobistych_ing_bank",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy",
+      "status": 200,
+      "title": "Przelewy z kont osobistych | ING Bank",
+      "char_count": 4109
+    },
+    {
+      "article_id": "ing_0076_doadowanie_telefonu",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/doladowanie-telefonu",
+      "status": 200,
+      "title": "Doładowanie telefonu",
+      "char_count": 3195
+    },
+    {
+      "article_id": "ing_0077_kiedy_dojdzie_przelew_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/kiedy-dojdzie-przelew",
+      "status": 200,
+      "title": "Kiedy dojdzie przelew | ING Bank Śląski",
+      "char_count": 4940
+    },
+    {
+      "article_id": "ing_0078_kraje_sepa_lista_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/kraje-sepa",
+      "status": 200,
+      "title": "Kraje SEPA - lista| ING Bank Śląski",
+      "char_count": 1891
+    },
+    {
+      "article_id": "ing_0079_pac_z_ing_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/plac-z-ing",
+      "status": 200,
+      "title": "Płać z ING | ING Bank Śląski",
+      "char_count": 3904
+    },
+    {
+      "article_id": "ing_0080_podpowiedzi_przelewow_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/podpowiedzi-przelewow",
+      "status": 200,
+      "title": "Podpowiedzi przelewów | ING Bank Śląski",
+      "char_count": 6745
+    },
+    {
+      "article_id": "ing_0081_polecenie_zapaty_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/polecenie-zaplaty",
+      "status": 200,
+      "title": "Polecenie zapłaty | ING Bank Śląski",
+      "char_count": 4858
+    },
+    {
+      "article_id": "ing_0082_przelew_europejski_sepa_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/przelew-europejski-sepa",
+      "status": 200,
+      "title": "Przelew europejski SEPA | ING Bank Śląski",
+      "char_count": 10061
+    },
+    {
+      "article_id": "ing_0083_przelew_standardowy_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/przelew-standardowy",
+      "status": 200,
+      "title": "Przelew standardowy | ING Bank Śląski",
+      "char_count": 6775
+    },
+    {
+      "article_id": "ing_0084_przelew_walutowy_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/przelew-walutowy",
+      "status": 200,
+      "title": "Przelew walutowy | ING Bank Śląski",
+      "char_count": 24869
+    },
+    {
+      "article_id": "ing_0085_przelew_ekspresowy_z_konta_osobistego_ing_bank_sla",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/przelewy-ekspresowe",
+      "status": 200,
+      "title": "Przelew ekspresowy z konta osobistego | ING Bank Śląski",
+      "char_count": 3816
+    },
+    {
+      "article_id": "ing_0086_przelew_wasny_walutowy_lub_z_przewalutowaniem_ing_",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/przewalutowanie",
+      "status": 200,
+      "title": "Przelew własny walutowy lub z przewalutowaniem | ING Bank Śląski",
+      "char_count": 1805
+    },
+    {
+      "article_id": "ing_0087_sesje_rozliczeniowe_przelewow_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/sesje-rozliczeniowe",
+      "status": 200,
+      "title": "Sesje rozliczeniowe przelewów | ING Bank Śląski",
+      "char_count": 1660
+    },
+    {
+      "article_id": "ing_0088_stae_zlecenie_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/stale-zlecenie",
+      "status": 200,
+      "title": "Stałe zlecenie | ING Bank Śląski",
+      "char_count": 1527
+    },
+    {
+      "article_id": "ing_0089_tryb_realizacji_zlecen_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/przelewy/tryb-realizacji-zlecen",
+      "status": 200,
+      "title": "Tryb realizacji zleceń | ING Bank Śląski",
+      "char_count": 9158
+    },
+    {
+      "article_id": "ing_0090_moje_ing_widzisz_wszystko_wiesz_wiecej",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/widzisz-wiecej",
+      "status": 200,
+      "title": "Moje ING. Widzisz wszystko, wiesz więcej.",
+      "char_count": 9336
+    },
+    {
+      "article_id": "ing_0091_budzet",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/widzisz-wiecej/budzet",
+      "status": 200,
+      "title": "Budżet",
+      "char_count": 3116
+    },
+    {
+      "article_id": "ing_0092_konta_z_roznych_bankow_w_jednej_aplikacji_ing_bank",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/widzisz-wiecej/dodaj-konto-z-innego-banku-do-mojego-ing",
+      "status": 200,
+      "title": "Konta z różnych banków w jednej aplikacji | ING Bank Śląski",
+      "char_count": 16800
+    },
+    {
+      "article_id": "ing_0093_finansowy_miesiac",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/widzisz-wiecej/finansowy-miesiac",
+      "status": 200,
+      "title": "Finansowy miesiąc",
+      "char_count": 2464
+    },
+    {
+      "article_id": "ing_0094_nadchodzace_i_zaplanowane_patnosci_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/aplikacja-mobilna/widzisz-wiecej/nadchodzace-platnosci",
+      "status": 200,
+      "title": "Nadchodzące i zaplanowane płatności | ING Bank Śląski",
+      "char_count": 2564
+    },
+    {
+      "article_id": "ing_0095_autoryzacja_transakcji_ing_bank",
+      "url": "https://www.ing.pl/indywidualni/bankowosc-elektroniczna/ing-bankonline/bezpieczenstwo/autoryzacja-transakcji",
+      "status": 200,
+      "title": "Autoryzacja transakcji | ING Bank",
+      "char_count": 6957
+    },
+    {
+      "article_id": "ing_0096_aplikacja_moje_ing_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/bankowosc-internetowa",
+      "status": 200,
+      "title": "Aplikacja Moje ING | ING Bank Śląski",
+      "char_count": 8821
+    },
+    {
+      "article_id": "ing_0097_moje_ing_bankowosc_internetowa_i_mobilna_ing_bank_",
+      "url": "https://www.ing.pl/indywidualni/bankowosc-internetowa-mojeing",
+      "status": 200,
+      "title": "Moje ING. Bankowość internetowa i mobilna | ING Bank Śląski",
+      "char_count": 7382
+    },
+    {
+      "article_id": "ing_0098_bezpieczna_bankowosc_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/bankowosc-internetowa-mojeing/bezpieczenstwo",
+      "status": 200,
+      "title": "Bezpieczna bankowość | ING Bank Śląski",
+      "char_count": 10283
+    },
+    {
+      "article_id": "ing_0099_bezpieczenstwo_finansow_ing_bank_slaski",
+      "url": "https://www.ing.pl/indywidualni/bankowosc-internetowa-mojeing/bezpieczenstwo-finansow",
+      "status": 200,
+      "title": "Bezpieczeństwo finansów | ING Bank Śląski",
+      "char_count": 7385
+    },
+    {
+      "article_id": "ing_0100_weryfikacja_telefonu_z_ing_ochrona_przed_spoofingi",
+      "url": "https://www.ing.pl/indywidualni/bankowosc-internetowa-mojeing/bezpieczenstwo/weryfikacja-telefonu-z-ing",
+      "status": 200,
+      "title": "Weryfikacja telefonu z ING - ochrona przed spoofingiem",
+      "char_count": 9946
+    }
+  ]
+}

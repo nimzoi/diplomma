@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00780",
+  "source_url": "https://forumprawne.org/watek/zwrot-uzywanego-wadliwego-towaru.867884/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-uzywanego-wadliwego-towaru.867884/",
+  "archive_file": "forumprawne/forumprawne_00780.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60191,
+  "sha256": "d56c4d097c45f6c822a35a575c247157e4068f8f99f2ba3a1c0c063a4a3a9391",
+  "download_date": "2026-05-16T07:56:15Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

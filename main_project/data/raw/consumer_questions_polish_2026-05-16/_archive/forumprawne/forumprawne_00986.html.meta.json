@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00986",
+  "source_url": "https://forumprawne.org/watek/kraj-pochodzenia-produktu.851088/",
+  "fetch_url": "https://forumprawne.org/watek/kraj-pochodzenia-produktu.851088/",
+  "archive_file": "forumprawne/forumprawne_00986.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 71836,
+  "sha256": "309a13723f4f31900258f12e39dff4fc2c1c75b5039a5e160b8171d96c9dbce9",
+  "download_date": "2026-05-16T08:00:08Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

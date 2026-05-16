@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00235",
+  "source_url": "https://forumprawne.org/watek/pozew-za-niewykonana-usluge.879606/",
+  "fetch_url": "https://forumprawne.org/watek/pozew-za-niewykonana-usluge.879606/",
+  "archive_file": "forumprawne/forumprawne_00235.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 74738,
+  "sha256": "78209f9ef23f126335ea79aa6a948ff3454fe16c6992b0ccc5fd177a98501aed",
+  "download_date": "2026-05-16T07:46:00Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

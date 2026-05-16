@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00881",
+  "source_url": "https://forumprawne.org/watek/reklamacja-produkt-nieodeslany.865120/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-produkt-nieodeslany.865120/",
+  "archive_file": "forumprawne/forumprawne_00881.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 87793,
+  "sha256": "f746fd4b5b1344eed3ccbec0543e0de220a49a9a90faa7c20434cb029a8763f7",
+  "download_date": "2026-05-16T07:58:09Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

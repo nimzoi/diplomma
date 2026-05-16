@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00171",
+  "source_url": "https://forumprawne.org/watek/enea-cykliczne-bledy-w-fakturach.881035/",
+  "fetch_url": "https://forumprawne.org/watek/enea-cykliczne-bledy-w-fakturach.881035/",
+  "archive_file": "forumprawne/forumprawne_00171.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55432,
+  "sha256": "e31295b31b24a7d71df6e50f579541e5ef96fa15cbbefb8757bfbee21b6b166f",
+  "download_date": "2026-05-16T07:44:48Z",
+  "duration_sec": 0.108,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

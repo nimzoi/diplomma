@@ -2,15 +2,19 @@
   "source": "knf.gov.pl",
   "scrape_date": "2026-05-16",
   "license": "urzędowe (Art. 4 ust. 2 PrAut, public domain)",
-  "discovered_urls": 0,
-  "successful_articles": 0,
+  "discovered_urls": 107,
+  "successful_articles": 107,
   "failed_urls": 0,
   "skipped_too_short": 0,
   "skipped_duplicate": 0,
   "waf_blocks": 0,
-  "total_chars": 0,
-  "avg_chars_per_article": 0.0,
-  "archive_mb": 0.0,
-  "notes": "Sitemap walk z filter na 5 path prefixes konsument-relevant.",
-  "categories": {}
+  "total_chars": 218028,
+  "avg_chars_per_article": 2037.6,
+  "archive_mb": 40.03,
+  "notes": "BFS walk od 11 entry paths konsument-relevant, depth max 4.",
+  "categories": {
+    "aktualnosci": 1,
+    "co_robimy": 14,
+    "dla_konsumenta": 92
+  }
 }

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01043",
+  "source_url": "https://forumprawne.org/watek/reklamacja-obuwia.862232/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-obuwia.862232/",
+  "archive_file": "forumprawne/forumprawne_01043.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69034,
+  "sha256": "948e6dae6040ebd3a9ac4f7f7cb72cdb32d30dee45bb416ba1c50c8a2e612c3e",
+  "download_date": "2026-05-16T08:01:12Z",
+  "duration_sec": 0.106,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

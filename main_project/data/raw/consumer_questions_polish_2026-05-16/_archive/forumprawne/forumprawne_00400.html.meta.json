@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00400",
+  "source_url": "https://forumprawne.org/watek/rekojmia-zadanie-zwrotu-ceny-towaru.875926/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-zadanie-zwrotu-ceny-towaru.875926/",
+  "archive_file": "forumprawne/forumprawne_00400.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56538,
+  "sha256": "fb54ac66f64c5f60765889f0ad58f3b35bfd80098dabc26a481bb38fcd0f0911",
+  "download_date": "2026-05-16T07:49:07Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00486",
+  "source_url": "https://forumprawne.org/watek/sprzedawca-nie-chce-oddac-pieniedzy-za-zwrocony-towar.873842/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedawca-nie-chce-oddac-pieniedzy-za-zwrocony-towar.873842/",
+  "archive_file": "forumprawne/forumprawne_00486.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 155941,
+  "sha256": "87b7eae1b22a5746493682f08d7f0a4a04476f3198d260d25bab8e0b2d5dbd7b",
+  "download_date": "2026-05-16T07:50:44Z",
+  "duration_sec": 0.192,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

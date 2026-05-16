@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00471",
+  "source_url": "https://forumprawne.org/watek/zakup-chorego-psa.874242/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-chorego-psa.874242/",
+  "archive_file": "forumprawne/forumprawne_00471.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60953,
+  "sha256": "7ea938904c04d277f8ca235a3f5b1fd0aee50415d110a56bb1d3c3baf373319b",
+  "download_date": "2026-05-16T07:50:27Z",
+  "duration_sec": 0.078,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00217",
+  "source_url": "https://forumprawne.org/watek/allegro-od-wielu-miesiecy-brak-zwrotu-pieniedzy.880022/",
+  "fetch_url": "https://forumprawne.org/watek/allegro-od-wielu-miesiecy-brak-zwrotu-pieniedzy.880022/",
+  "archive_file": "forumprawne/forumprawne_00217.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 78862,
+  "sha256": "b41d0c82558c671496b22fd3111b0f8198c916413fd7ebd3752f28598562b690",
+  "download_date": "2026-05-16T07:45:40Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

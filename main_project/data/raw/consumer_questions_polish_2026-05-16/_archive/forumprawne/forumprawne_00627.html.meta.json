@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00627",
+  "source_url": "https://forumprawne.org/watek/zwrot-towaru-po-terminie.870552/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-towaru-po-terminie.870552/",
+  "archive_file": "forumprawne/forumprawne_00627.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58144,
+  "sha256": "80b5345009d040cb8ee5af5140420aa07da50260c380da78b6a7d5f6ae32a55b",
+  "download_date": "2026-05-16T07:53:22Z",
+  "duration_sec": 0.238,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

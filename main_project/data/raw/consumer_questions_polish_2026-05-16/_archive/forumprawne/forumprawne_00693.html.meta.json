@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00693",
+  "source_url": "https://forumprawne.org/watek/zwrot-samochodu.869297/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-samochodu.869297/",
+  "archive_file": "forumprawne/forumprawne_00693.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 113475,
+  "sha256": "15785da79e247178021db496f1f150692d0f481a5d4126edc4daed96d92137b0",
+  "download_date": "2026-05-16T07:54:37Z",
+  "duration_sec": 0.199,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00927",
+  "source_url": "https://forumprawne.org/watek/koniec-nauki-w-szkole-policealnej.865219/",
+  "fetch_url": "https://forumprawne.org/watek/koniec-nauki-w-szkole-policealnej.865219/",
+  "archive_file": "forumprawne/forumprawne_00927.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61377,
+  "sha256": "1163b3f9534d92087dbeb37a8ea0e1c64ca63b69d31f43409e445a2e36cc450f",
+  "download_date": "2026-05-16T07:59:01Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

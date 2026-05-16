@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00989",
+  "source_url": "https://forumprawne.org/watek/rekojmia-telefonu-z-latajacym-elementem.863504/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-telefonu-z-latajacym-elementem.863504/",
+  "archive_file": "forumprawne/forumprawne_00989.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 73878,
+  "sha256": "5e9217946c6a5db5b54e3c0321490238d7c9ebce27dbac7d2354457654d3739f",
+  "download_date": "2026-05-16T08:00:11Z",
+  "duration_sec": 0.092,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

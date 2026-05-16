@@ -1,0 +1,2806 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 400,
+  "entries": [
+    {
+      "article_id": "ecc_0001_wypozyczalnie_samochodowe_zmieniaja_praktyki_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/wypozyczalnie-samochodowe-zmieniaja-praktyki-2/",
+      "status": 200,
+      "title": "Wypożyczalnie samochodowe zmieniają praktyki - Europejskie Centrum Konsumenckie",
+      "char_count": 882
+    },
+    {
+      "article_id": "ecc_0002_mistrzowskie_reklamacje_zimowych_podrozy_europejsk",
+      "url": "https://konsument.gov.pl/aktualnosci/mistrzowskie-reklamacje-zimowych-podrozy/",
+      "status": 200,
+      "title": "Mistrzowskie reklamacje zimowych podróży - Europejskie Centrum Konsumenckie",
+      "char_count": 2564
+    },
+    {
+      "article_id": "ecc_0003_znajdz_nas_na_facebooku_europejskie_centrum_konsum",
+      "url": "https://konsument.gov.pl/aktualnosci/znajdz-nas-na-facebooku/",
+      "status": 200,
+      "title": "Znajdź nas na Facebooku - Europejskie Centrum Konsumenckie",
+      "char_count": 289
+    },
+    {
+      "article_id": "ecc_0004_przesuniete_godziny_wizyt_osobistych_podsumowanie_",
+      "url": "https://konsument.gov.pl/aktualnosci/przesuniete-godziny-wizyt-osobistych-podsumowanie-akcji/",
+      "status": 200,
+      "title": "Przesunięte godziny wizyt osobistych – podsumowanie akcji - Europejskie Centrum Konsumenckie",
+      "char_count": 907
+    },
+    {
+      "article_id": "ecc_0005_dzien_bezpiecznego_internetu_5_przykazan_europejsk",
+      "url": "https://konsument.gov.pl/aktualnosci/dzien-bezpiecznego-internetu-5-przykazan/",
+      "status": 200,
+      "title": "Dzień Bezpiecznego Internetu – 5 przykazań - Europejskie Centrum Konsumenckie",
+      "char_count": 1009
+    },
+    {
+      "article_id": "ecc_0006_zobowiazania_e_randkowiczow_europejskie_centrum_ko",
+      "url": "https://konsument.gov.pl/aktualnosci/zobowiazania-e-randkowiczow/",
+      "status": 200,
+      "title": "Zobowiązania e-randkowiczów - Europejskie Centrum Konsumenckie",
+      "char_count": 3246
+    },
+    {
+      "article_id": "ecc_0007_ramie_w_ramie_w_imie_edukacji_konsumentow_europejs",
+      "url": "https://konsument.gov.pl/aktualnosci/ramie-w-ramie-w-imie-edukacji-konsumentow/",
+      "status": 200,
+      "title": "Ramię w ramię w imię edukacji konsumentów - Europejskie Centrum Konsumenckie",
+      "char_count": 2135
+    },
+    {
+      "article_id": "ecc_0008_diamentowe_gody_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/diamentowe-gody/",
+      "status": 200,
+      "title": "Diamentowe gody - Europejskie Centrum Konsumenckie",
+      "char_count": 2425
+    },
+    {
+      "article_id": "ecc_0009_24_tys_konsumentow_skorzystao_z_platformy_odr_euro",
+      "url": "https://konsument.gov.pl/aktualnosci/24-tys-konsumentow-skorzystalo-z-platformy-odr/",
+      "status": 200,
+      "title": "24 tys. konsumentów skorzystało z platformy ODR - Europejskie Centrum Konsumenckie",
+      "char_count": 2169
+    },
+    {
+      "article_id": "ecc_0010_eck_razem_z_punktem_kontaktowym_adr_europejskie_ce",
+      "url": "https://konsument.gov.pl/aktualnosci/eck-razem-z-punktem-kontaktowym-adr/",
+      "status": 200,
+      "title": "ECK razem z punktem kontaktowym ADR - Europejskie Centrum Konsumenckie",
+      "char_count": 393
+    },
+    {
+      "article_id": "ecc_0011_lecimy_na_majowke_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/lecimy-na-majowke/",
+      "status": 200,
+      "title": "Lecimy na majówkę - Europejskie Centrum Konsumenckie",
+      "char_count": 5056
+    },
+    {
+      "article_id": "ecc_0012_coco_chen_lulu_viton_dolce_copana_nie_daj_sie_nabi",
+      "url": "https://konsument.gov.pl/aktualnosci/coco-chen-lulu-viton-dolce-copana-nie-daj-sie-nabic-w-butelke/",
+      "status": 200,
+      "title": "Coco Chen, Lulu Viton, Dolce Copana – nie daj się nabić w butelkę - Europejskie Centrum Konsumenckie",
+      "char_count": 6024
+    },
+    {
+      "article_id": "ecc_0013_roaming_jak_w_domu_europejskie_centrum_konsumencki",
+      "url": "https://konsument.gov.pl/aktualnosci/roaming-jak-w-domu/",
+      "status": 200,
+      "title": "Roaming jak w domu - Europejskie Centrum Konsumenckie",
+      "char_count": 1867
+    },
+    {
+      "article_id": "ecc_0014_wakacje_za_jednym_kliknieciem_europejskie_centrum_",
+      "url": "https://konsument.gov.pl/aktualnosci/wakacje-za-jednym-kliknieciem/",
+      "status": 200,
+      "title": "Wakacje za jednym kliknięciem - Europejskie Centrum Konsumenckie",
+      "char_count": 9298
+    },
+    {
+      "article_id": "ecc_0015_jak_uniknac_drogi_przez_meke_europejskie_centrum_k",
+      "url": "https://konsument.gov.pl/aktualnosci/jak-uniknac-drogi-przez-meke/",
+      "status": 200,
+      "title": "Jak uniknąć drogi przez mękę? - Europejskie Centrum Konsumenckie",
+      "char_count": 4957
+    },
+    {
+      "article_id": "ecc_0016_webinar_dla_konsumentow_wakacyjne_latanie_europejs",
+      "url": "https://konsument.gov.pl/aktualnosci/webinar-dla-konsumentow-wakacyjne-latanie/",
+      "status": 200,
+      "title": "Webinar dla konsumentów \"Wakacyjne latanie\" - Europejskie Centrum Konsumenckie",
+      "char_count": 732
+    },
+    {
+      "article_id": "ecc_0017_akcja_informacyjna_europejskie_centrum_konsumencki",
+      "url": "https://konsument.gov.pl/aktualnosci/akcja-informacyjna/",
+      "status": 200,
+      "title": "Akcja informacyjna - Europejskie Centrum Konsumenckie",
+      "char_count": 3827
+    },
+    {
+      "article_id": "ecc_0018_consumer_champion_rusza_w_polske_europejskie_centr",
+      "url": "https://konsument.gov.pl/aktualnosci/consumer-champion-rusza-w-polske/",
+      "status": 200,
+      "title": "Consumer Champion rusza w Polskę - Europejskie Centrum Konsumenckie",
+      "char_count": 1110
+    },
+    {
+      "article_id": "ecc_0019_coraz_czesciej_kupujemy_przez_internet_europejskie",
+      "url": "https://konsument.gov.pl/aktualnosci/coraz-czesciej-kupujemy-przez-internet/",
+      "status": 200,
+      "title": "Coraz częściej kupujemy przez internet - Europejskie Centrum Konsumenckie",
+      "char_count": 2290
+    },
+    {
+      "article_id": "ecc_0020_z_gowa_nie_w_chmurach_prawa_pasazerow_europejskie_",
+      "url": "https://konsument.gov.pl/aktualnosci/z-glowa-nie-w-chmurach-prawa-pasazerow/",
+      "status": 200,
+      "title": "Z głową „nie” w chmurach – prawa pasażerów - Europejskie Centrum Konsumenckie",
+      "char_count": 3547
+    },
+    {
+      "article_id": "ecc_0021_co_z_pasazerami_air_berlin_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/co-z-pasazerami-air-berlin/",
+      "status": 200,
+      "title": "Co z pasażerami Air Berlin? - Europejskie Centrum Konsumenckie",
+      "char_count": 2230
+    },
+    {
+      "article_id": "ecc_0022_europa_zmienia_metropolie_warszawska_z_eck_europej",
+      "url": "https://konsument.gov.pl/aktualnosci/europa-zmienia-metropolie-warszawska-z-eck/",
+      "status": 200,
+      "title": "\"Europa zmienia metropolię warszawską\" z ECK - Europejskie Centrum Konsumenckie",
+      "char_count": 575
+    },
+    {
+      "article_id": "ecc_0023_uziemieni_mimo_woli_czyli_sia_wyzsza_na_lotnisku_e",
+      "url": "https://konsument.gov.pl/aktualnosci/uziemieni-mimo-woli-czyli-sila-wyzsza-na-lotnisku/",
+      "status": 200,
+      "title": "Uziemieni mimo woli, czyli siła wyższa na lotnisku - Europejskie Centrum Konsumenckie",
+      "char_count": 3412
+    },
+    {
+      "article_id": "ecc_0024_ryanair_odwouje_loty_europejskie_centrum_konsumenc",
+      "url": "https://konsument.gov.pl/aktualnosci/ryanair-odwoluje-loty/",
+      "status": 200,
+      "title": "Ryanair odwołuje loty - Europejskie Centrum Konsumenckie",
+      "char_count": 2134
+    },
+    {
+      "article_id": "ecc_0025_podroze_po_europie_2009_europejskie_centrum_konsum",
+      "url": "https://konsument.gov.pl/aktualnosci/podroze-po-europie-2009/",
+      "status": 200,
+      "title": "PODRÓŻE PO EUROPIE 2009 - Europejskie Centrum Konsumenckie",
+      "char_count": 1160
+    },
+    {
+      "article_id": "ecc_0026_reorganizacja_w_skyeurope_europejskie_centrum_kons",
+      "url": "https://konsument.gov.pl/aktualnosci/reorganizacja-w-skyeurope/",
+      "status": 200,
+      "title": "Reorganizacja w SkyEurope - Europejskie Centrum Konsumenckie",
+      "char_count": 664
+    },
+    {
+      "article_id": "ecc_0027_zagubiony_bagaz_komisja_europejska_zmieni_przepisy",
+      "url": "https://konsument.gov.pl/aktualnosci/zagubiony-bagaz-komisja-europejska-zmieni-przepisy-o-odpowiedzialnosci-przewoznikow/",
+      "status": 200,
+      "title": "Zagubiony bagaż - Komisja Europejska zmieni przepisy o odpowiedzialności przewoźników - Europejskie Centrum Konsumenckie",
+      "char_count": 1900
+    },
+    {
+      "article_id": "ecc_0028_powiadomienia_o_niebezpiecznych_produktach_nowa_ap",
+      "url": "https://konsument.gov.pl/aktualnosci/powiadomienia-o-niebezpiecznych-produktach-nowa-aplikacja-dla-biznesu/",
+      "status": 200,
+      "title": "Powiadomienia o niebezpiecznych produktach - nowa \"Aplikacja dla Biznesu\" - Europejskie Centrum Konsumenckie",
+      "char_count": 3137
+    },
+    {
+      "article_id": "ecc_0029_szybsza_reakcja_na_niedoskonaosci_rynkow_dzieki_je",
+      "url": "https://konsument.gov.pl/aktualnosci/szybsza-reakcja-na-niedoskonalosci-rynkow-dzieki-jednolitemu-systemowi-klasyfikacji-skarg-na-poziomie-ue/",
+      "status": 200,
+      "title": "Szybsza reakcja na niedoskonałości rynków dzięki jednolitemu systemowi klasyfikacji skarg na poziomie UE - Europejskie C",
+      "char_count": 5671
+    },
+    {
+      "article_id": "ecc_0030_oznakowania_na_opakowaniach_produktow_ochrony_prze",
+      "url": "https://konsument.gov.pl/aktualnosci/oznakowania-na-opakowaniach-produktow-ochrony-przeciwslonecznej-w-ue/",
+      "status": 200,
+      "title": "Oznakowania na opakowaniach produktów ochrony przeciwsłonecznej w UE - Europejskie Centrum Konsumenckie",
+      "char_count": 4433
+    },
+    {
+      "article_id": "ecc_0031_regulacja_unijna_odnosnie_podrozowania_z_czworonoz",
+      "url": "https://konsument.gov.pl/aktualnosci/regulacja-unijna-odnosnie-podrozowania-z-czworonoznymi-pupilami/",
+      "status": 200,
+      "title": "Regulacja unijna odnośnie podróżowania z czworonożnymi pupilami - Europejskie Centrum Konsumenckie",
+      "char_count": 1679
+    },
+    {
+      "article_id": "ecc_0032_consumers_in_europe_2009_najnowszy_raport_komisji_",
+      "url": "https://konsument.gov.pl/aktualnosci/consumers-in-europe-2009-najnowszy-raport-komisji-europejskiej-i-eurostat/",
+      "status": 200,
+      "title": "Consumers in Europe 2009 - najnowszy raport Komisji Europejskiej i Eurostat - Europejskie Centrum Konsumenckie",
+      "char_count": 1802
+    },
+    {
+      "article_id": "ecc_0033_upadosc_centralwings_europejskie_centrum_konsumenc",
+      "url": "https://konsument.gov.pl/aktualnosci/upadlosc-centralwings/",
+      "status": 200,
+      "title": "Upadłość Centralwings - Europejskie Centrum Konsumenckie",
+      "char_count": 1687
+    },
+    {
+      "article_id": "ecc_0034_nowe_normy_dotyczace_bezpieczenstwa_produktow_do_p",
+      "url": "https://konsument.gov.pl/aktualnosci/nowe-normy-dotyczace-bezpieczenstwa-produktow-do-pielegnacji-lub-ochrony-dzieci-w-ue/",
+      "status": 200,
+      "title": "Nowe normy dotyczące bezpieczeństwa produktów do pielęgnacji lub ochrony dzieci w UE - Europejskie Centrum Konsumenckie",
+      "char_count": 6415
+    },
+    {
+      "article_id": "ecc_0035_zawieszenie_obowiazywania_ukadu_z_schengen_na_czas",
+      "url": "https://konsument.gov.pl/aktualnosci/zawieszenie-obowiazywania-ukladu-z-schengen-na-czas-szczytu-g8-we-wloszech/",
+      "status": 200,
+      "title": "Zawieszenie obowiązywania Układu z Schengen na czas szczytu G8 we Włoszech - Europejskie Centrum Konsumenckie",
+      "char_count": 720
+    },
+    {
+      "article_id": "ecc_0036_dekalog_madrego_konsumenta_przed_urlopem_europejsk",
+      "url": "https://konsument.gov.pl/aktualnosci/dekalog-madrego-konsumenta-przed-urlopem/",
+      "status": 200,
+      "title": "Dekalog mądrego konsumenta przed urlopem - Europejskie Centrum Konsumenckie",
+      "char_count": 3236
+    },
+    {
+      "article_id": "ecc_0037_madry_konsument_przed_urlopem_europejskie_centrum_",
+      "url": "https://konsument.gov.pl/aktualnosci/madry-konsument-przed-urlopem/",
+      "status": 200,
+      "title": "Mądry konsument przed urlopem - Europejskie Centrum Konsumenckie",
+      "char_count": 3178
+    },
+    {
+      "article_id": "ecc_0038_internetowa_edukacja_konsumencka_dla_najmodszych_e",
+      "url": "https://konsument.gov.pl/aktualnosci/internetowa-edukacja-konsumencka-dla-najmlodszych/",
+      "status": 200,
+      "title": "Internetowa edukacja konsumencka dla najmłodszych - Europejskie Centrum Konsumenckie",
+      "char_count": 1371
+    },
+    {
+      "article_id": "ecc_0039_europejski_szczyt_konsumencki_2009_podsumowanie_eu",
+      "url": "https://konsument.gov.pl/aktualnosci/europejski-szczyt-konsumencki-2009-podsumowanie/",
+      "status": 200,
+      "title": "Europejski Szczyt Konsumencki 2009 - podsumowanie - Europejskie Centrum Konsumenckie",
+      "char_count": 895
+    },
+    {
+      "article_id": "ecc_0040_europejskie_centrum_konsumenckie_serdecznie_zapras",
+      "url": "https://konsument.gov.pl/aktualnosci/europejskie-centrum-konsumenckie-serdecznie-zaprasza/",
+      "status": 200,
+      "title": "EUROPEJSKIE CENTRUM KONSUMENCKIE SERDECZNIE ZAPRASZA - Europejskie Centrum Konsumenckie",
+      "char_count": 338
+    },
+    {
+      "article_id": "ecc_0041_eyouguide_nowy_przewodnik_komisji_europejskiej_po_",
+      "url": "https://konsument.gov.pl/aktualnosci/eyouguide-nowy-przewodnik-komisji-europejskiej-po-cyfrowych-prawach-konsumenta/",
+      "status": 200,
+      "title": "eYouGuide - nowy przewodnik Komisji Europejskiej po \"cyfrowych prawach\" konsumenta - Europejskie Centrum Konsumenckie",
+      "char_count": 5132
+    },
+    {
+      "article_id": "ecc_0042_telefon_bezpieczenstwa_dla_zagranicznych_turystow_",
+      "url": "https://konsument.gov.pl/aktualnosci/telefon-bezpieczenstwa-dla-zagranicznych-turystow-w-polsce/",
+      "status": 200,
+      "title": "Telefon bezpieczeństwa dla zagranicznych turystów w Polsce - Europejskie Centrum Konsumenckie",
+      "char_count": 996
+    },
+    {
+      "article_id": "ecc_0043_ke_skontrolowaa_internetowe_strony_sprzedajace_bil",
+      "url": "https://konsument.gov.pl/aktualnosci/ke-skontrolowala-internetowe-strony-sprzedajace-bilety-lotnicze/",
+      "status": 200,
+      "title": "KE skontrolowała internetowe strony sprzedające bilety lotnicze - Europejskie Centrum Konsumenckie",
+      "char_count": 3240
+    },
+    {
+      "article_id": "ecc_0044_czat_z_unijna_komisarz_meglena_kunewa_europejskie_",
+      "url": "https://konsument.gov.pl/aktualnosci/czat-z-unijna-komisarz-meglena-kunewa/",
+      "status": 200,
+      "title": "Czat z unijną komisarz Megleną Kunewą - Europejskie Centrum Konsumenckie",
+      "char_count": 1434
+    },
+    {
+      "article_id": "ecc_0045_rosnie_liczba_wykrytych_produktow_niebezpiecznych_",
+      "url": "https://konsument.gov.pl/aktualnosci/rosnie-liczba-wykrytych-produktow-niebezpiecznych-sprawozdanie-rapex-za-2008/",
+      "status": 200,
+      "title": "Rośnie liczba wykrytych produktów niebezpiecznych - sprawozdanie RAPEX za 2008 - Europejskie Centrum Konsumenckie",
+      "char_count": 4014
+    },
+    {
+      "article_id": "ecc_0046_parada_schumana_i_miasteczko_europejskie_z_udziaem",
+      "url": "https://konsument.gov.pl/aktualnosci/parada-schumana-i-miasteczko-europejskie-z-udzialem-eck/",
+      "status": 200,
+      "title": "Parada Schumana i Miasteczko Europejskie z udziałem ECK - Europejskie Centrum Konsumenckie",
+      "char_count": 700
+    },
+    {
+      "article_id": "ecc_0047_5_lat_polski_w_ue_4_lata_eck_w_polsce_europejskie_",
+      "url": "https://konsument.gov.pl/aktualnosci/5-lat-polski-w-ue-4-lata-eck-w-polsce/",
+      "status": 200,
+      "title": "5 lat Polski w UE - 4 lata ECK w Polsce - Europejskie Centrum Konsumenckie",
+      "char_count": 8173
+    },
+    {
+      "article_id": "ecc_0048_kredyt_konsumencki_nowa_dyrektywa_ue_europejskie_c",
+      "url": "https://konsument.gov.pl/aktualnosci/kredyt-konsumencki-nowa-dyrektywa-ue/",
+      "status": 200,
+      "title": "Kredyt konsumencki - nowa Dyrektywa UE - Europejskie Centrum Konsumenckie",
+      "char_count": 1562
+    },
+    {
+      "article_id": "ecc_0049_co_dalej_z_rozporzadzeniem_gvo_europejskie_centrum",
+      "url": "https://konsument.gov.pl/aktualnosci/co-dalej-z-rozporzadzeniem-gvo/",
+      "status": 200,
+      "title": "Co dalej z rozporządzeniem GVO? - Europejskie Centrum Konsumenckie",
+      "char_count": 1794
+    },
+    {
+      "article_id": "ecc_0050_bieg_pod_hasem_od_konstytucji_3_maja_do_unii_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/bieg-pod-haslem-od-konstytucji-3-maja-do-unii-europejskiej/",
+      "status": 200,
+      "title": "Bieg pod hasłem \"Od Konstytucji 3 maja do Unii Europejskiej\" - Europejskie Centrum Konsumenckie",
+      "char_count": 785
+    },
+    {
+      "article_id": "ecc_0051_rosnaca_popularnosc_zakupow_przez_internet_w_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/rosnaca-popularnosc-zakupow-przez-internet-w-europie/",
+      "status": 200,
+      "title": "Rosnąca popularność zakupów przez Internet w Europie - Europejskie Centrum Konsumenckie",
+      "char_count": 4996
+    },
+    {
+      "article_id": "ecc_0052_zmiana_na_stanowisku_dyrektora_eck_polska_europejs",
+      "url": "https://konsument.gov.pl/aktualnosci/zmiana-na-stanowisku-dyrektora-eck-polska/",
+      "status": 200,
+      "title": "Zmiana na stanowisku Dyrektora ECK Polska - Europejskie Centrum Konsumenckie",
+      "char_count": 508
+    },
+    {
+      "article_id": "ecc_0053_europejski_szczyt_konsumencki_bruksela_1_2_kwietni",
+      "url": "https://konsument.gov.pl/aktualnosci/europejski-szczyt-konsumencki-bruksela-1-2-kwietnia-2009/",
+      "status": 200,
+      "title": "Europejski Szczyt Konsumencki - Bruksela, 1 - 2 kwietnia 2009 - Europejskie Centrum Konsumenckie",
+      "char_count": 2116
+    },
+    {
+      "article_id": "ecc_0054_tansze_poaczenia_i_usugi_roamingowych_w_ue_europej",
+      "url": "https://konsument.gov.pl/aktualnosci/tansze-polaczenia-i-uslugi-roamingowych-w-ue/",
+      "status": 200,
+      "title": "Tańsze połączenia i usługi roamingowych w UE - Europejskie Centrum Konsumenckie",
+      "char_count": 2379
+    },
+    {
+      "article_id": "ecc_0055_ue_przeciwko_nieuczciwym_praktykom_handlowym_rok_p",
+      "url": "https://konsument.gov.pl/aktualnosci/ue-przeciwko-nieuczciwym-praktykom-handlowym-rok-pozniej/",
+      "status": 200,
+      "title": "UE przeciwko nieuczciwym praktykom handlowym - rok później - Europejskie Centrum Konsumenckie",
+      "char_count": 5778
+    },
+    {
+      "article_id": "ecc_0056_konsument_i_jego_rzecznik_10_lecie_instytucji_rzec",
+      "url": "https://konsument.gov.pl/aktualnosci/konsument-i-jego-rzecznik-10-lecie-instytucji-rzecznika-konsumentow/",
+      "status": 200,
+      "title": "\"Konsument i jego rzecznik\" - 10-lecie instytucji Rzecznika Konsumentów - Europejskie Centrum Konsumenckie",
+      "char_count": 968
+    },
+    {
+      "article_id": "ecc_0057_czat_z_komisarz_kunewa_europejskie_centrum_konsume",
+      "url": "https://konsument.gov.pl/aktualnosci/czat-z-komisarz-kunewa/",
+      "status": 200,
+      "title": "Czat z Komisarz Kunewą - Europejskie Centrum Konsumenckie",
+      "char_count": 1134
+    },
+    {
+      "article_id": "ecc_0058_konferencja_konsument_i_jego_rzecznik_europejskie_",
+      "url": "https://konsument.gov.pl/aktualnosci/konferencja-konsument-i-jego-rzecznik/",
+      "status": 200,
+      "title": "Konferencja \"Konsument i jego rzecznik\" - Europejskie Centrum Konsumenckie",
+      "char_count": 830
+    },
+    {
+      "article_id": "ecc_0059_swiatowy_dzien_konsumenta_15_marca_2009_europejski",
+      "url": "https://konsument.gov.pl/aktualnosci/swiatowy-dzien-konsumenta-15-marca-2009/",
+      "status": 200,
+      "title": "Światowy Dzień Konsumenta - 15 marca 2009 - Europejskie Centrum Konsumenckie",
+      "char_count": 3993
+    },
+    {
+      "article_id": "ecc_0060_zakupy_przez_internet_w_europie_europejskie_centru",
+      "url": "https://konsument.gov.pl/aktualnosci/zakupy-przez-internet-w-europie/",
+      "status": 200,
+      "title": "ZAKUPY PRZEZ INTERNET W EUROPIE - Europejskie Centrum Konsumenckie",
+      "char_count": 3262
+    },
+    {
+      "article_id": "ecc_0061_energia_usugi_bankowe_i_transport_miejski_nie_spen",
+      "url": "https://konsument.gov.pl/aktualnosci/energia-uslugi-bankowe-i-transport-miejski-nie-spelniaja-oczekiwan-konsumentow/",
+      "status": 200,
+      "title": "Energia, usługi bankowe i transport miejski nie spełniają oczekiwań konsumentów - Europejskie Centrum Konsumenckie",
+      "char_count": 5180
+    },
+    {
+      "article_id": "ecc_0062_komisja_europejska_wprowadza_norme_ue_dotyczaca_ch",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-europejska-wprowadza-norme-ue-dotyczaca-chodzikow-dla-dzieci-w-celu-zapobiegania-wypadkom/",
+      "status": 200,
+      "title": "Komisja Europejska wprowadza normę UE dotyczącą chodzików dla dzieci w celu zapobiegania wypadkom - Europejskie Centrum ",
+      "char_count": 4321
+    },
+    {
+      "article_id": "ecc_0063_reorganizacja_inspekcji_handlowej_ih_europejskie_c",
+      "url": "https://konsument.gov.pl/aktualnosci/reorganizacja-inspekcji-handlowej-ih/",
+      "status": 200,
+      "title": "Reorganizacja Inspekcji Handlowej (IH) . - Europejskie Centrum Konsumenckie",
+      "char_count": 1171
+    },
+    {
+      "article_id": "ecc_0064_bezpieczne_zabawki_europejskie_centrum_konsumencki",
+      "url": "https://konsument.gov.pl/aktualnosci/bezpieczne-zabawki/",
+      "status": 200,
+      "title": "Bezpieczne zabawki - Europejskie Centrum Konsumenckie",
+      "char_count": 2600
+    },
+    {
+      "article_id": "ecc_0065_komisja_proponuje_rozszerzenie_praw_pasazerow_w_tr",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-proponuje-rozszerzenie-praw-pasazerow-w-transporcie-autobusowym-autokarowym-oraz-morskim/",
+      "status": 200,
+      "title": "Komisja proponuje rozszerzenie praw pasażerów w transporcie autobusowym, autokarowym oraz morskim. - Europejskie Centrum",
+      "char_count": 2960
+    },
+    {
+      "article_id": "ecc_0066_europeana_europejska_biblioteka_cyfrowa_juz_dostep",
+      "url": "https://konsument.gov.pl/aktualnosci/europeana-europejska-biblioteka-cyfrowa-juz-dostepna-w-sieci/",
+      "status": 200,
+      "title": "'Europeana' - europejska biblioteka cyfrowa już dostępna w sieci. - Europejskie Centrum Konsumenckie",
+      "char_count": 5987
+    },
+    {
+      "article_id": "ecc_0067_poza_sadem_atwiej_i_szybciej_europejskie_centrum_k",
+      "url": "https://konsument.gov.pl/aktualnosci/poza-sadem-latwiej-i-szybciej/",
+      "status": 200,
+      "title": "Poza sądem łatwiej i szybciej. - Europejskie Centrum Konsumenckie",
+      "char_count": 1432
+    },
+    {
+      "article_id": "ecc_0068_ochrona_konsumentow_nowym_europejskim_programem_st",
+      "url": "https://konsument.gov.pl/aktualnosci/ochrona-konsumentow-nowym-europejskim-programem-studiow-magisterskich-juz-od-wrzesnia-2009/",
+      "status": 200,
+      "title": "Ochrona konsumentów - nowym europejskim programem studiów magisterskich już od września 2009. - Europejskie Centrum Kons",
+      "char_count": 4783
+    },
+    {
+      "article_id": "ecc_0069_komisja_europejska_powouje_nowe_obywatelskie_forum",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-europejska-powoluje-nowe-obywatelskie-forum-energetyczne/",
+      "status": 200,
+      "title": "Komisja Europejska powołuje nowe Obywatelskie Forum Energetyczne - Europejskie Centrum Konsumenckie",
+      "char_count": 4150
+    },
+    {
+      "article_id": "ecc_0070_miedzynarodowy_tydzien_bezpieczenstwa_produktu_200",
+      "url": "https://konsument.gov.pl/aktualnosci/miedzynarodowy-tydzien-bezpieczenstwa-produktu-2008-rozpocznie-sie-juz-w-najblizszy-poniedzialek/",
+      "status": 200,
+      "title": "Międzynarodowy Tydzień Bezpieczeństwa Produktu 2008 rozpocznie się już w najbliższy Poniedziałek. - Europejskie Centrum ",
+      "char_count": 813
+    },
+    {
+      "article_id": "ecc_0071_konsumencie_czujesz_sie_oszukany_zajrzyj_na_www_is",
+      "url": "https://konsument.gov.pl/aktualnosci/konsumencie-czujesz-sie-oszukany-zajrzyj-na-www-isitfair-eu/",
+      "status": 200,
+      "title": "Konsumencie, czujesz się oszukany? Zajrzyj na www.isitfair.eu. - Europejskie Centrum Konsumenckie",
+      "char_count": 1348
+    },
+    {
+      "article_id": "ecc_0072_26_listopada_upywa_termin_dochodzenia_roszczen_od_",
+      "url": "https://konsument.gov.pl/aktualnosci/26-listopada-uplywa-termin-dochodzenia-roszczen-od-linii-lotniczych-sterling/",
+      "status": 200,
+      "title": "26 listopada upływa termin dochodzenia roszczeń od linii lotniczych Sterling. - Europejskie Centrum Konsumenckie",
+      "char_count": 769
+    },
+    {
+      "article_id": "ecc_0073_16_11_2008_ostatecznym_terminem_dochodzenia_roszcz",
+      "url": "https://konsument.gov.pl/aktualnosci/16-11-2008-ostatecznym-terminem-dochodzenia-roszczen-od-alitalii/",
+      "status": 200,
+      "title": "16.11.2008 ostatecznym terminem dochodzenia roszczeń od Alitalii. - Europejskie Centrum Konsumenckie",
+      "char_count": 742
+    },
+    {
+      "article_id": "ecc_0074_nowe_przepisy_dotyczace_przewozow_lotniczych_w_ue_",
+      "url": "https://konsument.gov.pl/aktualnosci/nowe-przepisy-dotyczace-przewozow-lotniczych-w-ue-wchodza-w-zycie-juz-dzisiaj/",
+      "status": 200,
+      "title": "Nowe przepisy dotyczące przewozów lotniczych w UE wchodzą w życie już dzisiaj. - Europejskie Centrum Konsumenckie",
+      "char_count": 960
+    },
+    {
+      "article_id": "ecc_0075_trwa_kampania_pod_hasem_europa_przyjazna_pacjentom",
+      "url": "https://konsument.gov.pl/aktualnosci/trwa-kampania-pod-haslem-europa-przyjazna-pacjentom-europe-for-patients/",
+      "status": 200,
+      "title": "Trwa kampania pod hasłem ‘Europa przyjazna pacjentom’ (‘Europe for Patients’) - Europejskie Centrum Konsumenckie",
+      "char_count": 868
+    },
+    {
+      "article_id": "ecc_0076_nowy_blog_i_strona_internetowa_komisarz_megleny_ku",
+      "url": "https://konsument.gov.pl/aktualnosci/nowy-blog-i-strona-internetowa-komisarz-megleny-kunevy-juz-otwarte/",
+      "status": 200,
+      "title": "Nowy blog i strona internetowa Komisarz Megleny Kunevy już otwarte - Europejskie Centrum Konsumenckie",
+      "char_count": 759
+    },
+    {
+      "article_id": "ecc_0077_ue_planuje_dziaania_na_rzecz_poprawy_handlu_transg",
+      "url": "https://konsument.gov.pl/aktualnosci/ue-planuje-dzialania-na-rzecz-poprawy-handlu-transgranicznego/",
+      "status": 200,
+      "title": "UE planuje działania na rzecz poprawy handlu transgranicznego - Europejskie Centrum Konsumenckie",
+      "char_count": 1196
+    },
+    {
+      "article_id": "ecc_0078_ruszya_wyszukiwarka_na_stronie_przedstawicielstwa_",
+      "url": "https://konsument.gov.pl/aktualnosci/ruszyla-wyszukiwarka-na-stronie-przedstawicielstwa-komisji-europejskiej/",
+      "status": 200,
+      "title": "Ruszyła wyszukiwarka na stronie Przedstawicielstwa Komisji Europejskiej - Europejskie Centrum Konsumenckie",
+      "char_count": 525
+    },
+    {
+      "article_id": "ecc_0079_komisja_proponuje_wprowadzenie_obowiazujacych_w_ca",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-proponuje-wprowadzenie-obowiazujacych-w-calej-ue-praw-dla-nabywcow/",
+      "status": 200,
+      "title": "\"Komisja proponuje wprowadzenie obowiązujących w całej UE praw dla nabywców - Europejskie Centrum Konsumenckie",
+      "char_count": 6896
+    },
+    {
+      "article_id": "ecc_0080_brytyjka_nowym_komisarzem_unijnym_ds_handlu_europe",
+      "url": "https://konsument.gov.pl/aktualnosci/brytyjka-nowym-komisarzem-unijnym-ds-handlu/",
+      "status": 200,
+      "title": "Brytyjka nowym komisarzem unijnym ds. handlu - Europejskie Centrum Konsumenckie",
+      "char_count": 383
+    },
+    {
+      "article_id": "ecc_0081_eck_na_targach_turystycznych_w_warszawie_25_27_09_",
+      "url": "https://konsument.gov.pl/aktualnosci/eck-na-targach-turystycznych-w-warszawie-25-27-09-2008/",
+      "status": 200,
+      "title": "ECK na Targach Turystycznych w Warszawie, 25-27.09.2008 - Europejskie Centrum Konsumenckie",
+      "char_count": 501
+    },
+    {
+      "article_id": "ecc_0082_zbiorka_zuzytych_baterii_i_akumulatorow_w_ue_obowi",
+      "url": "https://konsument.gov.pl/aktualnosci/zbiorka-zuzytych-baterii-i-akumulatorow-w-ue-obowiazkowa/",
+      "status": 200,
+      "title": "Zbiórka zużytych baterii i akumulatorów w UE obowiązkowa - Europejskie Centrum Konsumenckie",
+      "char_count": 1041
+    },
+    {
+      "article_id": "ecc_0083_szybki_internet_dla_kazdego_europejskie_centrum_ko",
+      "url": "https://konsument.gov.pl/aktualnosci/szybki-internet-dla-kazdego/",
+      "status": 200,
+      "title": "Szybki Internet dla każdego - Europejskie Centrum Konsumenckie",
+      "char_count": 1415
+    },
+    {
+      "article_id": "ecc_0084_ke_chce_60_proc_obnizki_cen_sms_ow_europejskie_cen",
+      "url": "https://konsument.gov.pl/aktualnosci/ke-chce-60-proc-obnizki-cen-sms-ow/",
+      "status": 200,
+      "title": "KE chce 60-proc. obniżki cen SMS-ów - Europejskie Centrum Konsumenckie",
+      "char_count": 6881
+    },
+    {
+      "article_id": "ecc_0085_wystartowaa_internetowa_telewizja_parlamentu_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/wystartowala-internetowa-telewizja-parlamentu-europejskiego/",
+      "status": 200,
+      "title": "Wystartowała internetowa telewizja Parlamentu Europejskiego - Europejskie Centrum Konsumenckie",
+      "char_count": 1256
+    },
+    {
+      "article_id": "ecc_0086_nowy_serwis_wp_uatwia_wybor_dostawcy_energii_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/nowy-serwis-wp-ulatwia-wybor-dostawcy-energii/",
+      "status": 200,
+      "title": "Nowy serwis WP ułatwia wybór dostawcy energii. - Europejskie Centrum Konsumenckie",
+      "char_count": 857
+    },
+    {
+      "article_id": "ecc_0087_unijna_dyrektywa_pozwoli_byskawicznie_zmienic_bank",
+      "url": "https://konsument.gov.pl/aktualnosci/unijna-dyrektywa-pozwoli-blyskawicznie-zmienic-bank/",
+      "status": 200,
+      "title": "Unijna dyrektywa pozwoli błyskawicznie zmienić bank - Europejskie Centrum Konsumenckie",
+      "char_count": 1798
+    },
+    {
+      "article_id": "ecc_0088_planujesz_wakacje_za_granica_europejskie_centrum_k",
+      "url": "https://konsument.gov.pl/aktualnosci/planujesz-wakacje-za-granica/",
+      "status": 200,
+      "title": "Planujesz wakacje za granicą? - Europejskie Centrum Konsumenckie",
+      "char_count": 524
+    },
+    {
+      "article_id": "ecc_0089_konsument_na_wakacjach_w_europie_europejskie_centr",
+      "url": "https://konsument.gov.pl/aktualnosci/konsument-na-wakacjach-w-europie/",
+      "status": 200,
+      "title": "KONSUMENT NA WAKACJACH W EUROPIE - Europejskie Centrum Konsumenckie",
+      "char_count": 11136
+    },
+    {
+      "article_id": "ecc_0090_komisja_europejska_ke_pozwaa_polske_do_trybunau_sp",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-europejska-ke-pozwala-polske-do-trybunalu-sprawiedliwosci-ue-ets/",
+      "status": 200,
+      "title": "Komisja Europejska (KE) pozwała Polskę do Trybunału Sprawiedliwości UE (ETS) - Europejskie Centrum Konsumenckie",
+      "char_count": 1251
+    },
+    {
+      "article_id": "ecc_0091_euro_2008_10_rzeczy_o_ktorych_powinienes_wiedziec_",
+      "url": "https://konsument.gov.pl/aktualnosci/euro-2008-10-rzeczy-o-ktorych-powinienes-wiedziec-zanim-wyjedziesz/",
+      "status": 200,
+      "title": "EURO 2008 - 10 rzeczy o których powinieneś wiedzieć zanim wyjedziesz!!! - Europejskie Centrum Konsumenckie",
+      "char_count": 990
+    },
+    {
+      "article_id": "ecc_0092_ebay_zapaci_kare_za_sprzedaz_podrobionych_torebek_",
+      "url": "https://konsument.gov.pl/aktualnosci/ebay-zaplaci-kare-za-sprzedaz-podrobionych-torebek/",
+      "status": 200,
+      "title": "eBay zapłaci karę za sprzedaż podrobionych torebek - Europejskie Centrum Konsumenckie",
+      "char_count": 1307
+    },
+    {
+      "article_id": "ecc_0093_ue_uefa_uruchomia_infolinie_dla_kibicow_wyjezdzaja",
+      "url": "https://konsument.gov.pl/aktualnosci/ue-uefa-uruchomila-infolinie-dla-kibicow-wyjezdzajacych-na-euro-2008/",
+      "status": 200,
+      "title": "UE-UEFA uruchomiła infolinię dla kibiców wyjeżdżających na EURO 2008 - Europejskie Centrum Konsumenckie",
+      "char_count": 649
+    },
+    {
+      "article_id": "ecc_0094_konsumenci_usuniecie_nieprawidowosci_na_50_stron_i",
+      "url": "https://konsument.gov.pl/aktualnosci/konsumenci-usuniecie-nieprawidlowosci-na-50-stron-internetowych-wprowadzajacych-w-blad/",
+      "status": 200,
+      "title": "Konsumenci: usunięcie nieprawidłowości na 50 % stron internetowych wprowadzających w błąd - Europejskie Centrum Konsumen",
+      "char_count": 5492
+    },
+    {
+      "article_id": "ecc_0095_parada_schumana_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/parada-schumana/",
+      "status": 200,
+      "title": "Parada Schumana - Europejskie Centrum Konsumenckie",
+      "char_count": 478
+    },
+    {
+      "article_id": "ecc_0096_xv_polskie_spotkania_europejskie_europejskie_centr",
+      "url": "https://konsument.gov.pl/aktualnosci/xv-polskie-spotkania-europejskie/",
+      "status": 200,
+      "title": "XV Polskie Spotkania Europejskie - Europejskie Centrum Konsumenckie",
+      "char_count": 906
+    },
+    {
+      "article_id": "ecc_0097_kredyt_konsumencki_przyjecie_nowej_dyrektywy_to_du",
+      "url": "https://konsument.gov.pl/aktualnosci/kredyt-konsumencki-przyjecie-nowej-dyrektywy-to-duzy-krok-naprzod-mowi-komisarz-kuneva/",
+      "status": 200,
+      "title": "Kredyt konsumencki – “Przyjęcie nowej Dyrektywy to duży krok naprzód” – mówi Komisarz Kuneva. - Europejskie Centrum Kons",
+      "char_count": 1165
+    },
+    {
+      "article_id": "ecc_0098_konferencja_parlament_europejski_50_europejskie_ce",
+      "url": "https://konsument.gov.pl/aktualnosci/konferencja-parlament-europejski-50/",
+      "status": 200,
+      "title": "Konferencja Parlament Europejski +/- 50 - Europejskie Centrum Konsumenckie",
+      "char_count": 847
+    },
+    {
+      "article_id": "ecc_0099_najlepsza_kampania_konsumencka_2007_r_europejskie_",
+      "url": "https://konsument.gov.pl/aktualnosci/najlepsza-kampania-konsumencka-2007-r/",
+      "status": 200,
+      "title": "Najlepsza Kampania Konsumencka 2007 r. - Europejskie Centrum Konsumenckie",
+      "char_count": 666
+    },
+    {
+      "article_id": "ecc_0100_brak_zaufania_konsumentow_bariera_w_internetowych_",
+      "url": "https://konsument.gov.pl/aktualnosci/brak-zaufania-konsumentow-bariera-w-internetowych-zakupach-zagranicznych/",
+      "status": 200,
+      "title": "Brak zaufania konsumentów barierą w internetowych zakupach zagranicznych - Europejskie Centrum Konsumenckie",
+      "char_count": 464
+    },
+    {
+      "article_id": "ecc_0101_najlepsza_kampania_konsumencka_2007_europejskie_ce",
+      "url": "https://konsument.gov.pl/aktualnosci/najlepsza-kampania-konsumencka-2007/",
+      "status": 200,
+      "title": "Najlepsza kampania konsumencka 2007 - Europejskie Centrum Konsumenckie",
+      "char_count": 369
+    },
+    {
+      "article_id": "ecc_0102_drodzy_konsumenci_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/drodzy-konsumenci/",
+      "status": 200,
+      "title": "Drodzy Konsumenci! - Europejskie Centrum Konsumenckie",
+      "char_count": 457
+    },
+    {
+      "article_id": "ecc_0103_ue_wymaga_aby_na_zabawkach_magnetycznych_umieszcza",
+      "url": "https://konsument.gov.pl/aktualnosci/ue-wymaga-aby-na-zabawkach-magnetycznych-umieszczana-byla-etykieta-ostrzegawcza/",
+      "status": 200,
+      "title": "UE wymaga, aby na „zabawkach magnetycznych” umieszczana była etykieta ostrzegawcza - Europejskie Centrum Konsumenckie",
+      "char_count": 4283
+    },
+    {
+      "article_id": "ecc_0104_suchajmy_dzieci_one_wiedza_co_zrobic_aby_internet_",
+      "url": "https://konsument.gov.pl/aktualnosci/sluchajmy-dzieci-one-wiedza-co-zrobic-aby-internet-byl-bezpieczniejszy/",
+      "status": 200,
+      "title": "Słuchajmy dzieci: one wiedzą, co zrobić aby Internet był bezpieczniejszy! - Europejskie Centrum Konsumenckie",
+      "char_count": 4727
+    },
+    {
+      "article_id": "ecc_0105_wybierz_projekt_nowej_euro_monety_europejskie_cent",
+      "url": "https://konsument.gov.pl/aktualnosci/wybierz-projekt-nowej-euro-monety/",
+      "status": 200,
+      "title": "Wybierz projekt nowej euro-monety! - Europejskie Centrum Konsumenckie",
+      "char_count": 637
+    },
+    {
+      "article_id": "ecc_0106_podsumowanie_roku_2007_w_eck_europejskie_centrum_k",
+      "url": "https://konsument.gov.pl/aktualnosci/podsumowanie-roku-2007-w-eck/",
+      "status": 200,
+      "title": "Podsumowanie roku 2007 w ECK - Europejskie Centrum Konsumenckie",
+      "char_count": 592
+    },
+    {
+      "article_id": "ecc_0107_siec_europejskich_centrow_konsumenckich_powiekszya",
+      "url": "https://konsument.gov.pl/aktualnosci/siec-europejskich-centrow-konsumenckich-powiekszyla-sie-o-nowe-centra-w-bulgarii-i-rumunii/",
+      "status": 200,
+      "title": "Sieć Europejskich Centrów Konsumenckich powiększyła się o nowe Centra w Bułgarii i Rumunii - Europejskie Centrum Konsume",
+      "char_count": 380
+    },
+    {
+      "article_id": "ecc_0108_wyniki_konkursu_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/wyniki-konkursu/",
+      "status": 200,
+      "title": "Wyniki konkursu - Europejskie Centrum Konsumenckie",
+      "char_count": 501
+    },
+    {
+      "article_id": "ecc_0109_rozstrzygniecie_konkursu_europejskie_centrum_konsu",
+      "url": "https://konsument.gov.pl/aktualnosci/rozstrzygniecie-konkursu/",
+      "status": 200,
+      "title": "ROZSTRZYGNIĘCIE KONKURSU - Europejskie Centrum Konsumenckie",
+      "char_count": 717
+    },
+    {
+      "article_id": "ecc_0110_komisja_europejska_ogasza_konkurs_europejskie_cent",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-europejska-oglasza-konkurs/",
+      "status": 200,
+      "title": "Komisja Europejska ogłasza konkurs. - Europejskie Centrum Konsumenckie",
+      "char_count": 2497
+    },
+    {
+      "article_id": "ecc_0111_jak_czytac_etykiety_na_produktach_europejskie_cent",
+      "url": "https://konsument.gov.pl/aktualnosci/jak-czytac-etykiety-na-produktach/",
+      "status": 200,
+      "title": "Jak czytać etykiety na produktach? - Europejskie Centrum Konsumenckie",
+      "char_count": 850
+    },
+    {
+      "article_id": "ecc_0112_zmiana_przepisow_o_rejestracji_pojazdow_europejski",
+      "url": "https://konsument.gov.pl/aktualnosci/zmiana-przepisow-o-rejestracji-pojazdow/",
+      "status": 200,
+      "title": "Zmiana przepisów o rejestracji pojazdów - Europejskie Centrum Konsumenckie",
+      "char_count": 994
+    },
+    {
+      "article_id": "ecc_0113_raport_sieci_europejskich_centrow_konsumenckich_pr",
+      "url": "https://konsument.gov.pl/aktualnosci/raport-sieci-europejskich-centrow-konsumenckich-prawa-pasazerow-linii-lotniczych/",
+      "status": 200,
+      "title": "Raport Sieci Europejskich Centrów Konsumenckich – Prawa pasażerów linii lotniczych - Europejskie Centrum Konsumenckie",
+      "char_count": 5175
+    },
+    {
+      "article_id": "ecc_0114_swiateczne_zakupy_w_europie_europejskie_centrum_ko",
+      "url": "https://konsument.gov.pl/aktualnosci/swiateczne-zakupy-w-europie/",
+      "status": 200,
+      "title": "Świąteczne zakupy w Europie - Europejskie Centrum Konsumenckie",
+      "char_count": 3063
+    },
+    {
+      "article_id": "ecc_0115_chat_internetowy_z_komisarz_kuneva_europejskie_cen",
+      "url": "https://konsument.gov.pl/aktualnosci/chat-internetowy-z-komisarz-kuneva/",
+      "status": 200,
+      "title": "Chat internetowy z Komisarz Kunevą - Europejskie Centrum Konsumenckie",
+      "char_count": 600
+    },
+    {
+      "article_id": "ecc_0116_uwolniony_rynek_energii_europejskie_centrum_konsum",
+      "url": "https://konsument.gov.pl/aktualnosci/uwolniony-rynek-energii/",
+      "status": 200,
+      "title": "Uwolniony rynek energii - Europejskie Centrum Konsumenckie",
+      "char_count": 3970
+    },
+    {
+      "article_id": "ecc_0117_wyniki_kontroli_stron_internetowych_sprzedajacych_",
+      "url": "https://konsument.gov.pl/aktualnosci/wyniki-kontroli-stron-internetowych-sprzedajacych-bilety-lotnicze/",
+      "status": 200,
+      "title": "Wyniki kontroli stron internetowych sprzedających bilety lotnicze - Europejskie Centrum Konsumenckie",
+      "char_count": 8618
+    },
+    {
+      "article_id": "ecc_0118_tanio_szybko_i_skutecznie_europejskie_centrum_kons",
+      "url": "https://konsument.gov.pl/aktualnosci/tanio-szybko-i-skutecznie/",
+      "status": 200,
+      "title": "Tanio, szybko i skutecznie - Europejskie Centrum Konsumenckie",
+      "char_count": 4901
+    },
+    {
+      "article_id": "ecc_0119_baltic_sea_seminar_europejskie_centrum_konsumencki",
+      "url": "https://konsument.gov.pl/aktualnosci/baltic-sea-seminar/",
+      "status": 200,
+      "title": "Baltic Sea Seminar - Europejskie Centrum Konsumenckie",
+      "char_count": 508
+    },
+    {
+      "article_id": "ecc_0120_koniec_prac_nad_przegladem_konsumenckiego_acquis_e",
+      "url": "https://konsument.gov.pl/aktualnosci/koniec-prac-nad-przegladem-konsumenckiego-acquis/",
+      "status": 200,
+      "title": "Koniec prac nad przeglądem konsumenckiego acquis - Europejskie Centrum Konsumenckie",
+      "char_count": 426
+    },
+    {
+      "article_id": "ecc_0121_traktat_na_miare_xxi_wieku_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/traktat-na-miare-xxi-wieku/",
+      "status": 200,
+      "title": "Traktat na miarę XXI wieku - Europejskie Centrum Konsumenckie",
+      "char_count": 1627
+    },
+    {
+      "article_id": "ecc_0122_uwaga_pasazerowie_od_5_pazdziernika_niemieckie_kol",
+      "url": "https://konsument.gov.pl/aktualnosci/uwaga-pasazerowie-od-5-pazdziernika-niemieckie-koleje-moze-sparalizowac-strajk/",
+      "status": 200,
+      "title": "Uwaga pasażerowie – od 5 października niemieckie koleje może sparaliżować strajk! - Europejskie Centrum Konsumenckie",
+      "char_count": 3748
+    },
+    {
+      "article_id": "ecc_0123_wielojezyczny_biuletyn_portalu_health_eu_europejsk",
+      "url": "https://konsument.gov.pl/aktualnosci/wielojezyczny-biuletyn-portalu-health-eu/",
+      "status": 200,
+      "title": "Wielojęzyczny biuletyn portalu Health-EU - Europejskie Centrum Konsumenckie",
+      "char_count": 592
+    },
+    {
+      "article_id": "ecc_0124_konsument_po_wakacjach_co_zrobic_gdy_wracamy_z_pro",
+      "url": "https://konsument.gov.pl/aktualnosci/konsument-po-wakacjach-co-zrobic-gdy-wracamy-z-problemem/",
+      "status": 200,
+      "title": "Konsument po wakacjach – co zrobić gdy wracamy z problemem - Europejskie Centrum Konsumenckie",
+      "char_count": 8400
+    },
+    {
+      "article_id": "ecc_0125_lepsza_ochrona_przed_soncem_dzieki_dziaaniom_komis",
+      "url": "https://konsument.gov.pl/aktualnosci/lepsza-ochrona-przed-sloncem-dzieki-dzialaniom-komisji-europejskiej/",
+      "status": 200,
+      "title": "Lepsza ochrona przed słońcem dzięki działaniom Komisji Europejskiej - Europejskie Centrum Konsumenckie",
+      "char_count": 8152
+    },
+    {
+      "article_id": "ecc_0126_badania_nad_usugami_uzytecznosci_publicznej_europe",
+      "url": "https://konsument.gov.pl/aktualnosci/badania-nad-uslugami-uzytecznosci-publicznej/",
+      "status": 200,
+      "title": "Badania nad usługami użyteczności publicznej - Europejskie Centrum Konsumenckie",
+      "char_count": 1713
+    },
+    {
+      "article_id": "ecc_0127_w_kierunku_europejskiej_karty_praw_odbiorcow_energ",
+      "url": "https://konsument.gov.pl/aktualnosci/w-kierunku-europejskiej-karty-praw-odbiorcow-energii/",
+      "status": 200,
+      "title": "W kierunku Europejskiej Karty Praw Odbiorców Energii - Europejskie Centrum Konsumenckie",
+      "char_count": 6129
+    },
+    {
+      "article_id": "ecc_0128_eurotaryfa_49_eurocentow_za_rozmowy_w_roamingu_eur",
+      "url": "https://konsument.gov.pl/aktualnosci/eurotaryfa-49-eurocentow-za-rozmowy-w-roamingu/",
+      "status": 200,
+      "title": "Eurotaryfa - 49 eurocentów za rozmowy w roamingu! - Europejskie Centrum Konsumenckie",
+      "char_count": 768
+    },
+    {
+      "article_id": "ecc_0129_konferencja_bilansowa_procesu_helathy_democracy_eu",
+      "url": "https://konsument.gov.pl/aktualnosci/konferencja-bilansowa-procesu-helathy-democracy/",
+      "status": 200,
+      "title": "Konferencja bilansowa procesu „Helathy Democracy” - Europejskie Centrum Konsumenckie",
+      "char_count": 885
+    },
+    {
+      "article_id": "ecc_0130_polscy_operatorzy_komorkowi_obniza_ceny_roamingu_e",
+      "url": "https://konsument.gov.pl/aktualnosci/polscy-operatorzy-komorkowi-obniza-ceny-roamingu/",
+      "status": 200,
+      "title": "Polscy operatorzy komórkowi obniżą ceny roamingu - Europejskie Centrum Konsumenckie",
+      "char_count": 1919
+    },
+    {
+      "article_id": "ecc_0131_paypal_ma_licencje_bankowa_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/paypal-ma-licencje-bankowa/",
+      "status": 200,
+      "title": "Paypal ma licencję bankową - Europejskie Centrum Konsumenckie",
+      "char_count": 1712
+    },
+    {
+      "article_id": "ecc_0132_eurowizja_pod_znakiem_rownosci_szans_dla_wszystkic",
+      "url": "https://konsument.gov.pl/aktualnosci/eurowizja-pod-znakiem-rownosci-szans-dla-wszystkich/",
+      "status": 200,
+      "title": "Eurowizja pod znakiem równości szans dla wszystkich - Europejskie Centrum Konsumenckie",
+      "char_count": 1399
+    },
+    {
+      "article_id": "ecc_0133_ue_zgadza_sie_na_gruntowny_przeglad_transgraniczny",
+      "url": "https://konsument.gov.pl/aktualnosci/ue-zgadza-sie-na-gruntowny-przeglad-transgranicznych-platnosci/",
+      "status": 200,
+      "title": "UE zgadza się na gruntowny przegląd transgranicznych płatności - Europejskie Centrum Konsumenckie",
+      "char_count": 6104
+    },
+    {
+      "article_id": "ecc_0134_spotkajmy_sie_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/spotkajmy-sie/",
+      "status": 200,
+      "title": "Spotkajmy się! - Europejskie Centrum Konsumenckie",
+      "char_count": 465
+    },
+    {
+      "article_id": "ecc_0135_eck_zaprasza_na_prezentacje_europejskie_centrum_ko",
+      "url": "https://konsument.gov.pl/aktualnosci/eck-zaprasza-na-prezentacje/",
+      "status": 200,
+      "title": "ECK zaprasza na prezentację - Europejskie Centrum Konsumenckie",
+      "char_count": 587
+    },
+    {
+      "article_id": "ecc_0136_praw_pasazerow_trzeba_przestrzegac_europejskie_cen",
+      "url": "https://konsument.gov.pl/aktualnosci/praw-pasazerow-trzeba-przestrzegac/",
+      "status": 200,
+      "title": "Praw pasażerów trzeba przestrzegać - Europejskie Centrum Konsumenckie",
+      "char_count": 4186
+    },
+    {
+      "article_id": "ecc_0137_uwaga_na_farby_do_wosow_europejskie_centrum_konsum",
+      "url": "https://konsument.gov.pl/aktualnosci/uwaga-na-farby-do-wlosow/",
+      "status": 200,
+      "title": "Uwaga na farby do włosów - Europejskie Centrum Konsumenckie",
+      "char_count": 6191
+    },
+    {
+      "article_id": "ecc_0138_konsumenci_komisja_dziaa_w_kierunku_wzmocnienia_za",
+      "url": "https://konsument.gov.pl/aktualnosci/konsumenci-komisja-dziala-w-kierunku-wzmocnienia-zaufania-do-transakcji-internetowych/",
+      "status": 200,
+      "title": "Konsumenci: Komisja działa w kierunku wzmocnienia zaufania do transakcji internetowych - Europejskie Centrum Konsumencki",
+      "char_count": 1545
+    },
+    {
+      "article_id": "ecc_0139_jakie_sa_spoeczne_realia_europy_europejskie_centru",
+      "url": "https://konsument.gov.pl/aktualnosci/jakie-sa-spoleczne-realia-europy/",
+      "status": 200,
+      "title": "Jakie są społeczne realia Europy? - Europejskie Centrum Konsumenckie",
+      "char_count": 5813
+    },
+    {
+      "article_id": "ecc_0140_strategia_konsumencka_na_lata_2007_2013_europejski",
+      "url": "https://konsument.gov.pl/aktualnosci/strategia-konsumencka-na-lata-2007-2013/",
+      "status": 200,
+      "title": "Strategia Konsumencka na lata 2007-2013 - Europejskie Centrum Konsumenckie",
+      "char_count": 5380
+    },
+    {
+      "article_id": "ecc_0141_prawa_pasazerow_linii_lotniczych_raport_sieci_euro",
+      "url": "https://konsument.gov.pl/aktualnosci/prawa-pasazerow-linii-lotniczych-raport-sieci-europejskich-centrow-konsumenckich/",
+      "status": 200,
+      "title": "Prawa pasażerów linii lotniczych - raport Sieci Europejskich Centrów Konsumenckich - Europejskie Centrum Konsumenckie",
+      "char_count": 6424
+    },
+    {
+      "article_id": "ecc_0142_zdrowy_start_w_rok_2007_europejski_portal_zdrowie_",
+      "url": "https://konsument.gov.pl/aktualnosci/zdrowy-start-w-rok-2007-europejski-portal-zdrowie-dostepny-w-20-jezykach/",
+      "status": 200,
+      "title": "Zdrowy start w rok 2007 - Europejski Portal Zdrowie dostępny w 20 językach - Europejskie Centrum Konsumenckie",
+      "char_count": 2223
+    },
+    {
+      "article_id": "ecc_0143_europejscy_detalisci_obawiaja_sie_sprzedazy_zagran",
+      "url": "https://konsument.gov.pl/aktualnosci/europejscy-detalisci-obawiaja-sie-sprzedazy-zagranicznej/",
+      "status": 200,
+      "title": "Europejscy detaliści obawiają się sprzedaży zagranicznej - Europejskie Centrum Konsumenckie",
+      "char_count": 886
+    },
+    {
+      "article_id": "ecc_0144_wspopraca_w_zakresie_ochrony_konsumentow_europejsk",
+      "url": "https://konsument.gov.pl/aktualnosci/wspolpraca-w-zakresie-ochrony-konsumentow/",
+      "status": 200,
+      "title": "Współpraca w zakresie ochrony konsumentów - Europejskie Centrum Konsumenckie",
+      "char_count": 1040
+    },
+    {
+      "article_id": "ecc_0145_pozwy_zbiorowe_uatwia_zycie_konsumentow_europejski",
+      "url": "https://konsument.gov.pl/aktualnosci/pozwy-zbiorowe-ulatwia-zycie-konsumentow/",
+      "status": 200,
+      "title": "Pozwy zbiorowe ułatwią życie konsumentów - Europejskie Centrum Konsumenckie",
+      "char_count": 293
+    },
+    {
+      "article_id": "ecc_0146_nie_bedzie_penego_zwrotu_akcyzy_na_uzywane_auta_eu",
+      "url": "https://konsument.gov.pl/aktualnosci/nie-bedzie-pelnego-zwrotu-akcyzy-na-uzywane-auta/",
+      "status": 200,
+      "title": "Nie będzie pełnego zwrotu akcyzy na używane auta - Europejskie Centrum Konsumenckie",
+      "char_count": 678
+    },
+    {
+      "article_id": "ecc_0147_zimowe_wyprzedaze_w_europie_europejskie_centrum_ko",
+      "url": "https://konsument.gov.pl/aktualnosci/zimowe-wyprzedaze-w-europie/",
+      "status": 200,
+      "title": "Zimowe wyprzedaże w Europie - Europejskie Centrum Konsumenckie",
+      "char_count": 4746
+    },
+    {
+      "article_id": "ecc_0148_nowi_czonkowie_nowe_centra_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/nowi-czlonkowie-nowe-centra/",
+      "status": 200,
+      "title": "Nowi członkowie - nowe Centra - Europejskie Centrum Konsumenckie",
+      "char_count": 402
+    },
+    {
+      "article_id": "ecc_0149_swiateczne_zakupy_w_internecie_europejskie_centrum",
+      "url": "https://konsument.gov.pl/aktualnosci/swiateczne-zakupy-w-internecie/",
+      "status": 200,
+      "title": "Świąteczne zakupy w Internecie - Europejskie Centrum Konsumenckie",
+      "char_count": 4237
+    },
+    {
+      "article_id": "ecc_0150_pyny_w_bagazu_podrecznym_nowe_przepisy_wprowadzone",
+      "url": "https://konsument.gov.pl/aktualnosci/plyny-w-bagazu-podrecznym-nowe-przepisy-wprowadzone-przez-komisje-europejska/",
+      "status": 200,
+      "title": "Płyny w bagażu podręcznym - nowe przepisy wprowadzone przez Komisję Europejską - Europejskie Centrum Konsumenckie",
+      "char_count": 3023
+    },
+    {
+      "article_id": "ecc_0151_zobacz_jak_dziaa_siec_europejskich_centrow_konsume",
+      "url": "https://konsument.gov.pl/aktualnosci/zobacz-jak-dziala-siec-europejskich-centrow-konsumenckich/",
+      "status": 200,
+      "title": "Zobacz jak działa sieć Europejskich Centrów Konsumenckich! - Europejskie Centrum Konsumenckie",
+      "char_count": 305
+    },
+    {
+      "article_id": "ecc_0152_supermarkety_moga_sie_porownywac_europejskie_centr",
+      "url": "https://konsument.gov.pl/aktualnosci/supermarkety-moga-sie-porownywac/",
+      "status": 200,
+      "title": "Supermarkety mogą się porównywać - Europejskie Centrum Konsumenckie",
+      "char_count": 1093
+    },
+    {
+      "article_id": "ecc_0153_portal_ue_zdrowie_juz_po_polsku_europejskie_centru",
+      "url": "https://konsument.gov.pl/aktualnosci/portal-ue-zdrowie-juz-po-polsku/",
+      "status": 200,
+      "title": "Portal UE - \"Zdrowie\" - już po polsku - Europejskie Centrum Konsumenckie",
+      "char_count": 577
+    },
+    {
+      "article_id": "ecc_0154_eck_na_targach_turystycznych_europejskie_centrum_k",
+      "url": "https://konsument.gov.pl/aktualnosci/eck-na-targach-turystycznych/",
+      "status": 200,
+      "title": "\"ECK na targach turystycznych\" - Europejskie Centrum Konsumenckie",
+      "char_count": 742
+    },
+    {
+      "article_id": "ecc_0155_wywiad_z_panem_robertem_madelin_na_temat_otyosci_e",
+      "url": "https://konsument.gov.pl/aktualnosci/wywiad-z-panem-robertem-madelin-na-temat-otylosci/",
+      "status": 200,
+      "title": "Wywiad z panem Robertem Madelin na temat otyłości - Europejskie Centrum Konsumenckie",
+      "char_count": 643
+    },
+    {
+      "article_id": "ecc_0156_ue_producenci_kosmetykow_zobowiazani_do_informowan",
+      "url": "https://konsument.gov.pl/aktualnosci/ue-producenci-kosmetykow-zobowiazani-do-informowania-o-ich-skladzie/",
+      "status": 200,
+      "title": "UE/ Producenci kosmetyków zobowiązani do informowania o ich składzie - Europejskie Centrum Konsumenckie",
+      "char_count": 2101
+    },
+    {
+      "article_id": "ecc_0157_specjalne_srodki_ostroznosci_na_brytyjskich_lotnis",
+      "url": "https://konsument.gov.pl/aktualnosci/specjalne-srodki-ostroznosci-na-brytyjskich-lotniskach/",
+      "status": 200,
+      "title": "Specjalne środki ostrożności na brytyjskich lotniskach - Europejskie Centrum Konsumenckie",
+      "char_count": 720
+    },
+    {
+      "article_id": "ecc_0158_swiadczenie_usug_zdrowotnych_w_unii_europejskiej_e",
+      "url": "https://konsument.gov.pl/aktualnosci/swiadczenie-uslug-zdrowotnych-w-unii-europejskiej/",
+      "status": 200,
+      "title": "ŚWIADCZENIE USŁUG ZDROWOTNYCH W UNII EUROPEJSKIEJ - Europejskie Centrum Konsumenckie",
+      "char_count": 1882
+    },
+    {
+      "article_id": "ecc_0159_wyprzedaze_w_europie_ap_okazje_europejskie_centrum",
+      "url": "https://konsument.gov.pl/aktualnosci/wyprzedaze-w-europie-lap-okazje/",
+      "status": 200,
+      "title": "Wyprzedaże w Europie - łap okazję! - Europejskie Centrum Konsumenckie",
+      "char_count": 2005
+    },
+    {
+      "article_id": "ecc_0160_wakacje_bez_stresu_europejski_poradnik_konsumenta_",
+      "url": "https://konsument.gov.pl/aktualnosci/wakacje-bez-stresu-europejski-poradnik-konsumenta/",
+      "status": 200,
+      "title": "WAKACJE BEZ STRESU - EUROPEJSKI PORADNIK KONSUMENTA - Europejskie Centrum Konsumenckie",
+      "char_count": 522
+    },
+    {
+      "article_id": "ecc_0161_komisja_europejska_uruchamia_nowy_portal_zdrowia_e",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-europejska-uruchamia-nowy-portal-zdrowia/",
+      "status": 200,
+      "title": "Komisja Europejska uruchamia nowy Portal Zdrowia - Europejskie Centrum Konsumenckie",
+      "char_count": 2427
+    },
+    {
+      "article_id": "ecc_0162_europejskie_centrum_konsumenckie_jest_partnerem_se",
+      "url": "https://konsument.gov.pl/aktualnosci/europejskie-centrum-konsumenckie-jest-partnerem-serwisu-bezpieczne-zakupy-w-sieci/",
+      "status": 200,
+      "title": "\"Europejskie Centrum Konsumenckie \" jest partnerem serwisu \"Bezpieczne zakupy w sieci\" - Europejskie Centrum Konsumencki",
+      "char_count": 1170
+    },
+    {
+      "article_id": "ecc_0163_komisja_europejska_chce_poznac_twoja_opinie_europe",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-europejska-chce-poznac-twoja-opinie/",
+      "status": 200,
+      "title": "Komisja Europejska chce poznać twoją opinię! - Europejskie Centrum Konsumenckie",
+      "char_count": 451
+    },
+    {
+      "article_id": "ecc_0164_wyjezdzasz_do_niemiec_na_mundial_skorzystaj_z_nasz",
+      "url": "https://konsument.gov.pl/aktualnosci/wyjezdzasz-do-niemiec-na-mundial-skorzystaj-z-naszego-mini-przewodnika/",
+      "status": 200,
+      "title": "Wyjeżdżasz do Niemiec na Mundial? Skorzystaj z naszego mini-przewodnika. - Europejskie Centrum Konsumenckie",
+      "char_count": 15432
+    },
+    {
+      "article_id": "ecc_0165_fifa_world_cup_2006_europejskie_centrum_konsumenck",
+      "url": "https://konsument.gov.pl/aktualnosci/fifa-world-cup-2006/",
+      "status": 200,
+      "title": "FIFA World Cup 2006 - Europejskie Centrum Konsumenckie",
+      "char_count": 3596
+    },
+    {
+      "article_id": "ecc_0166_spotkaj_sie_z_eck_na_targach_lato_2006_europejskie",
+      "url": "https://konsument.gov.pl/aktualnosci/spotkaj-sie-z-eck-na-targach-lato-2006/",
+      "status": 200,
+      "title": "Spotkaj się z ECK na Targach LATO 2006! - Europejskie Centrum Konsumenckie",
+      "char_count": 442
+    },
+    {
+      "article_id": "ecc_0167_zyczenia_wielkanocne_europejskie_centrum_konsumenc",
+      "url": "https://konsument.gov.pl/aktualnosci/zyczenia-wielkanocne/",
+      "status": 200,
+      "title": "Życzenia wielkanocne - Europejskie Centrum Konsumenckie",
+      "char_count": 458
+    },
+    {
+      "article_id": "ecc_0168_tansza_karta_pojazdu_europejskie_centrum_konsumenc",
+      "url": "https://konsument.gov.pl/aktualnosci/tansza-karta-pojazdu/",
+      "status": 200,
+      "title": "Tańsza karta pojazdu - Europejskie Centrum Konsumenckie",
+      "char_count": 736
+    },
+    {
+      "article_id": "ecc_0169_problemy_przy_zakupie_uzywanego_auta_w_niemczech_e",
+      "url": "https://konsument.gov.pl/aktualnosci/problemy-przy-zakupie-uzywanego-auta-w-niemczech/",
+      "status": 200,
+      "title": "Problemy przy zakupie używanego auta w Niemczech - Europejskie Centrum Konsumenckie",
+      "char_count": 2011
+    },
+    {
+      "article_id": "ecc_0170_wykady_otwarte_europejskiego_centrum_konsumenckieg",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklady-otwarte-europejskiego-centrum-konsumenckiego-w-centrum-informacji-europejskiej/",
+      "status": 200,
+      "title": "Wykłady otwarte Europejskiego Centrum Konsumenckiego w Centrum Informacji Europejskiej - Europejskie Centrum Konsumencki",
+      "char_count": 509
+    },
+    {
+      "article_id": "ecc_0171_swiatowy_dzien_konsumenta_europejskie_centrum_kons",
+      "url": "https://konsument.gov.pl/aktualnosci/swiatowy-dzien-konsumenta/",
+      "status": 200,
+      "title": "Światowy Dzień Konsumenta - Europejskie Centrum Konsumenckie",
+      "char_count": 782
+    },
+    {
+      "article_id": "ecc_0172_eck_wspiera_polskich_kibicow_wyjezdzajacych_na_xx_",
+      "url": "https://konsument.gov.pl/aktualnosci/eck-wspiera-polskich-kibicow-wyjezdzajacych-na-xx-zimowa-olimpiade-w-turynie/",
+      "status": 200,
+      "title": "ECK wspiera polskich kibiców wyjeżdżających na XX. Zimową Olimpiadę w Turynie. - Europejskie Centrum Konsumenckie",
+      "char_count": 980
+    },
+    {
+      "article_id": "ecc_0173_od_1_stycznia_2006_r_za_pojazd_wprowadzony_na_tery",
+      "url": "https://konsument.gov.pl/aktualnosci/od-1-stycznia-2006-r-za-pojazd-wprowadzony-na-terytorium-polski-nalezy-uiscic-dodatkowa-oplate/",
+      "status": 200,
+      "title": "Od 1 stycznia 2006 r. za pojazd wprowadzony na terytorium Polski należy uiścić dodatkową opłatę! - Europejskie Centrum K",
+      "char_count": 1027
+    },
+    {
+      "article_id": "ecc_0174_konsumenci_nie_sa_piratami_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/konsumenci-nie-sa-piratami/",
+      "status": 200,
+      "title": "Konsumenci nie są piratami! - Europejskie Centrum Konsumenckie",
+      "char_count": 477
+    },
+    {
+      "article_id": "ecc_0175_uzywasz_telefonu_komorkowego_za_granica_wybierz_na",
+      "url": "https://konsument.gov.pl/aktualnosci/uzywasz-telefonu-komorkowego-za-granica-wybierz-najlepszy-roaming/",
+      "status": 200,
+      "title": "Używasz telefonu komórkowego za granicą - wybierz najlepszy roaming - Europejskie Centrum Konsumenckie",
+      "char_count": 720
+    },
+    {
+      "article_id": "ecc_0176_spotkanie_eck_z_inspekcja_handlowa_europejskie_cen",
+      "url": "https://konsument.gov.pl/aktualnosci/spotkanie-eck-z-inspekcja-handlowa/",
+      "status": 200,
+      "title": "Spotkanie ECK z Inspekcją Handlową - Europejskie Centrum Konsumenckie",
+      "char_count": 826
+    },
+    {
+      "article_id": "ecc_0177_francja_czarna_lista_przewoznikow_lotniczych_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/francja-czarna-lista-przewoznikow-lotniczych/",
+      "status": 200,
+      "title": "Francja: Czarna lista przewoźników lotniczych - Europejskie Centrum Konsumenckie",
+      "char_count": 853
+    },
+    {
+      "article_id": "ecc_0178_pacacy_karta_za_granica_polacy_najczesciej_dokonuj",
+      "url": "https://konsument.gov.pl/aktualnosci/placacy-karta-za-granica-polacy-najczesciej-dokonuja-transakcji-w-krajach-strefy-euro/",
+      "status": 200,
+      "title": "Płacący kartą za granicą Polacy najczęściej dokonują transakcji w krajach strefy euro - Europejskie Centrum Konsumenckie",
+      "char_count": 2745
+    },
+    {
+      "article_id": "ecc_0179_konferencja_prasowa_29_czerwca_br_europejskie_cent",
+      "url": "https://konsument.gov.pl/aktualnosci/konferencja-prasowa-29-czerwca-br/",
+      "status": 200,
+      "title": "Konferencja prasowa 29 czerwca br. - Europejskie Centrum Konsumenckie",
+      "char_count": 552
+    },
+    {
+      "article_id": "ecc_0180_nawiazanie_wspopracy_eck_z_siecia_solvit_europejsk",
+      "url": "https://konsument.gov.pl/aktualnosci/nawiazanie-wspolpracy-eck-z-siecia-solvit/",
+      "status": 200,
+      "title": "Nawiązanie współpracy ECK z Siecią SOLVIT - Europejskie Centrum Konsumenckie",
+      "char_count": 956
+    },
+    {
+      "article_id": "ecc_0181_oznaczenia_na_artykuach_zywnosciowych_europejskie_",
+      "url": "https://konsument.gov.pl/aktualnosci/oznaczenia-na-artykulach-zywnosciowych/",
+      "status": 200,
+      "title": "Oznaczenia na artykułach żywnościowych - Europejskie Centrum Konsumenckie",
+      "char_count": 895
+    },
+    {
+      "article_id": "ecc_0182_ulotki_informacyjne_shopping_in_europe_europejskie",
+      "url": "https://konsument.gov.pl/aktualnosci/ulotki-informacyjne-shopping-in-europe/",
+      "status": 200,
+      "title": "Ulotki informacyjne \"Shopping in Europe\" - Europejskie Centrum Konsumenckie",
+      "char_count": 421
+    },
+    {
+      "article_id": "ecc_0183_o_dziaalnosci_eck_w_programie_telewizyjnym_konsume",
+      "url": "https://konsument.gov.pl/aktualnosci/o-dzialalnosci-eck-w-programie-telewizyjnym-konsument/",
+      "status": 200,
+      "title": "O działalności ECK w programie telewizyjnym \"Konsument\" - Europejskie Centrum Konsumenckie",
+      "char_count": 846
+    },
+    {
+      "article_id": "ecc_0184_dyzur_telefoniczny_ekspertow_eck_europejskie_centr",
+      "url": "https://konsument.gov.pl/aktualnosci/dyzur-telefoniczny-ekspertow-eck/",
+      "status": 200,
+      "title": "Dyżur telefoniczny ekspertów ECK - Europejskie Centrum Konsumenckie",
+      "char_count": 744
+    },
+    {
+      "article_id": "ecc_0185_otwarcie_europejskiego_centrum_konsumenckiego_euro",
+      "url": "https://konsument.gov.pl/aktualnosci/otwarcie-europejskiego-centrum-konsumenckiego/",
+      "status": 200,
+      "title": "Otwarcie Europejskiego Centrum Konsumenckiego - Europejskie Centrum Konsumenckie",
+      "char_count": 2478
+    },
+    {
+      "article_id": "ecc_0186_dzien_bezpiecznego_internetu_europejskie_centrum_k",
+      "url": "https://konsument.gov.pl/aktualnosci/dzien-bezpiecznego-internetu/",
+      "status": 200,
+      "title": "Dzień Bezpiecznego Internetu - Europejskie Centrum Konsumenckie",
+      "char_count": 4010
+    },
+    {
+      "article_id": "ecc_0187_zakaz_stosowania_fumaranu_dimetylu_dmf_w_produktac",
+      "url": "https://konsument.gov.pl/aktualnosci/zakaz-stosowania-fumaranu-dimetylu-dmf-w-produktach-konsumpcyjnych/",
+      "status": 200,
+      "title": "Zakaz stosowania fumaranu dimetylu (DMF) w produktach konsumpcyjnych - Europejskie Centrum Konsumenckie",
+      "char_count": 3125
+    },
+    {
+      "article_id": "ecc_0188_komisja_europejska_ostrzega_konsumentow_przed_nieb",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-europejska-ostrzega-konsumentow-przed-niebezpiecznymi-wiazaniami-narciarskimi/",
+      "status": 200,
+      "title": "Komisja europejska ostrzega konsumentów przed niebezpiecznymi wiązaniami narciarskimi - Europejskie Centrum Konsumenckie",
+      "char_count": 1451
+    },
+    {
+      "article_id": "ecc_0189_bezpieczne_zapalniczki_w_unii_europejskiej_europej",
+      "url": "https://konsument.gov.pl/aktualnosci/bezpieczne-zapalniczki-w-unii-europejskiej/",
+      "status": 200,
+      "title": "Bezpieczne zapalniczki w Unii Europejskiej - Europejskie Centrum Konsumenckie",
+      "char_count": 1080
+    },
+    {
+      "article_id": "ecc_0190_mediacja_oraz_cywilne_i_handlowe_spory_transgranic",
+      "url": "https://konsument.gov.pl/aktualnosci/mediacja-oraz-cywilne-i-handlowe-spory-transgraniczne-dyrektywa-2008-52-we/",
+      "status": 200,
+      "title": "Mediacja oraz cywilne i handlowe spory transgraniczne: Dyrektywa 2008/52/WE - Europejskie Centrum Konsumenckie",
+      "char_count": 1417
+    },
+    {
+      "article_id": "ecc_0191_czescy_konsumenci_otrzymali_nowy_instrument_ochron",
+      "url": "https://konsument.gov.pl/aktualnosci/czescy-konsumenci-otrzymali-nowy-instrument-ochrony/",
+      "status": 200,
+      "title": "Czescy konsumenci otrzymali nowy instrument ochrony - Europejskie Centrum Konsumenckie",
+      "char_count": 2027
+    },
+    {
+      "article_id": "ecc_0192_inauguracja_sadu_polubownego_przy_knf_europejskie_",
+      "url": "https://konsument.gov.pl/aktualnosci/inauguracja-sadu-polubownego-przy-knf/",
+      "status": 200,
+      "title": "Inauguracja Sądu Polubownego przy KNF - Europejskie Centrum Konsumenckie",
+      "char_count": 1893
+    },
+    {
+      "article_id": "ecc_0193_reorganization_of_the_trade_inspection_authority_e",
+      "url": "https://konsument.gov.pl/aktualnosci/reorganization-of-the-trade-inspection-authority/",
+      "status": 200,
+      "title": "Reorganization of the Trade Inspection authority - Europejskie Centrum Konsumenckie",
+      "char_count": 1514
+    },
+    {
+      "article_id": "ecc_0194_konsument_po_wakacjach_gdzie_sie_zgosic_z_wakacyjn",
+      "url": "https://konsument.gov.pl/aktualnosci/konsument-po-wakacjach-gdzie-sie-zglosic-z-wakacyjnym-problemem/",
+      "status": 200,
+      "title": "Konsument po wakacjach... gdzie się zgłosić z wakacyjnym problemem? - Europejskie Centrum Konsumenckie",
+      "char_count": 1943
+    },
+    {
+      "article_id": "ecc_0195_nowa_dyrektywa_ue_w_sprawie_praw_konsumentow_prace",
+      "url": "https://konsument.gov.pl/aktualnosci/nowa-dyrektywa-ue-w-sprawie-praw-konsumentow-prace-w-toku/",
+      "status": 200,
+      "title": "Nowa dyrektywa UE w sprawie praw konsumentów - prace w toku - Europejskie Centrum Konsumenckie",
+      "char_count": 3949
+    },
+    {
+      "article_id": "ecc_0196_odszkodowania_od_skyeurope_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/odszkodowania-od-skyeurope/",
+      "status": 200,
+      "title": "Odszkodowania od SkyEurope - Europejskie Centrum Konsumenckie",
+      "char_count": 1964
+    },
+    {
+      "article_id": "ecc_0197_zdrowie_i_ochrona_konsumentow_w_europie_otwarta_de",
+      "url": "https://konsument.gov.pl/aktualnosci/zdrowie-i-ochrona-konsumentow-w-europie-otwarta-debata-online-od-14-wrzesnia-do-9-pazdziernika-2009/",
+      "status": 200,
+      "title": "Zdrowie i ochrona konsumentów w Europie - otwarta debata online od 14 września do 9 października 2009 - Europejskie Cent",
+      "char_count": 1315
+    },
+    {
+      "article_id": "ecc_0198_reelekcja_komisarza_jose_manuel_barroso_europejski",
+      "url": "https://konsument.gov.pl/aktualnosci/reelekcja-komisarza-jose-manuel-barroso/",
+      "status": 200,
+      "title": "Reelekcja komisarza Jose Manuel Barroso - Europejskie Centrum Konsumenckie",
+      "char_count": 474
+    },
+    {
+      "article_id": "ecc_0199_eck_polska_na_xvii_miedzynarodowych_targach_turyst",
+      "url": "https://konsument.gov.pl/aktualnosci/eck-polska-na-xvii-miedzynarodowych-targach-turystycznych-tt-warsaw/",
+      "status": 200,
+      "title": "ECK Polska na XVII Międzynarodowych Targach Turystycznych TT Warsaw - Europejskie Centrum Konsumenckie",
+      "char_count": 638
+    },
+    {
+      "article_id": "ecc_0200_komisja_krytykuje_w_swoim_sprawozdaniu_niejasny_sy",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-krytykuje-w-swoim-sprawozdaniu-niejasny-system-oplat-bankowych/",
+      "status": 200,
+      "title": "Komisja krytykuje w swoim sprawozdaniu niejasny system opłat bankowych - Europejskie Centrum Konsumenckie",
+      "char_count": 6610
+    },
+    {
+      "article_id": "ecc_0201_irlandzkie_tak_dla_traktatu_z_lizbony_europejskie_",
+      "url": "https://konsument.gov.pl/aktualnosci/irlandzkie-tak-dla-traktatu-z-lizbony/",
+      "status": 200,
+      "title": "Irlandzkie \"tak\" dla Traktatu z Lizbony - Europejskie Centrum Konsumenckie",
+      "char_count": 458
+    },
+    {
+      "article_id": "ecc_0202_nowy_rzecznik_praw_pacjenta_w_polsce_europejskie_c",
+      "url": "https://konsument.gov.pl/aktualnosci/nowy-rzecznik-praw-pacjenta-w-polsce/",
+      "status": 200,
+      "title": "Nowy rzecznik praw pacjenta w Polsce - Europejskie Centrum Konsumenckie",
+      "char_count": 1265
+    },
+    {
+      "article_id": "ecc_0203_nowelizacja_ustawy_o_jezyku_polskim_europejskie_ce",
+      "url": "https://konsument.gov.pl/aktualnosci/nowelizacja-ustawy-o-jezyku-polskim/",
+      "status": 200,
+      "title": "Nowelizacja ustawy o języku polskim - Europejskie Centrum Konsumenckie",
+      "char_count": 3152
+    },
+    {
+      "article_id": "ecc_0204_wykad_odpowiedzialnosc_za_szkode_wyrzadzona_przez_",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-odpowiedzialnosc-za-szkode-wyrzadzona-przez-produkt-niebezpieczny-a-bezpieczenstwo-produktow/",
+      "status": 200,
+      "title": "Wykład: Odpowiedzialność za szkodę wyrządzoną przez produkt niebezpieczny a bezpieczeństwo produktów - Europejskie Centr",
+      "char_count": 508
+    },
+    {
+      "article_id": "ecc_0205_najnowszy_raport_o_opatach_pobieranych_przez_linie",
+      "url": "https://konsument.gov.pl/aktualnosci/najnowszy-raport-o-oplatach-pobieranych-przez-linie-lotnicze/",
+      "status": 200,
+      "title": "Najnowszy raport o opłatach pobieranych przez linie lotnicze - Europejskie Centrum Konsumenckie",
+      "char_count": 1894
+    },
+    {
+      "article_id": "ecc_0206_wykad_konsekwencje_odstapienia_od_umowy_o_charakte",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-konsekwencje-odstapienia-od-umowy-o-charakterze-transgranicznym/",
+      "status": 200,
+      "title": "Wykład: Konsekwencje odstąpienia od umowy o charakterze transgranicznym - Europejskie Centrum Konsumenckie",
+      "char_count": 426
+    },
+    {
+      "article_id": "ecc_0207_budowanie_zaufania_konsumenta_w_sieci_samoregulacj",
+      "url": "https://konsument.gov.pl/aktualnosci/budowanie-zaufania-konsumenta-w-sieci-samoregulacja-gospodarki-elektronicznej/",
+      "status": 200,
+      "title": "Budowanie zaufania konsumenta w sieci - samoregulacja gospodarki elektronicznej - Europejskie Centrum Konsumenckie",
+      "char_count": 2572
+    },
+    {
+      "article_id": "ecc_0208_wykad_obowiazki_informacyjne_przedsiebiorcow_przy_",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-obowiazki-informacyjne-przedsiebiorcow-przy-zawieraniu-umow-na-odleglosc/",
+      "status": 200,
+      "title": "Wykład \"Obowiązki informacyjne przedsiębiorców przy zawieraniu umów na odległość\" - Europejskie Centrum Konsumenckie",
+      "char_count": 458
+    },
+    {
+      "article_id": "ecc_0209_nowa_komisja_ue_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/nowa-komisja-ue/",
+      "status": 200,
+      "title": "Nowa Komisja UE - Europejskie Centrum Konsumenckie",
+      "char_count": 2510
+    },
+    {
+      "article_id": "ecc_0210_koleja_po_europie_nowe_prawa_a_w_razie_problemow_p",
+      "url": "https://konsument.gov.pl/aktualnosci/koleja-po-europie-nowe-prawa-a-w-razie-problemow-pomoc-eck-polska/",
+      "status": 200,
+      "title": "Koleją po Europie - nowe prawa, a w razie problemów - pomoc ECK Polska - Europejskie Centrum Konsumenckie",
+      "char_count": 5870
+    },
+    {
+      "article_id": "ecc_0211_centralwings_bankruptcy_europejskie_centrum_konsum",
+      "url": "https://konsument.gov.pl/aktualnosci/centralwings-bankruptcy/",
+      "status": 200,
+      "title": "Centralwings bankruptcy - Europejskie Centrum Konsumenckie",
+      "char_count": 744
+    },
+    {
+      "article_id": "ecc_0212_amendment_to_the_polish_language_act_europejskie_c",
+      "url": "https://konsument.gov.pl/aktualnosci/amendment-to-the-polish-language-act/",
+      "status": 200,
+      "title": "Amendment to the Polish Language Act - Europejskie Centrum Konsumenckie",
+      "char_count": 1410
+    },
+    {
+      "article_id": "ecc_0213_klasyfikacja_obiektow_hotelowych_w_ue_raport_sieci",
+      "url": "https://konsument.gov.pl/aktualnosci/klasyfikacja-obiektow-hotelowych-w-ue-raport-sieci-ecc-net/",
+      "status": 200,
+      "title": "Klasyfikacja obiektów hotelowych w UE – Raport sieci ECC-Net - Europejskie Centrum Konsumenckie",
+      "char_count": 4648
+    },
+    {
+      "article_id": "ecc_0214_swiateczne_zakupy_w_sieci_skad_informacje_i_gdzie_",
+      "url": "https://konsument.gov.pl/aktualnosci/swiateczne-zakupy-w-sieci-skad-informacje-i-gdzie-zglosic-problem/",
+      "status": 200,
+      "title": "Świąteczne zakupy w sieci… skąd informacje i gdzie zgłosić problem? - Europejskie Centrum Konsumenckie",
+      "char_count": 5703
+    },
+    {
+      "article_id": "ecc_0215_najnowsze_raporty_dotyczace_sklepow_internetowych_",
+      "url": "https://konsument.gov.pl/aktualnosci/najnowsze-raporty-dotyczace-sklepow-internetowych-w-polsce/",
+      "status": 200,
+      "title": "Najnowsze raporty dotyczące sklepów internetowych w Polsce - Europejskie Centrum Konsumenckie",
+      "char_count": 2286
+    },
+    {
+      "article_id": "ecc_0216_europejskie_centrum_konsumenckie_poszukuje_asysten",
+      "url": "https://konsument.gov.pl/aktualnosci/europejskie-centrum-konsumenckie-poszukuje-asystenta-prawnego/",
+      "status": 200,
+      "title": "Europejskie Centrum Konsumenckie poszukuje Asystenta Prawnego - Europejskie Centrum Konsumenckie",
+      "char_count": 642
+    },
+    {
+      "article_id": "ecc_0217_dzien_europy_2010_pomoz_nam_wybrac_najlepszy_plaka",
+      "url": "https://konsument.gov.pl/aktualnosci/dzien-europy-2010-pomoz-nam-wybrac-najlepszy-plakat/",
+      "status": 200,
+      "title": "Dzień Europy 2010 — pomóż nam wybrać najlepszy plakat! - Europejskie Centrum Konsumenckie",
+      "char_count": 1430
+    },
+    {
+      "article_id": "ecc_0218_design_a_poster_for_europe_day_2010_help_us_choose",
+      "url": "https://konsument.gov.pl/aktualnosci/design-a-poster-for-europe-day-2010-help-us-choose-a-winner/",
+      "status": 200,
+      "title": "Design a poster for Europe Day 2010: help us choose a winner! - Europejskie Centrum Konsumenckie",
+      "char_count": 1410
+    },
+    {
+      "article_id": "ecc_0219_wykad_nieuczciwe_praktyki_rynkowe_w_promocji_i_rek",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-nieuczciwe-praktyki-rynkowe-w-promocji-i-reklamie/",
+      "status": 200,
+      "title": "Wykład \"Nieuczciwe praktyki rynkowe w promocji i reklamie\" - Europejskie Centrum Konsumenckie",
+      "char_count": 443
+    },
+    {
+      "article_id": "ecc_0220_zamkniecie_postepowania_upadosciowego_sky_europe_e",
+      "url": "https://konsument.gov.pl/aktualnosci/zamkniecie-postepowania-upadlosciowego-sky-europe/",
+      "status": 200,
+      "title": "ZAMKNIĘCIE POSTĘPOWANIA UPADŁOŚCIOWEGO SKY EUROPE - Europejskie Centrum Konsumenckie",
+      "char_count": 1386
+    },
+    {
+      "article_id": "ecc_0221_wykad_pozycja_pacjenta_na_rynku_wspolnotowym_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-pozycja-pacjenta-na-rynku-wspolnotowym/",
+      "status": 200,
+      "title": "Wykład \"Pozycja pacjenta na rynku wspólnotowym\" - Europejskie Centrum Konsumenckie",
+      "char_count": 434
+    },
+    {
+      "article_id": "ecc_0222_wykad_prawa_pasazerow_linii_lotniczych_w_konteksci",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-prawa-pasazerow-linii-lotniczych-w-kontekscie-skarg-zglaszanych-do-europejskiego-centrum-konsumenckiego/",
+      "status": 200,
+      "title": "Wykład \"Prawa pasażerów linii lotniczych w kontekście skarg zgłaszanych do Europejskiego Centrum Konsumenckiego\" - Europ",
+      "char_count": 502
+    },
+    {
+      "article_id": "ecc_0223_orzeczenia_ets_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/orzeczenia-ets/",
+      "status": 200,
+      "title": "Orzeczenia ETS - Europejskie Centrum Konsumenckie",
+      "char_count": 4194
+    },
+    {
+      "article_id": "ecc_0224_pozwy_grupowe_juz_za_po_roku_europejskie_centrum_k",
+      "url": "https://konsument.gov.pl/aktualnosci/pozwy-grupowe-juz-za-pol-roku/",
+      "status": 200,
+      "title": "Pozwy grupowe – już za pół roku - Europejskie Centrum Konsumenckie",
+      "char_count": 2714
+    },
+    {
+      "article_id": "ecc_0225_report_cross_border_dispute_resolutions_mechanisms",
+      "url": "https://konsument.gov.pl/aktualnosci/report-cross-border-dispute-resolutions-mechanisms-in-europe/",
+      "status": 200,
+      "title": "Report „Cross-border dispute resolutions mechanisms in Europe” - Europejskie Centrum Konsumenckie",
+      "char_count": 1143
+    },
+    {
+      "article_id": "ecc_0226_raport_mechanizmy_rozwiazywania_transgranicznych_s",
+      "url": "https://konsument.gov.pl/aktualnosci/raport-mechanizmy-rozwiazywania-transgranicznych-sporow-konsumenckich-w-europie/",
+      "status": 200,
+      "title": "Raport „Mechanizmy rozwiązywania transgranicznych sporów konsumenckich w Europie” - Europejskie Centrum Konsumenckie",
+      "char_count": 1519
+    },
+    {
+      "article_id": "ecc_0227_parlament_europejski_zatwierdzi_nowa_komisje_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/parlament-europejski-zatwierdzil-nowa-komisje-europejska/",
+      "status": 200,
+      "title": "Parlament Europejski zatwierdził nową Komisję Europejską - Europejskie Centrum Konsumenckie",
+      "char_count": 608
+    },
+    {
+      "article_id": "ecc_0228_i_love_europe_polska_studentka_wygraa_konkurs_na_p",
+      "url": "https://konsument.gov.pl/aktualnosci/i-love-europe-polska-studentka-wygrala-konkurs-na-plakat-promujacy-dzien-europy/",
+      "status": 200,
+      "title": "“I love Europe”- polska studentka wygrała konkurs na plakat promujący Dzień Europy! - Europejskie Centrum Konsumenckie",
+      "char_count": 1193
+    },
+    {
+      "article_id": "ecc_0229_i_love_europe_a_poster_by_polish_student_won_euro_",
+      "url": "https://konsument.gov.pl/aktualnosci/i-love-europe-a-poster-by-polish-student-won-euro-day-competition/",
+      "status": 200,
+      "title": "„I love Europe”- a poster by Polish student won Euro Day competition! - Europejskie Centrum Konsumenckie",
+      "char_count": 1165
+    },
+    {
+      "article_id": "ecc_0230_raport_rzecznika_ubezpieczonych_w_sprawie_skarg_w_",
+      "url": "https://konsument.gov.pl/aktualnosci/raport-rzecznika-ubezpieczonych-w-sprawie-skarg-w-roku-2009/",
+      "status": 200,
+      "title": "Raport Rzecznika Ubezpieczonych w sprawie skarg w roku 2009 - Europejskie Centrum Konsumenckie",
+      "char_count": 1663
+    },
+    {
+      "article_id": "ecc_0231_europejski_szczyt_konsumencki_europejskie_centrum_",
+      "url": "https://konsument.gov.pl/aktualnosci/europejski-szczyt-konsumencki/",
+      "status": 200,
+      "title": "Europejski Szczyt Konsumencki - Europejskie Centrum Konsumenckie",
+      "char_count": 1521
+    },
+    {
+      "article_id": "ecc_0232_na_wakacjach_surfuj_i_rozmawiaj_bez_obaw_ke_nakaza",
+      "url": "https://konsument.gov.pl/aktualnosci/na-wakacjach-surfuj-i-rozmawiaj-bez-obaw-ke-nakazala-obnizenie-cen-w-roamingu/",
+      "status": 200,
+      "title": "Na wakacjach surfuj i rozmawiaj bez obaw: KE nakazała obniżenie cen w roamingu - Europejskie Centrum Konsumenckie",
+      "char_count": 4339
+    },
+    {
+      "article_id": "ecc_0233_targi_wiedzy_konsumenckiej_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/targi-wiedzy-konsumenckiej/",
+      "status": 200,
+      "title": "Targi wiedzy konsumenckiej - Europejskie Centrum Konsumenckie",
+      "char_count": 1295
+    },
+    {
+      "article_id": "ecc_0234_europejski_szczyt_konsumencki_2010_debata_na_miare",
+      "url": "https://konsument.gov.pl/aktualnosci/europejski-szczyt-konsumencki-2010-debata-na-miare-konsumenta-xxi-wieku/",
+      "status": 200,
+      "title": "Europejski Szczyt Konsumencki 2010 – debata na miarę konsumenta XXI wieku - Europejskie Centrum Konsumenckie",
+      "char_count": 2188
+    },
+    {
+      "article_id": "ecc_0235_odwoano_wykad_niedozwolone_klauzule_umowne_z_zakre",
+      "url": "https://konsument.gov.pl/aktualnosci/odwolano-wyklad-niedozwolone-klauzule-umowne-z-zakresu-uslug-ochrony-zdrowia-w-swietle-orzecznictwa-europejskiego/",
+      "status": 200,
+      "title": "ODWOŁANO: Wykład \"Niedozwolone klauzule umowne z zakresu usług ochrony zdrowia w świetle orzecznictwa europejskiego\" - E",
+      "char_count": 390
+    },
+    {
+      "article_id": "ecc_0236_wazne_strony_dla_konsumentow_twoja_europa_oraz_wsp",
+      "url": "https://konsument.gov.pl/aktualnosci/wazne-strony-dla-konsumentow-twoja-europa-oraz-wspolna-strona-sieci-eck/",
+      "status": 200,
+      "title": "Ważne strony dla konsumentów - Twoja Europa oraz wspólna strona Sieci ECK. - Europejskie Centrum Konsumenckie",
+      "char_count": 1412
+    },
+    {
+      "article_id": "ecc_0237_wykad_dyrektywa_usugowa_a_sprawa_konsumencka_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-dyrektywa-uslugowa-a-sprawa-konsumencka/",
+      "status": 200,
+      "title": "Wykład \"Dyrektywa usługowa a sprawa konsumencka\" - Europejskie Centrum Konsumenckie",
+      "char_count": 391
+    },
+    {
+      "article_id": "ecc_0238_zamkniete_lotniska_w_europie_prawa_pasazerow_w_syt",
+      "url": "https://konsument.gov.pl/aktualnosci/zamkniete-lotniska-w-europie-prawa-pasazerow-w-sytuacji-utrudnien-spowodowanych-chmura-pylu-wulkanicznego-znad-islandii/",
+      "status": 200,
+      "title": "Zamknięte lotniska w Europie: Prawa pasażerów w sytuacji utrudnień spowodowanych chmurą pyłu wulkanicznego znad Islandii",
+      "char_count": 1530
+    },
+    {
+      "article_id": "ecc_0239_wykad_oszustwa_konsumenckie_i_sposoby_radzenia_sob",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-oszustwa-konsumenckie-i-sposoby-radzenia-sobie-z-nimi-w-praktyce-europejskiego-centrum-konsumenckiego/",
+      "status": 200,
+      "title": "Wykład \"Oszustwa konsumenckie i sposoby radzenia sobie z nimi w praktyce Europejskiego Centrum Konsumenckiego\" - Europej",
+      "char_count": 479
+    },
+    {
+      "article_id": "ecc_0240_zawieszenie_dziaalnosci_air_comet_europejskie_cent",
+      "url": "https://konsument.gov.pl/aktualnosci/zawieszenie-dzialalnosci-air-comet/",
+      "status": 200,
+      "title": "ZAWIESZENIE DZIAŁALNOŚCI AIR COMET - Europejskie Centrum Konsumenckie",
+      "char_count": 483
+    },
+    {
+      "article_id": "ecc_0241_zapraszamy_na_parade_schumana_8_maja_w_warszawie_e",
+      "url": "https://konsument.gov.pl/aktualnosci/zapraszamy-na-parade-schumana-8-maja-w-warszawie/",
+      "status": 200,
+      "title": "Zapraszamy na Paradę Schumana 8 maja w Warszawie - Europejskie Centrum Konsumenckie",
+      "char_count": 947
+    },
+    {
+      "article_id": "ecc_0242_konkurs_dla_dziennikarzy_czekamy_na_zgoszenia_euro",
+      "url": "https://konsument.gov.pl/aktualnosci/konkurs-dla-dziennikarzy-czekamy-na-zgloszenia/",
+      "status": 200,
+      "title": "KONKURS DLA DZIENNIKARZY: CZEKAMY NA ZGŁOSZENIA - Europejskie Centrum Konsumenckie",
+      "char_count": 1705
+    },
+    {
+      "article_id": "ecc_0243_konsument_w_europie_nie_jest_sam_5_lat_istnienia_e",
+      "url": "https://konsument.gov.pl/aktualnosci/konsument-w-europie-nie-jest-sam-5-lat-istnienia-europejskich-centrow-konsumenckich/",
+      "status": 200,
+      "title": "Konsument w Europie nie jest sam - 5 lat istnienia Europejskich Centrów Konsumenckich - Europejskie Centrum Konsumenckie",
+      "char_count": 3954
+    },
+    {
+      "article_id": "ecc_0244_chmura_pyu_wulkanicznego_siec_europejskich_centrow",
+      "url": "https://konsument.gov.pl/aktualnosci/chmura-pylu-wulkanicznego-siec-europejskich-centrow-konsumenckich-pomaga-pasazerom-w-dochodzeniu-ich-praw/",
+      "status": 200,
+      "title": "Chmura pyłu wulkanicznego: Sieć Europejskich Centrów Konsumenckich pomaga pasażerom w dochodzeniu ich praw - Europejskie",
+      "char_count": 5033
+    },
+    {
+      "article_id": "ecc_0245_wykad_niedozwolone_klauzule_umowne_z_zakresu_usug_",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-niedozwolone-klauzule-umowne-z-zakresu-uslug-ochrony-zdrowia-w-swietle-orzecznictwa-europejskiego/",
+      "status": 200,
+      "title": "Wykład \"Niedozwolone klauzule umowne z zakresu usług ochrony zdrowia w świetle orzecznictwa europejskiego\" - Europejskie",
+      "char_count": 481
+    },
+    {
+      "article_id": "ecc_0246_praktyczne_wskazowki_dla_pasazerow_dotknietych_sku",
+      "url": "https://konsument.gov.pl/aktualnosci/praktyczne-wskazowki-dla-pasazerow-dotknietych-skutkami-zamkniecia-lotnisk-w-ue/",
+      "status": 200,
+      "title": "Praktyczne wskazówki dla pasażerów dotkniętych skutkami zamknięcia lotnisk w UE - Europejskie Centrum Konsumenckie",
+      "char_count": 740
+    },
+    {
+      "article_id": "ecc_0247_py_wulkaniczny_nowe_podejscie_ue_suzace_zminimaliz",
+      "url": "https://konsument.gov.pl/aktualnosci/pyl-wulkaniczny-nowe-podejscie-ue-sluzace-zminimalizowaniu-zaklocen-ruchu-lotniczego/",
+      "status": 200,
+      "title": "Pył wulkaniczny: Nowe podejście UE służące zminimalizowaniu zakłóceń ruchu lotniczego - Europejskie Centrum Konsumenckie",
+      "char_count": 2761
+    },
+    {
+      "article_id": "ecc_0248_european_measures_to_minimise_disruption_caused_by",
+      "url": "https://konsument.gov.pl/aktualnosci/european-measures-to-minimise-disruption-caused-by-volcanic-ash/",
+      "status": 200,
+      "title": "European measures to minimise disruption caused by volcanic ash - Europejskie Centrum Konsumenckie",
+      "char_count": 2363
+    },
+    {
+      "article_id": "ecc_0249_wykad_prawa_i_obowiazki_turysty_na_wakacjach_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-prawa-i-obowiazki-turysty-na-wakacjach/",
+      "status": 200,
+      "title": "Wykład: \"Prawa i obowiązki turysty na wakacjach\" - Europejskie Centrum Konsumenckie",
+      "char_count": 353
+    },
+    {
+      "article_id": "ecc_0250_wideo_5_lat_eck_jak_pomagamy_konsumentom_europejsk",
+      "url": "https://konsument.gov.pl/aktualnosci/wideo-5-lat-eck-jak-pomagamy-konsumentom/",
+      "status": 200,
+      "title": "Wideo: 5 lat ECK - Jak pomagamy konsumentom? - Europejskie Centrum Konsumenckie",
+      "char_count": 2967
+    },
+    {
+      "article_id": "ecc_0251_na_cyprze_potrzebny_paszport_europejskie_centrum_k",
+      "url": "https://konsument.gov.pl/aktualnosci/na-cyprze-potrzebny-paszport/",
+      "status": 200,
+      "title": "Na Cyprze potrzebny paszport - Europejskie Centrum Konsumenckie",
+      "char_count": 611
+    },
+    {
+      "article_id": "ecc_0252_10_przykazan_konsumenta_na_wakacjach_europejskie_c",
+      "url": "https://konsument.gov.pl/aktualnosci/10-przykazan-konsumenta-na-wakacjach/",
+      "status": 200,
+      "title": "10 przykazań konsumenta na wakacjach - Europejskie Centrum Konsumenckie",
+      "char_count": 6442
+    },
+    {
+      "article_id": "ecc_0253_co_zrobic_gdy_nasz_bagaz_zostanie_zniszczony_lub_z",
+      "url": "https://konsument.gov.pl/aktualnosci/co-zrobic-gdy-nasz-bagaz-zostanie-zniszczony-lub-zagubiony-przez-linie-lotnicze/",
+      "status": 200,
+      "title": "Co zrobić, gdy nasz bagaż zostanie zniszczony lub zagubiony przez linie lotnicze? - Europejskie Centrum Konsumenckie",
+      "char_count": 4100
+    },
+    {
+      "article_id": "ecc_0254_wypenij_ankiete_oceniajaca_nasza_dziaalnosc_europe",
+      "url": "https://konsument.gov.pl/aktualnosci/wypelnij-ankiete-oceniajaca-nasza-dzialalnosc/",
+      "status": 200,
+      "title": "WYPEŁNIJ ANKIETĘ OCENIAJĄCĄ NASZĄ DZIAŁALNOŚĆ! - Europejskie Centrum Konsumenckie",
+      "char_count": 895
+    },
+    {
+      "article_id": "ecc_0255_prawa_pasazerow_europie_ke_rozpoczyna_kampanie_inf",
+      "url": "https://konsument.gov.pl/aktualnosci/prawa-pasazerow-europie-ke-rozpoczyna-kampanie-informacyjna/",
+      "status": 200,
+      "title": "Prawa pasażerów Europie: KE rozpoczyna kampanię informacyjną - Europejskie Centrum Konsumenckie",
+      "char_count": 2750
+    },
+    {
+      "article_id": "ecc_0256_kuszace_wyprzedaze_sezonowe_w_europie_gdzie_kiedy_",
+      "url": "https://konsument.gov.pl/aktualnosci/kuszace-wyprzedaze-sezonowe-w-europie-gdzie-kiedy-co-warto-wiedziec/",
+      "status": 200,
+      "title": "Kuszące wyprzedaże sezonowe w Europie: Gdzie? Kiedy? Co warto wiedzieć? - Europejskie Centrum Konsumenckie",
+      "char_count": 5206
+    },
+    {
+      "article_id": "ecc_0257_pozwy_zbiorowe_nowe_prawo_wzmacnia_konsumenta_euro",
+      "url": "https://konsument.gov.pl/aktualnosci/pozwy-zbiorowe-nowe-prawo-wzmacnia-konsumenta/",
+      "status": 200,
+      "title": "Pozwy zbiorowe: Nowe prawo wzmacnia konsumenta - Europejskie Centrum Konsumenckie",
+      "char_count": 2663
+    },
+    {
+      "article_id": "ecc_0258_ryanair_upomniany_za_reklamy_wprowadzajace_w_bad_e",
+      "url": "https://konsument.gov.pl/aktualnosci/ryanair-upomniany-za-reklamy-wprowadzajace-w-blad/",
+      "status": 200,
+      "title": "Ryanair upomniany za reklamy wprowadzające w błąd - Europejskie Centrum Konsumenckie",
+      "char_count": 2077
+    },
+    {
+      "article_id": "ecc_0259_timesharing_oszustwo_czy_okazja_europejskie_centru",
+      "url": "https://konsument.gov.pl/aktualnosci/timesharing-oszustwo-czy-okazja/",
+      "status": 200,
+      "title": "Timesharing: oszustwo czy okazja? - Europejskie Centrum Konsumenckie",
+      "char_count": 6717
+    },
+    {
+      "article_id": "ecc_0260_tabela_frankfurcka_okresl_swoje_roszczenia_wobec_b",
+      "url": "https://konsument.gov.pl/aktualnosci/tabela-frankfurcka-okresl-swoje-roszczenia-wobec-biura-podrozy/",
+      "status": 200,
+      "title": "Tabela Frankfurcka: określ swoje roszczenia wobec biura podróży - Europejskie Centrum Konsumenckie",
+      "char_count": 324
+    },
+    {
+      "article_id": "ecc_0261_sprowadzanie_uzywanych_samochodow_z_niemiec_uwaga_",
+      "url": "https://konsument.gov.pl/aktualnosci/sprowadzanie-uzywanych-samochodow-z-niemiec-uwaga-na-haczyki-w-umowach/",
+      "status": 200,
+      "title": "Sprowadzanie używanych samochodów z Niemiec - uwaga na haczyki w umowach! - Europejskie Centrum Konsumenckie",
+      "char_count": 4565
+    },
+    {
+      "article_id": "ecc_0262_class_actions_the_new_institution_in_the_polish_le",
+      "url": "https://konsument.gov.pl/aktualnosci/class-actions-the-new-institution-in-the-polish-legal-system/",
+      "status": 200,
+      "title": "Class actions: The new institution in the Polish legal system - Europejskie Centrum Konsumenckie",
+      "char_count": 2535
+    },
+    {
+      "article_id": "ecc_0263_8_zasad_wypozyczania_samochodu_podczas_zagraniczny",
+      "url": "https://konsument.gov.pl/aktualnosci/8-zasad-wypozyczania-samochodu-podczas-zagranicznych-wakacji/",
+      "status": 200,
+      "title": "8 zasad wypożyczania samochodu podczas zagranicznych wakacji - Europejskie Centrum Konsumenckie",
+      "char_count": 4786
+    },
+    {
+      "article_id": "ecc_0264_ke_poszerzya_czarna_liste_linii_lotniczych_europej",
+      "url": "https://konsument.gov.pl/aktualnosci/ke-poszerzyla-czarna-liste-linii-lotniczych/",
+      "status": 200,
+      "title": "KE poszerzyła \"czarną listę\" linii lotniczych - Europejskie Centrum Konsumenckie",
+      "char_count": 4466
+    },
+    {
+      "article_id": "ecc_0265_passenger_rights_in_exceptional_situations_q_a_eur",
+      "url": "https://konsument.gov.pl/aktualnosci/passenger-rights-in-exceptional-situations-qa/",
+      "status": 200,
+      "title": "Passenger rights in exceptional situations: Q&A - Europejskie Centrum Konsumenckie",
+      "char_count": 4550
+    },
+    {
+      "article_id": "ecc_0266_commission_updates_list_of_airlines_banned_from_eu",
+      "url": "https://konsument.gov.pl/aktualnosci/commission-updates-list-of-airlines-banned-from-european-airspace/",
+      "status": 200,
+      "title": "Commission updates list of airlines banned from European airspace - Europejskie Centrum Konsumenckie",
+      "char_count": 4186
+    },
+    {
+      "article_id": "ecc_0267_holiday_season_useful_tips_on_transporting_animals",
+      "url": "https://konsument.gov.pl/aktualnosci/holiday-season-useful-tips-on-transporting-animals-food-imports-and-other-issues/",
+      "status": 200,
+      "title": "Holiday season: useful tips on transporting animals, food imports and other issues - Europejskie Centrum Konsumenckie",
+      "char_count": 5548
+    },
+    {
+      "article_id": "ecc_0268_handbook_of_air_passanger_rights_europejskie_centr",
+      "url": "https://konsument.gov.pl/aktualnosci/handbook-of-air-passanger-rights/",
+      "status": 200,
+      "title": "Handbook of air passanger rights - Europejskie Centrum Konsumenckie",
+      "char_count": 10006
+    },
+    {
+      "article_id": "ecc_0269_8_rules_to_rent_a_car_during_your_holiday_abroad_e",
+      "url": "https://konsument.gov.pl/aktualnosci/8-rules-to-rent-a-car-during-your-holiday-abroad/",
+      "status": 200,
+      "title": "8 rules to rent a car during your holiday abroad - Europejskie Centrum Konsumenckie",
+      "char_count": 4478
+    },
+    {
+      "article_id": "ecc_0270_consumers_most_internet_sites_now_safe_to_buy_elec",
+      "url": "https://konsument.gov.pl/aktualnosci/consumers-most-internet-sites-now-safe-to-buy-electronic-goods/",
+      "status": 200,
+      "title": "Consumers: Most internet sites now safe to buy electronic goods - Europejskie Centrum Konsumenckie",
+      "char_count": 4060
+    },
+    {
+      "article_id": "ecc_0271_sprzet_elektroniczny_zakupy_w_sklepach_internetowy",
+      "url": "https://konsument.gov.pl/aktualnosci/sprzet-elektroniczny-zakupy-w-sklepach-internetowych-coraz-bardziej-bezpieczne/",
+      "status": 200,
+      "title": "Sprzęt elektroniczny: zakupy w sklepach internetowych coraz bardziej bezpieczne - Europejskie Centrum Konsumenckie",
+      "char_count": 4852
+    },
+    {
+      "article_id": "ecc_0272_10_commandments_of_the_consumer_on_vacation_europe",
+      "url": "https://konsument.gov.pl/aktualnosci/10-commandments-of-the-consumer-on-vacation/",
+      "status": 200,
+      "title": "10 Commandments of the consumer on vacation - Europejskie Centrum Konsumenckie",
+      "char_count": 6389
+    },
+    {
+      "article_id": "ecc_0273_zapraszamy_na_konferencje_sieci_informacyjne_ue_w_",
+      "url": "https://konsument.gov.pl/aktualnosci/zapraszamy-na-konferencje-sieci-informacyjne-ue-w-polsce-czyli-networking-w-praktyce/",
+      "status": 200,
+      "title": "Zapraszamy na Konferencję \"Sieci informacyjne UE w Polsce, czyli networking w praktyce\" - Europejskie Centrum Konsumenck",
+      "char_count": 5329
+    },
+    {
+      "article_id": "ecc_0274_wykad_otwarty_prawo_do_odstapienia_od_umowy_zawart",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-otwarty-prawo-do-odstapienia-od-umowy-zawartej-na-odleglosc-wyjatki-juz-w-srode/",
+      "status": 200,
+      "title": "Wykład otwarty \"Prawo do odstąpienia od umowy zawartej na odległość - wyjątki\" już w środę! - Europejskie Centrum Konsum",
+      "char_count": 653
+    },
+    {
+      "article_id": "ecc_0275_zakupy_w_internecie_liczba_skarg_rosnie_europejski",
+      "url": "https://konsument.gov.pl/aktualnosci/zakupy-w-internecie-liczba-skarg-rosnie/",
+      "status": 200,
+      "title": "Zakupy w Internecie - liczba skarg rośnie - Europejskie Centrum Konsumenckie",
+      "char_count": 3290
+    },
+    {
+      "article_id": "ecc_0276_materiay_z_wykadu_pt_zobowiazania_konsumenta_powra",
+      "url": "https://konsument.gov.pl/aktualnosci/materialy-z-wykladu-pt-zobowiazania-konsumenta-powracajacego-z-emigracji/",
+      "status": 200,
+      "title": "Materiały z wykładu pt. \"Zobowiązania konsumenta powracającego z emigracji\" - Europejskie Centrum Konsumenckie",
+      "char_count": 486
+    },
+    {
+      "article_id": "ecc_0277_najczestsze_problemy_europejskich_konsumentow_rapo",
+      "url": "https://konsument.gov.pl/aktualnosci/najczestsze-problemy-europejskich-konsumentow-raport-sieci-ecc-net/",
+      "status": 200,
+      "title": "Najczęstsze problemy europejskich konsumentów - Raport Sieci ECC-Net - Europejskie Centrum Konsumenckie",
+      "char_count": 5551
+    },
+    {
+      "article_id": "ecc_0278_rynki_inwestycji_nieruchomosci_i_dostepu_do_intern",
+      "url": "https://konsument.gov.pl/aktualnosci/rynki-inwestycji-nieruchomosci-i-dostepu-do-internetu-nie-spelniaja-oczekiwan-konsumentow/",
+      "status": 200,
+      "title": "Rynki inwestycji, nieruchomości i dostępu do Internetu nie spełniają oczekiwań konsumentów - Europejskie Centrum Konsume",
+      "char_count": 5594
+    },
+    {
+      "article_id": "ecc_0279_european_consumer_centres_5_years_at_the_service_o",
+      "url": "https://konsument.gov.pl/aktualnosci/european-consumer-centres-5-years-at-the-service-of-european-consumers/",
+      "status": 200,
+      "title": "European Consumer Centres - 5 years at the service of European consumers - Europejskie Centrum Konsumenckie",
+      "char_count": 3581
+    },
+    {
+      "article_id": "ecc_0280_zagrozenia_w_internecie_jak_ich_unikac_europejskie",
+      "url": "https://konsument.gov.pl/aktualnosci/zagrozenia-w-internecie-jak-ich-unikac/",
+      "status": 200,
+      "title": "Zagrożenia w Internecie: jak ich unikać? - Europejskie Centrum Konsumenckie",
+      "char_count": 2608
+    },
+    {
+      "article_id": "ecc_0281_investments_real_estate_and_internet_access_among_",
+      "url": "https://konsument.gov.pl/aktualnosci/investments-real-estate-and-internet-access-among-lowest-ranking-consumer-markets/",
+      "status": 200,
+      "title": "Investments, real estate and internet access among lowest ranking consumer markets - Europejskie Centrum Konsumenckie",
+      "char_count": 5159
+    },
+    {
+      "article_id": "ecc_0282_matriay_z_wykadu_pt_bezpieczne_transakcje_w_intern",
+      "url": "https://konsument.gov.pl/aktualnosci/matrialy-z-wykladu-pt-bezpieczne-transakcje-w-internecie-czyli-glowne-zasady-udanych-zakupow/",
+      "status": 200,
+      "title": "Matriały z wykładu pt. \"Bezpieczne transakcje w Internecie - czyli główne zasady udanych zakupów\" - Europejskie Centrum ",
+      "char_count": 308
+    },
+    {
+      "article_id": "ecc_0283_konsument_i_przedsiebiorca_w_europejskiej_sieci_eu",
+      "url": "https://konsument.gov.pl/aktualnosci/konsument-i-przedsiebiorca-w-europejskiej-sieci/",
+      "status": 200,
+      "title": "Konsument i przedsiębiorca w europejskiej sieci - Europejskie Centrum Konsumenckie",
+      "char_count": 6095
+    },
+    {
+      "article_id": "ecc_0284_osrodki_narciarskie_w_europie_2010_2011_europejski",
+      "url": "https://konsument.gov.pl/aktualnosci/osrodki-narciarskie-w-europie-2010-2011/",
+      "status": 200,
+      "title": "Ośrodki narciarskie w Europie 2010/2011 - Europejskie Centrum Konsumenckie",
+      "char_count": 2539
+    },
+    {
+      "article_id": "ecc_0285_unia_europejska_jest_na_wyciagniecie_reki_europejs",
+      "url": "https://konsument.gov.pl/aktualnosci/unia-europejska-jest-na-wyciagniecie-reki/",
+      "status": 200,
+      "title": "Unia Europejska jest na wyciągnięcie ręki! - Europejskie Centrum Konsumenckie",
+      "char_count": 1025
+    },
+    {
+      "article_id": "ecc_0286_mediacja_czyli_jak_szybko_i_tanio_rozwiazac_spor_t",
+      "url": "https://konsument.gov.pl/aktualnosci/mediacja-czyli-jak-szybko-i-tanio-rozwiazac-spor-transgraniczny/",
+      "status": 200,
+      "title": "Mediacja: czyli jak szybko i tanio rozwiązać spór transgraniczny? - Europejskie Centrum Konsumenckie",
+      "char_count": 3269
+    },
+    {
+      "article_id": "ecc_0287_the_eu_is_within_your_grasp_europejskie_centrum_ko",
+      "url": "https://konsument.gov.pl/aktualnosci/the-eu-is-within-your-grasp/",
+      "status": 200,
+      "title": "The EU is within your grasp! - Europejskie Centrum Konsumenckie",
+      "char_count": 902
+    },
+    {
+      "article_id": "ecc_0288_materiay_z_wykadu_swieta_swieta_a_prawa_konsumenta",
+      "url": "https://konsument.gov.pl/aktualnosci/materialy-z-wykladu-swieta-swieta-a-prawa-konsumenta/",
+      "status": 200,
+      "title": "Materiały z wykładu \"Święta, Święta a... prawa konsumenta\" - Europejskie Centrum Konsumenckie",
+      "char_count": 292
+    },
+    {
+      "article_id": "ecc_0289_8_zasad_bezpiecznych_zakupow_online_w_polsce_i_za_",
+      "url": "https://konsument.gov.pl/aktualnosci/8-zasad-bezpiecznych-zakupow-online-w-polsce-i-za-granica/",
+      "status": 200,
+      "title": "8 zasad bezpiecznych zakupów online w Polsce i za granicą - Europejskie Centrum Konsumenckie",
+      "char_count": 5465
+    },
+    {
+      "article_id": "ecc_0290_ruszya_akcja_bezpieczny_e_sklep_europejskie_centru",
+      "url": "https://konsument.gov.pl/aktualnosci/ruszyla-akcja-bezpieczny-e-sklep/",
+      "status": 200,
+      "title": "Ruszyła akcja \"Bezpieczny e-Sklep\" - Europejskie Centrum Konsumenckie",
+      "char_count": 2752
+    },
+    {
+      "article_id": "ecc_0291_przesyaj_bezpiecznie_europejskie_centrum_konsumenc",
+      "url": "https://konsument.gov.pl/aktualnosci/przesylaj-bezpiecznie/",
+      "status": 200,
+      "title": "Przesyłaj bezpiecznie - Europejskie Centrum Konsumenckie",
+      "char_count": 4020
+    },
+    {
+      "article_id": "ecc_0292_jak_rozwiazywac_spory_zyskujac_na_prestizu_i_nie_p",
+      "url": "https://konsument.gov.pl/aktualnosci/jak-rozwiazywac-spory-zyskujac-na-prestizu-i-nie-ponoszac-ryzyka/",
+      "status": 200,
+      "title": "Jak rozwiązywać spory zyskując na prestiżu i nie ponosząc ryzyka? - Europejskie Centrum Konsumenckie",
+      "char_count": 6277
+    },
+    {
+      "article_id": "ecc_0293_dwie_metody_reklamacji_ktora_wybrac_europejskie_ce",
+      "url": "https://konsument.gov.pl/aktualnosci/dwie-metody-reklamacji-ktora-wybrac/",
+      "status": 200,
+      "title": "Dwie metody reklamacji: którą wybrać? - Europejskie Centrum Konsumenckie",
+      "char_count": 6368
+    },
+    {
+      "article_id": "ecc_0294_zapraszamy_na_wykad_praktyczne_aspekty_dochodzenia",
+      "url": "https://konsument.gov.pl/aktualnosci/zapraszamy-na-wyklad-praktyczne-aspekty-dochodzenia-roszczen-od-przewoznikow-lotniczych/",
+      "status": 200,
+      "title": "Zapraszamy na wykład \"Praktyczne aspekty dochodzenia roszczeń od przewoźników lotniczych\" - Europejskie Centrum Konsumen",
+      "char_count": 540
+    },
+    {
+      "article_id": "ecc_0295_konkurs_bezpieczny_esklep_na_pometku_europejskie_c",
+      "url": "https://konsument.gov.pl/aktualnosci/konkurs-bezpieczny-esklep-na-polmetku/",
+      "status": 200,
+      "title": "Konkurs Bezpieczny eSklep na półmetku - Europejskie Centrum Konsumenckie",
+      "char_count": 1591
+    },
+    {
+      "article_id": "ecc_0296_w_ktorych_krajach_posiadanie_opon_zimowych_jest_ob",
+      "url": "https://konsument.gov.pl/aktualnosci/w-ktorych-krajach-posiadanie-opon-zimowych-jest-obowiazkowe/",
+      "status": 200,
+      "title": "W których krajach posiadanie opon zimowych jest obowiązkowe? - Europejskie Centrum Konsumenckie",
+      "char_count": 1095
+    },
+    {
+      "article_id": "ecc_0297_zimowy_poradnik_dla_narciarzy_w_europie_co_warto_w",
+      "url": "https://konsument.gov.pl/aktualnosci/zimowy-poradnik-dla-narciarzy-w-europie-co-warto-wiedziec/",
+      "status": 200,
+      "title": "Zimowy poradnik dla narciarzy w Europie: co warto wiedzieć? - Europejskie Centrum Konsumenckie",
+      "char_count": 8416
+    },
+    {
+      "article_id": "ecc_0298_prawa_turystow_w_zwiazku_z_sytuacja_w_egipcie_euro",
+      "url": "https://konsument.gov.pl/aktualnosci/prawa-turystow-w-zwiazku-z-sytuacja-w-egipcie/",
+      "status": 200,
+      "title": "Prawa turystów w związku z sytuacją w Egipcie - Europejskie Centrum Konsumenckie",
+      "char_count": 2381
+    },
+    {
+      "article_id": "ecc_0299_oszustwa_i_triki_w_cyberprzestrzeni_europejskie_ce",
+      "url": "https://konsument.gov.pl/aktualnosci/oszustwa-i-triki-w-cyberprzestrzeni/",
+      "status": 200,
+      "title": "Oszustwa i triki w cyberprzestrzeni - Europejskie Centrum Konsumenckie",
+      "char_count": 6038
+    },
+    {
+      "article_id": "ecc_0300_termin_na_zgoszenia_do_konkursu_bezpieczny_esklep_",
+      "url": "https://konsument.gov.pl/aktualnosci/termin-na-zgloszenia-do-konkursu-bezpieczny-esklep-przedluzony-do-piatku/",
+      "status": 200,
+      "title": "Termin na zgłoszenia do Konkursu \"Bezpieczny eSklep\" przedłużony do piątku - Europejskie Centrum Konsumenckie",
+      "char_count": 2124
+    },
+    {
+      "article_id": "ecc_0301_nowe_uatwienia_dla_kupujacych_w_internecie_europej",
+      "url": "https://konsument.gov.pl/aktualnosci/nowe-ulatwienia-dla-kupujacych-w-internecie/",
+      "status": 200,
+      "title": "Nowe ułatwienia dla kupujących w Internecie - Europejskie Centrum Konsumenckie",
+      "char_count": 2320
+    },
+    {
+      "article_id": "ecc_0302_zapraszamy_na_wykad_bez_wyroku_czyli_pozasadowe_ro",
+      "url": "https://konsument.gov.pl/aktualnosci/zapraszamy-na-wyklad-bez-wyroku-czyli-pozasadowe-rozwiazywanie-sporow-konsumenckich-w-ue/",
+      "status": 200,
+      "title": "Zapraszamy na wykład \"Bez wyroku czyli... pozasądowe rozwiązywanie sporów konsumenckich w UE\" - Europejskie Centrum Kons",
+      "char_count": 755
+    },
+    {
+      "article_id": "ecc_0303_commission_seeks_opinions_on_the_future_for_collec",
+      "url": "https://konsument.gov.pl/aktualnosci/commission-seeks-opinions-on-the-future-for-collective-actions-in-europe/",
+      "status": 200,
+      "title": "Commission seeks opinions on the future for collective actions in Europe - Europejskie Centrum Konsumenckie",
+      "char_count": 4875
+    },
+    {
+      "article_id": "ecc_0304_cheaper_faster_easier_ways_to_settle_disputes_with",
+      "url": "https://konsument.gov.pl/aktualnosci/cheaper-faster-easier-ways-to-settle-disputes-without-going-to-court/",
+      "status": 200,
+      "title": "Cheaper, faster, easier ways to settle disputes without going to court - Europejskie Centrum Konsumenckie",
+      "char_count": 4377
+    },
+    {
+      "article_id": "ecc_0305_nearly_one_third_of_internet_users_in_the_eu27_cau",
+      "url": "https://konsument.gov.pl/aktualnosci/nearly-one-third-of-internet-users-in-the-eu27-caught-a-computer-virus/",
+      "status": 200,
+      "title": "Nearly one third of internet users in the EU27 caught a computer virus - Europejskie Centrum Konsumenckie",
+      "char_count": 3453
+    },
+    {
+      "article_id": "ecc_0306_ski_resorts_in_poland_europejskie_centrum_konsumen",
+      "url": "https://konsument.gov.pl/aktualnosci/ski-resorts-in-poland/",
+      "status": 200,
+      "title": "Ski resorts in Poland - Europejskie Centrum Konsumenckie",
+      "char_count": 3855
+    },
+    {
+      "article_id": "ecc_0307_ski_resorts_in_europe_2010_11_europejskie_centrum_",
+      "url": "https://konsument.gov.pl/aktualnosci/ski-resorts-in-europe-2010-11/",
+      "status": 200,
+      "title": "Ski resorts in Europe 2010/11 - Europejskie Centrum Konsumenckie",
+      "char_count": 591
+    },
+    {
+      "article_id": "ecc_0308_nowe_prawa_pasazerow_zwrot_pieniedzy_za_spoznienie",
+      "url": "https://konsument.gov.pl/aktualnosci/nowe-prawa-pasazerow-zwrot-pieniedzy-za-spoznienie-autokaru/",
+      "status": 200,
+      "title": "Nowe prawa pasażerów: zwrot pieniędzy za spóźnienie autokaru - Europejskie Centrum Konsumenckie",
+      "char_count": 3694
+    },
+    {
+      "article_id": "ecc_0309_co_trzeba_wiedziec_o_patnosciach_za_e_zakupy_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/co-trzeba-wiedziec-o-platnosciach-za-e-zakupy/",
+      "status": 200,
+      "title": "Co trzeba wiedzieć o płatnościach za e-zakupy? - Europejskie Centrum Konsumenckie",
+      "char_count": 5751
+    },
+    {
+      "article_id": "ecc_0310_commission_welcomes_european_parliament_approval_f",
+      "url": "https://konsument.gov.pl/aktualnosci/commission-welcomes-european-parliament-approval-for-bus-and-coach-passenger-rights/",
+      "status": 200,
+      "title": "Commission welcomes European Parliament approval for bus and coach passenger rights - Europejskie Centrum Konsumenckie",
+      "char_count": 4085
+    },
+    {
+      "article_id": "ecc_0311_targi_wiedzy_konsumenckiej_juz_12_marca_europejski",
+      "url": "https://konsument.gov.pl/aktualnosci/targi-wiedzy-konsumenckiej-juz-12-marca/",
+      "status": 200,
+      "title": "Targi Wiedzy Konsumenckiej już 12 marca! - Europejskie Centrum Konsumenckie",
+      "char_count": 1691
+    },
+    {
+      "article_id": "ecc_0312_jak_zareklamowac_nieudany_urlop_europejskie_centru",
+      "url": "https://konsument.gov.pl/aktualnosci/jak-zareklamowac-nieudany-urlop/",
+      "status": 200,
+      "title": "Jak zareklamować nieudany urlop? - Europejskie Centrum Konsumenckie",
+      "char_count": 4263
+    },
+    {
+      "article_id": "ecc_0313_zwroty_i_reklamacje_towarow_kupionych_za_granica_e",
+      "url": "https://konsument.gov.pl/aktualnosci/zwroty-i-reklamacje-towarow-kupionych-za-granica/",
+      "status": 200,
+      "title": "Zwroty i reklamacje towarów kupionych za granicą - Europejskie Centrum Konsumenckie",
+      "char_count": 4853
+    },
+    {
+      "article_id": "ecc_0314_nie_daj_sie_zapac_na_chwyty_marketingowe_europejsk",
+      "url": "https://konsument.gov.pl/aktualnosci/nie-daj-sie-zlapac-na-chwyty-marketingowe/",
+      "status": 200,
+      "title": "Nie daj się złapać na chwyty marketingowe! - Europejskie Centrum Konsumenckie",
+      "char_count": 698
+    },
+    {
+      "article_id": "ecc_0315_jak_eck_pomaga_konsumentom_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/jak-eck-pomaga-konsumentom/",
+      "status": 200,
+      "title": "Jak ECK pomaga konsumentom? - Europejskie Centrum Konsumenckie",
+      "char_count": 440
+    },
+    {
+      "article_id": "ecc_0316_dwa_miesiace_zamiast_dwoch_lat_dlaczego_polubownie",
+      "url": "https://konsument.gov.pl/aktualnosci/dwa-miesiace-zamiast-dwoch-lat-dlaczego-polubownie-oplaca-sie-bardziej/",
+      "status": 200,
+      "title": "Dwa miesiące zamiast dwóch lat: dlaczego polubownie opłaca się bardziej? - Europejskie Centrum Konsumenckie",
+      "char_count": 6062
+    },
+    {
+      "article_id": "ecc_0317_debata_online_po_co_drzec_koty_konsument_i_przedsi",
+      "url": "https://konsument.gov.pl/aktualnosci/debata-online-po-co-drzec-koty-konsument-i-przedsiebiorca-w-sadzie-polubownym/",
+      "status": 200,
+      "title": "Debata online - po co drzeć koty? Konsument i przedsiębiorca w sądzie polubownym - Europejskie Centrum Konsumenckie",
+      "char_count": 1438
+    },
+    {
+      "article_id": "ecc_0318_bezpieczne_e_zakupy_europejskie_centrum_konsumenck",
+      "url": "https://konsument.gov.pl/aktualnosci/bezpieczne-e-zakupy/",
+      "status": 200,
+      "title": "Bezpieczne e-zakupy - Europejskie Centrum Konsumenckie",
+      "char_count": 650
+    },
+    {
+      "article_id": "ecc_0319_gdzie_na_narty_w_europie_raport_sieci_ecc_net_euro",
+      "url": "https://konsument.gov.pl/aktualnosci/gdzie-na-narty-w-europie-raport-sieci-ecc-net/",
+      "status": 200,
+      "title": "Gdzie na narty w Europie? Raport sieci ECC-Net - Europejskie Centrum Konsumenckie",
+      "char_count": 610
+    },
+    {
+      "article_id": "ecc_0320_zapraszamy_na_wykad_jak_sprawdzic_wiarygodnosc_skl",
+      "url": "https://konsument.gov.pl/aktualnosci/zapraszamy-na-wyklad-jak-sprawdzic-wiarygodnosc-sklepu-internetowego/",
+      "status": 200,
+      "title": "Zapraszamy na wykład \"Jak sprawdzić wiarygodność sklepu internetowego?\" - Europejskie Centrum Konsumenckie",
+      "char_count": 544
+    },
+    {
+      "article_id": "ecc_0321_consumer_policy_recovery_in_consumer_conditions_fi",
+      "url": "https://konsument.gov.pl/aktualnosci/consumer-policy-recovery-in-consumer-conditions-finds-cross-border-shopping-trusted-more-once-tried/",
+      "status": 200,
+      "title": "Consumer policy: Recovery in consumer conditions, finds cross-border shopping trusted more once tried - Europejskie Cent",
+      "char_count": 5068
+    },
+    {
+      "article_id": "ecc_0322_zaufanie_do_zakupow_za_granica_rosnie_wraz_z_doswi",
+      "url": "https://konsument.gov.pl/aktualnosci/zaufanie-do-zakupow-za-granica-rosnie-wraz-z-doswiadczeniem/",
+      "status": 200,
+      "title": "Zaufanie do zakupów za granicą rośnie wraz z doświadczeniem - Europejskie Centrum Konsumenckie",
+      "char_count": 6065
+    },
+    {
+      "article_id": "ecc_0323_jak_sprawdzic_wiarygonosc_zagranicznego_e_sklepu_e",
+      "url": "https://konsument.gov.pl/aktualnosci/jak-sprawdzic-wiarygonosc-zagranicznego-e-sklepu/",
+      "status": 200,
+      "title": "Jak sprawdzić wiarygoność zagranicznego e-sklepu? - Europejskie Centrum Konsumenckie",
+      "char_count": 4496
+    },
+    {
+      "article_id": "ecc_0324_7_rzeczy_ktore_warto_wiedziec_przed_zakupem_uzywan",
+      "url": "https://konsument.gov.pl/aktualnosci/7-rzeczy-ktore-warto-wiedziec-przed-zakupem-uzywanego-auta-za-granica/",
+      "status": 200,
+      "title": "7 rzeczy, które warto wiedzieć przed zakupem używanego auta za granicą - Europejskie Centrum Konsumenckie",
+      "char_count": 4892
+    },
+    {
+      "article_id": "ecc_0325_majowka_w_europie_podroze_i_zakupy_co_warto_wiedzi",
+      "url": "https://konsument.gov.pl/aktualnosci/majowka-w-europie-podroze-i-zakupy-co-warto-wiedziec/",
+      "status": 200,
+      "title": "Majówka w Europie: podróże i zakupy. Co warto wiedzieć? - Europejskie Centrum Konsumenckie",
+      "char_count": 7006
+    },
+    {
+      "article_id": "ecc_0326_zapraszamy_na_wykad_majowka_w_europie_podroze_i_za",
+      "url": "https://konsument.gov.pl/aktualnosci/zapraszamy-na-wyklad-majowka-w-europie-podroze-i-zakupy/",
+      "status": 200,
+      "title": "Zapraszamy na wykład \"Majówka w Europie: podróże i zakupy\" - Europejskie Centrum Konsumenckie",
+      "char_count": 1161
+    },
+    {
+      "article_id": "ecc_0327_beatyfikacja_jp2_porady_dla_podrozujacych_do_rzymu",
+      "url": "https://konsument.gov.pl/aktualnosci/beatyfikacja-jp2-porady-dla-podrozujacych-do-rzymu/",
+      "status": 200,
+      "title": "Beatyfikacja JP2 - porady dla podróżujących do Rzymu - Europejskie Centrum Konsumenckie",
+      "char_count": 5427
+    },
+    {
+      "article_id": "ecc_0328_darmowe_porady_prawne_w_miasteczku_europejskim_juz",
+      "url": "https://konsument.gov.pl/aktualnosci/darmowe-porady-prawne-w-miasteczku-europejskim-juz-7-maja/",
+      "status": 200,
+      "title": "Darmowe porady prawne w Miasteczku Europejskim już 7 maja! - Europejskie Centrum Konsumenckie",
+      "char_count": 1746
+    },
+    {
+      "article_id": "ecc_0329_wykad_transgraniczna_umowa_sprzedazy_samochodu_asp",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-transgraniczna-umowa-sprzedazy-samochodu-aspekty-prawne-i-porady-dla-konsumentow/",
+      "status": 200,
+      "title": "Wykład: \"Transgraniczna umowa sprzedaży samochodu - aspekty prawne i porady dla konsumentów\" - Europejskie Centrum Konsu",
+      "char_count": 557
+    },
+    {
+      "article_id": "ecc_0330_raport_ke_coraz_mniej_niebezpiecznych_produktow_tr",
+      "url": "https://konsument.gov.pl/aktualnosci/raport-ke-coraz-mniej-niebezpiecznych-produktow-trafia-bezkarnie-na-rynek/",
+      "status": 200,
+      "title": "Raport KE: Coraz mniej niebezpiecznych produktów trafia bezkarnie na rynek - Europejskie Centrum Konsumenckie",
+      "char_count": 5573
+    },
+    {
+      "article_id": "ecc_0331_safety_of_goods_fewer_dangerous_products_slipping_",
+      "url": "https://konsument.gov.pl/aktualnosci/safety-of-goods-fewer-dangerous-products-slipping-through-the-net-while-safety-at-source-a-key-objective/",
+      "status": 200,
+      "title": "Safety of goods: Fewer dangerous products slipping through the net, while safety at source a key objective - Europejskie",
+      "char_count": 4904
+    },
+    {
+      "article_id": "ecc_0332_zapraszamy_na_wykad_postanowienia_niedozwolone_imp",
+      "url": "https://konsument.gov.pl/aktualnosci/zapraszamy-na-wyklad-postanowienia-niedozwolone-implementacja-dyrektywy-93-13-w-polsce-i-wybranych-krajach-ue/",
+      "status": 200,
+      "title": "Zapraszamy na wykład „Postanowienia niedozwolone - implementacja dyrektywy 93/13 w Polsce i wybranych krajach UE” - Euro",
+      "char_count": 282
+    },
+    {
+      "article_id": "ecc_0333_the_european_commission_has_proposed_new_measures_",
+      "url": "https://konsument.gov.pl/aktualnosci/the-european-commission-has-proposed-new-measures-to-strengthen-air-passenger-rights/",
+      "status": 200,
+      "title": "The European Commission has proposed new measures to strengthen air passenger rights - Europejskie Centrum Konsumenckie",
+      "char_count": 1108
+    },
+    {
+      "article_id": "ecc_0334_komisja_europejska_przedstawia_propozycje_zmian_w_",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-europejska-przedstawila-propozycje-zmian-w-prawach-pasazerow-linii-lotniczych/",
+      "status": 200,
+      "title": "Komisja Europejska przedstawiła propozycje zmian w prawach pasażerów linii lotniczych - Europejskie Centrum Konsumenckie",
+      "char_count": 1728
+    },
+    {
+      "article_id": "ecc_0335_konkurs_na_najlepsza_prace_licencjacjacka_lub_magi",
+      "url": "https://konsument.gov.pl/aktualnosci/konkurs-na-najlepsza-prace-licencjacjacka-lub-magisterska-z-zakresu-stosunkow-miedzynarodowych-ue/",
+      "status": 200,
+      "title": "Konkurs na najlepszą pracę licencjacjacką lub magisterską z zakresu stosunków międzynarodowych UE - Europejskie Centrum ",
+      "char_count": 2156
+    },
+    {
+      "article_id": "ecc_0336_chmura_pyu_wulkanicznego_jakie_prawa_ma_pasazer_w_",
+      "url": "https://konsument.gov.pl/aktualnosci/chmura-pylu-wulkanicznego-jakie-prawa-ma-pasazer-w-sytuacji-odwolania-lub-opoznienia-lotu/",
+      "status": 200,
+      "title": "Chmura pyłu wulkanicznego: Jakie prawa ma pasażer w sytuacji odwołania lub opóźnienia lotu? - Europejskie Centrum Konsum",
+      "char_count": 3031
+    },
+    {
+      "article_id": "ecc_0337_europejskie_centra_konsumenckie_pomogy_71_tys_kons",
+      "url": "https://konsument.gov.pl/aktualnosci/europejskie-centra-konsumenckie-pomogly-71-tys-konsumentow-w-europie/",
+      "status": 200,
+      "title": "Europejskie Centra Konsumenckie pomogły 71 tys. konsumentów w Europie - Europejskie Centrum Konsumenckie",
+      "char_count": 2796
+    },
+    {
+      "article_id": "ecc_0338_safer_shopping_european_consumer_centres_help_71_0",
+      "url": "https://konsument.gov.pl/aktualnosci/safer-shopping-european-consumer-centres-help-71000-eu-shoppers-in-2010/",
+      "status": 200,
+      "title": "Safer shopping : European Consumer Centres help 71,000 EU shoppers in 2010 - Europejskie Centrum Konsumenckie",
+      "char_count": 4225
+    },
+    {
+      "article_id": "ecc_0339_konkurs_konsumencie_opowiedz_nam_swoja_historie_eu",
+      "url": "https://konsument.gov.pl/aktualnosci/konkurs-konsumencie-opowiedz-nam-swoja-historie/",
+      "status": 200,
+      "title": "Konkurs - Konsumencie, opowiedz nam swoją historię! - Europejskie Centrum Konsumenckie",
+      "char_count": 3035
+    },
+    {
+      "article_id": "ecc_0340_wykad_otwarty_na_czym_polega_timesharing_zapraszam",
+      "url": "https://konsument.gov.pl/aktualnosci/wyklad-otwarty-na-czym-polega-timesharing-zapraszamy/",
+      "status": 200,
+      "title": "Wykład otwarty: \"Na czym polega timesharing?\" - zapraszamy! - Europejskie Centrum Konsumenckie",
+      "char_count": 500
+    },
+    {
+      "article_id": "ecc_0341_urlopowe_abc_konsumenta_europejskie_centrum_konsum",
+      "url": "https://konsument.gov.pl/aktualnosci/urlopowe-abc-konsumenta/",
+      "status": 200,
+      "title": "Urlopowe ABC konsumenta - Europejskie Centrum Konsumenckie",
+      "char_count": 6617
+    },
+    {
+      "article_id": "ecc_0342_rapex_protecting_consumers_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/rapex-protecting-consumers/",
+      "status": 200,
+      "title": "Rapex: protecting consumers - Europejskie Centrum Konsumenckie",
+      "char_count": 1592
+    },
+    {
+      "article_id": "ecc_0343_eurobarometer_polish_rail_passengers_dissatisfied_",
+      "url": "https://konsument.gov.pl/aktualnosci/eurobarometer-polish-rail-passengers-dissatisfied-with-rail-services/",
+      "status": 200,
+      "title": "Eurobarometer: Polish rail passengers dissatisfied with rail services - Europejskie Centrum Konsumenckie",
+      "char_count": 1167
+    },
+    {
+      "article_id": "ecc_0344_breakthrough_in_consumer_rights_negotiations_europ",
+      "url": "https://konsument.gov.pl/aktualnosci/breakthrough-in-consumer-rights-negotiations/",
+      "status": 200,
+      "title": "Breakthrough in consumer rights negotiations - Europejskie Centrum Konsumenckie",
+      "char_count": 3215
+    },
+    {
+      "article_id": "ecc_0345_kampania_sieci_ecc_net_wakacje_w_europie_zapakuj_t",
+      "url": "https://konsument.gov.pl/aktualnosci/kampania-sieci-ecc-net-wakacje-w-europie-zapakuj-troche-konsumenckiej-wiedzy/",
+      "status": 200,
+      "title": "Kampania Sieci ECC-Net: Wakacje w Europie? Zapakuj trochę konsumenckiej wiedzy - Europejskie Centrum Konsumenckie",
+      "char_count": 2980
+    },
+    {
+      "article_id": "ecc_0346_holidays_in_europe_pack_a_little_consumer_know_how",
+      "url": "https://konsument.gov.pl/aktualnosci/holidays-in-europe-pack-a-little-consumer-know-how/",
+      "status": 200,
+      "title": "Holidays in Europe? Pack a little consumer know-how - Europejskie Centrum Konsumenckie",
+      "char_count": 2572
+    },
+    {
+      "article_id": "ecc_0347_start_akcji_o_klase_wyzej_europejskie_centrum_kons",
+      "url": "https://konsument.gov.pl/aktualnosci/start-akcji-o-klase-wyzej/",
+      "status": 200,
+      "title": "Start akcji \"O klasę wyżej!\" - Europejskie Centrum Konsumenckie",
+      "char_count": 1244
+    },
+    {
+      "article_id": "ecc_0348_e_zakupy_10_rozwiazan_na_rzecz_wzmocnienia_praw_ko",
+      "url": "https://konsument.gov.pl/aktualnosci/e-zakupy-10-rozwiazan-na-rzecz-wzmocnienia-praw-konsumentow/",
+      "status": 200,
+      "title": "E-zakupy: 10 rozwiązań na rzecz wzmocnienia praw konsumentów - Europejskie Centrum Konsumenckie",
+      "char_count": 8980
+    },
+    {
+      "article_id": "ecc_0349_akcja_dzien_pasazera_praktyczne_porady_ktore_warto",
+      "url": "https://konsument.gov.pl/aktualnosci/akcja-dzien-pasazera-praktyczne-porady-ktore-warto-zabrac-na-poklad/",
+      "status": 200,
+      "title": "Akcja „Dzień Pasażera”: praktyczne porady, które warto zabrać na pokład - Europejskie Centrum Konsumenckie",
+      "char_count": 2898
+    },
+    {
+      "article_id": "ecc_0350_letnie_wyprzedaze_w_europie_kiedy_gdzie_i_co_warto",
+      "url": "https://konsument.gov.pl/aktualnosci/letnie-wyprzedaze-w-europie-kiedy-gdzie-i-co-warto-wiedziec/",
+      "status": 200,
+      "title": "Letnie wyprzedaże w Europie: kiedy, gdzie i co warto wiedzieć? - Europejskie Centrum Konsumenckie",
+      "char_count": 3815
+    },
+    {
+      "article_id": "ecc_0351_jakie_przepisy_drogowe_obowiazuja_w_krajach_ue_eur",
+      "url": "https://konsument.gov.pl/aktualnosci/jakie-przepisy-drogowe-obowiazuja-w-krajach-ue/",
+      "status": 200,
+      "title": "Jakie przepisy drogowe obowiązują w krajach UE? - Europejskie Centrum Konsumenckie",
+      "char_count": 540
+    },
+    {
+      "article_id": "ecc_0352_tajemni_klienci_przetestowali_e_zakupy_za_granica_",
+      "url": "https://konsument.gov.pl/aktualnosci/tajemni-klienci-przetestowali-e-zakupy-za-granica-wyniki-raportu-sieci-europejskich-centrow-konsumenckich/",
+      "status": 200,
+      "title": "Tajemni klienci przetestowali e-zakupy za granicą. Wyniki raportu sieci Europejskich Centrów Konsumenckich - Europejskie",
+      "char_count": 5749
+    },
+    {
+      "article_id": "ecc_0353_european_consumer_centres_air_passenger_rights_day",
+      "url": "https://konsument.gov.pl/aktualnosci/european-consumer-centres-air-passenger-rights-day-2011/",
+      "status": 200,
+      "title": "European Consumer Centres' Air Passenger Rights Day 2011. - Europejskie Centrum Konsumenckie",
+      "char_count": 4776
+    },
+    {
+      "article_id": "ecc_0354_dzien_pasazera_porady_ktore_warto_zabrac_na_pokad_",
+      "url": "https://konsument.gov.pl/aktualnosci/dzien-pasazera-porady-ktore-warto-zabrac-na-poklad/",
+      "status": 200,
+      "title": "Dzień Pasażera: porady, które warto zabrać na pokład - Europejskie Centrum Konsumenckie",
+      "char_count": 458
+    },
+    {
+      "article_id": "ecc_0355_roza_thun_o_prawach_pasazerow_europejskie_centrum_",
+      "url": "https://konsument.gov.pl/aktualnosci/roza-thun-o-prawach-pasazerow/",
+      "status": 200,
+      "title": "Róża Thun o prawach pasażerów - Europejskie Centrum Konsumenckie",
+      "char_count": 458
+    },
+    {
+      "article_id": "ecc_0356_komisja_europejska_propaguje_dostep_do_tanich_kont",
+      "url": "https://konsument.gov.pl/aktualnosci/komisja-europejska-propaguje-dostep-do-tanich-kont-bankowych-dla-wszystkich-obywateli/",
+      "status": 200,
+      "title": "Komisja Europejska propaguje dostęp do tanich kont bankowych dla wszystkich obywateli - Europejskie Centrum Konsumenckie",
+      "char_count": 4660
+    },
+    {
+      "article_id": "ecc_0357_european_commission_takes_action_to_ease_access_to",
+      "url": "https://konsument.gov.pl/aktualnosci/european-commission-takes-action-to-ease-access-to-justice-in-cross-border-legal-disputes/",
+      "status": 200,
+      "title": "European Commission takes action to ease access to justice in cross-border legal disputes - Europejskie Centrum Konsumen",
+      "char_count": 2190
+    },
+    {
+      "article_id": "ecc_0358_forum_rynku_wewnetrznego_przyjdz_zapytaj_zabierz_g",
+      "url": "https://konsument.gov.pl/aktualnosci/forum-rynku-wewnetrznego-przyjdz-zapytaj-zabierz-glos/",
+      "status": 200,
+      "title": "Forum Rynku Wewnętrznego: przyjdź, zapytaj, zabierz głos! - Europejskie Centrum Konsumenckie",
+      "char_count": 1039
+    },
+    {
+      "article_id": "ecc_0359_wypozyczanie_auta_za_granica_na_co_zwrocic_uwage_e",
+      "url": "https://konsument.gov.pl/aktualnosci/wypozyczanie-auta-za-granica-na-co-zwrocic-uwage/",
+      "status": 200,
+      "title": "Wypożyczanie auta za granicą – na co zwrócić uwagę? - Europejskie Centrum Konsumenckie",
+      "char_count": 4171
+    },
+    {
+      "article_id": "ecc_0360_bezpatne_porady_i_informacje_dla_konsumentow_na_ja",
+      "url": "https://konsument.gov.pl/aktualnosci/bezplatne-porady-i-informacje-dla-konsumentow-na-jarmarku-jednolitego-rynku-w-krakowie/",
+      "status": 200,
+      "title": "Bezpłatne porady i informacje dla konsumentów na Jarmarku Jednolitego Rynku w Krakowie - Europejskie Centrum Konsumencki",
+      "char_count": 2420
+    },
+    {
+      "article_id": "ecc_0361_kupuj_bez_ryzyka_ruszya_kampania_edukacyjna_europe",
+      "url": "https://konsument.gov.pl/aktualnosci/kupuj-bez-ryzyka-ruszyla-kampania-edukacyjna/",
+      "status": 200,
+      "title": "KUPUJ BEZ RYZYKA - ruszyła kampania edukacyjna - Europejskie Centrum Konsumenckie",
+      "char_count": 773
+    },
+    {
+      "article_id": "ecc_0362_niebieski_przycisk_ke_proponuje_wspolne_europejski",
+      "url": "https://konsument.gov.pl/aktualnosci/niebieski-przycisk-ke-proponuje-wspolne-europejskie-przepisy-dotyczace-sprzedazy/",
+      "status": 200,
+      "title": "Niebieski przycisk: KE proponuje wspólne europejskie przepisy dotyczące sprzedaży - Europejskie Centrum Konsumenckie",
+      "char_count": 8191
+    },
+    {
+      "article_id": "ecc_0363_new_eu_rules_on_consumer_rights_to_enter_into_forc",
+      "url": "https://konsument.gov.pl/aktualnosci/new-eu-rules-on-consumer-rights-to-enter-into-force/",
+      "status": 200,
+      "title": "New EU rules on consumer rights to enter into force - Europejskie Centrum Konsumenckie",
+      "char_count": 5613
+    },
+    {
+      "article_id": "ecc_0364_nowa_dyrektywa_o_prawach_konsumentow_przyjeta_euro",
+      "url": "https://konsument.gov.pl/aktualnosci/nowa-dyrektywa-o-prawach-konsumentow-przyjeta/",
+      "status": 200,
+      "title": "Nowa dyrektywa o prawach konsumentów przyjęta - Europejskie Centrum Konsumenckie",
+      "char_count": 6919
+    },
+    {
+      "article_id": "ecc_0365_juz_jutro_wykad_otwarty_sadowe_dochodzenie_roszcze",
+      "url": "https://konsument.gov.pl/aktualnosci/juz-jutro-wyklad-otwarty-sadowe-dochodzenie-roszczen-konsumenckich-za-pomoca-europejskiej-procedury-drobnych-roszczen/",
+      "status": 200,
+      "title": "Już jutro wykład otwarty: \"Sądowe dochodzenie roszczeń konsumenckich za pomocą europejskiej procedury drobnych roszczeń\"",
+      "char_count": 552
+    },
+    {
+      "article_id": "ecc_0366_miedzynarodowy_dzien_mediacji_europejskie_centrum_",
+      "url": "https://konsument.gov.pl/aktualnosci/miedzynarodowy-dzien-mediacji/",
+      "status": 200,
+      "title": "Międzynarodowy Dzień Mediacji - Europejskie Centrum Konsumenckie",
+      "char_count": 2668
+    },
+    {
+      "article_id": "ecc_0367_europejscy_konsumenci_sabo_oceniaja_rynki_usug_fin",
+      "url": "https://konsument.gov.pl/aktualnosci/europejscy-konsumenci-slabo-oceniaja-rynki-uslug-finansowych-i-paliw/",
+      "status": 200,
+      "title": "Europejscy konsumenci słabo oceniają rynki usług finansowych i paliw - Europejskie Centrum Konsumenckie",
+      "char_count": 5452
+    },
+    {
+      "article_id": "ecc_0368_eu_consumers_rate_poorly_financial_services_and_fu",
+      "url": "https://konsument.gov.pl/aktualnosci/eu-consumers-rate-poorly-financial-services-and-fuel-markets/",
+      "status": 200,
+      "title": "EU consumers rate poorly financial services and fuel markets - Europejskie Centrum Konsumenckie",
+      "char_count": 4612
+    },
+    {
+      "article_id": "ecc_0369_akcja_dzien_pasazera_na_dworcu_centralnym_jakie_pr",
+      "url": "https://konsument.gov.pl/aktualnosci/akcja-dzien-pasazera-na-dworcu-centralnym-jakie-prawa-maja-podrozujacy-koleja/",
+      "status": 200,
+      "title": "Akcja \"Dzień Pasażera\" na Dworcu Centralnym: jakie prawa mają podróżujący koleją? - Europejskie Centrum Konsumenckie",
+      "char_count": 2117
+    },
+    {
+      "article_id": "ecc_0370_prawa_pasazerow_podrozujacych_koleja_europejskie_c",
+      "url": "https://konsument.gov.pl/aktualnosci/prawa-pasazerow-podrozujacych-koleja/",
+      "status": 200,
+      "title": "Prawa pasażerów podróżujących koleją - Europejskie Centrum Konsumenckie",
+      "char_count": 8891
+    },
+    {
+      "article_id": "ecc_0371_jakie_prawa_ma_pasazer_w_sytuacji_odwoania_lub_opo",
+      "url": "https://konsument.gov.pl/aktualnosci/jakie-prawa-ma-pasazer-w-sytuacji-odwolania-lub-opoznienia-lotu/",
+      "status": 200,
+      "title": "Jakie prawa ma pasażer w sytuacji odwołania lub opóźnienia lotu? - Europejskie Centrum Konsumenckie",
+      "char_count": 2728
+    },
+    {
+      "article_id": "ecc_0372_the_volcanic_ash_crisis_2010_clearly_shows_air_pas",
+      "url": "https://konsument.gov.pl/aktualnosci/the-volcanic-ash-crisis-2010-clearly-shows-air-passengers-rights-need-attention/",
+      "status": 200,
+      "title": "The volcanic ash crisis 2010 clearly shows - Air Passengers' Rights need attention - Europejskie Centrum Konsumenckie",
+      "char_count": 3058
+    },
+    {
+      "article_id": "ecc_0373_prawa_pasazerow_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/prawa-pasazerow/",
+      "status": 200,
+      "title": "Prawa pasażerów - Europejskie Centrum Konsumenckie",
+      "char_count": 742
+    },
+    {
+      "article_id": "ecc_0374_samochody_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/samochody/",
+      "status": 200,
+      "title": "Samochody - Europejskie Centrum Konsumenckie",
+      "char_count": 715
+    },
+    {
+      "article_id": "ecc_0375_deska_snowboardowa_na_ratraku_europejskie_centrum_",
+      "url": "https://konsument.gov.pl/aktualnosci/deska-snowboardowa-na-ratraku-2/",
+      "status": 200,
+      "title": "Deska snowboardowa na ratraku - Europejskie Centrum Konsumenckie",
+      "char_count": 390
+    },
+    {
+      "article_id": "ecc_0376_zakupy_w_internecie_europejskie_centrum_konsumenck",
+      "url": "https://konsument.gov.pl/aktualnosci/zakupy-w-internecie/",
+      "status": 200,
+      "title": "Zakupy w Internecie - Europejskie Centrum Konsumenckie",
+      "char_count": 680
+    },
+    {
+      "article_id": "ecc_0377_turystyka_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/turystyka/",
+      "status": 200,
+      "title": "Turystyka - Europejskie Centrum Konsumenckie",
+      "char_count": 694
+    },
+    {
+      "article_id": "ecc_0378_zakupy_w_ue_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/zakupy-w-ue/",
+      "status": 200,
+      "title": "Zakupy w UE - Europejskie Centrum Konsumenckie",
+      "char_count": 801
+    },
+    {
+      "article_id": "ecc_0379_prawa_pasazerow_po_chmurze_wulkanicznej_nowy_rapor",
+      "url": "https://konsument.gov.pl/aktualnosci/prawa-pasazerow-po-chmurze-wulkanicznej-nowy-raport-ecc-net/",
+      "status": 200,
+      "title": "Prawa pasażerów po chmurze wulkanicznej - nowy raport ECC-NET - Europejskie Centrum Konsumenckie",
+      "char_count": 2918
+    },
+    {
+      "article_id": "ecc_0380_jak_zaoszczedzic_na_sporze_europejskie_centrum_kon",
+      "url": "https://konsument.gov.pl/aktualnosci/jak-zaoszczedzic-na-sporze/",
+      "status": 200,
+      "title": "Jak zaoszczędzić na sporze? - Europejskie Centrum Konsumenckie",
+      "char_count": 6791
+    },
+    {
+      "article_id": "ecc_0381_how_to_save_up_on_a_dispute_europejskie_centrum_ko",
+      "url": "https://konsument.gov.pl/aktualnosci/how-to-save-up-on-a-dispute/",
+      "status": 200,
+      "title": "How to save up on a dispute? - Europejskie Centrum Konsumenckie",
+      "char_count": 5782
+    },
+    {
+      "article_id": "ecc_0382_nowa_dyrektywa_o_prawach_konsumentow_opublikowana_",
+      "url": "https://konsument.gov.pl/aktualnosci/nowa-dyrektywa-o-prawach-konsumentow-opublikowana/",
+      "status": 200,
+      "title": "Nowa dyrektywa o prawach konsumentów opublikowana - Europejskie Centrum Konsumenckie",
+      "char_count": 7103
+    },
+    {
+      "article_id": "ecc_0383_odbyo_sie_coroczne_spotkanie_centrow_sieci_ecc_net",
+      "url": "https://konsument.gov.pl/aktualnosci/odbylo-sie-coroczne-spotkanie-centrow-sieci-ecc-net-z-29-krajow-europy/",
+      "status": 200,
+      "title": "Odbyło się coroczne spotkanie centrów sieci ECC-Net z 29 krajów Europy - Europejskie Centrum Konsumenckie",
+      "char_count": 874
+    },
+    {
+      "article_id": "ecc_0384_dochodzenie_roszczen_europejskie_centrum_konsumenc",
+      "url": "https://konsument.gov.pl/aktualnosci/dochodzenie-roszczen/",
+      "status": 200,
+      "title": "Dochodzenie roszczeń - Europejskie Centrum Konsumenckie",
+      "char_count": 5550
+    },
+    {
+      "article_id": "ecc_0385_czy_polski_e_commerce_jest_gotowy_na_zmiany_europe",
+      "url": "https://konsument.gov.pl/aktualnosci/czy-polski-e-commerce-jest-gotowy-na-zmiany/",
+      "status": 200,
+      "title": "Czy polski e-commerce jest gotowy na zmiany? - Europejskie Centrum Konsumenckie",
+      "char_count": 5278
+    },
+    {
+      "article_id": "ecc_0386_zimowe_wyprzedaze_w_europie_gdzie_kiedy_i_co_warto",
+      "url": "https://konsument.gov.pl/aktualnosci/zimowe-wyprzedaze-w-europie-gdzie-kiedy-i-co-warto-wiedziec/",
+      "status": 200,
+      "title": "Zimowe wyprzedaże w Europie: gdzie, kiedy i co warto wiedzieć? - Europejskie Centrum Konsumenckie",
+      "char_count": 4520
+    },
+    {
+      "article_id": "ecc_0387_returning_goods_bought_online_polish_consumer_uk_s",
+      "url": "https://konsument.gov.pl/aktualnosci/returning-goods-bought-online-polish-consumer-uk-seller/",
+      "status": 200,
+      "title": "Returning goods bought online: Polish consumer / UK seller - Europejskie Centrum Konsumenckie",
+      "char_count": 357
+    },
+    {
+      "article_id": "ecc_0388_nie_daj_sie_oskubac_w_sieci_europejskie_centrum_ko",
+      "url": "https://konsument.gov.pl/aktualnosci/nie-daj-sie-oskubac-w-sieci/",
+      "status": 200,
+      "title": "Nie daj się oskubać w sieci - Europejskie Centrum Konsumenckie",
+      "char_count": 627
+    },
+    {
+      "article_id": "ecc_0389_94_proc_kupujacych_w_zagranicznych_e_sklepach_z_ue",
+      "url": "https://konsument.gov.pl/aktualnosci/94-proc-kupujacych-w-zagranicznych-e-sklepach-z-ue-otrzymalo-zamowione-produkty/",
+      "status": 200,
+      "title": "94 proc. kupujących w zagranicznych e-sklepach z UE otrzymało zamówione produkty - Europejskie Centrum Konsumenckie",
+      "char_count": 600
+    },
+    {
+      "article_id": "ecc_0390_ktore_nie_odzwierciedlaja_rzeczywistosci_mowi_piot",
+      "url": "https://konsument.gov.pl/aktualnosci/ktore-nie-odzwierciedlaja-rzeczywistosci-mowi-piotr-stanczak/",
+      "status": 200,
+      "title": "które nie odzwierciedlają rzeczywistości – mówi Piotr Stańczak - Europejskie Centrum Konsumenckie",
+      "char_count": 570
+    },
+    {
+      "article_id": "ecc_0391_dotpay_itp_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/dotpay-itp/",
+      "status": 200,
+      "title": "Dotpay itp. - Europejskie Centrum Konsumenckie",
+      "char_count": 458
+    },
+    {
+      "article_id": "ecc_0392_mastercard_o_wszczecie_procedury_obciazenia_zwrotn",
+      "url": "https://konsument.gov.pl/aktualnosci/mastercard-o-wszczecie-procedury-obciazenia-zwrotnego-tzw-charge-back-w-sytuacji/",
+      "status": 200,
+      "title": "MasterCard) o wszczęcie procedury obciążenia zwrotnego (tzw. charge back) w sytuacji - Europejskie Centrum Konsumenckie",
+      "char_count": 538
+    },
+    {
+      "article_id": "ecc_0393_jesli_zamowiony_produkt_do_niego_nie_dotrze_europe",
+      "url": "https://konsument.gov.pl/aktualnosci/jesli-zamowiony-produkt-do-niego-nie-dotrze/",
+      "status": 200,
+      "title": "jeśli zamówiony produkt do niego nie dotrze. - Europejskie Centrum Konsumenckie",
+      "char_count": 458
+    },
+    {
+      "article_id": "ecc_0394_podajacej_sie_za_przedsiebiorce_nie_nalezy_pacic_o",
+      "url": "https://konsument.gov.pl/aktualnosci/podajacej-sie-za-przedsiebiorce-nie-nalezy-placic-osobom-obcym-np-sprzedawcy-z-internetu-korzystajac-z-tych-form-platnosci/",
+      "status": 200,
+      "title": "podającej się za przedsiębiorcę: NIE NALEŻY płacić osobom obcym (np. sprzedawcy z Internetu) korzystając z tych form pła",
+      "char_count": 958
+    },
+    {
+      "article_id": "ecc_0395_klient_paci_tylko_za_odesanie_produktu_europejskie",
+      "url": "https://konsument.gov.pl/aktualnosci/klient-placi-tylko-za-odeslanie-produktu/",
+      "status": 200,
+      "title": "klient płaci tylko za odesłanie produktu). - Europejskie Centrum Konsumenckie",
+      "char_count": 458
+    },
+    {
+      "article_id": "ecc_0396_koncerty_europejskie_centrum_konsumenckie",
+      "url": "https://konsument.gov.pl/aktualnosci/koncerty/",
+      "status": 200,
+      "title": "koncerty - Europejskie Centrum Konsumenckie",
+      "char_count": 458
+    },
+    {
+      "article_id": "ecc_0397_objety_jest_takim_samym_dwuletnim_prawem_do_reklam",
+      "url": "https://konsument.gov.pl/aktualnosci/objety-jest-takim-samym-dwuletnim-prawem-do-reklamacji/",
+      "status": 200,
+      "title": "objęty jest takim samym – dwuletnim – prawem do reklamacji - Europejskie Centrum Konsumenckie",
+      "char_count": 592
+    },
+    {
+      "article_id": "ecc_0398_adresu_geograficznego_siedziby_europejskie_centrum",
+      "url": "https://konsument.gov.pl/aktualnosci/adresu-geograficznego-siedziby/",
+      "status": 200,
+      "title": "adresu geograficznego siedziby - Europejskie Centrum Konsumenckie",
+      "char_count": 527
+    },
+    {
+      "article_id": "ecc_0399_porownanie_minimalnych_standardow_hoteli_3_gwiazdk",
+      "url": "https://konsument.gov.pl/aktualnosci/porownanie-minimalnych-standardow-hoteli-3-gwiazdkowych-w-europie/",
+      "status": 200,
+      "title": "Porównanie minimalnych standardów hoteli 3-gwiazdkowych w Europie - Europejskie Centrum Konsumenckie",
+      "char_count": 574
+    },
+    {
+      "article_id": "ecc_0400_zwrot_za_podwojna_rezerwacje_polski_konsument_wegi",
+      "url": "https://konsument.gov.pl/aktualnosci/zwrot-za-podwojna-rezerwacje-polski-konsument-wegierski-przewoznik-lotniczy/",
+      "status": 200,
+      "title": "Zwrot za podwójną rezerwację: polski konsument / węgierski przewoźnik lotniczy - Europejskie Centrum Konsumenckie",
+      "char_count": 555
+    }
+  ]
+}

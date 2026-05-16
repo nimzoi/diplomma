@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00421",
+  "source_url": "https://forumprawne.org/watek/zwrot-kosztow.875390/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-kosztow.875390/",
+  "archive_file": "forumprawne/forumprawne_00421.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 51951,
+  "sha256": "9f3d4a036792fabf3c0b9e4d6d2b877ab25886fea96c003cc1926386f17eae33",
+  "download_date": "2026-05-16T07:49:30Z",
+  "duration_sec": 0.112,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

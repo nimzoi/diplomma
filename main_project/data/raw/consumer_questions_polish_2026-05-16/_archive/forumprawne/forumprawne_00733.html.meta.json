@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00733",
+  "source_url": "https://forumprawne.org/watek/kolizja-auta-pytania.868747/",
+  "fetch_url": "https://forumprawne.org/watek/kolizja-auta-pytania.868747/",
+  "archive_file": "forumprawne/forumprawne_00733.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54637,
+  "sha256": "3d13f31f2f4597333a785014bcce7b97e5f260f99a367637fb85a4a4da52d734",
+  "download_date": "2026-05-16T07:55:22Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

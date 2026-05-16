@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00885",
+  "source_url": "https://forumprawne.org/watek/serwis-nie-oddal-telefonu.866096/",
+  "fetch_url": "https://forumprawne.org/watek/serwis-nie-oddal-telefonu.866096/",
+  "archive_file": "forumprawne/forumprawne_00885.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57935,
+  "sha256": "6394769d2dccc0ffe84e1d5a3a75f20d409c46f54f0788826ce19df9c989482a",
+  "download_date": "2026-05-16T07:58:14Z",
+  "duration_sec": 0.309,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

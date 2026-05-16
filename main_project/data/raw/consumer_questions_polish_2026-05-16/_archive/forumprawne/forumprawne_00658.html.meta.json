@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00658",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-auta-po-zmianie-miejsca-zamieszkania.870054/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-auta-po-zmianie-miejsca-zamieszkania.870054/",
+  "archive_file": "forumprawne/forumprawne_00658.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58145,
+  "sha256": "fcf4c84cd63073eb4c11dc417e00086cf3d1bc5ca7225d03a0eb1462b0855a92",
+  "download_date": "2026-05-16T07:53:58Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

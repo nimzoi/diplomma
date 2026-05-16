@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01068",
+  "source_url": "https://forumprawne.org/watek/kupiona-rzecz-nie-spelnia-danyh-podanych-na-stronie.860933/",
+  "fetch_url": "https://forumprawne.org/watek/kupiona-rzecz-nie-spelnia-danyh-podanych-na-stronie.860933/",
+  "archive_file": "forumprawne/forumprawne_01068.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 100958,
+  "sha256": "89ac4d11cdbde6855fd5bac931ecae2850b7077550d05e8abad52d8c81cccbce",
+  "download_date": "2026-05-16T08:01:40Z",
+  "duration_sec": 0.363,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

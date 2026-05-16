@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01015",
+  "source_url": "https://forumprawne.org/watek/zgloszenie-sprawy-do-rpo.862616/",
+  "fetch_url": "https://forumprawne.org/watek/zgloszenie-sprawy-do-rpo.862616/",
+  "archive_file": "forumprawne/forumprawne_01015.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62401,
+  "sha256": "9762fc2a2e902ed3285832673e4a8b7ca264e106a4353707ded121145af1e04b",
+  "download_date": "2026-05-16T08:00:41Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

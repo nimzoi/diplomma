@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00321",
+  "source_url": "https://forumprawne.org/watek/proba-oszustwa-internetowego.877531/",
+  "fetch_url": "https://forumprawne.org/watek/proba-oszustwa-internetowego.877531/",
+  "archive_file": "forumprawne/forumprawne_00321.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 77884,
+  "sha256": "91fed15cbbe1dfeee4cddb32d59fb4ff7865e9a0a3eddc55996d0a9a2b0f2451",
+  "download_date": "2026-05-16T07:47:37Z",
+  "duration_sec": 0.099,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

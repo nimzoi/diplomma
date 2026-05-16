@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00614",
+  "source_url": "https://forumprawne.org/watek/reklamacja-na-plytki.870757/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-na-plytki.870757/",
+  "archive_file": "forumprawne/forumprawne_00614.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 98290,
+  "sha256": "65e82bd620df281c582d6a4bb287a264758aa488a3ba1dbf5677fd3a181c78cd",
+  "download_date": "2026-05-16T07:53:07Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

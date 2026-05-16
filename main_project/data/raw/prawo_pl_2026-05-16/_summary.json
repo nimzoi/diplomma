@@ -1,0 +1,18 @@
+{
+  "source": "prawo.pl",
+  "scrape_date": "2026-05-16",
+  "license": "fair-use Art. 29 PrAut (academic research, attribution preserved)",
+  "discovered_urls": 250,
+  "successful_articles": 248,
+  "failed_urls": 0,
+  "skipped_too_short": 2,
+  "skipped_duplicate": 0,
+  "waf_blocks": 0,
+  "total_chars": 603768,
+  "avg_chars_per_article": 2434.5,
+  "archive_mb": 78.29,
+  "notes": "Sitemap articles_pl_*.xml walk, filter: /biznes/ prefix LUB consumer keyword w slug. Paywall articles wykluczone (Pełna treść dostępna marker).",
+  "categories": {
+    "biznes": 248
+  }
+}

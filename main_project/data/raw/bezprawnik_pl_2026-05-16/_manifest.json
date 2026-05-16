@@ -1,6 +1,6 @@
 {
   "scrape_date": "2026-05-16",
-  "count": 3,
+  "count": 200,
   "entries": [
     {
       "article_id": "bezprawnik_0001_nawet_i_100_tys_zotych_kary_za_czerpanie_wody_z_wa",
@@ -14,7 +14,7 @@
       "url": "https://bezprawnik.pl/14-dni-na-zwrot-elektroniki-to-kiepski-pomysl/",
       "status": 200,
       "title": "14 dni na zwrot elektroniki to kiepski pomysł, godzi w interesy sklepów i interesy konsumentów",
-      "char_count": 10208
+      "char_count": 10230
     },
     {
       "article_id": "bezprawnik_0003_36_miesiecy_urlopu_przy_zachowaniu_etatu_takiego_r",
@@ -22,6 +22,1385 @@
       "status": 200,
       "title": "36 miesięcy urlopu przy zachowaniu etatu. Takiego rozwiązania jeszcze nie było",
       "char_count": 7489
+    },
+    {
+      "article_id": "bezprawnik_0004_500_z_za_palete_z_amazona_i_karton_peen_smieci_tak",
+      "url": "https://bezprawnik.pl/500-zl-za-palete-z-amazona-i-karton-pelen-smieci-tak-wyglada-okazja-ktorej-tiktok-ci-nie-pokaze/",
+      "status": 200,
+      "title": "500 zł za paletę z Amazona i karton pełen śmieci. Tak wygląda „okazja”, której TikTok ci nie pokaże",
+      "char_count": 7509
+    },
+    {
+      "article_id": "bezprawnik_0005_73_proc_chorych_polakow_szuka_pieniedzy_u_lichwiar",
+      "url": "https://bezprawnik.pl/73-proc-chorych-polakow-szuka-pieniedzy-u-lichwiarzy-legalny-rynek-ich-odrzuca/",
+      "status": 200,
+      "title": "73 proc. chorych Polaków szuka pieniędzy u lichwiarzy. Legalny rynek ich odrzuca",
+      "char_count": 9956
+    },
+    {
+      "article_id": "bezprawnik_0006_cos_niepokojacego_dzieje_sie_z_ab_foto_zalecamy_os",
+      "url": "https://bezprawnik.pl/ab-foto-opinie-2024/",
+      "status": 200,
+      "title": "Coś niepokojącego dzieje się z AB Foto – zalecamy ostrożność przy zakupach",
+      "char_count": 8272
+    },
+    {
+      "article_id": "bezprawnik_0007_abonament_rtv_doliczany_do_netflixa_szykuje_sie_re",
+      "url": "https://bezprawnik.pl/abonament-rtv-doliczany-do-netflixa/",
+      "status": 200,
+      "title": "Abonament RTV doliczany do Netflixa? Szykuje się rewolucja, która może dotrzeć i do Polski",
+      "char_count": 7713
+    },
+    {
+      "article_id": "bezprawnik_0008_promocja_acera_jesli_sprzet_sie_popsuje_naprawia_g",
+      "url": "https://bezprawnik.pl/acer-reliability-promise-opinie/",
+      "status": 200,
+      "title": "Promocja Acera - jeśli sprzęt się popsuje, naprawią go. Po czym... zwrócą pieniądze",
+      "char_count": 11815
+    },
+    {
+      "article_id": "bezprawnik_0009_allegro_aczy_siy_z_chatgpt_nowa_funkcja_cakowicie_",
+      "url": "https://bezprawnik.pl/allegro-laczy-sily-z-chatem-gpt/",
+      "status": 200,
+      "title": "Allegro łączy siły z ChatGPT. Nowa funkcja całkowicie zmienia sposób zakupów",
+      "char_count": 6400
+    },
+    {
+      "article_id": "bezprawnik_0010_koniec_lubianej_usugi_allegro_wraz_z_koncem_roku_m",
+      "url": "https://bezprawnik.pl/allegro-pay-zmiany-2026/",
+      "status": 200,
+      "title": "Koniec lubianej usługi Allegro wraz z końcem roku. Może działać, o ile zgodzisz się na pewne warunki",
+      "char_count": 6562
+    },
+    {
+      "article_id": "bezprawnik_0011_internauci_sa_naprawde_wsciekli_na_allegro_afera_a",
+      "url": "https://bezprawnik.pl/allegro-rozwscieczylo-internautow/",
+      "status": 200,
+      "title": "Internauci są naprawdę wściekli na Allegro. Afera Allegromatowa będzie mieć swój dalszy ciąg",
+      "char_count": 6492
+    },
+    {
+      "article_id": "bezprawnik_0012_allegro_wkurzyo_kolejna_grupe_internautow_padaja_z",
+      "url": "https://bezprawnik.pl/allegro-wkurzylo-kolejna-grupe-internautow/",
+      "status": 200,
+      "title": "Allegro wkurzyło kolejną grupę internautów. Padają zarzuty masowej inwigilacji",
+      "char_count": 19096
+    },
+    {
+      "article_id": "bezprawnik_0013_podoba_mi_sie_nowy_pomys_amazona_to_moze_byc_rewol",
+      "url": "https://bezprawnik.pl/amazon-lens/",
+      "status": 200,
+      "title": "Podoba mi się nowy pomysł Amazona. To może być rewolucja w robieniu zakupów",
+      "char_count": 7724
+    },
+    {
+      "article_id": "bezprawnik_0014_klientowi_mozna_dosc_atwo_uprzykrzyc_zycie_wystarc",
+      "url": "https://bezprawnik.pl/anulowac-zwrot/",
+      "status": 200,
+      "title": "Klientowi można dość łatwo uprzykrzyć życie. Wystarczy jeden ruch",
+      "char_count": 8343
+    },
+    {
+      "article_id": "bezprawnik_0015_sprzedawca_telefonow_xiaomi_z_allegro_dosta_negaty",
+      "url": "https://bezprawnik.pl/anulowanie-gwarancji/",
+      "status": 200,
+      "title": "Sprzedawca telefonów Xiaomi z Allegro dostał negatywny komentarz, więc „odwołał gwarancję”",
+      "char_count": 7289
+    },
+    {
+      "article_id": "bezprawnik_0016_dlaczego_tak_mao_sklepow_pozwala_na_anulowanie_zam",
+      "url": "https://bezprawnik.pl/anulowanie-zamowienia/",
+      "status": 200,
+      "title": "Dlaczego tak mało sklepów pozwala na anulowanie zamówienia zanim zostanie wysłane? Przecież to oszczędność dla sklepów",
+      "char_count": 7941
+    },
+    {
+      "article_id": "bezprawnik_0017_z_jakiegos_powodu_anulowanie_zwrotu_moze_byc_jeszc",
+      "url": "https://bezprawnik.pl/anulowanie-zwrotu/",
+      "status": 200,
+      "title": "Z jakiegoś powodu anulowanie zwrotu może być jeszcze trudniejsze od anulowania zamówienia",
+      "char_count": 7292
+    },
+    {
+      "article_id": "bezprawnik_0018_kredyt_lub_raty_0_byle_tylko_zaozyc_aparat_ortodon",
+      "url": "https://bezprawnik.pl/aparaty-ortodontyczne-na-kredyt/",
+      "status": 200,
+      "title": "Kredyt lub raty 0%, byle tylko założyć aparat. Ortodoncja stała się dla Polaków towarem luksusowym",
+      "char_count": 7313
+    },
+    {
+      "article_id": "bezprawnik_0019_centrum_serwisowe_asplex_to_duma_acera_sprawdzamy_",
+      "url": "https://bezprawnik.pl/asplex-serwis-acer-opinie/",
+      "status": 200,
+      "title": "Centrum serwisowe Asplex to duma Acera – sprawdzamy jak naprawiają Wasze komputery",
+      "char_count": 27128
+    },
+    {
+      "article_id": "bezprawnik_0020_banki_pod_przymusem_musza_od_nowa_napisac_wszystki",
+      "url": "https://bezprawnik.pl/banki-pod-przymusem-musza-od-nowa-napisac-wszystkie-swoje-umowy-kredytowe/",
+      "status": 200,
+      "title": "Banki pod przymusem. Muszą od nowa napisać wszystkie swoje umowy kredytowe",
+      "char_count": 8016
+    },
+    {
+      "article_id": "bezprawnik_0021_benefit_systems_nie_zna_litosci_pac_za_siownie_naw",
+      "url": "https://bezprawnik.pl/benefit-systems-nie-zna-litosci-plac-za-silownie-nawet-po-operacji/",
+      "status": 200,
+      "title": "Benefit Systems nie zna litości. Płać za siłownię, nawet po operacji",
+      "char_count": 7816
+    },
+    {
+      "article_id": "bezprawnik_0022_bgz_bnp_paribas_podnosi_opaty_czy_mozna_tego_unikn",
+      "url": "https://bezprawnik.pl/bgz-bnp-paribas-podnosi-oplaty-czy-mozna-tego-uniknac/",
+      "status": 200,
+      "title": "BGŻ BNP Paribas podnosi opłaty! Czy można tego uniknąć?",
+      "char_count": 7726
+    },
+    {
+      "article_id": "bezprawnik_0023_uokik_odkry_jak_biedronka_i_lidl_ukryway_rabaty_za",
+      "url": "https://bezprawnik.pl/biedronka-i-lidl-ukrywaly-rabaty-za-pojedyncze-produkty/",
+      "status": 200,
+      "title": "UOKIK odkrył, jak Biedronka i Lidl ukrywały rabaty za pojedyncze produkty. Teraz się to zmieni",
+      "char_count": 8277
+    },
+    {
+      "article_id": "bezprawnik_0024_duze_zmiany_w_biedronce_znana_siec_juz_nie_odda_ci",
+      "url": "https://bezprawnik.pl/biedronka-nowe-zasady-zwrotow/",
+      "status": 200,
+      "title": "Duże zmiany w Biedronce. Znana sieć już nie odda ci pieniędzy, ale paradoksalnie to może być dobra wiadomość",
+      "char_count": 7219
+    },
+    {
+      "article_id": "bezprawnik_0025_biedronka_pobraa_o_32_z_za_duzo_i_nie_chce_oddac_s",
+      "url": "https://bezprawnik.pl/biedronka-pobrala-za-duzo/",
+      "status": 200,
+      "title": "Biedronka pobrała o 32 zł za dużo i nie chce oddać. Sprawą zajmie się Inspekcja Handlowa",
+      "char_count": 11441
+    },
+    {
+      "article_id": "bezprawnik_0026_biedronka_regularnie_laduje_na_dywaniku_urzedu_chr",
+      "url": "https://bezprawnik.pl/biedronka-regularnie-laduje-na-dywaniku/",
+      "status": 200,
+      "title": "Biedronka regularnie ląduje na dywaniku urzędu chroniącego praw konsumentów. Pamiętacie te sprawy?",
+      "char_count": 6626
+    },
+    {
+      "article_id": "bezprawnik_0027_biedronka_naciea_graczy_sprzedaja_filmy_warcraft_p",
+      "url": "https://bezprawnik.pl/biedronka-warcraft-brak-kodow/",
+      "status": 200,
+      "title": "Biedronka nacięła graczy? Sprzedają filmy Warcraft: Początek z kodami na gry WoW. Ale kody ktoś wcześniej wyjął…",
+      "char_count": 6107
+    },
+    {
+      "article_id": "bezprawnik_0028_biedronka_najwyrazniej_nie_uczy_sie_na_bedach_sa_n",
+      "url": "https://bezprawnik.pl/biedronka-wprowadza-klientow-w-blad/",
+      "status": 200,
+      "title": "Biedronka najwyraźniej nie uczy się na błędach. Są nowe zarzuty dotyczące akcji promocyjnych sieci",
+      "char_count": 5540
+    },
+    {
+      "article_id": "bezprawnik_0029_biedronka_znowu_oszukuje_sklep_zosliwie_ukrywa_cen",
+      "url": "https://bezprawnik.pl/biedronka-znowu-oszukuje/",
+      "status": 200,
+      "title": "„Biedronka znowu oszukuje”. Sklep złośliwie ukrywa ceny towarów, internauci grzmią",
+      "char_count": 6491
+    },
+    {
+      "article_id": "bezprawnik_0030_bilet_na_impreze_niemozliwy_do_zwrotu_ciezki_do_od",
+      "url": "https://bezprawnik.pl/bilet-na-impreze-niemozliwy-do-zwrotu-ciezki-do-odsprzedania/",
+      "status": 200,
+      "title": "Bilet na imprezę – niemożliwy do zwrotu, ciężki do odsprzedania",
+      "char_count": 5498
+    },
+    {
+      "article_id": "bezprawnik_0031_black_friday_hit_czy_kit_czy_aby_na_pewno_oszczedz",
+      "url": "https://bezprawnik.pl/black-friday-hit-czy-kit/",
+      "status": 200,
+      "title": "Black Friday – hit czy kit? Czy aby na pewno oszczędzasz w czarnopiątkowych promocjach?",
+      "char_count": 7777
+    },
+    {
+      "article_id": "bezprawnik_0032_niektore_regulaminy_sklepow_internetowych_ogranicz",
+      "url": "https://bezprawnik.pl/bledy-zwiazane-z-prawem-odstapienia-od-umowy/",
+      "status": 200,
+      "title": "Niektóre regulaminy sklepów internetowych ograniczają prawo konsumenta do odstąpienia od umowy. Jakie błędy sprzedawcy p",
+      "char_count": 8638
+    },
+    {
+      "article_id": "bezprawnik_0033_bojkot_media_expert_moze_wyjsc_fanom_tv_republika_",
+      "url": "https://bezprawnik.pl/bojkot-media-expert/",
+      "status": 200,
+      "title": "Bojkot Media Expert może wyjść fanom TV Republika bokiem, jeśli dadzą się podpuścić do zamawiania i zwracania towaru",
+      "char_count": 9527
+    },
+    {
+      "article_id": "bezprawnik_0034_booking_znow_przyzna_swoim_klientom_rekompensate_w",
+      "url": "https://bezprawnik.pl/booking-znow-przyzna-swoim-klientom-rekompensate/",
+      "status": 200,
+      "title": "Booking znów przyzna swoim klientom rekompensatę. Warto sprawdzić, czy dostaliśmy wiadomość",
+      "char_count": 6760
+    },
+    {
+      "article_id": "bezprawnik_0035_darmowa_kasa_od_booking_wystarczy_wypenic_formular",
+      "url": "https://bezprawnik.pl/booking/",
+      "status": 200,
+      "title": "Darmowa kasa od Booking! Wystarczy wypełnić formularz",
+      "char_count": 8388
+    },
+    {
+      "article_id": "bezprawnik_0036_wojna_o_lezaki_w_hotelu_skonczya_sie_w_sadzie_tui_",
+      "url": "https://bezprawnik.pl/brak-lezakow-na-wakacjach-z-biurem-podrozy/",
+      "status": 200,
+      "title": "„Wojna o leżaki” w hotelu skończyła się w sądzie. TUI musi zapłacić odszkodowanie",
+      "char_count": 7077
+    },
+    {
+      "article_id": "bezprawnik_0037_klient_zareklamowa_monitor_w_media_expert_uzyska_o",
+      "url": "https://bezprawnik.pl/brak-naklejki-a-reklamacja/",
+      "status": 200,
+      "title": "Klient zareklamował monitor w Media Expert. Uzyskał odmowę, bo na obudowie brakowało naklejki",
+      "char_count": 7596
+    },
+    {
+      "article_id": "bezprawnik_0038_brak_zamowionego_towaru_na_stanie_to_jeszcze_nie_k",
+      "url": "https://bezprawnik.pl/brak-zamowionego-towaru/",
+      "status": 200,
+      "title": "Brak zamówionego towaru na stanie to jeszcze nie koniec świata. Podpowiadamy, co robić w takiej sytuacji",
+      "char_count": 9011
+    },
+    {
+      "article_id": "bezprawnik_0039_cyberpunk_2077_jest_mocno_zabugowany_czy_mozesz_sk",
+      "url": "https://bezprawnik.pl/bugi-w-grze-a-rekojmia/",
+      "status": 200,
+      "title": "Cyberpunk 2077 jest mocno zabugowany. Czy możesz skorzystać z rękojmi lub gwarancji, skoro gra nie działa jak należy?",
+      "char_count": 7715
+    },
+    {
+      "article_id": "bezprawnik_0040_byem_w_koncu_w_tym_synnym_dino_uczucia_mam_mieszan",
+      "url": "https://bezprawnik.pl/bylem-w-koncu-w-tym-slynnym-dino/",
+      "status": 200,
+      "title": "Byłem w końcu w tym słynnym Dino. Uczucia mam mieszane, ale na pewno ośmieszają Biedronkę",
+      "char_count": 10447
+    },
+    {
+      "article_id": "bezprawnik_0041_byy_klient_upc_pokazuje_absurd_po_fuzji_z_play_fiz",
+      "url": "https://bezprawnik.pl/byly-klient-upc-pokazuje-absurd-po-fuzji-z-play/",
+      "status": 200,
+      "title": "Były klient UPC pokazuje absurd po fuzji z Play. „Fizycznie to niemożliwe, a oni i tak fakturują”",
+      "char_count": 9444
+    },
+    {
+      "article_id": "bezprawnik_0042_tajemniczy_link_przesany_sms_em_wygladao_jak_oszus",
+      "url": "https://bezprawnik.pl/calzedonia-zwroty/",
+      "status": 200,
+      "title": "Tajemniczy link przesłany SMS-em. Wyglądało jak oszuści, a to tylko Calzedonia chce mi dać pieniądze",
+      "char_count": 6629
+    },
+    {
+      "article_id": "bezprawnik_0043_uokik_nie_zajmuje_sie_nizszymi_cenami_za_granica_a",
+      "url": "https://bezprawnik.pl/ceny-gier-na-steam/",
+      "status": 200,
+      "title": "UOKiK nie zajmuje się niższymi cenami za granicą, ale akurat cenami gier na Steam powinien się zainteresować",
+      "char_count": 8549
+    },
+    {
+      "article_id": "bezprawnik_0044_kara_dla_sklepow_w_wysokosci_nawet_10_proc_przycho",
+      "url": "https://bezprawnik.pl/ceny-maksymalne/",
+      "status": 200,
+      "title": "Kara dla sklepów w wysokości nawet 10 proc. przychodu za zawyżanie cen. Carrefour tymczasem wprowadza gwarancję niezmien",
+      "char_count": 6398
+    },
+    {
+      "article_id": "bezprawnik_0045_ceny_na_steam_zostana_zbadane_przez_uokik_interwen",
+      "url": "https://bezprawnik.pl/ceny-na-steam-minister-zglasza-do-uokik/",
+      "status": 200,
+      "title": "Ceny na Steam zostaną zbadane przez UOKiK. Interweniował wiceminister cyfryzacji",
+      "char_count": 6827
+    },
+    {
+      "article_id": "bezprawnik_0046_zastanow_sie_dwa_razy_czy_chcesz_reklamowac_popsut",
+      "url": "https://bezprawnik.pl/ceny-ram-reklamacja/",
+      "status": 200,
+      "title": "Zastanów się dwa razy czy chcesz reklamować popsuty komputer. Sklep pewnie zwróci ci pieniądze",
+      "char_count": 6809
+    },
+    {
+      "article_id": "bezprawnik_0047_chciwosc_ubera_nie_zna_granic_zapac_5_z_albo_najpi",
+      "url": "https://bezprawnik.pl/chciwosc-ubera-nie-zna-granic-zaplac-5-zl-albo-najpierw-obwioza-twoj-obiad-po-calym-miescie/",
+      "status": 200,
+      "title": "Chciwość Ubera nie zna granic. Zapłać 5 zł albo najpierw obwiozą twój obiad po całym mieście",
+      "char_count": 11328
+    },
+    {
+      "article_id": "bezprawnik_0048_chemia_z_niemiec_to_zazwyczaj_mit_a_czasem_nawet_p",
+      "url": "https://bezprawnik.pl/chemia-z-niemiec/",
+      "status": 200,
+      "title": "Chemia z Niemiec to zazwyczaj mit, a czasem nawet pełnoprawne oszustwo",
+      "char_count": 7826
+    },
+    {
+      "article_id": "bezprawnik_0049_porownaam_chinskie_platformy_zakupowe_temu_wypada_",
+      "url": "https://bezprawnik.pl/chinskie-platformy-zakupowe/",
+      "status": 200,
+      "title": "Porównałam chińskie platformy zakupowe. Temu wypada naprawdę blado",
+      "char_count": 8831
+    },
+    {
+      "article_id": "bezprawnik_0050_ciocia_posza_do_media_expert_po_dysona_wrocia_z_ja",
+      "url": "https://bezprawnik.pl/ciocia-poszla-do-media-expert-po-dysona/",
+      "status": 200,
+      "title": "Ciocia poszła do Media Expert po Dysona. Wróciła z jakąś drogą tandetą. I to są tematy dla UOKiK-u",
+      "char_count": 15856
+    },
+    {
+      "article_id": "bezprawnik_0051_internauci_wpadli_w_panike_przez_puste_kapsle_tymb",
+      "url": "https://bezprawnik.pl/co-dalej-z-kapslami-tymbarku/",
+      "status": 200,
+      "title": "Internauci wpadli w panikę przez puste kapsle Tymbarku. Teraz wiadomo, o co naprawdę chodziło",
+      "char_count": 7571
+    },
+    {
+      "article_id": "bezprawnik_0052_sprzeda_cenna_ksiazke_na_allegro_chcia_na_niej_zar",
+      "url": "https://bezprawnik.pl/co-robic-gdy-kupujacy-z-allegro-nie-odbierze-paczki/",
+      "status": 200,
+      "title": "Sprzedał cenną książkę na Allegro. Chciał na niej zarobić dwa razy i omal nie wpadł w kłopoty",
+      "char_count": 6960
+    },
+    {
+      "article_id": "bezprawnik_0053_black_friday_2021_o_czym_pamietac_w_kwestii_praw_k",
+      "url": "https://bezprawnik.pl/co-warto-kupic-w-black-friday/",
+      "status": 200,
+      "title": "Black Friday 2021, o czym pamiętać w kwestii praw konsumenta",
+      "char_count": 6191
+    },
+    {
+      "article_id": "bezprawnik_0054_creative_znowu_odmowi_naprawy_gwarancyjnej_uzytkow",
+      "url": "https://bezprawnik.pl/creative-odmowil-naprawy-gwarancyjnej-prawo/",
+      "status": 200,
+      "title": "Creative znowu odmówił naprawy gwarancyjnej – użytkownik opublikował historię w internecie",
+      "char_count": 6844
+    },
+    {
+      "article_id": "bezprawnik_0055_ing_bank_slaski_pozytywnie_zaskakuje_na_te_funkcje",
+      "url": "https://bezprawnik.pl/cyfrowa-hipoteka-w-ing/",
+      "status": 200,
+      "title": "ING Bank Śląski pozytywnie zaskakuje. Na te funkcje czekaliśmy od dawna",
+      "char_count": 6753
+    },
+    {
+      "article_id": "bezprawnik_0056_czas_oczekiwania_na_dostawe_nie_moze_ciagnac_sie_w",
+      "url": "https://bezprawnik.pl/czas-na-dostawe-towaru/",
+      "status": 200,
+      "title": "Czas oczekiwania na dostawę nie może ciągnąć się w nieskończoność",
+      "char_count": 7336
+    },
+    {
+      "article_id": "bezprawnik_0057_zbyt_dugi_czas_oczekiwania_na_dostawe_to_wciaz_pow",
+      "url": "https://bezprawnik.pl/czas-oczekiwania-na-dostawe/",
+      "status": 200,
+      "title": "Zbyt długi czas oczekiwania na dostawę to wciąż poważny problem w handlu online. I dla klientów, i dla sprzedających",
+      "char_count": 7559
+    },
+    {
+      "article_id": "bezprawnik_0058_nie_kazda_rzecz_da_sie_zwrocic_powodem_sa_nie_tylk",
+      "url": "https://bezprawnik.pl/czego-nie-mozemy-zwrocic/",
+      "status": 200,
+      "title": "Nie każdą rzecz da się zwrócić. Powodem są nie tylko zamknięte galerie handlowe",
+      "char_count": 7189
+    },
+    {
+      "article_id": "bezprawnik_0059_czego_konsument_nie_ma_prawa_zwrocic_w_ciagu_14_dn",
+      "url": "https://bezprawnik.pl/czego-nie-mozna-zwrocic-jako-konsument/",
+      "status": 200,
+      "title": "Czego konsument nie ma prawa zwrócić w ciągu 14 dni",
+      "char_count": 9257
+    },
+    {
+      "article_id": "bezprawnik_0060_nawet_jesli_bank_odmowi_kredytu_potezne_prawa_stoj",
+      "url": "https://bezprawnik.pl/czy-bank-moze-odmowic-udzielenia-kredytu-bez-podania-przyczyny/",
+      "status": 200,
+      "title": "Nawet jeśli bank odmówił kredytu, potężne prawa stoją po naszej stronie",
+      "char_count": 14956
+    },
+    {
+      "article_id": "bezprawnik_0061_czy_biedronka_zamaa_prawo_klient_ze_supska_zada_in",
+      "url": "https://bezprawnik.pl/czy-biedronka-zlamala-prawo-klient-ze-slupska-zada-interwencji-uokik/",
+      "status": 200,
+      "title": "Czy Biedronka złamała prawo? Klient ze Słupska żąda interwencji UOKiK",
+      "char_count": 10253
+    },
+    {
+      "article_id": "bezprawnik_0062_czy_do_zwracanego_towaru_konsument_musi_zaaczyc_ja",
+      "url": "https://bezprawnik.pl/czy-do-zwracanego-towaru-klient-musi-zalaczyc-dokumenty/",
+      "status": 200,
+      "title": "Czy do zwracanego towaru konsument musi załączyć jakieś dokumenty?",
+      "char_count": 7807
+    },
+    {
+      "article_id": "bezprawnik_0063_otrzymaes_towar_bez_karty_gwarancyjnej_konsekwencj",
+      "url": "https://bezprawnik.pl/czy-karta-gwarancyjna-jest-potrzebna-przy-reklamacji/",
+      "status": 200,
+      "title": "Otrzymałeś towar bez karty gwarancyjnej? Konsekwencje nie takie straszne jak je malują",
+      "char_count": 7008
+    },
+    {
+      "article_id": "bezprawnik_0064_czy_kurier_moze_zostawic_paczke_pod_drzwiami_odpow",
+      "url": "https://bezprawnik.pl/czy-kurier-moze-zostawic-paczke-pod-drzwiami/",
+      "status": 200,
+      "title": "Czy kurier może zostawić paczkę pod drzwiami? Odpowiedzialność za przesyłkę, reklamacja i ciężar dowodu",
+      "char_count": 15445
+    },
+    {
+      "article_id": "bezprawnik_0065_czy_mieszkanie_bez_wkadu_wasnego_jest_dobrym_pomys",
+      "url": "https://bezprawnik.pl/czy-mieszkanie-bez-wkladu-wlasnego-jest-dobrym-pomyslem/",
+      "status": 200,
+      "title": "Czy mieszkanie bez wkładu własnego jest dobrym pomysłem?",
+      "char_count": 7945
+    },
+    {
+      "article_id": "bezprawnik_0066_czy_moge_reklamowac_towar_po_gwarancji_masz_pene_2",
+      "url": "https://bezprawnik.pl/czy-moge-reklamowac-towar-po-gwarancji/",
+      "status": 200,
+      "title": "Czy mogę reklamować towar po gwarancji? Masz pełne 2 lata na dochodzenie roszczeń",
+      "char_count": 13046
+    },
+    {
+      "article_id": "bezprawnik_0067_czy_moge_zwrocic_towar_bez_paragonu_reklamacja_a_z",
+      "url": "https://bezprawnik.pl/czy-moge-zwrocic-towar-bez-paragonu/",
+      "status": 200,
+      "title": "Czy mogę zwrócić towar bez paragonu? Reklamacja a zwrot i podstawowa różnica",
+      "char_count": 8701
+    },
+    {
+      "article_id": "bezprawnik_0068_czy_mozna_zwrocic_przypadkowo_zakupionego_ebooka",
+      "url": "https://bezprawnik.pl/czy-mozna-zwrocic-ebooka/",
+      "status": 200,
+      "title": "Czy można zwrócić przypadkowo zakupionego ebooka?",
+      "char_count": 6480
+    },
+    {
+      "article_id": "bezprawnik_0069_czy_polak_moze_sprzedawac_towar_przez_internet_jes",
+      "url": "https://bezprawnik.pl/czy-polak-moze-sprzedawac-towar-przez-internet/",
+      "status": 200,
+      "title": "Czy Polak może sprzedawać towar przez internet, jeśli za granicą prawo jest inne?",
+      "char_count": 6464
+    },
+    {
+      "article_id": "bezprawnik_0070_reklamacja_to_swiete_prawo_konsumenta_ale_nie_wedu",
+      "url": "https://bezprawnik.pl/czy-reklamacja-moze-byc-oszczerstwem/",
+      "status": 200,
+      "title": "Reklamacja to święte prawo konsumenta. Ale nie według Janusza biznesu",
+      "char_count": 6782
+    },
+    {
+      "article_id": "bezprawnik_0071_przymierzya_bielizne_z_zalando_gdy_chciaa_zwrocic_",
+      "url": "https://bezprawnik.pl/czy-sklep-moze-nie-przyjac-zwrotu-bielizny/",
+      "status": 200,
+      "title": "Przymierzyła bieliznę z Zalando. Gdy chciała zwrócić, dowiedziała się, że nie może",
+      "char_count": 13225
+    },
+    {
+      "article_id": "bezprawnik_0072_czy_sklep_moze_odmowic_przyjecia_reklamacji_obalam",
+      "url": "https://bezprawnik.pl/czy-sklep-moze-odmowic-przyjecia-reklamacji/",
+      "status": 200,
+      "title": "Czy sklep może odmówić przyjęcia reklamacji? Obalamy mit „nie przyjmujemy reklamacji”",
+      "char_count": 9143
+    },
+    {
+      "article_id": "bezprawnik_0073_czy_ubrania_z_wyprzedazy_mozna_oddac_lub_reklamowa",
+      "url": "https://bezprawnik.pl/czy-ubrania-z-wyprzedazy-mozna-oddac-lub-reklamowac/",
+      "status": 200,
+      "title": "Czy ubrania z wyprzedaży można oddać lub reklamować?",
+      "char_count": 6937
+    },
+    {
+      "article_id": "bezprawnik_0074_czy_z_nieprzeczytanej_umowy_mozna_sie_wycofac",
+      "url": "https://bezprawnik.pl/czy-z-nieprzeczytanej-umowy-mozna-sie-wycofac/",
+      "status": 200,
+      "title": "Czy z nieprzeczytanej umowy można się wycofać?",
+      "char_count": 6267
+    },
+    {
+      "article_id": "bezprawnik_0075_czy_zle_wykonana_usuge_trzeba_opacic",
+      "url": "https://bezprawnik.pl/czy-zle-wykonana-usluge-trzeba-oplacic/",
+      "status": 200,
+      "title": "Czy źle wykonaną usługę trzeba opłacić?",
+      "char_count": 6975
+    },
+    {
+      "article_id": "bezprawnik_0076_darmowe_zwroty_powinny_zniknac_ze_sklepow_internet",
+      "url": "https://bezprawnik.pl/czy-zwroty-powinny-byc-darmowe/",
+      "status": 200,
+      "title": "Darmowe zwroty powinny zniknąć ze sklepów internetowych",
+      "char_count": 8092
+    },
+    {
+      "article_id": "bezprawnik_0077_czytelniczka_zostaa_oszukana_przez_rtv_euro_agd_ni",
+      "url": "https://bezprawnik.pl/czytelniczka-zostala-oszukana-przez-rtv-euro-agd/",
+      "status": 200,
+      "title": "Czytelniczka została oszukana przez RTV EURO AGD. Nie warto było dopłacać do ubezpieczenia w tamtej promocji",
+      "char_count": 6477
+    },
+    {
+      "article_id": "bezprawnik_0078_zakup_marzen_przerodzi_sie_w_koszmar_nasz_czytelni",
+      "url": "https://bezprawnik.pl/czytelnik-dostal-potluczona-tesle-z-salonu/",
+      "status": 200,
+      "title": "Zakup marzeń przerodził się w koszmar. Nasz czytelnik dostał potłuczoną Teslę z salonu i groźbę dożywotniego bana, jeśli",
+      "char_count": 7169
+    },
+    {
+      "article_id": "bezprawnik_0079_czytelnik_twierdzi_ze_uderzya_go_kierowniczka_skle",
+      "url": "https://bezprawnik.pl/czytelnik-twierdzi-ze-uderzyla-go-kierowniczka-sklepu-action/",
+      "status": 200,
+      "title": "Czytelnik twierdzi, że uderzyła go kierowniczka sklepu Action. No nie wiem, ale sklep i tak się nie popisał",
+      "char_count": 12091
+    },
+    {
+      "article_id": "bezprawnik_0080_dark_patterns_to_nie_tylko_oszukiwanie_klientow_al",
+      "url": "https://bezprawnik.pl/dark-patterns/",
+      "status": 200,
+      "title": "Dark patterns to nie tylko oszukiwanie klientów, ale także bardziej uciążliwe przejawy manipulacji",
+      "char_count": 8994
+    },
+    {
+      "article_id": "bezprawnik_0081_tsue_zamkna_frankowiczom_furtke_do_darmowego_miesz",
+      "url": "https://bezprawnik.pl/darmowe-mieszkania-tsue/",
+      "status": 200,
+      "title": "TSUE zamknął frankowiczom furtkę do „darmowego mieszkania”. Ale wyrok zostawił jeden wentyl",
+      "char_count": 11206
+    },
+    {
+      "article_id": "bezprawnik_0082_darmowe_obiady_prosto_pod_drzwi_w_2026_roku_dostan",
+      "url": "https://bezprawnik.pl/darmowe-obiady-dla-seniorow/",
+      "status": 200,
+      "title": "Darmowe obiady prosto pod drzwi. W 2026 roku dostaną je tysiące seniorów",
+      "char_count": 8449
+    },
+    {
+      "article_id": "bezprawnik_0083_darmowe_zwroty_na_allegro_obejmuja_juz_nie_tylko_p",
+      "url": "https://bezprawnik.pl/darmowe-zwroty-na-allegro/",
+      "status": 200,
+      "title": "Darmowe zwroty na Allegro obejmują już nie tylko pakiet Allegro Smart",
+      "char_count": 6959
+    },
+    {
+      "article_id": "bezprawnik_0084_darmowe_zwroty_w_amazon_odchodza_do_przeszosci_na_",
+      "url": "https://bezprawnik.pl/darmowe-zwroty-w-amazon/",
+      "status": 200,
+      "title": "Darmowe zwroty w Amazon odchodzą do przeszłości, na razie tylko w USA i tylko częściowo",
+      "char_count": 8088
+    },
+    {
+      "article_id": "bezprawnik_0085_nie_zawsze_to_kupujacy_musi_zapacic_za_zwrot_towar",
+      "url": "https://bezprawnik.pl/darmowy-zwrot-towaru/",
+      "status": 200,
+      "title": "Nie zawsze to kupujący musi zapłacić za zwrot towaru do sklepu",
+      "char_count": 7105
+    },
+    {
+      "article_id": "bezprawnik_0086_zwyke_koszulki_potrafia_juz_kosztowac_po_1800_zoty",
+      "url": "https://bezprawnik.pl/decathlon-koszulki-pilkarskie/",
+      "status": 200,
+      "title": "Zwykłe koszulki potrafią już kosztować po 1800 złotych. Decathlon w końcu przerwał to szaleństwo",
+      "char_count": 8830
+    },
+    {
+      "article_id": "bezprawnik_0087_deweloperzy_kontratakuja_i_apeluja_do_rzadu_o_dzia",
+      "url": "https://bezprawnik.pl/deweloperzy-apeluja-do-rzadu-o-podjecie-dzialan/",
+      "status": 200,
+      "title": "Deweloperzy kontratakują. I apelują do rządu o działania ułatwiające dostęp do własnej nieruchomości",
+      "char_count": 6077
+    },
+    {
+      "article_id": "bezprawnik_0088_gwarancja_wkadu_wasnego_i_dopaty_do_kredytu_hipote",
+      "url": "https://bezprawnik.pl/dla-kogo-gwarancja-wkladu-wlasnego/",
+      "status": 200,
+      "title": "Gwarancja wkładu własnego i dopłaty do kredytu hipotecznego jednak z dodatkowymi warunkami. Będzie też obowiązywać zasad",
+      "char_count": 7408
+    },
+    {
+      "article_id": "bezprawnik_0089_sprzet_zepsu_sie_w_ostatnim_dniu_gwarancji_co_robi",
+      "url": "https://bezprawnik.pl/do-kiedy-mozna-zlozyc-reklamacje/",
+      "status": 200,
+      "title": "Sprzęt zepsuł się w ostatnim dniu gwarancji. Co robić?",
+      "char_count": 5961
+    },
+    {
+      "article_id": "bezprawnik_0090_dopata_5_tys_z_dla_singla_10_tys_z_dla_bezdzietnej",
+      "url": "https://bezprawnik.pl/doplata-5-tys-zl-dla-singla/",
+      "status": 200,
+      "title": "Dopłata 5 tys. zł dla singla, 10 tys. zł dla bezdzietnej pary. Na tyle w ramach Polskiego Ładu mogą liczyć osoby, które ",
+      "char_count": 7896
+    },
+    {
+      "article_id": "bezprawnik_0091_dowod_zakupu_to_nie_tylko_paragon_czy_faktura_sprz",
+      "url": "https://bezprawnik.pl/dowod-zakupu/",
+      "status": 200,
+      "title": "Dowód zakupu to nie tylko paragon czy faktura. Sprzedawca powinien honorować nawet wyciąg z konta",
+      "char_count": 7485
+    },
+    {
+      "article_id": "bezprawnik_0092_cenna_rodzinna_pamiatka_zostaa_zniszczona_podczas_",
+      "url": "https://bezprawnik.pl/dpd-uszkodzona-paczka/",
+      "status": 200,
+      "title": "Cenna rodzinna pamiątka została zniszczona podczas wysyłki kurierem DPD, ale firma zachowała się w porządku",
+      "char_count": 7188
+    },
+    {
+      "article_id": "bezprawnik_0093_tanio_juz_byo_allegro_smart_rozkocha_a_teraz_bedzi",
+      "url": "https://bezprawnik.pl/drozej-z-allegro-smart/",
+      "status": 200,
+      "title": "Tanio już było. Allegro Smart rozkochał, a teraz będzie droższy",
+      "char_count": 7176
+    },
+    {
+      "article_id": "bezprawnik_0094_pracownica_play_straszya_klientke_pogorszeniem_zas",
+      "url": "https://bezprawnik.pl/drozszy-abonament-w-play-a-zasieg/",
+      "status": 200,
+      "title": "Pracownica Play straszyła klientkę pogorszeniem zasięgu. Chciała ją zmusić do droższego abonamentu",
+      "char_count": 7248
+    },
+    {
+      "article_id": "bezprawnik_0095_dlaczego_druk_3d_moze_byc_pomocny_w_codziennych_na",
+      "url": "https://bezprawnik.pl/druk-3d-naprawa/",
+      "status": 200,
+      "title": "Dlaczego druk 3D może być pomocny w codziennych naprawach?",
+      "char_count": 8432
+    },
+    {
+      "article_id": "bezprawnik_0096_swietne_wiesci_unia_europejska_idzie_na_wojne_z_sz",
+      "url": "https://bezprawnik.pl/dyrektywa-ecodesign/",
+      "status": 200,
+      "title": "Świetne wieści! Unia Europejska idzie na wojnę z szybko psującymi się gadżetami i elektroniką!",
+      "char_count": 7035
+    },
+    {
+      "article_id": "bezprawnik_0097_dziaalnosc_nierejestrowana_to_dobry_sposob_na_pocz",
+      "url": "https://bezprawnik.pl/dzialalnosc-nierejestrowana-w-ecommerce/",
+      "status": 200,
+      "title": "Działalność nierejestrowana to dobry sposób na początek przygody ze sprzedażą w internecie",
+      "char_count": 9105
+    },
+    {
+      "article_id": "bezprawnik_0098_nie_jestes_pewien_ze_caosc_zamowienia_dotrze_do_kl",
+      "url": "https://bezprawnik.pl/dzielenie-zamowienia/",
+      "status": 200,
+      "title": "Nie jesteś pewien, że całość zamówienia dotrze do klienta dostatecznie szybko? Po prostu je podziel",
+      "char_count": 8349
+    },
+    {
+      "article_id": "bezprawnik_0099_ecommerce_od_bezprawnika_biznes",
+      "url": "https://bezprawnik.pl/ecommerce/",
+      "status": 200,
+      "title": "eCommerce od Bezprawnika - biznes",
+      "char_count": 829
+    },
+    {
+      "article_id": "bezprawnik_0100_przeomowy_wyrok_tsue_nie_mozna_prowadzic_egzekucji",
+      "url": "https://bezprawnik.pl/elektroniczny-nakaz-zaplaty/",
+      "status": 200,
+      "title": "Przełomowy wyrok TSUE: nie można prowadzić egzekucji z elektronicznego nakazu zapłaty. To może być koniec e-sądów",
+      "char_count": 7461
+    },
+    {
+      "article_id": "bezprawnik_0101_empik_z_rekompensata_klienci_odzyskaja_pieniadze_p",
+      "url": "https://bezprawnik.pl/empik-z-rekompensata-dla-klientow/",
+      "status": 200,
+      "title": "Empik z rekompensatą. Klienci odzyskają pieniądze po interwencji UOKiK",
+      "char_count": 6402
+    },
+    {
+      "article_id": "bezprawnik_0102_prywatny_pakiet_medyczny_to_juz_troche_za_mao_tera",
+      "url": "https://bezprawnik.pl/enel-med-oferuje-pakiety-z-gwarancja/",
+      "status": 200,
+      "title": "Prywatny pakiet medyczny to już trochę za mało. Teraz Enel-Med oferuje pakiety z gwarancją, że lekarz nas przyjmie",
+      "char_count": 5997
+    },
+    {
+      "article_id": "bezprawnik_0103_pasazerowie_enter_air_dostana_pieniadze_bez_skadan",
+      "url": "https://bezprawnik.pl/enter-air-wyplaci-pasazerom-rekompensaty/",
+      "status": 200,
+      "title": "Pasażerowie Enter Air dostaną pieniądze bez składania wniosków. UOKiK zdecydował",
+      "char_count": 8067
+    },
+    {
+      "article_id": "bezprawnik_0104_faszywa_woda_w_sklepach_uokik_podja_juz_dziaania_m",
+      "url": "https://bezprawnik.pl/falszywa-woda-w-sklepach/",
+      "status": 200,
+      "title": "„Fałszywa woda” w sklepach. UOKiK podjął już działania, MZ chce zmiany prawa",
+      "char_count": 6899
+    },
+    {
+      "article_id": "bezprawnik_0105_finanse_blog",
+      "url": "https://bezprawnik.pl/finanse/",
+      "status": 200,
+      "title": "finanse.blog",
+      "char_count": 4383
+    },
+    {
+      "article_id": "bezprawnik_0106_firma_blog_blizej_przedsiebiorcow_od_bezprawnik_pl",
+      "url": "https://bezprawnik.pl/firma/",
+      "status": 200,
+      "title": "FIRMA.BLOG bliżej przedsiębiorców od Bezprawnik.pl",
+      "char_count": 4331
+    },
+    {
+      "article_id": "bezprawnik_0107_7_milionow_zotych_kar_i_nazwiska_ukaranych_uokik_r",
+      "url": "https://bezprawnik.pl/firmy-oze-kara-uokik/",
+      "status": 200,
+      "title": "7 milionów złotych kar i nazwiska ukaranych. UOKiK rozprawia się z branżą OZE",
+      "char_count": 8691
+    },
+    {
+      "article_id": "bezprawnik_0108_a_jednak_mozna_jezdzic_samochodem_i_to_nie_przekre",
+      "url": "https://bezprawnik.pl/ford-uznal-gwarancje/",
+      "status": 200,
+      "title": "A jednak można jeździć samochodem i to nie przekreśla gwarancji. Refleksja Forda po publikacji Bezprawnika",
+      "char_count": 8147
+    },
+    {
+      "article_id": "bezprawnik_0109_formularz_zwrotu_powinien_trafiac_do_kazdej_przesy",
+      "url": "https://bezprawnik.pl/formularz-zwrotu/",
+      "status": 200,
+      "title": "Formularz zwrotu powinien trafiać do każdej przesyłki z zamówieniem",
+      "char_count": 7755
+    },
+    {
+      "article_id": "bezprawnik_0110_premium_raczej_problem_garmin_usmierca_zegarek_akt",
+      "url": "https://bezprawnik.pl/garmin-usmierca-zegarek-aktualizacja/",
+      "status": 200,
+      "title": "Premium? Raczej problem. Garmin uśmierca zegarek aktualizacją, musisz kupić nowy",
+      "char_count": 8308
+    },
+    {
+      "article_id": "bezprawnik_0111_opowiedz_bezprawnikowi_jak_potukes_swoj_smartfon_g",
+      "url": "https://bezprawnik.pl/gorepair-konkurs/",
+      "status": 200,
+      "title": "Opowiedz Bezprawnikowi, jak potłukłeś swój smartfon. GoRepair naprawi urządzenia autorów najlepszych historii [KONKURS R",
+      "char_count": 6087
+    },
+    {
+      "article_id": "bezprawnik_0112_prawo_w_polsce_chroni_cie_lepiej_i_skuteczniej_niz",
+      "url": "https://bezprawnik.pl/gwarancja-a-rekojmia/",
+      "status": 200,
+      "title": "Prawo w Polsce chroni Cię lepiej i skuteczniej niż w Chinach. Dlatego Xiaomi lepiej kupić w autoryzowanym salonie",
+      "char_count": 8227
+    },
+    {
+      "article_id": "bezprawnik_0113_gwarancja_czy_rekojmia_jak_dziaac_gdy_towar_jest_w",
+      "url": "https://bezprawnik.pl/gwarancja-czy-rekojmia-jak-dzialac-gdy-towar-jest-wadliwy/",
+      "status": 200,
+      "title": "Gwarancja czy rękojmia – jak działać gdy towar jest wadliwy?",
+      "char_count": 6965
+    },
+    {
+      "article_id": "bezprawnik_0114_gwarancja_czy_rekojmia_ktore_swiadczenie_lepiej_wy",
+      "url": "https://bezprawnik.pl/gwarancja-czy-rekojmia-laptop/",
+      "status": 200,
+      "title": "Gwarancja czy rękojmia – które świadczenie lepiej wybrać w przypadku awarii laptopa?",
+      "char_count": 13006
+    },
+    {
+      "article_id": "bezprawnik_0115_gwarancja_na_samochod_serwisowany_poza_aso_nie_prz",
+      "url": "https://bezprawnik.pl/gwarancja-na-samochod-serwis-aso/",
+      "status": 200,
+      "title": "Gwarancja na samochód serwisowany poza ASO nie przepada",
+      "char_count": 6451
+    },
+    {
+      "article_id": "bezprawnik_0116_chcesz_utrzymac_gwarancje_na_pojazd_wcale_nie_musi",
+      "url": "https://bezprawnik.pl/gwarancja-na-samochod/",
+      "status": 200,
+      "title": "Chcesz utrzymać gwarancję na pojazd? Wcale nie musisz serwisować go w ASO!",
+      "char_count": 8269
+    },
+    {
+      "article_id": "bezprawnik_0117_z_gwarancja_niezmiennosci_ceny_wycieczki_lepiej_da",
+      "url": "https://bezprawnik.pl/gwarancja-niezmiennosci-ceny/",
+      "status": 200,
+      "title": "Z gwarancją niezmienności ceny wycieczki lepiej dać sobie spokój. Biura mogą podnieść opłaty tylko w kilku przypadkach",
+      "char_count": 7434
+    },
+    {
+      "article_id": "bezprawnik_0118_kupujesz_towar_od_producenta_a_wysyke_od_razu_kier",
+      "url": "https://bezprawnik.pl/gwarancja-towaru/",
+      "status": 200,
+      "title": "Kupujesz towar od producenta a wysyłkę od razu kierujesz do swojego klienta? Uważaj, bo to nie zwalnia cię od odpowiedzi",
+      "char_count": 7242
+    },
+    {
+      "article_id": "bezprawnik_0119_gwarancja_w_sklepie_internetowym_czy_musimy_respek",
+      "url": "https://bezprawnik.pl/gwarancja-w-ecommerce/",
+      "status": 200,
+      "title": "Gwarancja w sklepie internetowym. Czy musimy respektować?",
+      "char_count": 6629
+    },
+    {
+      "article_id": "bezprawnik_0120_szwecja_otrzymaa_gwarancje_bezpieczenstwa_ze_stron",
+      "url": "https://bezprawnik.pl/gwarancje-bezpieczenstwa/",
+      "status": 200,
+      "title": "Szwecja otrzymała gwarancje bezpieczeństwa ze strony USA związane z jej przystąpieniem do NATO",
+      "char_count": 8621
+    },
+    {
+      "article_id": "bezprawnik_0121_nawet_przedsiebiorcy_ktorzy_maja_krotka_historie_k",
+      "url": "https://bezprawnik.pl/gwarancje-de-minimis-z-bgk/",
+      "status": 200,
+      "title": "Nawet przedsiębiorcy, którzy mają krótką historię kredytową, mogą zaciągnąć wysoki kredyt. Możliwe też będzie uzyskanie ",
+      "char_count": 6954
+    },
+    {
+      "article_id": "bezprawnik_0122_hotel_okaza_sie_inny_niz_na_zdjeciach_na_zwrot_pie",
+      "url": "https://bezprawnik.pl/hotel-inny-niz-na-zdjeciu/",
+      "status": 200,
+      "title": "Hotel okazał się inny niż na zdjęciach. Na zwrot pieniędzy czekał 4 lata",
+      "char_count": 6854
+    },
+    {
+      "article_id": "bezprawnik_0123_hyundai_tucson_nx4_na_atrakcyjny_wynajem_czy_oprze",
+      "url": "https://bezprawnik.pl/hyundai-tucson-wynajem/",
+      "status": 200,
+      "title": "Hyundai TUCSON NX4 na atrakcyjny wynajem – czy oprzesz się jego supermocom?",
+      "char_count": 11332
+    },
+    {
+      "article_id": "bezprawnik_0124_impact26_odsania_karte_z_agenda_94_godziny_rozmow_",
+      "url": "https://bezprawnik.pl/impact26-odslania-karte-z-agenda-94-godziny-rozmow-o-swiecie-ktory-stracil-rownowage/",
+      "status": 200,
+      "title": "Impact’26 odsłania kartę z agendą. 94 godziny rozmów o świecie, który stracił równowagę",
+      "char_count": 13084
+    },
+    {
+      "article_id": "bezprawnik_0125_pochwaa_zmniejszenia_zoadka_czy_za_celebrytki_prom",
+      "url": "https://bezprawnik.pl/influencerzy-i-operacja-zmniejszenia-zoladka-w-turcji/",
+      "status": 200,
+      "title": "Pochwała zmniejszenia żołądka. Czy za celebrytki promujące operację zabierze się UOKIK?",
+      "char_count": 7772
+    },
+    {
+      "article_id": "bezprawnik_0126_tsue_informacja_o_gwarancji_producenta_musi_byc_po",
+      "url": "https://bezprawnik.pl/informacja-o-gwarancji-producenta/",
+      "status": 200,
+      "title": "TSUE: informacja o gwarancji producenta musi być podana wtedy, gdy ta ma kluczowe znaczenie dla oferty",
+      "char_count": 8461
+    },
+    {
+      "article_id": "bezprawnik_0127_chyba_tylko_agata_meble_rozumie_ze_kazdy_wolaby_od",
+      "url": "https://bezprawnik.pl/informacja-o-koszcie-zwrotu/",
+      "status": 200,
+      "title": "Chyba tylko Agata Meble rozumie, że każdy wolałby od razu znać tę informację. Większość sprzedających to ignoruje",
+      "char_count": 7979
+    },
+    {
+      "article_id": "bezprawnik_0128_amazon_zrobi_wasnie_cos_co_od_dawna_powinno_byc_st",
+      "url": "https://bezprawnik.pl/informacja-o-wycofanych-produktach/",
+      "status": 200,
+      "title": "Amazon zrobił właśnie coś, co od dawna powinno być standardem",
+      "char_count": 7561
+    },
+    {
+      "article_id": "bezprawnik_0129_inpost_chyba_nigdy_sie_nie_zatrzyma_wyniki_za_iv_k",
+      "url": "https://bezprawnik.pl/inpost-chyba-nigdy-sie-nie-zatrzyma-wyniki-za-iv-kwartal-2025-roku-sa-imponujace/",
+      "status": 200,
+      "title": "InPost chyba nigdy się nie zatrzyma. Wyniki za IV kwartał 2025 roku są imponujące",
+      "char_count": 6398
+    },
+    {
+      "article_id": "bezprawnik_0130_inpost_miazdzy_wszystkie_inne_firmy_kurierskie_raz",
+      "url": "https://bezprawnik.pl/inpost-miazdzy-wszystkie-inne-firmy-kurierskie-razem-wziete-allegro-praktycznie-nie-istnieje/",
+      "status": 200,
+      "title": "InPost miażdży wszystkie inne firmy kurierskie razem wzięte. Allegro praktycznie nie istnieje",
+      "char_count": 6730
+    },
+    {
+      "article_id": "bezprawnik_0131_inpost_zdominowa_rynek_usug_logistycznych_w_polsce",
+      "url": "https://bezprawnik.pl/inpost-zdominowal-rynek/",
+      "status": 200,
+      "title": "InPost zdominował rynek usług logistycznych w Polsce",
+      "char_count": 6680
+    },
+    {
+      "article_id": "bezprawnik_0132_inspekcja_handlowa_ma_dla_nas_smutne_dane_nieprawi",
+      "url": "https://bezprawnik.pl/inspekcja-handlowa-kontrola-2025/",
+      "status": 200,
+      "title": "Inspekcja Handlowa ma dla nas smutne dane. Nieprawidłowości w blisko 50 proc. skontrolowanych punktów handlowych",
+      "char_count": 6932
+    },
+    {
+      "article_id": "bezprawnik_0133_zamowiam_krzesa_i_dostaam_instrukcje_ich_uzytkowan",
+      "url": "https://bezprawnik.pl/instrukcja-obslugi-krzesla/",
+      "status": 200,
+      "title": "Zamówiłam krzesła i dostałam instrukcję ich użytkowania. Na wszelki wypadek, gdybym chciała odszkodowania",
+      "char_count": 5759
+    },
+    {
+      "article_id": "bezprawnik_0134_instrukcja_musi_byc_albo_w_jezyku_polskim_albo_w_j",
+      "url": "https://bezprawnik.pl/instrukcja-w-jezyku-polskim/",
+      "status": 200,
+      "title": "Instrukcja musi być albo w języku polskim, albo w języku ludzików IKEA",
+      "char_count": 7093
+    },
+    {
+      "article_id": "bezprawnik_0135_jesli_masz_procesor_intela_a_pewnie_masz_to_twoj_k",
+      "url": "https://bezprawnik.pl/intel-wadliwe-procesory-odszkodowanie/",
+      "status": 200,
+      "title": "Jeśli masz procesor Intela, a pewnie masz, to Twój komputer wkrótce zwolni. Czy klienci dostaną zwrot pieniędzy albo ods",
+      "char_count": 7867
+    },
+    {
+      "article_id": "bezprawnik_0136_inteligo_ledwo_dyszy_bank_pko_bp_nie_ma_juz_na_nie",
+      "url": "https://bezprawnik.pl/inteligo/",
+      "status": 200,
+      "title": "Inteligo ledwo dyszy. Bank PKO BP nie ma już na nie pomysłu",
+      "char_count": 12180
+    },
+    {
+      "article_id": "bezprawnik_0137_procedura_odzyskiwania_pieniedzy_z_wizz_air_jest_p",
+      "url": "https://bezprawnik.pl/jak-odzyskac-pieniadze-z-wizz-air/",
+      "status": 200,
+      "title": "Procedura odzyskiwania pieniędzy z Wizz Air jest prosta i intuicyjna. Gorzej bywa z czasem oczekiwania na środki",
+      "char_count": 7107
+    },
+    {
+      "article_id": "bezprawnik_0138_masz_mniej_niz_20_tys_z_na_koncie_statystyki_pokaz",
+      "url": "https://bezprawnik.pl/jak-szybko-wykonac-osobisty-audyt-finansowy/",
+      "status": 200,
+      "title": "Masz mniej niż 20 tys. zł na koncie? Statystyki pokazują, jak wypadasz na tle reszty Polaków",
+      "char_count": 9436
+    },
+    {
+      "article_id": "bezprawnik_0139_jaki_bagaznik_rowerowy_wybrac_na_rodzinne_wyjazdy",
+      "url": "https://bezprawnik.pl/jaki-bagaznik-rowerowy-wybrac-na-rodzinne-wyjazdy/",
+      "status": 200,
+      "title": "Jaki bagażnik rowerowy wybrać na rodzinne wyjazdy?",
+      "char_count": 10135
+    },
+    {
+      "article_id": "bezprawnik_0140_jakie_mamy_prawa_wobec_akwizytorow",
+      "url": "https://bezprawnik.pl/jakie-mamy-prawa-wobec-akwizytorow/",
+      "status": 200,
+      "title": "Jakie mamy prawa wobec akwizytorów?",
+      "char_count": 8057
+    },
+    {
+      "article_id": "bezprawnik_0141_trenerka_etykiety_chciaa_sfotografowac_metki_w_zar",
+      "url": "https://bezprawnik.pl/jakosc-ubran-ze-sklepu-zara/",
+      "status": 200,
+      "title": "Trenerka etykiety chciała sfotografować metki w Zarze i spotkała się ze sprzeciwem. Trudno się dziwić",
+      "char_count": 6637
+    },
+    {
+      "article_id": "bezprawnik_0142_nawet_co_trzecie_ubranie_recznik_i_stroj_kapielowy",
+      "url": "https://bezprawnik.pl/jakosc-ubran/",
+      "status": 200,
+      "title": "Nawet co trzecie ubranie, ręcznik i strój kąpielowy są słabej jakości lub źle oznaczone. Niektóre ubrania mogą „pękać w ",
+      "char_count": 7608
+    },
+    {
+      "article_id": "bezprawnik_0143_jasny_bezpieczny_i_tanszy_kredyt_hipoteczny_wkrotc",
+      "url": "https://bezprawnik.pl/jasny-bezpieczny-i-tanszy-kredyt-hipoteczny/",
+      "status": 200,
+      "title": "Jasny, bezpieczny i tańszy kredyt hipoteczny. Wkrótce mogą ruszyć prace nad nową ustawą",
+      "char_count": 5926
+    },
+    {
+      "article_id": "bezprawnik_0144_jedno_zdanie_w_umowie_przez_ktore_polacy_traca_pie",
+      "url": "https://bezprawnik.pl/jedno-zdanie-w-umowie-przez-ktore-polacy-traca-pieniadze-prawie-nikt-go-nie-czyta/",
+      "status": 200,
+      "title": "Jedno zdanie w umowie, przez które Polacy tracą pieniądze. Prawie nikt go nie czyta",
+      "char_count": 13280
+    },
+    {
+      "article_id": "bezprawnik_0145_jednolity_wzor_umowy_kredytu_hipotecznego_mozliwy_",
+      "url": "https://bezprawnik.pl/jednolity-wzor-umowy-kredytu-hipotecznego-2026/",
+      "status": 200,
+      "title": "Jednolity wzór umowy kredytu hipotecznego możliwy już w 2026 r. Dla kredytobiorców byłaby to ogromna zmiana",
+      "char_count": 7489
+    },
+    {
+      "article_id": "bezprawnik_0146_mozliwe_duze_zmiany_w_umowach_o_kredyt_hipoteczny_",
+      "url": "https://bezprawnik.pl/jednolity-wzor-umowy-o-kredyt-hipoteczny/",
+      "status": 200,
+      "title": "Możliwe duże zmiany w umowach o kredyt hipoteczny. Z korzyścią i dla banków, i kredytobiorców",
+      "char_count": 5868
+    },
+    {
+      "article_id": "bezprawnik_0147_uokik_walczy_o_jednolity_wzor_umowy_kredytu_hipote",
+      "url": "https://bezprawnik.pl/jednolity-wzorzec-umowy-kredytu/",
+      "status": 200,
+      "title": "UOKiK walczy o jednolity wzór umowy kredytu hipotecznego. Ale może niepotrzebnie",
+      "char_count": 9299
+    },
+    {
+      "article_id": "bezprawnik_0148_jessica_mercedes_wprowadzaa_w_bad_klientki_swojej_",
+      "url": "https://bezprawnik.pl/jessica-mercedes/",
+      "status": 200,
+      "title": "Jessica Mercedes wprowadzała w błąd klientki swojej firmy odzieżowej",
+      "char_count": 9414
+    },
+    {
+      "article_id": "bezprawnik_0149_jest_szansa_na_zmiany_dla_klientow_bankow_uokik_ch",
+      "url": "https://bezprawnik.pl/jest-szansa-na-zmiany-dla-klientow-bankow/",
+      "status": 200,
+      "title": "Jest szansa na zmiany dla klientów banków. UOKiK chce, by byli lepiej chronieni przed oszustami",
+      "char_count": 7768
+    },
+    {
+      "article_id": "bezprawnik_0150_prawo_nadal_niedostatecznie_reguluje_dziaalnosc_ka",
+      "url": "https://bezprawnik.pl/kancelaria-odszkodowawcza/",
+      "status": 200,
+      "title": "Prawo nadal niedostatecznie reguluje działalność kancelarii odszkodowawczych",
+      "char_count": 6861
+    },
+    {
+      "article_id": "bezprawnik_0151_kara_za_szukanie_najlepszej_oferty_niewiele_osob_w",
+      "url": "https://bezprawnik.pl/kara-za-szukanie-najlepszej-oferty-niewiele-osob-wie-ze-to-moze-obnizyc-zdolnosc-kredytowa/",
+      "status": 200,
+      "title": "Kara za szukanie najlepszej oferty. Niewiele osób wie, że to może obniżyć zdolność kredytową",
+      "char_count": 7000
+    },
+    {
+      "article_id": "bezprawnik_0152_karcher_nie_chcia_zwrocic_360_z_za_towar_za_to_wyn",
+      "url": "https://bezprawnik.pl/karcher-wytacza-prawnicze-dziala/",
+      "status": 200,
+      "title": "Kärcher nie chciał zwrócić 360 zł za towar, za to wynajął prawników i sprawdzał na Facebooku co klient robi ze sprzętem",
+      "char_count": 7384
+    },
+    {
+      "article_id": "bezprawnik_0153_kary_od_prezesa_uokik_otrzezwiyby_producentow_psuj",
+      "url": "https://bezprawnik.pl/kary-za-psucie-skladu-produktow/",
+      "status": 200,
+      "title": "Kary od prezesa UOKiK otrzeźwiłyby producentów psujących skład własnych produktów",
+      "char_count": 8435
+    },
+    {
+      "article_id": "bezprawnik_0154_kazdego_roku_gis_wycofuje_ze_sklepow_dziesiatki_ni",
+      "url": "https://bezprawnik.pl/kazdego-roku-gis-wycofuje-ze-sklepow-dziesiatki-niebezpiecznych-produktow-o-polowie-pewnie-nie-macie-pojecia/",
+      "status": 200,
+      "title": "Każdego roku GIS wycofuje ze sklepów dziesiątki niebezpiecznych produktów. O połowie pewnie nie macie pojęcia",
+      "char_count": 8022
+    },
+    {
+      "article_id": "bezprawnik_0155_konsumentowi_nie_zawsze_przysuguje_14_dni_na_zwrot",
+      "url": "https://bezprawnik.pl/kiedy-konsument-nie-ma-prawa-odstapienia-od-umowy/",
+      "status": 200,
+      "title": "Konsumentowi nie zawsze przysługuje 14 dni na zwrot towaru przy zakupie online. Przepisy przewidują aż kilkanaście wyjąt",
+      "char_count": 11118
+    },
+    {
+      "article_id": "bezprawnik_0156_kiedy_mozemy_oddac_towar_bez_podania_przyczyny",
+      "url": "https://bezprawnik.pl/kiedy-mozemy-oddac-towar-bez-podania-przyczyny/",
+      "status": 200,
+      "title": "Kiedy możemy oddać towar bez podania przyczyny?",
+      "char_count": 8026
+    },
+    {
+      "article_id": "bezprawnik_0157_sprzedawca_internetowy_musi_przyjac_zwrot_towaru_s",
+      "url": "https://bezprawnik.pl/kiedy-nie-trzeba-przyjac-zwrotu-towaru/",
+      "status": 200,
+      "title": "Sprzedawca internetowy musi przyjąć zwrot towaru. Są jednak pewne okoliczności, które ten obowiązek wyłączają",
+      "char_count": 7362
+    },
+    {
+      "article_id": "bezprawnik_0158_kiedy_ubezpieczenie_oc_nie_pokryje_szkody_na_baczn",
+      "url": "https://bezprawnik.pl/kiedy-ubezpieczenie-oc-nie-pokryje-szkody/",
+      "status": 200,
+      "title": "Kiedy ubezpieczenie OC nie pokryje szkody? Na baczności muszą się mieć filateliści, z ulgą mogą odetchnąć posiadacze zło",
+      "char_count": 10894
+    },
+    {
+      "article_id": "bezprawnik_0159_polityka_zwrotow_w_sklepach_internetowych_wymaga_z",
+      "url": "https://bezprawnik.pl/kilka-zwrotow-naraz/",
+      "status": 200,
+      "title": "Polityka zwrotów w sklepach internetowych wymaga znaczącej poprawy. Klienci nie chcą już ponosić dodatkowych kosztów",
+      "char_count": 9083
+    },
+    {
+      "article_id": "bezprawnik_0160_kilkukrotna_reklamacja_tego_samego_towaru_nie_tylk",
+      "url": "https://bezprawnik.pl/kilkukrotna-reklamacja-tego-samego-towaru/",
+      "status": 200,
+      "title": "Kilkukrotna reklamacja tego samego towaru nie tylko jest możliwa, ale także zapewnia konsumentowi szersze uprawnienia",
+      "char_count": 7346
+    },
+    {
+      "article_id": "bezprawnik_0161_klauzula_niedozwolona_a_dozwolona_rejestr_uokik_i_",
+      "url": "https://bezprawnik.pl/klauzula-niedozwolona-a-dozwolona/",
+      "status": 200,
+      "title": "Klauzula niedozwolona a dozwolona – rejestr UOKiK i ochrona konsumenta",
+      "char_count": 16522
+    },
+    {
+      "article_id": "bezprawnik_0162_klient_biedronki_wzia_12_litrow_mleka_sklep_jeszcz",
+      "url": "https://bezprawnik.pl/klient-biedronki-wzial-12-litrow-mleka-sklep-jeszcze-mu-za-to-doplacil/",
+      "status": 200,
+      "title": "Klient Biedronki wziął 12 litrów mleka. Sklep jeszcze mu za to dopłacił",
+      "char_count": 7095
+    },
+    {
+      "article_id": "bezprawnik_0163_bez_nagosnienia_sprawy_dalej_bybym_ignorowany_klie",
+      "url": "https://bezprawnik.pl/klient-media-expert-nie-odpuszcza-po-zwrocie-388-zl/",
+      "status": 200,
+      "title": "„Bez nagłośnienia sprawy dalej byłbym ignorowany”. Klient Media Expert nie odpuszcza po zwrocie 388 zł",
+      "char_count": 11276
+    },
+    {
+      "article_id": "bezprawnik_0164_kolejne_ostrzezenie_przed_ab_foto_pobieraja_pienia",
+      "url": "https://bezprawnik.pl/kolejne-ostrzezenie-przed-ab-foto/",
+      "status": 200,
+      "title": "Kolejne ostrzeżenie przed AB Foto. Pobierają pieniądze z konta, nie wysyłają telefonów, a potem nie oddają pieniędzy. Ni",
+      "char_count": 6775
+    },
+    {
+      "article_id": "bezprawnik_0165_chcesz_miec_lepsza_sprzedaz_no_to_wystawiaj_produk",
+      "url": "https://bezprawnik.pl/kolory-w-ecommerce/",
+      "status": 200,
+      "title": "Chcesz mieć lepszą sprzedaż? No to wystawiaj produkty w tych kolorach",
+      "char_count": 9503
+    },
+    {
+      "article_id": "bezprawnik_0166_czy_allegro_manipuluje_opiniami_uzytkownikow_na_ko",
+      "url": "https://bezprawnik.pl/komentarze-na-allegro/",
+      "status": 200,
+      "title": "Czy Allegro manipuluje opiniami użytkowników na korzyść sprzedawców?",
+      "char_count": 6857
+    },
+    {
+      "article_id": "bezprawnik_0167_to_moze_byc_koniec_cakowicie_darmowych_zwrotow_kli",
+      "url": "https://bezprawnik.pl/koniec-calkowicie-darmowych-zwrotow/",
+      "status": 200,
+      "title": "To może być koniec całkowicie darmowych zwrotów. Klienci muszą przygotować się na zmiany",
+      "char_count": 6494
+    },
+    {
+      "article_id": "bezprawnik_0168_koniec_paszportow_dla_kazdego_mswia_szykuje_rewolu",
+      "url": "https://bezprawnik.pl/koniec-paszportow-dla-kazdego/",
+      "status": 200,
+      "title": "Koniec paszportów dla każdego. MSWiA szykuje rewolucję w przyznawaniu obywatelstwa",
+      "char_count": 7127
+    },
+    {
+      "article_id": "bezprawnik_0169_uokik_siega_po_sztuczna_inteligencje_to_moze_oznac",
+      "url": "https://bezprawnik.pl/koniec-z-manipulacjami-w-e-sklepach/",
+      "status": 200,
+      "title": "UOKiK sięga po sztuczną inteligencję. To może oznaczać koniec z manipulacjami w e-sklepach",
+      "char_count": 8892
+    },
+    {
+      "article_id": "bezprawnik_0170_koniec_ze_smartfonami_w_szkoach_amerykanie_znalezl",
+      "url": "https://bezprawnik.pl/koniec-ze-smartfonami-w-szkolach-amerykanie-znalezli-sposob-ktory-naprawde-dziala/",
+      "status": 200,
+      "title": "Koniec ze smartfonami w szkołach? Amerykanie znaleźli sposób, który naprawdę działa",
+      "char_count": 7172
+    },
+    {
+      "article_id": "bezprawnik_0171_przedsiebiorcy_powinni_bac_sie_pozywania_konsument",
+      "url": "https://bezprawnik.pl/konsument-a-przedsiebiorca-spor-sadowy/",
+      "status": 200,
+      "title": "Przedsiębiorcy powinni bać się pozywania konsumentów. Powód jest prosty",
+      "char_count": 6833
+    },
+    {
+      "article_id": "bezprawnik_0172_o_bezprawniku_redakcja_serwisu_informacje_kontakto",
+      "url": "https://bezprawnik.pl/kontakt-z-redakcja-serwisu/",
+      "status": 200,
+      "title": "O Bezprawniku | Redakcja serwisu | Informacje kontaktowe",
+      "char_count": 7671
+    },
+    {
+      "article_id": "bezprawnik_0173_termin_zwrotu_i_reklamacji_naszych_zakupow_w_czasa",
+      "url": "https://bezprawnik.pl/koronawirus-a-termin-zwrotu/",
+      "status": 200,
+      "title": "Termin zwrotu i reklamacji naszych zakupów w czasach koronawirusa i izolacji. Czy terminy automatycznie ulegają wydłużen",
+      "char_count": 6555
+    },
+    {
+      "article_id": "bezprawnik_0174_avans_straszy_klientow_wysokimi_kosztami_zwrotu_to",
+      "url": "https://bezprawnik.pl/koszt-zwrotu-w-avans/",
+      "status": 200,
+      "title": "Avans straszy klientów wysokimi kosztami zwrotu towaru. Wszystko po to, byś zatrzymał niechciany towar",
+      "char_count": 8705
+    },
+    {
+      "article_id": "bezprawnik_0175_nawet_jesli_sprzedawca_odrzuci_reklamacje_to_on_mo",
+      "url": "https://bezprawnik.pl/koszty-nieuwzglednionej-reklamacji/",
+      "status": 200,
+      "title": "Nawet jeśli sprzedawca odrzuci reklamację, to on może ponieść związane z nią koszty",
+      "char_count": 8515
+    },
+    {
+      "article_id": "bezprawnik_0176_na_siowni_ukradli_mi_kurtke_i_telefon_wywalczyam_o",
+      "url": "https://bezprawnik.pl/kradziez-rzeczy-z-szafki-na-silowni/",
+      "status": 200,
+      "title": "Na siłowni ukradli mi kurtkę i telefon. Wywalczyłam odszkodowanie, choć klub twierdził, że „nie odpowiada”",
+      "char_count": 6950
+    },
+    {
+      "article_id": "bezprawnik_0177_przez_kradzieze_w_sklepach_bedziemy_miec_zakupy_na",
+      "url": "https://bezprawnik.pl/kradzieze-w-sklepach-a-zakupy/",
+      "status": 200,
+      "title": "Przez kradzieże w sklepach będziemy mieć zakupy na bilet. Zobaczycie",
+      "char_count": 8567
+    },
+    {
+      "article_id": "bezprawnik_0178_kredyt_na_hot_doga_jak_zabka_pko_bank_polski_i_vis",
+      "url": "https://bezprawnik.pl/kredyt-na-hot-doga/",
+      "status": 200,
+      "title": "Kredyt na hot-doga. Jak Żabka, PKO Bank Polski i Visa zmieniają codzienną konsumpcję",
+      "char_count": 11654
+    },
+    {
+      "article_id": "bezprawnik_0179_kredytobiorcy_moga_czekac_na_kolejne_obnizki_stop_",
+      "url": "https://bezprawnik.pl/kredytobiorcy-moga-czekac-na-kolejne-obnizki-stop-procentowych-nawet-do-2027-roku/",
+      "status": 200,
+      "title": "Kredytobiorcy mogą czekać na kolejne obniżki stóp procentowych nawet do 2027 roku",
+      "char_count": 7814
+    },
+    {
+      "article_id": "bezprawnik_0180_kredytobiorcy_musza_pogodzic_sie_z_nowa_rzeczywist",
+      "url": "https://bezprawnik.pl/kredytobiorcy-musza-pogodzic-sie-z-nowa-rzeczywistoscia/",
+      "status": 200,
+      "title": "Kredytobiorcy muszą pogodzić się z nową rzeczywistością. Członek RPP komentuje",
+      "char_count": 7681
+    },
+    {
+      "article_id": "bezprawnik_0181_na_nizsze_raty_kredytow_raczej_nie_ma_co_czekac_pr",
+      "url": "https://bezprawnik.pl/kredytobiorcy-poczekaja-na-obnizki-stop/",
+      "status": 200,
+      "title": "Na niższe raty kredytów raczej nie ma co czekać. Prezes NBP postawił sprawę jasno",
+      "char_count": 8865
+    },
+    {
+      "article_id": "bezprawnik_0182_przed_kupnem_mieszkania_koniecznie_sprawdz_ksiegi_",
+      "url": "https://bezprawnik.pl/ksiegi-wieczyste/",
+      "status": 200,
+      "title": "Przed kupnem mieszkania koniecznie sprawdź księgi wieczyste. Podpowiadamy, jak je czytać i gdzie ich szukać",
+      "char_count": 7472
+    },
+    {
+      "article_id": "bezprawnik_0183_kto_paci_za_uszkodzony_towar_w_paczkomacie",
+      "url": "https://bezprawnik.pl/kto-placi-za-uszkodzony-towar-w-paczkomacie/",
+      "status": 200,
+      "title": "Kto płaci za uszkodzony towar w Paczkomacie?",
+      "char_count": 6147
+    },
+    {
+      "article_id": "bezprawnik_0184_kto_ponosi_koszty_reklamacji",
+      "url": "https://bezprawnik.pl/kto-ponosi-koszty-reklamacji/",
+      "status": 200,
+      "title": "Kto ponosi koszty reklamacji?",
+      "char_count": 5879
+    },
+    {
+      "article_id": "bezprawnik_0185_kupiem_energetyka_i_nie_mogem_uwierzyc_w_cene_oto_",
+      "url": "https://bezprawnik.pl/kupilem-energetyka-i-nie-moglem-uwierzyc-w-cene-oto-co-doliczyli-na-paragonie/",
+      "status": 200,
+      "title": "Kupiłem energetyka i nie mogłem uwierzyć w cenę. Oto co doliczyli na paragonie",
+      "char_count": 6723
+    },
+    {
+      "article_id": "bezprawnik_0186_kupies_karnet_na_siownie_moges_zostac_wprowadzony_",
+      "url": "https://bezprawnik.pl/kupiles-karnet-na-silownie-mogles-zostac-wprowadzony-w-blad/",
+      "status": 200,
+      "title": "Kupiłeś karnet na siłownię? Mogłeś zostać wprowadzony w błąd. UOKiK stawia mocne zarzuty",
+      "char_count": 7487
+    },
+    {
+      "article_id": "bezprawnik_0187_puapki_przy_zakupie_samochodu_uzywanego_na_to_nie_",
+      "url": "https://bezprawnik.pl/kupno-uzywanego-samochodu/",
+      "status": 200,
+      "title": "Pułapki przy zakupie samochodu używanego. Na to nie daj się nabrać",
+      "char_count": 8435
+    },
+    {
+      "article_id": "bezprawnik_0188_dzisiaj_niemal_wszystko_mozna_wziac_na_raty_wasnie",
+      "url": "https://bezprawnik.pl/kupowanie-na-raty/",
+      "status": 200,
+      "title": "Dzisiaj niemal wszystko można wziąć na raty. Właśnie dlatego jesteśmy biedni",
+      "char_count": 8558
+    },
+    {
+      "article_id": "bezprawnik_0189_kupowanie_sprzetu_elektronicznego_stacjonarnie_mij",
+      "url": "https://bezprawnik.pl/kupowanie-online-prawo-do-odstapienia-od-umowy/",
+      "status": 200,
+      "title": "Kupowanie sprzętu elektronicznego stacjonarnie mija się z celem. Konsument ma więcej praw online",
+      "char_count": 7026
+    },
+    {
+      "article_id": "bezprawnik_0190_kupowanie_ubran_w_krajach_ue_to_niekiedy_podobne_p",
+      "url": "https://bezprawnik.pl/kupowanie-ubran-w-krajach-ue/",
+      "status": 200,
+      "title": "Kupowanie ubrań w krajach UE to niekiedy podobne problemy konsumenckie, co na rynku krajowym",
+      "char_count": 9638
+    },
+    {
+      "article_id": "bezprawnik_0191_kupuja_pozytywne_opinie_groza_za_to_surowe_kary",
+      "url": "https://bezprawnik.pl/kupuja-pozytywne-opinie-groza-za-to-surowe-kary/",
+      "status": 200,
+      "title": "Kupują pozytywne opinie. Grożą za to surowe kary",
+      "char_count": 8012
+    },
+    {
+      "article_id": "bezprawnik_0192_kupujac_cyfrowe_multimedia_takze_mamy_prawo_do_zwr",
+      "url": "https://bezprawnik.pl/kupujac-cyfrowe-multimedia-takze-mamy-prawo-do-zwrotu/",
+      "status": 200,
+      "title": "Kupując cyfrowe multimedia także mamy prawo do zwrotu",
+      "char_count": 7049
+    },
+    {
+      "article_id": "bezprawnik_0193_skarbowka_zaskoczya_przedsiebiorce_ten_wydatek_bez",
+      "url": "https://bezprawnik.pl/kurs-masazu-jako-koszt-firmowy/",
+      "status": 200,
+      "title": "Skarbówka zaskoczyła przedsiębiorcę. Ten wydatek bez problemów wliczy w koszty firmowe",
+      "char_count": 7648
+    },
+    {
+      "article_id": "bezprawnik_0194_promocje_jednak_moga_sie_ze_soba_aczyc_udowadnia_t",
+      "url": "https://bezprawnik.pl/laczenie-promocji-z-voucherami-w-biedronce/",
+      "status": 200,
+      "title": "Promocje jednak mogą się ze sobą łączyć. Udowadnia to m.in. Biedronka",
+      "char_count": 6897
+    },
+    {
+      "article_id": "bezprawnik_0195_dlaczego_last_minute_bywa_tanszy_od_zwykych_wakacj",
+      "url": "https://bezprawnik.pl/last-minute/",
+      "status": 200,
+      "title": "Dlaczego last minute bywa tańszy od zwykłych wakacji? Jakie prawa ma osoba, która wykupiła wycieczkę tego rodzaju?",
+      "char_count": 11177
+    },
+    {
+      "article_id": "bezprawnik_0196_mozemy_zapomniec_o_atwych_kredytach_ue_zmienia_zas",
+      "url": "https://bezprawnik.pl/latwy-kredyt-odchodzi-do-przeszlosci/",
+      "status": 200,
+      "title": "Możemy zapomnieć o łatwych kredytach. UE zmienia zasady gry",
+      "char_count": 10331
+    },
+    {
+      "article_id": "bezprawnik_0197_allegro_nie_daje_mi_spokoju_na_szczescie_od_miesia",
+      "url": "https://bezprawnik.pl/lepiej-bez-allegro-pay/",
+      "status": 200,
+      "title": "Allegro nie daje mi spokoju. Na szczęście od miesiąca unikam już tego złego nawyku",
+      "char_count": 6624
+    },
+    {
+      "article_id": "bezprawnik_0198_lepiej_stracic_okazje_niz_pieniadze_pko_bp_radzi_j",
+      "url": "https://bezprawnik.pl/lepiej-stracic-okazje-niz-pieniadze-pko-bp-radzi-jak-bezpiecznie-kupowac-podczas-black-week/",
+      "status": 200,
+      "title": "Lepiej stracić okazję niż pieniądze. PKO BP radzi, jak bezpiecznie kupować podczas Black Week",
+      "char_count": 7514
+    },
+    {
+      "article_id": "bezprawnik_0199_na_co_uwazac_wysyajac_pismo_stary_prawniczy_mit_cz",
+      "url": "https://bezprawnik.pl/liczy-sie-data-stempla-pocztowego/",
+      "status": 200,
+      "title": "Na co uważać wysyłając pismo? Stary prawniczy mit, czyli: „liczy się data stempla pocztowego” nie zawsze się sprawdzi",
+      "char_count": 10466
+    },
+    {
+      "article_id": "bezprawnik_0200_likwidacja_sklepu_internetowego_nie_pozwala_uciec_",
+      "url": "https://bezprawnik.pl/likwidacja-sklepu/",
+      "status": 200,
+      "title": "Likwidacja sklepu internetowego nie pozwala uciec przed zobowiązaniami z tytułu rękojmi",
+      "char_count": 7721
     }
   ]
 }

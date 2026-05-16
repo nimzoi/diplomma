@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00323",
+  "source_url": "https://forumprawne.org/watek/rekojmia-przy-konkursach.877521/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-przy-konkursach.877521/",
+  "archive_file": "forumprawne/forumprawne_00323.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 79299,
+  "sha256": "f29145d120c8e195976f3cfdc18bd9db1554f874aebfb270abdbeb048266b807",
+  "download_date": "2026-05-16T07:47:39Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

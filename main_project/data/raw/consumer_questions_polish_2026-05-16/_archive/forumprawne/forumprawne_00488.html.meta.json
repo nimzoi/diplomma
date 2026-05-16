@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00488",
+  "source_url": "https://forumprawne.org/watek/kradziez.873801/",
+  "fetch_url": "https://forumprawne.org/watek/kradziez.873801/",
+  "archive_file": "forumprawne/forumprawne_00488.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 73075,
+  "sha256": "615ef339f5e4c81030165024c7e6461bffcdceb89cb3531b4a7b5ad81a5e0927",
+  "download_date": "2026-05-16T07:50:46Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

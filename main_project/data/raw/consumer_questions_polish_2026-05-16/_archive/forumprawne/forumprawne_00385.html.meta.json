@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00385",
+  "source_url": "https://forumprawne.org/watek/odsprzedaz-nowego-towaru-a-gwarancja-rozruchowa.876323/",
+  "fetch_url": "https://forumprawne.org/watek/odsprzedaz-nowego-towaru-a-gwarancja-rozruchowa.876323/",
+  "archive_file": "forumprawne/forumprawne_00385.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59388,
+  "sha256": "a510805643a392213459233fda27907e5604e03663bff58ea374dcdd61834fbe",
+  "download_date": "2026-05-16T07:48:50Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

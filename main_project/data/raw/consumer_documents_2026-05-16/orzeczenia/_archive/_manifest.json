@@ -1,0 +1,245 @@
+{
+  "source": "orzeczenia.ms.gov.pl",
+  "source_dir": "main_project\\data\\raw\\consumer_documents_2026-05-16\\orzeczenia",
+  "scrape_date": "2026-05-16",
+  "stats": {
+    "total_entries": 8,
+    "total_errors": 27,
+    "total_bytes": 110721
+  },
+  "entries": [
+    {
+      "doc_id": "orz_151025200005503_XI_Co_000460_2015_Uz_2017_03_02_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151025200005503_XI_Co_000460_2015_Uz_2017-03-02_001",
+      "archive_path": "_archive/orz_151025200005503_XI_Co_000460_2015_Uz_2017_03_02_001.html",
+      "content_type": "text/html",
+      "size_bytes": 14104,
+      "sha256": "ae1317908acb3029894a2afcd0814719311ef1cd98807a3b89310bde5cad44af",
+      "download_date": "2026-05-16",
+      "chunk_ids": [],
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "orz_151510000003003_VI_Cz_000096_2018_Uz_2018_02_01_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151510000003003_VI_Cz_000096_2018_Uz_2018-02-01_001",
+      "archive_path": "_archive/orz_151510000003003_VI_Cz_000096_2018_Uz_2018_02_01_001.html",
+      "content_type": "text/html",
+      "size_bytes": 14080,
+      "sha256": "67df6262f080f4ec667cf61de406e44eca21793e4f6f54a2e4780cf64a05c3bc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [],
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "orz_151510000003003_VI_Cz_000630_2017_Uz_2017_06_08_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151510000003003_VI_Cz_000630_2017_Uz_2017-06-08_001",
+      "archive_path": "_archive/orz_151510000003003_VI_Cz_000630_2017_Uz_2017_06_08_001.html",
+      "content_type": "text/html",
+      "size_bytes": 14035,
+      "sha256": "e79f0ab163809d35fae081b7d28b6951962f237eee9bbe7ac0e19aa771cb9455",
+      "download_date": "2026-05-16",
+      "chunk_ids": [],
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "orz_152000000000503_I_ACa_000471_2013_Uz_2013_06_07_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/152000000000503_I_ACa_000471_2013_Uz_2013-06-07_001",
+      "archive_path": "_archive/orz_152000000000503_I_ACa_000471_2013_Uz_2013_06_07_001.html",
+      "content_type": "text/html",
+      "size_bytes": 13721,
+      "sha256": "fab699a2082e546ba1a21f9d8f021c4ed050551d631755e36d0ad7a45386b8e6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [],
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "orz_152010000001003_II_Ca_003002_2021_Uz_2022_04_26_002",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/152010000001003_II_Ca_003002_2021_Uz_2022-04-26_002",
+      "archive_path": "_archive/orz_152010000001003_II_Ca_003002_2021_Uz_2022_04_26_002.html",
+      "content_type": "text/html",
+      "size_bytes": 13696,
+      "sha256": "1bfb717f87aba4f8ef4f284a515e2bec83eab89378301901fb757a4ed0697390",
+      "download_date": "2026-05-16",
+      "chunk_ids": [],
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "orz_153010000000503_I_C_000424_2012_Uz_2015_09_28_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/153010000000503_I_C_000424_2012_Uz_2015-09-28_001",
+      "archive_path": "_archive/orz_153010000000503_I_C_000424_2012_Uz_2015_09_28_001.html",
+      "content_type": "text/html",
+      "size_bytes": 13897,
+      "sha256": "a9f258a8319d8ad3261293fe5290233276b7d87295ea210ac4013b1fae0d49e9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [],
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "orz_154010000003027_VI_Ga_000105_2014_Uz_2014_04_30_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/154010000003027_VI_Ga_000105_2014_Uz_2014-04-30_001",
+      "archive_path": "_archive/orz_154010000003027_VI_Ga_000105_2014_Uz_2014_04_30_001.html",
+      "content_type": "text/html",
+      "size_bytes": 13625,
+      "sha256": "a7fcb6e90ab005b4713e474ce509bb5b8d426c8e63cf068594564c11a4cdcc87",
+      "download_date": "2026-05-16",
+      "chunk_ids": [],
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "orz_154010000003027_VI_Gz_000018_2018_Uz_2018_02_16_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/154010000003027_VI_Gz_000018_2018_Uz_2018-02-16_001",
+      "archive_path": "_archive/orz_154010000003027_VI_Gz_000018_2018_Uz_2018_02_16_001.html",
+      "content_type": "text/html",
+      "size_bytes": 13563,
+      "sha256": "13e9352c1e3cfbc4314909ec74f1e6c8f7b1d45b2e3af44fac77cb614d7a0cea",
+      "download_date": "2026-05-16",
+      "chunk_ids": [],
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+      "http_status": 200
+    }
+  ],
+  "errors": [
+    {
+      "doc_id": "orz_151005000001003_II_Cz_000162_2014_Uz_2014_08_08_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151005000001003_II_Cz_000162_2014_Uz_2014-08-08_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_151005000001003_II_Cz_000541_2014_Uz_2014_12_23_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151005000001003_II_Cz_000541_2014_Uz_2014-12-23_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_151005000004027_VIII_Ga_000136_2016_Uz_2016_11_07_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151005000004027_VIII_Ga_000136_2016_Uz_2016-11-07_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_151015050006003_XII_1Co_005628_2013_Uz_2017_10_06_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151015050006003_XII_1Co_005628_2013_Uz_2017-10-06_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_151020000002003_IV_Cz_000403_2013_Uz_2013_07_26_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151020000002003_IV_Cz_000403_2013_Uz_2013-07-26_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_151020000002003_IV_Cz_000409_2014_Uz_2014_07_11_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151020000002003_IV_Cz_000409_2014_Uz_2014-07-11_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_151025200002527_V_GC_001260_2020_Uz_2020_10_20_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/151025200002527_V_GC_001260_2020_Uz_2020-10-20_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_154500000003003_VI_ACa_000795_2012_Uz_2012_11_30_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/konsument/154500000003003_VI_ACa_000795_2012_Uz_2012-11-30_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_154500000003527_VII_AGa_001420_2018_Uz_2020_01_16_002",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/konsument/154500000003527_VII_AGa_001420_2018_Uz_2020-01-16_002",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_154505000005127_XVII_AmA_000040_2019_Uz_2022_04_07_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/konsument/154505000005127_XVII_AmA_000040_2019_Uz_2022-04-07_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_154505000005127_XVII_AmA_000083_2021_Uz_2023_06_14_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/konsument/154505000005127_XVII_AmA_000083_2021_Uz_2023-06-14_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_154505000005127_XVII_AmA_000110_2012_Uz_2014_02_11_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/konsument/154505000005127_XVII_AmA_000110_2012_Uz_2014-02-11_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_154505000005127_XVII_AmC_000300_2011_Uz_2012_01_13_002",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/konsument/154505000005127_XVII_AmC_000300_2011_Uz_2012-01-13_002",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_154505000005127_XVII_AmC_002137_2010_Uz_2011_11_08_002",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/konsument/154505000005127_XVII_AmC_002137_2010_Uz_2011-11-08_002",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_154505000005127_XVII_Amz_000033_2018_Uz_2019_11_29_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/konsument/154505000005127_XVII_Amz_000033_2018_Uz_2019-11-29_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_154505250007527_XV_GC_003345_2012_Uz_2014_04_04_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/154505250007527_XV_GC_003345_2012_Uz_2014-04-04_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_155005000001003_II_Cz_000431_2013_Uz_2013_06_27_001",
+      "source_url": "https://orzeczenia.ms.gov.pl/details/r$0119kojmia/155005000001003_II_Cz_000431_2013_Uz_2013-06-27_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_I_C_175_2022",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/153505100000503_I_C_000175_2022_Uz_2023-05-10_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_I_C_25_2023",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/153505050000503_I_C_000025_2023_Uz_2024-08-22_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_I_C_435_2018",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/150525050000503_I_C_000435_2018_Uz_2021-04-21_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_I_C_448_2020",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/153505100000503_I_C_000448_2020_Uz_2021-09-16_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_I_C_50_2022",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/152510450000503_I_C_000050_2022_Uz_2023-03-06_002",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_I_C_619_2019",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/154505200000503_I_C_000619_2019_Uz_2021-03-10_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_I_C_841_2020",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/155515300000503_I_C_000841_2020_Uz_2021-06-14_002",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_III_Ca_1369_2019",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/152510000001503_III_Ca_001369_2019_Uz_2020-03-09_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_XI_GC_953_2021",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/155515300005527_XI_GC_000953_2021_Uz_2023-02-13_001",
+      "reason": "HTTP 0"
+    },
+    {
+      "doc_id": "orz_XVII_AmC_1252_2015",
+      "source_url": "https://orzeczenia.ms.gov.pl/content/$N/154505000005127_XVII_AmC_001252_2015_Uz_2018-08-06_001",
+      "reason": "HTTP 0"
+    }
+  ]
+}

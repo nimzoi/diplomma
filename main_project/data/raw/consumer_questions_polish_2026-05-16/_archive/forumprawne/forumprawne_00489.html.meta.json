@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00489",
+  "source_url": "https://forumprawne.org/watek/pytanie-donosnie-czlonkow-stowarzyszenia.873776/",
+  "fetch_url": "https://forumprawne.org/watek/pytanie-donosnie-czlonkow-stowarzyszenia.873776/",
+  "archive_file": "forumprawne/forumprawne_00489.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52403,
+  "sha256": "e3f78b72bf6865602e5d54d8001216a163ccda60e89b016c53c1210210b05bd6",
+  "download_date": "2026-05-16T07:50:47Z",
+  "duration_sec": 0.108,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

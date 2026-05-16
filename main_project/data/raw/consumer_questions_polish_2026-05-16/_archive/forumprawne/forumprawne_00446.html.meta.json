@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00446",
+  "source_url": "https://forumprawne.org/watek/rozdarta-suknia-slubna.874825/",
+  "fetch_url": "https://forumprawne.org/watek/rozdarta-suknia-slubna.874825/",
+  "archive_file": "forumprawne/forumprawne_00446.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69367,
+  "sha256": "adddae65457aeb9b0cfc8fb95ee81d4e43844dacbbefefa48262a163287830cc",
+  "download_date": "2026-05-16T07:49:58Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

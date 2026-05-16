@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00830",
+  "source_url": "https://forumprawne.org/watek/rozmiar-niezgodny-z-opisem.867009/",
+  "fetch_url": "https://forumprawne.org/watek/rozmiar-niezgodny-z-opisem.867009/",
+  "archive_file": "forumprawne/forumprawne_00830.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 82424,
+  "sha256": "df060b7ddc8c3ca42ebf228f5274cadc2fc9ce58946211806669f2cbb157b916",
+  "download_date": "2026-05-16T07:57:11Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

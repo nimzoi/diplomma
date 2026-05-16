@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00760",
+  "source_url": "https://forumprawne.org/watek/rekojmia-oleole.868120/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-oleole.868120/",
+  "archive_file": "forumprawne/forumprawne_00760.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56693,
+  "sha256": "5c881dee4e0af34621b37a2f5b88adb75f16c5629fa5e2a447438760b286050a",
+  "download_date": "2026-05-16T07:55:52Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

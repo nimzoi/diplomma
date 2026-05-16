@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00116",
+  "source_url": "https://forumprawne.org/watek/leasing-brak-umowy.882675/",
+  "fetch_url": "https://forumprawne.org/watek/leasing-brak-umowy.882675/",
+  "archive_file": "forumprawne/forumprawne_00116.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52457,
+  "sha256": "36e7479359e3b534c59a423666ce4b80b568650bfc1f392cf791ccdb37b7302e",
+  "download_date": "2026-05-16T07:43:46Z",
+  "duration_sec": 0.102,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

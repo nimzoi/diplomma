@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00200",
+  "source_url": "https://forumprawne.org/watek/plus-i-aneks-do-umowy.880437/",
+  "fetch_url": "https://forumprawne.org/watek/plus-i-aneks-do-umowy.880437/",
+  "archive_file": "forumprawne/forumprawne_00200.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69686,
+  "sha256": "91a996e5fca0c91d28a6e7d118bdbf9f31d7bd374abfadc08128965da38ad83a",
+  "download_date": "2026-05-16T07:45:20Z",
+  "duration_sec": 0.078,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

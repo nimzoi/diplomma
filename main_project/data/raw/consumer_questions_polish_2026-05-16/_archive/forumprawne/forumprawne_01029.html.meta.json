@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01029",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-auta-problem.862469/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-auta-problem.862469/",
+  "archive_file": "forumprawne/forumprawne_01029.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 100462,
+  "sha256": "dc4c50c14aa6b93fd3a310a5bc6451b27298bbdfb3fbe059aa1824ca099de909",
+  "download_date": "2026-05-16T08:00:56Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00520",
+  "source_url": "https://forumprawne.org/watek/sad-polubowny-dla-uslug-pocztowych.872864/",
+  "fetch_url": "https://forumprawne.org/watek/sad-polubowny-dla-uslug-pocztowych.872864/",
+  "archive_file": "forumprawne/forumprawne_00520.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65234,
+  "sha256": "0a5773512dd26aec654b82d88426916a3efd8f16c864e0b5541a9896268d3849",
+  "download_date": "2026-05-16T07:51:22Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

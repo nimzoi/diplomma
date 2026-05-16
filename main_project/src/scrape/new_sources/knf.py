@@ -175,7 +175,7 @@ def scrape(output_dir: Path, max_articles: int | None) -> ScrapeSummary:
     summary.archive_mb = archive_size_mb(archive_dir)
     summary.categories = cat_counter
     summary.notes = (
-        f"Sitemap walk z filter na {len(CONSUMER_PATH_PREFIXES)} path prefixes konsument-relevant."
+        f"BFS walk od {len(ENTRY_PATHS)} entry paths konsument-relevant, depth max {MAX_DEPTH}."
     )
 
     write_jsonl_articles(records, output_dir / "articles.jsonl")

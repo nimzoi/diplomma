@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00325",
+  "source_url": "https://forumprawne.org/watek/wymagane-podpisy-pod-kazda-zgoda.877486/",
+  "fetch_url": "https://forumprawne.org/watek/wymagane-podpisy-pod-kazda-zgoda.877486/",
+  "archive_file": "forumprawne/forumprawne_00325.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69509,
+  "sha256": "dab570e49226b60b99bc02729c8617037ab0b4ca6e198ae5cfd5531e49a23ea0",
+  "download_date": "2026-05-16T07:47:42Z",
+  "duration_sec": 0.17,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

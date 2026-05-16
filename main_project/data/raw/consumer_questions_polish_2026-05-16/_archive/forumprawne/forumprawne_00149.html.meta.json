@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00149",
+  "source_url": "https://forumprawne.org/watek/serwis-zegarka.881552/",
+  "fetch_url": "https://forumprawne.org/watek/serwis-zegarka.881552/",
+  "archive_file": "forumprawne/forumprawne_00149.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55156,
+  "sha256": "f11bfb7822b6c492470331ac773fbe8b4270e97fa01789640aad11b46f5eb03f",
+  "download_date": "2026-05-16T07:44:23Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

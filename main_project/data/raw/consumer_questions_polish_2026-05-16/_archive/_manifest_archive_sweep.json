@@ -1,0 +1,1136 @@
+{
+  "source": "consumer_questions_sample",
+  "source_dir": "main_project\\data\\raw\\consumer_questions_polish_2026-05-16",
+  "scrape_date": "2026-05-16",
+  "stats": {
+    "total_entries": 80,
+    "total_errors": 0,
+    "total_bytes": 4331565,
+    "proof_sample": true,
+    "proof_sample_per_forum": 20,
+    "note": "Separate from pre-existing _manifest.json (other tool). This sweep produces _manifest_archive_sweep.json — proof sample only."
+  },
+  "entries": [
+    {
+      "doc_id": "e_prawnik/eprawnik_00001__6a8bf3a1",
+      "source_url": "https://e-prawnik.pl/forum/reflinki-amazon.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00001__6a8bf3a1.html",
+      "content_type": "text/html",
+      "size_bytes": 56789,
+      "sha256": "3cefe56680611a7c71433d9a312b5c5fcb60b132596a023461c5974f05453cd3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00001"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00002__6c494b31",
+      "source_url": "https://e-prawnik.pl/forum/prawa-autorskie-do-zdjec-produktow-w-e-sklepie-spozywczym.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00002__6c494b31.html",
+      "content_type": "text/html",
+      "size_bytes": 58562,
+      "sha256": "4c31f81b7628c03f4fb517d783d3f868424a9e3a5e4cb8e4cd20aacdf72e1ecc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00002"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00003__b38a8e61",
+      "source_url": "https://e-prawnik.pl/forum/plagiat-allegro.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00003__b38a8e61.html",
+      "content_type": "text/html",
+      "size_bytes": 57442,
+      "sha256": "b9c18376d6644824cce149afa06b38fa232a7340dccdded478d525c22ff343b7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00003"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00004__0f7e32e7",
+      "source_url": "https://e-prawnik.pl/forum/przeniesienie-praw-autorskich-i-majatkowych-a-gwarancja.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00004__0f7e32e7.html",
+      "content_type": "text/html",
+      "size_bytes": 54698,
+      "sha256": "4e8ebfa6b439e3842484b1b85448e8823901c9fb4c949253c38003ad4817fed7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00004"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00005__4249b459",
+      "source_url": "https://e-prawnik.pl/forum/ebook-na-allegro.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00005__4249b459.html",
+      "content_type": "text/html",
+      "size_bytes": 55585,
+      "sha256": "a1d10b2fec46dd19a1c0f792e91d1d53b0b60b5cbd2a2e83b0102336b06197cf",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00005"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00006__6e0cdc63",
+      "source_url": "https://e-prawnik.pl/forum/czy-moge-liczyc-na-jakies-odszkodowanie-pieniezne-ze-strony-gazety.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00006__6e0cdc63.html",
+      "content_type": "text/html",
+      "size_bytes": 58445,
+      "sha256": "5026c7d6dfaf623a0d3d21f05e30d7a81a8c6a0747351fe3fbbc7f4ac39bf1b4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00006"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00007__4c2f1be6",
+      "source_url": "https://e-prawnik.pl/forum/zdjecia-na-allegro-2012-1.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00007__4c2f1be6.html",
+      "content_type": "text/html",
+      "size_bytes": 58674,
+      "sha256": "2066df67d8b724dcb133178eacab4776305ab6428fb889a623e8b6e2596aae42",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00007"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00008__d296b2e4",
+      "source_url": "https://e-prawnik.pl/forum/kradziez-zdjec-przez-allegro.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00008__d296b2e4.html",
+      "content_type": "text/html",
+      "size_bytes": 60202,
+      "sha256": "fd6d977dbf7aed3d9cec05194da9c8e4602da5252c2d0623f706e80b149168d2",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00008"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00009__9ee8d2ba",
+      "source_url": "https://e-prawnik.pl/forum/witamzakladam-sklep-internetowy-i-chcialbym-w-nazwie-domenty-uzyc-jako-jeden-czlon-slowo-dumbop.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00009__9ee8d2ba.html",
+      "content_type": "text/html",
+      "size_bytes": 55791,
+      "sha256": "a98c12bc8210a0db1dce23b61357c8cf8a614da673ec22e1526cbec885ee229a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00009"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00010__ee1e24f0",
+      "source_url": "https://e-prawnik.pl/forum/witamzajmuje-sie-tworzeniem-sklepow-internetowych-z-grafika-w-trakcie-jednego-zlecenia-klient.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00010__ee1e24f0.html",
+      "content_type": "text/html",
+      "size_bytes": 58044,
+      "sha256": "4a711f96042e7bb996895ceb52416eba7beed62b9cb870a06084ecb7a15a2b11",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00010"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00011__62e6bd85",
+      "source_url": "https://e-prawnik.pl/forum/czy-mozna-umieszczac-fragmenty-ksiazek-na-aukcjach.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00011__62e6bd85.html",
+      "content_type": "text/html",
+      "size_bytes": 56660,
+      "sha256": "e120f10a6bf2e00e2f7aadb477c4ddd99bfc2a1171c53b25533e3d1e18013cac",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00011"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00012__8c75124e",
+      "source_url": "https://e-prawnik.pl/forum/naruszenie-praw-autorskich.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00012__8c75124e.html",
+      "content_type": "text/html",
+      "size_bytes": 59987,
+      "sha256": "08093eba55798654ec782aac6c91465ac31da42b9582d70d15c3e392767d4b1c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00012"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00013__2ad619c0",
+      "source_url": "https://e-prawnik.pl/forum/sprzedawanie-na-allegro-itd.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00013__2ad619c0.html",
+      "content_type": "text/html",
+      "size_bytes": 56362,
+      "sha256": "39715868e0f9f2427a265344b7cd9be25364a88161194a2ca124876d0ba131b0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00013"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00014__c0083aad",
+      "source_url": "https://e-prawnik.pl/forum/prawo-do-wizerunku-1.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00014__c0083aad.html",
+      "content_type": "text/html",
+      "size_bytes": 59993,
+      "sha256": "0a3b0863709585ff62c51a1f62c7489d6269f742510b0ac379f7b32dce1f1292",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00014"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00015__16857898",
+      "source_url": "https://e-prawnik.pl/forum/prawo-do-layoutu-1.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00015__16857898.html",
+      "content_type": "text/html",
+      "size_bytes": 54561,
+      "sha256": "c2e8733ef80807a3937b90589d4c4dda50055280fcfae6e360816b6994b9020f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00015"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00016__7b4fa484",
+      "source_url": "https://e-prawnik.pl/forum/problem-z-wekslem.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00016__7b4fa484.html",
+      "content_type": "text/html",
+      "size_bytes": 56371,
+      "sha256": "c5fb566157867931209e05380a38a5a504b4cb97b927116a883db84eeb837f7c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00016"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00017__c1269025",
+      "source_url": "https://e-prawnik.pl/forum/problem-z-wyjazdem-przy-budowie-chodnika.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00017__c1269025.html",
+      "content_type": "text/html",
+      "size_bytes": 60005,
+      "sha256": "4f7e0a58e6ea1cf9fe2dc3a60977b9a0760614875fbae2943c2c0d28c146f01d",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00017"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00018__189bb200",
+      "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-slup-linia-energetyczna-na-dzialce-1.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00018__189bb200.html",
+      "content_type": "text/html",
+      "size_bytes": 109800,
+      "sha256": "cfb04bd4f7f25368ee6cd461f25812371cfb34cf7110dede9a4e2d1445d37fb1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00018"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00019__85250bf5",
+      "source_url": "https://e-prawnik.pl/forum/wklad-kominowy-czyja-odpowiedzialnosc-1.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00019__85250bf5.html",
+      "content_type": "text/html",
+      "size_bytes": 59041,
+      "sha256": "4b0eafce132ed6e542312e031e825b35cec6b19d560015677ccb3eaf73f7d87f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00019"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "e_prawnik/eprawnik_00020__cde8afce",
+      "source_url": "https://e-prawnik.pl/forum/prosba-o-podare.html",
+      "archive_path": "_archive/e_prawnik/eprawnik_00020__cde8afce.html",
+      "content_type": "text/html",
+      "size_bytes": 55221,
+      "sha256": "13391c9658737482bb4d4e3450f67a53867ddc2754cac1498ee63aadecee25df",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eprawnik_00020"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00001__82c9c3be",
+      "source_url": "https://forumprawne.org/watek/wezwanie-do-zaprzestania-stosowania-klauzul-niedozwolonych-czesc-iii.450436/",
+      "archive_path": "_archive/forumprawne/forumprawne_00001__82c9c3be.html",
+      "content_type": "text/html",
+      "size_bytes": 175111,
+      "sha256": "ecdaf7b1d2575e71408bbd6a59fcc56d2db86e518adec6247354cfdb8ad4e605",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00001"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00002__70244563",
+      "source_url": "https://forumprawne.org/watek/operator-telewizyjny.417394/",
+      "archive_path": "_archive/forumprawne/forumprawne_00002__70244563.html",
+      "content_type": "text/html",
+      "size_bytes": 177519,
+      "sha256": "2146cd997c1d4b3668e6e322929e18ad6d9e600a32c544ca94624ccacd188b05",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00002"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00003__6e0d72e8",
+      "source_url": "https://forumprawne.org/watek/readers-digest.44396/",
+      "archive_path": "_archive/forumprawne/forumprawne_00003__6e0d72e8.html",
+      "content_type": "text/html",
+      "size_bytes": 170445,
+      "sha256": "b1e3d52f40e5d48151eb533d8393dc623d0521e1b7c82d2e2a8c23fb976bb2a4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00003"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00004__a1a1e3e8",
+      "source_url": "https://forumprawne.org/watek/jak-zobligowac-uokik-do-aktywnosci-poradnik.545910/",
+      "archive_path": "_archive/forumprawne/forumprawne_00004__a1a1e3e8.html",
+      "content_type": "text/html",
+      "size_bytes": 106618,
+      "sha256": "5b6c3a56520a795ecd25271686d1c4cad1eb01a0edb9cc8b1e4b03bb8cc33d45",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00004"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00005__a206b12c",
+      "source_url": "https://forumprawne.org/watek/zanim-zapytasz-w-sprawie-wysokich-rachunkow-za-telefon-przeczytaj.253047/",
+      "archive_path": "_archive/forumprawne/forumprawne_00005__a206b12c.html",
+      "content_type": "text/html",
+      "size_bytes": 180142,
+      "sha256": "46c4c06e684695b59716a3a0e3b16f4b603017fd101da9947d0ecd8057f24d46",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00005"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00006__a1b42955",
+      "source_url": "https://forumprawne.org/watek/przeczytaj-zanim-zadasz-pytanie.188637/",
+      "archive_path": "_archive/forumprawne/forumprawne_00006__a1b42955.html",
+      "content_type": "text/html",
+      "size_bytes": 61185,
+      "sha256": "fcdc1ffe9f87b694e583fd6b48058222b24ffa49378f7aa1aaf8b756b34fa439",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00006"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00007__dbd5d212",
+      "source_url": "https://forumprawne.org/watek/ustawa-o-szczegolnych-warunkach-sprzedazy-konsumenckiej-oraz-o-zmianie-kc.160753/",
+      "archive_path": "_archive/forumprawne/forumprawne_00007__dbd5d212.html",
+      "content_type": "text/html",
+      "size_bytes": 85898,
+      "sha256": "c49ca4485d4b4fbb00b1f46e29c51aae4f65ab35e4c896f10731fdce799a9568",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00007"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00008__4d1800e8",
+      "source_url": "https://forumprawne.org/watek/ustawa-o-ochronie-niektorych-praw-konsumentow-oraz-o-odpowiedzialnosci-za-szkode.160736/",
+      "archive_path": "_archive/forumprawne/forumprawne_00008__4d1800e8.html",
+      "content_type": "text/html",
+      "size_bytes": 140804,
+      "sha256": "bf7c065378af1dafaf80fadeac7e56d8e66fa6f787c68c35d530fef063fa9a53",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00008"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00009__60587510",
+      "source_url": "https://forumprawne.org/watek/poradnik-konsumenta-umowy-zawarte-przed-25-grudnia-2014-r-przeczytaj.57401/",
+      "archive_path": "_archive/forumprawne/forumprawne_00009__60587510.html",
+      "content_type": "text/html",
+      "size_bytes": 128715,
+      "sha256": "7fa45a53ab5cc01404f60d2bdfae9f7de9b567b210093c5c8bd88eac365e6779",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00009"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00010__7585ec37",
+      "source_url": "https://forumprawne.org/watek/rzecznicy-konsumentow.134/",
+      "archive_path": "_archive/forumprawne/forumprawne_00010__7585ec37.html",
+      "content_type": "text/html",
+      "size_bytes": 52171,
+      "sha256": "fdacf4778fabb6b972fe665d5626e9223fda6f67063f967760579bbb4a75815e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00010"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00011__052c9c84",
+      "source_url": "https://forumprawne.org/watek/zakaz-konkurencji-monopolistyczne-ograniczenia.885157/",
+      "archive_path": "_archive/forumprawne/forumprawne_00011__052c9c84.html",
+      "content_type": "text/html",
+      "size_bytes": 55697,
+      "sha256": "a66ac3b5ebee1407a3187c4377090c33066ac98a273b4682ad346d58d5383103",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00011"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00012__ce5beb2f",
+      "source_url": "https://forumprawne.org/watek/mechanik-samochodowy.885112/",
+      "archive_path": "_archive/forumprawne/forumprawne_00012__ce5beb2f.html",
+      "content_type": "text/html",
+      "size_bytes": 78134,
+      "sha256": "0032f098adf4e97648e8e1ba27171343f9ba867bc4bed220bc011b5815276bcc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00012"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00013__5c41c77b",
+      "source_url": "https://forumprawne.org/watek/zakup-nowego-auta-a-ok-20-wad-lakierniczych.885078/",
+      "archive_path": "_archive/forumprawne/forumprawne_00013__5c41c77b.html",
+      "content_type": "text/html",
+      "size_bytes": 168446,
+      "sha256": "ad67e46ae49926f24963a34578522f6683933560d66d77657bb6ed5910799b6a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00013"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00014__2ed77d25",
+      "source_url": "https://forumprawne.org/watek/kopia-rachunkow-za-czynsz-odmowa-wlasciciela-budynku.885048/",
+      "archive_path": "_archive/forumprawne/forumprawne_00014__2ed77d25.html",
+      "content_type": "text/html",
+      "size_bytes": 79975,
+      "sha256": "26545de281d8a021d841bf94d6d47b20ac2d3f0ca4e338762f30a2c576f1a4b6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00014"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00015__28c4b252",
+      "source_url": "https://forumprawne.org/watek/rozliczenie-za-m2-a-zle-policzona-powierzchnia-podjazdu.884990/",
+      "archive_path": "_archive/forumprawne/forumprawne_00015__28c4b252.html",
+      "content_type": "text/html",
+      "size_bytes": 53507,
+      "sha256": "4e77e9d31a3f9b89959d45ffd7bccf2ff3b4e5953947a69654ab4e50ce553f41",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00015"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00016__11299ba3",
+      "source_url": "https://forumprawne.org/watek/calkowita-splata-kredytu.884950/",
+      "archive_path": "_archive/forumprawne/forumprawne_00016__11299ba3.html",
+      "content_type": "text/html",
+      "size_bytes": 80960,
+      "sha256": "d8f8a21c5cd90c95ec0fe0864c865a51fb9de2d5e9a46e931e0bb5dc72906ff9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00016"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00017__e3e487d0",
+      "source_url": "https://forumprawne.org/watek/bank-odmawia-wyslania-wyciagu.884838/",
+      "archive_path": "_archive/forumprawne/forumprawne_00017__e3e487d0.html",
+      "content_type": "text/html",
+      "size_bytes": 82852,
+      "sha256": "735e09bb9b015df8f14f6aca021895715c5838a4e1dd53ef928fba5d5ea4cfb1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00017"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00018__0e5eb8bf",
+      "source_url": "https://forumprawne.org/watek/odrzucona-reklamacja-plytek-o-roznej-kalibracji.884835/",
+      "archive_path": "_archive/forumprawne/forumprawne_00018__0e5eb8bf.html",
+      "content_type": "text/html",
+      "size_bytes": 78504,
+      "sha256": "5b73b9b6a25d41a395b6dbe9fb3335355b47517abeb771b63cadd6329c210d94",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00018"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00019__2a533ab5",
+      "source_url": "https://forumprawne.org/watek/wymiana-i-zwrot-towaru.884830/",
+      "archive_path": "_archive/forumprawne/forumprawne_00019__2a533ab5.html",
+      "content_type": "text/html",
+      "size_bytes": 79872,
+      "sha256": "001c99b632d64d775a6afdbb6bb022b2d0c480b285e784ce9a1f17ea8f924d10",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00019"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "forumprawne/forumprawne_00020__68ff49e9",
+      "source_url": "https://forumprawne.org/watek/nowa-lodowka-z-wadami-wymiana-na-nowa.884818/",
+      "archive_path": "_archive/forumprawne/forumprawne_00020__68ff49e9.html",
+      "content_type": "text/html",
+      "size_bytes": 67693,
+      "sha256": "c8dc80ed3054170cf0c48a6e7a0db3675e3fba13facac64906865827ca180ec2",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "forumprawne_00020"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00001__61d50266",
+      "source_url": "https://www.eporady24.pl/zwrot-kosztow-rezerwacji-apartamentu-brak-dostepu-do-lokalu-odpowiedzialnosc-uslugodawcy,pytania,4,54,37460.html",
+      "archive_path": "_archive/legal_other/eporady24_00001__61d50266.html",
+      "content_type": "text/html",
+      "size_bytes": 40899,
+      "sha256": "e68ecd0fb122d84eadc7483dd2290170bd3412d229e4e86152c857a5725cf304",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00001"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00002__5180b592",
+      "source_url": "https://www.eporady24.pl/odpowiedzialnosc-za-rekojmie-przy-sprzedazy-nieruchomosci-kolejne-zbycie-a-prawa-nowego-nabywcy,pytania,4,54,37072.html",
+      "archive_path": "_archive/legal_other/eporady24_00002__5180b592.html",
+      "content_type": "text/html",
+      "size_bytes": 40606,
+      "sha256": "a88f5fa26240b89bda1c772c72685c2e1fa32c4ca2b74b55c3fc32c168fd501a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00002"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00003__70c33405",
+      "source_url": "https://www.eporady24.pl/zakup-przez-olx-od-firmy-bez-dostawy-towaru-jak-odzyskac-pieniadze,pytania,4,54,35059.html",
+      "archive_path": "_archive/legal_other/eporady24_00003__70c33405.html",
+      "content_type": "text/html",
+      "size_bytes": 46251,
+      "sha256": "e1c416b8b179546d680328501f9d91601abe66900bca9d78dfae745b8af9cee9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00003"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00004__1ed1ca6c",
+      "source_url": "https://www.eporady24.pl/nieodebrane-paczki-za-pobraniem-jak-chronic-swoj-biznes-przed-stratami,pytania,4,54,35021.html",
+      "archive_path": "_archive/legal_other/eporady24_00004__1ed1ca6c.html",
+      "content_type": "text/html",
+      "size_bytes": 40018,
+      "sha256": "2060c6788e39d7cc0a780076682e51f043826a3b32e8fc7d6e2da4fca7b7ce1c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00004"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00005__0c09ba93",
+      "source_url": "https://www.eporady24.pl/nieuczciwy-mechanik-samochodowy-co-zrobic-gdy-wymienione-czesci-okazaly-sie-uzywane,pytania,4,54,34531.html",
+      "archive_path": "_archive/legal_other/eporady24_00005__0c09ba93.html",
+      "content_type": "text/html",
+      "size_bytes": 42271,
+      "sha256": "5b564a52a6ed88498c671bee09ab7d487ac9c61c3db458295ffcce136f1f5176",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00005"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00006__55e5eb62",
+      "source_url": "https://www.eporady24.pl/wady-ukryte-w-zakupionym-mieszkaniu-co-zrobic-gdy-odkryjesz-wilgoc-i-grzyb,pytania,4,54,34537.html",
+      "archive_path": "_archive/legal_other/eporady24_00006__55e5eb62.html",
+      "content_type": "text/html",
+      "size_bytes": 45386,
+      "sha256": "3c8f8aa516f85c30a81038fd3f118e13a7e4d763345d4593bea3aa767d061507",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00006"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00007__d73b108f",
+      "source_url": "https://www.eporady24.pl/rezygnacja-z-wynajetego-lokalu-na-bookingcom-z-powodu-zlych-warunkow-jak-odzyskac-pieniadze,pytania,4,54,34568.html",
+      "archive_path": "_archive/legal_other/eporady24_00007__d73b108f.html",
+      "content_type": "text/html",
+      "size_bytes": 43695,
+      "sha256": "2f96f0378c2765ee0d90c3bcf6249130981fcc7f3b223a4ec782e4a48fb51fff",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00007"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00008__e80b8193",
+      "source_url": "https://www.eporady24.pl/prawa-konsumenta-przy-zakupie-voucherow-co-warto-wiedziec-o-zwrotach-i-odstapieniu-od-umowy,pytania,4,54,33808.html",
+      "archive_path": "_archive/legal_other/eporady24_00008__e80b8193.html",
+      "content_type": "text/html",
+      "size_bytes": 41357,
+      "sha256": "47e0421d128a48d73770cfb0a0d0f89601b9880647fbf0250e6c1ed164205c19",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00008"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00009__0629975b",
+      "source_url": "https://www.eporady24.pl/reklamacja-diamentu-jakie-prawa-ma-konsument,pytania,4,54,34200.html",
+      "archive_path": "_archive/legal_other/eporady24_00009__0629975b.html",
+      "content_type": "text/html",
+      "size_bytes": 48764,
+      "sha256": "b946ea9586deade7481eec07d383ee5c6d4069ef45c415797aac9dffa0187d4b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00009"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00010__9ba30855",
+      "source_url": "https://www.eporady24.pl/jak-skutecznie-odzyskac-pieniadze-za-niezrealizowane-zamowienie-towaru,pytania,4,54,33889.html",
+      "archive_path": "_archive/legal_other/eporady24_00010__9ba30855.html",
+      "content_type": "text/html",
+      "size_bytes": 40853,
+      "sha256": "9202f362cd00145b8fd34c1eb8cfd1b7abf39e20b78aa7549b010e8f2251513b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00010"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00011__5029030f",
+      "source_url": "https://www.eporady24.pl/reklamacja-zle-wykonanego-tatuazu,pytania,4,54,33632.html",
+      "archive_path": "_archive/legal_other/eporady24_00011__5029030f.html",
+      "content_type": "text/html",
+      "size_bytes": 41950,
+      "sha256": "4f0f668957a1537d898639f6d90a5cf5933a673c2778993593ff2c242c0b634c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00011"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00012__efb84bdb",
+      "source_url": "https://www.eporady24.pl/reklamacja-wadliwych-paneli-montaz-we-wlasnym-zakresie-a-prawa-konsumenta,pytania,4,54,33643.html",
+      "archive_path": "_archive/legal_other/eporady24_00012__efb84bdb.html",
+      "content_type": "text/html",
+      "size_bytes": 42039,
+      "sha256": "17aa51c825eb94590162f110675d5d73c1844de42bcc56f715ae265ca1ce8844",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00012"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00013__3cb1c86e",
+      "source_url": "https://www.eporady24.pl/anulowanie-zamowionego-towaru-przez-internet,pytania,4,54,30091.html",
+      "archive_path": "_archive/legal_other/eporady24_00013__3cb1c86e.html",
+      "content_type": "text/html",
+      "size_bytes": 41298,
+      "sha256": "c0be6f891c0f73e3e8037b6fa8ad09c10a0d5d9382149d47190f79644c44d950",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00013"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00014__b1641df4",
+      "source_url": "https://www.eporady24.pl/rekojmia-po-okresie-gwarancyjnym,pytania,4,54,27887.html",
+      "archive_path": "_archive/legal_other/eporady24_00014__b1641df4.html",
+      "content_type": "text/html",
+      "size_bytes": 43008,
+      "sha256": "99dec020f8cd5603fc764c7f7aa94a3ffbf6293e6b8e912e9db7ce5ffa361f3c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00014"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00015__b92ea1d3",
+      "source_url": "https://www.eporady24.pl/anulowanie-rezerwacji-na-bookingcom,pytania,4,54,27523.html",
+      "archive_path": "_archive/legal_other/eporady24_00015__b92ea1d3.html",
+      "content_type": "text/html",
+      "size_bytes": 44437,
+      "sha256": "f93cc88a8bf609ecc270a0c9afbb31c3e878fe00d79d768fd6ca9b4644a577f4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00015"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00016__430fca67",
+      "source_url": "https://www.eporady24.pl/klient-twierdzi-ze-otrzymal-niekompletne-zamowienie-co-zrobic,pytania,4,54,27350.html",
+      "archive_path": "_archive/legal_other/eporady24_00016__430fca67.html",
+      "content_type": "text/html",
+      "size_bytes": 47300,
+      "sha256": "a5a6c2825347c539709a65754455ab97207fc3d3ccd55ff964f9a8f804b7131c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00016"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00017__72f0bef0",
+      "source_url": "https://www.eporady24.pl/mechanik-odmawia-przedstawienia-rachunkow-za-czesci-do-samochodu-co-zrobic,pytania,4,54,24584.html",
+      "archive_path": "_archive/legal_other/eporady24_00017__72f0bef0.html",
+      "content_type": "text/html",
+      "size_bytes": 40588,
+      "sha256": "ba902c2ff2a9296a696d32e6a36d15706eadee6af72e627bee1a6c53dfaad4b6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00017"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00018__5b6e7e2c",
+      "source_url": "https://www.eporady24.pl/nieprzyjecie_reklamacji_rozklejonego_obuwia,pytania,4,54,9762.html",
+      "archive_path": "_archive/legal_other/eporady24_00018__5b6e7e2c.html",
+      "content_type": "text/html",
+      "size_bytes": 45590,
+      "sha256": "e4bc4f5f0db1731170b41ee77f1d88785f6a6cebdc9975235fd261dc7490a69e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00018"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00019__b81e5d6b",
+      "source_url": "https://www.eporady24.pl/odrzucona-reklamacja-obuwia-co-zrobic,pytania,4,54,31941.html",
+      "archive_path": "_archive/legal_other/eporady24_00019__b81e5d6b.html",
+      "content_type": "text/html",
+      "size_bytes": 39483,
+      "sha256": "585cb27d2b51ab88b3fe30c9608cc310d99f0c5728c10db6df02823ac3312a23",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00019"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "legal_other/eporady24_00020__4164f482",
+      "source_url": "https://www.eporady24.pl/brak-przesylki-zamowionej-przez-internet-jak-odzyskac-pieniadze,pytania,4,54,31848.html",
+      "archive_path": "_archive/legal_other/eporady24_00020__4164f482.html",
+      "content_type": "text/html",
+      "size_bytes": 39319,
+      "sha256": "0d37f067ce2876f61da42152b118c6896adef92bc58754909090d35389c85e54",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "eporady24_00020"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00001__70e647a8",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1hwe6fg/ludzie_są_po_prostu_bez_serca/",
+      "archive_path": "_archive/reddit_polska/reddit_00001__70e647a8.html",
+      "content_type": "text/html",
+      "size_bytes": 8485,
+      "sha256": "17ac68038d60516dc00c0fddb2dd9e6365f1e4718497a18ea919dfddd4ed0098",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00001"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00002__4248be2e",
+      "source_url": "https://www.reddit.com/r/Polska/comments/15thokt/niektórzy_ludzie_nie_umieją_żyć_w_xxi_wieku/",
+      "archive_path": "_archive/reddit_polska/reddit_00002__4248be2e.html",
+      "content_type": "text/html",
+      "size_bytes": 8514,
+      "sha256": "348c366a448e0720bf1ab686731111200241a7c4f7ee3c6897829e352bb75bd7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00002"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00003__1ca04cb4",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1bj82lq/młodzi_i_nieodpowiedzialni/",
+      "archive_path": "_archive/reddit_polska/reddit_00003__1ca04cb4.html",
+      "content_type": "text/html",
+      "size_bytes": 8482,
+      "sha256": "714807446d3f8a658d4ed18482c5740e0e63b6cf64d96f0ac27a9c5ccc479d6e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00003"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00004__62db0814",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1mcz403/nie_każda_współpraca_się_opłaca/",
+      "archive_path": "_archive/reddit_polska/reddit_00004__62db0814.html",
+      "content_type": "text/html",
+      "size_bytes": 8507,
+      "sha256": "078a88b02d3d5a78e754bb50637caf221ab3dbdc12ae6210d6bd74103e2a3b6a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00004"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00005__3f3f6b84",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1stevjn/zwrot_opakowań_kaucyjnych_a_wewnętrzne_regulaminy/",
+      "archive_path": "_archive/reddit_polska/reddit_00005__3f3f6b84.html",
+      "content_type": "text/html",
+      "size_bytes": 8510,
+      "sha256": "ecd581c04e12d5fab54f340c9d90409e145619c77d34f6d1d89fb65a4fc4d0da",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00005"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00006__c1f1dd2b",
+      "source_url": "https://www.reddit.com/r/Polska/comments/xf4qvx/reklamacja_sklep_notorycznie_ignoruje_wniosek_o/",
+      "archive_path": "_archive/reddit_polska/reddit_00006__c1f1dd2b.html",
+      "content_type": "text/html",
+      "size_bytes": 8497,
+      "sha256": "4a0a8d83bde52926d4a3c594df6b30d7bb932563c8001ccb638636ac7c453464",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00006"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00007__9453c8fa",
+      "source_url": "https://www.reddit.com/r/Polska/comments/17joikp/czy_rozmiar_ma_znaczenie_opowieść_z_serwisu/",
+      "archive_path": "_archive/reddit_polska/reddit_00007__9453c8fa.html",
+      "content_type": "text/html",
+      "size_bytes": 8504,
+      "sha256": "2c94e7a908f56cd9f70d7e1b0ae00d69d3de44941eb3c70477308e4cb436878a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00007"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00008__922d945b",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1jcr9nz/sprzedawca_z_allegro_grozi_mi_sądem_za_stratę_8/",
+      "archive_path": "_archive/reddit_polska/reddit_00008__922d945b.html",
+      "content_type": "text/html",
+      "size_bytes": 8508,
+      "sha256": "bf315a4046f9d097341c9b045922f03b9da5bfad3dbb07df9d75a7492792c922",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00008"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00009__eed366be",
+      "source_url": "https://www.reddit.com/r/Polska/comments/18afz4b/odszkodowanie_mi_się_należy_opowieść_z_serwisu/",
+      "archive_path": "_archive/reddit_polska/reddit_00009__eed366be.html",
+      "content_type": "text/html",
+      "size_bytes": 8517,
+      "sha256": "f79ef10538a4b1d95c056138223bea12b371cbaf58e7c36c2861c04143aca8eb",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00009"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00010__407c30b7",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1ga4fxe/jak_się_oszukuje_w_internecie/",
+      "archive_path": "_archive/reddit_polska/reddit_00010__407c30b7.html",
+      "content_type": "text/html",
+      "size_bytes": 8485,
+      "sha256": "b2e6fced7465e3e497df37e2f44b41c08dee3d775156654ff4b6ea45635147b6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00010"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00011__19665c4f",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1r86sn5/jak_oleole_zlewa_temat_reklamacji_od_2_miesięcy/",
+      "archive_path": "_archive/reddit_polska/reddit_00011__19665c4f.html",
+      "content_type": "text/html",
+      "size_bytes": 8503,
+      "sha256": "7dda929b54bbf408ade9555d379ed09807ac829956c01efefb71c76e5dd14825",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00011"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00012__1a6b8d3a",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1rjmbe5/update_w_mojej_sprawie_z_euro_agd/",
+      "archive_path": "_archive/reddit_polska/reddit_00012__1a6b8d3a.html",
+      "content_type": "text/html",
+      "size_bytes": 8484,
+      "sha256": "5a36bfb58d1cb19210b67f87bf98dbbfec040cedca82fd59d37ec356b0ab7619",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00012"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00013__1ec8127c",
+      "source_url": "https://www.reddit.com/r/Polska/comments/16xrret/dzieci_i_ryby_głosu_nie_mają_przynajmniej_według/",
+      "archive_path": "_archive/reddit_polska/reddit_00013__1ec8127c.html",
+      "content_type": "text/html",
+      "size_bytes": 8514,
+      "sha256": "64719a8ac51d529d711d79599d45dc1de90ac7ab9aa8fb8d4a2eaa15fbf95f71",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00013"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00014__5967bf2c",
+      "source_url": "https://www.reddit.com/r/Polska/comments/17oyoj3/nie_mam_dowodu_ale_mam_świadków_opowieść_z/",
+      "archive_path": "_archive/reddit_polska/reddit_00014__5967bf2c.html",
+      "content_type": "text/html",
+      "size_bytes": 8513,
+      "sha256": "caefb09fc9178376dbd03be5b2af9aceeadad7a27e860f1228dcbb528d987029",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00014"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00015__7aab6aa5",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1h0yrnj/kto_pierwszy_ten_lepszy/",
+      "archive_path": "_archive/reddit_polska/reddit_00015__7aab6aa5.html",
+      "content_type": "text/html",
+      "size_bytes": 8474,
+      "sha256": "3e1d71c274612c31ccbfb45e16156d7e6ab97b49553c9c98afb6f2aed1b2aaa1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00015"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00016__f2b69767",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1f8mu3v/klient_ma_zawsze_racje_czyli_najgorsze/",
+      "archive_path": "_archive/reddit_polska/reddit_00016__f2b69767.html",
+      "content_type": "text/html",
+      "size_bytes": 8489,
+      "sha256": "d8afdbcb65b14de0625e77a035e9690da5f042dd796cfabf750fb60f2589f19a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00016"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00017__9e0ab0e8",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1cbrrqh/polska_perfidność_nie_zna_granic/",
+      "archive_path": "_archive/reddit_polska/reddit_00017__9e0ab0e8.html",
+      "content_type": "text/html",
+      "size_bytes": 8493,
+      "sha256": "3863bc83ee76ba13eca98d5ecb8983560fdd304f2d77340826f1ed5a40ab7667",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00017"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00018__619b3fd6",
+      "source_url": "https://www.reddit.com/r/Polska/comments/18vuaji/ludzka_roszczeniowość_nie_zna_granic/",
+      "archive_path": "_archive/reddit_polska/reddit_00018__619b3fd6.html",
+      "content_type": "text/html",
+      "size_bytes": 8497,
+      "sha256": "7884dcdd5b6d1f5dea5324f01daba4b287154c1737823e77bbbf562330598c1e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00018"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00019__1381c921",
+      "source_url": "https://www.reddit.com/r/Polska/comments/16fpa2m/święte_prawo_konsumenta/",
+      "archive_path": "_archive/reddit_polska/reddit_00019__1381c921.html",
+      "content_type": "text/html",
+      "size_bytes": 8484,
+      "sha256": "5ea0cfb1e66009c6d3439e2bbba75a1ba0641ce8682a7e0d1afe2b527d631c80",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00019"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    },
+    {
+      "doc_id": "reddit_polska/reddit_00020__463c575f",
+      "source_url": "https://www.reddit.com/r/Polska/comments/1c0eyot/gdy_chcesz_być_dobry_ale_i_tak_jesteś_tym_złym/",
+      "archive_path": "_archive/reddit_polska/reddit_00020__463c575f.html",
+      "content_type": "text/html",
+      "size_bytes": 8512,
+      "sha256": "bdb71586f0ec9042b716da03b5f283f4f40fee0c0a0e54fd5e10a384bce223f0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "reddit_00020"
+      ],
+      "license": "fair-use research sample",
+      "http_status": 200
+    }
+  ],
+  "errors": []
+}

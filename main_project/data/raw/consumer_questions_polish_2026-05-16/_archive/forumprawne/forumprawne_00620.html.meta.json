@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00620",
+  "source_url": "https://forumprawne.org/watek/zakup-na-olx-od-osoby-prywatnej.870620/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-na-olx-od-osoby-prywatnej.870620/",
+  "archive_file": "forumprawne/forumprawne_00620.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 71645,
+  "sha256": "d38b61f34d86d6b174da83a9a9ab001c01f7ccff77a536e95d9ac81d80101074",
+  "download_date": "2026-05-16T07:53:14Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

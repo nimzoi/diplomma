@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00626",
+  "source_url": "https://forumprawne.org/watek/jakies-dziwne-zawieszenie-konta-na-allegro.870540/",
+  "fetch_url": "https://forumprawne.org/watek/jakies-dziwne-zawieszenie-konta-na-allegro.870540/",
+  "archive_file": "forumprawne/forumprawne_00626.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62198,
+  "sha256": "790b39837d95d5e45c830192293f300234ef7c7f93e7a4ab3160324ae1fec1a0",
+  "download_date": "2026-05-16T07:53:21Z",
+  "duration_sec": 0.209,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

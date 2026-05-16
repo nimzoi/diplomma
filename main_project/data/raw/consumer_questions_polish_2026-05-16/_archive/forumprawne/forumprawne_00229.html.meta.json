@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00229",
+  "source_url": "https://forumprawne.org/watek/play-i-wypowiedzenie-umowy.879758/",
+  "fetch_url": "https://forumprawne.org/watek/play-i-wypowiedzenie-umowy.879758/",
+  "archive_file": "forumprawne/forumprawne_00229.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59022,
+  "sha256": "3f42053ddace304b3a757dbf8d8cdb0a8f472c65ab248b4420292b4757143731",
+  "download_date": "2026-05-16T07:45:53Z",
+  "duration_sec": 0.149,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

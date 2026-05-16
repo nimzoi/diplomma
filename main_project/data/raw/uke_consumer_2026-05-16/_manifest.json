@@ -1,0 +1,1406 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 200,
+  "entries": [
+    {
+      "article_id": "uke_0001_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1500
+    },
+    {
+      "article_id": "uke_0002_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/1,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1500
+    },
+    {
+      "article_id": "uke_0003_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/10,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1989
+    },
+    {
+      "article_id": "uke_0004_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/11,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1479
+    },
+    {
+      "article_id": "uke_0005_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/12,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1920
+    },
+    {
+      "article_id": "uke_0006_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/13,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1552
+    },
+    {
+      "article_id": "uke_0007_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/14,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1717
+    },
+    {
+      "article_id": "uke_0008_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/15,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1605
+    },
+    {
+      "article_id": "uke_0009_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/16,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1706
+    },
+    {
+      "article_id": "uke_0010_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/17,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1423
+    },
+    {
+      "article_id": "uke_0011_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/18,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1609
+    },
+    {
+      "article_id": "uke_0012_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/19,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1817
+    },
+    {
+      "article_id": "uke_0013_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/2,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1805
+    },
+    {
+      "article_id": "uke_0014_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/20,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1669
+    },
+    {
+      "article_id": "uke_0015_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/21,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2045
+    },
+    {
+      "article_id": "uke_0016_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/3,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1609
+    },
+    {
+      "article_id": "uke_0017_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/4,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1473
+    },
+    {
+      "article_id": "uke_0018_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/5,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2190
+    },
+    {
+      "article_id": "uke_0019_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/6,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1924
+    },
+    {
+      "article_id": "uke_0020_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/63,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2643
+    },
+    {
+      "article_id": "uke_0021_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/64,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2597
+    },
+    {
+      "article_id": "uke_0022_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/65,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2901
+    },
+    {
+      "article_id": "uke_0023_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/66,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1340
+    },
+    {
+      "article_id": "uke_0024_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/67,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2498
+    },
+    {
+      "article_id": "uke_0025_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/68,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 3101
+    },
+    {
+      "article_id": "uke_0026_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/69,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2432
+    },
+    {
+      "article_id": "uke_0027_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/7,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1876
+    },
+    {
+      "article_id": "uke_0028_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/70,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 3344
+    },
+    {
+      "article_id": "uke_0029_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/71,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 3605
+    },
+    {
+      "article_id": "uke_0030_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/72,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 3433
+    },
+    {
+      "article_id": "uke_0031_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/73,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 3325
+    },
+    {
+      "article_id": "uke_0032_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/74,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 3899
+    },
+    {
+      "article_id": "uke_0033_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/75,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 3895
+    },
+    {
+      "article_id": "uke_0034_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/76,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2789
+    },
+    {
+      "article_id": "uke_0035_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/77,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2630
+    },
+    {
+      "article_id": "uke_0036_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/78,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 3017
+    },
+    {
+      "article_id": "uke_0037_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/79,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1587
+    },
+    {
+      "article_id": "uke_0038_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/8,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 2252
+    },
+    {
+      "article_id": "uke_0039_news_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/9,strona.html",
+      "status": 200,
+      "title": "News - Centrum Informacji Konsumenckiej",
+      "char_count": 1644
+    },
+    {
+      "article_id": "uke_0040_aigorytm_na_miosc_poradnik_nie_romantyczny_uke_cen",
+      "url": "https://cik.uke.gov.pl/news/aigorytm-na-milosc-poradnik-nieromantyczny-uke,624,0.html",
+      "status": 200,
+      "title": "„AI”gorytm na miłość – Poradnik (nie)romantyczny UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 2439
+    },
+    {
+      "article_id": "uke_0041_aigorytm_na_miosc_poradnik_nie_romantyczny_uke_cen",
+      "url": "https://cik.uke.gov.pl/news/aigorytm-na-milosc-poradnik-nieromantyczny-uke,624.html",
+      "status": 200,
+      "title": "„AI”gorytm na miłość – Poradnik (nie)romantyczny UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 2439
+    },
+    {
+      "article_id": "uke_0042_akademia_seniora_w_bechatowie_centrum_informacji_k",
+      "url": "https://cik.uke.gov.pl/news/akademia-seniora-w-belchatowie,527.html",
+      "status": 200,
+      "title": "Akademia Seniora w Bełchatowie - Centrum Informacji Konsumenckiej",
+      "char_count": 458
+    },
+    {
+      "article_id": "uke_0043_artykuy_na_stronie_uke_w_polskim_jezyku_migowym_ce",
+      "url": "https://cik.uke.gov.pl/news/artykuly-na-stronie-uke-w-polskim-jezyku-migowym,51,0.html",
+      "status": 200,
+      "title": "Artykuły na stronie UKE w Polskim Języku Migowym - Centrum Informacji Konsumenckiej",
+      "char_count": 522
+    },
+    {
+      "article_id": "uke_0044_artykuy_na_stronie_uke_w_polskim_jezyku_migowym_ce",
+      "url": "https://cik.uke.gov.pl/news/artykuly-na-stronie-uke-w-polskim-jezyku-migowym,51.html",
+      "status": 200,
+      "title": "Artykuły na stronie UKE w Polskim Języku Migowym - Centrum Informacji Konsumenckiej",
+      "char_count": 522
+    },
+    {
+      "article_id": "uke_0045_audycje_radiowe_z_udziaem_uke_centrum_informacji_k",
+      "url": "https://cik.uke.gov.pl/news/audycje-radiowe-z-udzialem-uke,35,0.html",
+      "status": 200,
+      "title": "Audycje radiowe z udziałem UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1346
+    },
+    {
+      "article_id": "uke_0046_audycje_radiowe_z_udziaem_uke_centrum_informacji_k",
+      "url": "https://cik.uke.gov.pl/news/audycje-radiowe-z-udzialem-uke,35.html",
+      "status": 200,
+      "title": "Audycje radiowe z udziałem UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1346
+    },
+    {
+      "article_id": "uke_0047_badania_ankietowe_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/badania-ankietowe,575,0.html",
+      "status": 200,
+      "title": "Badania ankietowe - Centrum Informacji Konsumenckiej",
+      "char_count": 593
+    },
+    {
+      "article_id": "uke_0048_badania_ankietowe_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/badania-ankietowe,575.html",
+      "status": 200,
+      "title": "Badania ankietowe - Centrum Informacji Konsumenckiej",
+      "char_count": 593
+    },
+    {
+      "article_id": "uke_0049_badanie_konsumenckie_dzieci_i_modziezy_centrum_inf",
+      "url": "https://cik.uke.gov.pl/news/badanie-konsumenckie-dzieci-i-mlodziezy,622,0.html",
+      "status": 200,
+      "title": "Badanie konsumenckie dzieci i młodzieży - Centrum Informacji Konsumenckiej",
+      "char_count": 5466
+    },
+    {
+      "article_id": "uke_0050_badanie_konsumenckie_dzieci_i_modziezy_centrum_inf",
+      "url": "https://cik.uke.gov.pl/news/badanie-konsumenckie-dzieci-i-mlodziezy,622.html",
+      "status": 200,
+      "title": "Badanie konsumenckie dzieci i młodzieży - Centrum Informacji Konsumenckiej",
+      "char_count": 5466
+    },
+    {
+      "article_id": "uke_0051_bezpieczne_relacje_w_sieci_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/bezpieczne-relacje-w-sieci,587,0.html",
+      "status": 200,
+      "title": "Bezpieczne relacje w sieci - Centrum Informacji Konsumenckiej",
+      "char_count": 426
+    },
+    {
+      "article_id": "uke_0052_bezpieczne_relacje_w_sieci_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/bezpieczne-relacje-w-sieci,587.html",
+      "status": 200,
+      "title": "Bezpieczne relacje w sieci - Centrum Informacji Konsumenckiej",
+      "char_count": 426
+    },
+    {
+      "article_id": "uke_0053_black_friday_przewodnik_po_cyberzagrozeniach_i_bez",
+      "url": "https://cik.uke.gov.pl/news/black-friday-przewodnik-po-cyberzagrozeniach-i-bezpiecznych-zakupach-online,607,0.html",
+      "status": 200,
+      "title": "Black Friday – Przewodnik po cyberzagrożeniach i bezpiecznych zakupach online - Centrum Informacji Konsumenckiej",
+      "char_count": 13918
+    },
+    {
+      "article_id": "uke_0054_black_friday_przewodnik_po_cyberzagrozeniach_i_bez",
+      "url": "https://cik.uke.gov.pl/news/black-friday-przewodnik-po-cyberzagrozeniach-i-bezpiecznych-zakupach-online,607.html",
+      "status": 200,
+      "title": "Black Friday – Przewodnik po cyberzagrożeniach i bezpiecznych zakupach online - Centrum Informacji Konsumenckiej",
+      "char_count": 13918
+    },
+    {
+      "article_id": "uke_0055_code_week_2018_juz_za_nami_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/code-week-2018-juz-za-nami,75,0.html",
+      "status": 200,
+      "title": "Code Week 2018 już za nami - Centrum Informacji Konsumenckiej",
+      "char_count": 3190
+    },
+    {
+      "article_id": "uke_0056_code_week_2018_juz_za_nami_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/code-week-2018-juz-za-nami,75.html",
+      "status": 200,
+      "title": "Code Week 2018 już za nami - Centrum Informacji Konsumenckiej",
+      "char_count": 3190
+    },
+    {
+      "article_id": "uke_0057_code_week_trwa_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/code-week-trwa,71,0.html",
+      "status": 200,
+      "title": "Code week trwa! - Centrum Informacji Konsumenckiej",
+      "char_count": 1290
+    },
+    {
+      "article_id": "uke_0058_code_week_trwa_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/code-week-trwa,71.html",
+      "status": 200,
+      "title": "Code week trwa! - Centrum Informacji Konsumenckiej",
+      "char_count": 1290
+    },
+    {
+      "article_id": "uke_0059_cyfrowa_dostepnosc_dla_wszystkich_w_konkursie_wsis",
+      "url": "https://cik.uke.gov.pl/news/cyfrowa-dostepnosc-dla-wszystkich-w-konkursie-wsis-prizes-2019,92.html",
+      "status": 200,
+      "title": "„Cyfrowa dostępność dla wszystkich!” w konkursie WSIS Prizes 2019! - Centrum Informacji Konsumenckiej",
+      "char_count": 2410
+    },
+    {
+      "article_id": "uke_0060_cyfrowo_z_historia_centrum_informacji_konsumenckie",
+      "url": "https://cik.uke.gov.pl/news/cyfrowo-z-historia,65,0.html",
+      "status": 200,
+      "title": "Cyfrowo z historią - Centrum Informacji Konsumenckiej",
+      "char_count": 576
+    },
+    {
+      "article_id": "uke_0061_cyfrowo_z_historia_centrum_informacji_konsumenckie",
+      "url": "https://cik.uke.gov.pl/news/cyfrowo-z-historia,65.html",
+      "status": 200,
+      "title": "Cyfrowo z historią - Centrum Informacji Konsumenckiej",
+      "char_count": 576
+    },
+    {
+      "article_id": "uke_0062_czas_na_nauke_z_uke_centrum_informacji_konsumencki",
+      "url": "https://cik.uke.gov.pl/news/czas-na-nauke-z-uke,89,0.html",
+      "status": 200,
+      "title": "Czas na naukę z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 793
+    },
+    {
+      "article_id": "uke_0063_czas_na_nauke_z_uke_centrum_informacji_konsumencki",
+      "url": "https://cik.uke.gov.pl/news/czas-na-nauke-z-uke,89.html",
+      "status": 200,
+      "title": "Czas na naukę z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 793
+    },
+    {
+      "article_id": "uke_0064_czowiek_w_centrum_cyfrowej_rewolucji_podsumowanie_",
+      "url": "https://cik.uke.gov.pl/news/czlowiek-w-centrum-cyfrowej-rewolucji-podsumowanie-forum-technologii-cyfrowych-i-mediow-2026,619,0.html",
+      "status": 200,
+      "title": "Człowiek w centrum cyfrowej rewolucji: Podsumowanie Forum Technologii Cyfrowych i Mediów 2026 - Centrum Informacji Konsu",
+      "char_count": 3441
+    },
+    {
+      "article_id": "uke_0065_czowiek_w_centrum_cyfrowej_rewolucji_podsumowanie_",
+      "url": "https://cik.uke.gov.pl/news/czlowiek-w-centrum-cyfrowej-rewolucji-podsumowanie-forum-technologii-cyfrowych-i-mediow-2026,619.html",
+      "status": 200,
+      "title": "Człowiek w centrum cyfrowej rewolucji: Podsumowanie Forum Technologii Cyfrowych i Mediów 2026 - Centrum Informacji Konsu",
+      "char_count": 3441
+    },
+    {
+      "article_id": "uke_0066_debata_swiadomosc_i_rozwaga_niezbedne_cechy_konsum",
+      "url": "https://cik.uke.gov.pl/news/debata-swiadomosc-i-rozwaga-niezbedne-cechy-konsumenta,542.html",
+      "status": 200,
+      "title": "Debata \"Świadomość i rozwaga – niezbędne cechy konsumenta\" - Centrum Informacji Konsumenckiej",
+      "char_count": 1032
+    },
+    {
+      "article_id": "uke_0067_dostepnie_o_bezpieczenstwie_w_sieci_w_gryfinie_cen",
+      "url": "https://cik.uke.gov.pl/news/dostepnie-o-bezpieczenstwie-w-sieci-w-gryfinie,526.html",
+      "status": 200,
+      "title": "Dostępnie o bezpieczeństwie w sieci w Gryfinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1509
+    },
+    {
+      "article_id": "uke_0068_dostepnie_o_bezpieczenstwie_w_sieci_warsztaty_dla_",
+      "url": "https://cik.uke.gov.pl/news/dostepnie-o-bezpieczenstwie-w-sieci-warsztaty-dla-uczniow-mos-nr-2-w-lodzi,599,0.html",
+      "status": 200,
+      "title": "Dostępnie o bezpieczeństwie w sieci - warsztaty dla uczniów MOS nr 2 w Łodzi - Centrum Informacji Konsumenckiej",
+      "char_count": 1515
+    },
+    {
+      "article_id": "uke_0069_dostepnie_o_bezpieczenstwie_w_sieci_warsztaty_dla_",
+      "url": "https://cik.uke.gov.pl/news/dostepnie-o-bezpieczenstwie-w-sieci-warsztaty-dla-uczniow-mos-nr-2-w-lodzi,599.html",
+      "status": 200,
+      "title": "Dostępnie o bezpieczeństwie w sieci - warsztaty dla uczniów MOS nr 2 w Łodzi - Centrum Informacji Konsumenckiej",
+      "char_count": 1515
+    },
+    {
+      "article_id": "uke_0070_drzwi_otwarte_w_delegaturach_centrum_informacji_ko",
+      "url": "https://cik.uke.gov.pl/news/drzwi-otwarte-w-delegaturach,21,0.html",
+      "status": 200,
+      "title": "Drzwi otwarte w Delegaturach - Centrum Informacji Konsumenckiej",
+      "char_count": 728
+    },
+    {
+      "article_id": "uke_0071_drzwi_otwarte_w_delegaturach_centrum_informacji_ko",
+      "url": "https://cik.uke.gov.pl/news/drzwi-otwarte-w-delegaturach,21.html",
+      "status": 200,
+      "title": "Drzwi otwarte w Delegaturach - Centrum Informacji Konsumenckiej",
+      "char_count": 728
+    },
+    {
+      "article_id": "uke_0072_dzieci_z_litewskiego_niemenczyna_koduja_z_uke_cent",
+      "url": "https://cik.uke.gov.pl/news/dzieci-z-litewskiego-niemenczyna-koduja-z-uke,49,0.html",
+      "status": 200,
+      "title": "Dzieci z litewskiego Niemenczyna kodują z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 861
+    },
+    {
+      "article_id": "uke_0073_dzieci_z_litewskiego_niemenczyna_koduja_z_uke_cent",
+      "url": "https://cik.uke.gov.pl/news/dzieci-z-litewskiego-niemenczyna-koduja-z-uke,49.html",
+      "status": 200,
+      "title": "Dzieci z litewskiego Niemenczyna kodują z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 861
+    },
+    {
+      "article_id": "uke_0074_dzieci_z_polski_i_litwy_ustanawiay_rekord_guinness",
+      "url": "https://cik.uke.gov.pl/news/dzieci-z-polski-i-litwy-ustanawialy-rekord-guinnessa,86,0.html",
+      "status": 200,
+      "title": "Dzieci z Polski i Litwy ustanawiały Rekord Guinnessa - Centrum Informacji Konsumenckiej",
+      "char_count": 2081
+    },
+    {
+      "article_id": "uke_0075_dzieci_z_polski_i_litwy_ustanawiay_rekord_guinness",
+      "url": "https://cik.uke.gov.pl/news/dzieci-z-polski-i-litwy-ustanawialy-rekord-guinnessa,86.html",
+      "status": 200,
+      "title": "Dzieci z Polski i Litwy ustanawiały Rekord Guinnessa - Centrum Informacji Konsumenckiej",
+      "char_count": 2081
+    },
+    {
+      "article_id": "uke_0076_dzien_bezpiecznego_internetu_w_utw_w_zamosciu_cent",
+      "url": "https://cik.uke.gov.pl/news/dzien-bezpiecznego-internetu-w-utw-w-zamosciu,529.html",
+      "status": 200,
+      "title": "Dzień Bezpiecznego Internetu w UTW w Zamościu - Centrum Informacji Konsumenckiej",
+      "char_count": 767
+    },
+    {
+      "article_id": "uke_0077_dzien_cyfrowych_mozliwosci_w_odzi_programowanie_je",
+      "url": "https://cik.uke.gov.pl/news/dzien-cyfrowych-mozliwosci-w-lodzi-programowanie-jezykiem-przyszlosci,583,0.html",
+      "status": 200,
+      "title": "Dzień Cyfrowych Możliwości w Łodzi – programowanie językiem przyszłości - Centrum Informacji Konsumenckiej",
+      "char_count": 1442
+    },
+    {
+      "article_id": "uke_0078_dzien_cyfrowych_mozliwosci_w_odzi_programowanie_je",
+      "url": "https://cik.uke.gov.pl/news/dzien-cyfrowych-mozliwosci-w-lodzi-programowanie-jezykiem-przyszlosci,583.html",
+      "status": 200,
+      "title": "Dzień Cyfrowych Możliwości w Łodzi – programowanie językiem przyszłości - Centrum Informacji Konsumenckiej",
+      "char_count": 1442
+    },
+    {
+      "article_id": "uke_0079_dzien_konsumenta_w_legnicy_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/dzien-konsumenta-w-legnicy,23,0.html",
+      "status": 200,
+      "title": "Dzień konsumenta w Legnicy - Centrum Informacji Konsumenckiej",
+      "char_count": 1003
+    },
+    {
+      "article_id": "uke_0080_dzien_konsumenta_w_legnicy_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/dzien-konsumenta-w-legnicy,23.html",
+      "status": 200,
+      "title": "Dzień konsumenta w Legnicy - Centrum Informacji Konsumenckiej",
+      "char_count": 1003
+    },
+    {
+      "article_id": "uke_0081_dzien_ojca_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/dzien-ojca-z-uke,41,0.html",
+      "status": 200,
+      "title": "Dzień Ojca z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 511
+    },
+    {
+      "article_id": "uke_0082_dzien_ojca_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/dzien-ojca-z-uke,41.html",
+      "status": 200,
+      "title": "Dzień Ojca z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 511
+    },
+    {
+      "article_id": "uke_0083_dzien_pluszowego_misia_z_lekcjami_o_cyfrowym_bezpi",
+      "url": "https://cik.uke.gov.pl/news/dzien-pluszowego-misia-z-lekcjami-o-cyfrowym-bezpieczenstwie,604,0.html",
+      "status": 200,
+      "title": "Dzień Pluszowego Misia z Lekcjami o Cyfrowym Bezpieczeństwie! - Centrum Informacji Konsumenckiej",
+      "char_count": 2265
+    },
+    {
+      "article_id": "uke_0084_dzien_pluszowego_misia_z_lekcjami_o_cyfrowym_bezpi",
+      "url": "https://cik.uke.gov.pl/news/dzien-pluszowego-misia-z-lekcjami-o-cyfrowym-bezpieczenstwie,604.html",
+      "status": 200,
+      "title": "Dzień Pluszowego Misia z Lekcjami o Cyfrowym Bezpieczeństwie! - Centrum Informacji Konsumenckiej",
+      "char_count": 2265
+    },
+    {
+      "article_id": "uke_0085_edukacja_w_polskim_jezyku_migowym_centrum_informac",
+      "url": "https://cik.uke.gov.pl/news/edukacja-w-polskim-jezyku-migowym,87,0.html",
+      "status": 200,
+      "title": "Edukacja w Polskim Języku Migowym - Centrum Informacji Konsumenckiej",
+      "char_count": 815
+    },
+    {
+      "article_id": "uke_0086_edukacja_w_polskim_jezyku_migowym_centrum_informac",
+      "url": "https://cik.uke.gov.pl/news/edukacja-w-polskim-jezyku-migowym,87.html",
+      "status": 200,
+      "title": "Edukacja w Polskim Języku Migowym - Centrum Informacji Konsumenckiej",
+      "char_count": 815
+    },
+    {
+      "article_id": "uke_0087_energetycznie_w_bechatowie_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/energetycznie-w-belchatowie,102.html",
+      "status": 200,
+      "title": "Energetycznie w Bełchatowie - Centrum Informacji Konsumenckiej",
+      "char_count": 846
+    },
+    {
+      "article_id": "uke_0088_festiwal_nowoczesnych_technologii_fest_tech_w_star",
+      "url": "https://cik.uke.gov.pl/news/festiwal-nowoczesnych-technologii-fest-tech-w-stargardzie,642,0.html",
+      "status": 200,
+      "title": "Festiwal Nowoczesnych Technologii FEST TECH w Stargardzie - Centrum Informacji Konsumenckiej",
+      "char_count": 1854
+    },
+    {
+      "article_id": "uke_0089_festiwal_nowoczesnych_technologii_fest_tech_w_star",
+      "url": "https://cik.uke.gov.pl/news/festiwal-nowoczesnych-technologii-fest-tech-w-stargardzie,642.html",
+      "status": 200,
+      "title": "Festiwal Nowoczesnych Technologii FEST TECH w Stargardzie - Centrum Informacji Konsumenckiej",
+      "char_count": 1854
+    },
+    {
+      "article_id": "uke_0090_hejt_i_manipulacja_w_mediach_spoecznosciowych_cent",
+      "url": "https://cik.uke.gov.pl/news/hejt-i-manipulacja-w-mediach-spolecznosciowych,570,0.html",
+      "status": 200,
+      "title": "Hejt i Manipulacja w Mediach Społecznościowych - Centrum Informacji Konsumenckiej",
+      "char_count": 1677
+    },
+    {
+      "article_id": "uke_0091_hejt_i_manipulacja_w_mediach_spoecznosciowych_cent",
+      "url": "https://cik.uke.gov.pl/news/hejt-i-manipulacja-w-mediach-spolecznosciowych,570.html",
+      "status": 200,
+      "title": "Hejt i Manipulacja w Mediach Społecznościowych - Centrum Informacji Konsumenckiej",
+      "char_count": 1677
+    },
+    {
+      "article_id": "uke_0092_hejt_jak_chronic_i_wspierac_nasze_dzieci_centrum_i",
+      "url": "https://cik.uke.gov.pl/news/hejt-jak-chronic-i-wspierac-nasze-dzieci,551.html",
+      "status": 200,
+      "title": "Hejt - Jak chronić i wspierać nasze dzieci? - Centrum Informacji Konsumenckiej",
+      "char_count": 1501
+    },
+    {
+      "article_id": "uke_0093_i_konferencja_smart_safe_centrum_informacji_konsum",
+      "url": "https://cik.uke.gov.pl/news/i-konferencja-smart-safe,617,0.html",
+      "status": 200,
+      "title": "I Konferencja „SMART & SAFE” - Centrum Informacji Konsumenckiej",
+      "char_count": 1690
+    },
+    {
+      "article_id": "uke_0094_i_konferencja_smart_safe_centrum_informacji_konsum",
+      "url": "https://cik.uke.gov.pl/news/i-konferencja-smart-safe,617.html",
+      "status": 200,
+      "title": "I Konferencja „SMART & SAFE” - Centrum Informacji Konsumenckiej",
+      "char_count": 1690
+    },
+    {
+      "article_id": "uke_0095_i_warminsko_mazurska_olimpiada_wiedzy_konsumenckie",
+      "url": "https://cik.uke.gov.pl/news/i-warminsko-mazurska-olimpiada-wiedzy-konsumenckiej,641,0.html",
+      "status": 200,
+      "title": "I Warmińsko- Mazurska Olimpiada Wiedzy Konsumenckiej - Centrum Informacji Konsumenckiej",
+      "char_count": 3615
+    },
+    {
+      "article_id": "uke_0096_i_warminsko_mazurska_olimpiada_wiedzy_konsumenckie",
+      "url": "https://cik.uke.gov.pl/news/i-warminsko-mazurska-olimpiada-wiedzy-konsumenckiej,641.html",
+      "status": 200,
+      "title": "I Warmińsko- Mazurska Olimpiada Wiedzy Konsumenckiej - Centrum Informacji Konsumenckiej",
+      "char_count": 3615
+    },
+    {
+      "article_id": "uke_0097_iii_olimpiada_wiedzy_konsumenckiej_w_legnicy_centr",
+      "url": "https://cik.uke.gov.pl/news/iii-olimpiada-wiedzy-konsumenckiej-w-legnicy,558,0.html",
+      "status": 200,
+      "title": "III Olimpiada Wiedzy Konsumenckiej w Legnicy - Centrum Informacji Konsumenckiej",
+      "char_count": 1372
+    },
+    {
+      "article_id": "uke_0098_iii_olimpiada_wiedzy_konsumenckiej_w_legnicy_centr",
+      "url": "https://cik.uke.gov.pl/news/iii-olimpiada-wiedzy-konsumenckiej-w-legnicy,558.html",
+      "status": 200,
+      "title": "III Olimpiada Wiedzy Konsumenckiej w Legnicy - Centrum Informacji Konsumenckiej",
+      "char_count": 1372
+    },
+    {
+      "article_id": "uke_0099_inauguracja_kampanii_ucze_sie_bezpieczenstwa_centr",
+      "url": "https://cik.uke.gov.pl/news/inauguracja-kampanii-ucze-sie-bezpieczenstwa,58,0.html",
+      "status": 200,
+      "title": "Inauguracja kampanii Uczę się bezpieczeństwa - Centrum Informacji Konsumenckiej",
+      "char_count": 643
+    },
+    {
+      "article_id": "uke_0100_inauguracja_kampanii_ucze_sie_bezpieczenstwa_centr",
+      "url": "https://cik.uke.gov.pl/news/inauguracja-kampanii-ucze-sie-bezpieczenstwa,58.html",
+      "status": 200,
+      "title": "Inauguracja kampanii Uczę się bezpieczeństwa - Centrum Informacji Konsumenckiej",
+      "char_count": 643
+    },
+    {
+      "article_id": "uke_0101_inauguracja_warsztatow_prowadzonych_w_pjm_centrum_",
+      "url": "https://cik.uke.gov.pl/news/inauguracja-warsztatow-prowadzonych-w-pjm,93.html",
+      "status": 200,
+      "title": "Inauguracja warsztatów prowadzonych w PJM - Centrum Informacji Konsumenckiej",
+      "char_count": 428
+    },
+    {
+      "article_id": "uke_0102_inauguracja_wiem_co_podpisuje_w_2019_centrum_infor",
+      "url": "https://cik.uke.gov.pl/news/inauguracja-wiem-co-podpisuje-w-2019,91,0.html",
+      "status": 200,
+      "title": "Inauguracja \"Wiem, co podpisuję\" w 2019 - Centrum Informacji Konsumenckiej",
+      "char_count": 510
+    },
+    {
+      "article_id": "uke_0103_inauguracja_wiem_co_podpisuje_w_2019_centrum_infor",
+      "url": "https://cik.uke.gov.pl/news/inauguracja-wiem-co-podpisuje-w-2019,91.html",
+      "status": 200,
+      "title": "Inauguracja \"Wiem, co podpisuję\" w 2019 - Centrum Informacji Konsumenckiej",
+      "char_count": 510
+    },
+    {
+      "article_id": "uke_0104_ix_kongres_gospodarki_senioralnej_cybersi_centrum_",
+      "url": "https://cik.uke.gov.pl/news/ix-kongres-gospodarki-senioralnej-cybersi,586,0.html",
+      "status": 200,
+      "title": "IX Kongres Gospodarki Senioralnej – #cybersi - Centrum Informacji Konsumenckiej",
+      "char_count": 554
+    },
+    {
+      "article_id": "uke_0105_ix_kongres_gospodarki_senioralnej_cybersi_centrum_",
+      "url": "https://cik.uke.gov.pl/news/ix-kongres-gospodarki-senioralnej-cybersi,586.html",
+      "status": 200,
+      "title": "IX Kongres Gospodarki Senioralnej – #cybersi - Centrum Informacji Konsumenckiej",
+      "char_count": 554
+    },
+    {
+      "article_id": "uke_0106_ix_kongres_gospodarki_senioralnej_cybersi_centrum_",
+      "url": "https://cik.uke.gov.pl/news/ix-kongres-gospodarki-senioralnej-cybersi,588,0.html",
+      "status": 200,
+      "title": "IX Kongres Gospodarki Senioralnej – #CYBERSI - Centrum Informacji Konsumenckiej",
+      "char_count": 4308
+    },
+    {
+      "article_id": "uke_0107_ix_kongres_gospodarki_senioralnej_cybersi_centrum_",
+      "url": "https://cik.uke.gov.pl/news/ix-kongres-gospodarki-senioralnej-cybersi,588.html",
+      "status": 200,
+      "title": "IX Kongres Gospodarki Senioralnej – #CYBERSI - Centrum Informacji Konsumenckiej",
+      "char_count": 4308
+    },
+    {
+      "article_id": "uke_0108_kampania_wiem_co_podpisuje_na_antenie_radia_sudety",
+      "url": "https://cik.uke.gov.pl/news/kampania-wiem-co-podpisuje-na-antenie-radia-sudety-24,47,0.html",
+      "status": 200,
+      "title": "Kampania \"Wiem, co podpisuję\" na antenie Radia Sudety 24 - Centrum Informacji Konsumenckiej",
+      "char_count": 306
+    },
+    {
+      "article_id": "uke_0109_kampania_wiem_co_podpisuje_na_antenie_radia_sudety",
+      "url": "https://cik.uke.gov.pl/news/kampania-wiem-co-podpisuje-na-antenie-radia-sudety-24,47.html",
+      "status": 200,
+      "title": "Kampania \"Wiem, co podpisuję\" na antenie Radia Sudety 24 - Centrum Informacji Konsumenckiej",
+      "char_count": 306
+    },
+    {
+      "article_id": "uke_0110_karolina_pisze_do_ciebie_zastanow_sie_zanim_odpowi",
+      "url": "https://cik.uke.gov.pl/news/karolina-pisze-do-ciebie-zastanow-sie-zanim-odpowiesz,97.html",
+      "status": 200,
+      "title": "Karolina pisze do Ciebie? Zastanów się zanim odpowiesz! - Centrum Informacji Konsumenckiej",
+      "char_count": 3092
+    },
+    {
+      "article_id": "uke_0111_klikam_z_gowa_w_pjm_centrum_informacji_konsumencki",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-pjm,81,0.html",
+      "status": 200,
+      "title": "Klikam z głową w PJM - Centrum Informacji Konsumenckiej",
+      "char_count": 439
+    },
+    {
+      "article_id": "uke_0112_klikam_z_gowa_w_pjm_centrum_informacji_konsumencki",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-pjm,81.html",
+      "status": 200,
+      "title": "Klikam z głową w PJM - Centrum Informacji Konsumenckiej",
+      "char_count": 439
+    },
+    {
+      "article_id": "uke_0113_klikam_z_gowa_w_policach_centrum_informacji_konsum",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-policach,629,0.html",
+      "status": 200,
+      "title": "\"Klikam z głowa\" w Policach - Centrum Informacji Konsumenckiej",
+      "char_count": 1171
+    },
+    {
+      "article_id": "uke_0114_klikam_z_gowa_w_policach_centrum_informacji_konsum",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-policach,629.html",
+      "status": 200,
+      "title": "\"Klikam z głowa\" w Policach - Centrum Informacji Konsumenckiej",
+      "char_count": 1171
+    },
+    {
+      "article_id": "uke_0115_klikam_z_gowa_w_policach_centrum_informacji_konsum",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-policach,640,0.html",
+      "status": 200,
+      "title": "\"Klikam z głowa\" w Policach - Centrum Informacji Konsumenckiej",
+      "char_count": 652
+    },
+    {
+      "article_id": "uke_0116_klikam_z_gowa_w_policach_centrum_informacji_konsum",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-policach,640.html",
+      "status": 200,
+      "title": "\"Klikam z głowa\" w Policach - Centrum Informacji Konsumenckiej",
+      "char_count": 652
+    },
+    {
+      "article_id": "uke_0117_klikam_z_gowa_w_polskim_jezyku_migowym_centrum_inf",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-polskim-jezyku-migowym,95.html",
+      "status": 200,
+      "title": "Klikam z głową w Polskim Języku Migowym - Centrum Informacji Konsumenckiej",
+      "char_count": 881
+    },
+    {
+      "article_id": "uke_0118_klikam_z_gowa_w_publicznej_szkole_podstawowej_im_k",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-publicznej-szkole-podstawowej-im-konstantego-ildefonsa-galczynskiego-w-dobrej,616,0.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Publicznej Szkole Podstawowej im. Konstantego Ildefonsa Gałczyńskiego w Dobrej - Centrum Informacji K",
+      "char_count": 1170
+    },
+    {
+      "article_id": "uke_0119_klikam_z_gowa_w_publicznej_szkole_podstawowej_im_k",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-publicznej-szkole-podstawowej-im-konstantego-ildefonsa-galczynskiego-w-dobrej,616.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Publicznej Szkole Podstawowej im. Konstantego Ildefonsa Gałczyńskiego w Dobrej - Centrum Informacji K",
+      "char_count": 1170
+    },
+    {
+      "article_id": "uke_0120_klikam_z_gowa_w_racimierzu_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-racimierzu,566,0.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Racimierzu - Centrum Informacji Konsumenckiej",
+      "char_count": 957
+    },
+    {
+      "article_id": "uke_0121_klikam_z_gowa_w_racimierzu_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-racimierzu,566.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Racimierzu - Centrum Informacji Konsumenckiej",
+      "char_count": 957
+    },
+    {
+      "article_id": "uke_0122_klikam_z_gowa_w_stargardzie_centrum_informacji_kon",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-stargardzie,633,0.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Stargardzie - Centrum Informacji Konsumenckiej",
+      "char_count": 708
+    },
+    {
+      "article_id": "uke_0123_klikam_z_gowa_w_stargardzie_centrum_informacji_kon",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-stargardzie,633.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Stargardzie - Centrum Informacji Konsumenckiej",
+      "char_count": 708
+    },
+    {
+      "article_id": "uke_0124_klikam_z_gowa_w_szczecinie_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szczecinie,530.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 791
+    },
+    {
+      "article_id": "uke_0125_klikam_z_gowa_w_szczecinie_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szczecinie,648,0.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 892
+    },
+    {
+      "article_id": "uke_0126_klikam_z_gowa_w_szczecinie_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szczecinie,648.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 892
+    },
+    {
+      "article_id": "uke_0127_klikam_z_gowa_w_szczecinie_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szczecinie,653,0.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1347
+    },
+    {
+      "article_id": "uke_0128_klikam_z_gowa_w_szczecinie_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szczecinie,653.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1347
+    },
+    {
+      "article_id": "uke_0129_klikam_z_gowa_w_szczecinie_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szczecinie,657,0.html",
+      "status": 200,
+      "title": "\"Klikam z głową” w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1350
+    },
+    {
+      "article_id": "uke_0130_klikam_z_gowa_w_szczecinie_centrum_informacji_kons",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szczecinie,657.html",
+      "status": 200,
+      "title": "\"Klikam z głową” w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1350
+    },
+    {
+      "article_id": "uke_0131_klikam_z_gowa_w_szkole_podstawowej_nr_10_im_leonid",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szkole-podstawowej-nr-10-im-leonida-teligi-w-szczecinie,565,0.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Szkole Podstawowej nr 10 im. Leonida Teligi w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1056
+    },
+    {
+      "article_id": "uke_0132_klikam_z_gowa_w_szkole_podstawowej_nr_10_im_leonid",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szkole-podstawowej-nr-10-im-leonida-teligi-w-szczecinie,565.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Szkole Podstawowej nr 10 im. Leonida Teligi w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1056
+    },
+    {
+      "article_id": "uke_0133_klikam_z_gowa_w_szkole_podstawowej_nr_13_im_orlat_",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szkole-podstawowej-nr-13-im-orlat-lwowskich-w-szczecinie,598,0.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Szkole Podstawowej nr 13 im. Orląt Lwowskich w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1151
+    },
+    {
+      "article_id": "uke_0134_klikam_z_gowa_w_szkole_podstawowej_nr_13_im_orlat_",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szkole-podstawowej-nr-13-im-orlat-lwowskich-w-szczecinie,598.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Szkole Podstawowej nr 13 im. Orląt Lwowskich w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1151
+    },
+    {
+      "article_id": "uke_0135_klikam_z_gowa_w_szkole_podstawowej_nr_35_im_jana_p",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szkole-podstawowej-nr-35-im-jana-pawla-ii-w-szczecinie,600,0.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Szkole Podstawowej nr 35 im. Jana Pawła II w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1157
+    },
+    {
+      "article_id": "uke_0136_klikam_z_gowa_w_szkole_podstawowej_nr_35_im_jana_p",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szkole-podstawowej-nr-35-im-jana-pawla-ii-w-szczecinie,600.html",
+      "status": 200,
+      "title": "„Klikam z głową” w Szkole Podstawowej nr 35 im. Jana Pawła II w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1157
+    },
+    {
+      "article_id": "uke_0137_klikam_z_gowa_w_szkole_podstawowej_nr_47_im_kornel",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szkole-podstawowej-nr-47-im-kornela-makuszynskiego-w-szczecinie,647,0.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Szkole Podstawowej nr 47 im. Kornela Makuszyńskiego w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1699
+    },
+    {
+      "article_id": "uke_0138_klikam_z_gowa_w_szkole_podstawowej_nr_47_im_kornel",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-szkole-podstawowej-nr-47-im-kornela-makuszynskiego-w-szczecinie,647.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Szkole Podstawowej nr 47 im. Kornela Makuszyńskiego w Szczecinie - Centrum Informacji Konsumenckiej",
+      "char_count": 1699
+    },
+    {
+      "article_id": "uke_0139_klikam_z_gowa_w_tomaszowie_mazowieckim_centrum_inf",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-tomaszowie-mazowieckim,560,0.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Tomaszowie Mazowieckim - Centrum Informacji Konsumenckiej",
+      "char_count": 553
+    },
+    {
+      "article_id": "uke_0140_klikam_z_gowa_w_tomaszowie_mazowieckim_centrum_inf",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-tomaszowie-mazowieckim,560.html",
+      "status": 200,
+      "title": "\"Klikam z głową\" w Tomaszowie Mazowieckim - Centrum Informacji Konsumenckiej",
+      "char_count": 553
+    },
+    {
+      "article_id": "uke_0141_klikam_z_gowa_w_woli_gaezowskiej_centrum_informacj",
+      "url": "https://cik.uke.gov.pl/news/klikam-z-glowa-w-woli-galezowskiej,528.html",
+      "status": 200,
+      "title": "Klikam z głową w Woli Gałęzowskiej - Centrum Informacji Konsumenckiej",
+      "char_count": 469
+    },
+    {
+      "article_id": "uke_0142_kodowanie_pod_napieciem_centrum_informacji_konsume",
+      "url": "https://cik.uke.gov.pl/news/kodowanie-pod-napieciem,24,0.html",
+      "status": 200,
+      "title": "Kodowanie pod napięciem - Centrum Informacji Konsumenckiej",
+      "char_count": 1339
+    },
+    {
+      "article_id": "uke_0143_kodowanie_pod_napieciem_centrum_informacji_konsume",
+      "url": "https://cik.uke.gov.pl/news/kodowanie-pod-napieciem,24.html",
+      "status": 200,
+      "title": "Kodowanie pod napięciem - Centrum Informacji Konsumenckiej",
+      "char_count": 1339
+    },
+    {
+      "article_id": "uke_0144_kodowanie_w_ramach_6_warszawskiego_festiwalu_kultu",
+      "url": "https://cik.uke.gov.pl/news/kodowanie-w-ramach-6-warszawskiego-festiwalu-kultury-bez-barier-mozesz,67,0.html",
+      "status": 200,
+      "title": "Kodowanie w ramach 6. Warszawskiego Festiwalu Kultury Bez Barier \"MOŻESZ\" - Centrum Informacji Konsumenckiej",
+      "char_count": 770
+    },
+    {
+      "article_id": "uke_0145_kodowanie_w_ramach_6_warszawskiego_festiwalu_kultu",
+      "url": "https://cik.uke.gov.pl/news/kodowanie-w-ramach-6-warszawskiego-festiwalu-kultury-bez-barier-mozesz,67.html",
+      "status": 200,
+      "title": "Kodowanie w ramach 6. Warszawskiego Festiwalu Kultury Bez Barier \"MOŻESZ\" - Centrum Informacji Konsumenckiej",
+      "char_count": 770
+    },
+    {
+      "article_id": "uke_0146_kodowanie_w_szpitalu_centrum_informacji_konsumenck",
+      "url": "https://cik.uke.gov.pl/news/kodowanie-w-szpitalu,99.html",
+      "status": 200,
+      "title": "Kodowanie w szpitalu - Centrum Informacji Konsumenckiej",
+      "char_count": 537
+    },
+    {
+      "article_id": "uke_0147_kodowanie_z_uke_radosne_swietowanie_dnia_dziecka_w",
+      "url": "https://cik.uke.gov.pl/news/kodowanie-z-uke-radosne-swietowanie-dnia-dziecka-w-olsztynie,562,0.html",
+      "status": 200,
+      "title": "„Kodowanie z UKE” – Radosne świętowanie Dnia Dziecka w Olsztynie - Centrum Informacji Konsumenckiej",
+      "char_count": 948
+    },
+    {
+      "article_id": "uke_0148_kodowanie_z_uke_radosne_swietowanie_dnia_dziecka_w",
+      "url": "https://cik.uke.gov.pl/news/kodowanie-z-uke-radosne-swietowanie-dnia-dziecka-w-olsztynie,562.html",
+      "status": 200,
+      "title": "„Kodowanie z UKE” – Radosne świętowanie Dnia Dziecka w Olsztynie - Centrum Informacji Konsumenckiej",
+      "char_count": 948
+    },
+    {
+      "article_id": "uke_0149_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,532.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 646
+    },
+    {
+      "article_id": "uke_0150_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,541.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 682
+    },
+    {
+      "article_id": "uke_0151_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,561,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1295
+    },
+    {
+      "article_id": "uke_0152_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,561.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1295
+    },
+    {
+      "article_id": "uke_0153_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,581,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1088
+    },
+    {
+      "article_id": "uke_0154_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,581.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1088
+    },
+    {
+      "article_id": "uke_0155_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,589,0.html",
+      "status": 200,
+      "title": "#Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 506
+    },
+    {
+      "article_id": "uke_0156_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,589.html",
+      "status": 200,
+      "title": "#Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 506
+    },
+    {
+      "article_id": "uke_0157_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,595,0.html",
+      "status": 200,
+      "title": "#Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1422
+    },
+    {
+      "article_id": "uke_0158_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,595.html",
+      "status": 200,
+      "title": "#Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1422
+    },
+    {
+      "article_id": "uke_0159_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,605,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 575
+    },
+    {
+      "article_id": "uke_0160_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,605.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 575
+    },
+    {
+      "article_id": "uke_0161_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,609,0.html",
+      "status": 200,
+      "title": "#Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 962
+    },
+    {
+      "article_id": "uke_0162_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,609.html",
+      "status": 200,
+      "title": "#Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 962
+    },
+    {
+      "article_id": "uke_0163_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,613,0.html",
+      "status": 200,
+      "title": "#Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 896
+    },
+    {
+      "article_id": "uke_0164_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,613.html",
+      "status": 200,
+      "title": "#Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 896
+    },
+    {
+      "article_id": "uke_0165_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,630,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1160
+    },
+    {
+      "article_id": "uke_0166_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,630.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1160
+    },
+    {
+      "article_id": "uke_0167_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,637,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1204
+    },
+    {
+      "article_id": "uke_0168_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,637.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1204
+    },
+    {
+      "article_id": "uke_0169_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,638,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 893
+    },
+    {
+      "article_id": "uke_0170_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,638.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 893
+    },
+    {
+      "article_id": "uke_0171_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,643,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1047
+    },
+    {
+      "article_id": "uke_0172_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,643.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1047
+    },
+    {
+      "article_id": "uke_0173_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,649,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1545
+    },
+    {
+      "article_id": "uke_0174_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,649.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 1545
+    },
+    {
+      "article_id": "uke_0175_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,651,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 895
+    },
+    {
+      "article_id": "uke_0176_koduj_z_uke_centrum_informacji_konsumenckiej",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke,651.html",
+      "status": 200,
+      "title": "Koduj z UKE - Centrum Informacji Konsumenckiej",
+      "char_count": 895
+    },
+    {
+      "article_id": "uke_0177_koduj_z_uke_podsumowanie_2025_roku_centrum_informa",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-podsumowanie-2025-roku,615,0.html",
+      "status": 200,
+      "title": "#Koduj z UKE - podsumowanie 2025 roku - Centrum Informacji Konsumenckiej",
+      "char_count": 1331
+    },
+    {
+      "article_id": "uke_0178_koduj_z_uke_podsumowanie_2025_roku_centrum_informa",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-podsumowanie-2025-roku,615.html",
+      "status": 200,
+      "title": "#Koduj z UKE - podsumowanie 2025 roku - Centrum Informacji Konsumenckiej",
+      "char_count": 1331
+    },
+    {
+      "article_id": "uke_0179_koduj_z_uke_poznajcie_photona_centrum_informacji_k",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-poznajcie-photona,546.html",
+      "status": 200,
+      "title": "Koduj z UKE - poznajcie Photona! - Centrum Informacji Konsumenckiej",
+      "char_count": 1624
+    },
+    {
+      "article_id": "uke_0180_koduj_z_uke_przystanek_lubelskie_centrum_informacj",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-przystanek-lubelskie,22,0.html",
+      "status": 200,
+      "title": "Koduj z UKE - przystanek lubelskie - Centrum Informacji Konsumenckiej",
+      "char_count": 1731
+    },
+    {
+      "article_id": "uke_0181_koduj_z_uke_przystanek_lubelskie_centrum_informacj",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-przystanek-lubelskie,22.html",
+      "status": 200,
+      "title": "Koduj z UKE - przystanek lubelskie - Centrum Informacji Konsumenckiej",
+      "char_count": 1731
+    },
+    {
+      "article_id": "uke_0182_koduj_z_uke_rusza_jesienna_edycja_warsztatow_z_kod",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-rusza-jesienna-edycja-warsztatow-z-kodowania,593,0.html",
+      "status": 200,
+      "title": "#Koduj z UKE – rusza jesienna edycja warsztatów z kodowania! - Centrum Informacji Konsumenckiej",
+      "char_count": 1786
+    },
+    {
+      "article_id": "uke_0183_koduj_z_uke_rusza_jesienna_edycja_warsztatow_z_kod",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-rusza-jesienna-edycja-warsztatow-z-kodowania,593.html",
+      "status": 200,
+      "title": "#Koduj z UKE – rusza jesienna edycja warsztatów z kodowania! - Centrum Informacji Konsumenckiej",
+      "char_count": 1786
+    },
+    {
+      "article_id": "uke_0184_koduj_z_uke_w_energetycznym_centrum_nauki_w_kielca",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-energetycznym-centrum-nauki-w-kielcach,83,0.html",
+      "status": 200,
+      "title": "Koduj z UKE w Energetycznym Centrum Nauki w Kielcach - Centrum Informacji Konsumenckiej",
+      "char_count": 612
+    },
+    {
+      "article_id": "uke_0185_koduj_z_uke_w_energetycznym_centrum_nauki_w_kielca",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-energetycznym-centrum-nauki-w-kielcach,83.html",
+      "status": 200,
+      "title": "Koduj z UKE w Energetycznym Centrum Nauki w Kielcach - Centrum Informacji Konsumenckiej",
+      "char_count": 612
+    },
+    {
+      "article_id": "uke_0186_koduj_z_uke_w_opnt_centrum_informacji_konsumenckie",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-opnt,602,0.html",
+      "status": 200,
+      "title": "#Koduj z UKE w OPNT - Centrum Informacji Konsumenckiej",
+      "char_count": 1383
+    },
+    {
+      "article_id": "uke_0187_koduj_z_uke_w_opnt_centrum_informacji_konsumenckie",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-opnt,602.html",
+      "status": 200,
+      "title": "#Koduj z UKE w OPNT - Centrum Informacji Konsumenckiej",
+      "char_count": 1383
+    },
+    {
+      "article_id": "uke_0188_koduj_z_uke_w_piap_centrum_informacji_konsumenckie",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-piap,59,0.html",
+      "status": 200,
+      "title": "Koduj z UKE w PIAP - Centrum Informacji Konsumenckiej",
+      "char_count": 1583
+    },
+    {
+      "article_id": "uke_0189_koduj_z_uke_w_piap_centrum_informacji_konsumenckie",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-piap,59.html",
+      "status": 200,
+      "title": "Koduj z UKE w PIAP - Centrum Informacji Konsumenckiej",
+      "char_count": 1583
+    },
+    {
+      "article_id": "uke_0190_koduj_z_uke_w_tvp_lublin_centrum_informacji_konsum",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-tvp-lublin,98.html",
+      "status": 200,
+      "title": "Koduj z UKE w TVP Lublin - Centrum Informacji Konsumenckiej",
+      "char_count": 411
+    },
+    {
+      "article_id": "uke_0191_koduj_z_uke_w_warminsko_mazurskim_centrum_informac",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-warminsko-mazurskim,48,0.html",
+      "status": 200,
+      "title": "Koduj z UKE w warmińsko-mazurskim - Centrum Informacji Konsumenckiej",
+      "char_count": 513
+    },
+    {
+      "article_id": "uke_0192_koduj_z_uke_w_warminsko_mazurskim_centrum_informac",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-warminsko-mazurskim,48.html",
+      "status": 200,
+      "title": "Koduj z UKE w warmińsko-mazurskim - Centrum Informacji Konsumenckiej",
+      "char_count": 513
+    },
+    {
+      "article_id": "uke_0193_koduj_z_uke_w_wojewodztwie_podlaskim_centrum_infor",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-wojewodztwie-podlaskim,33,0.html",
+      "status": 200,
+      "title": "Koduj z UKE w województwie podlaskim - Centrum Informacji Konsumenckiej",
+      "char_count": 1459
+    },
+    {
+      "article_id": "uke_0194_koduj_z_uke_w_wojewodztwie_podlaskim_centrum_infor",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-w-wojewodztwie-podlaskim,33.html",
+      "status": 200,
+      "title": "Koduj z UKE w województwie podlaskim - Centrum Informacji Konsumenckiej",
+      "char_count": 1459
+    },
+    {
+      "article_id": "uke_0195_koduj_z_uke_zgos_klase_do_kolejnej_edycji_centrum_",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-zglos-klase-do-kolejnej-edycji,621,0.html",
+      "status": 200,
+      "title": "Koduj z UKE – zgłoś klasę do kolejnej edycji - Centrum Informacji Konsumenckiej",
+      "char_count": 1772
+    },
+    {
+      "article_id": "uke_0196_koduj_z_uke_zgos_klase_do_kolejnej_edycji_centrum_",
+      "url": "https://cik.uke.gov.pl/news/koduj-z-uke-zglos-klase-do-kolejnej-edycji,621.html",
+      "status": 200,
+      "title": "Koduj z UKE – zgłoś klasę do kolejnej edycji - Centrum Informacji Konsumenckiej",
+      "char_count": 1772
+    },
+    {
+      "article_id": "uke_0197_kodujemy_z_bohaterami_dobranocek_centrum_informacj",
+      "url": "https://cik.uke.gov.pl/news/kodujemy-z-bohaterami-dobranocek,114.html",
+      "status": 200,
+      "title": "Kodujemy z bohaterami dobranocek - Centrum Informacji Konsumenckiej",
+      "char_count": 626
+    },
+    {
+      "article_id": "uke_0198_kodujemy_z_nauczycielami_z_europy_centrum_informac",
+      "url": "https://cik.uke.gov.pl/news/kodujemy-z-nauczycielami-z-europy,73,0.html",
+      "status": 200,
+      "title": "Kodujemy z nauczycielami z Europy - Centrum Informacji Konsumenckiej",
+      "char_count": 932
+    },
+    {
+      "article_id": "uke_0199_kodujemy_z_nauczycielami_z_europy_centrum_informac",
+      "url": "https://cik.uke.gov.pl/news/kodujemy-z-nauczycielami-z-europy,73.html",
+      "status": 200,
+      "title": "Kodujemy z nauczycielami z Europy - Centrum Informacji Konsumenckiej",
+      "char_count": 932
+    },
+    {
+      "article_id": "uke_0200_kolejne_kodowanie_na_bulwarach_centrum_informacji_",
+      "url": "https://cik.uke.gov.pl/news/kolejne-kodowanie-na-bulwarach,46,0.html",
+      "status": 200,
+      "title": "Kolejne kodowanie na Bulwarach - Centrum Informacji Konsumenckiej",
+      "char_count": 427
+    }
+  ]
+}

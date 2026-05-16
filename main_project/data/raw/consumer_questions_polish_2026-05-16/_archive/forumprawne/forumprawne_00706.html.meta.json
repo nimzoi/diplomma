@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00706",
+  "source_url": "https://forumprawne.org/watek/rekojmia-uszkodzony-towar.869241/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-uszkodzony-towar.869241/",
+  "archive_file": "forumprawne/forumprawne_00706.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53492,
+  "sha256": "b5d21ba11079da8f2d82008947638fb7e87867caa0cc34372675688414dd777a",
+  "download_date": "2026-05-16T07:54:52Z",
+  "duration_sec": 0.118,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

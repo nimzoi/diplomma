@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00480",
+  "source_url": "https://forumprawne.org/watek/vectra-brak-odpowiedzi-na-reklamacje.873936/",
+  "fetch_url": "https://forumprawne.org/watek/vectra-brak-odpowiedzi-na-reklamacje.873936/",
+  "archive_file": "forumprawne/forumprawne_00480.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 89184,
+  "sha256": "c6b3a039bd25b9c2a435f24e902ce9a5436dab411f80f8709bcb1d0d32b326e6",
+  "download_date": "2026-05-16T07:50:37Z",
+  "duration_sec": 0.223,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

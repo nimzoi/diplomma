@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00330",
+  "source_url": "https://forumprawne.org/watek/reklamacja-montazu-drzwi.877452/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-montazu-drzwi.877452/",
+  "archive_file": "forumprawne/forumprawne_00330.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52830,
+  "sha256": "e270233db28be377eb7a180f1025f4d092a126762af190c293d2e641cbb7f329",
+  "download_date": "2026-05-16T07:47:47Z",
+  "duration_sec": 0.239,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

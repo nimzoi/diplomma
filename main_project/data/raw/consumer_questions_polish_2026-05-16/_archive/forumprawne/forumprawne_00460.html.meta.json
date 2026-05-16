@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00460",
+  "source_url": "https://forumprawne.org/watek/dlug-a-choroba-narkotykowa.874480/",
+  "fetch_url": "https://forumprawne.org/watek/dlug-a-choroba-narkotykowa.874480/",
+  "archive_file": "forumprawne/forumprawne_00460.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61920,
+  "sha256": "c4b4970b21ef20784780121cd813a399eb8b31b21b1fdf7aa7a11ecb68cc702b",
+  "download_date": "2026-05-16T07:50:14Z",
+  "duration_sec": 0.214,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

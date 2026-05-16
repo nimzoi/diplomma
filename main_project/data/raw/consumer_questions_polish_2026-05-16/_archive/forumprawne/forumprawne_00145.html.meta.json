@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00145",
+  "source_url": "https://forumprawne.org/watek/gwarancja-producenta-a-rekojmia.881692/",
+  "fetch_url": "https://forumprawne.org/watek/gwarancja-producenta-a-rekojmia.881692/",
+  "archive_file": "forumprawne/forumprawne_00145.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58129,
+  "sha256": "d2f5c028603baeaeb9590433fb267b79cda2d76692f4d3104c98782f1abab373",
+  "download_date": "2026-05-16T07:44:19Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

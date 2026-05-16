@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01046",
+  "source_url": "https://forumprawne.org/watek/niekompletnie-wydana-reklamacja.862170/",
+  "fetch_url": "https://forumprawne.org/watek/niekompletnie-wydana-reklamacja.862170/",
+  "archive_file": "forumprawne/forumprawne_01046.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64876,
+  "sha256": "a68cc57db12b4d08f9b3eb9615f5b719889426da3042c4375b1873c7e137c3c2",
+  "download_date": "2026-05-16T08:01:16Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

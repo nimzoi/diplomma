@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00231",
+  "source_url": "https://forumprawne.org/watek/reklamacja-towaru-ktory-zostal-wywieziony-za-granice.879685/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-towaru-ktory-zostal-wywieziony-za-granice.879685/",
+  "archive_file": "forumprawne/forumprawne_00231.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53609,
+  "sha256": "59e568f48cac75c5a043a942576c649e831f29d8f86c85c901b8e6e710a37261",
+  "download_date": "2026-05-16T07:45:55Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

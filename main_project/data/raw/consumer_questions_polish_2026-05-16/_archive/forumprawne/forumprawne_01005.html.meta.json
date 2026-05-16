@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01005",
+  "source_url": "https://forumprawne.org/watek/umowa-pge.863222/",
+  "fetch_url": "https://forumprawne.org/watek/umowa-pge.863222/",
+  "archive_file": "forumprawne/forumprawne_01005.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58742,
+  "sha256": "01aa8dda4571027653e384bd26d0aeb770b2d37df5f2a767f1d1ce7dad33db64",
+  "download_date": "2026-05-16T08:00:29Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

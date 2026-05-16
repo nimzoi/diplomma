@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00160",
+  "source_url": "https://forumprawne.org/watek/jdg-a-konsument.881311/",
+  "fetch_url": "https://forumprawne.org/watek/jdg-a-konsument.881311/",
+  "archive_file": "forumprawne/forumprawne_00160.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57326,
+  "sha256": "28f1276c17af563ba164a43ad9e819c99f6d100a781330d24e547210ac00616d",
+  "download_date": "2026-05-16T07:44:36Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

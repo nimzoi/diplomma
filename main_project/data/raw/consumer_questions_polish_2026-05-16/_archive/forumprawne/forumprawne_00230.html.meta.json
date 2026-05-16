@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00230",
+  "source_url": "https://forumprawne.org/watek/sprzedane-auto-i-domaganie-sie-zwrotu.879740/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedane-auto-i-domaganie-sie-zwrotu.879740/",
+  "archive_file": "forumprawne/forumprawne_00230.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 118213,
+  "sha256": "564665c344cd37a460d9c766ce02f604414530929d2b67e0cf2fb9201b46c377",
+  "download_date": "2026-05-16T07:45:54Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

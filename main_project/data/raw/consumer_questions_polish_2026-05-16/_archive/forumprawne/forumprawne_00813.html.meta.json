@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00813",
+  "source_url": "https://forumprawne.org/watek/rekojmia-uzywanego-laptopa.867354/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-uzywanego-laptopa.867354/",
+  "archive_file": "forumprawne/forumprawne_00813.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55555,
+  "sha256": "d301645af436da6f710c260647b1cb4c1666d912a490b6e6e828697f801dd17b",
+  "download_date": "2026-05-16T07:56:52Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

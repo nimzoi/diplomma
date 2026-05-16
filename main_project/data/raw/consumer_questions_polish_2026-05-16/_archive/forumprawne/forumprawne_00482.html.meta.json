@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00482",
+  "source_url": "https://forumprawne.org/watek/reklamacja-kosy-spalinowej.873880/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-kosy-spalinowej.873880/",
+  "archive_file": "forumprawne/forumprawne_00482.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69464,
+  "sha256": "9f43dcb59fd13b641e112bd5e91bdd17210aeaee778d103496dc4c95f6a48d7c",
+  "download_date": "2026-05-16T07:50:40Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00226",
+  "source_url": "https://forumprawne.org/watek/reklamacja-smartfona-u-operatora.879798/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-smartfona-u-operatora.879798/",
+  "archive_file": "forumprawne/forumprawne_00226.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76827,
+  "sha256": "f98f9e601e8865c22498d673838c493fbf32ec4d127879c3a8a3612c2cddf83d",
+  "download_date": "2026-05-16T07:45:50Z",
+  "duration_sec": 0.252,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

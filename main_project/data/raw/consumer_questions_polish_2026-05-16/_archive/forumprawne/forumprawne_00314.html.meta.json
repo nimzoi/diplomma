@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00314",
+  "source_url": "https://forumprawne.org/watek/rekojma-kupno-uzywanego-samochodu.877886/",
+  "fetch_url": "https://forumprawne.org/watek/rekojma-kupno-uzywanego-samochodu.877886/",
+  "archive_file": "forumprawne/forumprawne_00314.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53207,
+  "sha256": "02b1da2dd01a4f6e8630c4b4b4011ac17e20c0a68430ba551a634ba3ebdb93e2",
+  "download_date": "2026-05-16T07:47:29Z",
+  "duration_sec": 0.078,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

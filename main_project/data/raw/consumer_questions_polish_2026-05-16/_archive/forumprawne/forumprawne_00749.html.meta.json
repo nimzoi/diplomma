@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00749",
+  "source_url": "https://forumprawne.org/watek/problem-z-silownia.868363/",
+  "fetch_url": "https://forumprawne.org/watek/problem-z-silownia.868363/",
+  "archive_file": "forumprawne/forumprawne_00749.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 67971,
+  "sha256": "e60a312243b3a9b7dc03e51017a0cdc947c253dad14a1660172e1bf1cc80363b",
+  "download_date": "2026-05-16T07:55:40Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

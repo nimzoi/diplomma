@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00742",
+  "source_url": "https://forumprawne.org/watek/nieuczciwe-praktyki-sieci-kablowej.862842/",
+  "fetch_url": "https://forumprawne.org/watek/nieuczciwe-praktyki-sieci-kablowej.862842/",
+  "archive_file": "forumprawne/forumprawne_00742.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 77112,
+  "sha256": "a26d01d033b5467cd2016cc90b428981f7dabcd951106023364d6a85b72c3ba8",
+  "download_date": "2026-05-16T07:55:32Z",
+  "duration_sec": 0.123,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

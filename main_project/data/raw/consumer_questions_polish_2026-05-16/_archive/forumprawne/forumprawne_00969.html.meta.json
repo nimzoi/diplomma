@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00969",
+  "source_url": "https://forumprawne.org/watek/rekojmia-za-auto.863891/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-za-auto.863891/",
+  "archive_file": "forumprawne/forumprawne_00969.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 80181,
+  "sha256": "a1f45751f8ce5270c68c1e943cd688c34af7a4a31bb74460f4be54358bad5973",
+  "download_date": "2026-05-16T07:59:48Z",
+  "duration_sec": 0.245,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

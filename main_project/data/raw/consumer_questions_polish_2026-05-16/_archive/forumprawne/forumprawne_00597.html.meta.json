@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00597",
+  "source_url": "https://forumprawne.org/watek/sklep-uchyla-sie-od-przeslania-paczki.871145/",
+  "fetch_url": "https://forumprawne.org/watek/sklep-uchyla-sie-od-przeslania-paczki.871145/",
+  "archive_file": "forumprawne/forumprawne_00597.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60534,
+  "sha256": "7cc6ee5beee26af5f8b048c109019a13a4d628d286fa1136cab023d414282f37",
+  "download_date": "2026-05-16T07:52:49Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

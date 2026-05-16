@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00374",
+  "source_url": "https://forumprawne.org/watek/reklamacja-towaru.876536/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-towaru.876536/",
+  "archive_file": "forumprawne/forumprawne_00374.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53190,
+  "sha256": "f9854d32dd39cdc53800bd4cda4da1475aec021406c84dbf41387c4fc5eefa72",
+  "download_date": "2026-05-16T07:48:37Z",
+  "duration_sec": 0.15,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

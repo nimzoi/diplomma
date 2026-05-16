@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00487",
+  "source_url": "https://forumprawne.org/watek/wada-suszarki-uszkodzenie-wlosow.873719/",
+  "fetch_url": "https://forumprawne.org/watek/wada-suszarki-uszkodzenie-wlosow.873719/",
+  "archive_file": "forumprawne/forumprawne_00487.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 77009,
+  "sha256": "e0f96e6e2ffb69b812f3c98de3f3073ad3d4f75c08b0e3621bf6c901b4c7dd34",
+  "download_date": "2026-05-16T07:50:45Z",
+  "duration_sec": 0.23,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

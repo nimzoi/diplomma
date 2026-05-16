@@ -1,0 +1,223 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 31,
+  "entries": [
+    {
+      "article_id": "money_0001_czesi_i_niemcy_lepsi_od_polski_ten_ranking_nie_zos",
+      "url": "https://www.money.pl/biznes/polska-wysoko-w-niechlubnym-rankingu-nie-jetesmy-rajem-dla-biznesu-7286048457001024a.html",
+      "status": 200,
+      "title": "Czesi i Niemcy lepsi od Polski. Ten ranking nie zostawia złudzeń",
+      "char_count": 2112
+    },
+    {
+      "article_id": "money_0002_problemy_condohotelu_w_karkonoszach_80_mln_zotych_",
+      "url": "https://www.money.pl/biznes/restrukturyzacja-condohotelu-odrzucona-bedzie-upadlosc-7282333221672992a.html",
+      "status": 200,
+      "title": "Problemy condohotelu w Karkonoszach. 80 mln złotych zadłużenia",
+      "char_count": 2050
+    },
+    {
+      "article_id": "money_0003_pona_zakady_miesne_zawali_sie_dach_hali",
+      "url": "https://www.money.pl/biznes/wielki-pozar-zakladow-miesnych-kilka-osob-trafilo-do-szpitala-7286129405683744a.html",
+      "status": 200,
+      "title": "Płoną zakłady mięsne. Zawalił się dach hali",
+      "char_count": 1768
+    },
+    {
+      "article_id": "money_0004_ceny_paliw_na_weekend_bedzie_zmiana_na_stacjach",
+      "url": "https://www.money.pl/finanse/ceny-paliw-na-weekend-bedzie-zmiana-na-stacjach-7286130205239360a.html",
+      "status": 200,
+      "title": "Ceny paliw na weekend. Będzie zmiana na stacjach",
+      "char_count": 1597
+    },
+    {
+      "article_id": "money_0005_emerytura_po_20_latach_pracy_w_niemczech_myslaam_z",
+      "url": "https://www.money.pl/finanse/emerytura-po-20-latach-pracy-w-niemczech-myslalam-ze-to-blad-7286200012724256a.html",
+      "status": 200,
+      "title": "Emerytura po 20 latach pracy w Niemczech. \"Myślałam, że to błąd\"",
+      "char_count": 2289
+    },
+    {
+      "article_id": "money_0006_rzad_zmienia_absurdalne_prawo_ktore_sam_stworzy_op",
+      "url": "https://www.money.pl/finanse/rzad-zmienia-absurdalne-prawo-ktore-sam-stworzyl-opinia-7285515378415680a.html",
+      "status": 200,
+      "title": "Rząd zmienia absurdalne prawo, które sam stworzył [OPINIA]",
+      "char_count": 6172
+    },
+    {
+      "article_id": "money_0007_biay_dom_oskarza_new_york_timesa_o_dyskryminacje_r",
+      "url": "https://www.money.pl/firma/bialy-dom-oskarza-new-york-timesa-o-dyskryminacje-rasowa-jest-pozew-7282868914739264a.html",
+      "status": 200,
+      "title": "Biały Dom oskarża \"New York Timesa\" o dyskryminację rasową. Jest pozew",
+      "char_count": 3555
+    },
+    {
+      "article_id": "money_0008_trump_inwestuje_na_wall_street_oto_na_jakie_spoki_",
+      "url": "https://www.money.pl/gielda/trump-inwestuje-na-wall-street-oto-na-jakie-spolki-postawil-7286251137218624a.html",
+      "status": 200,
+      "title": "Trump inwestuje na Wall Street. Oto na jakie spółki postawił",
+      "char_count": 2586
+    },
+    {
+      "article_id": "money_0009_afera_zondacrypto_juz_1_5_tys_zawiadomien",
+      "url": "https://www.money.pl/gospodarka/afera-zondacrypto-juz-1-5-tys-zawiadomien-7283267814078528a.html",
+      "status": 200,
+      "title": "Afera Zondacrypto. Już 1,5 tys. zawiadomień",
+      "char_count": 3106
+    },
+    {
+      "article_id": "money_0010_beda_kary_dla_mieszkancow_za_wyrzucanie_smieci_w_p",
+      "url": "https://www.money.pl/gospodarka/beda-kary-dla-mieszkancow-za-wyrzucanie-smieci-w-plastikowych-workach-7286072543115296a.html",
+      "status": 200,
+      "title": "Będą kary dla mieszkańców. Za wyrzucanie śmieci w plastikowych workach",
+      "char_count": 1539
+    },
+    {
+      "article_id": "money_0011_jak_zaozyc_firme_praktyczny_poradnik",
+      "url": "https://www.money.pl/gospodarka/jak-zalozyc-firme-praktyczny-poradnik-6819706698144576a.html",
+      "status": 200,
+      "title": "Jak założyć firmę? Praktyczny poradnik",
+      "char_count": 14883
+    },
+    {
+      "article_id": "money_0012_milczaca_zgoda_urzedu_sejm_zdecydowa_beda_zmiany",
+      "url": "https://www.money.pl/gospodarka/milczaca-zgoda-urzedu-sejm-zdecydowal-beda-zmiany-7286109012371488a.html",
+      "status": 200,
+      "title": "\"Milcząca zgoda\" urzędu. Sejm zdecydował. Będą zmiany",
+      "char_count": 1814
+    },
+    {
+      "article_id": "money_0013_ministerstwo_zawiesza_licencje_znanego_doradcy_jes",
+      "url": "https://www.money.pl/gospodarka/ministerstwo-zawiesza-licencje-znanego-doradcy-jest-oswiadczenie-7282598124918816a.html",
+      "status": 200,
+      "title": "Ministerstwo zawiesza licencję znanego doradcy. Jest oświadczenie",
+      "char_count": 4034
+    },
+    {
+      "article_id": "money_0014_najwieksza_afera_odszkodowawcza_w_polsce_376_osob_",
+      "url": "https://www.money.pl/gospodarka/najwieksza-afera-odszkodowawcza-w-polsce-376-osob-oskarzonych-mieli-wyludzic-ponad-20-mln-zl-7284694110193728a.html",
+      "status": 200,
+      "title": "Największa afera odszkodowawcza w Polsce. 376 osób oskarżonych. Mieli wyłudzić ponad 20 mln zł",
+      "char_count": 3849
+    },
+    {
+      "article_id": "money_0015_paszport_genewski_tak_zbigniew_ziobro_dosta_sie_do",
+      "url": "https://www.money.pl/gospodarka/paszport-genewski-tak-zbigniew-ziobro-dostal-sie-do-usa-7284980320495648a.html",
+      "status": 200,
+      "title": "Paszport genewski. Tak Zbigniew Ziobro dostał się do USA",
+      "char_count": 3146
+    },
+    {
+      "article_id": "money_0016_polacy_ocenili_referendum_prezydenta_stawiaja_spra",
+      "url": "https://www.money.pl/gospodarka/polacy-ocenili-referendum-prezydenta-stawiaja-sprawe-jasno-7284976480327744a.html",
+      "status": 200,
+      "title": "Polacy ocenili referendum prezydenta. Stawiają sprawę jasno",
+      "char_count": 2508
+    },
+    {
+      "article_id": "money_0017_populistyczna_argumentacja_minister_pokaza_ustawe_",
+      "url": "https://www.money.pl/gospodarka/populistyczna-argumentacja-minister-pokazal-ustawe-zawetowana-przez-nawrockiego-7284832738654240a.html",
+      "status": 200,
+      "title": "\"Populistyczna argumentacja\". Minister pokazał ustawę zawetowaną przez Nawrockiego",
+      "char_count": 2792
+    },
+    {
+      "article_id": "money_0018_urzedomat_w_elblagu_tu_odbierzesz_dowod_rejestracy",
+      "url": "https://www.money.pl/mobility/urzedomat-w-elblagu-tu-odbierzesz-dowod-rejestracyjny-jak-w-automacie-z-paczkami-7282309227341888a.html",
+      "status": 200,
+      "title": "Urzędomat w Elblągu. Tu odbierzesz dowód rejestracyjny jak w automacie z paczkami",
+      "char_count": 1567
+    },
+    {
+      "article_id": "money_0019_ile_kosztuje_dolar_kurs_dolara_do_zotego_pln_usd_1",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-15-05-2026-7286139779987520a.html",
+      "status": 200,
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 15.05.2026",
+      "char_count": 1931
+    },
+    {
+      "article_id": "money_0020_ile_kosztuje_dolar_kurs_dolara_do_zotego_pln_usd_1",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-15-05-2026-7286216400943136a.html",
+      "status": 200,
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 15.05.2026",
+      "char_count": 2021
+    },
+    {
+      "article_id": "money_0021_ile_kosztuje_euro_kurs_euro_do_zotego_pln_eur_15_0",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-15-05-2026-7286139980593216a.html",
+      "status": 200,
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 15.05.2026",
+      "char_count": 2117
+    },
+    {
+      "article_id": "money_0022_ile_kosztuje_euro_kurs_euro_do_zotego_pln_eur_15_0",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-15-05-2026-7286216829524000a.html",
+      "status": 200,
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 15.05.2026",
+      "char_count": 2210
+    },
+    {
+      "article_id": "money_0023_ile_kosztuje_frank_szwajcarski_kurs_franka_do_zote",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-15-05-2026-7286140242057280a.html",
+      "status": 200,
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 15.05.2026",
+      "char_count": 1934
+    },
+    {
+      "article_id": "money_0024_ile_kosztuje_frank_szwajcarski_kurs_franka_do_zote",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-15-05-2026-7286216010393632a.html",
+      "status": 200,
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 15.05.2026",
+      "char_count": 2024
+    },
+    {
+      "article_id": "money_0025_ile_kosztuje_funt_kurs_funta_do_zotego_pln_gbp_15_",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-15-05-2026-7286140637288480a.html",
+      "status": 200,
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 15.05.2026",
+      "char_count": 2825
+    },
+    {
+      "article_id": "money_0026_ile_kosztuje_funt_kurs_funta_do_zotego_pln_gbp_15_",
+      "url": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-15-05-2026-7286215214463040a.html",
+      "status": 200,
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 15.05.2026",
+      "char_count": 2916
+    },
+    {
+      "article_id": "money_0027_ma_31_lat_i_firme_warta_11_mld_dol_polak_buduje_sw",
+      "url": "https://www.money.pl/pieniadze/ma-31-lat-i-firme-warta-11-mld-dol-polak-buduje-swiatowego-giganta-7285846272128065v.html",
+      "status": 200,
+      "title": "Ma 31 lat i firmę wartą 11 mld dol. Polak buduje światowego giganta",
+      "char_count": 5206
+    },
+    {
+      "article_id": "money_0028_przedawnienie_podatkow_jest_decyzja_oto_co_sie_zmi",
+      "url": "https://www.money.pl/podatki/przedawnienie-podatkow-jest-decyzja-oto-co-sie-zmieni-7286116082309152a.html",
+      "status": 200,
+      "title": "Przedawnienie podatków. Jest decyzja. Oto co się zmieni",
+      "char_count": 2810
+    },
+    {
+      "article_id": "money_0029_zmiany_w_ordynacji_podatkowej_jest_decyzja_sejmu",
+      "url": "https://www.money.pl/podatki/zmiany-w-ordynacji-podatkowej-jest-decyzja-sejmu-7286109116590112a.html",
+      "status": 200,
+      "title": "Zmiany w Ordynacji podatkowej. Jest decyzja Sejmu",
+      "char_count": 1891
+    },
+    {
+      "article_id": "money_0030_poprawek_nie_bedzie_jest_decyzja_w_sprawie_kryptow",
+      "url": "https://www.money.pl/polityka/poprawek-nie-bedzie-jest-decyzja-w-sprawie-kryptowalut-7285886542612512a.html",
+      "status": 200,
+      "title": "Poprawek nie będzie. Jest decyzja w sprawie kryptowalut",
+      "char_count": 3040
+    },
+    {
+      "article_id": "money_0031_rejestr_psow_i_kotow_prezydent_zadecyduje",
+      "url": "https://www.money.pl/polityka/rejestr-psow-i-kotow-prezydent-zadecyduje-7286116649302048a.html",
+      "status": 200,
+      "title": "Rejestr psów i kotów. Prezydent zadecyduje",
+      "char_count": 2809
+    }
+  ]
+}

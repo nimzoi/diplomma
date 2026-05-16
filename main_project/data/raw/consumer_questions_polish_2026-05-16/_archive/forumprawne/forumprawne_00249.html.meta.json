@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00249",
+  "source_url": "https://forumprawne.org/watek/reklamacja-opon.879182/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-opon.879182/",
+  "archive_file": "forumprawne/forumprawne_00249.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64732,
+  "sha256": "6ef1ec1253694d4beeb31070a08c1fdc13777466a180c05bd7b768370359c00d",
+  "download_date": "2026-05-16T07:46:16Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

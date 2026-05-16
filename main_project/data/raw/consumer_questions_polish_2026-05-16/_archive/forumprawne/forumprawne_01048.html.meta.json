@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01048",
+  "source_url": "https://forumprawne.org/watek/brak-realizacji-zamowienia-po-wplacie-zaliczki.862096/",
+  "fetch_url": "https://forumprawne.org/watek/brak-realizacji-zamowienia-po-wplacie-zaliczki.862096/",
+  "archive_file": "forumprawne/forumprawne_01048.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64245,
+  "sha256": "b6c22fa7c1247c5ba275f2fdd92c36689df9aa75d4b7d7eb71b1a52e537695f1",
+  "download_date": "2026-05-16T08:01:18Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

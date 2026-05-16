@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00585",
+  "source_url": "https://forumprawne.org/watek/biuro-podrozy-oszukalo.871481/",
+  "fetch_url": "https://forumprawne.org/watek/biuro-podrozy-oszukalo.871481/",
+  "archive_file": "forumprawne/forumprawne_00585.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55298,
+  "sha256": "f157781a30e938c8d8f277e4b33db834bf739f12c8b3fcc78ba22c70e3b622e5",
+  "download_date": "2026-05-16T07:52:35Z",
+  "duration_sec": 0.117,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

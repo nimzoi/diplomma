@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00556",
+  "source_url": "https://forumprawne.org/watek/kontrola-biletu-w-srodkach-komunikacji-miejskiej.872036/",
+  "fetch_url": "https://forumprawne.org/watek/kontrola-biletu-w-srodkach-komunikacji-miejskiej.872036/",
+  "archive_file": "forumprawne/forumprawne_00556.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60624,
+  "sha256": "77fcb922043fb782c4dbdfe5ec4cf4cd7ac341c915cca638c08d8926020a06ec",
+  "download_date": "2026-05-16T07:52:02Z",
+  "duration_sec": 0.219,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

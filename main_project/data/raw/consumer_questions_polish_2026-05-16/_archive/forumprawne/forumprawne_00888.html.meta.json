@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00888",
+  "source_url": "https://forumprawne.org/watek/uslugodawca-nie-dotrzymuje-terminu-wykonania-uslugi.865975/",
+  "fetch_url": "https://forumprawne.org/watek/uslugodawca-nie-dotrzymuje-terminu-wykonania-uslugi.865975/",
+  "archive_file": "forumprawne/forumprawne_00888.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60078,
+  "sha256": "7b20772869075bcaca7abef7f621431fee85ce0322178b27ef3d186011940da8",
+  "download_date": "2026-05-16T07:58:17Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

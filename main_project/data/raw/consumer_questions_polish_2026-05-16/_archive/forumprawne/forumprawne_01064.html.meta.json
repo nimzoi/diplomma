@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01064",
+  "source_url": "https://forumprawne.org/watek/zwrot-blednie-przeslanego-zamowienia.861670/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-blednie-przeslanego-zamowienia.861670/",
+  "archive_file": "forumprawne/forumprawne_01064.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68915,
+  "sha256": "de2b0406274fe65f71d46b04c8f727595992fbfb92590beb982e90a0dffd50b5",
+  "download_date": "2026-05-16T08:01:35Z",
+  "duration_sec": 0.117,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

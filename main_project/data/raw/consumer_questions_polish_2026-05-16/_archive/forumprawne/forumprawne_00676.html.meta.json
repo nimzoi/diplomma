@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00676",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-auta.869698/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-auta.869698/",
+  "archive_file": "forumprawne/forumprawne_00676.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 77187,
+  "sha256": "3df81122247d09d0059040280aa3df4f7d06ded2cc5659b65417c3c49aa89f16",
+  "download_date": "2026-05-16T07:54:18Z",
+  "duration_sec": 0.112,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01044",
+  "source_url": "https://forumprawne.org/watek/gwarancja.862209/",
+  "fetch_url": "https://forumprawne.org/watek/gwarancja.862209/",
+  "archive_file": "forumprawne/forumprawne_01044.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 79135,
+  "sha256": "e74ac9d40f66c77fc5d115985fef278275c8642f2097fbbd911fa1a490af4d2a",
+  "download_date": "2026-05-16T08:01:13Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00473",
+  "source_url": "https://forumprawne.org/watek/wada-prawna-telefonu.874207/",
+  "fetch_url": "https://forumprawne.org/watek/wada-prawna-telefonu.874207/",
+  "archive_file": "forumprawne/forumprawne_00473.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54414,
+  "sha256": "fae95a0224ac97617fc675b8197af6c43c62f5676a60f9641423d45411745ede",
+  "download_date": "2026-05-16T07:50:29Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

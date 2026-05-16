@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00916",
+  "source_url": "https://forumprawne.org/watek/mechanik-partacz.865416/",
+  "fetch_url": "https://forumprawne.org/watek/mechanik-partacz.865416/",
+  "archive_file": "forumprawne/forumprawne_00916.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57560,
+  "sha256": "a6ea0a0a634c04616e077a7a9bd813f5ccc48aad89460ae3f14bbb7a980aa3f4",
+  "download_date": "2026-05-16T07:58:49Z",
+  "duration_sec": 0.078,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

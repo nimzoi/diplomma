@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00858",
+  "source_url": "https://forumprawne.org/watek/umowa-energa.866565/",
+  "fetch_url": "https://forumprawne.org/watek/umowa-energa.866565/",
+  "archive_file": "forumprawne/forumprawne_00858.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52322,
+  "sha256": "a8011e7d0d3f6421857268dbed0cc813b5938935dd68d407e23309c880382377",
+  "download_date": "2026-05-16T07:57:43Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

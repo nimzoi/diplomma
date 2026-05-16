@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00883",
+  "source_url": "https://forumprawne.org/watek/sklep-internetowy-sprzedaje-towar-ktorego-nie-ma.866110/",
+  "fetch_url": "https://forumprawne.org/watek/sklep-internetowy-sprzedaje-towar-ktorego-nie-ma.866110/",
+  "archive_file": "forumprawne/forumprawne_00883.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72902,
+  "sha256": "b14be0ee255dc5b529c836e5e3c480419bd161c195e7124a537717cf95d3355f",
+  "download_date": "2026-05-16T07:58:12Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

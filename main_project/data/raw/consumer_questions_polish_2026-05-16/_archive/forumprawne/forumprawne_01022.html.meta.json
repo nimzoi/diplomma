@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01022",
+  "source_url": "https://forumprawne.org/watek/zakup-poza-allegro.862837/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-poza-allegro.862837/",
+  "archive_file": "forumprawne/forumprawne_01022.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58592,
+  "sha256": "3321a2be2cd5535be764f00b869fdca4d533514f20f00d7090689a0c755633c9",
+  "download_date": "2026-05-16T08:00:49Z",
+  "duration_sec": 0.179,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

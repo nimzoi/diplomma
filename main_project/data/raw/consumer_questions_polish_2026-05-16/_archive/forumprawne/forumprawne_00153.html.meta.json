@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00153",
+  "source_url": "https://forumprawne.org/watek/czy-pracownik-jest-konsumentem.881476/",
+  "fetch_url": "https://forumprawne.org/watek/czy-pracownik-jest-konsumentem.881476/",
+  "archive_file": "forumprawne/forumprawne_00153.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62695,
+  "sha256": "9b8441686cbd21e281c995059aa660c5b3c6439e97287f13060eb86ccea43474",
+  "download_date": "2026-05-16T07:44:28Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

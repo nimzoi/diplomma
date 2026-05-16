@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00183",
+  "source_url": "https://forumprawne.org/watek/enea-i-zwrot-nadplaty-125-zl.880679/",
+  "fetch_url": "https://forumprawne.org/watek/enea-i-zwrot-nadplaty-125-zl.880679/",
+  "archive_file": "forumprawne/forumprawne_00183.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57859,
+  "sha256": "38ab26858f3b6ff2c84b72bf2174388e12628408b971efcc33389fc227be08e0",
+  "download_date": "2026-05-16T07:45:02Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

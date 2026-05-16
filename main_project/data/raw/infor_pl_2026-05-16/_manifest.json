@@ -1,678 +1,2806 @@
 {
   "scrape_date": "2026-05-16",
-  "count": 96,
+  "count": 400,
   "entries": [
     {
-      "article_id": "infor_0001_mandat_za_brak_gwarancji_po_polsku",
+      "article_id": "infor_0001_konsument_moze_zadac_zwrotu_pieniedzy_nie_musi_god",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/4576900,Konsument-moze-zadac-zwrotu-pieniedzy-nie-musi-godzic-sie-na-vouchery.html",
+      "status": 200,
+      "title": "Konsument może żądać zwrotu pieniędzy - nie musi godzić się na vouchery",
+      "char_count": 3871
+    },
+    {
+      "article_id": "infor_0002_jak_przewiezc_rowem_pociagiem",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/5461088,Zasady-przewozu-roweru-pociagiem.html",
+      "status": 200,
+      "title": "Jak przewieźć rowem pociągiem?",
+      "char_count": 9835
+    },
+    {
+      "article_id": "infor_0003_bagaz_nie_dolecia_lub_zosta_uszkodzony",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/5513937,Bagaz-nie-dolecial-lub-zostal-uszkodzony.html",
+      "status": 200,
+      "title": "Bagaż nie doleciał lub został uszkodzony?",
+      "char_count": 4348
+    },
+    {
+      "article_id": "infor_0004_czym_jest_downsizing_i_kto_jest_najbardziej_narazo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/5696773,czym-jest-downsizing-i-kto-jest-najbardziej-narazony-na-jego-skutki.html",
+      "status": 200,
+      "title": "Czym jest downsizing i kto jest najbardziej narażony na jego skutki?",
+      "char_count": 6957
+    },
+    {
+      "article_id": "infor_0005_ebilet_z_zarzutami_od_uokik_za_wprowadzania_konsum",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/5697409,ebilet-z-zarzutami-od-uokik-za-wprowadzania-konsumentow-w-blad.html",
+      "status": 200,
+      "title": "eBilet z zarzutami od UOKiK za wprowadzania konsumentów w błąd",
+      "char_count": 4212
+    },
+    {
+      "article_id": "infor_0006_bedzie_ustawa_antyrobakowa_polacy_maja_prawo_wiedz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/5719413,ustawa-antyrobakowa-owady.html",
+      "status": 200,
+      "title": "Będzie \"ustawa antyrobakowa\"? Polacy mają prawo wiedzieć, co mają na talerzu",
+      "char_count": 2948
+    },
+    {
+      "article_id": "infor_0007_przedsiebiorcy_nie_stosuja_sie_do_przepisow_o_ozna",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/5738386,uokik-cena-obnizka.html",
+      "status": 200,
+      "title": "Przedsiębiorcy nie stosują się do przepisów o oznaczaniu cen. Będą kary?",
+      "char_count": 5871
+    },
+    {
+      "article_id": "infor_0008_polisa_na_zycie_a_kredyt_hipoteczny_czy_to_obowiaz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/5745704,polisa-na-zycie-a-kredyt-hipoteczny.html",
+      "status": 200,
+      "title": "Polisa na życie a kredyt hipoteczny. Czy to obowiązkowe?",
+      "char_count": 6721
+    },
+    {
+      "article_id": "infor_0009_oznaczanie_tresci_influencerskich_jak_to_trzeba_ro",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6334654,oznaczanie-tresci-influencerskich-jak-to-trzeba-robic-zgodnie-z-prawem.html",
+      "status": 200,
+      "title": "Oznaczanie treści influencerskich. Jak to trzeba robić zgodnie z prawem?",
+      "char_count": 9293
+    },
+    {
+      "article_id": "infor_0010_ubezpieczyciel_domu_zapaci_za_weterynarza_lekarza_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6342846,ubezpieczyciel-domu-zaplaci-za-weterynarza-lekarza-czy-odda-pieniadze.html",
+      "status": 200,
+      "title": "Ubezpieczyciel domu zapłaci za weterynarza, lekarza czy odda pieniądze wyłudzone \"na wnuczka\"",
+      "char_count": 5310
+    },
+    {
+      "article_id": "infor_0011_co_nas_denerwuje_w_aplikacjach_usug_publicznych_na",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6345254,co-nas-denerwuje-w-aplikacjach-uslug-publicznych-najbardziej-irytujac.html",
+      "status": 200,
+      "title": "Co nas denerwuje w aplikacjach usług publicznych? Najbardziej irytujące zostaną \"nagrodzone\", można zgłaszać do końca pa",
+      "char_count": 7136
+    },
+    {
+      "article_id": "infor_0012_wkrotce_mieso_bedziemy_uprawiac_jak_pomidory",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6351459,wkrotce-mieso-bedziemy-uprawiac-jak-pomidory.html",
+      "status": 200,
+      "title": "Wkrótce mięso będziemy uprawiać jak pomidory?",
+      "char_count": 6385
+    },
+    {
+      "article_id": "infor_0013_kredyty_oparte_o_wibor_kredytobiorcy_chca_podwazen",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6352610,kredyty-oparte-o-wibor-kredytobiorcy-chca-podwazenia-umow-banki-uwaz.html",
+      "status": 200,
+      "title": "Kredyty oparte o WIBOR. Kredytobiorcy chcą podważenia umów, banki uważają, że problem nie istnieje",
+      "char_count": 8773
+    },
+    {
+      "article_id": "infor_0014_czy_uzytkownicy_mediow_spoecznosciowych_wreszcie_n",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6352630,czy-uzytkownicy-mediow-spolecznosciowych-wreszcie-nie-beda-sledzeni.html",
+      "status": 200,
+      "title": "Czy użytkownicy mediów społecznościowych wreszcie nie będą śledzeni?",
+      "char_count": 8077
+    },
+    {
+      "article_id": "infor_0015_zdewastowany_czy_zniszczony_przez_burze_grob_zwrot",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6352717,zdewastowany-czy-zniszczony-przez-burze-grob-zwrot-kosztow-mozna-uzys.html",
+      "status": 200,
+      "title": "Zdewastowany czy zniszczony przez burzę grób? Zwrot kosztów można uzyskać z polisy mieszkaniowej",
+      "char_count": 4741
+    },
+    {
+      "article_id": "infor_0016_co_polacy_planuja_kupowac_podczas_black_friday",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6363903,co-polacy-planuja-kupowac-podczas-black-friday.html",
+      "status": 200,
+      "title": "Co Polacy planują kupować podczas Black Friday?",
+      "char_count": 4961
+    },
+    {
+      "article_id": "infor_0017_black_friday_i_cyber_monday_na_co_trzeba_uwazac_ro",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6365093,black-friday-i-cyber-monday-na-co-trzeba-uwazac-robiac-zakupy.html",
+      "status": 200,
+      "title": "Black Friday i Cyber Monday - na co trzeba uważać, robiąc zakupy?",
+      "char_count": 6023
+    },
+    {
+      "article_id": "infor_0018_w_jednej_z_zabawek_stezenie_oowiu_zostao_przekrocz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6371064,w-jednej-z-zabawek-stezenie-olowiu-zostalo-przekroczone-ponad-1300-raz.html",
+      "status": 200,
+      "title": "W jednej z zabawek stężenie ołowiu zostało przekroczone ponad 1300 razy! UOKiK zakwestionował aż 18 z 20 modeli",
+      "char_count": 3015
+    },
+    {
+      "article_id": "infor_0019_polacy_czekaja_na_black_friday_ale_na_rabaty_powyz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6374162,polacy-czekaja-na-black-friday-ale-na-rabaty-powyzej-70-nie-beda-pol.html",
+      "status": 200,
+      "title": "Polacy czekają na Black Friday, ale na rabaty powyżej 70% nie będą polować",
+      "char_count": 6108
+    },
+    {
+      "article_id": "infor_0020_ekonomiczne_i_ekologiczne_skutki_black_friday_kupo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6378725,ekonomiczne-i-ekologiczne-skutki-black-friday-kupowac-a-moze-wypozyc.html",
+      "status": 200,
+      "title": "Ekonomiczne i ekologiczne skutki Black Friday. Kupować, a może wypożyczać?",
+      "char_count": 8052
+    },
+    {
+      "article_id": "infor_0021_swiateczne_prezenty_kupuj_z_gowa_poradnik_konsumen",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6407935,swiateczne-prezenty-kupuj-z-glowa-poradnik-konsumenta-reklamacje-z.html",
+      "status": 200,
+      "title": "Świąteczne prezenty kupuj z głową! Poradnik konsumenta - reklamacje, zwroty, ceny",
+      "char_count": 5311
+    },
+    {
+      "article_id": "infor_0022_w_sklepach_stacjonarnych_czesciej_kupujemy_pod_wpy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6412264,w-sklepach-stacjonarnych-czesciej-kupujemy-pod-wplywem-impulsu.html",
+      "status": 200,
+      "title": "W sklepach stacjonarnych częściej kupujemy pod wpływem impulsu",
+      "char_count": 4528
+    },
+    {
+      "article_id": "infor_0023_t_mobile_polska_wcale_nie_rozdaje_1200_gb_za_darmo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6425546,tmobile-polska-wcale-nie-rozdaje-1200-gb-za-darmo-uokik-nalozyl-na-o.html",
+      "status": 200,
+      "title": "T-Mobile Polska wcale nie rozdaje 1200 GB za darmo? UOKiK nałożył na operatora karę 25 mln zł",
+      "char_count": 2726
+    },
+    {
+      "article_id": "infor_0024_pomoc_techniczna_policja_nask_ostrzega_przed_kolej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6511122,pomoc-techniczna-policja-nask-ostrzega-przed-kolejnymi-oszustam.html",
+      "status": 200,
+      "title": "\"Pomoc techniczna\", \"policja\" - NASK ostrzega przed kolejnymi oszustami. Jak działają?",
+      "char_count": 3330
+    },
+    {
+      "article_id": "infor_0025_czy_polski_konsument_wie_jakie_prawa_mu_przysuguja",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6530359,czy-polski-konsument-wie-jakie-prawa-mu-przysluguja-na-pytanie-czy.html",
+      "status": 200,
+      "title": "Czy polski konsument wie, jakie prawa mu przysługują? Na pytanie, czy paragon jest niezbędny do złożenia reklamacji popr",
+      "char_count": 6778
+    },
+    {
+      "article_id": "infor_0026_lidl_i_biedronka_pod_lupa_uokik_koniec_z_nieczytel",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6537224,lidl-i-biedronka-pod-lupa-uokik-koniec-z-nieczytelnymi-zasadami-i-bra.html",
+      "status": 200,
+      "title": "Lidl i Biedronka pod lupą UOKiK. Koniec z nieczytelnymi zasadami i brakiem informacji o promocjach?",
+      "char_count": 3618
+    },
+    {
+      "article_id": "infor_0027_czego_mozna_dowiedziec_sie_z_kodu_kreskowego",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6545087,czego-mozna-dowiedziec-sie-z-kodu-kreskowego.html",
+      "status": 200,
+      "title": "Czego można dowiedzieć się z kodu kreskowego?",
+      "char_count": 2229
+    },
+    {
+      "article_id": "infor_0028_amazon_za_wprowadzanie_konsumentow_w_bad_zapaci_po",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6567069,amazon-za-wprowadzanie-konsumentow-w-blad-zaplaci-ponad-31-mln-zl-gig.html",
+      "status": 200,
+      "title": "Amazon za wprowadzanie konsumentów w błąd zapłaci ponad 31 mln zł? Gigantyczna kara od UOKiK",
+      "char_count": 5727
+    },
+    {
+      "article_id": "infor_0029_ponad_612_mln_z_tyle_kar_naozy_w_2023_r_uokik",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6572855,ponad-612-mln-zl-tyle-kar-nalozyl-w-2023-r-uokik.html",
+      "status": 200,
+      "title": "Ponad 612 mln zł - tyle kar nałożył w 2023 r. UOKiK",
+      "char_count": 8523
+    },
+    {
+      "article_id": "infor_0030_po_wyrejestrowaniu_z_zus_pracownik_ma_prawo_do_kor",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6603938,po-wyrejestrowaniu-z-zus-pracownik-ma-prawo-do-korzystania-z-bezplatn.html",
+      "status": 200,
+      "title": "Po wyrejestrowaniu z ZUS, pracownik ma prawo do korzystania z bezpłatnej opieki medycznej. Jak długo?",
+      "char_count": 2421
+    },
+    {
+      "article_id": "infor_0031_prawniczy_bekot_czyli_dlaczego_nie_rozumiemy_prawn",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6637834,prawniczy-belkot-czyli-dlaczego-nie-rozumiemy-prawnikow.html",
+      "status": 200,
+      "title": "Prawniczy bełkot, czyli dlaczego nie rozumiemy prawników",
+      "char_count": 10922
+    },
+    {
+      "article_id": "infor_0032_odszkodowanie_za_opozniony_lot_jakie_prawa_ci_przy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6639846,odszkodowanie-za-opozniony-lot-jakie-prawa-ci-przysluguja.html",
+      "status": 200,
+      "title": "Odszkodowanie za opóźniony lot - jakie prawa Ci przysługują?",
+      "char_count": 6423
+    },
+    {
+      "article_id": "infor_0033_nieznajomosc_prawa_szkodzi_czyli_dlaczego_nie_znam",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6662321,nieznajomosc-prawa-szkodzi-czyli-dlaczego-nie-znamy-swoich-praw-i-jak.html",
+      "status": 200,
+      "title": "Nieznajomość prawa szkodzi, czyli dlaczego nie znamy swoich praw i jak to zmienić?",
+      "char_count": 10642
+    },
+    {
+      "article_id": "infor_0034_overbooking_masz_bilet_ale_nie_polecisz_bo_za_duzo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6676306,overbooking-masz-bilet-ale-nie-polecisz-bo-za-duzo-pasazerow-rpo-interweniuje.html",
+      "status": 200,
+      "title": "Overbooking: masz bilet, ale nie polecisz, bo za dużo pasażerów. RPO interweniuje!",
+      "char_count": 7074
+    },
+    {
+      "article_id": "infor_0035_kto_odpowiada_za_zniszczony_nagrobek_ile_kosztuje_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6754314,kto-odpowiada-za-zniszczony-nagrobek-ile-kosztuje-jego-odbudowa.html",
+      "status": 200,
+      "title": "Kto odpowiada za zniszczony nagrobek? Ile kosztuje jego odbudowa?",
+      "char_count": 4489
+    },
+    {
+      "article_id": "infor_0036_rezerwujesz_nocleg_na_ferie_zimowe_warto_wiedziec_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6764114,rezerwujesz-nocleg-warto-wiedziec-o-tej-niedozwolonej-czestej-praktyce.html",
+      "status": 200,
+      "title": "Rezerwujesz nocleg na ferie zimowe? Warto wiedzieć o tej niedozwolonej, a częstej praktyce",
+      "char_count": 8237
+    },
+    {
+      "article_id": "infor_0037_samolot_sie_opozni_masz_prawo_do_odszkodowania_od_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6777091,samolot-sie-opoznil-masz-prawo-do-odszkodowania-od-250-do-600-eur-bezplatnego-wyzywienia-zakwaterowania-w-hotelu-i-nie-tylko.html",
+      "status": 200,
+      "title": "Samolot się opóźnił? Masz prawo do odszkodowania (od 250 do 600 eur), bezpłatnego wyżywienia, zakwaterowania w hotelu i ",
+      "char_count": 11936
+    },
+    {
+      "article_id": "infor_0038_jak_kupowac_z_gowa_w_black_friday_nie_zap_sie_na_t",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6779887,jak-kupowac-z-glowa-w-black-friday-nie-zlap-sie-na-te-mechanizmy-sprz.html",
+      "status": 200,
+      "title": "Jak kupować z głową w Black Friday? Nie złap się na te mechanizmy sprzedaży",
+      "char_count": 9232
+    },
+    {
+      "article_id": "infor_0039_black_week_na_infor_pl_ksiazki_szkolenia_serwisy_o",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6784532,black-week-na-inforpl-ksiazki-szkolenia-serwisy-online-i-inne-do-5.html",
+      "status": 200,
+      "title": "BLACK WEEK na Infor.pl. Książki, szkolenia, serwisy online i inne do 50% taniej!",
+      "char_count": 1883
+    },
+    {
+      "article_id": "infor_0040_jakie_prawa_obowiazuja_w_przypadku_uszkodzonego_ba",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6799745,jakie-prawa-obowiazuja-w-przypadku-uszkodzonego-bagazu-po-podrozy-samo.html",
+      "status": 200,
+      "title": "Jakie prawa obowiązują w przypadku uszkodzonego bagażu po podróży samolotem? Wizz Air z zarzutami Prezesa UOKiK",
+      "char_count": 4471
+    },
+    {
+      "article_id": "infor_0041_konsumentowi_trzeba_przypominac_o_ryzyku_zwiazanym",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6878529,konsumentowi-trzeba-przypominac-o-ryzyku-zwiazanym-ze-spozyciem-alkoho.html",
+      "status": 200,
+      "title": "Konsumentowi trzeba przypominać o ryzyku związanym ze spożyciem alkoholu",
+      "char_count": 7122
+    },
+    {
+      "article_id": "infor_0042_od_17_kwietnia_2025_r_nowe_prawo_dla_palaczy_papie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6905385,rewolucja-dla-palaczy-i-zakaz-sprzedazy-wyrobow-tytoniowych-prezydent-rp-podpisal-ustawe-wejscie-w-zycie-17-kwietnia-2025-r.html",
+      "status": 200,
+      "title": "Od 17 kwietnia 2025 r. nowe prawo dla palaczy papierosów [zakazy, ograniczenia, dystrybucja]",
+      "char_count": 7010
+    },
+    {
+      "article_id": "infor_0043_jaki_stopien_daje_ulge_na_laptopa_telefon_czy_smar",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6908406,jaki-stopien-daje-ulge-na-laptopa-telefon-czy-smartwatch.html",
+      "status": 200,
+      "title": "Jaki stopień daje ulgę na laptopa, telefon czy smartwatch?",
+      "char_count": 7602
+    },
+    {
+      "article_id": "infor_0044_uwaga_od_28_czerwca_zmiany_w_bankomatach_terminala",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/6930392,uwaga-od-28-czerwca-zmiany-w-bankomatach-terminalach-platniczych-wplatomatach-automatach-biletowych.html",
+      "status": 200,
+      "title": "Uwaga: od 28 czerwca zmiany w: bankomatach, terminalach płatniczych, wpłatomatach, automatach biletowych",
+      "char_count": 10589
+    },
+    {
+      "article_id": "infor_0045_pies_w_galerii_handlowej_polacy_sa_podzieleni_ale_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/7032375,pies-w-galerii-handlowej-polacy-sa-podzieleni-ale-trend-rosnie-zak.html",
+      "status": 200,
+      "title": "Pies w galerii handlowej? Polacy są podzieleni, ale trend rośnie – zakupy z czworonogiem stają się codziennością",
+      "char_count": 7787
+    },
+    {
+      "article_id": "infor_0046_odzyskaj_setki_tysiecy_zotych_masz_do_tego_prawo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/7469090,odzyskaj-setki-tysiecy-zlotych-ze-splaconego-kredytu-w-euro-lub-we-frankach-nawet-jesli-juz-sprzedales-swoje-mieszkanie.html",
+      "status": 200,
+      "title": "Odzyskaj setki tysięcy złotych - masz do tego prawo",
+      "char_count": 5220
+    },
+    {
+      "article_id": "infor_0047_gdy_panstwo_zawiodo_konsumenta_500_z_dugu_i_19_lat",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/7495062,gdy-panstwo-zawiodlo-konsumenta-500-zl-dlugu-i-19-lat-odsetek-przekraczajacych-3000-proc.html",
+      "status": 200,
+      "title": "Gdy państwo zawiodło konsumenta. 500 zł długu i 19 lat odsetek przekraczających 3000 proc.",
+      "char_count": 13755
+    },
+    {
+      "article_id": "infor_0048_poradnik_koncertowy_na_2026_rok_jak_przygotowac_si",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/7567110,poradnik-koncertowy-na-2026-rok-jak-przygotowac-sie-na-udzial-w-koncertach-prawa-konsumenta-odwolany-koncert-zwrot-za-bilety-niewykrozystany-bilet-sprzedaz-biletow-z-drugiej-reki-depozyt-co-mozna-wnosic-na-koncert-nagrywanie-uokik.html",
+      "status": 200,
+      "title": "Poradnik koncertowy na 2026 rok - jak przygotować się na udział w koncertach? Prawa konsumenta",
+      "char_count": 10923
+    },
+    {
+      "article_id": "infor_0049_na_tej_zmianie_skorzystaja_setki_tysiecy_jesli_nie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/7571664,na-tej-zmianie-skorzystaja-setki-tysiecy-jesli-nie-miliony-osob-z-niepelnosprawnosciami-prosta-rzecz-dnia-codziennego-z-duzym-ulatwieniem.html",
+      "status": 200,
+      "title": "Na tej zmianie skorzystają setki tysięcy jeśli nie miliony osób z niepełnosprawnościami. Prosta rzecz dnia codziennego z",
+      "char_count": 5860
+    },
+    {
+      "article_id": "infor_0050_mandat_za_brak_gwarancji_po_polsku",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/101489,Mandat-za-brak-gwarancji-po-polsku.html",
       "status": 200,
       "title": "Mandat za brak gwarancji po polsku",
       "char_count": 2266
     },
     {
-      "article_id": "infor_0002_gwarancja_a_odpowiedzialnosc_ustawowa_sprzedawcy",
+      "article_id": "infor_0051_gwarancja_a_odpowiedzialnosc_ustawowa_sprzedawcy",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/217707,Gwarancja-a-odpowiedzialnosc-ustawowa-sprzedawcy.html",
       "status": 200,
       "title": "Gwarancja a odpowiedzialność ustawowa sprzedawcy",
       "char_count": 2826
     },
     {
-      "article_id": "infor_0003_gwarancja_a_uprawnienia_z_tytuu_niezgodnosci_towar",
+      "article_id": "infor_0052_gwarancja_a_uprawnienia_z_tytuu_niezgodnosci_towar",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/231400,Gwarancja-a-uprawnienia-z-tytulu-niezgodnosci-towaru-z-umowa.html",
       "status": 200,
       "title": "Gwarancja a uprawnienia z tytułu niezgodności towaru z umową",
       "char_count": 9287
     },
     {
-      "article_id": "infor_0004_czym_sie_wyroznia_gwarancja_konsumencka",
+      "article_id": "infor_0053_czym_sie_wyroznia_gwarancja_konsumencka",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/231743,Czym-sie-wyroznia-gwarancja-konsumencka.html",
       "status": 200,
       "title": "Czym się wyróżnia gwarancja konsumencka?",
       "char_count": 2449
     },
     {
-      "article_id": "infor_0005_czy_sprzedawca_musi_wydac_gwarancje",
+      "article_id": "infor_0054_czy_sprzedawca_musi_wydac_gwarancje",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/251480,Czy-sprzedawca-musi-wydac-gwarancje.html",
       "status": 200,
       "title": "Czy sprzedawca musi wydać gwarancję?",
       "char_count": 2409
     },
     {
-      "article_id": "infor_0006_czy_gwarancja_rzeczywiscie_opaca_sie_konsumentowi_",
+      "article_id": "infor_0055_czy_gwarancja_rzeczywiscie_opaca_sie_konsumentowi_",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/254094,Czy-gwarancja-rzeczywiscie-oplaca-sie-konsumentowi-cz-1.html",
       "status": 200,
       "title": "Czy gwarancja rzeczywiście opłaca się konsumentowi? - cz. 1",
       "char_count": 2828
     },
     {
-      "article_id": "infor_0007_czy_gwarancja_rzeczywiscie_opaca_sie_konsumentowi_",
+      "article_id": "infor_0056_czy_gwarancja_rzeczywiscie_opaca_sie_konsumentowi_",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/254097,Czy-gwarancja-rzeczywiscie-oplaca-sie-konsumentowi-cz-2.html",
       "status": 200,
       "title": "Czy gwarancja rzeczywiście opłaca się konsumentowi? – cz. 2",
       "char_count": 2683
     },
     {
-      "article_id": "infor_0008_rekojmia_niezgodnosc_towaru_z_umowa_a_gwarancja_ja",
+      "article_id": "infor_0057_rekojmia_niezgodnosc_towaru_z_umowa_a_gwarancja_ja",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/278696,Rekojmia-niezgodnosc-towaru-z-umowa-a-gwarancja-jakosci.html",
       "status": 200,
       "title": "Rękojmia, niezgodność towaru z umową a gwarancja jakości",
       "char_count": 5351
     },
     {
-      "article_id": "infor_0009_co_zrobic_gdy_skonczy_sie_gwarancja",
+      "article_id": "infor_0058_co_zrobic_gdy_skonczy_sie_gwarancja",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/280309,Co-zrobic-gdy-skonczy-sie-gwarancja.html",
       "status": 200,
       "title": "Co zrobić, gdy skończy się gwarancja?",
       "char_count": 2377
     },
     {
-      "article_id": "infor_0010_prawa_konsumentow_gwarancja_cz_1",
+      "article_id": "infor_0059_prawa_konsumentow_gwarancja_cz_1",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/286402,Prawa-konsumentow-Gwarancja-cz-1.html",
       "status": 200,
       "title": "Prawa konsumentów. Gwarancja – cz. 1",
       "char_count": 2515
     },
     {
-      "article_id": "infor_0011_prawa_konsumentow_gwarancja_cz_2",
+      "article_id": "infor_0060_prawa_konsumentow_gwarancja_cz_2",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/286408,Prawa-konsumentow-Gwarancja-cz-2.html",
       "status": 200,
       "title": "Prawa konsumentów. Gwarancja – cz. 2",
       "char_count": 2569
     },
     {
-      "article_id": "infor_0012_gwarancja_czy_reklamacja",
+      "article_id": "infor_0061_gwarancja_czy_reklamacja",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289301,Gwarancja-czy-reklamacja.html",
       "status": 200,
       "title": "Gwarancja czy reklamacja?",
       "char_count": 4539
     },
     {
-      "article_id": "infor_0013_przeduzajaca_sie_naprawa_gwarancyjna_co_zrobic",
+      "article_id": "infor_0062_przeduzajaca_sie_naprawa_gwarancyjna_co_zrobic",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289302,Przedluzajaca-sie-naprawa-gwarancyjna-co-zrobic.html",
       "status": 200,
       "title": "Przedłużająca się naprawa gwarancyjna – co zrobić?",
       "char_count": 4063
     },
     {
-      "article_id": "infor_0014_reklamacja_tylko_na_podstawie_gwarancji",
+      "article_id": "infor_0063_reklamacja_tylko_na_podstawie_gwarancji",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289308,Reklamacja-tylko-na-podstawie-gwarancji.html",
       "status": 200,
       "title": "„Reklamacja tylko na podstawie gwarancji”",
       "char_count": 3737
     },
     {
-      "article_id": "infor_0015_zgubiona_gwarancja_co_zrobic",
+      "article_id": "infor_0064_zgubiona_gwarancja_co_zrobic",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289674,Zgubiona-gwarancja-co-zrobic.html",
       "status": 200,
       "title": "Zgubiona gwarancja – co zrobić?",
       "char_count": 2581
     },
     {
-      "article_id": "infor_0016_gwarancja_konsumencka_kompendium",
+      "article_id": "infor_0065_gwarancja_konsumencka_kompendium",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289991,Gwarancja-konsumencka-kompendium.html",
       "status": 200,
       "title": "Gwarancja konsumencka – kompendium",
       "char_count": 2744
     },
     {
-      "article_id": "infor_0017_co_polacy_wiedza_o_gwarancji_i_rekojmi",
+      "article_id": "infor_0066_co_polacy_wiedza_o_gwarancji_i_rekojmi",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/5701960,co-polacy-wiedza-o-gwarancji-i-rekojmi.html",
       "status": 200,
       "title": "Co Polacy wiedzą o gwarancji i rękojmi",
       "char_count": 2936
     },
     {
-      "article_id": "infor_0018_czy_na_podstawie_wyblakego_paragonu_mozna_podbic_k",
+      "article_id": "infor_0067_czy_na_podstawie_wyblakego_paragonu_mozna_podbic_k",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/686668,Czy-na-podstawie-wyblaklego-paragonu-mozna-podbic-karte-gwarancyjna.html",
       "status": 200,
       "title": "Czy na podstawie wyblakłego paragonu można podbić kartę gwarancyjną?",
       "char_count": 3771
     },
     {
-      "article_id": "infor_0019_czy_gwarancja_wyacza_reklamacje",
+      "article_id": "infor_0068_czy_gwarancja_wyacza_reklamacje",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/84591,Czy-gwarancja-wylacza-reklamacje.html",
       "status": 200,
       "title": "Czy gwarancja wyłącza reklamację?",
       "char_count": 1098
     },
     {
-      "article_id": "infor_0020_reklamacja_do_sprzedawcy_czy_do_gwaranta",
+      "article_id": "infor_0069_reklamacja_do_sprzedawcy_czy_do_gwaranta",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/84787,Reklamacja-do-sprzedawcy-czy-do-gwaranta.html",
       "status": 200,
       "title": "Reklamacja do sprzedawcy czy do gwaranta",
       "char_count": 12294
     },
     {
-      "article_id": "infor_0021_gwarancja_nie_obejmuje_wszystkiego",
+      "article_id": "infor_0070_gwarancja_nie_obejmuje_wszystkiego",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/91832,Gwarancja-nie-obejmuje-wszystkiego.html",
       "status": 200,
       "title": "Gwarancja nie obejmuje wszystkiego",
       "char_count": 1212
     },
     {
-      "article_id": "infor_0022_naprawa_gwarancyjna",
+      "article_id": "infor_0071_naprawa_gwarancyjna",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/92990,Naprawa-gwarancyjna.html",
       "status": 200,
       "title": "Naprawa gwarancyjna",
       "char_count": 1140
     },
     {
-      "article_id": "infor_0023_gwarancja_europejska",
+      "article_id": "infor_0072_gwarancja_europejska",
       "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/94489,Gwarancja-europejska.html",
       "status": 200,
       "title": "Gwarancja europejska",
       "char_count": 1403
     },
     {
-      "article_id": "infor_0024_szkoda_wyrzadzona_przez_produkt_niebezpieczny",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/100533,Szkoda-wyrzadzona-przez-produkt-niebezpieczny.html",
+      "article_id": "infor_0073_jak_sie_chronic_przed_naruszeniem_wasnosci_intelek",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/4660230,Jak-sie-chronic-przed-naruszeniem-wlasnosci-intelektualnej.html",
       "status": 200,
-      "title": "Szkoda wyrządzona przez produkt niebezpieczny",
-      "char_count": 2204
+      "title": "Jak się chronić przed naruszeniem własności intelektualnej?",
+      "char_count": 4653
     },
     {
-      "article_id": "infor_0025_gdzie_zozyc_reklamacje_niedziaajacej_komorki",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/101484,Gdzie-zlozyc-reklamacje-niedzialajacej-komorki.html",
+      "article_id": "infor_0074_wzory_pism_i_formularzy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/685238,Wzory-pism-i-formularzy.html",
       "status": 200,
-      "title": "Gdzie złożyć reklamacje niedziałającej komórki",
-      "char_count": 2337
+      "title": "Wzory pism i formularzy",
+      "char_count": 719
     },
     {
-      "article_id": "infor_0026_czy_sprzedawca_moze_odesac_do_producenta",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/217238,Czy-sprzedawca-moze-odeslac-do-producenta.html",
+      "article_id": "infor_0075_tabela_odszkodowan",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/685245,Tabela-odszkodowan.html",
       "status": 200,
-      "title": "Czy sprzedawca może odesłać do producenta",
-      "char_count": 2268
+      "title": "Tabela odszkodowań",
+      "char_count": 1293
     },
     {
-      "article_id": "infor_0027_gdy_wady_ujawnia_sie_w_krotkim_czasie_po_zakupie",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/217666,Gdy-wady-ujawnia-sie-w-krotkim-czasie-po-zakupie.html",
+      "article_id": "infor_0076_wzory_umow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/685500,Wzory-umow.html",
       "status": 200,
-      "title": "Gdy wady ujawnią się w krótkim czasie po zakupie",
-      "char_count": 3747
+      "title": "Wzory umów",
+      "char_count": 594
     },
     {
-      "article_id": "infor_0028_jaka_forma_oswiadczenia_o_odstapieniu_od_umowy",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/220049,Jaka-forma-oswiadczenia-o-odstapieniu-od-umowy.html",
+      "article_id": "infor_0077_urzedy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/685501,urzedy.html",
       "status": 200,
-      "title": "Jaka forma oświadczenia o odstąpieniu od umowy",
-      "char_count": 2785
+      "title": "Urzędy",
+      "char_count": 10219
     },
     {
-      "article_id": "infor_0029_czy_sprzedawca_ma_prawo_domagac_sie_paragonu_przy_",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/220066,Czy-sprzedawca-ma-prawo-domagac-sie-paragonu-przy-reklamacji.html",
+      "article_id": "infor_0078_organizacje_konsumenckie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/685502,Organizacje-konsumenckie.html",
       "status": 200,
-      "title": "Czy sprzedawca ma prawo domagać się paragonu przy reklamacji",
-      "char_count": 1984
+      "title": "Organizacje konsumenckie",
+      "char_count": 3294
     },
     {
-      "article_id": "infor_0030_po_co_konsumentowi_opinia_rzeczoznawcy",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/226128,Po-co-konsumentowi-opinia-rzeczoznawcy.html",
+      "article_id": "infor_0079_koszty_sadowe",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/685512,Koszty-sadowe.html",
       "status": 200,
-      "title": "Po co konsumentowi opinia rzeczoznawcy",
-      "char_count": 3624
+      "title": "Koszty sądowe",
+      "char_count": 736
     },
     {
-      "article_id": "infor_0031_czy_zwlekajac_z_reklamacja_konsument_moze_stracic_",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/228920,Czy-zwlekajac-z-reklamacja-konsument-moze-stracic-uprawnienia.html",
+      "article_id": "infor_0080_koszty_sadowe",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/685559,Koszty-sadowe.html",
       "status": 200,
-      "title": "Czy zwlekając z reklamacją konsument może stracić uprawnienia",
-      "char_count": 2916
+      "title": "Koszty sądowe",
+      "char_count": 736
     },
     {
-      "article_id": "infor_0032_po_nieudanej_naprawie_mozna_odstapic_od_umowy",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/235265,Po-nieudanej-naprawie-mozna-odstapic-od-umowy.html",
+      "article_id": "infor_0081_ochrona_danych_osobowych_podczas_wakacji",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/759846,Ochrona-danych-osobowych-podczas-wakacji.html",
       "status": 200,
-      "title": "Po nieudanej naprawie można odstąpić od umowy",
-      "char_count": 2390
+      "title": "Ochrona danych osobowych podczas wakacji",
+      "char_count": 3785
     },
     {
-      "article_id": "infor_0033_co_zrobic_gdy_sprzedawca_nie_odpowiedzia_na_reklam",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/246005,Co-zrobic-gdy-sprzedawca-nie-odpowiedzial-na-reklamacje.html",
+      "article_id": "infor_0082_kto_podlega_rodo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/777642,Kto-podlega-RODO.html",
       "status": 200,
-      "title": "Co zrobić, gdy sprzedawca nie odpowiedział na reklamację?",
-      "char_count": 2203
+      "title": "Kto podlega RODO?",
+      "char_count": 2999
     },
     {
-      "article_id": "infor_0034_jak_wyegzekwowac_swoje_prawa_przy_reklamacji",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/250299,Jak-wyegzekwowac-swoje-prawa-przy-reklamacji.html",
+      "article_id": "infor_0083_rodo_upowaznienie_do_przetwarzania_danych_osobowyc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/777677,RODO-Upowaznienie-do-przetwarzania-danych-osobowych-wzor.html",
       "status": 200,
-      "title": "Jak wyegzekwować swoje prawa przy reklamacji?",
-      "char_count": 3023
+      "title": "RODO: Upoważnienie do przetwarzania danych osobowych – wzór",
+      "char_count": 2423
     },
     {
-      "article_id": "infor_0035_czy_informacja_o_istniejacych_wadach_wyklucza_rekl",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/250496,Czy-informacja-o-istniejacych-wadach-wyklucza-reklamacje.html",
+      "article_id": "infor_0084_czym_jest_rodo_i_od_kiedy_bedzie_sie_je_stosowac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/777994,Czym-jest-RODO-i-od-kiedy-bedzie-sie-je-stosowac.html",
       "status": 200,
-      "title": "Czy informacja o istniejących wadach wyklucza reklamację?",
-      "char_count": 2482
+      "title": "Czym jest RODO i od kiedy będzie się je stosować?",
+      "char_count": 4255
     },
     {
-      "article_id": "infor_0036_jak_reklamowac_zywnosc",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/250703,Jak-reklamowac-zywnosc.html",
+      "article_id": "infor_0085_formy_zatrudnienia_inspektora_ochrony_danych_iod_r",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/778057,Formy-zatrudnienia-inspektora-ochrony-danych-IOD-RODO-2018.html",
       "status": 200,
-      "title": "Jak reklamować żywność?",
-      "char_count": 2120
+      "title": "Formy zatrudnienia inspektora ochrony danych (IOD) - RODO 2018",
+      "char_count": 2014
     },
     {
-      "article_id": "infor_0037_nie_rozpatrujemy_reklamacji_czyli_jak_nie_dac_sie_",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/256086,Nie-rozpatrujemy-reklamacji-czyli-jak-nie-dac-sie-oszukac-sprzedawcy.html",
+      "article_id": "infor_0086_rodo_szkolenie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/778085,RODO-szkolenie.html",
       "status": 200,
-      "title": "„Nie rozpatrujemy reklamacji” – czyli jak nie dać się oszukać sprzedawcy?",
-      "char_count": 2171
+      "title": "RODO - szkolenie",
+      "char_count": 2747
     },
     {
-      "article_id": "infor_0038_rekojmia_a_gwarancja_uprawnienia_konsumenta_przy_u",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/262671,Rekojmia-a-gwarancja-uprawnienia-konsumenta-przy-umowie-sprzedazy.html",
+      "article_id": "infor_0087_rodo_2018_kary_za_naruszenie_przepisow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/778329,RODO-2018-kary-za-naruszenie-przepisow.html",
       "status": 200,
-      "title": "Rękojmia a gwarancja - uprawnienia konsumenta przy umowie sprzedaży",
-      "char_count": 3988
+      "title": "RODO 2018 – kary za naruszenie przepisów",
+      "char_count": 4954
     },
     {
-      "article_id": "infor_0039_czy_zy_rozmiar_ubrania_uprawnia_do_reklamacji",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/268163,Czy-zly-rozmiar-ubrania-uprawnia-do-reklamacji.html",
+      "article_id": "infor_0088_kto_nie_ma_obowiazku_stosowac_rodo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/778351,Kto-nie-ma-obowiazku-stosowac-RODO.html",
       "status": 200,
-      "title": "Czy zły rozmiar ubrania uprawnia do reklamacji?",
-      "char_count": 1664
+      "title": "Kto nie ma obowiązku stosować RODO?",
+      "char_count": 3096
     },
     {
-      "article_id": "infor_0040_kto_ponosi_koszty_transportu_przy_reklamacji",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/268455,Kto-ponosi-koszty-transportu-przy-reklamacji.html",
+      "article_id": "infor_0089_dane_osobowe_rodo_2018",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/778393,Dane-osobowe-RODO-2018.html",
       "status": 200,
-      "title": "Kto ponosi koszty transportu przy reklamacji?",
-      "char_count": 2444
+      "title": "Dane osobowe – RODO 2018",
+      "char_count": 3943
     },
     {
-      "article_id": "infor_0041_jak_czytac_odpowiedz_sprzedawcy_na_reklamacje",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/271344,Jak-czytac-odpowiedz-sprzedawcy-na-reklamacje.html",
+      "article_id": "infor_0090_zaledwie_poowa_przedsiebiorcow_przygotowana_na_rod",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/779776,Zaledwie-polowa-przedsiebiorcow-przygotowana-na-RODO.html",
       "status": 200,
-      "title": "Jak czytać odpowiedź sprzedawcy na reklamację?",
-      "char_count": 4617
+      "title": "Zaledwie połowa przedsiębiorców przygotowana na RODO",
+      "char_count": 4188
     },
     {
-      "article_id": "infor_0042_gdzie_reklamowac_zepsuta_komorke",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/272999,Gdzie-reklamowac-zepsuta-komorke.html",
+      "article_id": "infor_0091_rodo_2018_zmiany_dla_twojej_firmy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/779782,RODO-2018-zmiany-dla-Twojej-firmy.html",
       "status": 200,
-      "title": "Gdzie reklamować zepsutą komórkę?",
-      "char_count": 3454
+      "title": "RODO 2018 - zmiany dla Twojej firmy",
+      "char_count": 3804
     },
     {
-      "article_id": "infor_0043_czy_mozna_skadac_reklamacje_w_innym_sklepie",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/273992,Czy-mozna-skladac-reklamacje-w-innym-sklepie.html",
+      "article_id": "infor_0092_monitoring_aktywnosci_pracownika_wedug_rodo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/779783,Monitoring-aktywnosci-pracownika-wedlug-RODO.html",
       "status": 200,
-      "title": "Czy można składać reklamację w innym sklepie?",
-      "char_count": 3284
+      "title": "Monitoring aktywności pracownika według RODO",
+      "char_count": 3673
     },
     {
-      "article_id": "infor_0044_wieszjak_radzi_co_musisz_wiedziec_o_reklamacji_tow",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274298,WieszJak-radzi-Co-musisz-wiedziec-o-reklamacji-towarow.html",
+      "article_id": "infor_0093_dane_osobowe_w_rodo_kto_moze_przetwarzac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/779797,Dane-osobowe-w-RODO-kto-moze-przetwarzac.html",
       "status": 200,
-      "title": "WieszJak radzi: Co musisz wiedzieć o reklamacji towarów?",
-      "char_count": 2231
+      "title": "Dane osobowe w RODO – kto może przetwarzać?",
+      "char_count": 2952
     },
     {
-      "article_id": "infor_0045_co_musisz_wiedziec_o_reklamacji_towarow_cz_1",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274301,Co-musisz-wiedziec-o-reklamacji-towarow-cz-1.html",
+      "article_id": "infor_0094_ochrona_danych_osobowych_w_kosciele_rodo_2018",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/780394,Ochrona-danych-osobowych-w-kosciele-RODO-2018.html",
       "status": 200,
-      "title": "Co musisz wiedzieć o reklamacji towarów? - cz. 1",
-      "char_count": 2922
+      "title": "Ochrona danych osobowych w kościele - RODO 2018",
+      "char_count": 3526
     },
     {
-      "article_id": "infor_0046_co_musisz_wiedziec_o_reklamacji_towarow_cz_2",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274414,Co-musisz-wiedziec-o-reklamacji-towarow-cz-2.html",
+      "article_id": "infor_0095_dane_osobowe_w_rodo_kiedy_mozna_przetwarzac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/780456,Dane-osobowe-w-RODO-kiedy-mozna-przetwarzac.html",
       "status": 200,
-      "title": "Co musisz wiedzieć o reklamacji towarów? – cz. 2",
-      "char_count": 3256
+      "title": "Dane osobowe w RODO - kiedy można przetwarzać?",
+      "char_count": 3342
     },
     {
-      "article_id": "infor_0047_co_musisz_wiedziec_o_reklamacji_towarow_cz_3",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274489,Co-musisz-wiedziec-o-reklamacji-towarow-cz-3.html",
+      "article_id": "infor_0096_zasady_przetwarzania_danych_osobowych_w_kosciele_r",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/780485,Zasady-przetwarzania-danych-osobowych-w-Kosciele-RODO-2018.html",
       "status": 200,
-      "title": "Co musisz wiedzieć o reklamacji towarów? - cz. 3",
-      "char_count": 3322
+      "title": "Zasady przetwarzania danych osobowych w Kościele – RODO 2018",
+      "char_count": 4003
     },
     {
-      "article_id": "infor_0048_co_warto_wiedziec_zanim_zozysz_reklamacje",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274493,Co-warto-wiedziec-zanim-zlozysz-reklamacje.html",
+      "article_id": "infor_0097_zbieranie_danych_osobowych_w_kosciele_po_25_maja_2",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/780525,Zbieranie-danych-osobowych-w-Kosciele-po-25-maja-2018-r-RODO.html",
       "status": 200,
-      "title": "Co warto wiedzieć, zanim złożysz reklamację?",
-      "char_count": 2662
+      "title": "Zbieranie danych osobowych w Kościele po 25 maja 2018 r. – RODO",
+      "char_count": 6181
     },
     {
-      "article_id": "infor_0049_czego_mozna_zadac_przy_reklamacji_towaru",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/279338,Czego-mozna-zadac-przy-reklamacji-towaru.html",
+      "article_id": "infor_0098_prawo_do_zadania_dokonania_adnotacji_i_uzupenienia",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/780534,Prawo-do-zadania-dokonania-adnotacji-i-uzupelnienia-danych-w-Kosciele-RODO-2018.html",
       "status": 200,
-      "title": "Czego można żądać przy reklamacji towaru?",
-      "char_count": 2452
+      "title": "Prawo do żądania dokonania adnotacji i uzupełnienia danych w Kościele – RODO 2018",
+      "char_count": 2480
     },
     {
-      "article_id": "infor_0050_nie_opaca_sie_zwlekac_z_reklamacja",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/279937,Nie-oplaca-sie-zwlekac-z-reklamacja.html",
+      "article_id": "infor_0099_prawo_do_informacji_o_przetwarzaniu_danych_w_kosci",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/780792,Prawo-do-informacji-o-przetwarzaniu-danych-w-Kosciele-RODO-2018-r.html",
       "status": 200,
-      "title": "Nie opłaca się zwlekać z reklamacją",
-      "char_count": 2774
+      "title": "Prawo do informacji o przetwarzaniu danych w Kościele – RODO 2018 r.",
+      "char_count": 3324
     },
     {
-      "article_id": "infor_0051_czy_konsument_musi_pacic_za_nieuznana_reklamacje",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/280654,Czy-konsument-musi-placic-za-nieuznana-reklamacje.html",
+      "article_id": "infor_0100_rodo_koscio_zawiadomi_nas_o_naruszeniu_ochrony_dan",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/780830,RODO-Kosciol-zawiadomi-nas-o-naruszeniu-ochrony-danych.html",
       "status": 200,
-      "title": "Czy konsument musi płacić za nieuznaną reklamację?",
+      "title": "RODO: Kościół zawiadomi nas o naruszeniu ochrony danych",
+      "char_count": 2059
+    },
+    {
+      "article_id": "infor_0101_koscielny_inspektor_ochrony_danych_rodo_2018",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/780839,Koscielny-Inspektor-Ochrony-Danych-RODO-2018.html",
+      "status": 200,
+      "title": "Kościelny Inspektor Ochrony Danych – RODO 2018",
+      "char_count": 3177
+    },
+    {
+      "article_id": "infor_0102_rodo_to_nie_tylko_kary",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/784327,RODO-to-nie-tylko-kary.html",
+      "status": 200,
+      "title": "RODO to nie tylko kary",
+      "char_count": 1932
+    },
+    {
+      "article_id": "infor_0103_do_kiedy_trzeba_wyznaczyc_inspektora_ochrony_danyc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/784336,Do-kiedy-trzeba-wyznaczyc-Inspektora-Ochrony-Danych-IOD.html",
+      "status": 200,
+      "title": "Do kiedy trzeba wyznaczyć Inspektora Ochrony Danych (IOD)?",
+      "char_count": 3440
+    },
+    {
+      "article_id": "infor_0104_oswiadczenie_pracownika_o_zachowaniu_w_tajemnicy_d",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/784839,Oswiadczenie-pracownika-o-zachowaniu-w-tajemnicy-danych-osobowych-WZOR.html",
+      "status": 200,
+      "title": "Oświadczenie pracownika o zachowaniu w tajemnicy danych osobowych – WZÓR",
+      "char_count": 901
+    },
+    {
+      "article_id": "infor_0105_tabela_odszkodowan_za_wycieczke",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/84714,Tabela-odszkodowan-za-wycieczke.html",
+      "status": 200,
+      "title": "Tabela odszkodowań za wycieczkę",
+      "char_count": 1293
+    },
+    {
+      "article_id": "infor_0106_organizacje_konsumenckie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/89608,Organizacje-konsumenckie.html",
+      "status": 200,
+      "title": "Organizacje konsumenckie",
+      "char_count": 1745
+    },
+    {
+      "article_id": "infor_0107_wzory_umow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/inne/89609,Wzory-umow.html",
+      "status": 200,
+      "title": "Wzory umów",
+      "char_count": 436
+    },
+    {
+      "article_id": "infor_0108_duznicy_czynszowi_beda_ujawniani_w_rejestrach",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/225876,Dluznicy-czynszowi-beda-ujawniani-w-rejestrach.html",
+      "status": 200,
+      "title": "Dłużnicy czynszowi będą ujawniani w rejestrach",
+      "char_count": 2211
+    },
+    {
+      "article_id": "infor_0109_zmiana_przepisow_dotyczacych_budowy_farm_wiatrowyc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/253928,Zmiana-przepisow-dotyczacych-budowy-farm-wiatrowych.html",
+      "status": 200,
+      "title": "Zmiana przepisów dotyczących budowy farm wiatrowych",
+      "char_count": 1692
+    },
+    {
+      "article_id": "infor_0110_wielcy_kontruluja_rynek_mieszkan",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/256221,Wielcy-kontruluja-rynek-mieszkan.html",
+      "status": 200,
+      "title": "Wielcy kontrulują rynek mieszkań",
+      "char_count": 2145
+    },
+    {
+      "article_id": "infor_0111_prawo_wasnosci_przez_zasiedzenie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/270920,Prawo-wlasnosci-przez-zasiedzenie.html",
+      "status": 200,
+      "title": "Prawo własności przez zasiedzenie",
+      "char_count": 1326
+    },
+    {
+      "article_id": "infor_0112_czy_mieszkanie_na_parterze_jest_tansze",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/271107,Czy-mieszkanie-na-parterze-jest-tansze.html",
+      "status": 200,
+      "title": "Czy mieszkanie na parterze jest tańsze?",
+      "char_count": 1875
+    },
+    {
+      "article_id": "infor_0113_nowelizacja_ustawy_lokatorskiej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/271701,Nowelizacja-ustawy-lokatorskiej.html",
+      "status": 200,
+      "title": "Nowelizacja ustawy lokatorskiej",
+      "char_count": 1294
+    },
+    {
+      "article_id": "infor_0114_bedy_na_budowie_kto_za_nie_odpowiada",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/271762,Bledy-na-budowie-Kto-za-nie-odpowiada.html",
+      "status": 200,
+      "title": "Błędy na budowie. Kto za nie odpowiada?",
+      "char_count": 1268
+    },
+    {
+      "article_id": "infor_0115_zmiana_sposobu_uzytkowania_budynku_czy_trzeba_to_z",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/271769,Zmiana-sposobu-uzytkowania-budynku-Czy-trzeba-to-zglosic.html",
+      "status": 200,
+      "title": "Zmiana sposobu użytkowania budynku. Czy trzeba to zgłosić?",
+      "char_count": 2264
+    },
+    {
+      "article_id": "infor_0116_zmiany_w_ustawie_o_gospodarce_nieruchomosciami",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/272893,Zmiany-w-ustawie-o-gospodarce-nieruchomosciami.html",
+      "status": 200,
+      "title": "Zmiany w ustawie o gospodarce nieruchomościami",
+      "char_count": 1582
+    },
+    {
+      "article_id": "infor_0117_mieszkanie_od_posrednika_co_nalezy_do_jego_obowiaz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/274622,Mieszkanie-od-posrednika-Co-nalezy-do-jego-obowiazkow.html",
+      "status": 200,
+      "title": "Mieszkanie od pośrednika. Co należy do jego obowiązków?",
+      "char_count": 1365
+    },
+    {
+      "article_id": "infor_0118_kim_jest_deweloper",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/2906557,Kim-jest-deweloper.html",
+      "status": 200,
+      "title": "Kim jest deweloper?",
+      "char_count": 4300
+    },
+    {
+      "article_id": "infor_0119_umowa_o_zarzadzanie_nieruchomoscia_wzor_umowy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/293326,Umowa-o-zarzadzanie-nieruchomoscia-WZOR-UMOWY.html",
+      "status": 200,
+      "title": "Umowa o zarządzanie nieruchomością - WZÓR UMOWY",
+      "char_count": 10851
+    },
+    {
+      "article_id": "infor_0120_protoko_przekazania_terenu_wzor_pisma",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/293327,Protokol-przekazania-terenu-WZOR-PISMA.html",
+      "status": 200,
+      "title": "Protokół przekazania terenu - WZÓR PISMA",
+      "char_count": 5250
+    },
+    {
+      "article_id": "infor_0121_umowa_o_wykonanie_prac_projektowych_wzor_umowy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/293330,Umowa-o-wykonanie-prac-projektowych-WZOR-UMOWY.html",
+      "status": 200,
+      "title": "Umowa o wykonanie prac projektowych - WZÓR UMOWY",
+      "char_count": 8319
+    },
+    {
+      "article_id": "infor_0122_zakup_nieruchomosci_na_rynku_pierwotnym_krok_po_kr",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/3593233,Zakup-nieruchomosci-na-rynku-pierwotnym-krok-po-kroku-na-co-uwazac.html",
+      "status": 200,
+      "title": "Zakup nieruchomości na rynku pierwotnym krok po kroku - na co uważać?",
+      "char_count": 7181
+    },
+    {
+      "article_id": "infor_0123_bezpieczny_zakup_nieruchomosci_na_rynku_wtornym_3_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/3594105,Bezpieczny-zakup-nieruchomosci-na-rynku-wtornym-3-najwazniejsze-rady.html",
+      "status": 200,
+      "title": "Bezpieczny zakup nieruchomości na rynku wtórnym - 3 najważniejsze rady",
+      "char_count": 5420
+    },
+    {
+      "article_id": "infor_0124_nowa_ustawa_deweloperska_juz_wkrotce",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5231334,Nowa-ustawa-deweloperska-juz-wkrotce.html",
+      "status": 200,
+      "title": "Nowa ustawa deweloperska już wkrótce",
+      "char_count": 8367
+    },
+    {
+      "article_id": "infor_0125_gosni_sasiedzi_sposoby_na_uciszenie_uciazliwych_sa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5309536,Glosni-sasiedzi-Sposoby-na-uciszenie-uciazliwych-sasiadow.html",
+      "status": 200,
+      "title": "Głośni sąsiedzi? Sposoby na uciszenie uciążliwych sąsiadów",
+      "char_count": 6968
+    },
+    {
+      "article_id": "infor_0126_dodatek_energetyczny_w_2021_r",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5317724,Dodatek-energetyczny-w-2021-r.html",
+      "status": 200,
+      "title": "Dodatek energetyczny w 2021 r.",
+      "char_count": 3798
+    },
+    {
+      "article_id": "infor_0127_nowy_dodatek_energetyczny_na_jakich_zasadach",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5354669,Nowy-dodatek-energetyczny.html",
+      "status": 200,
+      "title": "Nowy dodatek energetyczny – na jakich zasadach?",
+      "char_count": 4939
+    },
+    {
+      "article_id": "infor_0128_jak_zmienic_sprzedawce_pradu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5357150,Jak-zmienic-sprzedawce-pradu.html",
+      "status": 200,
+      "title": "Jak zmienić sprzedawcę prądu?",
+      "char_count": 5795
+    },
+    {
+      "article_id": "infor_0129_jak_zmienic_sprzedawce_gazu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5360272,Jak-zmienic-sprzedawce-gazu.html",
+      "status": 200,
+      "title": "Jak zmienić sprzedawcę gazu?",
+      "char_count": 4377
+    },
+    {
+      "article_id": "infor_0130_rekojmia_za_wady_nieruchomosci_na_rynku_wtornym_od",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5378392,Rekojmia-za-wady-nieruchomosci-na-rynku-wtornym.html",
+      "status": 200,
+      "title": "Rękojmia za wady nieruchomości na rynku wtórnym - odpowiedzialność sprzedawcy",
+      "char_count": 6855
+    },
+    {
+      "article_id": "infor_0131_mieszkanie_bez_wkadu_dla_kogo_nowe_rozwiazanie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5470093,Mieszkanie-bez-wkladu-dla-kogo.html",
+      "status": 200,
+      "title": "Mieszkanie bez wkładu - dla kogo nowe rozwiązanie?",
+      "char_count": 7934
+    },
+    {
+      "article_id": "infor_0132_dodatek_weglowy_rpo_pyta_o_paliwa_ekologiczne",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5542648,Dodatek-weglowy-paliwa-ekologiczne-RPO.html",
+      "status": 200,
+      "title": "Dodatek węglowy – RPO pyta o paliwa ekologiczne",
+      "char_count": 1511
+    },
+    {
+      "article_id": "infor_0133_dodatek_weglowy_do_kiedy_wnioski",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5568267,Dodatek-weglowy-wniosek-do-kiedy.html",
+      "status": 200,
+      "title": "Dodatek węglowy – do kiedy wnioski?",
+      "char_count": 3418
+    },
+    {
+      "article_id": "infor_0134_czym_legalnie_mozna_palic_w_piecu_i_jak_wyglada_ko",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5611538,palenie-w-piecu-kontrola-antysmogowa.html",
+      "status": 200,
+      "title": "Czym legalnie można palić w piecu i jak wygląda kontrola antysmogowa?",
+      "char_count": 10683
+    },
+    {
+      "article_id": "infor_0135_czy_swiadectwo_energetyczne_wpynie_na_wartosc_nier",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/5679161,swiadectwo-energetyczne-prawo-wartosc-nieruchomosci.html",
+      "status": 200,
+      "title": "Czy świadectwo energetyczne wpłynie na wartość nieruchomości?",
+      "char_count": 4483
+    },
+    {
+      "article_id": "infor_0136_cena_pradu_2024_za_1_kwh_dla_gospodarstw_domowych_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/6455894,cena-pradu-2024-za-1-kwh-dla-gospodarstw-domowych-czy-wzrosnie-skokowo-od-lipca-rzad-da-dodatek-tylko-najbiedniejszym-a-moze-5-proc-vat-dla-wszystkich.html",
+      "status": 200,
+      "title": "Cena prądu 2024 za 1 kWh dla gospodarstw domowych. Czy wzrośnie skokowo od lipca? Rząd da dodatek tylko najbiedniejszym?",
+      "char_count": 8617
+    },
+    {
+      "article_id": "infor_0137_czy_i_co_mozna_zrobic_zeby_nie_meczyc_sie_ze_zbyt_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/6482415,czy-i-co-mozna-zrobic-zeby-nie-meczyc-sie-ze-zbyt-glosnym-sasiadem.html",
+      "status": 200,
+      "title": "Czy i co można zrobić, żeby nie męczyć się ze zbyt głośnym sąsiadem?",
+      "char_count": 7606
+    },
+    {
+      "article_id": "infor_0138_pelet_i_brykiety_drzewne_beda_nowe_przepisy_i_wyma",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/6793140,pelet-i-brykiety-drzewne-beda-nowe-przepisy-i-wymagania-jakosciowe-dla-producentow-ceny-pojda-w-gore-juz-w-2025-roku.html",
+      "status": 200,
+      "title": "Pelet i brykiety drzewne: będą nowe przepisy i wymagania jakościowe dla producentów. Ceny pójdą w górę już w 2025 roku?",
+      "char_count": 9112
+    },
+    {
+      "article_id": "infor_0139_jak_mozna_reklamowac_mieszkanie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/686299,Jak-mozna-reklamowac-mieszkanie.html",
+      "status": 200,
+      "title": "Jak można reklamować mieszkanie?",
+      "char_count": 3569
+    },
+    {
+      "article_id": "infor_0140_kto_ma_byc_wascicielem_gruntu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/686314,Kto-ma-byc-wlascicielem-gruntu.html",
+      "status": 200,
+      "title": "Kto ma być właścicielem gruntu?",
+      "char_count": 1492
+    },
+    {
+      "article_id": "infor_0141_uokik_skontrolowa_posrednikow_nieruchomosci",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/686315,UOKiK-skontrolowal-posrednikow-nieruchomosci.html",
+      "status": 200,
+      "title": "UOKiK skontrolował pośredników nieruchomości",
+      "char_count": 3032
+    },
+    {
+      "article_id": "infor_0142_czynsz_opaty_za_smieci_prad_czy_w_2025_r_moge_dost",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/6891025,czynsz-oplaty-za-smieci-prad-czy-w-2025-r-moge-dostac-jakies-dodat.html",
+      "status": 200,
+      "title": "Czynsz, opłaty za śmieci, prąd. Czy w 2025 r. mogę dostać jakieś dodatki? [Przykłady]",
+      "char_count": 3887
+    },
+    {
+      "article_id": "infor_0143_nowe_swiadczenie_w_2025_r_500_1000_1750_z_wnioski_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/7384336,bon-cieplowniczy-2025-kwoty-500-1000-1750-zl-wnioski-od-3-listopada.html",
+      "status": 200,
+      "title": "Nowe świadczenie w 2025 r. 500, 1000, 1750 zł. Wnioski od 3 listopada",
+      "char_count": 6787
+    },
+    {
+      "article_id": "infor_0144_minimalna_powierzchnia_mieszkania_2018_r",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/765443,Minimalna-powierzchnia-mieszkania-2018-r.html",
+      "status": 200,
+      "title": "Minimalna powierzchnia mieszkania - 2018 r.",
+      "char_count": 4296
+    },
+    {
+      "article_id": "infor_0145_grillowanie_sasiedzi_i_prawo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/779856,Grillowanie-sasiedzi-i-prawo.html",
+      "status": 200,
+      "title": "Grillowanie - sąsiedzi i prawo",
+      "char_count": 5101
+    },
+    {
+      "article_id": "infor_0146_dobrowolne_poddanie_sie_egzekucji_w_akcie_notarial",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/89360,Dobrowolne-poddanie-sie-egzekucji-w-akcie-notarialnym.html",
+      "status": 200,
+      "title": "Dobrowolne poddanie się egzekucji w akcie notarialnym",
+      "char_count": 3122
+    },
+    {
+      "article_id": "infor_0147_jak_wykupic_mieszkanie_od_pkp",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-dom/97174,Jak-wykupic-mieszkanie-od-PKP.html",
+      "status": 200,
+      "title": "Jak wykupić mieszkanie od PKP?",
+      "char_count": 3929
+    },
+    {
+      "article_id": "infor_0148_dzien_bezpiecznego_internetu_2023",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-internet/5668421,dzien-bezpiecznego-internetu-2023.html",
+      "status": 200,
+      "title": "Dzień Bezpiecznego Internetu 2023",
+      "char_count": 2131
+    },
+    {
+      "article_id": "infor_0149_dzien_bezpiecznego_internetu_2023_lista_wskazowek_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-internet/5668483,dzien-bezpiecznego-internetu-2023.html",
+      "status": 200,
+      "title": "Dzień Bezpiecznego Internetu 2023. Lista wskazówek dla rodziców",
+      "char_count": 4774
+    },
+    {
+      "article_id": "infor_0150_giganci_z_usa_otwieraja_szampana_prezydent_nawrock",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-internet/7494861,giganci-z-usa-otwieraja-szampana-prezydent-nawrocki-wetem-wysadza-w-powietrze-kluczowa-ustawe-o-internecie.html",
+      "status": 200,
+      "title": "Giganci z USA otwierają szampana? Prezydent Nawrocki wetem wysadza w powietrze kluczową ustawę o Internecie",
+      "char_count": 7208
+    },
+    {
+      "article_id": "infor_0151_e_doreczenia_usuga_rejestrowanego_doreczenia_elekt",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-internet/766311,eDoreczenia-usluga-rejestrowanego-doreczenia-elektronicznego-w-Polsce.html",
+      "status": 200,
+      "title": "e-Doręczenia - usługa rejestrowanego doręczenia elektronicznego w Polsce",
+      "char_count": 5533
+    },
+    {
+      "article_id": "infor_0152_czym_grozi_kamliwy_opis_towaru_na_allegro",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-internet/768256,Czym-grozi-klamliwy-opis-towaru-na-Allegro.html",
+      "status": 200,
+      "title": "Czym grozi kłamliwy opis towaru na Allegro?",
+      "char_count": 2230
+    },
+    {
+      "article_id": "infor_0153_operator_telewizji_kablowej_odmawia_podaczenia",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/217483,Operator-telewizji-kablowej-odmawia-podlaczenia.html",
+      "status": 200,
+      "title": "Operator telewizji kablowej odmawia podłączenia",
+      "char_count": 1898
+    },
+    {
+      "article_id": "infor_0154_usugi_telekomunikacyjne_mozna_reklamowac_u_przedsi",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/217533,Uslugi-telekomunikacyjne-mozna-reklamowac-u-przedsiebiorcy.html",
+      "status": 200,
+      "title": "Usługi telekomunikacyjne można reklamować u przedsiębiorcy",
+      "char_count": 2367
+    },
+    {
+      "article_id": "infor_0155_niewykonanie_umowy_przez_operatora_telekomunikacyj",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/217699,Niewykonanie-umowy-przez-operatora-telekomunikacyjnego.html",
+      "status": 200,
+      "title": "Niewykonanie umowy przez operatora telekomunikacyjnego",
+      "char_count": 3087
+    },
+    {
+      "article_id": "infor_0156_odszkodowanie_od_operatora_telekomunikacyjnego_za_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/218032,Odszkodowanie-od-operatora-telekomunikacyjnego-za-niezawarcie-umowy.html",
+      "status": 200,
+      "title": "Odszkodowanie od operatora telekomunikacyjnego za niezawarcie umowy",
+      "char_count": 3168
+    },
+    {
+      "article_id": "infor_0157_koniec_z_wyaczaniem_telefonu_za_niezapacony_rachun",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/218374,Koniec-z-wylaczaniem-telefonu-za-niezaplacony-rachunek.html",
+      "status": 200,
+      "title": "Koniec z wyłączaniem telefonu za niezapłacony rachunek",
+      "char_count": 1937
+    },
+    {
+      "article_id": "infor_0158_wyrok_w_sprawie_tp_s_a_sprzedaz_aczona_tp_sprzeczn",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/221178,Wyrok-w-sprawie-TP-SA-sprzedaz-laczona-TP-sprzeczna-z-prawem-UE.html",
+      "status": 200,
+      "title": "Wyrok w sprawie TP S.A. – sprzedaż łączona TP sprzeczna z prawem UE",
+      "char_count": 3072
+    },
+    {
+      "article_id": "infor_0159_zawarcie_umowy_przez_telefon_z_konsultantem",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/221244,Zawarcie-umowy-przez-telefon-z-konsultantem.html",
+      "status": 200,
+      "title": "Zawarcie umowy przez telefon z konsultantem",
       "char_count": 2439
     },
     {
-      "article_id": "infor_0052_ile_czasu_powinna_trwac_reklamacja",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/285011,Ile-czasu-powinna-trwac-reklamacja.html",
+      "article_id": "infor_0160_sad_podtrzymuje_kare_dla_tp_sa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/221549,Sad-podtrzymuje-kare-dla-TP-SA.html",
       "status": 200,
-      "title": "Ile czasu powinna trwać reklamacja?",
-      "char_count": 2934
+      "title": "Sąd podtrzymuje karę dla TP SA",
+      "char_count": 2012
     },
     {
-      "article_id": "infor_0053_czy_reklamacja_przecenionego_towaru_jest_mozliwa",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/285087,Czy-reklamacja-przecenionego-towaru-jest-mozliwa.html",
+      "article_id": "infor_0161_jak_rozstrzygnac_spor_z_operatorem",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/223793,Jak-rozstrzygnac-spor-z-operatorem.html",
       "status": 200,
-      "title": "Czy reklamacja przecenionego towaru jest możliwa?",
-      "char_count": 2802
+      "title": "Jak rozstrzygnąć spór z operatorem",
+      "char_count": 2166
     },
     {
-      "article_id": "infor_0054_czy_reklamacja_bez_gwarancja_jest_mozliwa",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/285090,Czy-reklamacja-bez-gwarancja-jest-mozliwa.html",
+      "article_id": "infor_0162_tp_likwiduje_biae_plamy_na_mapie_poaczen_interneto",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/223806,TP-likwiduje-biale-plamy-na-mapie-polaczen-internetowych.html",
       "status": 200,
-      "title": "Czy reklamacja bez gwarancja jest możliwa?",
-      "char_count": 2803
+      "title": "TP likwiduje białe plamy na mapie połączeń internetowych",
+      "char_count": 1827
     },
     {
-      "article_id": "infor_0055_reklamacja_leasingowanego_samochodu",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/289676,Reklamacja-leasingowanego-samochodu.html",
+      "article_id": "infor_0163_co_zrobic_gdy_operator_nie_podaczy_internetu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/225873,Co-zrobic-gdy-operator-nie-podlaczyl-Internetu.html",
       "status": 200,
-      "title": "Reklamacja leasingowanego samochodu",
-      "char_count": 3299
+      "title": "Co zrobić gdy operator nie podłączył Internetu",
+      "char_count": 2766
     },
     {
-      "article_id": "infor_0056_czy_sprzedawca_moze_zatrzymac_reklamowany_towar",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/289905,Czy-sprzedawca-moze-zatrzymac-reklamowany-towar.html",
+      "article_id": "infor_0164_od_1_lipca_nowe_stawki_maksymalne_roamingu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/230649,Od-1-lipca-nowe-stawki-maksymalne-roamingu.html",
       "status": 200,
-      "title": "Czy sprzedawca może zatrzymać reklamowany towar?",
-      "char_count": 3334
+      "title": "Od 1 lipca nowe stawki maksymalne roamingu",
+      "char_count": 3451
     },
     {
-      "article_id": "infor_0057_reklamacja_przeterminowanej_zywnosci",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/292901,Reklamacja-przeterminowanej-zywnosci.html",
+      "article_id": "infor_0165_czy_neostrada_wchodzi_w_skad_usugi_powszechnej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/231094,Czy-neostrada-wchodzi-w-sklad-uslugi-powszechnej.html",
       "status": 200,
-      "title": "Reklamacja przeterminowanej żywności",
-      "char_count": 2866
+      "title": "Czy neostrada wchodzi w skład usługi powszechnej",
+      "char_count": 2104
     },
     {
-      "article_id": "infor_0058_oswiadczenie_konsumenta_o_odstapieniu_od_umowy_wzo",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/293245,Oswiadczenie-konsumenta-o-odstapieniu-od-umowy-WZOR-PISMA.html",
+      "article_id": "infor_0166_jak_rozwiazac_umowe_z_operatorem",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/235751,Jak-rozwiazac-umowe-z-operatorem.html",
       "status": 200,
-      "title": "Oświadczenie konsumenta o odstąpieniu od umowy - WZÓR PISMA",
-      "char_count": 1144
+      "title": "Jak rozwiązać umowę z operatorem?",
+      "char_count": 2681
     },
     {
-      "article_id": "infor_0059_w_jaki_sposob_reklamowac_artykuy_spozywcze",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/321314,W-jaki-sposob-reklamowac-artykuly-spozywcze.html",
+      "article_id": "infor_0167_ceny_roamingu_w_unii_europejskiej_pozostana_bez_zm",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/235851,Ceny-roamingu-w-Unii-Europejskiej-pozostana-bez-zmian.html",
       "status": 200,
-      "title": "W jaki sposób reklamować artykuły spożywcze?",
+      "title": "Ceny roamingu w Unii Europejskiej pozostaną bez zmian",
+      "char_count": 3874
+    },
+    {
+      "article_id": "infor_0168_szerokopasmowy_internet_juz_ogolnodostepny",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/252267,Szerokopasmowy-internet-juz-ogolnodostepny.html",
+      "status": 200,
+      "title": "Szerokopasmowy internet już ogólnodostępny?",
+      "char_count": 3844
+    },
+    {
+      "article_id": "infor_0169_czy_zmiana_oferty_programowej_kablowki_uprawnia_do",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/253717,Czy-zmiana-oferty-programowej-kablowki-uprawnia-do-wypowiedzenia-umowy.html",
+      "status": 200,
+      "title": "Czy zmiana oferty programowej kablówki uprawnia do wypowiedzenia umowy?",
+      "char_count": 2423
+    },
+    {
+      "article_id": "infor_0170_czy_telefon_komorkowy_mozna_reklamowac_w_salonie_s",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/256083,Czy-telefon-komorkowy-mozna-reklamowac-w-salonie-sprzedazy.html",
+      "status": 200,
+      "title": "Czy telefon komórkowy można reklamować w salonie sprzedaży?",
+      "char_count": 2394
+    },
+    {
+      "article_id": "infor_0171_za_wysoki_rachunek_telefoniczny_co_mam_zrobic",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/256143,Za-wysoki-rachunek-telefoniczny-co-mam-zrobic.html",
+      "status": 200,
+      "title": "Za wysoki rachunek telefoniczny – co mam zrobić?",
+      "char_count": 1990
+    },
+    {
+      "article_id": "infor_0172_zostaem_oszukany_przez_konsultanta_telefonicznego_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/256188,Zostalem-oszukany-przez-konsultanta-telefonicznego-co-robic.html",
+      "status": 200,
+      "title": "Zostałem oszukany przez konsultanta telefonicznego - co robić?",
+      "char_count": 2436
+    },
+    {
+      "article_id": "infor_0173_operator_nie_moze_rozwiazac_umowy_bez_powiadomieni",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/259769,Operator-nie-moze-rozwiazac-umowy-bez-powiadomienia-abonenta.html",
+      "status": 200,
+      "title": "Operator nie może rozwiązać umowy bez powiadomienia abonenta",
+      "char_count": 1971
+    },
+    {
+      "article_id": "infor_0174_jak_przeniesc_numer_telefonu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/259870,Jak-przeniesc-numer-telefonu.html",
+      "status": 200,
+      "title": "Jak przenieść numer telefonu?",
+      "char_count": 2572
+    },
+    {
+      "article_id": "infor_0175_jak_sprawdzic_cene_premium_smsa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/260028,Jak-sprawdzic-cene-Premium-smsa.html",
+      "status": 200,
+      "title": "Jak sprawdzić cenę Premium smsa?",
+      "char_count": 3234
+    },
+    {
+      "article_id": "infor_0176_mobilny_internet_mozna_zrezygnowac_gdy_brak_zasieg",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/260038,Mobilny-Internet-Mozna-zrezygnowac-gdy-brak-zasiegu-w-domu.html",
+      "status": 200,
+      "title": "Mobilny Internet. Można zrezygnować, gdy brak zasięgu w domu?",
+      "char_count": 2560
+    },
+    {
+      "article_id": "infor_0177_automatyczne_przeduzenie_umowy_z_operatorem",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/261280,Automatyczne-przedluzenie-umowy-z-operatorem.html",
+      "status": 200,
+      "title": "Automatyczne przedłużenie umowy z operatorem",
+      "char_count": 3453
+    },
+    {
+      "article_id": "infor_0178_co_warto_wiedziec_o_umowie_zawieranej_z_konsultant",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/268466,Co-warto-wiedziec-o-umowie-zawieranej-z-konsultantem.html",
+      "status": 200,
+      "title": "Co warto wiedzieć o umowie zawieranej z konsultantem?",
+      "char_count": 2786
+    },
+    {
+      "article_id": "infor_0179_jak_przeniesc_numer_do_innego_operatora",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/270613,Jak-przeniesc-numer-do-innego-operatora.html",
+      "status": 200,
+      "title": "Jak przenieść numer do innego operatora?",
+      "char_count": 2408
+    },
+    {
+      "article_id": "infor_0180_abonenci_szykuja_pozew_zbiorowy_przeciwko_sieci_er",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/270628,Abonenci-szykuja-pozew-zbiorowy-przeciwko-sieci-ERA.html",
+      "status": 200,
+      "title": "Abonenci szykują pozew zbiorowy przeciwko sieci ERA",
+      "char_count": 6124
+    },
+    {
+      "article_id": "infor_0181_konksurs_sms_owy_ery_komentarz_redakcyjny",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/270658,Konksurs-SMSowy-ERY-komentarz-redakcyjny.html",
+      "status": 200,
+      "title": "Konksurs SMS-owy ERY: komentarz redakcyjny",
+      "char_count": 3489
+    },
+    {
+      "article_id": "infor_0182_konkursy_sms_owe_interwencja_uke",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/270818,Konkursy-SMSowe-interwencja-UKE.html",
+      "status": 200,
+      "title": "Konkursy SMS-owe: interwencja UKE",
+      "char_count": 3763
+    },
+    {
+      "article_id": "infor_0183_czy_za_ponowne_przyaczenie_do_internetu_trzeba_pac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/271065,Czy-za-ponowne-przylaczenie-do-internetu-trzeba-placic.html",
+      "status": 200,
+      "title": "Czy za ponowne przyłączenie do internetu trzeba płacić?",
+      "char_count": 3000
+    },
+    {
+      "article_id": "infor_0184_operator_odpowiada_za_przerwy_w_dostepie_do_intern",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/273723,Operator-odpowiada-za-przerwy-w-dostepie-do-internetu.html",
+      "status": 200,
+      "title": "Operator odpowiada za przerwy w dostępie do internetu",
+      "char_count": 2760
+    },
+    {
+      "article_id": "infor_0185_ekspert_radzi_loterie_sms_owe_naruszaja_zbiorowe_i",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/273825,Ekspert-radzi-Loterie-SMSowe-naruszaja-zbiorowe-interesy-konsumentow.html",
+      "status": 200,
+      "title": "Ekspert radzi: Loterie SMS-owe naruszają zbiorowe interesy konsumentów",
+      "char_count": 5595
+    },
+    {
+      "article_id": "infor_0186_co_warto_wiedziec_o_umowie_zawieranej_z_konsultant",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/280349,Co-warto-wiedziec-o-umowie-zawieranej-z-konsultantem-telefonicznym.html",
+      "status": 200,
+      "title": "Co warto wiedzieć o umowie zawieranej z konsultantem telefonicznym?",
+      "char_count": 2604
+    },
+    {
+      "article_id": "infor_0187_jak_udowodnic_ze_nie_zawieralismy_umowy_z_konsulta",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/280376,Jak-udowodnic-ze-nie-zawieralismy-umowy-z-konsultantem-telefonicznym.html",
+      "status": 200,
+      "title": "Jak udowodnić, że nie zawieraliśmy umowy z konsultantem telefonicznym?",
+      "char_count": 2388
+    },
+    {
+      "article_id": "infor_0188_usugi_telekomunikacyjne_w_zycie_weszy_wazne_zmiany",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/2837085,Uslugi-telekomunikacyjne-w-zycie-weszly-wazne-zmiany-w-przepisach.html",
+      "status": 200,
+      "title": "Usługi telekomunikacyjne - w życie weszły ważne zmiany w przepisach",
+      "char_count": 4837
+    },
+    {
+      "article_id": "infor_0189_prawa_konsumenta_w_usugach_telekomunikacyjnych_vad",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/287782,Prawa-konsumenta-w-uslugach-telekomunikacyjnych-vademecum.html",
+      "status": 200,
+      "title": "Prawa konsumenta w usługach telekomunikacyjnych - vademecum",
+      "char_count": 2774
+    },
+    {
+      "article_id": "infor_0190_przedterminowe_zerwanie_umowy_z_operatorem",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/294818,Przedterminowe-zerwanie-umowy-z-operatorem.html",
+      "status": 200,
+      "title": "Przedterminowe zerwanie umowy z operatorem",
+      "char_count": 2651
+    },
+    {
+      "article_id": "infor_0191_operator_nie_przesa_faktury",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/295261,Operator-nie-przeslal-faktury.html",
+      "status": 200,
+      "title": "Operator nie przesłał faktury",
+      "char_count": 3135
+    },
+    {
+      "article_id": "infor_0192_reklamacja_zawyzonego_rachunku_czy_trzeba_go_zapac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/295906,Reklamacja-zawyzonego-rachunku-czy-trzeba-go-zaplacic.html",
+      "status": 200,
+      "title": "Reklamacja zawyżonego rachunku – czy trzeba go zapłacić?",
+      "char_count": 3054
+    },
+    {
+      "article_id": "infor_0193_olbrzymia_kara_za_wielka_zmowe_operatorow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/296080,Olbrzymia-kara-za-wielka-zmowe-operatorow.html",
+      "status": 200,
+      "title": "Olbrzymia kara za wielką zmowę operatorów",
+      "char_count": 3044
+    },
+    {
+      "article_id": "infor_0194_jak_rozwiazac_umowe_z_kablowka_bez_dodatkowych_kos",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/296720,Jak-rozwiazac-umowe-z-kablowka-bez-dodatkowych-kosztow.html",
+      "status": 200,
+      "title": "Jak rozwiązać umowę z kablówką bez dodatkowych kosztów?",
+      "char_count": 2822
+    },
+    {
+      "article_id": "infor_0195_olbrzymia_kara_za_nierzetelny_konkurs_sms_owy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/298592,Olbrzymia-kara-za-nierzetelny-konkurs-smsowy.html",
+      "status": 200,
+      "title": "Olbrzymia kara za nierzetelny konkurs sms-owy",
+      "char_count": 3924
+    },
+    {
+      "article_id": "infor_0196_kary_dla_operatorow_za_wprowadzanie_w_bad",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/300352,Kary-dla-operatorow-za-wprowadzanie-w-blad.html",
+      "status": 200,
+      "title": "Kary dla operatorów za wprowadzanie w błąd",
+      "char_count": 3010
+    },
+    {
+      "article_id": "infor_0197_reklamacja_zepsutego_telefonu_u_operatora",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/303780,Reklamacja-zepsutego-telefonu-u-operatora.html",
+      "status": 200,
+      "title": "Reklamacja zepsutego telefonu u operatora",
+      "char_count": 3743
+    },
+    {
+      "article_id": "infor_0198_uwazaj_do_kogo_oddzwaniasz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/313030,Uwazaj-do-kogo-oddzwaniasz.html",
+      "status": 200,
+      "title": "Uważaj do kogo oddzwaniasz",
+      "char_count": 2717
+    },
+    {
+      "article_id": "infor_0199_telefony_na_karte_operator_powinien_zwrocic_niewyk",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/3614634,Telefony-na-karte-operator-powinien-zwrocic-niewykorzystane-pieniadze.html",
+      "status": 200,
+      "title": "Telefony na kartę - operator powinien zwrócić niewykorzystane pieniądze",
+      "char_count": 2892
+    },
+    {
+      "article_id": "infor_0200_umowa_po_smierci_abonenta_o_czym_pamietac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/5260850,Umowa-po-smierci-abonenta-o-czym-pamietac.html",
+      "status": 200,
+      "title": "Umowa po śmierci abonenta - o czym pamiętać?",
+      "char_count": 5108
+    },
+    {
+      "article_id": "infor_0201_spoofing_smishing_i_inne_naduzycia_w_komunikacji_e",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/5654436,spoofing-smishing-naduzycia-w-telekomunikacji.html",
+      "status": 200,
+      "title": "Spoofing, smishing i inne nadużycia w komunikacji elektronicznej będą zwalczane",
+      "char_count": 6301
+    },
+    {
+      "article_id": "infor_0202_jak_zwalczac_spoofing",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/5656334,jak-zwalczac-spoofing.html",
+      "status": 200,
+      "title": "Jak zwalczać spoofing?",
+      "char_count": 6902
+    },
+    {
+      "article_id": "infor_0203_prawo_komunikacji_elektronicznej_bedzie_wysuchanie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/5667781,prawo-komunikacji-elektronicznej-wysluchanie-publiczne.html",
+      "status": 200,
+      "title": "Prawo komunikacji elektronicznej. Będzie wysłuchanie publiczne",
+      "char_count": 3168
+    },
+    {
+      "article_id": "infor_0204_zwalczanie_naduzyc_w_komunikacji_elektronicznej_ju",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/5673474,zwalczanie-naduzyc-w-komunikacji-elektronicznej-juz-wkrotce.html",
+      "status": 200,
+      "title": "Zwalczanie nadużyć w komunikacji elektronicznej już wkrótce",
+      "char_count": 1991
+    },
+    {
+      "article_id": "infor_0205_prawo_komunikacji_elektronicznej_i_aukcja_5g_najwa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/5677156,prawo-komunikacji-elektronicznej-aukcja-5g-telekomunikacja-piit.html",
+      "status": 200,
+      "title": "Prawo komunikacji elektronicznej i aukcja 5G najważniejsze dla branży telekomunikacyjnej w 2023 r.",
+      "char_count": 4442
+    },
+    {
+      "article_id": "infor_0206_prawo_komunikacji_elektronicznej_rzad_przyjmie_pro",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/5747216,prawo-komunikacji-elektronicznej-rzad-przyjmie-projekt-jeszcze-w-tym-kwartale.html",
+      "status": 200,
+      "title": "Prawo komunikacji elektronicznej. Rząd przyjmie projekt jeszcze w tym kwartale",
+      "char_count": 5390
+    },
+    {
+      "article_id": "infor_0207_numer_telefonu_jak_drugi_pesel_ale_nie_lubimy_paci",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/5762409,numer-telefonu-jak-drugi-pesel-ale-nie-lubimy-placic-za-uslugi-badanie.html",
+      "status": 200,
+      "title": "Numer telefonu jak drugi PESEL, ale nie lubimy płacić za usługi [BADANIE]",
+      "char_count": 6509
+    },
+    {
+      "article_id": "infor_0208_uokik_naozy_25_mln_z_kary_na_t_mobile_polska_rekla",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/6426524,uokik-nalozyl-25-mln-zl-kary-na-tmobile-reklamy-operatora-wprowadzal.html",
+      "status": 200,
+      "title": "UOKiK nałożył 25 mln zł kary na T-Mobile Polska. Reklamy operatora wprowadzały konsumentów w błąd",
+      "char_count": 2946
+    },
+    {
+      "article_id": "infor_0209_komunikat_mc_beda_jednolite_procedury_usuwania_nie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/6583523,komunikat-mc-beda-jednolite-procedury-usuwania-nielegalnych-tresci-z.html",
+      "status": 200,
+      "title": "Komunikat MC: Będą jednolite procedury usuwania nielegalnych treści z Internetu. Nie będzie można wykorzystywać wrażliwy",
+      "char_count": 3766
+    },
+    {
+      "article_id": "infor_0210_przedsiebiorca_telekomunikacyjny",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685252,Przedsiebiorca-telekomunikacyjny.html",
+      "status": 200,
+      "title": "Przedsiębiorca telekomunikacyjny",
+      "char_count": 637
+    },
+    {
+      "article_id": "infor_0211_usuga_telekomunikacyjna",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685253,Usluga-telekomunikacyjna.html",
+      "status": 200,
+      "title": "Usługa telekomunikacyjna",
+      "char_count": 963
+    },
+    {
+      "article_id": "infor_0212_co_zrobic_gdy_nie_mozna_dzwonic",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685254,Co-zrobic-gdy-nie-mozna-dzwonic.html",
+      "status": 200,
+      "title": "Co zrobić gdy nie można dzwonić",
+      "char_count": 1876
+    },
+    {
+      "article_id": "infor_0213_czy_moge_zrezygnowac_z_umowy_z_kablowka_albo_zadac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685255,Czy-moge-zrezygnowac-z-umowy-z-kablowka-albo-zadac-obnizki-ceny.html",
+      "status": 200,
+      "title": "Czy mogę zrezygnować z umowy z kablówką albo żądać obniżki ceny",
+      "char_count": 1670
+    },
+    {
+      "article_id": "infor_0214_nie_mozna_ograniczac_dostepu_innym_operatorom_tele",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685256,Nie-mozna-ograniczac-dostepu-innym-operatorom-telekomunikacyjnym.html",
+      "status": 200,
+      "title": "Nie można ograniczać dostępu innym operatorom telekomunikacyjnym",
+      "char_count": 1467
+    },
+    {
+      "article_id": "infor_0215_czy_mozna_wypowiedziec_umowe_jesli_zmienia_sie_reg",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685264,Czy-mozna-wypowiedziec-umowe-jesli-zmienia-sie-regulamin.html",
+      "status": 200,
+      "title": "Czy można wypowiedzieć umowę jeśli zmienia się regulamin",
+      "char_count": 3228
+    },
+    {
+      "article_id": "infor_0216_zerwanie_sieci_telekomunikacyjnej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685265,Zerwanie-sieci-telekomunikacyjnej.html",
+      "status": 200,
+      "title": "Zerwanie sieci telekomunikacyjnej",
+      "char_count": 872
+    },
+    {
+      "article_id": "infor_0217_co_to_jest_mediacja",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685266,Co-to-jest-mediacja.html",
+      "status": 200,
+      "title": "Co to jest mediacja",
+      "char_count": 2826
+    },
+    {
+      "article_id": "infor_0218_co_zrobic_z_zawyzonym_rachunkiem_telefonicznym",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685274,Co-zrobic-z-zawyzonym-rachunkiem-telefonicznym.html",
+      "status": 200,
+      "title": "Co zrobić z zawyżonym rachunkiem telefonicznym",
+      "char_count": 1500
+    },
+    {
+      "article_id": "infor_0219_tp_s_a_znowu_ukarana",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685449,TP-SA-znowu-ukarana.html",
+      "status": 200,
+      "title": "TP S.A. znowu ukarana",
+      "char_count": 3344
+    },
+    {
+      "article_id": "infor_0220_kara_za_nieterminowe_dostarczanie_rachunkow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685450,Kara-za-nieterminowe-dostarczanie-rachunkow.html",
+      "status": 200,
+      "title": "Kara za nieterminowe dostarczanie rachunków",
+      "char_count": 3211
+    },
+    {
+      "article_id": "infor_0221_instalacje_telekomunikacyjne_w_kazdym_nowym_domu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685452,Instalacje-telekomunikacyjne-w-kazdym-nowym-domu.html",
+      "status": 200,
+      "title": "Instalacje telekomunikacyjne w każdym nowym domu",
+      "char_count": 1772
+    },
+    {
+      "article_id": "infor_0222_brak_odpowiedzi_na_reklamacje",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685453,Brak-odpowiedzi-na-reklamacje.html",
+      "status": 200,
+      "title": "Brak odpowiedzi na reklamację",
+      "char_count": 2252
+    },
+    {
+      "article_id": "infor_0223_odaczony_telefon",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685454,Odlaczony-telefon.html",
+      "status": 200,
+      "title": "Odłączony telefon",
+      "char_count": 2301
+    },
+    {
+      "article_id": "infor_0224_przeprowadzka_a_zmiana_numeru_telefonu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685455,Przeprowadzka-a-zmiana-numeru-telefonu.html",
+      "status": 200,
+      "title": "Przeprowadzka a zmiana numeru telefonu",
+      "char_count": 2150
+    },
+    {
+      "article_id": "infor_0225_tp_s_a_ma_zgode_na_przejecie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685456,TP-SA-ma-zgode-na-przejecie.html",
+      "status": 200,
+      "title": "TP S.A. ma zgodę na przejęcie",
+      "char_count": 2140
+    },
+    {
+      "article_id": "infor_0226_czy_minuty_na_karcie_przepadaja",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685457,Czy-minuty-na-karcie-przepadaja.html",
+      "status": 200,
+      "title": "Czy minuty na karcie przepadają",
+      "char_count": 2319
+    },
+    {
+      "article_id": "infor_0227_czy_mozna_przeniesc_numer_jesli_zmienia_sie_operat",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685458,Czy-mozna-przeniesc-numer-jesli-zmienia-sie-operatora.html",
+      "status": 200,
+      "title": "Czy można przenieść numer jeśli zmienia się operatora",
+      "char_count": 1657
+    },
+    {
+      "article_id": "infor_0228_umowa_o_swiadczenie_usug_telekomunikacyjnych",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685459,Umowa-o-swiadczenie-uslug-telekomunikacyjnych.html",
+      "status": 200,
+      "title": "Umowa o świadczenie usług telekomunikacyjnych",
+      "char_count": 3147
+    },
+    {
+      "article_id": "infor_0229_przeniesienie_numeru",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685460,Przeniesienie-numeru.html",
+      "status": 200,
+      "title": "Przeniesienie numeru",
+      "char_count": 3312
+    },
+    {
+      "article_id": "infor_0230_usuga_pre_paid",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685461,Usluga-prepaid.html",
+      "status": 200,
+      "title": "Usługa pre-paid",
+      "char_count": 2810
+    },
+    {
+      "article_id": "infor_0231_telefonia_komorkowa_wsrod_najmodszych",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685462,Telefonia-komorkowa-wsrod-najmlodszych.html",
+      "status": 200,
+      "title": "Telefonia komórkowa wśród najmłodszych",
+      "char_count": 5017
+    },
+    {
+      "article_id": "infor_0232_co_to_jest_roaming",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685463,Co-to-jest-roaming.html",
+      "status": 200,
+      "title": "Co to jest roaming",
+      "char_count": 1180
+    },
+    {
+      "article_id": "infor_0233_gdzie_moge_znalezc_informacje_o_cenach_roamingu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685464,Gdzie-moge-znalezc-informacje-o-cenach-roamingu.html",
+      "status": 200,
+      "title": "Gdzie mogę znaleźć informacje o cenach roamingu",
+      "char_count": 1225
+    },
+    {
+      "article_id": "infor_0234_jak_drogie_sa_ceny_usug_telefonii_komorkowej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685465,Jak-drogie-sa-ceny-uslug-telefonii-komorkowej.html",
+      "status": 200,
+      "title": "Jak drogie są ceny usług telefonii komórkowej",
+      "char_count": 4621
+    },
+    {
+      "article_id": "infor_0235_krzywdzace_umowy_operatorow_komorkowych",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685466,Krzywdzace-umowy-operatorow-komorkowych.html",
+      "status": 200,
+      "title": "Krzywdzące umowy operatorów komórkowych",
+      "char_count": 4403
+    },
+    {
+      "article_id": "infor_0236_porownanie_ofert_pre_paid",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685467,Porownanie-ofert-prepaid.html",
+      "status": 200,
+      "title": "Porównanie ofert pre-paid",
+      "char_count": 2953
+    },
+    {
+      "article_id": "infor_0237_ceny_usug_telefonii_komorkowej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685468,Ceny-uslug-telefonii-komorkowej.html",
+      "status": 200,
+      "title": "Ceny usług telefonii komórkowej",
+      "char_count": 2724
+    },
+    {
+      "article_id": "infor_0238_czy_trzeba_pacic_czesc_abonamentu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685509,Czy-trzeba-placic-czesc-abonamentu.html",
+      "status": 200,
+      "title": "Czy trzeba płacić część abonamentu",
+      "char_count": 782
+    },
+    {
+      "article_id": "infor_0239_brak_dostepu_do_internetu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685561,Brak-dostepu-do-Internetu.html",
+      "status": 200,
+      "title": "Brak dostępu do Internetu",
+      "char_count": 1211
+    },
+    {
+      "article_id": "infor_0240_jak_walczyc_z_niechciana_korespondencja",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685562,Jak-walczyc-z-niechciana-korespondencja.html",
+      "status": 200,
+      "title": "Jak walczyć z niechcianą korespondencją",
+      "char_count": 1201
+    },
+    {
+      "article_id": "infor_0241_atak_spam_u",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685563,Atak-SPAMu.html",
+      "status": 200,
+      "title": "Atak SPAM-u",
+      "char_count": 1554
+    },
+    {
+      "article_id": "infor_0242_czy_moje_dane_sa_chronione",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685564,Czy-moje-dane-sa-chronione.html",
+      "status": 200,
+      "title": "Czy moje dane są chronione",
+      "char_count": 2687
+    },
+    {
+      "article_id": "infor_0243_dzien_bezpiecznego_internetu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685565,Dzien-Bezpiecznego-Internetu.html",
+      "status": 200,
+      "title": "Dzień Bezpiecznego Internetu",
+      "char_count": 1330
+    },
+    {
+      "article_id": "infor_0244_gdzie_w_polsce_mamy_internet",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685566,Gdzie-w-Polsce-mamy-Internet.html",
+      "status": 200,
+      "title": "Gdzie w Polsce mamy Internet",
+      "char_count": 2872
+    },
+    {
+      "article_id": "infor_0245_ile_kosztuje_mobilny_internet",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685567,Ile-kosztuje-mobilny-Internet.html",
+      "status": 200,
+      "title": "Ile kosztuje mobilny Internet",
+      "char_count": 2708
+    },
+    {
+      "article_id": "infor_0246_ceny_internetu_szerokopasmowego",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685568,Ceny-Internetu-szerokopasmowego.html",
+      "status": 200,
+      "title": "Ceny Internetu szerokopasmowego",
+      "char_count": 4795
+    },
+    {
+      "article_id": "infor_0247_dwie_umowy_z_kablowka",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685624,Dwie-umowy-z-kablowka.html",
+      "status": 200,
+      "title": "Dwie umowy z kablówką",
+      "char_count": 2550
+    },
+    {
+      "article_id": "infor_0248_co_moze_gowny_operator_telewizji_cyfrowej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685813,Co-moze-glowny-operator-telewizji-cyfrowej.html",
+      "status": 200,
+      "title": "Co może główny operator telewizji cyfrowej",
+      "char_count": 2712
+    },
+    {
+      "article_id": "infor_0249_czym_jest_telewizja_cyfrowa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685814,Czym-jest-telewizja-cyfrowa.html",
+      "status": 200,
+      "title": "Czym jest telewizja cyfrowa",
+      "char_count": 2089
+    },
+    {
+      "article_id": "infor_0250_regulamin_tylko_z_umowa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685844,Regulamin-tylko-z-umowa.html",
+      "status": 200,
+      "title": "Regulamin tylko z umową",
+      "char_count": 2486
+    },
+    {
+      "article_id": "infor_0251_czym_jest_usuga_dostepu_do_internetu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685849,Czym-jest-usluga-dostepu-do-Internetu.html",
+      "status": 200,
+      "title": "Czym jest usługa dostępu do Internetu",
+      "char_count": 1097
+    },
+    {
+      "article_id": "infor_0252_usugi_swiadczone_przez_telewizje_kablowe",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685887,Uslugi-swiadczone-przez-telewizje-kablowe.html",
+      "status": 200,
+      "title": "Usługi świadczone przez telewizje kablowe",
+      "char_count": 4078
+    },
+    {
+      "article_id": "infor_0253_wyniki_finansowe_sieci_komorkowych",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685889,Wyniki-finansowe-sieci-komorkowych.html",
+      "status": 200,
+      "title": "Wyniki finansowe sieci komórkowych",
+      "char_count": 1442
+    },
+    {
+      "article_id": "infor_0254_rynek_telekomunikacyjny_nie_boi_sie_kryzysu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685915,Rynek-telekomunikacyjny-nie-boi-sie-kryzysu.html",
+      "status": 200,
+      "title": "Rynek telekomunikacyjny nie boi się kryzysu",
+      "char_count": 2469
+    },
+    {
+      "article_id": "infor_0255_ceny_usug_telefonii_stacjonarnej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/685977,Ceny-uslug-telefonii-stacjonarnej.html",
+      "status": 200,
+      "title": "Ceny usług telefonii stacjonarnej",
+      "char_count": 2194
+    },
+    {
+      "article_id": "infor_0256_problemy_z_usugami_telekomunikacyjnymi",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686015,Problemy-z-uslugami-telekomunikacyjnymi.html",
+      "status": 200,
+      "title": "Problemy z usługami telekomunikacyjnymi",
+      "char_count": 2079
+    },
+    {
+      "article_id": "infor_0257_numer_w_ksiazce_abonentow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686016,Numer-w-ksiazce-abonentow.html",
+      "status": 200,
+      "title": "Numer w książce abonentów",
+      "char_count": 3110
+    },
+    {
+      "article_id": "infor_0258_co_to_jest_usuga_powszechna",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686149,Co-to-jest-usluga-powszechna.html",
+      "status": 200,
+      "title": "Co to jest usługa powszechna",
+      "char_count": 2117
+    },
+    {
+      "article_id": "infor_0259_jak_skutecznie_zakwestionowac_za_duzy_rachunek_za_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686161,Jak-skutecznie-zakwestionowac-za-duzy-rachunek-za-telefon.html",
+      "status": 200,
+      "title": "Jak skutecznie zakwestionować za duży rachunek za telefon",
+      "char_count": 1472
+    },
+    {
+      "article_id": "infor_0260_zwroc_uwage_na_regulamin_swiadczenia_usug",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686177,Zwroc-uwage-na-regulamin-swiadczenia-uslug.html",
+      "status": 200,
+      "title": "Zwróć uwagę na regulamin świadczenia usług",
+      "char_count": 3734
+    },
+    {
+      "article_id": "infor_0261_nie_kazda_zmiana_regulaminu_uprawnia_do_rozwiazani",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686178,Nie-kazda-zmiana-regulaminu-uprawnia-do-rozwiazania-umowy.html",
+      "status": 200,
+      "title": "Nie każda zmiana regulaminu uprawnia do rozwiązania umowy",
+      "char_count": 2834
+    },
+    {
+      "article_id": "infor_0262_tanszy_roaming_w_ue",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686206,Tanszy-roaming-w-UE.html",
+      "status": 200,
+      "title": "Tańszy roaming w UE",
+      "char_count": 6002
+    },
+    {
+      "article_id": "infor_0263_czy_operator_telekomunikacyjny_moze_sprzedac_wierz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686267,Czy-operator-telekomunikacyjny-moze-sprzedac-wierzytelnosc-wobec-konsumenta.html",
+      "status": 200,
+      "title": "Czy operator telekomunikacyjny może sprzedać wierzytelność wobec konsumenta",
+      "char_count": 2162
+    },
+    {
+      "article_id": "infor_0264_jedna_adowarka_do_wszystkich_komorek_od_2010_roku",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686289,Jedna-ladowarka-do-wszystkich-komorek-od-2010-roku.html",
+      "status": 200,
+      "title": "Jedna ładowarka do wszystkich komórek od 2010 roku",
+      "char_count": 1698
+    },
+    {
+      "article_id": "infor_0265_kiedy_rachunek_za_telefon_ulega_przedawnieniu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686290,Kiedy-rachunek-za-telefon-ulega-przedawnieniu.html",
+      "status": 200,
+      "title": "Kiedy rachunek za telefon ulega przedawnieniu",
+      "char_count": 3099
+    },
+    {
+      "article_id": "infor_0266_kiedy_nie_zapacisz_operatorowi_za_zerwanie_promocj",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/686301,Kiedy-nie-zaplacisz-operatorowi-za-zerwanie-promocji.html",
+      "status": 200,
+      "title": "Kiedy nie zapłacisz operatorowi za zerwanie promocji",
+      "char_count": 2323
+    },
+    {
+      "article_id": "infor_0267_ile_kosztuje_poaczenie_z_infolinia",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/696753,Ile-kosztuje-polaczenie-z-infolinia.html",
+      "status": 200,
+      "title": "Ile kosztuje połączenie z infolinią?",
+      "char_count": 3514
+    },
+    {
+      "article_id": "infor_0268_jasne_zasady_konkursu_smsowego",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/701887,Jasne-zasady-konkursu-smsowego.html",
+      "status": 200,
+      "title": "Jasne zasady konkursu smsowego",
+      "char_count": 2447
+    },
+    {
+      "article_id": "infor_0269_zasady_konkursow_sms_wyrok_sadu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/702675,Zasady-konkursow-sms-wyrok-sadu.html",
+      "status": 200,
+      "title": "Zasady konkursów sms – wyrok sądu",
+      "char_count": 1529
+    },
+    {
+      "article_id": "infor_0270_uokik_play_ma_zapacic_ponad_108_mln_z_kary_za_zabi",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/7476758,uuokik-play-ma-zaplacic-ponad-108-mln-zl-kary-za-zabieranie-klientom-po-5-zl-ponadto-prezes-tomasz-chrostny-decyzja-administracyjna-nakazuje-playowi-zwrot-pieniedzy-klientom-za-nielegalne-odbieranie-rabatow-mozesz-odzyskac-stracone-znizki-operatorzy-rabaty-kary-promocje-uokik-konsumenci-ochrona-konsumentow-urzad-ochrony-konkurencji-i-konsumentow-gov-pl.html",
+      "status": 200,
+      "title": "UOKiK: Play ma zapłacić ponad 108 mln zł kary za zabieranie klientom po 5 zł! Ponadto Prezes Tomasz Chróstny decyzją adm",
+      "char_count": 9742
+    },
+    {
+      "article_id": "infor_0271_dzwonia_do_ciebie_telemarketerzy_nsa_wasnie_orzek_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/7501658,numer-telefonu-dane-osobowe-wyrok-nsa-telemarketing-rodo-2026-niechciany-numer-polaczenia-telemarketing-co-to-za-numer-nekajace-telefony-prawo-prywatnosc-prawo-do-zapomnienia-nieznany-numer-zastrzezony.html",
+      "status": 200,
+      "title": "Dzwonią do ciebie telemarketerzy? NSA właśnie orzekł, że niewiele z tym zrobisz. Sprawdź, dlaczego",
+      "char_count": 4955
+    },
+    {
+      "article_id": "infor_0272_abonament_rtv_2018_2019_r",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/765479,Abonament-RTV-20182019-r.html",
+      "status": 200,
+      "title": "Abonament RTV – 2018/2019 r.",
+      "char_count": 4074
+    },
+    {
+      "article_id": "infor_0273_nowe_narzedzia_do_walki_z_sms_ami_premium",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/776250,Nowe-narzedzia-do-walki-z-smsami-premium.html",
+      "status": 200,
+      "title": "Nowe narzędzia do walki z sms-ami premium",
+      "char_count": 4692
+    },
+    {
+      "article_id": "infor_0274_geobloking_abonamentow_cyfrowych_znika_czyli_netfl",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/776999,Geobloking-abonamentow-cyfrowych-znika-czyli-Netflix-i-nie-tylko-w-calej-Europie.html",
+      "status": 200,
+      "title": "Geobloking abonamentów cyfrowych znika czyli Netflix (i nie tylko) w całej Europie",
+      "char_count": 3942
+    },
+    {
+      "article_id": "infor_0275_konsument_oszukany_przez_konsultanta_jakie_ma_praw",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/777485,Konsument-oszukany-przez-konsultanta-jakie-ma-prawa.html",
+      "status": 200,
+      "title": "Konsument oszukany przez konsultanta - jakie ma prawa?",
+      "char_count": 5343
+    },
+    {
+      "article_id": "infor_0276_telefon_z_zagranicy_oddzwaniaj_z_gowa_uke_ostrzega",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/784856,Telefon-z-zagranicy-Oddzwaniaj-z-glowa-UKE-ostrzega.html",
+      "status": 200,
+      "title": "Telefon z zagranicy? Oddzwaniaj z głową - UKE ostrzega!",
+      "char_count": 3144
+    },
+    {
+      "article_id": "infor_0277_ograniczenie_odpowiedzialnosci_operatora",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-telekomunikacja/84636,Ograniczenie-odpowiedzialnosci-operatora.html",
+      "status": 200,
+      "title": "Ograniczenie odpowiedzialności operatora",
+      "char_count": 3773
+    },
+    {
+      "article_id": "infor_0278_podrozni_lepiej_chronieni_od_1_lipca_2018_r",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/1531325,Podrozni-lepiej-chronieni-od-1-lipca-2018-r.html",
+      "status": 200,
+      "title": "Podróżni lepiej chronieni od 1 lipca 2018 r.",
+      "char_count": 4960
+    },
+    {
+      "article_id": "infor_0279_uokik_przypomina_turysto_pamietaj_o_swoich_prawach",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/217339,UOKiK-przypomina-turysto-pamietaj-o-swoich-prawach.html",
+      "status": 200,
+      "title": "UOKiK przypomina: turysto pamiętaj o swoich prawach",
+      "char_count": 3411
+    },
+    {
+      "article_id": "infor_0280_co_to_jest_impreza_turystyczna",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/220482,Co-to-jest-impreza-turystyczna.html",
+      "status": 200,
+      "title": "Co to jest impreza turystyczna",
+      "char_count": 2457
+    },
+    {
+      "article_id": "infor_0281_czy_przewoznicy_zapaca_odszkodowania_za_odwoane_lo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/223227,Czy-przewoznicy-zaplaca-odszkodowania-za-odwolane-loty.html",
+      "status": 200,
+      "title": "Czy przewoźnicy zapłacą odszkodowania za odwołane loty",
+      "char_count": 3311
+    },
+    {
+      "article_id": "infor_0282_poradnik_na_majowke_sprawdz_jakie_masz_prawa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/225451,Poradnik-na-majowke-sprawdz-jakie-masz-prawa.html",
+      "status": 200,
+      "title": "Poradnik na majówkę: sprawdź jakie masz prawa",
+      "char_count": 7431
+    },
+    {
+      "article_id": "infor_0283_zadoscuczynienie_za_zmarnowany_urlop",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/226300,Zadoscuczynienie-za-zmarnowany-urlop.html",
+      "status": 200,
+      "title": "Zadośćuczynienie za zmarnowany urlop",
+      "char_count": 2479
+    },
+    {
+      "article_id": "infor_0284_odpowiedzialnosc_przewoznikow_lotniczych_za_utrate",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/227558,Odpowiedzialnosc-przewoznikow-lotniczych-za-utrate-bagazu.html",
+      "status": 200,
+      "title": "Odpowiedzialność przewoźników lotniczych za utratę bagażu",
+      "char_count": 3853
+    },
+    {
+      "article_id": "infor_0285_twoje_prawa_w_hotelu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/230551,Twoje-prawa-w-hotelu.html",
+      "status": 200,
+      "title": "Twoje prawa w hotelu",
+      "char_count": 2633
+    },
+    {
+      "article_id": "infor_0286_kiedy_hotel_jest_hotelem",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/230553,Kiedy-hotel-jest-hotelem.html",
+      "status": 200,
+      "title": "Kiedy hotel jest hotelem",
+      "char_count": 1998
+    },
+    {
+      "article_id": "infor_0287_czy_mozna_zabrac_leki_na_pokad_samolotu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/231349,Czy-mozna-zabrac-leki-na-poklad-samolotu.html",
+      "status": 200,
+      "title": "Czy można zabrać leki na pokład samolotu",
+      "char_count": 2399
+    },
+    {
+      "article_id": "infor_0288_jakie_rzeczy_trzeba_zostawic_w_luku_bagazowym",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/231350,Jakie-rzeczy-trzeba-zostawic-w-luku-bagazowym.html",
+      "status": 200,
+      "title": "Jakie rzeczy trzeba zostawić w luku bagażowym",
+      "char_count": 2063
+    },
+    {
+      "article_id": "infor_0289_co_trzeba_wiedziec_o_rezerwacji_biletu_lotniczego",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/231381,Co-trzeba-wiedziec-o-rezerwacji-biletu-lotniczego.html",
+      "status": 200,
+      "title": "Co trzeba wiedzieć o rezerwacji biletu lotniczego",
+      "char_count": 2260
+    },
+    {
+      "article_id": "infor_0290_czy_hotelarz_moze_przetrzymac_dowod_osobisty_gosci",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/231578,Czy-hotelarz-moze-przetrzymac-dowod-osobisty-goscia.html",
+      "status": 200,
+      "title": "Czy hotelarz może przetrzymać dowód osobisty gościa?",
+      "char_count": 2342
+    },
+    {
+      "article_id": "infor_0291_czy_umowa_hotelowa_zawsze_jest_hotelowa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/231757,Czy-umowa-hotelowa-zawsze-jest-hotelowa.html",
+      "status": 200,
+      "title": "Czy umowa hotelowa zawsze jest hotelowa?",
+      "char_count": 3011
+    },
+    {
+      "article_id": "infor_0292_gosc_hotelowy_czyli_strona_umowy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/231759,Gosc-hotelowy-czyli-strona-umowy.html",
+      "status": 200,
+      "title": "Gość hotelowy, czyli strona umowy",
+      "char_count": 4328
+    },
+    {
+      "article_id": "infor_0293_programy_lojalnosciowe_w_hotelach",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/231770,Programy-lojalnosciowe-w-hotelach.html",
+      "status": 200,
+      "title": "Programy lojalnościowe w hotelach",
       "char_count": 4187
     },
     {
-      "article_id": "infor_0060_reklamacje_po_powrocie_z_wycieczki",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/322680,Reklamacje-po-powrocie-z-wycieczki.html",
+      "article_id": "infor_0294_czy_cena_biletu_lotniczego_przy_rezerwacji_jest_os",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/232437,Czy-cena-biletu-lotniczego-przy-rezerwacji-jest-ostateczna.html",
       "status": 200,
-      "title": "Reklamacje po powrocie z wycieczki",
-      "char_count": 7531
+      "title": "Czy cena biletu lotniczego przy rezerwacji jest ostateczna?",
+      "char_count": 2732
     },
     {
-      "article_id": "infor_0061_rekojmia_zmiany_w_projekcie_ustawy_o_prawach_konsu",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5168154,Rekojmia-zmiany-w-projekcie-ustawy-o-prawach-konsumenta.html",
+      "article_id": "infor_0295_czy_gosc_hotelowy_odpowiada_za_rzeczy_uzyczone_nie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/232562,Czy-gosc-hotelowy-odpowiada-za-rzeczy-uzyczone-nieodplatnie-przez-hotel.html",
       "status": 200,
-      "title": "Rękojmia - zmiany w projekcie ustawy o prawach konsumenta",
-      "char_count": 3583
+      "title": "Czy gość hotelowy odpowiada za rzeczy użyczone nieodpłatnie przez hotel",
+      "char_count": 5482
     },
     {
-      "article_id": "infor_0062_jak_zozyc_reklamacje_na_problemy_z_ustawowymi_waka",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5561315,Jak-zlozyc-reklamacje-na-ustawowe-wakacje-kredytowe.html",
+      "article_id": "infor_0296_usugi_uzupeniajace_w_hotelach_i_motelach",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/232771,Uslugi-uzupelniajace-w-hotelach-i-motelach.html",
       "status": 200,
-      "title": "Jak złożyć reklamację na problemy z ustawowymi wakacjami kredytowymi?",
-      "char_count": 3206
+      "title": "Usługi uzupełniające w hotelach i motelach",
+      "char_count": 3890
     },
     {
-      "article_id": "infor_0063_wakacyjna_reklamacja_jak_egzekwowac_swoje_prawa",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5569788,Wakacje-reklamacja-prawa.html",
+      "article_id": "infor_0297_sprzedaz_w_obiektach_hotelarskich",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/232776,Sprzedaz-w-obiektach-hotelarskich.html",
       "status": 200,
-      "title": "Wakacyjna reklamacja - jak egzekwować swoje prawa?",
-      "char_count": 4291
+      "title": "Sprzedaż w obiektach hotelarskich",
+      "char_count": 2767
     },
     {
-      "article_id": "infor_0064_prawa_konsumenta_oczami_polakow_czy_znamy_je_bardz",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5701461,prawa-konsumenta-czy-znasz-badanie.html",
+      "article_id": "infor_0298_na_jaka_pomoc_hotelu_moze_liczyc_jego_gosc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/232779,Na-jaka-pomoc-hotelu-moze-liczyc-jego-gosc.html",
       "status": 200,
-      "title": "Prawa konsumenta oczami Polaków. Czy znamy je bardzo dobrze?",
-      "char_count": 2434
+      "title": "Na jaką pomoc hotelu może liczyć jego gość",
+      "char_count": 2363
     },
     {
-      "article_id": "infor_0065_sztuczne_promocje_i_zawyzanie_cen_pamietaj_o_tej_w",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5838407,czy-polscy-konsumenci-slyszeli-o-dyrektywie-omnibus.html",
+      "article_id": "infor_0299_jak_sprawdzic_biuro_podrozy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/234917,Jak-sprawdzic-biuro-podrozy.html",
       "status": 200,
-      "title": "Sztuczne promocje i zawyżanie cen? Pamiętaj o tej ważnej dyrektywie!",
-      "char_count": 3495
+      "title": "Jak sprawdzić biuro podróży?",
+      "char_count": 2189
     },
     {
-      "article_id": "infor_0066_o_zgode_na_przetwarzanie_danych_reklamujacego_trze",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/685532,O-zgode-na-przetwarzanie-danych-reklamujacego-trzeba-sie-zapytac.html",
+      "article_id": "infor_0300_co_musisz_wiedziec_zanim_wykupisz_wycieczke",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/235288,Co-musisz-wiedziec-zanim-wykupisz-wycieczke.html",
       "status": 200,
-      "title": "O zgodę na przetwarzanie danych reklamującego trzeba się zapytać",
-      "char_count": 3218
+      "title": "Co musisz wiedzieć zanim wykupisz wycieczkę?",
+      "char_count": 2050
     },
     {
-      "article_id": "infor_0067_rzecznik_konsumentow_pomoze_w_reklamacji",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/685743,Rzecznik-konsumentow-pomoze-w-reklamacji.html",
+      "article_id": "infor_0301_szpitalne_leczenie_za_granica",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/235849,Szpitalne-leczenie-za-granica.html",
       "status": 200,
-      "title": "Rzecznik konsumentów pomoże w reklamacji",
-      "char_count": 4860
+      "title": "Szpitalne leczenie za granicą",
+      "char_count": 5245
     },
     {
-      "article_id": "infor_0068_importer_takze_odpowiada_za_szkody_wyrzadzone_prze",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/685771,Importer-takze-odpowiada-za-szkody-wyrzadzone-przez-produkt-niebezpieczny.html",
+      "article_id": "infor_0302_jak_podrozowac_ze_zwierzetami",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/239508,Jak-podrozowac-ze-zwierzetami.html",
       "status": 200,
-      "title": "Importer także odpowiada za szkody wyrządzone przez produkt niebezpieczny",
-      "char_count": 2565
+      "title": "Jak podróżować ze zwierzętami",
+      "char_count": 2713
     },
     {
-      "article_id": "infor_0069_jak_wyegzekwowac_przesanie_karty_gwarancyjnej",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/686127,Jak-wyegzekwowac-przeslanie-karty-gwarancyjnej.html",
+      "article_id": "infor_0303_obowiazki_biura_podrozy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/239523,Obowiazki-biura-podrozy.html",
       "status": 200,
-      "title": "Jak wyegzekwować przesłanie karty gwarancyjnej",
-      "char_count": 1659
+      "title": "Obowiązki biura podróży",
+      "char_count": 2909
     },
     {
-      "article_id": "infor_0070_co_zrobic_gdy_zaginie_bagaz_na_lotnisku",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/694839,Co-zrobic-gdy-zaginie-bagaz-na-lotnisku.html",
+      "article_id": "infor_0304_czy_za_fotografowanie_muzealnych_eksponatow_trzeba",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/239842,Czy-za-fotografowanie-muzealnych-eksponatow-trzeba-dodatkowo-placic.html",
       "status": 200,
-      "title": "Co zrobić, gdy zaginie bagaż na lotnisku?",
-      "char_count": 2796
+      "title": "Czy za fotografowanie muzealnych eksponatów trzeba dodatkowo płacić?",
+      "char_count": 3193
     },
     {
-      "article_id": "infor_0071_reklamacja_imprezy_turystycznej",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/760605,Reklamacja-imprezy-turystycznej.html",
+      "article_id": "infor_0305_jak_uzyskac_pomoc_medyczna_w_krajach_ue",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/245335,Jak-uzyskac-pomoc-medyczna-w-krajach-UE.html",
       "status": 200,
-      "title": "Reklamacja imprezy turystycznej",
+      "title": "Jak uzyskać pomoc medyczną w krajach UE?",
+      "char_count": 2500
+    },
+    {
+      "article_id": "infor_0306_gdy_samolot_wyladuje_na_innym_lotnisku",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/251350,Gdy-samolot-wyladuje-na-innym-lotnisku.html",
+      "status": 200,
+      "title": "Gdy samolot wyląduje na innym lotnisku?",
+      "char_count": 1999
+    },
+    {
+      "article_id": "infor_0307_od_17_wrzesnia_2010_r_turysci_lepiej_chronieni",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/252987,Od-17-wrzesnia-2010-r-turysci-lepiej-chronieni.html",
+      "status": 200,
+      "title": "Od 17 września 2010 r. turyści lepiej chronieni",
+      "char_count": 3170
+    },
+    {
+      "article_id": "infor_0308_orbis_travel_zozy_wniosek_o_upadosc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/254156,Orbis-Travel-zlozyl-wniosek-o-upadlosc.html",
+      "status": 200,
+      "title": "Orbis Travel złożył wniosek o upadłość",
+      "char_count": 2238
+    },
+    {
+      "article_id": "infor_0309_jak_dochodzic_odszkodowania_w_przypadku_upadosci_b",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/254170,Jak-dochodzic-odszkodowania-w-przypadku-upadlosci-biura-podrozy.html",
+      "status": 200,
+      "title": "Jak dochodzić odszkodowania w przypadku upadłości biura podróży?",
+      "char_count": 2234
+    },
+    {
+      "article_id": "infor_0310_jak_zgosic_roszczenie_po_upadku_biura_podrozy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/254175,Jak-zglosic-roszczenie-po-upadku-biura-podrozy.html",
+      "status": 200,
+      "title": "Jak zgłosić roszczenie po upadku biura podróży?",
+      "char_count": 1952
+    },
+    {
+      "article_id": "infor_0311_upadek_biura_podrozy_gdy_odszkodowanie_bedzie_za_m",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/254251,Upadek-biura-podrozy-gdy-odszkodowanie-bedzie-za-male.html",
+      "status": 200,
+      "title": "Upadek biura podróży: gdy odszkodowanie będzie za małe?",
+      "char_count": 2886
+    },
+    {
+      "article_id": "infor_0312_timesharing_czy_to_dobry_pomys_na_urlop",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/258914,Timesharing-czy-to-dobry-pomysl-na-urlop.html",
+      "status": 200,
+      "title": "Timesharing: czy to dobry pomysł na urlop?",
+      "char_count": 2460
+    },
+    {
+      "article_id": "infor_0313_co_powinna_zawierac_umowa_timesharingu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/258928,Co-powinna-zawierac-umowa-timesharingu.html",
+      "status": 200,
+      "title": "Co powinna zawierać umowa timesharingu?",
+      "char_count": 2755
+    },
+    {
+      "article_id": "infor_0314_do_dziaalnosci_turystycznej_wyksztacenie_niepotrze",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/261327,Do-dzialalnosci-turystycznej-wyksztalcenie-niepotrzebne.html",
+      "status": 200,
+      "title": "Do działalności turystycznej wykształcenie niepotrzebne",
+      "char_count": 4962
+    },
+    {
+      "article_id": "infor_0315_czego_mozesz_wymagac_na_wycieczce",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/267133,Czego-mozesz-wymagac-na-wycieczce.html",
+      "status": 200,
+      "title": "Czego możesz wymagać na wycieczce?",
       "char_count": 5303
     },
     {
-      "article_id": "infor_0072_czy_mozna_zareklamowac_usuge_fryzjerska",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/763112,Czy-mozna-zareklamowac-usluge-fryzjerska.html",
+      "article_id": "infor_0316_zimowy_wypoczynek_co_powinno_znalezc_sie_w_umowie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/268156,Zimowy-wypoczynek-co-powinno-znalezc-sie-w-umowie.html",
       "status": 200,
-      "title": "Czy można zareklamować usługę fryzjerską?",
-      "char_count": 4150
+      "title": "Zimowy wypoczynek: co powinno znaleźć się w umowie?",
+      "char_count": 2842
     },
     {
-      "article_id": "infor_0073_czy_mozna_zareklamowac_towar_kupiony_na_promocji",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/767616,Czy-mozna-zareklamowac-towar-kupiony-na-promocji.html",
+      "article_id": "infor_0317_bezpieczne_wakacje_jak_to_zrobic",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/2697198,Bezpieczne-wakacje-jak-to-zrobic.html",
       "status": 200,
-      "title": "Czy można zareklamować towar kupiony na promocji?",
-      "char_count": 2583
+      "title": "Bezpieczne wakacje - jak to zrobić?",
+      "char_count": 5027
     },
     {
-      "article_id": "infor_0074_kiedy_sprzedawca_nie_odpowiada_za_wady_z_tytuu_rek",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/768310,Kiedy-sprzedawca-nie-odpowiada-za-wady-z-tytulu-rekojmi.html",
+      "article_id": "infor_0318_nowy_e_dowod_z_opcja_podpisu_elektronicznego",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/2697228,Nowy-edowod-z-opcja-podpisu-elektronicznego.html",
       "status": 200,
-      "title": "Kiedy sprzedawca nie odpowiada za wady z tytułu rękojmi?",
+      "title": "Nowy e-dowód z opcją podpisu elektronicznego",
+      "char_count": 2385
+    },
+    {
+      "article_id": "infor_0319_reklamacja_nieudanej_wycieczki_uatwienia_dla_konsu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/2697477,Reklamacja-nieudanej-wycieczki-ulatwienia-dla-konsumentow-od-polowy-2018-r.html",
+      "status": 200,
+      "title": "Reklamacja nieudanej wycieczki - ułatwienia dla konsumentów od połowy 2018 r.",
+      "char_count": 4515
+    },
+    {
+      "article_id": "infor_0320_kiedy_przewoznik_odpowiada_za_zgubiony_lub_skradzi",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/2702818,Kiedy-przewoznik-odpowiada-za-zgubiony-lub-skradziony-bagaz.html",
+      "status": 200,
+      "title": "Kiedy przewoźnik odpowiada za zgubiony lub skradziony bagaż?",
+      "char_count": 3286
+    },
+    {
+      "article_id": "infor_0321_wyjezdzasz_na_ferie_pomysl_o_ubezpieczeniu_oc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/270852,Wyjezdzasz-na-ferie-Pomysl-o-ubezpieczeniu-OC.html",
+      "status": 200,
+      "title": "Wyjeżdżasz na ferie? Pomyśl o ubezpieczeniu OC",
+      "char_count": 2858
+    },
+    {
+      "article_id": "infor_0322_podroz_z_dronem_przewoz_samolotem_i_bezpieczne_lot",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/2735481,Podroz-z-dronem-przewoz-samolotem-i-bezpieczne-loty-za-granica.html",
+      "status": 200,
+      "title": "Podróż z dronem - przewóz samolotem i bezpieczne loty za granicą",
+      "char_count": 3790
+    },
+    {
+      "article_id": "infor_0323_jak_podrozowac_ze_zwierzakiem",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/273998,Jak-podrozowac-ze-zwierzakiem.html",
+      "status": 200,
+      "title": "Jak podróżować ze zwierzakiem?",
+      "char_count": 8516
+    },
+    {
+      "article_id": "infor_0324_poradnik_prawa_pasazera_linii_lotniczych",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/274325,Poradnik-Prawa-pasazera-linii-lotniczych.html",
+      "status": 200,
+      "title": "Poradnik: Prawa pasażera linii lotniczych",
+      "char_count": 7663
+    },
+    {
+      "article_id": "infor_0325_beatyfikacja_jana_pawa_ii_jak_dojechac_samochodem_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/275540,Beatyfikacja-Jana-Pawla-II-jak-dojechac-samochodem-do-Rzymu.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: jak dojechać samochodem do Rzymu?",
+      "char_count": 2510
+    },
+    {
+      "article_id": "infor_0326_beatyfikacja_jana_pawa_ii_konsulat_w_rzymie_urucho",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/275551,Beatyfikacja-Jana-Pawla-II-Konsulat-w-Rzymie-uruchomi-specjalna-infolinie.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Konsulat w Rzymie uruchomi specjalną infolinię",
+      "char_count": 4860
+    },
+    {
+      "article_id": "infor_0327_beatyfikacja_jana_pawa_ii_jakie_pozwolenia_dla_aut",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277443,Beatyfikacja-Jana-Pawla-II-Jakie-pozwolenia-dla-autobusow-turystycznych-w-Rzymie.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Jakie pozwolenia dla autobusów turystycznych w Rzymie?",
+      "char_count": 1856
+    },
+    {
+      "article_id": "infor_0328_beatyfikacja_jana_pawa_ii_jakie_sa_ceny_biletow_w_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277448,Beatyfikacja-Jana-Pawla-II-Jakie-sa-ceny-biletow-w-Rzymie.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Jakie są ceny biletów w Rzymie?",
+      "char_count": 1180
+    },
+    {
+      "article_id": "infor_0329_beatyfikacja_jana_pawa_ii_jak_korzystac_z_komunika",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277628,Beatyfikacja-Jana-Pawla-II-Jak-korzystac-z-komunikacji-miejskiej-w-Rzymie.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Jak korzystać z komunikacji miejskiej w Rzymie?",
+      "char_count": 3987
+    },
+    {
+      "article_id": "infor_0330_beatyfikacja_jana_pawa_ii_oficjalny_program_uroczy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277629,Beatyfikacja-Jana-Pawla-II-Oficjalny-program-uroczystosci.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Oficjalny program uroczystości",
+      "char_count": 3061
+    },
+    {
+      "article_id": "infor_0331_beatyfikacja_jana_pawa_ii_praktyczne_porady_dla_pi",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277630,Beatyfikacja-Jana-Pawla-II-Praktyczne-porady-dla-pielgrzymow.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Praktyczne porady dla pielgrzymów",
+      "char_count": 5841
+    },
+    {
+      "article_id": "infor_0332_beatyfikacja_jana_pawa_ii_porady_dla_zwiedzajacych",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277906,Beatyfikacja-Jana-Pawla-II-Porady-dla-zwiedzajacych-Padwe-i-Wenecje.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Porady dla zwiedzających Padwę i Wenecję",
+      "char_count": 2245
+    },
+    {
+      "article_id": "infor_0333_beatyfikacja_jana_pawa_ii_o_czym_powinni_wiedziec_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277918,Beatyfikacja-Jana-Pawla-II-O-czym-powinni-wiedziec-kierowcy.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: O czym powinni wiedzieć kierowcy?",
+      "char_count": 1571
+    },
+    {
+      "article_id": "infor_0334_pracownicy_linii_lotniczych_protestuja_czy_masz_sz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/2779628,Pracownicy-linii-lotniczych-protestuja-czy-masz-szanse-na-odszkodowanie.html",
+      "status": 200,
+      "title": "Pracownicy linii lotniczych protestują - czy masz szansę na odszkodowanie?",
+      "char_count": 3712
+    },
+    {
+      "article_id": "infor_0335_beatyfikacja_jana_pawa_ii_opieka_zdrowotna_we_wosz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277988,Beatyfikacja-Jana-Pawla-II-Opieka-zdrowotna-we-Wloszech.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Opieka zdrowotna we Włoszech",
+      "char_count": 2302
+    },
+    {
+      "article_id": "infor_0336_beatyfikacja_jana_pawa_ii_harmonogram_uroczystosci",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277990,Beatyfikacja-Jana-Pawla-II-Harmonogram-uroczystosci.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Harmonogram uroczystości",
+      "char_count": 1554
+    },
+    {
+      "article_id": "infor_0337_beatyfikacja_jana_pawa_ii_gdzie_znalezc_miasteczka",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277992,Beatyfikacja-Jana-Pawla-II-Gdzie-znalezc-miasteczka-namiotowe-dla-pielgrzymow.html",
+      "status": 200,
+      "title": "Beatyfikacja Jana Pawła II: Gdzie znaleźć miasteczka namiotowe dla pielgrzymów?",
+      "char_count": 1829
+    },
+    {
+      "article_id": "infor_0338_beatyfikacja_rzymskie_koscioy_i_muzea_beda_otwarte",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/277996,Beatyfikacja-rzymskie-koscioly-i-muzea-beda-otwarte-takze-w-nocy.html",
+      "status": 200,
+      "title": "Beatyfikacja: rzymskie kościoły i muzea będą otwarte także w nocy",
+      "char_count": 2097
+    },
+    {
+      "article_id": "infor_0339_czym_sa_wirtulane_kradzieze",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/279041,Czym-sa-wirtulane-kradzieze.html",
+      "status": 200,
+      "title": "Czym są wirtulane kradzieże?",
+      "char_count": 2694
+    },
+    {
+      "article_id": "infor_0340_rzecznik_praw_pasazerow_i_wiele_innych_zmiany_w_pr",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/2795106,Rzecznik-Praw-Pasazerow-i-wiele-innych-zmiany-w-Prawie-Lotnicznym.html",
+      "status": 200,
+      "title": "Rzecznik Praw Pasażerów i wiele innych - zmiany w Prawie Lotnicznym",
+      "char_count": 3541
+    },
+    {
+      "article_id": "infor_0341_reklamacja_wycieczki_last_minute",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/283070,Reklamacja-wycieczki-last-minute.html",
+      "status": 200,
+      "title": "Reklamacja wycieczki last minute",
+      "char_count": 2567
+    },
+    {
+      "article_id": "infor_0342_biuro_podrozy_nie_moze_ograniczac_swojej_odpowiedz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/283073,Biuro-podrozy-nie-moze-ograniczac-swojej-odpowiedzialnosci.html",
+      "status": 200,
+      "title": "Biuro podróży nie może ograniczać swojej odpowiedzialności",
+      "char_count": 2843
+    },
+    {
+      "article_id": "infor_0343_czy_biuro_podrozy_odpowiada_takze_za_inne_podmioty",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/283076,Czy-biuro-podrozy-odpowiada-takze-za-inne-podmioty.html",
+      "status": 200,
+      "title": "Czy biuro podróży odpowiada także za inne podmioty?",
+      "char_count": 2716
+    },
+    {
+      "article_id": "infor_0344_nieudana_wycieczka_czego_domagac_sie_od_biura_podr",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/283080,Nieudana-wycieczka-czego-domagac-sie-od-biura-podrozy.html",
+      "status": 200,
+      "title": "Nieudana wycieczka: czego domagać się od biura podróży?",
+      "char_count": 2887
+    },
+    {
+      "article_id": "infor_0345_odszkodowanie_za_zmarnowany_urlop_jak_je_uzyskac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/283151,Odszkodowanie-za-zmarnowany-urlop-Jak-je-uzyskac.html",
+      "status": 200,
+      "title": "Odszkodowanie za zmarnowany urlop. Jak je uzyskać?",
+      "char_count": 3149
+    },
+    {
+      "article_id": "infor_0346_co_warto_wiedziec_zanim_wykupimy_wycieczke",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/283509,Co-warto-wiedziec-zanim-wykupimy-wycieczke.html",
+      "status": 200,
+      "title": "Co warto wiedzieć zanim wykupimy wycieczkę",
+      "char_count": 4975
+    },
+    {
+      "article_id": "infor_0347_vademecum_prawa_turysty",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/284298,Vademecum-Prawa-turysty.html",
+      "status": 200,
+      "title": "Vademecum: Prawa turysty",
+      "char_count": 2712
+    },
+    {
+      "article_id": "infor_0348_czy_reklama_wiaze_biuro_podrozy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/284986,Czy-reklama-wiaze-biuro-podrozy.html",
+      "status": 200,
+      "title": "Czy reklama wiąże biuro podróży?",
+      "char_count": 3368
+    },
+    {
+      "article_id": "infor_0349_podroz_samolotem_poradnik_pasazera",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/286975,Podroz-samolotem-poradnik-pasazera.html",
+      "status": 200,
+      "title": "Podróż samolotem – poradnik pasażera",
+      "char_count": 7443
+    },
+    {
+      "article_id": "infor_0350_wypozyczanie_auta_za_granica_co_warto_wiedziec",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/288966,Wypozyczanie-auta-za-granica-co-warto-wiedziec.html",
+      "status": 200,
+      "title": "Wypożyczanie auta za granicą - co warto wiedzieć?",
+      "char_count": 3790
+    },
+    {
+      "article_id": "infor_0351_reklamacja_usugi_turystycznej_wzor_pisma",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/293223,Reklamacja-uslugi-turystycznej-WZOR-PISMA.html",
+      "status": 200,
+      "title": "Reklamacja usługi turystycznej - WZÓR PISMA",
+      "char_count": 2321
+    },
+    {
+      "article_id": "infor_0352_jazda_bez_biletu_w_komunikacji_miejskiej_opaty_upr",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/2938662,Jazda-bez-biletu-w-komunikacji-miejskiej-oplaty-uprawnienia-kontrolerow.html",
+      "status": 200,
+      "title": "Jazda bez biletu w komunikacji miejskiej - opłaty, uprawnienia kontrolerów",
+      "char_count": 6125
+    },
+    {
+      "article_id": "infor_0353_pamietaj_o_tym_wykupujac_impreze_sylwestrowa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/298338,Pamietaj-o-tym-wykupujac-impreze-sylwestrowa.html",
+      "status": 200,
+      "title": "Pamiętaj o tym wykupując imprezę sylwestrową",
+      "char_count": 2982
+    },
+    {
+      "article_id": "infor_0354_jak_biura_amia_prawa_turystow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/298442,Jak-biura-lamia-prawa-turystow.html",
+      "status": 200,
+      "title": "Jak biura łamią prawa turystów?",
+      "char_count": 3149
+    },
+    {
+      "article_id": "infor_0355_bezpieczna_podroz_autokarem_o_czym_warto_pamietac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/2990077,Bezpieczna-podroz-autokarem-o-czym-warto-pamietac.html",
+      "status": 200,
+      "title": "Bezpieczna podróż autokarem - o czym warto pamiętać?",
+      "char_count": 7678
+    },
+    {
+      "article_id": "infor_0356_o_czym_powinienes_pamietac_bedac_na_stoku",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/299623,O-czym-powinienes-pamietac-bedac-na-stoku.html",
+      "status": 200,
+      "title": "O czym powinieneś pamiętać będąc na stoku",
+      "char_count": 3404
+    },
+    {
+      "article_id": "infor_0357_umowa_o_udzia_w_imprezie_turystycznej_co_powinna_z",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3009444,Umowa-o-udzial-w-imprezie-turystycznej-co-powinna-zawierac.html",
+      "status": 200,
+      "title": "Umowa o udział w imprezie turystycznej - co powinna zawierać?",
+      "char_count": 6428
+    },
+    {
+      "article_id": "infor_0358_problemy_z_linia_lotnicza_co_robic",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3009509,Problemy-z-linia-lotnicza-co-robic.html",
+      "status": 200,
+      "title": "Problemy z linią lotniczą - co robić?",
+      "char_count": 4805
+    },
+    {
+      "article_id": "infor_0359_prawa_pasazera_w_przypadku_opoznionego_albo_odwoan",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3011539,Prawa-pasazera-w-przypadku-opoznionego-albo-odwolanego-lotu.html",
+      "status": 200,
+      "title": "Prawa pasażera w przypadku opóźnionego albo odwołanego lotu",
+      "char_count": 8503
+    },
+    {
+      "article_id": "infor_0360_przewoz_zwierzat_za_granice_zmiany_od_2012_roku",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/304734,Przewoz-zwierzat-za-granice-zmiany-od-2012-roku.html",
+      "status": 200,
+      "title": "Przewóz zwierząt za granicę - zmiany od 2012 roku",
+      "char_count": 6199
+    },
+    {
+      "article_id": "infor_0361_zakup_biletow_lotniczych_bezposrednio_czy_na_stron",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3048521,Zakup-biletow-lotniczych-bezposrednio-czy-na-stronie-posrednika.html",
+      "status": 200,
+      "title": "Zakup biletow lotniczych - bezpośrednio czy na stronie pośrednika?",
+      "char_count": 3882
+    },
+    {
+      "article_id": "infor_0362_uokik_podpowiada_jak_podrozowac_na_euro_2012",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/306092,UOKiK-podpowiada-jak-podrozowac-na-EURO-2012.html",
+      "status": 200,
+      "title": "UOKiK podpowiada jak podróżować na EURO 2012",
+      "char_count": 4789
+    },
+    {
+      "article_id": "infor_0363_podwyzszenie_ceny_wycieczki_co_robic",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/306254,Podwyzszenie-ceny-wycieczki-co-robic.html",
+      "status": 200,
+      "title": "Podwyższenie ceny wycieczki - co robić?",
       "char_count": 2637
     },
     {
-      "article_id": "infor_0075_zaginiona_przesyka_co_robic",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/784870,Zaginiona-przesylka-co-robic.html",
+      "article_id": "infor_0364_prawa_turysty_za_granica",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/307971,Prawa-turysty-za-granica.html",
       "status": 200,
-      "title": "Zaginiona przesyłka – co robić?",
-      "char_count": 5260
+      "title": "Prawa turysty za granicą",
+      "char_count": 5925
     },
     {
-      "article_id": "infor_0076_czy_mozna_reklamowac_artykuy_zywnosciowe",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/84572,Czy-mozna-reklamowac-artykuly-zywnosciowe.html",
+      "article_id": "infor_0365_reklamacja_do_biura_podrozy_za_nieudane_wakacje",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/308439,Reklamacja-do-biura-podrozy-za-nieudane-wakacje.html",
       "status": 200,
-      "title": "Czy można reklamować artykuły żywnościowe",
-      "char_count": 1810
+      "title": "Reklamacja do biura podróży za nieudane wakacje",
+      "char_count": 2364
     },
     {
-      "article_id": "infor_0077_reklamacja_u_sprzedawcy",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/84597,Reklamacja-u-sprzedawcy.html",
+      "article_id": "infor_0366_reklamacja_wycieczki_jako_rodzaju_imprezy_turystyc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/310287,Reklamacja-wycieczki-jako-rodzaju-imprezy-turystycznej.html",
       "status": 200,
-      "title": "Reklamacja u sprzedawcy",
-      "char_count": 1454
+      "title": "Reklamacja wycieczki jako rodzaju imprezy turystycznej",
+      "char_count": 5162
     },
     {
-      "article_id": "infor_0078_czy_brak_odpowiedzi_oznacza_uznanie_reklamacji",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/84609,Czy-brak-odpowiedzi-oznacza-uznanie-reklamacji.html",
+      "article_id": "infor_0367_za_opozniony_lot_mozna_uzyskac_odszkodowanie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/311817,Za-opozniony-lot-mozna-uzyskac-odszkodowanie.html",
       "status": 200,
-      "title": "Czy brak odpowiedzi oznacza uznanie reklamacji",
-      "char_count": 1204
+      "title": "Za opóźniony lot można uzyskać odszkodowanie",
+      "char_count": 5264
     },
     {
-      "article_id": "infor_0079_jakie_obowiazki_ma_przedsiebiorstwo_energetyczne",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86129,Jakie-obowiazki-ma-przedsiebiorstwo-energetyczne.html",
+      "article_id": "infor_0368_reklamacja_nieudanej_wycieczki",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/315088,Reklamacja-nieudanej-wycieczki.html",
       "status": 200,
-      "title": "Jakie obowiązki ma przedsiębiorstwo energetyczne",
-      "char_count": 6753
+      "title": "Reklamacja nieudanej wycieczki",
+      "char_count": 6663
     },
     {
-      "article_id": "infor_0080_towar_promocyjny_tez_mozna_reklamowac",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86187,Towar-promocyjny-tez-mozna-reklamowac.html",
+      "article_id": "infor_0369_jak_kupic_uzywany_samochod_z_niemiec",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/317628,Jak-kupic-uzywany-samochod-z-Niemiec.html",
       "status": 200,
-      "title": "Towar promocyjny też można reklamować",
-      "char_count": 2782
+      "title": "Jak kupić używany samochód z Niemiec?",
+      "char_count": 7181
     },
     {
-      "article_id": "infor_0081_gdzie_szukac_pomocy",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86215,Gdzie-szukac-pomocy.html",
+      "article_id": "infor_0370_prawa_podrozujacych_pociagiem_i_samolotem_poradnik",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/317985,Prawa-podrozujacych-pociagiem-i-samolotem-poradnik-na-majowke.html",
       "status": 200,
-      "title": "Gdzie szukać pomocy?",
-      "char_count": 3479
+      "title": "Prawa podróżujących pociągiem i samolotem - poradnik na majówkę",
+      "char_count": 6647
     },
     {
-      "article_id": "infor_0082_najczestsze_problemy_na_rynku_energii",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86221,Najczestsze-problemy-na-rynku-energii.html",
+      "article_id": "infor_0371_prawa_turysty_umowy_z_biurami_podrozy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/318337,Prawa-turysty-umowy-z-biurami-podrozy.html",
       "status": 200,
-      "title": "Najczęstsze problemy na rynku energii",
-      "char_count": 7906
+      "title": "Prawa turysty: umowy z biurami podróży",
+      "char_count": 4641
     },
     {
-      "article_id": "infor_0083_rynek_telekomunikacyjny",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86239,Rynek-telekomunikacyjny.html",
+      "article_id": "infor_0372_odpowiedzialnosc_za_zdarzenia_losowe_biur_turystyc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/319484,Odpowiedzialnosc-za-zdarzenia-losowe-biur-turystycznych.html",
       "status": 200,
-      "title": "Rynek telekomunikacyjny",
-      "char_count": 11997
+      "title": "Odpowiedzialność za zdarzenia losowe biur turystycznych",
+      "char_count": 2052
     },
     {
-      "article_id": "infor_0084_czy_do_reklamacji_trzeba_zaaczyc_uszkodzone_opakow",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86785,Czy-do-reklamacji-trzeba-zalaczyc-uszkodzone-opakowanie.html",
+      "article_id": "infor_0373_wakacje_2013_przewozenie_domowych_pupili_przez_gra",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/320224,Wakacje-2013-przewozenie-domowych-pupili-przez-granice.html",
       "status": 200,
-      "title": "Czy do reklamacji trzeba załączyć uszkodzone opakowanie",
-      "char_count": 1153
+      "title": "Wakacje 2013 - przewożenie domowych pupili przez granicę",
+      "char_count": 2640
     },
     {
-      "article_id": "infor_0085_do_kogo_po_ekspertyze",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86851,Do-kogo-po-ekspertyze.html",
+      "article_id": "infor_0374_urlop_w_europie_pytania_odpowiedzi",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/320416,Urlop-w-Europie-pytania-odpowiedzi.html",
       "status": 200,
-      "title": "Do kogo po ekspertyzę",
-      "char_count": 1784
+      "title": "Urlop w Europie - pytania, odpowiedzi",
+      "char_count": 9759
     },
     {
-      "article_id": "infor_0086_gdzie_zozyc_reklamacje_jezeli_producent_juz_nie_is",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86857,Gdzie-zlozyc-reklamacje-jezeli-producent-juz-nie-istnieje.html",
+      "article_id": "infor_0375_zmiana_ceny_wycieczki_po_jej_zakupie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/320469,Zmiana-ceny-wycieczki-po-jej-zakupie.html",
       "status": 200,
-      "title": "Gdzie złożyć reklamacje jeżeli producent już nie istnieje",
-      "char_count": 1239
+      "title": "Zmiana ceny wycieczki po jej zakupie",
+      "char_count": 2717
     },
     {
-      "article_id": "infor_0087_przemyslane_zakupy",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/87120,Przemyslane-zakupy.html",
+      "article_id": "infor_0376_zagubienie_bagazu_o_znacznej_wartosci_przez_przewo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/320650,Zagubienie-bagazu-o-znacznej-wartosci-przez-przewoznika-lotniczego.html",
       "status": 200,
-      "title": "Przemyślane zakupy",
-      "char_count": 2779
+      "title": "Zagubienie bagażu o znacznej wartości przez przewoźnika lotniczego",
+      "char_count": 2903
     },
     {
-      "article_id": "infor_0088_co_i_jak_reklamujemy",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/88167,Co-i-jak-reklamujemy.html",
+      "article_id": "infor_0377_jak_uzyskac_odszkodowanie_za_zniszczony_bagaz_podc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/320654,Jak-uzyskac-odszkodowanie-za-zniszczony-bagaz-podczas-lotu.html",
       "status": 200,
-      "title": "Co i jak reklamujemy",
-      "char_count": 6762
+      "title": "Jak uzyskać odszkodowanie za zniszczony bagaż podczas lotu?",
+      "char_count": 4493
     },
     {
-      "article_id": "infor_0089_najczestsze_problemy_przy_korzystaniu_z_uprawnien_",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/88325,Najczestsze-problemy-przy-korzystaniu-z-uprawnien-gwarancyjnych.html",
+      "article_id": "infor_0378_reklamacja_wycieczki_turystycznej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/320677,Reklamacja-wycieczki-turystycznej.html",
       "status": 200,
-      "title": "Najczęstsze problemy przy korzystaniu z uprawnień gwarancyjnych",
-      "char_count": 2726
+      "title": "Reklamacja wycieczki turystycznej",
+      "char_count": 3556
     },
     {
-      "article_id": "infor_0090_atwiejsze_reklamacje_w_sklepach_internetowych",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/89299,Latwiejsze-reklamacje-w-sklepach-internetowych.html",
+      "article_id": "infor_0379_jak_wybrac_miejsce_na_nocleg_samodzielnie_organizu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/320898,Jak-wybrac-miejsce-na-nocleg-samodzielnie-organizujac-urlop.html",
       "status": 200,
-      "title": "Łatwiejsze reklamacje w sklepach internetowych",
-      "char_count": 2582
+      "title": "Jak wybrać miejsce na nocleg samodzielnie organizując urlop",
+      "char_count": 3776
     },
     {
-      "article_id": "infor_0091_kto_udziela_odpowiedzi_na_reklamacje",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/92991,Kto-udziela-odpowiedzi-na-reklamacje.html",
+      "article_id": "infor_0380_w_jakim_terminie_mozna_zwrocic_bilet_lotniczy_zaku",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/321072,W-jakim-terminie-mozna-zwrocic-bilet-lotniczy-zakupiony-przez-Internet.html",
       "status": 200,
-      "title": "Kto udziela odpowiedzi na reklamacje",
-      "char_count": 1223
+      "title": "W jakim terminie można zwrócić bilet lotniczy zakupiony przez Internet?",
+      "char_count": 2808
     },
     {
-      "article_id": "infor_0092_po_co_drzec_koty_czyli_kampania_na_rzecz_sadow_kon",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/93240,Po-co-drzec-koty-czyli-kampania-na-rzecz-sadow-konsumenckich.html",
+      "article_id": "infor_0381_problem_z_wakacjami",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/323044,Problem-z-wakacjami.html",
       "status": 200,
-      "title": "'Po co drzeć koty?', czyli kampania na rzecz sądów konsumenckich",
-      "char_count": 3238
+      "title": "Problem z wakacjami",
+      "char_count": 6507
     },
     {
-      "article_id": "infor_0093_usugi_gastronomiczne_sa_coraz_gorsze",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/96174,Uslugi-gastronomiczne-sa-coraz-gorsze.html",
+      "article_id": "infor_0382_co_zrobic_gdy_organizator_wycieczki_nie_dotrzymuje",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/323120,Co-zrobic-gdy-organizator-wycieczki-nie-dotrzymuje-umowy.html",
       "status": 200,
-      "title": "Usługi gastronomiczne są coraz gorsze",
-      "char_count": 2923
+      "title": "Co zrobić, gdy organizator wycieczki nie dotrzymuje umowy?",
+      "char_count": 3819
     },
     {
-      "article_id": "infor_0094_co_pijemy_czyli_wyniki_kontroli_kawy_i_herbaty",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/96365,Co-pijemy-czyli-wyniki-kontroli-kawy-i-herbaty.html",
+      "article_id": "infor_0383_o_czym_nalezy_pamietac_podczas_zimowego_urlopu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/325037,O-czym-nalezy-pamietac-podczas-zimowego-urlopu.html",
       "status": 200,
-      "title": "Co pijemy, czyli wyniki kontroli kawy i herbaty",
-      "char_count": 4631
+      "title": "O czym należy pamiętać podczas zimowego urlopu?",
+      "char_count": 5853
     },
     {
-      "article_id": "infor_0095_reklamacja_towaru",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/98022,Reklamacja-towaru.html",
+      "article_id": "infor_0384_bezprawne_zatrzymanie_dowodu_osobistego",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/325052,Bezprawne-zatrzymanie-dowodu-osobistego.html",
       "status": 200,
-      "title": "Reklamacja towaru",
-      "char_count": 4447
+      "title": "Bezprawne zatrzymanie dowodu osobistego",
+      "char_count": 4297
     },
     {
-      "article_id": "infor_0096_jak_dziaaja_placowki_pocztowe",
-      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/98529,Jak-dzialaja-placowki-pocztowe.html",
+      "article_id": "infor_0385_kto_odpowiada_za_szkode_wywoana_przewroceniem_sie_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3586351,Kto-odpowiada-za-szkode-wywolana-przewroceniem-sie-kubka-z-goracym-napojem-w-samolocie.html",
       "status": 200,
-      "title": "Jak działają placówki pocztowe",
-      "char_count": 4805
+      "title": "Kto odpowiada za szkodę wywołaną przewróceniem się kubka z gorącym napojem w samolocie",
+      "char_count": 4036
+    },
+    {
+      "article_id": "infor_0386_wypozyczanie_sprzetu_narciarskiego_a_zastaw_dowodu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3591449,Wypozyczanie-sprzetu-narciarskiego-a-zastaw-dowodu-osobistego.html",
+      "status": 200,
+      "title": "Wypożyczanie sprzętu narciarskiego a zastaw dowodu osobistego",
+      "char_count": 2725
+    },
+    {
+      "article_id": "infor_0387_koronawirus_a_rezygnacja_z_wycieczki_i_zwrot_bilet",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3621168,Koronawirus-a-rezygnacja-z-wycieczki-i-zwrot-biletu-lotniczego.html",
+      "status": 200,
+      "title": "Koronawirus a rezygnacja z wycieczki i zwrot biletu lotniczego",
+      "char_count": 2921
+    },
+    {
+      "article_id": "infor_0388_odwoanie_wycieczki_z_powodu_epidemii_koronawirusa_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3621257,Odwolanie-wycieczki-z-powodu-epidemii-koronawirusa-uprawnienia-branzy-turystycznej.html",
+      "status": 200,
+      "title": "Odwołanie wycieczki z powodu epidemii koronawirusa – uprawnienia branży turystycznej",
+      "char_count": 5102
+    },
+    {
+      "article_id": "infor_0389_odstapienie_od_umowy_o_swiadczenie_usug_turystyczn",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3626485,Odstapienie-od-umowy-o-swiadczenie-uslug-turystycznych-w-zwiazku-z-epidemia-koronawirusa.html",
+      "status": 200,
+      "title": "Odstąpienie od umowy o świadczenie usług turystycznych w związku z epidemią koronawirusa",
+      "char_count": 7792
+    },
+    {
+      "article_id": "infor_0390_wakacje_wykupione_w_biurze_podrozy_kiedy_mozna_z_n",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3630957,Wakacje-wykupione-w-biurze-podrozy-kiedy-mozna-z-nich-zrezygnowac.html",
+      "status": 200,
+      "title": "Wakacje wykupione w biurze podróży - kiedy można z nich zrezygnować?",
+      "char_count": 10209
+    },
+    {
+      "article_id": "infor_0391_odstapienie_od_umowy_o_organizacje_imprezy_turysty",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/3633652,Odstapienie-od-umowy-o-organizacje-imprezy-turystycznej-z-powodu-zagrozenia-wirusem-SARSCoV2.html",
+      "status": 200,
+      "title": "Odstąpienie od umowy o organizację imprezy turystycznej z powodu zagrożenia wirusem SARS-CoV-2",
+      "char_count": 3683
+    },
+    {
+      "article_id": "infor_0392_impreza_turystyczna_w_czasie_pandemii_rozwiazanie_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/4561420,Impreza-turystyczna-w-czasie-pandemii-rozwiazanie-umowy-zwrot-pieniedzy-voucher.html",
+      "status": 200,
+      "title": "Impreza turystyczna w czasie pandemii - rozwiązanie umowy, zwrot pieniędzy, voucher",
+      "char_count": 3092
+    },
+    {
+      "article_id": "infor_0393_bon_turystyczny_1000_plus_dla_pracownikow_etatowyc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/4578587,Bon-turystyczny-1000-plus-dla-pracownikow-etatowych.html",
+      "status": 200,
+      "title": "Bon turystyczny 1000 plus dla pracowników etatowych",
+      "char_count": 4599
+    },
+    {
+      "article_id": "infor_0394_wakacje_za_granica_w_dobie_koronawirusa_jakie_ubez",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/4607458,Wakacje-za-granica-w-dobie-koronawirusa-jakie-ubezpieczenie-turystyczne-wybrac.html",
+      "status": 200,
+      "title": "Wakacje za granicą w dobie koronawirusa - jakie ubezpieczenie turystyczne wybrać?",
+      "char_count": 6569
+    },
+    {
+      "article_id": "infor_0395_rezerwacja_biletu_lotniczego_u_posrednika_problemy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/4611479,Rezerwacja-biletu-lotniczego-u-posrednika-problemy-ze-zwrotem-pieniedzy.html",
+      "status": 200,
+      "title": "Rezerwacja biletu lotniczego u pośrednika - problemy ze zwrotem pieniędzy",
+      "char_count": 2135
+    },
+    {
+      "article_id": "infor_0396_rezygnacja_klienta_z_imprezy_turystycznej_kiedy_mo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/4636437,Rezygnacja-klienta-z-imprezy-turystycznej-kiedy-mozliwa-i-na-jakich-warunkach.html",
+      "status": 200,
+      "title": "Rezygnacja klienta z imprezy turystycznej - kiedy możliwa i na jakich warunkach?",
+      "char_count": 3560
+    },
+    {
+      "article_id": "infor_0397_towary_zakupione_za_granica_czyli_co_mozna_legalni",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/4650330,Towary-zakupione-za-granica-czyli-co-mozna-legalnie-przywiezc-z-wakacji.html",
+      "status": 200,
+      "title": "Towary zakupione za granicą - czyli co można legalnie przywieźć z wakacji?",
+      "char_count": 2479
+    },
+    {
+      "article_id": "infor_0398_podroze_po_europie_w_czasie_pandemii_gdzie_szukac_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/4655190,Podroze-po-Europie-w-czasie-pandemii-gdzie-szukac-informacji.html",
+      "status": 200,
+      "title": "Podróże po Europie w czasie pandemii - gdzie szukać informacji?",
+      "char_count": 3171
+    },
+    {
+      "article_id": "infor_0399_brexit_w_piguce_jakie_zmiany_dla_konsumentow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/5173154,Brexit-w-pigulce-jakie-zmiany-dla-konsumentow.html",
+      "status": 200,
+      "title": "Brexit w pigułce – jakie zmiany dla konsumentów?",
+      "char_count": 4718
+    },
+    {
+      "article_id": "infor_0400_na_co_skarzyli_sie_konsumenci_w_2020_roku",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/konsument-turystyka/5215312,Na-co-skarzyli-sie-konsumenci-w-2020-roku.html",
+      "status": 200,
+      "title": "Na co skarżyli się konsumenci w 2020 roku?",
+      "char_count": 3069
     }
   ]
 }

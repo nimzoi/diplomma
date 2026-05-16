@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00485",
+  "source_url": "https://forumprawne.org/watek/gwarancja-producenta.873849/",
+  "fetch_url": "https://forumprawne.org/watek/gwarancja-producenta.873849/",
+  "archive_file": "forumprawne/forumprawne_00485.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 82438,
+  "sha256": "23ee50df24ce306a413f71636ab269398efd8ad5e505bf586935c1cd98e0d1ee",
+  "download_date": "2026-05-16T07:50:43Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

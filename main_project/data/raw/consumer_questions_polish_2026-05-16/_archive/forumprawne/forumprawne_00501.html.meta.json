@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00501",
+  "source_url": "https://forumprawne.org/watek/odmowa-naprawy-bez-podania-przyczyny.873456/",
+  "fetch_url": "https://forumprawne.org/watek/odmowa-naprawy-bez-podania-przyczyny.873456/",
+  "archive_file": "forumprawne/forumprawne_00501.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 86080,
+  "sha256": "37eb8043cc28eaaba6a80ca7d9dd5c692508a57bd52b989299e7ae665daa605c",
+  "download_date": "2026-05-16T07:51:01Z",
+  "duration_sec": 0.15,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

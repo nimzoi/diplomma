@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00899",
+  "source_url": "https://forumprawne.org/watek/zakupy-internetowe-reklamacja.861408/",
+  "fetch_url": "https://forumprawne.org/watek/zakupy-internetowe-reklamacja.861408/",
+  "archive_file": "forumprawne/forumprawne_00899.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69901,
+  "sha256": "87f5f28debb04a0222ddd13a3cd08dff00da6c8c148556836a4280e4b5b635c0",
+  "download_date": "2026-05-16T07:58:30Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

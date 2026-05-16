@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00879",
+  "source_url": "https://forumprawne.org/watek/zaginiona-przesylka-reklamacja.866162/",
+  "fetch_url": "https://forumprawne.org/watek/zaginiona-przesylka-reklamacja.866162/",
+  "archive_file": "forumprawne/forumprawne_00879.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54382,
+  "sha256": "bd563c1373c35f88c3b8719ea16eda64552d7654115c2cb74ef2b2e8123a2968",
+  "download_date": "2026-05-16T07:58:07Z",
+  "duration_sec": 0.177,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

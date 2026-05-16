@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01036",
+  "source_url": "https://forumprawne.org/watek/udowadnianie-wady-przy-rekojmie.862407/",
+  "fetch_url": "https://forumprawne.org/watek/udowadnianie-wady-przy-rekojmie.862407/",
+  "archive_file": "forumprawne/forumprawne_01036.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55638,
+  "sha256": "fb51ef83af77306b494b5e3cf311c7357cc8aca01eed716b25a9ce8f7968f801",
+  "download_date": "2026-05-16T08:01:04Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

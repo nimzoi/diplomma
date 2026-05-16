@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00251",
+  "source_url": "https://forumprawne.org/watek/rzekomy-blad-cenowy-w-aukcji-internetowej.879303/",
+  "fetch_url": "https://forumprawne.org/watek/rzekomy-blad-cenowy-w-aukcji-internetowej.879303/",
+  "archive_file": "forumprawne/forumprawne_00251.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62829,
+  "sha256": "1c3af65fc689b27250d24a7b1d2d4b73cccfaf2919f2c537b1996566bd421b9b",
+  "download_date": "2026-05-16T07:46:18Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

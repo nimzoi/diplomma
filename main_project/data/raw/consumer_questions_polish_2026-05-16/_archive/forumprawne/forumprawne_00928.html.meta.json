@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00928",
+  "source_url": "https://forumprawne.org/watek/zlosliwy-kierowca-busa.865211/",
+  "fetch_url": "https://forumprawne.org/watek/zlosliwy-kierowca-busa.865211/",
+  "archive_file": "forumprawne/forumprawne_00928.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58646,
+  "sha256": "4e17b2d3eb433d6bcc3081d4a126443201e6dad4d34b78ba86314c52ed653e03",
+  "download_date": "2026-05-16T07:59:02Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

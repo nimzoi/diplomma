@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00997",
+  "source_url": "https://forumprawne.org/watek/niezgodnosc-z-zamowieniem.863341/",
+  "fetch_url": "https://forumprawne.org/watek/niezgodnosc-z-zamowieniem.863341/",
+  "archive_file": "forumprawne/forumprawne_00997.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60644,
+  "sha256": "f883995c158968cbe2d2671b7051a1ac5cd2dad89eee70523774ca1368b8e8f0",
+  "download_date": "2026-05-16T08:00:20Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

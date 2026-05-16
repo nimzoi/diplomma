@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00808",
+  "source_url": "https://forumprawne.org/watek/zawyzona-cena-produktu-przez-lombard.867421/",
+  "fetch_url": "https://forumprawne.org/watek/zawyzona-cena-produktu-przez-lombard.867421/",
+  "archive_file": "forumprawne/forumprawne_00808.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69461,
+  "sha256": "5e02840698ae755d750e5ec9ac401f0eed607807073a19e7abe59b1e129c7833",
+  "download_date": "2026-05-16T07:56:46Z",
+  "duration_sec": 0.104,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

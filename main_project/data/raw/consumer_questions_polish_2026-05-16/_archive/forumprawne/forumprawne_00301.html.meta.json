@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00301",
+  "source_url": "https://forumprawne.org/watek/ile-dnia-na-naprawe-po-uznaniu-reklamcjii.878094/",
+  "fetch_url": "https://forumprawne.org/watek/ile-dnia-na-naprawe-po-uznaniu-reklamcjii.878094/",
+  "archive_file": "forumprawne/forumprawne_00301.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 81304,
+  "sha256": "d7c4f7ad9381cc6fc0e18c00e5622ae969458cd57da757cfcd22c3692c5ae1ff",
+  "download_date": "2026-05-16T07:47:15Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

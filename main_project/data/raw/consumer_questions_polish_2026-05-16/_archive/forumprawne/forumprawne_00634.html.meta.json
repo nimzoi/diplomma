@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00634",
+  "source_url": "https://forumprawne.org/watek/wynajem-pojazdu-przez-osobe-prywatna.870460/",
+  "fetch_url": "https://forumprawne.org/watek/wynajem-pojazdu-przez-osobe-prywatna.870460/",
+  "archive_file": "forumprawne/forumprawne_00634.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58749,
+  "sha256": "14a8804afd9e343f239f1932fef093c0911eaee979475bcee34ab587df14cdb5",
+  "download_date": "2026-05-16T07:53:30Z",
+  "duration_sec": 0.168,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

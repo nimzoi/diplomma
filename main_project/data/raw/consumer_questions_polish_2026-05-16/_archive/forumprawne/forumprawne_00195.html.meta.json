@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00195",
+  "source_url": "https://forumprawne.org/watek/wady-ukryte-samochodu.880575/",
+  "fetch_url": "https://forumprawne.org/watek/wady-ukryte-samochodu.880575/",
+  "archive_file": "forumprawne/forumprawne_00195.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 67130,
+  "sha256": "3f677104ccf9fe64ba7de07debca05eda146f2ff7ae66c66763daa16efbf365d",
+  "download_date": "2026-05-16T07:45:15Z",
+  "duration_sec": 0.24,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

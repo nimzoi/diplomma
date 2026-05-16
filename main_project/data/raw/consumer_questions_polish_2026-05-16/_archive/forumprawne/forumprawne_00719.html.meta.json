@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00719",
+  "source_url": "https://forumprawne.org/watek/odmowa-przyjecia-zwrotu.868666/",
+  "fetch_url": "https://forumprawne.org/watek/odmowa-przyjecia-zwrotu.868666/",
+  "archive_file": "forumprawne/forumprawne_00719.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 81822,
+  "sha256": "fd4a197bb2b91d3f289f1e955dcff791fe7d42ff210dd7c3af8695edd572a409",
+  "download_date": "2026-05-16T07:55:06Z",
+  "duration_sec": 0.097,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

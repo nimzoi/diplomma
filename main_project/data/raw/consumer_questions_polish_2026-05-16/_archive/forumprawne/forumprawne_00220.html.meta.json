@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00220",
+  "source_url": "https://forumprawne.org/watek/wypowiedzenie-umowy-na-telewizje-i-internet.880001/",
+  "fetch_url": "https://forumprawne.org/watek/wypowiedzenie-umowy-na-telewizje-i-internet.880001/",
+  "archive_file": "forumprawne/forumprawne_00220.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 86635,
+  "sha256": "9e1728db7a8238e8f3e6af0be0c1cc4288d1b849cccc4c5435f2c4c7a67fa344",
+  "download_date": "2026-05-16T07:45:43Z",
+  "duration_sec": 0.087,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

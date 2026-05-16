@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00921",
+  "source_url": "https://forumprawne.org/watek/rekojmia-przy-sprzedazy-motocykla.865324/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-przy-sprzedazy-motocykla.865324/",
+  "archive_file": "forumprawne/forumprawne_00921.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56362,
+  "sha256": "9359623da0843174aed9f0a73ff4671859edb9efae3ce94ff713f9ec9931961e",
+  "download_date": "2026-05-16T07:58:54Z",
+  "duration_sec": 0.217,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

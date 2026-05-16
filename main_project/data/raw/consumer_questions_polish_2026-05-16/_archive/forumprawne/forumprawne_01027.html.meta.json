@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01027",
+  "source_url": "https://forumprawne.org/watek/wada-istotna.862602/",
+  "fetch_url": "https://forumprawne.org/watek/wada-istotna.862602/",
+  "archive_file": "forumprawne/forumprawne_01027.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72450,
+  "sha256": "3b4e442a741e8715e555d04f8a4a54ea1599fab1283ce097cbfad36c4d27fdd9",
+  "download_date": "2026-05-16T08:00:54Z",
+  "duration_sec": 0.091,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

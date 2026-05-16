@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00210",
+  "source_url": "https://forumprawne.org/watek/deklaracje-producenta-a-gwarancja.880070/",
+  "fetch_url": "https://forumprawne.org/watek/deklaracje-producenta-a-gwarancja.880070/",
+  "archive_file": "forumprawne/forumprawne_00210.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 74743,
+  "sha256": "0dc39bed0ba56d63339fe8a7de7e6a975cd24b8f124bb47db3a4129736ed5fbd",
+  "download_date": "2026-05-16T07:45:32Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00918",
+  "source_url": "https://forumprawne.org/watek/odmowa-naprawy-gwarancyjnej.865412/",
+  "fetch_url": "https://forumprawne.org/watek/odmowa-naprawy-gwarancyjnej.865412/",
+  "archive_file": "forumprawne/forumprawne_00918.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52613,
+  "sha256": "070e9379010c54aaf8df0d35b1b7269818e944517db5370b017d909e5475dfe2",
+  "download_date": "2026-05-16T07:58:51Z",
+  "duration_sec": 0.23,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

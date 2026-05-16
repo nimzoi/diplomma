@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00125",
+  "source_url": "https://forumprawne.org/watek/zly-montaz-okien.249243/",
+  "fetch_url": "https://forumprawne.org/watek/zly-montaz-okien.249243/",
+  "archive_file": "forumprawne/forumprawne_00125.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 101014,
+  "sha256": "636cb1efb7f4974d04d84cd0158bf7454085f5c77eec0670dde59b381f46b517",
+  "download_date": "2026-05-16T07:43:56Z",
+  "duration_sec": 0.248,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

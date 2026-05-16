@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00543",
+  "source_url": "https://forumprawne.org/watek/reklamacja-outletowego-przedmiotu.872311/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-outletowego-przedmiotu.872311/",
+  "archive_file": "forumprawne/forumprawne_00543.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 91283,
+  "sha256": "74b8da12da617703121c4899cc2a8ba1071d73850ad035fe7e1867db56754fa7",
+  "download_date": "2026-05-16T07:51:47Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

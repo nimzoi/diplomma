@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00952",
+  "source_url": "https://forumprawne.org/watek/niesolidny-wykonawca-instytucja-potracenia.864184/",
+  "fetch_url": "https://forumprawne.org/watek/niesolidny-wykonawca-instytucja-potracenia.864184/",
+  "archive_file": "forumprawne/forumprawne_00952.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 79354,
+  "sha256": "7eb65d2344c33bea29f3463bbf891629ee397c82d3a3d726a271d8ff2091f393",
+  "download_date": "2026-05-16T07:59:29Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

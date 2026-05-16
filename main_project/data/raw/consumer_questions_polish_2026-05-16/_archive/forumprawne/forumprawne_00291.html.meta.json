@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00291",
+  "source_url": "https://forumprawne.org/watek/przesylka-zostawiona-u-sasiada.878428/",
+  "fetch_url": "https://forumprawne.org/watek/przesylka-zostawiona-u-sasiada.878428/",
+  "archive_file": "forumprawne/forumprawne_00291.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60123,
+  "sha256": "ac76f971216a2dcfb24b2b98716e6d25dea08ab6d9c5b3145fe2d5d6294707b1",
+  "download_date": "2026-05-16T07:47:03Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

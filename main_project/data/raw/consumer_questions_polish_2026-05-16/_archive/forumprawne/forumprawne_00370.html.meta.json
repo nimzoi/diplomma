@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00370",
+  "source_url": "https://forumprawne.org/watek/reklamacja-robota.876591/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-robota.876591/",
+  "archive_file": "forumprawne/forumprawne_00370.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55769,
+  "sha256": "95aea6a25bde805743f5e4d8d3665d289a89a5b64ff0e33f9d1bd9f0145118b5",
+  "download_date": "2026-05-16T07:48:33Z",
+  "duration_sec": 0.11,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

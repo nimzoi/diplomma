@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00218",
+  "source_url": "https://forumprawne.org/watek/zwrot-przedplaty.880020/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-przedplaty.880020/",
+  "archive_file": "forumprawne/forumprawne_00218.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58643,
+  "sha256": "61448f1a8e44c6abeb3a430517a835fe1f445e3856dd2ccc4e8e4fef1c99481e",
+  "download_date": "2026-05-16T07:45:41Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

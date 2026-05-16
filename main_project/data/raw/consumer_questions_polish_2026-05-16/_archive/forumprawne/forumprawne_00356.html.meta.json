@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00356",
+  "source_url": "https://forumprawne.org/watek/zwrot-produktu-medycznego-z-tytulu-rekojmi.876973/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-produktu-medycznego-z-tytulu-rekojmi.876973/",
+  "archive_file": "forumprawne/forumprawne_00356.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53381,
+  "sha256": "001e934566c79b3bf462c46dfdc1ae17fc6bdfe83c72057dc8f6a9fe20016788",
+  "download_date": "2026-05-16T07:48:17Z",
+  "duration_sec": 0.087,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

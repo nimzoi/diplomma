@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01020",
+  "source_url": "https://forumprawne.org/watek/wymiana-na-gwarancji-glownego-elementu.862683/",
+  "fetch_url": "https://forumprawne.org/watek/wymiana-na-gwarancji-glownego-elementu.862683/",
+  "archive_file": "forumprawne/forumprawne_01020.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59621,
+  "sha256": "1525cebcad872752c90cd9025587e952f1e634b779e6af29ee3b908abffe84be",
+  "download_date": "2026-05-16T08:00:46Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

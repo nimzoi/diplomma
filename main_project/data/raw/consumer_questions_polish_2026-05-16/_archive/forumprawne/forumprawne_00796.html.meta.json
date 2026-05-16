@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00796",
+  "source_url": "https://forumprawne.org/watek/faktura-po-latach-od-zdarzenia.867595/",
+  "fetch_url": "https://forumprawne.org/watek/faktura-po-latach-od-zdarzenia.867595/",
+  "archive_file": "forumprawne/forumprawne_00796.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 78672,
+  "sha256": "62b5c7b42b81f97eb1544579757ed85f180edafec0fcdf8e44fcb1240ce473f9",
+  "download_date": "2026-05-16T07:56:33Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

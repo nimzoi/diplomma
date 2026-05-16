@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00140",
+  "source_url": "https://forumprawne.org/watek/prosze-usunac.881852/",
+  "fetch_url": "https://forumprawne.org/watek/prosze-usunac.881852/",
+  "archive_file": "forumprawne/forumprawne_00140.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 51503,
+  "sha256": "af4799c7803bbd370221f61cdf4b9cf42210ddbc820664afd0bb3cd9a9e6bcf7",
+  "download_date": "2026-05-16T07:44:13Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

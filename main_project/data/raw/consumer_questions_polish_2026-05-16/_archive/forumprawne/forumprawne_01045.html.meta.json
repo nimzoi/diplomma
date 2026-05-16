@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01045",
+  "source_url": "https://forumprawne.org/watek/inny-towar-niz-zamawialem.862180/",
+  "fetch_url": "https://forumprawne.org/watek/inny-towar-niz-zamawialem.862180/",
+  "archive_file": "forumprawne/forumprawne_01045.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 67328,
+  "sha256": "2fb393ae3cfe919ebdfbfa0d695fae89b9123b1e33a5180a5a7cb9fc93f29b4f",
+  "download_date": "2026-05-16T08:01:15Z",
+  "duration_sec": 0.173,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

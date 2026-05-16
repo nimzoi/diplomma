@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00518",
+  "source_url": "https://forumprawne.org/watek/rekojmia-na-auto-z-wymienionym-silnikiem.873068/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-na-auto-z-wymienionym-silnikiem.873068/",
+  "archive_file": "forumprawne/forumprawne_00518.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64709,
+  "sha256": "4d7cfa9d014db939d3826ebd32de749ba7fded7ce5c41234ff9adb0b91759cb9",
+  "download_date": "2026-05-16T07:51:20Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

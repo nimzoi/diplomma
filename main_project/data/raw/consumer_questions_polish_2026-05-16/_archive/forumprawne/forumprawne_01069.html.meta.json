@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01069",
+  "source_url": "https://forumprawne.org/watek/lot-opozniony-o-kilka-dni.861614/",
+  "fetch_url": "https://forumprawne.org/watek/lot-opozniony-o-kilka-dni.861614/",
+  "archive_file": "forumprawne/forumprawne_01069.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60527,
+  "sha256": "9f5de4dc36783477dfcac8b6cfe113c5c4b8a54e1527696b45cbfddb74356930",
+  "download_date": "2026-05-16T08:01:41Z",
+  "duration_sec": 0.216,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00804",
+  "source_url": "https://forumprawne.org/watek/reklamacja-uslugi-prawniczej.867476/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-uslugi-prawniczej.867476/",
+  "archive_file": "forumprawne/forumprawne_00804.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66791,
+  "sha256": "de29f96c9fefa80ed4431d6036b5fb22dce12c7386c0182da2bb02195f5513b0",
+  "download_date": "2026-05-16T07:56:42Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

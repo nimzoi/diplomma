@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00887",
+  "source_url": "https://forumprawne.org/watek/dwie-oplaty-za-jedna-usluge.863860/",
+  "fetch_url": "https://forumprawne.org/watek/dwie-oplaty-za-jedna-usluge.863860/",
+  "archive_file": "forumprawne/forumprawne_00887.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 166274,
+  "sha256": "89e98972db5dc1b489c0906f2d6029966e84b0b0e6ff09a5af9cf199f8b58350",
+  "download_date": "2026-05-16T07:58:16Z",
+  "duration_sec": 0.102,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

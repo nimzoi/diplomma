@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00531",
+  "source_url": "https://forumprawne.org/watek/zwrot-olx.872200/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-olx.872200/",
+  "archive_file": "forumprawne/forumprawne_00531.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69738,
+  "sha256": "b9c4b9a4e2e4fd5ee950fe713d31c412b64801e5a4112b6d05ac648fa8f42d39",
+  "download_date": "2026-05-16T07:51:34Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

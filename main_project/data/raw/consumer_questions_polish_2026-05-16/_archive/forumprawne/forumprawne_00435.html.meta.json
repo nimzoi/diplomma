@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00435",
+  "source_url": "https://forumprawne.org/watek/zwrot-kosztow-za-transport.875020/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-kosztow-za-transport.875020/",
+  "archive_file": "forumprawne/forumprawne_00435.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57462,
+  "sha256": "976edd257452342017d4002ab1bc51a0a305c5f0f1f091615d452c9055e96ca2",
+  "download_date": "2026-05-16T07:49:46Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

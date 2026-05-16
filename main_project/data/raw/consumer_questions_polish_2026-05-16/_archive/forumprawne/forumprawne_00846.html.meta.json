@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00846",
+  "source_url": "https://forumprawne.org/watek/wada-ukryta-rekojmia.866788/",
+  "fetch_url": "https://forumprawne.org/watek/wada-ukryta-rekojmia.866788/",
+  "archive_file": "forumprawne/forumprawne_00846.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 102237,
+  "sha256": "96e8596903fb5e4fe7fa3eef266dcd5bcb99e5a8690482bc4840adc37ac3dc14",
+  "download_date": "2026-05-16T07:57:30Z",
+  "duration_sec": 0.207,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

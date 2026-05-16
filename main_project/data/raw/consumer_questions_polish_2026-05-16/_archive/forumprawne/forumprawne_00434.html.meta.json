@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00434",
+  "source_url": "https://forumprawne.org/watek/tauron-i-slup-na-dzialce.875049/",
+  "fetch_url": "https://forumprawne.org/watek/tauron-i-slup-na-dzialce.875049/",
+  "archive_file": "forumprawne/forumprawne_00434.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68877,
+  "sha256": "5fc3678629b4de26fafb8d8489e6894cc67e09d625be474f1227c148f782ea23",
+  "download_date": "2026-05-16T07:49:45Z",
+  "duration_sec": 0.129,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

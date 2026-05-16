@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00107",
+  "source_url": "https://forumprawne.org/watek/pozyczka-eden-finance.882804/",
+  "fetch_url": "https://forumprawne.org/watek/pozyczka-eden-finance.882804/",
+  "archive_file": "forumprawne/forumprawne_00107.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 111256,
+  "sha256": "b37b47475a1625c6977c8a74043d69bb429919bfb79c0b49e99907896021d603",
+  "download_date": "2026-05-16T07:43:36Z",
+  "duration_sec": 0.131,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00279",
+  "source_url": "https://forumprawne.org/watek/kupno-auta-wada-ukryta.878696/",
+  "fetch_url": "https://forumprawne.org/watek/kupno-auta-wada-ukryta.878696/",
+  "archive_file": "forumprawne/forumprawne_00279.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76207,
+  "sha256": "f483f0fce0bdcb85ae56e1b734a785c1ff4fab9856e50bd6891dec64eadc27f6",
+  "download_date": "2026-05-16T07:46:50Z",
+  "duration_sec": 0.185,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

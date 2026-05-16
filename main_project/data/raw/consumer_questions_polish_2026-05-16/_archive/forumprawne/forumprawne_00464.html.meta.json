@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00464",
+  "source_url": "https://forumprawne.org/watek/umowa-o-swiadczenie-uslug-tanecznych.874380/",
+  "fetch_url": "https://forumprawne.org/watek/umowa-o-swiadczenie-uslug-tanecznych.874380/",
+  "archive_file": "forumprawne/forumprawne_00464.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 82804,
+  "sha256": "6fa95abc4a82afeb11eee285865372a0d5930a2b36ba084cf6feeedd238e4ee2",
+  "download_date": "2026-05-16T07:50:19Z",
+  "duration_sec": 0.183,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

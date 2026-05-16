@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00310",
+  "source_url": "https://forumprawne.org/watek/pozew-do-e-sadu.877956/",
+  "fetch_url": "https://forumprawne.org/watek/pozew-do-e-sadu.877956/",
+  "archive_file": "forumprawne/forumprawne_00310.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69981,
+  "sha256": "ad9d34fc0aef580751e813f21a01bddf098dd6c22b6c8f2ce3931872c1e6c5ac",
+  "download_date": "2026-05-16T07:47:25Z",
+  "duration_sec": 0.098,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

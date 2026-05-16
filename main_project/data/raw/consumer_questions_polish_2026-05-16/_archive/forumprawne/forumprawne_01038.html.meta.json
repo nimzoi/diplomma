@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01038",
+  "source_url": "https://forumprawne.org/watek/uszkodzony-dach-podczas-montazu-paneli.862386/",
+  "fetch_url": "https://forumprawne.org/watek/uszkodzony-dach-podczas-montazu-paneli.862386/",
+  "archive_file": "forumprawne/forumprawne_01038.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54382,
+  "sha256": "720680c229d2185bd6e6c442052b7987e192ca017e61ab10236e726bcc2401c6",
+  "download_date": "2026-05-16T08:01:07Z",
+  "duration_sec": 0.263,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00574",
+  "source_url": "https://forumprawne.org/watek/koszty-magazynowe.871661/",
+  "fetch_url": "https://forumprawne.org/watek/koszty-magazynowe.871661/",
+  "archive_file": "forumprawne/forumprawne_00574.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76785,
+  "sha256": "d5285e29f1672563d4ab0f60165e688258721a6a371e286efe8a627ccbc1e377",
+  "download_date": "2026-05-16T07:52:22Z",
+  "duration_sec": 0.192,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

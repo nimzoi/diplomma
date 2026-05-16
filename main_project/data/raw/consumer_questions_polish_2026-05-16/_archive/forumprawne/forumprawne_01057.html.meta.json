@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01057",
+  "source_url": "https://forumprawne.org/watek/reklamacja-rowera.861931/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-rowera.861931/",
+  "archive_file": "forumprawne/forumprawne_01057.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54227,
+  "sha256": "9367bea7c2a2c6b632130ad242adf3ea0b621965da15af3ca0265c74c94a6c2f",
+  "download_date": "2026-05-16T08:01:28Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

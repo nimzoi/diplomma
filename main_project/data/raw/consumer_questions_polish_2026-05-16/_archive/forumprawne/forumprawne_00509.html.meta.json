@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00509",
+  "source_url": "https://forumprawne.org/watek/wada-ukryta.873307/",
+  "fetch_url": "https://forumprawne.org/watek/wada-ukryta.873307/",
+  "archive_file": "forumprawne/forumprawne_00509.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58636,
+  "sha256": "ed7b91a0e96f60c70e150cbac987f612fd76f947794f8d1ad8d8619eb08ca4af",
+  "download_date": "2026-05-16T07:51:10Z",
+  "duration_sec": 0.109,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

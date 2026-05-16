@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00545",
+  "source_url": "https://forumprawne.org/watek/odbior-nowego-samochodu-z-salonu-bez-rejestracji.872201/",
+  "fetch_url": "https://forumprawne.org/watek/odbior-nowego-samochodu-z-salonu-bez-rejestracji.872201/",
+  "archive_file": "forumprawne/forumprawne_00545.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 92354,
+  "sha256": "6a01f826c1fad1800a26800ce9191b09524121caf3e721ed9ab0d4a06d1b3ab8",
+  "download_date": "2026-05-16T07:51:49Z",
+  "duration_sec": 0.087,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

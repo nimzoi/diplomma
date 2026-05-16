@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00702",
+  "source_url": "https://forumprawne.org/watek/faktura-z-wodociagow.869285/",
+  "fetch_url": "https://forumprawne.org/watek/faktura-z-wodociagow.869285/",
+  "archive_file": "forumprawne/forumprawne_00702.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70116,
+  "sha256": "8d97b701705eb96d3cf98508450ab25be6f17dfb918f86b2c69632b44d65a631",
+  "download_date": "2026-05-16T07:54:47Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

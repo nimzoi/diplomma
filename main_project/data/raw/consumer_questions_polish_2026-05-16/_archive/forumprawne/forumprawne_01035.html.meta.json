@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01035",
+  "source_url": "https://forumprawne.org/watek/umowa-ze-zlobkiem.862446/",
+  "fetch_url": "https://forumprawne.org/watek/umowa-ze-zlobkiem.862446/",
+  "archive_file": "forumprawne/forumprawne_01035.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52688,
+  "sha256": "5d428aa1662a5200057ae800094782a3ce34bdf4f4378dab20468425ef06bec2",
+  "download_date": "2026-05-16T08:01:03Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

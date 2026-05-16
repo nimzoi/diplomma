@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01052",
+  "source_url": "https://forumprawne.org/watek/zwrot-towaru-a-rabat.861986/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-towaru-a-rabat.861986/",
+  "archive_file": "forumprawne/forumprawne_01052.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 99162,
+  "sha256": "16a2dfaceecffdc5785ab08b289211532b60bb4900a9c3cad6df8be8b8bf9b2e",
+  "download_date": "2026-05-16T08:01:22Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01000",
+  "source_url": "https://forumprawne.org/watek/zwrot-telewizora-ktory-uzywalem.862757/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-telewizora-ktory-uzywalem.862757/",
+  "archive_file": "forumprawne/forumprawne_01000.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 94013,
+  "sha256": "8999ab00a50e1a657630ce9ed4871426d7bcb4de93cb575e0b97f672d66ad8c2",
+  "download_date": "2026-05-16T08:00:24Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

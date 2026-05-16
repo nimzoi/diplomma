@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00736",
+  "source_url": "https://forumprawne.org/watek/blad-w-godzinach-otwarcia-parku-rozrywki.868652/",
+  "fetch_url": "https://forumprawne.org/watek/blad-w-godzinach-otwarcia-parku-rozrywki.868652/",
+  "archive_file": "forumprawne/forumprawne_00736.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 106646,
+  "sha256": "bd8793bf13168499765f96f94c131d02d3b9f37e93c3981ca1af598075a7cb65",
+  "download_date": "2026-05-16T07:55:25Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

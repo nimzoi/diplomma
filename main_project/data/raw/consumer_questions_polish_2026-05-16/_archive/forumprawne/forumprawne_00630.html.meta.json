@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00630",
+  "source_url": "https://forumprawne.org/watek/brak-naprawy-gwarancyjnej.870516/",
+  "fetch_url": "https://forumprawne.org/watek/brak-naprawy-gwarancyjnej.870516/",
+  "archive_file": "forumprawne/forumprawne_00630.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76119,
+  "sha256": "2b77d2c37208b75a2394f3e19f17c261d8399087feb9f9e52c3fc6efa84ea84b",
+  "download_date": "2026-05-16T07:53:26Z",
+  "duration_sec": 0.097,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

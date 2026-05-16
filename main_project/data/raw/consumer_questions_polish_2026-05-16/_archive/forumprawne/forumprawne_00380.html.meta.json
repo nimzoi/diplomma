@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00380",
+  "source_url": "https://forumprawne.org/watek/rezygnacja-z-kursu-jezykowego.876445/",
+  "fetch_url": "https://forumprawne.org/watek/rezygnacja-z-kursu-jezykowego.876445/",
+  "archive_file": "forumprawne/forumprawne_00380.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54085,
+  "sha256": "8e7095e442847fcd9d7b635aa389cdec372c9076a49d6c69e428b7a4750bc8e7",
+  "download_date": "2026-05-16T07:48:44Z",
+  "duration_sec": 0.087,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

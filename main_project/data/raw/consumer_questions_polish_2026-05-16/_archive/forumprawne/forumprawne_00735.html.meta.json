@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00735",
+  "source_url": "https://forumprawne.org/watek/reklamacja-zamowionego-produktu.868712/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-zamowionego-produktu.868712/",
+  "archive_file": "forumprawne/forumprawne_00735.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70671,
+  "sha256": "01744134a3a335dcee8245e382794c01e0dec9a95695b76b39b13567eb2085f7",
+  "download_date": "2026-05-16T07:55:24Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

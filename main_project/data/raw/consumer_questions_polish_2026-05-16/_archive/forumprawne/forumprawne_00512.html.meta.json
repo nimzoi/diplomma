@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00512",
+  "source_url": "https://forumprawne.org/watek/odbior-wlasnosci-z-serwisu.873115/",
+  "fetch_url": "https://forumprawne.org/watek/odbior-wlasnosci-z-serwisu.873115/",
+  "archive_file": "forumprawne/forumprawne_00512.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58412,
+  "sha256": "549578eb91ed68ed11ba75fd8bd40395662828667e8f6cd7bf694f50ad94a599",
+  "download_date": "2026-05-16T07:51:13Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

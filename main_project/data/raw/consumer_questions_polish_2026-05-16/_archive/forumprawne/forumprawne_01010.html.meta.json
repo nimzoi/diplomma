@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01010",
+  "source_url": "https://forumprawne.org/watek/pok-allegro-a-zwrot-towaru-sprzedajacemu.863065/",
+  "fetch_url": "https://forumprawne.org/watek/pok-allegro-a-zwrot-towaru-sprzedajacemu.863065/",
+  "archive_file": "forumprawne/forumprawne_01010.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 83608,
+  "sha256": "d198c5acbe2cef73f4ea05eeaa83bb152b374d527d19976e0946840f30b2e6ee",
+  "download_date": "2026-05-16T08:00:35Z",
+  "duration_sec": 0.144,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

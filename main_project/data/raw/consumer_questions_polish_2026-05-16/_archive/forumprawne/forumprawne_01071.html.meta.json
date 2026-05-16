@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01071",
+  "source_url": "https://forumprawne.org/watek/osoby-trzecie-w-trakcie-gwarancji.861517/",
+  "fetch_url": "https://forumprawne.org/watek/osoby-trzecie-w-trakcie-gwarancji.861517/",
+  "archive_file": "forumprawne/forumprawne_01071.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64082,
+  "sha256": "1caf5126b4aeef7b1c0dcb9c59bd5111487795c533243e759498379a0b1338b9",
+  "download_date": "2026-05-16T08:01:44Z",
+  "duration_sec": 0.26,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

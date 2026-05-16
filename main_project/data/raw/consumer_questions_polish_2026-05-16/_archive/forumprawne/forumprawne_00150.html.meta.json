@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00150",
+  "source_url": "https://forumprawne.org/watek/e-sklep-a-paczki-pobraniowe.881523/",
+  "fetch_url": "https://forumprawne.org/watek/e-sklep-a-paczki-pobraniowe.881523/",
+  "archive_file": "forumprawne/forumprawne_00150.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52630,
+  "sha256": "2c47af874d8c62e1006bf5cf7550f95e40c33b5152d3ff0f19952489bf81a741",
+  "download_date": "2026-05-16T07:44:24Z",
+  "duration_sec": 0.215,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

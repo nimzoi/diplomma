@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00110",
+  "source_url": "https://forumprawne.org/watek/roszczenia-z-tytulu-rekojmi.882721/",
+  "fetch_url": "https://forumprawne.org/watek/roszczenia-z-tytulu-rekojmi.882721/",
+  "archive_file": "forumprawne/forumprawne_00110.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59065,
+  "sha256": "9c2638f578e8c68fce63c1fccdf603fbb8cfac969e5904b63781bce847b952bb",
+  "download_date": "2026-05-16T07:43:39Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

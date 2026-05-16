@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00267",
+  "source_url": "https://forumprawne.org/watek/nieuznana-reklamacja-dpd.878878/",
+  "fetch_url": "https://forumprawne.org/watek/nieuznana-reklamacja-dpd.878878/",
+  "archive_file": "forumprawne/forumprawne_00267.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56578,
+  "sha256": "bf97c276014008ef308215ed26c49b84c870fe7daf8075b2687b09b10e7c2448",
+  "download_date": "2026-05-16T07:46:36Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

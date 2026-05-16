@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00533",
+  "source_url": "https://forumprawne.org/watek/przedluzajaca-sie-naprawa-laptopa.872583/",
+  "fetch_url": "https://forumprawne.org/watek/przedluzajaca-sie-naprawa-laptopa.872583/",
+  "archive_file": "forumprawne/forumprawne_00533.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53885,
+  "sha256": "716c6ffd8054e217f9d98240a2e088cb7159c4f0449af5b72bc0d309f75528aa",
+  "download_date": "2026-05-16T07:51:36Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01001",
+  "source_url": "https://forumprawne.org/watek/niepoprawna-koloryzacja.863277/",
+  "fetch_url": "https://forumprawne.org/watek/niepoprawna-koloryzacja.863277/",
+  "archive_file": "forumprawne/forumprawne_01001.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56521,
+  "sha256": "55f57275c948efeb070e0f0893966d6d51807d11debe9773f7f8d15aa13752c9",
+  "download_date": "2026-05-16T08:00:25Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

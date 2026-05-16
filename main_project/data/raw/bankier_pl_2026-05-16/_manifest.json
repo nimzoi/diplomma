@@ -1,5 +1,2099 @@
 {
   "scrape_date": "2026-05-16",
-  "count": 0,
-  "entries": []
+  "count": 299,
+  "entries": [
+    {
+      "article_id": "bankier_0001_1_2_mln_z_na_konferencje_cpac_sledczy_sprawdzili_w",
+      "url": "https://www.bankier.pl/wiadomosc/1-2-mln-zl-na-konferencje-CPAC-Sledczy-sprawdzili-watek-marki-Zondacrypto-9131106.html",
+      "status": 200,
+      "title": "1,2 mln zł na konferencję CPAC. Śledczy sprawdzili wątek marki Zondacrypto",
+      "char_count": 5370
+    },
+    {
+      "article_id": "bankier_0002_100_milionow_dolarow_na_stole_usa_proponuje_kubie_",
+      "url": "https://www.bankier.pl/wiadomosc/100-milionow-dolarow-na-stole-USA-proponuje-Kubie-wsparcie-ale-stawia-warunek-9133242.html",
+      "status": 200,
+      "title": "100 milionów dolarów na stole. USA proponuje Kubie wsparcie, ale stawia warunek",
+      "char_count": 1531
+    },
+    {
+      "article_id": "bankier_0003_12_polski_f_35_gotowy_reszta_eskadry_juz_w_drodze_",
+      "url": "https://www.bankier.pl/wiadomosc/12-polski-F-35-gotowy-reszta-eskadry-juz-w-drodze-z-Teksasu-9130334.html",
+      "status": 200,
+      "title": "12. polski F-35 gotowy, reszta eskadry już w drodze z Teksasu",
+      "char_count": 3372
+    },
+    {
+      "article_id": "bankier_0004_12_tys_z_za_rezerwacje_lezaka_na_plazy_turysci_ust",
+      "url": "https://www.bankier.pl/wiadomosc/12-tys-zl-za-rezerwacje-lezaka-na-plazy-Turysci-ustawiaja-sie-w-kolejkach-9132885.html",
+      "status": 200,
+      "title": "12 tys. zł za rezerwację leżaka na plaży. Turyści ustawiają się w kolejkach",
+      "char_count": 2485
+    },
+    {
+      "article_id": "bankier_0005_pustka_pod_nakretka_to_nie_bad_tymbark_odda_swoj_k",
+      "url": "https://www.bankier.pl/wiadomosc/A-pod-nakretka-pustka-Czy-kultowe-napisy-Tymbarku-znikna-na-stale-9133603.html",
+      "status": 200,
+      "title": "Pustka pod nakrętką to nie błąd. Tymbark odda swój kapsel konsumentom",
+      "char_count": 1876
+    },
+    {
+      "article_id": "bankier_0006_ai_lekarstwem_na_polska_demografie_prof_kozak_niek",
+      "url": "https://www.bankier.pl/wiadomosc/AI-lekarstwem-na-polska-demografie-Prof-Kozak-Niektore-zawody-przestana-byc-potrzebne-9128382.html",
+      "status": 200,
+      "title": "AI lekarstwem na polską demografię? Prof. Kozak: Niektóre zawody przestaną być potrzebne",
+      "char_count": 3840
+    },
+    {
+      "article_id": "bankier_0007_ai_obnizy_inflacje_ekonomista_wskazuje_nowy_trend_",
+      "url": "https://www.bankier.pl/wiadomosc/AI-obnizy-inflacje-Ekonomista-wskazuje-nowy-trend-w-gospodarce-9132976.html",
+      "status": 200,
+      "title": "AI obniży inflację? Ekonomista wskazuje nowy trend w gospodarce",
+      "char_count": 36007
+    },
+    {
+      "article_id": "bankier_0008_abonament_rtv_w_gore_krrit_podaa_stawki_na_wszelki",
+      "url": "https://www.bankier.pl/wiadomosc/Abonament-RTV-w-gore-KRRiT-podala-stawki-na-wszelki-wypadek-9133044.html",
+      "status": 200,
+      "title": "Abonament RTV w górę. KRRiT podała stawki \"na wszelki wypadek\"",
+      "char_count": 1444
+    },
+    {
+      "article_id": "bankier_0009_administracja_trumpa_zamierza_postawic_zarzuty_rau",
+      "url": "https://www.bankier.pl/wiadomosc/Administracja-Trumpa-zamierza-postawic-zarzuty-Raulowi-Castro-9133512.html",
+      "status": 200,
+      "title": "Administracja Trumpa zamierza postawić zarzuty Raulowi Castro",
+      "char_count": 2032
+    },
+    {
+      "article_id": "bankier_0010_alert_w_miescie_na_koncu_swiata_ruszy_polowanie_na",
+      "url": "https://www.bankier.pl/wiadomosc/Alert-w-miescie-na-koncu-swiata-Ruszy-polowanie-na-zrodlo-hantawirusa-9133428.html",
+      "status": 200,
+      "title": "Alert w \"mieście na końcu świata\". Ruszy polowanie na źródło hantawirusa",
+      "char_count": 1701
+    },
+    {
+      "article_id": "bankier_0011_alerty_w_elektrowniach_atomowych_ponad_160_dronow_",
+      "url": "https://www.bankier.pl/wiadomosc/Alerty-w-elektrowniach-atomowych-Ponad-160-dronow-u-granic-obiektow-9133337.html",
+      "status": 200,
+      "title": "Alerty w elektrowniach atomowych. Ponad 160 dronów u granic obiektów",
+      "char_count": 1237
+    },
+    {
+      "article_id": "bankier_0012_nowy_bat_na_alimenciarzy_koniec_z_wyjazdami_na_zag",
+      "url": "https://www.bankier.pl/wiadomosc/Alimenciarze-bez-paszportu-Dluznicy-alimentacyjni-nie-wyjada-z-kraju-dopoki-nie-splaca-zobowiazan-wobec-dzieci-9131176.html",
+      "status": 200,
+      "title": "Nowy bat na alimenciarzy. Koniec z wyjazdami na zagraniczne wakacje",
+      "char_count": 2115
+    },
+    {
+      "article_id": "bankier_0013_allegro_ocenia_ze_prognozy_dla_zagranicy_sa_konser",
+      "url": "https://www.bankier.pl/wiadomosc/Allegro-ocenia-ze-prognozy-dla-zagranicy-sa-konserwatywne-w-Polsce-niewykluczona-presja-na-konsumenta-9133084.html",
+      "status": 200,
+      "title": "Allegro ocenia, że prognozy dla zagranicy są konserwatywne. W Polsce niewykluczona presja na konsumenta",
+      "char_count": 4967
+    },
+    {
+      "article_id": "bankier_0014_amerykanskie_brygady_nie_dotra_do_polski_znamy_szc",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanskie-brygady-nie-dotra-do-Polski-Znamy-szczegoly-raportu-Wall-Street-Journal-9133063.html",
+      "status": 200,
+      "title": "Amerykańskie brygady nie dotrą do Polski? Znamy szczegóły raportu \"Wall Street Journal\"",
+      "char_count": 1857
+    },
+    {
+      "article_id": "bankier_0015_anne_applebaum_usa_traca_status_lidera_demokracji_",
+      "url": "https://www.bankier.pl/wiadomosc/Anne-Applebaum-USA-traca-status-lidera-demokracji-Polska-musi-szukac-wspolpracy-w-Europie-9133426.html",
+      "status": 200,
+      "title": "Anne Applebaum: USA tracą status lidera demokracji, Polska musi szukać współpracy w Europie",
+      "char_count": 1770
+    },
+    {
+      "article_id": "bankier_0016_atak_izraela_w_strefie_gazy_lider_hamasu_izz_al_di",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-Izraela-w-Strefie-Gazy-Lider-Hamasu-Izz-al-Din-Haddad-nie-zyje-9134313.html",
+      "status": 200,
+      "title": "Atak Izraela w Strefie Gazy. Lider Hamasu Izz al-Din Haddad nie żyje?",
+      "char_count": 2516
+    },
+    {
+      "article_id": "bankier_0017_atal_zakada_wyzszy_poziom_sprzedazy_kwarta_do_kwar",
+      "url": "https://www.bankier.pl/wiadomosc/Atal-zaklada-wyzszy-poziom-sprzedazy-kwartal-do-kwartalu-9133860.html",
+      "status": 200,
+      "title": "Atal zakłada wyższy poziom sprzedaży kwartał do kwartału",
+      "char_count": 5308
+    },
+    {
+      "article_id": "bankier_0018_awatar_andrzeja_leppera_walczy_o_gosy_szokujacy_sp",
+      "url": "https://www.bankier.pl/wiadomosc/Awatar-Andrzeja-Leppera-walczy-o-glosy-Szokujacy-spot-Samoobrony-Odrodzenia-9131974.html",
+      "status": 200,
+      "title": "Awatar Andrzeja Leppera walczy o głosy. Szokujący spot Samoobrony Odrodzenia",
+      "char_count": 2223
+    },
+    {
+      "article_id": "bankier_0019_bnp_paribas_bp_powroci_do_wzrostu_liczby_klientow_",
+      "url": "https://www.bankier.pl/wiadomosc/BNP-Paribas-BP-powrocil-do-wzrostu-liczby-klientow-zaoferuje-hipoteki-ze-zmiennym-oprocentowaniem-9129143.html",
+      "status": 200,
+      "title": "BNP Paribas BP powrócił do wzrostu liczby klientów. Zaoferuje hipoteki ze zmiennym oprocentowaniem",
+      "char_count": 2627
+    },
+    {
+      "article_id": "bankier_0020_benefit_systems_podtrzymuje_zaozenia_na_ten_rok",
+      "url": "https://www.bankier.pl/wiadomosc/Benefit-Systems-podtrzymuje-zalozenia-na-ten-rok-9133728.html",
+      "status": 200,
+      "title": "Benefit Systems podtrzymuje założenia na ten rok",
+      "char_count": 2647
+    },
+    {
+      "article_id": "bankier_0021_benzyna_i_diesel_tanieja_zobacz_maksymalne_ceny_na",
+      "url": "https://www.bankier.pl/wiadomosc/Benzyna-i-diesel-tanieja-Zobacz-maksymalne-ceny-na-weekend-9133818.html",
+      "status": 200,
+      "title": "Benzyna i diesel tanieją. Zobacz maksymalne ceny na weekend",
+      "char_count": 1436
+    },
+    {
+      "article_id": "bankier_0022_benzyna_po_10_dolarow_i_puste_zbiorniki_kuba_walcz",
+      "url": "https://www.bankier.pl/wiadomosc/Benzyna-po-10-dolarow-i-puste-zbiorniki-Kuba-walczy-z-kryzysami-9134374.html",
+      "status": 200,
+      "title": "Benzyna po 10 dolarów i puste zbiorniki. Kuba walczy z kryzysami",
+      "char_count": 1768
+    },
+    {
+      "article_id": "bankier_0023_bio_planet_wypaci_0_63_z_dywidendy_na_akcje_za_202",
+      "url": "https://www.bankier.pl/wiadomosc/Bio-Planet-wyplaci-0-63-zl-dywidendy-na-akcje-za-2025-rok-9134213.html",
+      "status": 200,
+      "title": "Bio Planet wypłaci 0,63 zł dywidendy na akcję za 2025 rok",
+      "char_count": 781
+    },
+    {
+      "article_id": "bankier_0024_biznesmeni_z_miami_winni_zamachu_na_prezydenta_lic",
+      "url": "https://www.bankier.pl/wiadomosc/Biznesmeni-z-Miami-winni-zamachu-na-prezydenta-Liczyli-na-miliardy-z-kontraktow-9130331.html",
+      "status": 200,
+      "title": "Biznesmeni z Miami winni zamachu na prezydenta. Liczyli na miliardy z kontraktów",
+      "char_count": 2274
+    },
+    {
+      "article_id": "bankier_0025_bedy_na_pylonach_w_caej_polsce_blisko_500_stacji_n",
+      "url": "https://www.bankier.pl/wiadomosc/Bledy-na-pylonach-w-calej-Polsce-6-proc-stacji-nie-zaktualizowalo-cen-9133629.html",
+      "status": 200,
+      "title": "Błędy na pylonach w całej Polsce. Blisko 500 stacji nie zaktualizowało cen",
+      "char_count": 2462
+    },
+    {
+      "article_id": "bankier_0026_bozena_borowiec_zozya_slubowanie_poselskie_zastapi",
+      "url": "https://www.bankier.pl/wiadomosc/Bozena-Borowiec-zlozyla-slubowanie-poselskie-Zastapila-Lukasza-Litewke-9133648.html",
+      "status": 200,
+      "title": "Bożena Borowiec złożyła ślubowanie poselskie. Zastąpiła Łukasza Litewkę",
+      "char_count": 2509
+    },
+    {
+      "article_id": "bankier_0027_szef_map_budimex_polimex_i_sinevia_beda_wspopracow",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-Polimex-i-Sinevia-beda-wspolpracowac-ws-udzialu-w-odbudowie-Ukrainy-Balczun-9133826.html",
+      "status": 200,
+      "title": "Szef MAP: Budimex, Polimex i Sinevia będą współpracować ws. udziału w odbudowie Ukrainy",
+      "char_count": 2724
+    },
+    {
+      "article_id": "bankier_0028_byy_premier_litwy_podejrzewany_o_bezpodstawne_wzbo",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-premier-Litwy-podejrzewany-o-bezpodstawne-wzbogacenie-sie-Traci-immunitet-9129168.html",
+      "status": 200,
+      "title": "Były premier Litwy, podejrzewany o bezpodstawne wzbogacenie się. Traci immunitet",
+      "char_count": 1937
+    },
+    {
+      "article_id": "bankier_0029_byy_szef_kancelarii_zeenskiego_oskarzony_o_giganty",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-szef-kancelarii-Zelenskiego-oskarzony-o-gigantyczna-korupcje-Areszt-albo-13-milionow-kaucji-9132840.html",
+      "status": 200,
+      "title": "Były szef kancelarii Zełenskiego oskarżony o gigantyczną korupcję. Areszt albo 13 milionów kaucji",
+      "char_count": 3531
+    },
+    {
+      "article_id": "bankier_0030_cakowity_zakaz_w_moskwie_wadze_uderzaja_w_media_i_",
+      "url": "https://www.bankier.pl/wiadomosc/Calkowity-zakaz-w-Moskwie-Wladze-uderzaja-w-media-i-mieszkancow-9133347.html",
+      "status": 200,
+      "title": "Całkowity zakaz w Moskwie. Władze uderzają w media i mieszkańców",
+      "char_count": 2218
+    },
+    {
+      "article_id": "bankier_0031_cena_oleju_napedowego_spada_ponizej_2_euro_za_litr",
+      "url": "https://www.bankier.pl/wiadomosc/Cena-oleju-napedowego-spadla-ponizej-2-euro-za-litr-po-raz-pierwszy-od-marca-9131111.html",
+      "status": 200,
+      "title": "Cena oleju napędowego spadła poniżej 2 euro za litr po raz pierwszy od marca",
+      "char_count": 1988
+    },
+    {
+      "article_id": "bankier_0032_ceny_miedzi_na_lme_spadaja_obawy_o_inflacje",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-na-LME-spadaja-Obawy-o-inflacje-9133628.html",
+      "status": 200,
+      "title": "Ceny miedzi na LME spadają. Obawy o inflację",
+      "char_count": 1768
+    },
+    {
+      "article_id": "bankier_0033_cenowa_korekta_na_stacjach_paliw_on_znow_ponizej_7",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-w-Polsce-15-maja-2026-ON-znow-ponizej-7-zl-l-9133779.html",
+      "status": 200,
+      "title": "Cenowa korekta na stacjach paliw. ON znów poniżej 7 zł/l",
+      "char_count": 3236
+    },
+    {
+      "article_id": "bankier_0034_ceny_ropy_powrociy_do_mocnych_spadkow_po_porannych",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-po-8-proc-spadku-Inwestorzy-licza-na-porozumienie-z-Iranem-9129029.html",
+      "status": 200,
+      "title": "Ceny ropy powróciły do mocnych spadków po porannych zwyżkach",
+      "char_count": 2496
+    },
+    {
+      "article_id": "bankier_0035_ceny_ropy_w_usa_rosna_obawy_o_zawieszenie_broni_us",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-USA-rosna-Obawy-o-zawieszenie-broni-USA-Iran-9133620.html",
+      "status": 200,
+      "title": "Ceny ropy w USA rosną. Obawy o zawieszenie broni USA-Iran",
+      "char_count": 2714
+    },
+    {
+      "article_id": "bankier_0036_chaos_w_finlandii_suzby_postawione_w_gotowosci_sys",
+      "url": "https://www.bankier.pl/wiadomosc/Chaos-w-Finlandii-Sluzby-postawione-w-gotowosci-system-powiadomien-zawiodl-9133889.html",
+      "status": 200,
+      "title": "Chaos w Finlandii. Służby postawione w gotowości, system powiadomień zawiódł",
+      "char_count": 2573
+    },
+    {
+      "article_id": "bankier_0037_chaos_w_relacjach_z_pentagonem_szef_komisji_si_zbr",
+      "url": "https://www.bankier.pl/wiadomosc/Chaos-w-relacjach-z-Pentagonem-Szef-komisji-sil-zbrojnych-Senatu-zada-wyjasnien-9133409.html",
+      "status": 200,
+      "title": "Chaos w relacjach z Pentagonem. Szef komisji sił zbrojnych Senatu żąda wyjaśnień",
+      "char_count": 4026
+    },
+    {
+      "article_id": "bankier_0038_chrobry_wchodzi_do_gry_wielkie_zbrojenia_za_pienia",
+      "url": "https://www.bankier.pl/wiadomosc/Chrobry-wchodzi-do-gry-Wielkie-zbrojenia-za-pieniadze-z-KPO-9132021.html",
+      "status": 200,
+      "title": "\"Chrobry\" wchodzi do gry. Wielkie zbrojenia za pieniądze z KPO",
+      "char_count": 3136
+    },
+    {
+      "article_id": "bankier_0039_ca_donalda_trumpa_nagy_zwrot_w_sadzie_podatki_wrac",
+      "url": "https://www.bankier.pl/wiadomosc/Cla-Donalda-Trumpa-Nagly-zwrot-w-sadzie-podatki-wracaja-9131954.html",
+      "status": 200,
+      "title": "Cła Donalda Trumpa. Nagły zwrot w sądzie, podatki wracają",
+      "char_count": 2079
+    },
+    {
+      "article_id": "bankier_0040_codzienne_zakupy_coraz_drozsze_sklepy_hamuja_podwy",
+      "url": "https://www.bankier.pl/wiadomosc/Codzienne-zakupy-coraz-drozsze-Sklepy-hamuja-podwyzki-promocjami-9131992.html",
+      "status": 200,
+      "title": "Codzienne zakupy coraz droższe. Sklepy hamują podwyżki promocjami",
+      "char_count": 3447
+    },
+    {
+      "article_id": "bankier_0041_cognor_mia_w_i_kw_1_1_mln_z_straty_netto_lepiej_od",
+      "url": "https://www.bankier.pl/wiadomosc/Cognor-mial-w-I-kw-1-1-mln-zl-straty-netto-lepiej-od-oczekiwan-9134282.html",
+      "status": 200,
+      "title": "Cognor miał w I kw. 1,1 mln zł straty netto; lepiej od oczekiwań",
+      "char_count": 1899
+    },
+    {
+      "article_id": "bankier_0042_creotech_instruments_rekomenduje_przeznaczenie_zys",
+      "url": "https://www.bankier.pl/wiadomosc/Creotech-Instruments-rekomenduje-przeznaczenie-zysku-za-25-na-kapital-zapasowy-9129114.html",
+      "status": 200,
+      "title": "Creotech Instruments rekomenduje przeznaczenie zysku na kapitał zapasowy",
+      "char_count": 555
+    },
+    {
+      "article_id": "bankier_0043_creotech_quantum_ustali_cene_emisyjna_akcji_serii_",
+      "url": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-ustalil-cene-emisyjna-akcji-serii-D-na-232-zl-9133341.html",
+      "status": 200,
+      "title": "Creotech Quantum ustalił cenę emisyjną akcji serii D na 232 zł",
+      "char_count": 567
+    },
+    {
+      "article_id": "bankier_0044_czarzasty_o_safe_polskie_wojsko_dostao_184_mld_z_a",
+      "url": "https://www.bankier.pl/wiadomosc/Czarzasty-o-SAFE-Polskie-wojsko-dostalo-184-mld-zl-a-nieskuteczny-prezydent-lekcje-pokory-9130306.html",
+      "status": 200,
+      "title": "Czarzasty o SAFE: Polskie wojsko dostało 184 mld zł, a nieskuteczny prezydent - lekcję pokory",
+      "char_count": 7495
+    },
+    {
+      "article_id": "bankier_0045_czechy_powouja_penomocnika_ds_zobowiazan_sojusznic",
+      "url": "https://www.bankier.pl/wiadomosc/Czechy-powoluja-pelnomocnika-ds-zobowiazan-sojuszniczych-wobec-NATO-9131163.html",
+      "status": 200,
+      "title": "Czechy powołują pełnomocnika ds zobowiązań sojuszniczych wobec NATO",
+      "char_count": 2654
+    },
+    {
+      "article_id": "bankier_0046_czowiek_zeenskiego_zostaje_w_areszcie_jernak_nie_z",
+      "url": "https://www.bankier.pl/wiadomosc/Czlowiek-Zelenskiego-zostaje-w-areszcie-Jernak-nie-zebral-kaucji-9134235.html",
+      "status": 200,
+      "title": "Człowiek Zełenskiego zostaje w areszcie. Jernak nie zebrał kaucji",
+      "char_count": 2755
+    },
+    {
+      "article_id": "bankier_0047_czy_w_polsce_da_sie_zakazac_kryptowalut_prof_piech",
+      "url": "https://www.bankier.pl/wiadomosc/Czy-w-Polsce-da-sie-zakazac-kryptowalut-Prof-Piech-To-komedia-pomylek-9133074.html",
+      "status": 200,
+      "title": "Czy w Polsce da się zakazać kryptowalut? Prof. Piech: To komedia pomyłek",
+      "char_count": 10953
+    },
+    {
+      "article_id": "bankier_0048_dg_net_rekomenduje_wypate_0_02_z_dywidendy_na_akcj",
+      "url": "https://www.bankier.pl/wiadomosc/DG-Net-rekomenduje-wyplate-0-02-zl-dywidendy-na-akcje-9133443.html",
+      "status": 200,
+      "title": "DG-Net rekomenduje wypłatę 0,02 zł dywidendy na akcję",
+      "char_count": 381
+    },
+    {
+      "article_id": "bankier_0049_dm_bdm_podwyzszy_cene_docelowa_akcji_budimeksu_do_",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-cene-docelowa-akcji-Budimeksu-do-615-2-zl-9133805.html",
+      "status": 200,
+      "title": "DM BDM podwyższył cenę docelową akcji Budimeksu do 615,2 zł",
+      "char_count": 1801
+    },
+    {
+      "article_id": "bankier_0050_dm_bdm_podwyzszy_cene_docelowa_dla_akcji_atm_grupa",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-cene-docelowa-dla-akcji-ATM-Grupa-do-5-41-zl-9134265.html",
+      "status": 200,
+      "title": "DM BDM podwyższył cenę docelową dla akcji ATM Grupa",
+      "char_count": 1309
+    },
+    {
+      "article_id": "bankier_0051_dm_bos_obnizy_rekomendacje_digital_network_do_trzy",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-obnizyl-rekomendacje-Digital-Network-do-trzymaj-9132603.html",
+      "status": 200,
+      "title": "DM BOŚ obniżył rekomendację Digital Network do \"trzymaj\"",
+      "char_count": 1133
+    },
+    {
+      "article_id": "bankier_0052_debica_planuje_wypate_6_79_z_dywidendy_na_akcje_z_",
+      "url": "https://www.bankier.pl/wiadomosc/Debica-planuje-wyplate-6-79-zl-dywidendy-na-akcje-z-zysku-za-25-9131061.html",
+      "status": 200,
+      "title": "Dębica planuje wypłatę 6,79 zł dywidendy na akcję z zysku za '25",
+      "char_count": 352
+    },
+    {
+      "article_id": "bankier_0053_deeskalacja_czy_cisza_przed_burza_stowarzyszenie_r",
+      "url": "https://www.bankier.pl/wiadomosc/Deeskalacja-czy-cisza-przed-burza-Stowarzyszenie-Rozwoj-Plus-oficjalnie-zarejestrowane-9132978.html",
+      "status": 200,
+      "title": "Deeskalacja czy cisza przed burzą? Stowarzyszenie Rozwój Plus oficjalnie zarejestrowane",
+      "char_count": 6220
+    },
+    {
+      "article_id": "bankier_0054_develia_wyemitowaa_obligacje_za_150_mln_z",
+      "url": "https://www.bankier.pl/wiadomosc/Develia-wyemitowala-obligacje-za-150-mln-zl-9133140.html",
+      "status": 200,
+      "title": "Develia wyemitowała obligacje za 150 mln zł",
+      "char_count": 602
+    },
+    {
+      "article_id": "bankier_0055_zysk_dino_polska_pobi_oczekiwania_siec_pokazaa_rap",
+      "url": "https://www.bankier.pl/wiadomosc/Dino-Polska-mialo-w-I-kw-316-mln-zl-zysku-netto-j-d-wobec-konsensusu-291-3-mln-zl-zysku-9133379.html",
+      "status": 200,
+      "title": "Zysk Dino Polska pobił oczekiwania. Sieć pokazała raport za I kwartał. Kurs w górę",
+      "char_count": 3148
+    },
+    {
+      "article_id": "bankier_0056_dino_skupia_sie_na_budowie_wolumenow_w_kwietniu_de",
+      "url": "https://www.bankier.pl/wiadomosc/Dino-skupia-sie-na-budowie-wolumenow-w-kwietniu-deflacja-sie-poglebila-czlonek-zarzadu-9134021.html",
+      "status": 200,
+      "title": "Dino skupia się na budowie wolumenów. \"W kwietniu deflacja się pogłębiła\"",
+      "char_count": 2487
+    },
+    {
+      "article_id": "bankier_0057_dolar_w_gore_euro_bez_wiekszych_zmian_wszystkie_pa",
+      "url": "https://www.bankier.pl/wiadomosc/Dolar-w-gore-euro-bez-wiekszych-zmian-Wszystkie-pary-nadal-w-kanalach-9133688.html",
+      "status": 200,
+      "title": "Dolar w górę, euro bez większych zmian. Wszystkie pary nadal w kanałach",
+      "char_count": 2291
+    },
+    {
+      "article_id": "bankier_0058_dom_development_wprowadzi_do_oferty_prawie_700_lok",
+      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-oferty-prawie-700-lokali-w-Warszawie-w-ostatnich-tygodniach-9129122.html",
+      "status": 200,
+      "title": "Dom Development wprowadził do oferty prawie 700 lokali w Warszawie",
+      "char_count": 777
+    },
+    {
+      "article_id": "bankier_0059_dominik_tarczynski_niewpuszczony_do_wielkiej_bryta",
+      "url": "https://www.bankier.pl/wiadomosc/Dominik-Tarczynski-niewpuszczony-do-Wielkiej-Brytanii-Sikorski-Radze-mniej-radykalizmu-9132610.html",
+      "status": 200,
+      "title": "Dominik Tarczyński niewpuszczony do Wielkiej Brytanii. Sikorski: Radzę mniej radykalizmu",
+      "char_count": 2333
+    },
+    {
+      "article_id": "bankier_0060_dyplom_mba_30_lat_doswiadczenia_wysane_200_cv_i_ci",
+      "url": "https://www.bankier.pl/wiadomosc/Dramat-pokolenie-50-Nie-chca-ich-zatrudniac-choc-brakuje-pracownikow-9134004.html",
+      "status": 200,
+      "title": "„Dyplom MBA, 30 lat doświadczenia, wysłane 200 CV i cisza”. Dramat pokolenia 50+ na rynku pracy",
+      "char_count": 8605
+    },
+    {
+      "article_id": "bankier_0061_droga_ropa_grozi_techniczna_recesja_szefowa_mfw_ty",
+      "url": "https://www.bankier.pl/wiadomosc/Droga-ropa-grozi-techniczna-recesja-Szefowa-MFW-Tylko-normalizacja-do-konca-roku-uchroni-swiat-9132536.html",
+      "status": 200,
+      "title": "Droga ropa grozi techniczną recesją. Szefowa MFW: Tylko normalizacja do końca roku uchroni świat",
+      "char_count": 3324
+    },
+    {
+      "article_id": "bankier_0062_eksperci_potrzebne_sa_zmiany_prawa_dot_technologii",
+      "url": "https://www.bankier.pl/wiadomosc/Eksperci-potrzebne-sa-zmiany-prawa-dot-technologii-sluzb-do-walki-z-cyberprzestepczoscia-9130681.html",
+      "status": 200,
+      "title": "Eksperci: potrzebne są zmiany prawa dot. technologii służb do walki z cyberprzestępczością",
+      "char_count": 11295
+    },
+    {
+      "article_id": "bankier_0063_eksport_miedzi_i_srebra_wystrzeli_nbp_poda_najnows",
+      "url": "https://www.bankier.pl/wiadomosc/Eksport-miedzi-i-srebra-wystrzelil-NBP-podal-najnowsze-dane-9133932.html",
+      "status": 200,
+      "title": "Eksport miedzi i srebra wystrzelił. NBP podał najnowsze dane",
+      "char_count": 996
+    },
+    {
+      "article_id": "bankier_0064_energa_rozpoczyna_emisje_akcji_serii_cc",
+      "url": "https://www.bankier.pl/wiadomosc/Energa-rozpoczyna-emisje-akcji-serii-CC-9131168.html",
+      "status": 200,
+      "title": "Energa rozpoczyna emisję akcji serii CC",
+      "char_count": 1092
+    },
+    {
+      "article_id": "bankier_0065_enter_air_chce_wypacic_2_5_z_dywidendy_na_akcje",
+      "url": "https://www.bankier.pl/wiadomosc/Enter-Air-chce-wyplacic-2-5-zl-dywidendy-na-akcje-9133990.html",
+      "status": 200,
+      "title": "Enter Air chce wypłacić 2,5 zł dywidendy na akcję",
+      "char_count": 461
+    },
+    {
+      "article_id": "bankier_0066_4_50_bez_gwiazdek_do_konca_sierpnia_erste_startuje",
+      "url": "https://www.bankier.pl/wiadomosc/Erste-daje-do-4-50-na-nowych-kontach-oszczednosciowych-Do-konca-sierpnia-bez-wwarunkow-9133739.html",
+      "status": 200,
+      "title": "4,50% bez gwiazdek do końca sierpnia. Erste startuje z nowymi kontami oszczędnościowymi",
+      "char_count": 3411
+    },
+    {
+      "article_id": "bankier_0067_estonskie_media_o_zondacrypto_ofiary_probuja_dopro",
+      "url": "https://www.bankier.pl/wiadomosc/Estonskie-media-o-Zondacrypto-ofiary-probuja-doprowadzic-do-upadlosci-firmy-9132806.html",
+      "status": 200,
+      "title": "Estońskie media o Zondacrypto: ofiary próbują doprowadzić do upadłości firmy",
+      "char_count": 5919
+    },
+    {
+      "article_id": "bankier_0068_euforia_na_giedzie_w_tokio_swiezy_rekord_i_rozpedz",
+      "url": "https://www.bankier.pl/wiadomosc/Euforia-na-gieldzie-w-Tokio-Swiezy-rekord-i-rozpedzone-akcje-spolek-technologicznych-9129022.html",
+      "status": 200,
+      "title": "Euforia na giełdzie w Tokio. Świeży rekord i rozpędzone akcje spółek technologicznych",
+      "char_count": 1932
+    },
+    {
+      "article_id": "bankier_0069_eurocash_chce_przeznaczyc_cay_zysk_netto_za_25_na_",
+      "url": "https://www.bankier.pl/wiadomosc/Eurocash-chce-przeznaczyc-caly-zysk-netto-za-25-na-kapital-zapasowy-9133243.html",
+      "status": 200,
+      "title": "Eurocash chce przeznaczyć cały zysk netto za '25 na kapitał zapasowy",
+      "char_count": 705
+    },
+    {
+      "article_id": "bankier_0070_fico_w_moskwie_jestem_czarna_owca_ue_czy_premier_s",
+      "url": "https://www.bankier.pl/wiadomosc/Fico-w-Moskwie-Jestem-czarna-owca-UE-Czy-premier-Slowacji-wiezie-oferte-pokojowa-9130354.html",
+      "status": 200,
+      "title": "Fico w Moskwie: Jestem czarną owcą UE. Czy premier Słowacji wiezie ofertę pokojową?",
+      "char_count": 2143
+    },
+    {
+      "article_id": "bankier_0071_fitch_podnios_dugoterminowy_rating_idr_erste_bp_do",
+      "url": "https://www.bankier.pl/wiadomosc/Fitch-podniosl-dlugoterminowy-rating-IDR-Erste-BP-do-A-z-A-z-stabilna-perspektywa-9132629.html",
+      "status": 200,
+      "title": "Fitch podniósł długoterminowy rating IDR Erste BP do \"A\" z \"A-\" z stabilną perspektywą",
+      "char_count": 1266
+    },
+    {
+      "article_id": "bankier_0072_fitch_potwierdzi_rating_kernela_na_poziomie",
+      "url": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Kernela-na-poziomie-CCC-9131161.html",
+      "status": 200,
+      "title": "Fitch potwierdził rating Kernela na poziomie",
+      "char_count": 443
+    },
+    {
+      "article_id": "bankier_0073_forever_entertainment_chce_wypacic_0_1_z_dywidendy",
+      "url": "https://www.bankier.pl/wiadomosc/Forever-Entertainment-chce-wyplacic-0-1-zl-dywidendy-na-akcje-za-2025-rok-9133598.html",
+      "status": 200,
+      "title": "Forever Entertainment chce wypłacić 0,1 zł dywidendy na akcję za 2025 rok",
+      "char_count": 451
+    },
+    {
+      "article_id": "bankier_0074_franczyza_czy_firma_od_zera_najwazniejsze_roznice_",
+      "url": "https://www.bankier.pl/wiadomosc/Franczyza-czy-firma-od-zera-Najwazniejsze-roznice-dla-inwestora-9132304.html",
+      "status": 200,
+      "title": "Franczyza czy firma od zera? Najważniejsze różnice dla inwestora",
+      "char_count": 6459
+    },
+    {
+      "article_id": "bankier_0075_gtc_prowadzi_wewnetrzne_dochodzenie_sledcze_ws_nab",
+      "url": "https://www.bankier.pl/wiadomosc/GTC-prowadzi-wewnetrzne-dochodzenie-sledcze-ws-nabycia-niemieckich-aktywow-9132597.html",
+      "status": 200,
+      "title": "GTC prowadzi wewnętrzne dochodzenie śledcze ws. nabycia niemieckich aktywów",
+      "char_count": 801
+    },
+    {
+      "article_id": "bankier_0076_gaz_w_europie_znow_drozeje_rynki_czekaja_na_atomow",
+      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-znow-drozeje-Rynki-czekaja-na-atomowy-deal-Trumpa-9129107.html",
+      "status": 200,
+      "title": "Gaz w Europie znów drożeje. Rynki czekają na \"atomowy deal\" Trumpa",
+      "char_count": 1730
+    },
+    {
+      "article_id": "bankier_0077_gdzie_przebywa_marcin_romanowski_polityk_opublikow",
+      "url": "https://www.bankier.pl/wiadomosc/Gdzie-przebywa-Marcin-Romanowski-Polityk-opublikowal-nowe-nagranie-9133041.html",
+      "status": 200,
+      "title": "Gdzie przebywa Marcin Romanowski? Polityk opublikował nowe nagranie",
+      "char_count": 2686
+    },
+    {
+      "article_id": "bankier_0078_gigantyczna_operacja_z_nieba_nad_puszcza_solska_zr",
+      "url": "https://www.bankier.pl/wiadomosc/Gigantyczna-operacja-z-nieba-Nad-Puszcza-Solska-zrzucono-600-ton-wody-9129101.html",
+      "status": 200,
+      "title": "Gigantyczna operacja z nieba. Nad Puszczą Solską zrzucono 600 ton wody",
+      "char_count": 4269
+    },
+    {
+      "article_id": "bankier_0079_gos_zza_grobu_sad_ujawnia_list_pozegnalny_jeffreya",
+      "url": "https://www.bankier.pl/wiadomosc/Glos-zza-grobu-Sad-ujawnia-list-pozegnalny-Jeffreya-Epsteina-9129102.html",
+      "status": 200,
+      "title": "Głos zza grobu. Sąd ujawnia \"list pożegnalny\" Jeffreya Epsteina",
+      "char_count": 2700
+    },
+    {
+      "article_id": "bankier_0080_goraco_woko_tv_republika_policja_stanowczo_dementu",
+      "url": "https://www.bankier.pl/wiadomosc/Goraco-wokol-TV-Republika-Policja-stanowczo-dementuje-doniesienia-9134059.html",
+      "status": 200,
+      "title": "Gorąco wokół TV Republika. Policja stanowczo dementuje doniesienia",
+      "char_count": 2229
+    },
+    {
+      "article_id": "bankier_0081_grupa_action_widzi_duzy_potencja_wzrostu_zwiazany_",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Action-widzi-duzy-potencjal-wzrostu-zwiazany-z-segmentem-kaucyjnym-9133064.html",
+      "status": 200,
+      "title": "Grupa Action widzi duży potencjał wzrostu związany z segmentem kaucyjnym",
+      "char_count": 5780
+    },
+    {
+      "article_id": "bankier_0082_hantawirus_pod_lupa_ue_uruchomiono_mechanizm_wymia",
+      "url": "https://www.bankier.pl/wiadomosc/Hantawirus-pod-lupa-UE-Uruchomiono-mechanizm-wymiany-informacji-9133368.html",
+      "status": 200,
+      "title": "Hantawirus pod lupa UE. Uruchomiono mechanizm wymiany informacji",
+      "char_count": 1064
+    },
+    {
+      "article_id": "bankier_0083_helio_szacuje_zysk_netto_w_iii_kw_2025_2026_na_5_6",
+      "url": "https://www.bankier.pl/wiadomosc/Helio-szacuje-zysk-netto-w-III-kw-2025-2026-na-5-6-mln-zl-wobec-4-6-mln-zl-rok-wczesniej-9132588.html",
+      "status": 200,
+      "title": "Helio szacuje zysk netto w III kw. 2025/2026 na 5,6 mln zł, wobec 4,6 mln zł rok wcześniej",
+      "char_count": 749
+    },
+    {
+      "article_id": "bankier_0084_historyczny_dzien_w_warszawie_pierwsze_mazenstwo_j",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczny-dzien-w-Warszawie-Pierwsze-malzenstwo-jednoplciowe-oficjalnie-w-polskim-rejestrze-9133015.html",
+      "status": 200,
+      "title": "Historyczny dzień w Warszawie. Pierwsze małżeństwo jednopłciowe oficjalnie w polskim rejestrze",
+      "char_count": 4777
+    },
+    {
+      "article_id": "bankier_0085_historyczny_pakt_na_bliskim_wschodzie_arabia_saudy",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczny-pakt-na-Bliskim-Wschodzi-Arabia-Saudyjska-chce-porozumienia-z-Iranem-9133403.html",
+      "status": 200,
+      "title": "Historyczny pakt na Bliskim Wschodzie? Arabia Saudyjska chce porozumienia z Iranem",
+      "char_count": 3788
+    },
+    {
+      "article_id": "bankier_0086_historyczny_upadek_wizerunku_usa_sa_postrzegani_go",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczny-upadek-wizerunku-USA-Sa-postrzegani-gorzej-niz-Rosja-i-Chiny-9129912.html",
+      "status": 200,
+      "title": "Historyczny upadek wizerunku USA. Są postrzegani gorzej niż Rosja i Chiny",
+      "char_count": 2792
+    },
+    {
+      "article_id": "bankier_0087_hossa_na_pamiec_trwa_akcje_bija_rekordy_a_i_tak_st",
+      "url": "https://www.bankier.pl/wiadomosc/Hossa-na-pamiec-trwa-Akcje-bija-rekordy-a-i-tak-staja-sie-coraz-tansze-9133835.html",
+      "status": 200,
+      "title": "Hossa na pamięć trwa. Akcje biją rekordy, a i tak stają się… coraz tańsze",
+      "char_count": 6141
+    },
+    {
+      "article_id": "bankier_0088_ims_chce_wypacic_acznie_0_18_z_dywidendy_na_akcje_",
+      "url": "https://www.bankier.pl/wiadomosc/IMS-chce-wyplacic-lacznie-0-18-zl-dywidendy-na-akcje-za-2025-rok-9132553.html",
+      "status": 200,
+      "title": "IMS chce wypłacić łącznie 0,18 zł dywidendy na akcję za 2025 rok",
+      "char_count": 489
+    },
+    {
+      "article_id": "bankier_0089_wynajem_mieszkania_stancja_internat_czy_akademik_t",
+      "url": "https://www.bankier.pl/wiadomosc/Ile-kosztuje-wynajem-mieszkania-pokoju-internat-i-akademik-9132772.html",
+      "status": 200,
+      "title": "Wynajem mieszkania, stancja, internat czy akademik? Tyle trzeba zapłacić za lokum dla dziecka w dużym mieście",
+      "char_count": 6421
+    },
+    {
+      "article_id": "bankier_0090_immobile_planuje_skup_do_3_55_mln_akcji_wasnych_za",
+      "url": "https://www.bankier.pl/wiadomosc/Immobile-planuje-skup-do-3-55-mln-akcji-wlasnych-za-nie-wiecej-niz-24-95-mln-zl-9133160.html",
+      "status": 200,
+      "title": "Immobile planuje skup do 3,55 mln akcji własnych za nie więcej niż 24,95 mln zł",
+      "char_count": 2313
+    },
+    {
+      "article_id": "bankier_0091_imperium_orbana_w_rozsypce_media_ktore_kontrolowa_",
+      "url": "https://www.bankier.pl/wiadomosc/Imperium-Viktora-Orbana-w-rozsypce-Media-ktore-kontrolowal-przechodza-w-obce-rece-9133926.html",
+      "status": 200,
+      "title": "Imperium Orbana w rozsypce. Media, które kontrolował, przechodzą w obce ręce",
+      "char_count": 2524
+    },
+    {
+      "article_id": "bankier_0092_gus_potwierdzi_kwietniowy_wzrost_inflacji_paliwa_p",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-Polsce-w-kwietniu-2026-roku-finalne-dane-Paliwa-podrozaly-o-blisko-60-9133633.html",
+      "status": 200,
+      "title": "GUS potwierdził kwietniowy wzrost inflacji. Paliwa podrożały o blisko 60%",
+      "char_count": 3426
+    },
+    {
+      "article_id": "bankier_0093_inflacja_wrzuca_wyzszy_bieg_pkb_hamuje_a_surowce_p",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-wrzuca-wyzszy-bieg-PKB-hamuje-a-surowce-przyprawiaja-o-bol-glowy-Inwestor-Wojtek-analizuje-wykresy-tygodnia-9133723.html",
+      "status": 200,
+      "title": "Inflacja wrzuca wyższy bieg, PKB hamuje, a surowce przyprawiają o ból głowy. Inwestor Wojtek analizuje wykresy tygodnia",
+      "char_count": 6318
+    },
+    {
+      "article_id": "bankier_0094_ipopema_podniosa_wycene_akcji_vigo_photonics_do_67",
+      "url": "https://www.bankier.pl/wiadomosc/Ipopema-podniosla-wycene-akcji-Vigo-Photonics-do-670-zl-9133461.html",
+      "status": 200,
+      "title": "Ipopema podniosła wycenę akcji Vigo Photonics do 670 zł",
+      "char_count": 2135
+    },
+    {
+      "article_id": "bankier_0095_kryzysowe_wyniki_weglowego_giganta_ponad_600_mln_z",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-szacuje-strate-EBITDA-w-I-kw-na-238-6-mln-zl-9133961.html",
+      "status": 200,
+      "title": "Kryzysowe wyniki węglowego giganta. Ponad 600 mln zł straty netto w 3 miesiące",
+      "char_count": 1243
+    },
+    {
+      "article_id": "bankier_0096_jak_kupowac_akcje_gieda_dla_poczatkujacych",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-kupowac-akcje-Gielda-dla-poczatkujacych-7509041.html",
+      "status": 200,
+      "title": "Jak kupować akcje. Giełda dla początkujących",
+      "char_count": 12203
+    },
+    {
+      "article_id": "bankier_0097_jak_rozwiazac_umowe_z_orange_t_mobile_play_plus_sp",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-rozwiazac-umowe-z-Orange-T-Mobile-Play-Plus-Sprawdzilismy-procedury-7500250.html",
+      "status": 200,
+      "title": "Jak rozwiązać umowę z Orange, T-Mobile, Play, Plus. Sprawdziliśmy procedury",
+      "char_count": 9075
+    },
+    {
+      "article_id": "bankier_0098_james_murray_wchodzi_do_gry_czy_nowy_minister_zdro",
+      "url": "https://www.bankier.pl/wiadomosc/James-Murray-wchodzi-do-gry-Czy-nowy-minister-zdrowia-uratuje-rzad-Starmera-przed-upadkiem-9133490.html",
+      "status": 200,
+      "title": "James Murray wchodzi do gry. Czy nowy minister zdrowia uratuje rząd Starmera przed upadkiem?",
+      "char_count": 1283
+    },
+    {
+      "article_id": "bankier_0099_kghm_rusza_na_owy_w_chile_miedziowy_gigant_aczy_si",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-i-Grupa-Freeport-rozpoczynaja-wspolprace-przy-projekcie-poszukiwawczym-miedzi-w-Chile-9129106.html",
+      "status": 200,
+      "title": "KGHM rusza na łowy w Chile. Miedziowy gigant łączy siły z Amerykanami",
+      "char_count": 1880
+    },
+    {
+      "article_id": "bankier_0100_kghm_planuje_capex_w_2026_roku_na_4_mld_z_to_pozio",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-planuje-CAPEX-w-2026-roku-na-4-mld-zl-to-poziom-optymalny-prezes-9133047.html",
+      "status": 200,
+      "title": "KGHM planuje CAPEX w 2026 roku na 4 mld zł, to poziom optymalny",
+      "char_count": 1478
+    },
+    {
+      "article_id": "bankier_0101_kghm_rozmawia_z_podmiotami_zainteresowanymi_wspopr",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-rozmawia-z-podmiotami-zainteresowanymi-wspolpraca-w-obszarze-elektromobilnosci-9133061.html",
+      "status": 200,
+      "title": "KGHM rozmawia z podmiotami zainteresowanymi współpracą w obszarze elektromobilności",
+      "char_count": 762
+    },
+    {
+      "article_id": "bankier_0102_goracy_tydzien_na_rynkach_czy_wyniki_nvidii_i_dane",
+      "url": "https://www.bankier.pl/wiadomosc/Kalendarz-inwestora-Wyniki-Nvidii-PKB-Niemiec-i-maraton-raportow-z-GPW-9134032.html",
+      "status": 200,
+      "title": "Gorący tydzień na rynkach. Czy wyniki Nvidii i dane z polskiej gospodarki zaskoczą?",
+      "char_count": 4401
+    },
+    {
+      "article_id": "bankier_0103_kilka_rat_zamienisz_na_jedna_do_150_tys_z_na_konso",
+      "url": "https://www.bankier.pl/wiadomosc/Kilka-rat-zamienisz-na-jedna-Do-150-tys-zl-na-konsolidacje-w-Citi-Handlowym-9129974.html",
+      "status": 200,
+      "title": "Kilka rat zamienisz na jedną. Do 150 tys. zł na konsolidację w Citi Handlowym",
+      "char_count": 2422
+    },
+    {
+      "article_id": "bankier_0104_klub_centrum_chce_nowelizacji_prawa_oswiatowego",
+      "url": "https://www.bankier.pl/wiadomosc/Klub-Centrum-chce-nowelizacji-Prawa-oswiatowego-9134118.html",
+      "status": 200,
+      "title": "Klub Centrum chce nowelizacji Prawa oświatowego",
+      "char_count": 1655
+    },
+    {
+      "article_id": "bankier_0105_kolej_nadal_przegrywa_z_transportem_drogowym",
+      "url": "https://www.bankier.pl/wiadomosc/Kolej-nadal-przegrywa-z-transportem-drogowym-9130700.html",
+      "status": 200,
+      "title": "Kolej nadal przegrywa z transportem drogowym",
+      "char_count": 2521
+    },
+    {
+      "article_id": "bankier_0106_kolejna_rewolucja_w_pracach_domowych_ministerstwo_",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejna-rewolucja-w-pracach-domowych-Ministerstwo-odkrylo-karty-9131083.html",
+      "status": 200,
+      "title": "Kolejna rewolucja w pracach domowych? Ministerstwo odkryło karty",
+      "char_count": 4048
+    },
+    {
+      "article_id": "bankier_0107_kolejne_dwa_weta_prezydenta_jedno_dotyczy_likwidac",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-dwa-weta-Jedno-dotyczy-likwidacji-CBA-9131078.html",
+      "status": 200,
+      "title": "Kolejne dwa weta prezydenta. Jedno dotyczy likwidacji CBA",
+      "char_count": 8935
+    },
+    {
+      "article_id": "bankier_0108_koniec_drogich_pozyczek_na_wsi_nowe_dopaty_do_odse",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-drogich-pozyczek-na-wsi-Nowe-doplaty-do-odsetek-juz-blisko-9129131.html",
+      "status": 200,
+      "title": "Koniec drogich pożyczek na wsi? Nowe dopłaty do odsetek już blisko",
+      "char_count": 2399
+    },
+    {
+      "article_id": "bankier_0109_koniec_ery_viktora_orbana_fidesz_jest_wyeksploatow",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-Viktora-Orbana-Fidesz-jest-wyeksploatowany-9128924.html",
+      "status": 200,
+      "title": "Koniec ery Viktora Orbana. \"Fidesz jest wyeksploatowany\"",
+      "char_count": 1992
+    },
+    {
+      "article_id": "bankier_0110_koniec_miesiaca_miodowego_magyar_chce_miliardow_al",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-miesiaca-modowego-Magyar-chce-miliardow-ale-UE-stawia-twarde-warunki-9129123.html",
+      "status": 200,
+      "title": "Koniec miesiąca miodowego? Magyar chce miliardów, ale UE stawia twarde warunki",
+      "char_count": 2250
+    },
+    {
+      "article_id": "bankier_0111_koniec_wojny_trumpa_z_fiskusem_prezydent_wycofuje_",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-wojny-Trumpa-z-fiskusem-Prezydent-wycofuje-pozew-na-10-mld-powstaje-specjalny-fundusz-9133517.html",
+      "status": 200,
+      "title": "Koniec wojny Trumpa z fiskusem. Prezydent wycofuje pozew na 10 mld, powstaje specjalny fundusz",
+      "char_count": 3138
+    },
+    {
+      "article_id": "bankier_0112_korekta_na_giedach_paliw_ceny_ropy_w_do_mimo_zablo",
+      "url": "https://www.bankier.pl/wiadomosc/Korekta-na-gieldach-paliw-Ceny-ropy-w-dol-mimo-zablokowanej-ciesniny-Ormuz-9132038.html",
+      "status": 200,
+      "title": "Korekta na giełdach paliw. Ceny ropy w dół mimo zablokowanej cieśniny Ormuz",
+      "char_count": 2752
+    },
+    {
+      "article_id": "bankier_0113_krynica_vitamin_chce_wypacic_0_62_z_dywidendy_na_a",
+      "url": "https://www.bankier.pl/wiadomosc/Krynica-Vitamin-chce-wyplacic-0-62-zl-dywidendy-na-akcje-9134095.html",
+      "status": 200,
+      "title": "Krynica Vitamin chce wypłacić 0,62 zł dywidendy na akcję",
+      "char_count": 866
+    },
+    {
+      "article_id": "bankier_0114_kryptowaluty_pod_twardym_nadzorem_sejmowa_komisja_",
+      "url": "https://www.bankier.pl/wiadomosc/Kryptowaluty-pod-twardym-nadzorem-Sejmowa-komisja-odrzucila-poprawki-9133390.html",
+      "status": 200,
+      "title": "Kryptowaluty pod twardym nadzorem. Sejmowa komisja odrzuciła poprawki",
+      "char_count": 2937
+    },
+    {
+      "article_id": "bankier_0115_kto_sie_zakocha_w_jednej_spoce_a_kto_traci_przez_w",
+      "url": "https://www.bankier.pl/wiadomosc/Kto-sie-zakochal-w-jednej-spolce-a-kto-traci-przez-WIG20-9133875.html",
+      "status": 200,
+      "title": "Kto się zakochał w jednej spółce, a kto traci przez WIG20?",
+      "char_count": 6000
+    },
+    {
+      "article_id": "bankier_0116_kurs_kghm_wypali_w_strone_maksimow_wig20_z_najmocn",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-wypalil-w-strone-maksimow-WIG20-z-najmocniejszym-wzrostem-w-Europie-9132551.html",
+      "status": 200,
+      "title": "Kurs KGHM wypalił w stronę maksimów. WIG20 z najmocniejszym wzrostem w Europie",
+      "char_count": 4536
+    },
+    {
+      "article_id": "bankier_0117_burgery_nie_skusiy_kupujacych_debiut_rex_concepts_",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-PDA-Rex-Concepts-spadl-na-otwarciu-w-debiucie-na-GPW-o-2-86-proc-do-13-6-zl-9129091.html",
+      "status": 200,
+      "title": "Burgery nie skusiły kupujących. Debiut Rex Concepts na GPW lekko pod kreską",
+      "char_count": 3307
+    },
+    {
+      "article_id": "bankier_0118_kursy_mbanku_i_erste_bp_zwyzkuja_po_ok_5_proc_ing_",
+      "url": "https://www.bankier.pl/wiadomosc/Kursy-mBanku-i-Erste-BP-zwyzkuja-po-ok-5-proc-ING-Bank-Slaski-zyskuje-ponad-4-proc-9133130.html",
+      "status": 200,
+      "title": "Kursy mBanku i Erste BP zwyżkują po ok. 5 proc. ING Bank Śląski zyskuje ponad 4 proc.",
+      "char_count": 916
+    },
+    {
+      "article_id": "bankier_0119_aczna_sprzedaz_gry_silent_hill_2_to_6_mln_egzempla",
+      "url": "https://www.bankier.pl/wiadomosc/Laczna-sprzedaz-gry-Silent-Hill-2-to-6-mln-egzemplarzy-Bloober-Team-9133249.html",
+      "status": 200,
+      "title": "Łączna sprzedaż gry \"Silent Hill 2\" to 6 mln egzemplarzy",
+      "char_count": 329
+    },
+    {
+      "article_id": "bankier_0120_lawina_faszywych_tresci_w_sieci_deepfejki_i_manipu",
+      "url": "https://www.bankier.pl/wiadomosc/Lawina-falszywych-tresci-w-sieci-Deepfejki-i-manipulacje-AI-coraz-wiekszym-wyzwaniem-9132003.html",
+      "status": 200,
+      "title": "Lawina fałszywych treści w sieci. Deepfejki i manipulacje AI coraz większym wyzwaniem",
+      "char_count": 6318
+    },
+    {
+      "article_id": "bankier_0121_lekarze_z_ukrainy_traca_prace_bolesny_cios_w_polsk",
+      "url": "https://www.bankier.pl/wiadomosc/Lekarze-z-Ukrainy-traca-prace-Bolesny-cios-w-polskie-szpitale-9133510.html",
+      "status": 200,
+      "title": "Lekarze z Ukrainy tracą pracę. Bolesny cios w polskie szpitale",
+      "char_count": 1887
+    },
+    {
+      "article_id": "bankier_0122_leyen_o_atakach_na_kijow_rosja_otwarcie_kpi_z_wysi",
+      "url": "https://www.bankier.pl/wiadomosc/Leyen-o-atakach-na-Kijow-Rosja-otwarcie-kpi-z-wysilkow-dyplomatycznych-9133237.html",
+      "status": 200,
+      "title": "Leyen o atakach na Kijów: Rosja otwarcie kpi z wysiłków dyplomatycznych",
+      "char_count": 1418
+    },
+    {
+      "article_id": "bankier_0123_scope_fluidics_ma_opoznienie_linia_produkcyjna_w_p",
+      "url": "https://www.bankier.pl/wiadomosc/Linia-produkcyjna-w-projekcie-BACTEROMIC-uzyska-gotowosc-pozniej-niz-planowano-Scope-Fluidics-9134259.html",
+      "status": 200,
+      "title": "Scope Fluidics ma opóźnienie. Linia produkcyjna w projekcie BACTEROMIC uzyska gotowość później niż planowano",
+      "char_count": 1216
+    },
+    {
+      "article_id": "bankier_0124_gdzie_wpacic_wolne_oszczednosci_sprawdzamy_opcje_w",
+      "url": "https://www.bankier.pl/wiadomosc/Lokaty-dla-nowych-klientow-i-oferty-mobilne-Gdzie-wplacic-swoje-oszczednosci-9133134.html",
+      "status": 200,
+      "title": "Gdzie wpłacić wolne oszczędności? Sprawdzamy opcje w bankach",
+      "char_count": 6412
+    },
+    {
+      "article_id": "bankier_0125_mkis_przygotowao_projekt_zmian_w_ustawie_oze_propo",
+      "url": "https://www.bankier.pl/wiadomosc/MKiS-przygotowalo-projekt-zmian-w-ustawie-OZE-Proponuje-m-in-przyspieszenie-procedur-9133122.html",
+      "status": 200,
+      "title": "MKiŚ przygotowało projekt zmian w ustawie OZE. Proponuje m.in. przyspieszenie procedur",
+      "char_count": 2618
+    },
+    {
+      "article_id": "bankier_0126_mon_rozszerzy_program_pozamilitarnych_przygotowan_",
+      "url": "https://www.bankier.pl/wiadomosc/MON-rozszerzy-program-pozamilitarnych-przygotowan-obronnych-Caly-SAFE-dla-wojska-9134096.html",
+      "status": 200,
+      "title": "MON rozszerzy program pozamilitarnych przygotowań obronnych. Cały SAFE dla wojska",
+      "char_count": 6696
+    },
+    {
+      "article_id": "bankier_0127_majatek_karola_nawrockiego_wiemy_ile_oszczednosci_",
+      "url": "https://www.bankier.pl/wiadomosc/Majatek-Karola-Nawrockiego-Wiemy-ile-oszczednosci-zgromadzil-prezydent-9133991.html",
+      "status": 200,
+      "title": "Majątek Karola Nawrockiego. Wiemy, ile oszczędności zgromadził prezydent",
+      "char_count": 3316
+    },
+    {
+      "article_id": "bankier_0128_mama_i_dwoch_ojcow_historyczny_wyrok_w_bari_amie_t",
+      "url": "https://www.bankier.pl/wiadomosc/Mama-i-dwoch-ojcow-Historyczny-wyrok-w-Bari-lamie-tabu-we-Wloszech-9131990.html",
+      "status": 200,
+      "title": "Mama i dwóch ojców. Historyczny wyrok w Bari łamie tabu we Włoszech",
+      "char_count": 2463
+    },
+    {
+      "article_id": "bankier_0129_mamy_moc_nie_mamy_zasiegu_paradoks_polskich_stacji",
+      "url": "https://www.bankier.pl/wiadomosc/Mamy-moc-nie-mamy-zasiegu-Paradoks-polskich-stacji-ladowania-elektrykow-9131994.html",
+      "status": 200,
+      "title": "Mamy moc, nie mamy zasięgu. Paradoks polskich stacji ładowania elektryków",
+      "char_count": 2783
+    },
+    {
+      "article_id": "bankier_0130_masowka_z_marketu_regionalnym_rarytasem_zdrapuja_p",
+      "url": "https://www.bankier.pl/wiadomosc/Masowka-z-marketu-regionalnym-rarytasem-Zdrapuja-pieczatki-i-nacieraja-zywnosc-ziemia-9130322.html",
+      "status": 200,
+      "title": "Masówka z marketu \"regionalnym rarytasem\". Zdrapują pieczątki i nacierają żywność ziemią",
+      "char_count": 3125
+    },
+    {
+      "article_id": "bankier_0131_medicalgorithmics_ma_list_intencyjny_z_frk_i_biofu",
+      "url": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-ma-list-intencyjny-z-FRK-i-BioFund-ws-projektu-dot-leczenia-wad-serca-9132609.html",
+      "status": 200,
+      "title": "Medicalgorithmics ma list intencyjny z FRK i BioFund ws. projektu dot. leczenia wad serca",
+      "char_count": 1428
+    },
+    {
+      "article_id": "bankier_0132_mentzen_zatrzymany_w_londynie_wielka_brytania_to_p",
+      "url": "https://www.bankier.pl/wiadomosc/Mentzen-zatrzymany-w-Londynie-Wielka-Brytania-to-panstwo-totalitarne-9130320.html",
+      "status": 200,
+      "title": "Mentzen zatrzymany w Londynie. \"Wielka Brytania to państwo totalitarne\"",
+      "char_count": 3698
+    },
+    {
+      "article_id": "bankier_0133_merz_jestem_wielkim_wielbicielem_usa_ale_moj_podzi",
+      "url": "https://www.bankier.pl/wiadomosc/Merz-Jestem-wielkim-wielbicielem-USA-ale-moj-podziw-teraz-nie-rosnie-9133980.html",
+      "status": 200,
+      "title": "Merz: Jestem wielkim wielbicielem USA, ale mój podziw teraz nie rośnie",
+      "char_count": 2307
+    },
+    {
+      "article_id": "bankier_0134_mia_byc_spokoj_by_parking_za_800_zotych_wyjazdy_do",
+      "url": "https://www.bankier.pl/wiadomosc/Mial-byc-spokoj-byl-parking-za-800-zlotych-Wyjazdy-do-sanatorium-z-wlasnym-portfelem-9133801.html",
+      "status": 200,
+      "title": "Miał być spokój, był parking za 800 złotych. Wyjazdy do sanatorium z własnym portfelem?",
+      "char_count": 1348
+    },
+    {
+      "article_id": "bankier_0135_miedz_bije_rekordy_wszech_czasow_boom_na_ai_i_brak",
+      "url": "https://www.bankier.pl/wiadomosc/Miedz-bije-rekordy-wszech-czasow-Boom-na-AI-i-braki-kwasu-siarkowego-winduja-ceny-9132580.html",
+      "status": 200,
+      "title": "Miedź bije rekordy wszech czasów. Boom na AI i braki kwasu siarkowego windują ceny",
+      "char_count": 2451
+    },
+    {
+      "article_id": "bankier_0136_mieszkanie_od_miasta_bez_kolejki_ruszy_warszawski_",
+      "url": "https://www.bankier.pl/wiadomosc/Mieszkanie-od-miasta-bez-kolejki-Ruszy-warszawski-SAN-9133271.html",
+      "status": 200,
+      "title": "Mieszkanie od miasta bez kolejki? Ruszy warszawski SAN",
+      "char_count": 3320
+    },
+    {
+      "article_id": "bankier_0137_milczaca_zgoda_w_urzedzie_sejm_zdecydowa_o_zmianac",
+      "url": "https://www.bankier.pl/wiadomosc/Milczaca-zgoda-w-urzedzie-Sejm-zdecydowal-o-zmianach-9133717.html",
+      "status": 200,
+      "title": "Milcząca zgoda w urzędzie. Sejm zdecydował o zmianach",
+      "char_count": 1713
+    },
+    {
+      "article_id": "bankier_0138_inflacja_najnizsza_od_roku_ale_spoeczenstwo_mowi_o",
+      "url": "https://www.bankier.pl/wiadomosc/Milei-oglasza-sukces-Inflacja-najnizsza-od-roku-ale-spoleczenstwo-mowi-o-drozyznie-9134112.html",
+      "status": 200,
+      "title": "Inflacja najniższa od roku, ale społeczeństwo mówi o drożyźnie",
+      "char_count": 1691
+    },
+    {
+      "article_id": "bankier_0139_miliardy_euro_na_energetyke_i_ai_tak_francja_chce_",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-euro-na-energetyke-i-AI-Tak-Francja-chce-odzyskac-wplywy-w-Afryce-9131950.html",
+      "status": 200,
+      "title": "Miliardy euro na energetykę i AI. Tak Francja chce odzyskać wpływy w Afryce",
+      "char_count": 1927
+    },
+    {
+      "article_id": "bankier_0140_miliardy_pyna_do_polski_szyszko_wykorzystamy_cae_1",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-plyna-do-Polski-Szyszko-Wykorzystamy-cale-110-mld-zl-z-czesci-grantowej-KPO-9132604.html",
+      "status": 200,
+      "title": "Miliardy płyną do Polski. Szyszko: Wykorzystamy całe 110 mld zł z części grantowej KPO",
+      "char_count": 2591
+    },
+    {
+      "article_id": "bankier_0141_milton_essex_ma_umowe_o_wspopracy_z_creotech_quant",
+      "url": "https://www.bankier.pl/wiadomosc/Milton-Essex-ma-umowe-o-wspolpracy-z-Creotech-Quantum-9134247.html",
+      "status": 200,
+      "title": "Milton Essex ma umowę o współpracy z Creotech Quantum",
+      "char_count": 879
+    },
+    {
+      "article_id": "bankier_0142_mniej_pytan_wiecej_praktyki_ministerstwo_szykuje_r",
+      "url": "https://www.bankier.pl/wiadomosc/Mniej-pytan-wiecej-praktyki-Ministerstwo-szykuje-rewolucje-w-prawie-jazdy-9133457.html",
+      "status": 200,
+      "title": "Mniej pytań, więcej praktyki. Ministerstwo szykuje rewolucję w prawie jazdy",
+      "char_count": 4794
+    },
+    {
+      "article_id": "bankier_0143_mo_bruk_chce_wypacic_15_23_z_dywidendy_na_akcje",
+      "url": "https://www.bankier.pl/wiadomosc/Mo-Bruk-chce-wyplacic-15-23-zl-dywidendy-na-akcje-9133993.html",
+      "status": 200,
+      "title": "Mo-Bruk chce wypłacić 15,23 zł dywidendy na akcję",
+      "char_count": 465
+    },
+    {
+      "article_id": "bankier_0144_mostostal_warszawa_szacuje_ze_mia_9_7_mln_z_straty",
+      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-szacuje-ze-mial-9-7-mln-zl-straty-netto-j-d-w-I-kw-26-9131173.html",
+      "status": 200,
+      "title": "Mostostal Warszawa szacuje, że miał 9,7 mln zł straty netto j.d. w I kw. '26",
+      "char_count": 1249
+    },
+    {
+      "article_id": "bankier_0145_naga_rezygnacja_w_waznej_agencji_oto_nowe_zadanie_",
+      "url": "https://www.bankier.pl/wiadomosc/Nagla-rezygnacja-w-waznej-agencji-Oto-nowe-zadania-szefa-ARP-9134267.html",
+      "status": 200,
+      "title": "Nagła rezygnacja w ważnej agencji. Oto nowe zadanie szefa ARP",
+      "char_count": 2398
+    },
+    {
+      "article_id": "bankier_0146_nagy_ruch_pentagonu_w_europie_polska_zelaznym_part",
+      "url": "https://www.bankier.pl/wiadomosc/Nagly-ruch-Pentagonu-w-Europie-Polska-zelaznym-partnerem-9133971.html",
+      "status": 200,
+      "title": "Nagły ruch Pentagonu w Europie. Polska \"żelaznym partnerem\"",
+      "char_count": 6226
+    },
+    {
+      "article_id": "bankier_0147_napiecie_na_linii_teheran_waszyngton_pady_ostre_so",
+      "url": "https://www.bankier.pl/wiadomosc/Napiecie-na-linii-Teheran-Waszyngton-Padly-ostre-slowa-o-sprzecznych-sygnalach-USA-9133948.html",
+      "status": 200,
+      "title": "Napięcie na linii Teheran-Waszyngton. Padły ostre słowa o \"sprzecznych sygnałach\" USA",
+      "char_count": 4521
+    },
+    {
+      "article_id": "bankier_0148_narodowa_hanba_marynarce_brakuje_statkow_a_dowodzt",
+      "url": "https://www.bankier.pl/wiadomosc/Narodowa-hanba-Marynarce-brakuje-statkow-a-dowodztwo-zajmuje-sie-guzikami-9132952.html",
+      "status": 200,
+      "title": "\"Narodowa hańba\". Marynarce brakuje statków, a dowództwo zajmuje się guzikami",
+      "char_count": 2429
+    },
+    {
+      "article_id": "bankier_0149_nasdaq_wspia_sie_na_nowy_szczyt_poprzewodnikowa_ho",
+      "url": "https://www.bankier.pl/wiadomosc/Nasdaq-wspial-sie-na-nowy-szczyt-Polprzewodnikowa-hossa-trwa-w-najlepsze-9130357.html",
+      "status": 200,
+      "title": "Nasdaq wspiął się na nowy szczyt. Półprzewodnikowa hossa trwa w najlepsze",
+      "char_count": 3881
+    },
+    {
+      "article_id": "bankier_0150_niewiadow_ma_memorandum_o_wspopracy_z_sowackim_zts",
+      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-ma-memorandum-o-wspolpracy-z-slowackim-ZTS-9133575.html",
+      "status": 200,
+      "title": "Niewiadów ma memorandum o współpracy z słowackim ZTS",
+      "char_count": 997
+    },
+    {
+      "article_id": "bankier_0151_noble_securities_obnizy_cene_docelowa_akcji_creepy",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Creepy-Jar-do-616-zl-9131096.html",
+      "status": 200,
+      "title": "Noble Securities obniżył cenę docelową akcji Creepy Jar do 616 zł",
+      "char_count": 962
+    },
+    {
+      "article_id": "bankier_0152_nocne_techno_w_wilanowie_pod_lupa_suzb_bya_to_decy",
+      "url": "https://www.bankier.pl/wiadomosc/Nocne-techno-w-Wilanowie-pod-lupa-sluzb-Byla-to-decyzja-ryzykowna-9131598.html",
+      "status": 200,
+      "title": "Nocne techno w Wilanowie pod lupą służb. \"Była to decyzja ryzykowna\"",
+      "char_count": 8328
+    },
+    {
+      "article_id": "bankier_0153_nowa_szefowa_wegierskiego_msz_do_rosji_oczekujemy_",
+      "url": "https://www.bankier.pl/wiadomosc/Nowa-szefowa-wegierskiego-MSZ-do-Rosji-oczekujemy-zakonczenia-atakow-na-ludnosc-cywilna-9133334.html",
+      "status": 200,
+      "title": "Nowa szefowa węgierskiego MSZ do Rosji: oczekujemy zakończenia ataków na ludność cywilną",
+      "char_count": 1946
+    },
+    {
+      "article_id": "bankier_0154_nowe_otwarcie_w_relacjach_budapeszt_warszawa_magya",
+      "url": "https://www.bankier.pl/wiadomosc/Nowe-otwarcie-w-relacjach-Budapeszt-Warszawa-Magyar-z-pierwsza-wizyta-zagraniczna-w-Polsce-9132618.html",
+      "status": 200,
+      "title": "Nowe otwarcie w relacjach Budapeszt-Warszawa. Magyar z pierwszą wizytą zagraniczną w Polsce",
+      "char_count": 3145
+    },
+    {
+      "article_id": "bankier_0155_nowy_pakt_obronny_polska_niemcy_negocjacje_wasnie_",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-pakt-obronny-Polska-Niemcy-Negocjacje-wlasnie-dobiegaja-konca-9133203.html",
+      "status": 200,
+      "title": "Nowy pakt obronny Polska-Niemcy. Negocjacje właśnie dobiegają końca",
+      "char_count": 1744
+    },
+    {
+      "article_id": "bankier_0156_nowy_podatek_dla_gigantow_paliwowych_motyka_powini",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-podatek-dla-gigantow-paliwowych-Motyka-Powinien-objac-zyski-z-calego-okresu-kryzysu-9133244.html",
+      "status": 200,
+      "title": "Nowy podatek dla gigantów paliwowych. Motyka: Powinien objąć zyski z całego okresu kryzysu",
+      "char_count": 4789
+    },
+    {
+      "article_id": "bankier_0157_nowy_podatek_dla_sektora_gazowego_rzad_chce_sfinan",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-podatek-dla-sektora-gazowego-Rzad-chce-sfinansowac-tansze-paliwa-kosztem-gigantow-9133745.html",
+      "status": 200,
+      "title": "Nowy podatek dla sektora gazowego. Rząd chce sfinansować tańsze paliwa kosztem gigantów",
+      "char_count": 1917
+    },
+    {
+      "article_id": "bankier_0158_nowy_wariant_hantawirusa_naukowcy_z_instytutu_past",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-wariant-hantawirusa-Naukowcy-z-Instytutu-Pasteura-zbadali-probki-9134356.html",
+      "status": 200,
+      "title": "Nowy wariant hantawirusa? Naukowcy z Instytutu Pasteura zbadali próbki",
+      "char_count": 1958
+    },
+    {
+      "article_id": "bankier_0159_obronnosc_pod_kontrola_sobkowiak_czarnecka_sojusz_",
+      "url": "https://www.bankier.pl/wiadomosc/Obronnosc-pod-kontrola-Sobkowiak-Czarnecka-Sojusz-z-USA-jest-coraz-mocniejszy-9133018.html",
+      "status": 200,
+      "title": "Obronność pod kontrolą. Sobkowiak-Czarnecka: Sojusz z USA jest coraz mocniejszy",
+      "char_count": 4469
+    },
+    {
+      "article_id": "bankier_0160_od_orbity_do_gospodarki_uznanski_wisniewski_trzeba",
+      "url": "https://www.bankier.pl/wiadomosc/Od-orbity-do-gospodarki-Uznanski-Wisniewski-Trzeba-zbudowac-strategie-dla-sektora-kosmicznego-9132627.html",
+      "status": 200,
+      "title": "Od orbity do gospodarki. Uznański-Wiśniewski: Trzeba zbudować strategię dla sektora kosmicznego",
+      "char_count": 5178
+    },
+    {
+      "article_id": "bankier_0161_odchodzi_pierwszy_drukarz_ameryki_szef_fedu_ktory_",
+      "url": "https://www.bankier.pl/wiadomosc/Odchodzi-pierwszy-drukarz-Ameryki-Szef-Fedu-ktory-przegral-z-inflacja-9133128.html",
+      "status": 200,
+      "title": "Odchodzi \"pierwszy drukarz Ameryki\". Szef Fedu, który przegrał z inflacją",
+      "char_count": 10325
+    },
+    {
+      "article_id": "bankier_0162_oficjalne_aktywa_nbp_polska_zwieksza_zapasy_zota",
+      "url": "https://www.bankier.pl/wiadomosc/Oficjalne-aktywa-NBP-Polska-zwieksza-zapasy-zlota-9133975.html",
+      "status": 200,
+      "title": "Oficjalne aktywa NBP. Polska zwiększa zapasy złota",
+      "char_count": 1185
+    },
+    {
+      "article_id": "bankier_0163_onde_wypaci_dywidende_za_25_w_wys_0_31_z_na_akcje",
+      "url": "https://www.bankier.pl/wiadomosc/Onde-wyplaci-dywidende-za-25-w-wys-0-31-zl-na-akcje-9133270.html",
+      "status": 200,
+      "title": "Onde wypłaci dywidendę za '25 w wys. 0,31 zł na akcję",
+      "char_count": 436
+    },
+    {
+      "article_id": "bankier_0164_oponeo_pl_chce_wypacic_1_z_dywidendy_na_akcje_za_2",
+      "url": "https://www.bankier.pl/wiadomosc/Oponeo-pl-chce-wyplacic-1-zl-dywidendy-na-akcje-za-25-9133195.html",
+      "status": 200,
+      "title": "Oponeo.pl chce wypłacić 1 zł dywidendy na akcję za '25",
+      "char_count": 642
+    },
+    {
+      "article_id": "bankier_0165_ordynacja_podatkowa_po_nowemu_koniec_z_uciazliwym_",
+      "url": "https://www.bankier.pl/wiadomosc/Ordynacja-podatkowa-po-nowemu-Koniec-z-uciazliwym-obowiazkiem-9133709.html",
+      "status": 200,
+      "title": "Ordynacja podatkowa po nowemu. Koniec z uciążliwym obowiązkiem",
+      "char_count": 1838
+    },
+    {
+      "article_id": "bankier_0166_putin_namiesza_na_gpw_orlen_kghm_oraz_banki_w_gore",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-KGHM-banki-oraz-Putin-napedzaja-wzrosty-WIG20-Tego-skladu-nie-pokona-nawet-konsumencka-ekstraklasa-9131142.html",
+      "status": 200,
+      "title": "Putin namieszał na GPW: Orlen, KGHM oraz banki w górę konsumencka ekstraklasa w dół",
+      "char_count": 5226
+    },
+    {
+      "article_id": "bankier_0167_orlen_tnie_stawki_hurtowe_przed_weekendem_znamy_ce",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-tnie-stawki-hurtowe-przed-weekendem-Znamy-ceny-benzyny-i-oleju-napedowego-9133635.html",
+      "status": 200,
+      "title": "Orlen tnie stawki hurtowe przed weekendem. Znamy ceny benzyny i oleju napędowego",
+      "char_count": 3606
+    },
+    {
+      "article_id": "bankier_0168_ostre_starcie_na_szczycie_brics_iran_oskarza_zea_o",
+      "url": "https://www.bankier.pl/wiadomosc/Ostre-starcie-na-szczycie-BRICS-Iran-oskarza-ZEA-o-zdrade-i-udzial-w-wojnie-9133097.html",
+      "status": 200,
+      "title": "Ostre starcie na szczycie BRICS. Iran oskarża ZEA o zdradę i udział w wojnie",
+      "char_count": 2278
+    },
+    {
+      "article_id": "bankier_0169_pge_szacuje_powtarzalna_ebitda_w_i_kw_26_na_4_14_m",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-szacuje-powtarzalna-EBITDA-w-I-kw-26-na-4-14-mld-zl-zysk-netto-na-1-94-mld-zl-9133357.html",
+      "status": 200,
+      "title": "PGE szacuje powtarzalną EBITDA w I kw. '26 na 4,14 mld zł; zysk netto na 1,94 mld zł",
+      "char_count": 2280
+    },
+    {
+      "article_id": "bankier_0170_pkp_cargo_zozyo_wniosek_o_zmiane_terminu_przekazan",
+      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zlozylo-wniosek-o-zmiane-terminu-przekazania-projektu-propozycji-ukladowych-radzie-wierzycieli-9133753.html",
+      "status": 200,
+      "title": "PKP Cargo złożyło wniosek o zmianę terminu przekazania projektu propozycji układowych radzie wierzycieli",
+      "char_count": 1900
+    },
+    {
+      "article_id": "bankier_0171_paliwowy_protest_w_szczecinie_mieszkancy_podjuch_z",
+      "url": "https://www.bankier.pl/wiadomosc/Paliwowy-protest-w-Szczecinie-Mieszkancy-Podjuch-zadaja-rozbiorki-gigantycznej-samowoli-9130296.html",
+      "status": 200,
+      "title": "Paliwowy protest w Szczecinie. Mieszkańcy Podjuch żądają rozbiórki gigantycznej samowoli",
+      "char_count": 3173
+    },
+    {
+      "article_id": "bankier_0172_parasol_ochronny_usa_to_mit_finowie_nie_wierza_ze_",
+      "url": "https://www.bankier.pl/wiadomosc/Parasol-ochronny-USA-to-mit-Finowie-nie-wierza-ze-Trump-obroni-Europe-9131970.html",
+      "status": 200,
+      "title": "Parasol ochronny USA to mit? Finowie nie wierzą, że Trump obroni Europę",
+      "char_count": 2027
+    },
+    {
+      "article_id": "bankier_0173_paszport_tylko_dla_lojalnych_koniec_z_automatyzmem",
+      "url": "https://www.bankier.pl/wiadomosc/Paszport-tylko-dla-lojalnych-Koniec-z-automatyzmem-w-nadawaniu-obywatelstwa-9132001.html",
+      "status": 200,
+      "title": "Paszport tylko dla lojalnych. Koniec z \"automatyzmem\" w nadawaniu obywatelstwa",
+      "char_count": 4105
+    },
+    {
+      "article_id": "bankier_0174_pat_w_sprawie_aresztu_ziobry_zurek_wniosek_o_ekstr",
+      "url": "https://www.bankier.pl/wiadomosc/Pat-w-sprawie-aresztu-Ziobry-Zurek-Wniosek-o-ekstradycje-jest-gotowy-9133488.html",
+      "status": 200,
+      "title": "Pat w sprawie aresztu Ziobry. Żurek: Wniosek o ekstradycję jest gotowy",
+      "char_count": 5398
+    },
+    {
+      "article_id": "bankier_0175_pekao_zdecydowa_o_wczesniejszym_wykupie_obligacji_",
+      "url": "https://www.bankier.pl/wiadomosc/Pekao-zdecydowal-o-wczesniejszym-wykupie-obligacji-podporzadkowanych-serii-D-oraz-D1-9131148.html",
+      "status": 200,
+      "title": "Pekao zdecydował o wcześniejszym wykupie obligacji podporządkowanych serii D oraz D1",
+      "char_count": 432
+    },
+    {
+      "article_id": "bankier_0176_pentagon_anulowa_wysanie_brygady_do_polski_dowodca",
+      "url": "https://www.bankier.pl/wiadomosc/Pentagon-anulowal-wyslanie-brygady-do-Polski-Dowodca-US-Army-najlepsza-opcja-redukcji-wojsk-w-Europie-9134082.html",
+      "status": 200,
+      "title": "Pentagon anulował wysłanie brygady do Polski. Dowódca US Army: najlepsza opcja redukcji wojsk w Europie",
+      "char_count": 12968
+    },
+    {
+      "article_id": "bankier_0177_ponie_gazowy_gigant_w_astrachaniu_szczatki_stracon",
+      "url": "https://www.bankier.pl/wiadomosc/Plonie-gazowy-gigant-w-Astrachaniu-Szczatki-straconego-drona-spadly-1700-km-od-frontu-9132118.html",
+      "status": 200,
+      "title": "Płonie gazowy gigant w Astrachaniu. Szczątki strąconego drona spadły 1700 km od frontu",
+      "char_count": 1177
+    },
+    {
+      "article_id": "bankier_0178_poczatek_konca_starmera_popularny_burmistrz_manche",
+      "url": "https://www.bankier.pl/wiadomosc/Poczatek-konca-Starmera-Popularny-burmistrz-Manchesteru-rzuca-mu-wyzwanie-9133459.html",
+      "status": 200,
+      "title": "Początek końca Starmera? Popularny burmistrz Manchesteru rzuca mu wyzwanie",
+      "char_count": 2351
+    },
+    {
+      "article_id": "bankier_0179_podatek_od_darowizn_dla_powodzian_sejm_podja_klucz",
+      "url": "https://www.bankier.pl/wiadomosc/Podatek-od-darowizn-dla-powodzian-Sejm-podjal-kluczowa-decyzje-9133700.html",
+      "status": 200,
+      "title": "Podatek od darowizn dla powodzian. Sejm podjął kluczową decyzję",
+      "char_count": 972
+    },
+    {
+      "article_id": "bankier_0180_podatek_od_e_papierosow_ostro_w_gore_sejm_zdecydow",
+      "url": "https://www.bankier.pl/wiadomosc/Podatek-od-e-papierosow-ostro-w-gore-Sejm-zdecydowal-o-nowej-oplacie-9133715.html",
+      "status": 200,
+      "title": "Podatek od e-papierosów ostro w górę. Sejm zdecydował o nowej opłacie",
+      "char_count": 1165
+    },
+    {
+      "article_id": "bankier_0181_polacy_jedynym_spoeczenstwem_w_ue_opowiadajacym_si",
+      "url": "https://www.bankier.pl/wiadomosc/Polacy-jedynym-spoleczenstwem-w-UE-opowiadajacym-sie-za-amerykanskimi-bazami-9133476.html",
+      "status": 200,
+      "title": "Polacy jedynym społeczeństwem w UE opowiadającym się za amerykańskimi bazami",
+      "char_count": 2170
+    },
+    {
+      "article_id": "bankier_0182_policyjny_sojusz_2_0_polska_i_ukraina_ruszaja_na_w",
+      "url": "https://www.bankier.pl/wiadomosc/Policyjny-sojusz-2-0-Polska-i-Ukraina-ruszaja-na-wspolne-lowy-9129167.html",
+      "status": 200,
+      "title": "Policyjny sojusz 2.0. Polska i Ukraina ruszają na wspólne \"łowy\"",
+      "char_count": 3812
+    },
+    {
+      "article_id": "bankier_0183_polska_jako_energetyczny_hub_europy_sikorski_i_amb",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-jako-energetyczny-hub-Europy-Sikorski-i-ambasador-USA-o-Baltic-Eagle-Gas-Hub-9133117.html",
+      "status": 200,
+      "title": "Polska jako energetyczny hub Europy. Sikorski i ambasador USA o Baltic Eagle Gas Hub",
+      "char_count": 3365
+    },
+    {
+      "article_id": "bankier_0184_polska_jednym_z_najbardziej_atrakcyjnych_rynkow_in",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-jednym-z-najbardziej-atrakcyjnych-rynkow-inwestycyjnych-w-Europie-9129033.html",
+      "status": 200,
+      "title": "Polska jednym z najbardziej atrakcyjnych rynków inwestycyjnych w Europie",
+      "char_count": 1789
+    },
+    {
+      "article_id": "bankier_0185_polska_powinna_uczyc_sie_od_madrytu_pady_wazne_sow",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-powinna-uczyc-sie-od-Madrytu-Padly-wazne-slowa-o-fali-migracji-9131122.html",
+      "status": 200,
+      "title": "Polska powinna uczyć się od Madrytu? Padły ważne słowa o fali migracji",
+      "char_count": 4084
+    },
+    {
+      "article_id": "bankier_0186_polska_staa_sie_hakerskim_poligonem_europy",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-stala-sie-hakerskim-poligonem-Europy-9133508.html",
+      "status": 200,
+      "title": "Polska stała się „hakerskim poligonem” Europy",
+      "char_count": 1374
+    },
+    {
+      "article_id": "bankier_0187_polska_w_swiatowej_czoowce_najtrudniejszych_panstw",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-w-swiatowej-czolowce-najtrudniejszych-panstw-do-robienia-biznesu-9133511.html",
+      "status": 200,
+      "title": "Polska w światowej czołówce najtrudniejszych państw do robienia biznesu",
+      "char_count": 2030
+    },
+    {
+      "article_id": "bankier_0188_pomoc_po_przymrozkach_rzad_szykuje_zmiany_w_prawie",
+      "url": "https://www.bankier.pl/wiadomosc/Pomoc-po-przymrozkach-Rzad-szykuje-zmiany-w-prawie-i-tanie-kredyty-9133175.html",
+      "status": 200,
+      "title": "Pomoc po przymrozkach. Rząd szykuje zmiany w prawie i tanie kredyty",
+      "char_count": 3960
+    },
+    {
+      "article_id": "bankier_0189_ponad_miesiac_liczenia_gosow_peru_szykuje_sie_na_i",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-miesiac-liczenia-glosow-Peru-szykuje-sie-na-II-ture-wyborow-prezydenckich-9134272.html",
+      "status": 200,
+      "title": "Ponad miesiąc liczenia głosów. Peru szykuje się na II turę wyborów prezydenckich",
+      "char_count": 1784
+    },
+    {
+      "article_id": "bankier_0190_potezna_przecena_na_rynku_akcji_i_duze_zmiany_na_s",
+      "url": "https://www.bankier.pl/wiadomosc/Potezna-przecena-na-rynku-akcji-i-duze-zmiany-na-spolkach-10-na-Dino-i-8-6-na-KGHM-9134167.html",
+      "status": 200,
+      "title": "Potężna przecena na rynku akcji i duże zmiany na spółkach. +10% na Dino i -8,6% na KGHM",
+      "char_count": 4203
+    },
+    {
+      "article_id": "bankier_0191_polski_krol_bitcoinow_miliardowe_imperium_i_brutal",
+      "url": "https://www.bankier.pl/wiadomosc/Prawdziwa-historia-polskiego-krola-kryptowalut-Miliardowe-imperium-i-brutalna-wojna-mafii-9131973.html",
+      "status": 200,
+      "title": "Polski król bitcoinów. Miliardowe imperium i brutalna wojna mafii",
+      "char_count": 1311
+    },
+    {
+      "article_id": "bankier_0192_pretekst_do_ataku_na_kraje_batyckie_moskwa_przyjmu",
+      "url": "https://www.bankier.pl/wiadomosc/Pretekst-do-ataku-na-kraje-baltyckie-Moskwa-przyjmuje-prawo-o-zbrojnej-ochronie-9132581.html",
+      "status": 200,
+      "title": "Pretekst do ataku na kraje bałtyckie? Moskwa przyjmuje prawo o zbrojnej „ochronie”",
+      "char_count": 1095
+    },
+    {
+      "article_id": "bankier_0193_prezesi_inpostu_i_allegro_usiedli_do_rozmowy_brzos",
+      "url": "https://www.bankier.pl/wiadomosc/Prezesi-InPostu-i-Allegro-usiedli-do-rozmowy-Brzoska-Ciesze-ze-zmieniles-zdanie-9133221.html",
+      "status": 200,
+      "title": "Prezesi InPostu i Allegro usiedli do rozmowy. Brzoska: Cieszę się, że zmieniłeś zdanie",
+      "char_count": 4124
+    },
+    {
+      "article_id": "bankier_0194_prezydent_estonii_ostrzega_europe_stoimy_w_obliczu",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Estonii-ostrzega-Europe-Stoimy-w-obliczu-egzystencjalnych-zagrozen-9134375.html",
+      "status": 200,
+      "title": "Prezydent Estonii ostrzega Europę. \"Stoimy w obliczu egzystencjalnych zagrożeń\"",
+      "char_count": 2407
+    },
+    {
+      "article_id": "bankier_0195_prezydent_sulyok_musi_odejsc_60_proc_wegrow_domaga",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Sulyok-musi-odejsc-60-proc-Wegrow-domaga-sie-dymisji-9133422.html",
+      "status": 200,
+      "title": "Prezydent Sulyok musi odejść? 60 proc. Węgrów domaga się dymisji",
+      "char_count": 1956
+    },
+    {
+      "article_id": "bankier_0196_prezydent_ukrainy_dziekuje_warszawie_zeenski_polsk",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Ukrainy-dziekuje-Warszawie-Zelenski-Polska-bedzie-kontynuowac-wsparcie-9132573.html",
+      "status": 200,
+      "title": "Prezydent Ukrainy dziękuje Warszawie. Zełenski: Polska będzie kontynuować wsparcie",
+      "char_count": 1159
+    },
+    {
+      "article_id": "bankier_0197_prezydent_podpisa_nowele_umozliwiajaca_pozyczki_z_",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-nowele-umozliwiajaca-pozyczki-z-ARP-dla-JSW-i-Azotow-9131105.html",
+      "status": 200,
+      "title": "Prezydent podpisał nowelę umożliwiającą pożyczki z ARP dla JSW i Azotów",
+      "char_count": 3254
+    },
+    {
+      "article_id": "bankier_0198_batyk_staje_sie_placem_budowy_baltica_2_da_prad_2_",
+      "url": "https://www.bankier.pl/wiadomosc/Projekt-Baltica-2-idzie-zgodnie-z-harmonogramem-Baltica-3-nadal-na-etapie-optymalizacji-Orsted-wywiad-9133022.html",
+      "status": 200,
+      "title": "Bałtyk staje się placem budowy. Baltica 2 da prąd 2,5 mln Polaków już w 2027 roku",
+      "char_count": 6500
+    },
+    {
+      "article_id": "bankier_0199_prosta_promocja_w_erste_zgarnij_nawet_700_z_premii",
+      "url": "https://www.bankier.pl/wiadomosc/Prosta-promocja-w-Erste-Zgarnij-nawet-700-zl-premii-na-Koncie-Smart-9128496.html",
+      "status": 200,
+      "title": "Prosta promocja w Erste. Zgarnij nawet 700 zł premii na Koncie Smart",
+      "char_count": 3452
+    },
+    {
+      "article_id": "bankier_0200_protestujacy_gornicy_starli_sie_z_policja_na_ulica",
+      "url": "https://www.bankier.pl/wiadomosc/Protestujacy-gornicy-starli-sie-z-policja-na-ulicach-La-Paz-9133630.html",
+      "status": 200,
+      "title": "Protestujący górnicy starli się z policją na ulicach La Paz",
+      "char_count": 1498
+    },
+    {
+      "article_id": "bankier_0201_prywatny_czowiek_i_geopolityka_nawrocki_o_ziobrze_",
+      "url": "https://www.bankier.pl/wiadomosc/Prywatny-czlowiek-i-geopolityka-Nawrocki-o-Ziobrze-Nie-wplynie-na-relacje-polsko-amerykanskie-9132583.html",
+      "status": 200,
+      "title": "„Prywatny człowiek” i geopolityka. Nawrocki o Ziobrze: Nie wpłynie na relacje polsko-amerykańskie",
+      "char_count": 4225
+    },
+    {
+      "article_id": "bankier_0202_przeom_w_elektrociepowni_radlin_jsw_koks_ogasza_wi",
+      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Elektrocieplowni-Radlin-JSW-Koks-oglasza-wielki-sukces-testow-9129109.html",
+      "status": 200,
+      "title": "Przełom w Elektrociepłowni Radlin. JSW Koks ogłasza wielki sukces testów",
+      "char_count": 1570
+    },
+    {
+      "article_id": "bankier_0203_przeom_w_wojnie_z_iranem_trump_ujawni_tresc_rozmow",
+      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-wojnie-z-Iranem-Trump-ujawnil-tresc-rozmowy-z-Xi-Jinpingiem-9133358.html",
+      "status": 200,
+      "title": "Przełom w wojnie z Iranem? Trump ujawnił treść rozmowy z Xi Jinpingiem",
+      "char_count": 5228
+    },
+    {
+      "article_id": "bankier_0204_przeomowa_reforma_e_zdrowia_pacjenci_moga_juz_zapo",
+      "url": "https://www.bankier.pl/wiadomosc/Przelomowa-reforma-e-zdrowia-Pacjenci-moga-juz-zapomniec-o-teczkach-9134258.html",
+      "status": 200,
+      "title": "Przełomowa reforma e-zdrowia. Pacjenci mogą już zapomnieć o teczkach",
+      "char_count": 4995
+    },
+    {
+      "article_id": "bankier_0205_adam_leszkiewicz_odchodzi_z_azotow",
+      "url": "https://www.bankier.pl/wiadomosc/Przewodniczacy-RN-Grupy-Azoty-Adam-Leszkiewicz-zlozyl-rezygnacje-ze-skutkiem-na-31-maja-9133235.html",
+      "status": 200,
+      "title": "Adam Leszkiewicz odchodzi z Azotów",
+      "char_count": 944
+    },
+    {
+      "article_id": "bankier_0206_przyszosc_ludzkosci_na_szali_relacje_usa_chiny_jak",
+      "url": "https://www.bankier.pl/wiadomosc/Przyszlosc-ludzkosci-na-szali-Relacje-USA-Chiny-jak-ogien-i-woda-9133944.html",
+      "status": 200,
+      "title": "Przyszłość ludzkości na szali. Relacje USA-Chiny jak ogień i woda",
+      "char_count": 2038
+    },
+    {
+      "article_id": "bankier_0207_rn_jsw_powoaa_bogusawa_oleksego_na_prezesa_zarzadu",
+      "url": "https://www.bankier.pl/wiadomosc/RN-JSW-powolala-Boguslawa-Oleksego-na-prezesa-zarzadu-9133279.html",
+      "status": 200,
+      "title": "RN JSW powołała Bogusława Oleksego na prezesa zarządu",
+      "char_count": 1062
+    },
+    {
+      "article_id": "bankier_0208_rachunki_za_telefon_pograzaja_polakow_ponad_miliar",
+      "url": "https://www.bankier.pl/wiadomosc/Rachunki-za-telefon-pograzaja-Polakow-Ponad-miliard-zlotych-zaleglosci-9132020.html",
+      "status": 200,
+      "title": "Rachunki za telefon pogrążają Polaków. Ponad miliard złotych zaległości",
+      "char_count": 3143
+    },
+    {
+      "article_id": "bankier_0209_rajd_na_rynku_miedzi_surowiec_zbliza_sie_do_maksim",
+      "url": "https://www.bankier.pl/wiadomosc/Rajd-na-rynku-miedzi-Surowiec-zbliza-sie-do-maksimum-ze-stycznia-9132047.html",
+      "status": 200,
+      "title": "Rajd na rynku miedzi. Surowiec zbliża się do maksimum ze stycznia",
+      "char_count": 1869
+    },
+    {
+      "article_id": "bankier_0210_ranking_kont_osobistych_z_lokatami_ponad_6_na_depo",
+      "url": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-z-lokatami-maj-2026-r-Banki-licytuja-sie-na-oprocentowanie-9129231.html",
+      "status": 200,
+      "title": "Ranking kont osobistych z lokatami. Ponad 6% na depozycie i brak opłat",
+      "char_count": 5115
+    },
+    {
+      "article_id": "bankier_0211_ranking_kredytow_hipotecznych_hipoteki_nadal_droze",
+      "url": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-maj-2026-najlepsze-kredyty-hipoteczne-9129935.html",
+      "status": 200,
+      "title": "Ranking kredytów hipotecznych. Hipoteki nadal drożeją, stała rata idzie w górę",
+      "char_count": 3592
+    },
+    {
+      "article_id": "bankier_0212_najlepsze_lokaty_kwartalne_przeom_na_depozytach_st",
+      "url": "https://www.bankier.pl/wiadomosc/Ranking-lokat-na-3-miesiace-maj-2026-r-Niespodzianka-na-lokatach-dwa-banki-daja-6-9130978.html",
+      "status": 200,
+      "title": "Najlepsze lokaty kwartalne. Przełom na depozytach – stawka rośnie do 6%",
+      "char_count": 5016
+    },
+    {
+      "article_id": "bankier_0213_rekompensaty_za_drony_ubezpieczyciele_rozkadaja_re",
+      "url": "https://www.bankier.pl/wiadomosc/Rekompensaty-za-drony-Ubezpieczyciele-rozkladaja-rece-premier-zapowiada-wyplaty-9131984.html",
+      "status": 200,
+      "title": "Rekompensaty za drony. Ubezpieczyciele rozkładają ręce, premier zapowiada wypłaty",
+      "char_count": 1085
+    },
+    {
+      "article_id": "bankier_0214_rekordowy_akt_oskarzenia_w_polsce_sfingowali_setki",
+      "url": "https://www.bankier.pl/wiadomosc/Rekordowy-akt-oskarzenia-w-Polsce-Sfingowali-setki-wypadkow-9130777.html",
+      "status": 200,
+      "title": "Rekordowy akt oskarżenia w Polsce. Sfingowali setki wypadków",
+      "char_count": 3683
+    },
+    {
+      "article_id": "bankier_0215_reorganizacja_armii_usa_w_europie_pentagon_chce_zd",
+      "url": "https://www.bankier.pl/wiadomosc/Reorganizacja-armii-USA-w-Europie-Pentagon-chce-zdegradowac-kluczowe-dowodztwo-9134364.html",
+      "status": 200,
+      "title": "Reorganizacja armii USA w Europie. Pentagon chce zdegradować kluczowe dowództwo",
+      "char_count": 2110
+    },
+    {
+      "article_id": "bankier_0216_rewolucja_w_ochronie_zwierzat_sejmowa_komisja_wybr",
+      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-ochronie-zwierzat-Sejmowa-komisja-wybrala-projekt-wiodacy-9133293.html",
+      "status": 200,
+      "title": "Rewolucja w ochronie zwierząt. Sejmowa komisja wybrała projekt \"wiodący\"",
+      "char_count": 4404
+    },
+    {
+      "article_id": "bankier_0217_rockgame_zadebiutowa_na_newconnect",
+      "url": "https://www.bankier.pl/wiadomosc/RockGame-zadebiutowal-na-NewConnect-9133748.html",
+      "status": 200,
+      "title": "RockGame zadebiutował na NewConnect",
+      "char_count": 737
+    },
+    {
+      "article_id": "bankier_0218_rosyjska_flota_cienia_u_bram_europy_hiszpania_publ",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjska-flota-cienia-u-bram-Europy-Hiszpania-publikuje-liste-zagrozen-9133198.html",
+      "status": 200,
+      "title": "Rosyjska flota cienia u bram Europy. Hiszpania publikuje listę zagrożeń",
+      "char_count": 2463
+    },
+    {
+      "article_id": "bankier_0219_rotacja_wojsk_usa_wstrzymana_wiadomosc_miaa_ugrzez",
+      "url": "https://www.bankier.pl/wiadomosc/Rotacja-wojsk-USA-wstrzymana-Wiadomosc-miala-ugrzeznac-w-poczcie-polskiego-generala-9134331.html",
+      "status": 200,
+      "title": "Rotacja wojsk USA wstrzymana. Wiadomość miała „ugrzęznąć w poczcie” polskiego generała?",
+      "char_count": 5306
+    },
+    {
+      "article_id": "bankier_0220_rozmowy_pokojowe_na_bliskim_wschodzie_rozejm_izrae",
+      "url": "https://www.bankier.pl/wiadomosc/Rozmowy-pokojowe-na-Bliskim-Wschodzie-Rozejm-miedzy-Izraelem-a-Libanem-przedluzony-o-45-dni-9134351.html",
+      "status": 200,
+      "title": "Rozmowy pokojowe na Bliskim Wschodzie. Rozejm Izrael-Liban przedłużony",
+      "char_count": 2084
+    },
+    {
+      "article_id": "bankier_0221_rubio_proba_przejecia_tajwanu_sia_byaby_okropnym_b",
+      "url": "https://www.bankier.pl/wiadomosc/Rubio-Proba-przejecia-Tajwanu-sila-bylaby-okropnym-bledem-9133283.html",
+      "status": 200,
+      "title": "Rubio: Próba przejęcia Tajwanu siłą byłaby okropnym błędem",
+      "char_count": 3731
+    },
+    {
+      "article_id": "bankier_0222_rynek_wystawi_politykom_zota_kartke_czyli_co_nam_m",
+      "url": "https://www.bankier.pl/wiadomosc/Rynek-wystawil-politykom-zolta-kartke-Czyli-co-nam-mowia-rentownosci-obligacji-9133702.html",
+      "status": 200,
+      "title": "„Rynek wystawił politykom żółtą kartkę”. Czyli co nam mówią rentowności obligacji?",
+      "char_count": 1870
+    },
+    {
+      "article_id": "bankier_0223_rynkowi_guru_ostrzegaja_hossa_ai_potrwa_ale_nadcia",
+      "url": "https://www.bankier.pl/wiadomosc/Rynkowi-guru-ostrzegaja-Hossa-AI-potrwa-ale-nadciagaja-gigantyczne-turbulencje-9130199.html",
+      "status": 200,
+      "title": "Rynkowi guru ostrzegają. Hossa AI potrwa, ale nadciągają gigantyczne turbulencje",
+      "char_count": 9433
+    },
+    {
+      "article_id": "bankier_0224_rzad_starmera_sie_rozpada_minister_streeting_utrac",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-Starmera-sie-rozpada-Minister-Streeting-Utracilem-zaufanie-do-twojego-przywodztwa-9133181.html",
+      "status": 200,
+      "title": "Rząd Starmera się rozpada. Minister Streeting: Utraciłem zaufanie do twojego przywództwa",
+      "char_count": 3349
+    },
+    {
+      "article_id": "bankier_0225_s_p500_i_nasdaq_srubuja_rekordy_akcje_cisco_drozej",
+      "url": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-srubuja-rekordy-Akcje-Cisco-drozeja-jak-w-roku-2002-9133474.html",
+      "status": 200,
+      "title": "S&P500 i Nasdaq śrubują rekordy. Akcje Cisco drożeją jak w roku 2002",
+      "char_count": 2996
+    },
+    {
+      "article_id": "bankier_0226_safe_szansa_dla_autonomii_technologicznej_nie_tylk",
+      "url": "https://www.bankier.pl/wiadomosc/SAFE-szansa-dla-autonomii-technologicznej-Nie-tylko-zakup-nowego-sprzetu-9131999.html",
+      "status": 200,
+      "title": "SAFE szansą dla autonomii technologicznej. \"Nie tylko zakup nowego sprzętu\"",
+      "char_count": 2208
+    },
+    {
+      "article_id": "bankier_0227_sala_balowa_w_biaym_domu_trump_poda_termin_otwarci",
+      "url": "https://www.bankier.pl/wiadomosc/Sala-balowa-w-Bialym-Domu-Trump-podal-termin-otwarcia-9133869.html",
+      "status": 200,
+      "title": "Sala balowa w Białym Domu. Trump podał termin otwarcia",
+      "char_count": 1098
+    },
+    {
+      "article_id": "bankier_0228_sejm_po_raz_trzeci_uchwali_ustawe_o_rynku_kryptoak",
+      "url": "https://www.bankier.pl/wiadomosc/Sejm-po-raz-trzeci-uchwalil-ustawe-o-rynku-kryptoaktywow-9133687.html",
+      "status": 200,
+      "title": "Sejm po raz trzeci uchwalił ustawę o rynku kryptoaktywów",
+      "char_count": 5214
+    },
+    {
+      "article_id": "bankier_0229_sejm_przyja_zmiany_usprawniajace_stosowanie_europe",
+      "url": "https://www.bankier.pl/wiadomosc/Sejm-przyjal-zmiany-usprawniajace-stosowanie-Europejskiego-Nakazu-Aresztowania-9133712.html",
+      "status": 200,
+      "title": "Sejm przyjął zmiany usprawniające stosowanie Europejskiego Nakazu Aresztowania",
+      "char_count": 2392
+    },
+    {
+      "article_id": "bankier_0230_sejm_uchwali_ustawe_antyslapp_ma_chronic_uczestnik",
+      "url": "https://www.bankier.pl/wiadomosc/Sejm-uchwalil-ustawe-antySLAPP-ma-chronic-uczestnikow-debaty-publicznej-9133797.html",
+      "status": 200,
+      "title": "Sejm uchwalił ustawę antySLAPP, ma chronić uczestników debaty publicznej",
+      "char_count": 7922
+    },
+    {
+      "article_id": "bankier_0231_sejm_uchwali_ustawe_o_utworzeniu_wojskowej_akademi",
+      "url": "https://www.bankier.pl/wiadomosc/Sejm-uchwalil-ustawe-o-utworzeniu-Wojskowej-Akademii-Medycznej-w-Lodzi-9133772.html",
+      "status": 200,
+      "title": "Sejm uchwalił ustawę o utworzeniu Wojskowej Akademii Medycznej w Łodzi",
+      "char_count": 3916
+    },
+    {
+      "article_id": "bankier_0232_sejm_uchwali_ustawe_ws_opoznienia_terminu_przekaza",
+      "url": "https://www.bankier.pl/wiadomosc/Sejm-uchwalil-ustawe-ws-opoznienia-terminu-przekazania-JPK-dla-niektorych-firm-9133697.html",
+      "status": 200,
+      "title": "Sejm uchwalił ustawę ws. opóźnienia terminu przekazania JPK dla niektórych firm",
+      "char_count": 1530
+    },
+    {
+      "article_id": "bankier_0233_sejm_wybra_15_sedziow_do_krajowej_rady_sadownictwa",
+      "url": "https://www.bankier.pl/wiadomosc/Sejm-wybral-15-sedziow-do-Krajowej-Rady-Sadownictwa-Poslowie-PiS-wyszli-z-sali-9133785.html",
+      "status": 200,
+      "title": "Sejm wybrał 15 sędziów do Krajowej Rady Sądownictwa. Posłowie PiS wyszli z sali",
+      "char_count": 4146
+    },
+    {
+      "article_id": "bankier_0234_sejm_zgodzi_sie_na_przeduzenie_czasowego_zawieszen",
+      "url": "https://www.bankier.pl/wiadomosc/Sejm-zgodzil-sie-na-przedluzenie-czasowego-zawieszenia-prawa-do-azylu-na-granicy-z-Bialorusia-9133105.html",
+      "status": 200,
+      "title": "Sejm zgodził się na przedłużenie czasowego zawieszenia prawa do azylu na granicy z Białorusią",
+      "char_count": 3988
+    },
+    {
+      "article_id": "bankier_0235_sesja_z_wynikami_tuzow_wig20_miedziowy_gigant_trac",
+      "url": "https://www.bankier.pl/wiadomosc/Sesja-z-wynikami-tuzow-WIG20-Miedziowy-gigant-traci-po-raporcie-9133311.html",
+      "status": 200,
+      "title": "Sesja z wynikami tuzów WIG20. Miedziowy gigant traci po raporcie",
+      "char_count": 5310
+    },
+    {
+      "article_id": "bankier_0236_sesje_elixir_kiedy_dojdzie_przelew",
+      "url": "https://www.bankier.pl/wiadomosc/Sesje-Elixir-7368466.html",
+      "status": 200,
+      "title": "Sesje Elixir. Kiedy dojdzie przelew?",
+      "char_count": 4854
+    },
+    {
+      "article_id": "bankier_0237_siedem_lat_wiezienia_dla_sarkozy_ego_by_gownym_ben",
+      "url": "https://www.bankier.pl/wiadomosc/Siedem-lat-wiezienia-dla-Sarkozy-ego-Byl-glownym-beneficjentem-korupcyjnej-zmowy-9132616.html",
+      "status": 200,
+      "title": "Siedem lat więzienia dla Sarkozy'ego? Był „głównym beneficjentem” korupcyjnej zmowy",
+      "char_count": 3516
+    },
+    {
+      "article_id": "bankier_0238_skandal_w_paacu_w_wilanowie_dyrektor_traci_stanowi",
+      "url": "https://www.bankier.pl/wiadomosc/Skandal-w-Palacu-w-Wilanowie-Dyrektor-traci-stanowisko-po-24-latach-9133276.html",
+      "status": 200,
+      "title": "Skandal w Pałacu w Wilanowie. Dyrektor traci stanowisko po 24 latach",
+      "char_count": 3519
+    },
+    {
+      "article_id": "bankier_0240_gigantyczny_skok_przychodow_inpostu_spoka_bije_pro",
+      "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-InPostu-w-I-kwartale-902-2-mln-zl-powyzej-konsensusu-9132028.html",
+      "status": 200,
+      "title": "Gigantyczny skok przychodów InPostu. Spółka bije prognozy analityków",
+      "char_count": 2725
+    },
+    {
+      "article_id": "bankier_0241_gamingowy_gigant_z_wrocawia_publikuje_raport_18_9_",
+      "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Ten-Square-Games-w-I-kw-wyniosla-18-9-mln-zl-wobec-konsensusu-18-1-mln-zl-9131158.html",
+      "status": 200,
+      "title": "Gamingowy gigant z Wrocławia publikuje raport. 18,9 mln zł zysku i ważny sygnał dla graczy",
+      "char_count": 875
+    },
+    {
+      "article_id": "bankier_0242_ponad_10_razy_wiekszy_zysk_grupy_kghm_gigant_pokaz",
+      "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-grupy-KGHM-wyniosla-w-I-kw-5-46-mld-zl-powyzej-konsensusu-9132563.html",
+      "status": 200,
+      "title": "Ponad 10 razy większy zysk Grupy KGHM. Gigant pokazał wyniki",
+      "char_count": 3565
+    },
+    {
+      "article_id": "bankier_0243_sojusz_rosji_z_talibami_siergiej_szojgu_ogosi_pene",
+      "url": "https://www.bankier.pl/wiadomosc/Sojusz-Rosji-z-talibami-Siergiej-Szojgu-oglosil-pelne-partnerstwo-9133049.html",
+      "status": 200,
+      "title": "Sojusz Rosji z talibami. Siergiej Szojgu ogłosił \"pełne partnerstwo\"",
+      "char_count": 1834
+    },
+    {
+      "article_id": "bankier_0244_south_china_morning_post_putin_zozy_20_maja_wizyte",
+      "url": "https://www.bankier.pl/wiadomosc/South-China-Morning-Post-Putin-zlozy-20-maja-wizyte-w-Chinach-9133781.html",
+      "status": 200,
+      "title": "„South China Morning Post”: Putin złoży 20 maja wizytę w Chinach",
+      "char_count": 1083
+    },
+    {
+      "article_id": "bankier_0245_spoka_cpk_uniewaznia_wazny_przetarg_w_tle_odwoania",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-CPK-uniewaznila-wazny-przetarg-W-tle-odwolania-i-dodatkowe-wyjasnienia-9133949.html",
+      "status": 200,
+      "title": "Spółka CPK unieważniła ważny przetarg. W tle odwołania i dodatkowe wyjaśnienia",
+      "char_count": 2808
+    },
+    {
+      "article_id": "bankier_0246_spoka_tygodnia_kghm_miedziowy_gigant_o_srebrnym_se",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-tygodnia-KGHM-Miedziowy-gigant-o-srebrnym-sercu-9132938.html",
+      "status": 200,
+      "title": "Spółka tygodnia: KGHM. Miedziowy gigant o srebrnym sercu",
+      "char_count": 5451
+    },
+    {
+      "article_id": "bankier_0247_spor_o_potencja_teheranu_admira_zniszczono_90_proc",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-potencjal-Teheranu-Admiral-Zniszczono-90-proc-iranskiego-przemyslu-obronnego-9133466.html",
+      "status": 200,
+      "title": "Spór o potencjał Teheranu. Admirał: Zniszczono 90 proc. irańskiego przemysłu obronnego",
+      "char_count": 2619
+    },
+    {
+      "article_id": "bankier_0248_strategiczny_sojusz_indii_i_zea_tak_mocarstwa_reag",
+      "url": "https://www.bankier.pl/wiadomosc/Strategiczny-sojusz-Indii-i-ZEA-Tak-mocarstwa-reaguja-na-grozby-Teheranu-9133788.html",
+      "status": 200,
+      "title": "Strategiczny sojusz Indii i ZEA. Tak mocarstwa reagują na groźby Teheranu",
+      "char_count": 2098
+    },
+    {
+      "article_id": "bankier_0249_studenci_vip_zdobywali_mba_bez_egzaminow_kulisy_af",
+      "url": "https://www.bankier.pl/wiadomosc/Studenci-VIP-zdobywali-MBA-bez-egzaminow-Kulisy-afery-Collegium-Humanum-9131979.html",
+      "status": 200,
+      "title": "\"Studenci VIP\" zdobywali MBA bez egzaminów. Kulisy afery Collegium Humanum",
+      "char_count": 2288
+    },
+    {
+      "article_id": "bankier_0250_system_lekarzy_sadowych_w_gruzach_zostao_ich_tylko",
+      "url": "https://www.bankier.pl/wiadomosc/System-lekarzy-sadowych-w-gruzach-Zostalo-ich-tylko-184-na-cala-Polske-9133571.html",
+      "status": 200,
+      "title": "System lekarzy sądowych w gruzach. Zostało ich tylko 184 na całą Polskę",
+      "char_count": 5047
+    },
+    {
+      "article_id": "bankier_0251_szacunkowe_wyniki_zue_w_i_kw_2026_roku_vs_konsensu",
+      "url": "https://www.bankier.pl/wiadomosc/Szacunkowe-wyniki-ZUE-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9134117.html",
+      "status": 200,
+      "title": "Szacunkowe wyniki ZUE w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "char_count": 345
+    },
+    {
+      "article_id": "bankier_0252_szczelny_kwarta_na_granicy_z_biaorusia_premier_nik",
+      "url": "https://www.bankier.pl/wiadomosc/Szczelny-kwartal-na-granicy-z-Bialorusia-Premier-nikt-nielegalnie-jej-nie-przekroczyl-9133885.html",
+      "status": 200,
+      "title": "Szczelny kwartał na granicy z Białorusią. Premier: nikt nielegalnie jej nie przekroczył",
+      "char_count": 5535
+    },
+    {
+      "article_id": "bankier_0253_szczyt_brics_w_delhi_historyczny_brak_porozumienia",
+      "url": "https://www.bankier.pl/wiadomosc/Szczyt-BRICS-w-Delhi-Historyczny-brak-porozumienia-i-ostre-oskarzenia-za-zamknietymi-drzwiami-9133890.html",
+      "status": 200,
+      "title": "Szczyt BRICS w Delhi. Historyczny brak porozumienia i ostre oskarżenia za zamkniętymi drzwiami",
+      "char_count": 2335
+    },
+    {
+      "article_id": "bankier_0254_szczyt_trump_xi_w_pekinie_ekspert_prezydent_usa_wy",
+      "url": "https://www.bankier.pl/wiadomosc/Szczyt-Trump-Xi-w-Pekinie-Ekspert-To-fatalna-wiadomosc-dla-Tajwanu-Trump-wybral-biznes-9134342.html",
+      "status": 200,
+      "title": "Szczyt Trump-Xi w Pekinie. Ekspert: prezydent USA wybrał biznes",
+      "char_count": 4945
+    },
+    {
+      "article_id": "bankier_0255_szef_map_orlen_nadal_mierzy_sie_ze_skutkami_fataln",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-MAP-Orlen-nadal-mierzy-sie-ze-skutkami-fatalnych-decyzji-poprzednikow-9133057.html",
+      "status": 200,
+      "title": "Szef MAP: Orlen nadal mierzy się ze skutkami fatalnych decyzji poprzedników",
+      "char_count": 3610
+    },
+    {
+      "article_id": "bankier_0256_nawrocki_i_kosiniak_kamysz_jednym_gosem_nie_ma_mow",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-MON-o-znikajacych-zolnierzach-To-blad-w-interpretacji-Wojska-USA-w-Polsce-9132906.html",
+      "status": 200,
+      "title": "Nawrocki i Kosiniak-Kamysz jednym głosem: Nie ma mowy o zmniejszeniu liczby żołnierzy USA",
+      "char_count": 6330
+    },
+    {
+      "article_id": "bankier_0257_szwedzka_firma_zamyka_fabryke_w_polsce_pensje_okaz",
+      "url": "https://www.bankier.pl/wiadomosc/Szwedzka-firma-zamyka-fabryke-w-Polsce-Pensje-okazaly-sie-zbyt-wysokie-9131088.html",
+      "status": 200,
+      "title": "Szwedzka firma zamyka fabrykę w Polsce. Pensje okazały się zbyt wysokie",
+      "char_count": 1828
+    },
+    {
+      "article_id": "bankier_0258_tbs_wrocaw_wybuduje_na_brochowie_i_nowych_zernikac",
+      "url": "https://www.bankier.pl/wiadomosc/TBS-Wroclaw-wybuduje-na-Brochowie-i-Nowych-Zernikach-349-mieszkan-na-wynajem-9131069.html",
+      "status": 200,
+      "title": "TBS Wrocław wybuduje na Brochowie i Nowych Żernikach 349 mieszkań na wynajem",
+      "char_count": 2869
+    },
+    {
+      "article_id": "bankier_0259_gigant_fast_food_otwiera_restauracje_w_polsce_celu",
+      "url": "https://www.bankier.pl/wiadomosc/Taco-Bell-otwiera-restauracje-w-Polsce-Celuje-w-nocnych-lasuchow-9133194.html",
+      "status": 200,
+      "title": "Gigant fast food otwiera restauracje w Polsce. Celuje w nocnych łasuchów",
+      "char_count": 1445
+    },
+    {
+      "article_id": "bankier_0260_tajne_posterunki_chin_na_caym_swiecie_fbi_uderza_w",
+      "url": "https://www.bankier.pl/wiadomosc/Tajne-posterunki-Chin-na-calym-swiecie-FBI-uderza-w-siec-agentow-9132847.html",
+      "status": 200,
+      "title": "Tajne posterunki Chin na całym świecie. FBI uderza w sieć agentów",
+      "char_count": 1506
+    },
+    {
+      "article_id": "bankier_0261_inwestycje_taurona_ponad_227_mln_z_na_nowe_projekt",
+      "url": "https://www.bankier.pl/wiadomosc/Tauron-zawarl-z-BGK-umowe-pozyczki-do-227-1-mln-zl-na-finansowanie-farm-fotowoltaicznych-9133908.html",
+      "status": 200,
+      "title": "Inwestycje Taurona. Ponad 227 mln zł na nowe projekty, znamy warunki pożyczki",
+      "char_count": 1032
+    },
+    {
+      "article_id": "bankier_0262_telestrada_planuje_w_pierwszej_poowie_czerwca_prze",
+      "url": "https://www.bankier.pl/wiadomosc/Telestrada-planuje-w-pierwszej-polowie-czerwca-przeprowadzic-skup-akcji-wlasnych-9134199.html",
+      "status": 200,
+      "title": "Telestrada planuje w pierwszej połowie czerwca przeprowadzić skup akcji własnych",
+      "char_count": 461
+    },
+    {
+      "article_id": "bankier_0263_miliardy_pyna_na_polska_giede_gpw_opublikowaa_pier",
+      "url": "https://www.bankier.pl/wiadomosc/Transakcje-kapitalowe-na-GPW-siegnely-4-mld-zl-w-I-IV-emisje-obligacji-korp-ok-7-mld-zl-9133382.html",
+      "status": 200,
+      "title": "Miliardy płyną na polską giełdę. GPW opublikowała pierwszy Barometr Transakcyjny",
+      "char_count": 2623
+    },
+    {
+      "article_id": "bankier_0264_trump_chiny_zgodziy_sie_zamowic_200_samolotow_boei",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-Chiny-zgodzily-sie-zamowic-200-samolotow-Boeinga-9133377.html",
+      "status": 200,
+      "title": "Trump: Chiny zgodziły się zamówić 200 samolotów Boeinga",
+      "char_count": 1037
+    },
+    {
+      "article_id": "bankier_0265_trump_i_xi_w_pekinie_ormuz_ma_byc_otwarty_koniec_p",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-i-Xi-w-Pekinie-Ormuz-ma-byc-otwarty-Koniec-paliwowego-szantazu-9132942.html",
+      "status": 200,
+      "title": "Trump i Xi w Pekinie: Ormuz ma być otwarty. Koniec paliwowego szantażu?",
+      "char_count": 4053
+    },
+    {
+      "article_id": "bankier_0266_trump_spotka_sie_z_xi_chiny_chca_wykorzystac_to_co",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-spotkal-sie-z-Xi-Chiny-chca-wykorzystac-to-co-uznaja-za-schylek-USA-9134306.html",
+      "status": 200,
+      "title": "Trump spotkał się z Xi. \"Chiny chcą wykorzystać to, co uznają za schyłek USA\"",
+      "char_count": 3102
+    },
+    {
+      "article_id": "bankier_0267_trump_w_pekinie_przemilcza_temat_tajwanu",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-w-Pekinie-przemilczal-temat-Tajwanu-9133705.html",
+      "status": 200,
+      "title": "Trump w Pekinie przemilczał temat Tajwanu",
+      "char_count": 2495
+    },
+    {
+      "article_id": "bankier_0268_usa_beda_bronic_tajwanu_trump_tylko_jedna_osoba_wi",
+      "url": "https://www.bankier.pl/wiadomosc/USA-beda-bronic-Tajwanu-Trump-Tylko-jedna-osoba-wie-9133902.html",
+      "status": 200,
+      "title": "USA będą bronić Tajwanu? Trump: Tylko jedna osoba wie",
+      "char_count": 5965
+    },
+    {
+      "article_id": "bankier_0269_udaes_radce_zapacisz_200_tysiecy_nowe_prawo_uderzy",
+      "url": "https://www.bankier.pl/wiadomosc/Udales-radce-Zaplacisz-200-tysiecy-Nowe-prawo-uderzy-w-oszustow-9129160.html",
+      "status": 200,
+      "title": "Udałeś radcę? Zapłacisz 200 tysięcy. Nowe prawo uderzy w oszustów",
+      "char_count": 3470
+    },
+    {
+      "article_id": "bankier_0270_ujawniono_tajne_instrukcje_pentagonu_to_zemsta_tru",
+      "url": "https://www.bankier.pl/wiadomosc/Ujawniono-tajne-instrukcje-Pentagonu-To-zemsta-Trumpa-na-Europie-Znamy-powody-wstrzymania-wojsk-dla-Polski-9133507.html",
+      "status": 200,
+      "title": "Ujawniono tajne instrukcje Pentagonu. To zemsta Trumpa na Europie? Znamy powody wstrzymania wojsk dla Polski",
+      "char_count": 5640
+    },
+    {
+      "article_id": "bankier_0271_umowa_zlecenie_wszystko_co_musisz_o_niej_wiedziec",
+      "url": "https://www.bankier.pl/wiadomosc/Umowa-zlecenie-wszystko-co-musisz-o-niej-wiedziec-700008.html",
+      "status": 200,
+      "title": "Umowa-zlecenie - wszystko, co musisz o niej wiedzieć",
+      "char_count": 10396
+    },
+    {
+      "article_id": "bankier_0272_usmiechy_w_cieniu_starcia_szczyt_w_chinach_to_tylk",
+      "url": "https://www.bankier.pl/wiadomosc/Usmiechy-w-cieniu-starcia-Szczyt-w-Chinach-to-tylko-zaslona-dymna-9129159.html",
+      "status": 200,
+      "title": "Uśmiechy w cieniu starcia. Szczyt w Chinach to tylko zasłona dymna?",
+      "char_count": 2063
+    },
+    {
+      "article_id": "bankier_0273_w_krakowie_otwarto_fabryke_sztucznej_inteligencji_",
+      "url": "https://www.bankier.pl/wiadomosc/W-Krakowie-otwarto-fabryke-sztucznej-inteligencji-Gaia-AI-Factory-9131073.html",
+      "status": 200,
+      "title": "W Krakowie otwarto fabrykę sztucznej inteligencji – Gaia AI Factory",
+      "char_count": 4189
+    },
+    {
+      "article_id": "bankier_0274_w_nowym_jorku_jest_wiecej_drapaczy_chmur_niz_w_cae",
+      "url": "https://www.bankier.pl/wiadomosc/W-Nowym-Jorku-jest-wiecej-drapaczy-chmur-niz-w-calej-Europie-9128848.html",
+      "status": 200,
+      "title": "W Nowym Jorku jest więcej drapaczy chmur niż w całej Europie",
+      "char_count": 2376
+    },
+    {
+      "article_id": "bankier_0275_wall_street_konczy_tydzien_spadkami_po_przecenie_f",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-tydzien-spadkami-po-przecenie-firm-technologicznych-9134352.html",
+      "status": 200,
+      "title": "Wall Street kończy tydzień spadkami po przecenie firm technologicznych",
+      "char_count": 5191
+    },
+    {
+      "article_id": "bankier_0276_weekendowy_odwrot_polska_w_unijnej_czoowce_narodow",
+      "url": "https://www.bankier.pl/wiadomosc/Weekendowy-odwrot-Polska-w-unijnej-czolowce-narodow-ktore-nie-pracuja-w-niedziele-9130414.html",
+      "status": 200,
+      "title": "Weekendowy odwrót. Polska w unijnej czołówce narodów, które nie pracują w niedziele",
+      "char_count": 2270
+    },
+    {
+      "article_id": "bankier_0277_wenezuela_oddaje_wzbogacony_uran_wspolna_operacja_",
+      "url": "https://www.bankier.pl/wiadomosc/Wenezuela-oddaje-wzbogacony-uran-Wspolna-operacja-USA-i-Brytyjczykow-9133425.html",
+      "status": 200,
+      "title": "Wenezuela oddaje wzbogacony uran. Wspólna operacja USA i Brytyjczyków",
+      "char_count": 1024
+    },
+    {
+      "article_id": "bankier_0278_wiceszef_msz_polexit_to_mao_realny_scenariusz",
+      "url": "https://www.bankier.pl/wiadomosc/Wiceszef-MSZ-Polexit-to-malo-realny-scenariusz-9127630.html",
+      "status": 200,
+      "title": "Wiceszef MSZ: Polexit to mało realny scenariusz",
+      "char_count": 2236
+    },
+    {
+      "article_id": "bankier_0279_wiecej_spraw_ma_trafic_do_sadow_rejonowych_znamy_p",
+      "url": "https://www.bankier.pl/wiadomosc/Wiecej-spraw-ma-trafic-do-sadow-rejonowych-Znamy-plan-Ministerstwa-Sprawiedliwosci-na-kolejki-9133509.html",
+      "status": 200,
+      "title": "Więcej spraw ma trafić do sądów rejonowych. Znamy plan Ministerstwa Sprawiedliwości na kolejki",
+      "char_count": 1907
+    },
+    {
+      "article_id": "bankier_0280_wiecej_zamowien_ale_i_wyzsze_koszty_umiarkowana_po",
+      "url": "https://www.bankier.pl/wiadomosc/Wiecej-zamowien-ale-i-wyzsze-koszty-Umiarkowana-poprawa-w-polskim-budownictwie-9132040.html",
+      "status": 200,
+      "title": "Więcej zamówień, ale i wyższe koszty. Umiarkowana poprawa w polskim budownictwie",
+      "char_count": 1474
+    },
+    {
+      "article_id": "bankier_0281_wielka_brytania_na_zakrecie_ostatnie_dni_keira_sta",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-Brytania-na-zakrecie-Ostatnie-dni-Keira-Starmera-w-fotelu-premiera-9128963.html",
+      "status": 200,
+      "title": "Wielka Brytania na zakręcie. Ostatnie dni Keira Starmera w fotelu premiera?",
+      "char_count": 3197
+    },
+    {
+      "article_id": "bankier_0282_wielka_dziura_w_budzecie_ujemny_pit_i_prawie_90_mi",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-dziura-w-budzecie-Ujemny-PIT-i-prawie-90-miliardow-zlotych-deficytu-9134121.html",
+      "status": 200,
+      "title": "Wielka dziura w budżecie. Ujemny PIT i prawie 90 miliardów złotych deficytu",
+      "char_count": 4397
+    },
+    {
+      "article_id": "bankier_0283_wielkie_wyzwanie_dla_dorosych_panstwo_przygotowuje",
+      "url": "https://www.bankier.pl/wiadomosc/Wielkie-wyzwanie-dla-doroslych-Panstwo-przygotowuje-nowa-strategie-dla-mlodych-9133227.html",
+      "status": 200,
+      "title": "Wielkie wyzwanie dla dorosłych. Państwo przygotowuje nową strategię dla młodych",
+      "char_count": 3019
+    },
+    {
+      "article_id": "bankier_0284_wielkie_zmiany_dla_posiadaczy_krypto_rzadowy_proje",
+      "url": "https://www.bankier.pl/wiadomosc/Wielkie-zmiany-dla-posiadaczy-krypto-Rzadowy-projekt-wraca-do-sejmowej-komisji-9133268.html",
+      "status": 200,
+      "title": "Wielkie zmiany dla posiadaczy krypto? Rządowy projekt wraca do sejmowej komisji",
+      "char_count": 5104
+    },
+    {
+      "article_id": "bankier_0285_wilk_z_wall_street_prosi_trumpa_o_litosc_scigany_m",
+      "url": "https://www.bankier.pl/wiadomosc/Wilk-z-Wall-Street-prosi-Trumpa-o-litosc-Scigany-miliarder-chce-ulaskawienia-9132000.html",
+      "status": 200,
+      "title": "\"Wilk z Wall Street\" prosi Trumpa o litość. Ścigany miliarder chce ułaskawienia",
+      "char_count": 2862
+    },
+    {
+      "article_id": "bankier_0286_wizyta_trumpa_pokazuje_ze_chiny_juz_sa_supermocars",
+      "url": "https://www.bankier.pl/wiadomosc/Wizyta-Trumpa-pokazuje-ze-Chiny-juz-sa-supermocarstwem-9133794.html",
+      "status": 200,
+      "title": "Wizyta Trumpa pokazuje, że Chiny już są supermocarstwem",
+      "char_count": 2489
+    },
+    {
+      "article_id": "bankier_0287_wojna_o_trybuna_konstytucyjny_pis_idzie_do_prokura",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-Trybunal-Konstytucyjny-PiS-idzie-do-prokuratury-9133809.html",
+      "status": 200,
+      "title": "Wojna o Trybunał Konstytucyjny. PiS idzie do prokuratury",
+      "char_count": 4512
+    },
+    {
+      "article_id": "bankier_0288_wola_morderstwo_od_rozwodu_krwawy_fina_mazenstwa_k",
+      "url": "https://www.bankier.pl/wiadomosc/Wolal-morderstwo-od-rozwodu-Krwawy-final-malzenstwa-krolow-nowojorskiej-sztuki-9131971.html",
+      "status": 200,
+      "title": "\"Wolał morderstwo od rozwodu\". Krwawy finał małżeństwa królów nowojorskiej sztuki",
+      "char_count": 2390
+    },
+    {
+      "article_id": "bankier_0289_woodpecker_rozpocza_przeglad_opcji_strategicznych",
+      "url": "https://www.bankier.pl/wiadomosc/Woodpecker-rozpoczal-przeglad-opcji-strategicznych-9133833.html",
+      "status": 200,
+      "title": "Woodpecker rozpoczął przegląd opcji strategicznych",
+      "char_count": 594
+    },
+    {
+      "article_id": "bankier_0290_wycofanie_wojsk_z_europy_zaszkodzioby_usa_zainwest",
+      "url": "https://www.bankier.pl/wiadomosc/Wycofanie-wojsk-z-Europy-zaszkodziloby-USA-Zainwestowaly-tam-miliardy-9133325.html",
+      "status": 200,
+      "title": "Wycofanie wojsk z Europy zaszkodziłoby USA. \"Zainwestowały tam miliardy\"",
+      "char_count": 4027
+    },
+    {
+      "article_id": "bankier_0291_xi_podejmuje_trumpa_z_cesarskim_przepychem_dyploma",
+      "url": "https://www.bankier.pl/wiadomosc/Xi-podejmuje-Trumpa-z-cesarskim-przepychem-Dyplomacja-symboli-i-mandat-niebios-w-Pekinie-9133515.html",
+      "status": 200,
+      "title": "Xi podejmuje Trumpa z cesarskim przepychem. Dyplomacja symboli i „mandat niebios” w Pekinie",
+      "char_count": 3266
+    },
+    {
+      "article_id": "bankier_0292_xi_wyprawi_bankiet_na_czesc_trumpa_nie_wolno_zepsu",
+      "url": "https://www.bankier.pl/wiadomosc/Xi-wyprawil-bankiet-na-czesc-Trumpa-Nie-wolno-zepsuc-stosunkow-z-USA-9133048.html",
+      "status": 200,
+      "title": "Xi wyprawił bankiet na cześć Trumpa. \"Nie wolno zepsuć stosunków z USA\"",
+      "char_count": 2627
+    },
+    {
+      "article_id": "bankier_0293_zwz_mostostalu_zabrze_zdecydowao_o_skupie_akcji_za",
+      "url": "https://www.bankier.pl/wiadomosc/ZWZ-Mostostalu-Zabrze-zdecydowalo-o-skupie-akcji-za-nie-wiecej-niz-17-15-mln-zl-9133207.html",
+      "status": 200,
+      "title": "ZWZ Mostostalu Zabrze zdecydowało o skupie akcji za nie więcej niż 17,15 mln zł",
+      "char_count": 1180
+    },
+    {
+      "article_id": "bankier_0294_pzu_kupuje_lidera_w_ukrainie_i_chce_wiecej_region_",
+      "url": "https://www.bankier.pl/wiadomosc/Zakup-MetLife-Ukraina-nie-wyczerpuje-apetytu-PZU-na-kolejne-akwizycje-w-regionie-Benczak-9129153.html",
+      "status": 200,
+      "title": "PZU kupuje lidera w Ukrainie i chce więcej. Region w zasięgu wzroku giganta",
+      "char_count": 1099
+    },
+    {
+      "article_id": "bankier_0295_ziobro_przebywa_w_waszyngtonie_oswiadczy_ze_nie_uc",
+      "url": "https://www.bankier.pl/wiadomosc/Zbigniew-Ziobro-przebywa-w-Waszyngtonie-Oswiadczyl-ze-nie-uciekl-z-Polski-9131938.html",
+      "status": 200,
+      "title": "Ziobro przebywa w Waszyngtonie. Oświadczył, że nie uciekł z Polski",
+      "char_count": 3681
+    },
+    {
+      "article_id": "bankier_0296_zeenski_rosja_rozwaza_atak_na_jedno_z_panstw_nato_",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-Rosja-rozwaza-atak-na-jedno-z-panstw-NATO-z-terytorium-Bialorusi-9134044.html",
+      "status": 200,
+      "title": "Zełenski: Rosja rozważa atak na jedno z państw NATO z terytorium Białorusi",
+      "char_count": 4055
+    },
+    {
+      "article_id": "bankier_0297_zemsta_za_safe_0_blokada_nominacji_dla_kightley_i_",
+      "url": "https://www.bankier.pl/wiadomosc/Zemsta-za-SAFE-0-Blokada-nominacji-dla-prawej-reki-Glapinskiego-9133499.html",
+      "status": 200,
+      "title": "Zemsta za \"SAFE 0\"? Blokada nominacji dla Kightley i Koteckiego",
+      "char_count": 2946
+    },
+    {
+      "article_id": "bankier_0298_citi_handlowy_speniono_ostatni_z_warunkow_ws_sprze",
+      "url": "https://www.bankier.pl/wiadomosc/Ziscil-sie-ostatni-warunek-zawieszajacy-transakcje-wyjscia-Banku-Handlowego-z-dzialalnosci-detalicznej-9131153.html",
+      "status": 200,
+      "title": "Citi Handlowy: spełniono ostatni z warunków ws. sprzedaży części detalicznej VeloBankowi",
+      "char_count": 2657
+    },
+    {
+      "article_id": "bankier_0299_zoto_glapinskiego_milionowe_odprawy_i_szok_z_norwe",
+      "url": "https://www.bankier.pl/wiadomosc/Zloto-Glapinskiego-milionowe-odprawy-i-szok-z-Norwegii-Inwestor-Wojtek-analizuje-wykresy-tygodnia-9129802.html",
+      "status": 200,
+      "title": "Złoto Glapińskiego, milionowe odprawy i \"szok\" z Norwegii. Inwestor Wojtek analizuje wykresy tygodnia",
+      "char_count": 6540
+    },
+    {
+      "article_id": "bankier_0300_zoty_coraz_mocniejszy_kurs_euro_spad_do_4_23_z",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-coraz-mocniejszy-Kurs-euro-spadl-do-4-23-zl-9129116.html",
+      "status": 200,
+      "title": "Złoty coraz mocniejszy. Kurs euro spadł do 4,23 zł",
+      "char_count": 2034
+    }
+  ]
 }

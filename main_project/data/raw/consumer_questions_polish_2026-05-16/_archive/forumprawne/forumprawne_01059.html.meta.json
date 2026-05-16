@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01059",
+  "source_url": "https://forumprawne.org/watek/odrzucona-reklamacja-z-tytulu-rekojmi.861872/",
+  "fetch_url": "https://forumprawne.org/watek/odrzucona-reklamacja-z-tytulu-rekojmi.861872/",
+  "archive_file": "forumprawne/forumprawne_01059.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61388,
+  "sha256": "2f6b6799f48f15622130b03900d3040dce39472d2295a5d871f764ed896e6c42",
+  "download_date": "2026-05-16T08:01:30Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

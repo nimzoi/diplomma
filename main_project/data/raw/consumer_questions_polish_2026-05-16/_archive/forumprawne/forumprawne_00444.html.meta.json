@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00444",
+  "source_url": "https://forumprawne.org/watek/nie-zgadzam-sie-z-faktura.874862/",
+  "fetch_url": "https://forumprawne.org/watek/nie-zgadzam-sie-z-faktura.874862/",
+  "archive_file": "forumprawne/forumprawne_00444.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 107470,
+  "sha256": "055346eb315ad3d4eb8f4ded6273a7e0bfc2a491f4143ee338dc4bd140c55473",
+  "download_date": "2026-05-16T07:49:56Z",
+  "duration_sec": 0.176,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

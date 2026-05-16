@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01019",
+  "source_url": "https://forumprawne.org/watek/instalacja-fotowoltaiczna.862813/",
+  "fetch_url": "https://forumprawne.org/watek/instalacja-fotowoltaiczna.862813/",
+  "archive_file": "forumprawne/forumprawne_01019.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61015,
+  "sha256": "89186a9165d52669b1979ed6cae4d8746ad12be5127de82bd622f05cef1527c5",
+  "download_date": "2026-05-16T08:00:45Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

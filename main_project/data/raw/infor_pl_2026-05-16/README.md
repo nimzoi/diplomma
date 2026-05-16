@@ -4,7 +4,7 @@
 
 **License:** fair-use Art. 29 PrAut (academic research, attribution preserved)
 
-**Method:** 20 podkategorii + paginacja
+**Method:** 3 podkategorii + paginacja
 
 **Scrape date:** 2026-05-16
 

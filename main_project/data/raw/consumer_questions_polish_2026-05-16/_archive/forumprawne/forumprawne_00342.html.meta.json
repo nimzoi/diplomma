@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00342",
+  "source_url": "https://forumprawne.org/watek/reklamacja-towaru-zakupionego-przed-01-01-2023.876906/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-towaru-zakupionego-przed-01-01-2023.876906/",
+  "archive_file": "forumprawne/forumprawne_00342.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 100220,
+  "sha256": "304b4c88ce57717914e16fa957e336a535c33aa1afd1883d32f2a1075172e205",
+  "download_date": "2026-05-16T07:48:01Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00790",
+  "source_url": "https://forumprawne.org/watek/oplata-naliczona-przez-szkole-policealna.867674/",
+  "fetch_url": "https://forumprawne.org/watek/oplata-naliczona-przez-szkole-policealna.867674/",
+  "archive_file": "forumprawne/forumprawne_00790.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76888,
+  "sha256": "ffecbbfdb20f1bd9b438757c2903945ef2472a4956d5ccab6a8413f635eabf84",
+  "download_date": "2026-05-16T07:56:26Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

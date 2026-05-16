@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00141",
+  "source_url": "https://forumprawne.org/watek/rok-budowy-mieszkania.881774/",
+  "fetch_url": "https://forumprawne.org/watek/rok-budowy-mieszkania.881774/",
+  "archive_file": "forumprawne/forumprawne_00141.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 84499,
+  "sha256": "cdd69ffaee51177824cebe2d73409c9ebd6b1ce419fdc4b4a64e3fa01a86d59c",
+  "download_date": "2026-05-16T07:44:14Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00260",
+  "source_url": "https://forumprawne.org/watek/zakup-samochodu-z-komisu-z-wadami-ukrytymi.878801/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-samochodu-z-komisu-z-wadami-ukrytymi.878801/",
+  "archive_file": "forumprawne/forumprawne_00260.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 85415,
+  "sha256": "8b87f15f615180147f3c9b0675b23b32190fea289f40e86b26f2c5be83c2d502",
+  "download_date": "2026-05-16T07:46:29Z",
+  "duration_sec": 0.087,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

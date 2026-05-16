@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00413",
+  "source_url": "https://forumprawne.org/watek/odmowa-uznania-reklamacji.875590/",
+  "fetch_url": "https://forumprawne.org/watek/odmowa-uznania-reklamacji.875590/",
+  "archive_file": "forumprawne/forumprawne_00413.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52710,
+  "sha256": "c587fe5ea6b7f1e164081e06e31630aa746d246be97d51b145a2c52ed5ce3bda",
+  "download_date": "2026-05-16T07:49:21Z",
+  "duration_sec": 0.117,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

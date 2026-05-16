@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00836",
+  "source_url": "https://forumprawne.org/watek/przeciekajacy-namiot.866962/",
+  "fetch_url": "https://forumprawne.org/watek/przeciekajacy-namiot.866962/",
+  "archive_file": "forumprawne/forumprawne_00836.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64963,
+  "sha256": "b8d725f1580bfbfc0a1258bbdc4ecd40418dcfcf288fdd33a62fa44143d087d9",
+  "download_date": "2026-05-16T07:57:18Z",
+  "duration_sec": 0.107,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00845",
+  "source_url": "https://forumprawne.org/watek/sprzedawca-zmienia-cene-towaru-po-zakupie-i-wymaga-doplaty.866826/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedawca-zmienia-cene-towaru-po-zakupie-i-wymaga-doplaty.866826/",
+  "archive_file": "forumprawne/forumprawne_00845.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59312,
+  "sha256": "e53ff674df802a221212433f0896a330c113c305fd2f54e22396cf5a28db9b20",
+  "download_date": "2026-05-16T07:57:29Z",
+  "duration_sec": 0.22,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

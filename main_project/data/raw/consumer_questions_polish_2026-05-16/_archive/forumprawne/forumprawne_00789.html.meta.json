@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00789",
+  "source_url": "https://forumprawne.org/watek/usluga-fryzjerska.867759/",
+  "fetch_url": "https://forumprawne.org/watek/usluga-fryzjerska.867759/",
+  "archive_file": "forumprawne/forumprawne_00789.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60027,
+  "sha256": "a220e3209d25966734ded9bf08204cd6dde17ac80545dba2e2ead24a805a5161",
+  "download_date": "2026-05-16T07:56:25Z",
+  "duration_sec": 0.114,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

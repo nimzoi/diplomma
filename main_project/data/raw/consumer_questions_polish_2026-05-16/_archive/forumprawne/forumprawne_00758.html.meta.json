@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00758",
+  "source_url": "https://forumprawne.org/watek/towar-zamowiony-oplacony-towaru-brak.868149/",
+  "fetch_url": "https://forumprawne.org/watek/towar-zamowiony-oplacony-towaru-brak.868149/",
+  "archive_file": "forumprawne/forumprawne_00758.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53293,
+  "sha256": "696db571bb6e0eb7ebe416e875bbe93976a44a7154412d64256da51112677d9b",
+  "download_date": "2026-05-16T07:55:50Z",
+  "duration_sec": 0.183,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,12 @@
+{
+  "pko_bp": {
+    "url": "https://www.pkobp.pl/klienci-indywidualni/",
+    "reason": "WAF 403 — PKO blocks bot UA; would need Playwright + interactive CAPTCHA",
+    "notes": "WAF blokuje bot UA. Workaround wymagałby Playwright headful + manual CAPTCHA solve. Skip per academic time budget."
+  },
+  "mbank": {
+    "url": "https://www.mbank.pl/regulaminy/",
+    "reason": "WAF 404 — mBank blocks /regulaminy paths via bot detection",
+    "notes": "mBank regulaminy URLs returning 404 dla bot UA. Same workaround."
+  }
+}

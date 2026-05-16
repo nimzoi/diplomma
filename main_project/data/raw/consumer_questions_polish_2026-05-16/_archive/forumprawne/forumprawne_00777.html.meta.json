@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00777",
+  "source_url": "https://forumprawne.org/watek/spor-o-zwrot-w-sklepie-morele.867919/",
+  "fetch_url": "https://forumprawne.org/watek/spor-o-zwrot-w-sklepie-morele.867919/",
+  "archive_file": "forumprawne/forumprawne_00777.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66907,
+  "sha256": "eda40772abd3d8d7f55759d260f72c9da362353723dc8e2d1b5d92691b6ed1ca",
+  "download_date": "2026-05-16T07:56:12Z",
+  "duration_sec": 0.13,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

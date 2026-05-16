@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01042",
+  "source_url": "https://forumprawne.org/watek/nieuczciwy-mechanik.862308/",
+  "fetch_url": "https://forumprawne.org/watek/nieuczciwy-mechanik.862308/",
+  "archive_file": "forumprawne/forumprawne_01042.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72854,
+  "sha256": "139ca77ca854f4ac4d3df9dfa512a8853d98670d650eeda2671e4a4099c23597",
+  "download_date": "2026-05-16T08:01:11Z",
+  "duration_sec": 0.152,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

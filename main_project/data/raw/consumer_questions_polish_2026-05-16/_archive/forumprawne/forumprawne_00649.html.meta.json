@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00649",
+  "source_url": "https://forumprawne.org/watek/rekojmia-zgloszona-po-24-miesiecach.870116/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-zgloszona-po-24-miesiecach.870116/",
+  "archive_file": "forumprawne/forumprawne_00649.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76576,
+  "sha256": "ff274889a73107c834f74abfff70adb17e8dcc8c582e4857bdfb52ef9ce1146d",
+  "download_date": "2026-05-16T07:53:47Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

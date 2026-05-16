@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01050",
+  "source_url": "https://forumprawne.org/watek/problem-w-barze.862050/",
+  "fetch_url": "https://forumprawne.org/watek/problem-w-barze.862050/",
+  "archive_file": "forumprawne/forumprawne_01050.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59005,
+  "sha256": "43717e3cd090a7fd7ce8baa8e9365252bd0aef3dfab8c4f9bcd0899a8dec19a5",
+  "download_date": "2026-05-16T08:01:20Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00828",
+  "source_url": "https://forumprawne.org/watek/dofinansowanie-moj-prad-3-0.867149/",
+  "fetch_url": "https://forumprawne.org/watek/dofinansowanie-moj-prad-3-0.867149/",
+  "archive_file": "forumprawne/forumprawne_00828.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52493,
+  "sha256": "c6d1ee7bf95ef3c7bb74345404a9b182a4916e88c46577495d974b9935e1a9f4",
+  "download_date": "2026-05-16T07:57:09Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

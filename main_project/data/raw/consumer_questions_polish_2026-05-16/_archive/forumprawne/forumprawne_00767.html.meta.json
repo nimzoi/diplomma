@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00767",
+  "source_url": "https://forumprawne.org/watek/zwrot-niepobranych-tresci-cyfrowych.868018/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-niepobranych-tresci-cyfrowych.868018/",
+  "archive_file": "forumprawne/forumprawne_00767.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60341,
+  "sha256": "1935ca825a627212138efbb1b6586bea3e30facc872ee23b6ff500490a4c4300",
+  "download_date": "2026-05-16T07:56:00Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

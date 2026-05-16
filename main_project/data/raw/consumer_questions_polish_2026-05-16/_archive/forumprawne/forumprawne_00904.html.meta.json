@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00904",
+  "source_url": "https://forumprawne.org/watek/uszkodzona-zawartosc-paczki-zwrot.865647/",
+  "fetch_url": "https://forumprawne.org/watek/uszkodzona-zawartosc-paczki-zwrot.865647/",
+  "archive_file": "forumprawne/forumprawne_00904.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63657,
+  "sha256": "06d2444dcd9ed590344ad74a82d18cbdd0220dda1e314058f8b034c39e3f15d3",
+  "download_date": "2026-05-16T07:58:35Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

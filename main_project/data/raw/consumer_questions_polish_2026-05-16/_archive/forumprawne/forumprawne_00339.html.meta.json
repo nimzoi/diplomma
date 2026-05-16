@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00339",
+  "source_url": "https://forumprawne.org/watek/konsument-bez-prawa-do-zwrotu-w-ciagu-14-dni.877284/",
+  "fetch_url": "https://forumprawne.org/watek/konsument-bez-prawa-do-zwrotu-w-ciagu-14-dni.877284/",
+  "archive_file": "forumprawne/forumprawne_00339.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76312,
+  "sha256": "ab2e6ef9583eaa91b59f7e5553ba86183ebeeff110dcab2f133392e5166deb9e",
+  "download_date": "2026-05-16T07:47:57Z",
+  "duration_sec": 0.116,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

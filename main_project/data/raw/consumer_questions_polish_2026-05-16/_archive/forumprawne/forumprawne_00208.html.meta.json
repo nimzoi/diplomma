@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00208",
+  "source_url": "https://forumprawne.org/watek/przejazd-pociadiem.880301/",
+  "fetch_url": "https://forumprawne.org/watek/przejazd-pociadiem.880301/",
+  "archive_file": "forumprawne/forumprawne_00208.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65461,
+  "sha256": "72d3311dafc6661b09bca5a49d8a0c1a7b98b7060e2774c8f5ecc7f10c99ba06",
+  "download_date": "2026-05-16T07:45:30Z",
+  "duration_sec": 0.217,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00877",
+  "source_url": "https://forumprawne.org/watek/cena-promocyjna-z-data-obowiazywania-w-sklepie.866230/",
+  "fetch_url": "https://forumprawne.org/watek/cena-promocyjna-z-data-obowiazywania-w-sklepie.866230/",
+  "archive_file": "forumprawne/forumprawne_00877.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68193,
+  "sha256": "dfaa58a2ab4e4f62a0b756423566e03a65aa87aaad534ba2e8e73c16b98fe473",
+  "download_date": "2026-05-16T07:58:05Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

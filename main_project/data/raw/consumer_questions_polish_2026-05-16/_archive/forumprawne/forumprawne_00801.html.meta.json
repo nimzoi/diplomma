@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00801",
+  "source_url": "https://forumprawne.org/watek/chirurg-ze-znanego-szpitala-doprowadzil-do-inwalidztwa.867553/",
+  "fetch_url": "https://forumprawne.org/watek/chirurg-ze-znanego-szpitala-doprowadzil-do-inwalidztwa.867553/",
+  "archive_file": "forumprawne/forumprawne_00801.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59956,
+  "sha256": "2877f41dbebb1bf5963650cc33a618ecbe85dfe032f2806829d7c18c68489949",
+  "download_date": "2026-05-16T07:56:39Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

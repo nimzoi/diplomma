@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00414",
+  "source_url": "https://forumprawne.org/watek/zamowiony-produkt-zza-granicy-nie-dotarl.875364/",
+  "fetch_url": "https://forumprawne.org/watek/zamowiony-produkt-zza-granicy-nie-dotarl.875364/",
+  "archive_file": "forumprawne/forumprawne_00414.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 93968,
+  "sha256": "ef762d74758b7df72a5e7acf61e314a3d484a4d5562ad9801887b005fe140373",
+  "download_date": "2026-05-16T07:49:23Z",
+  "duration_sec": 0.169,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

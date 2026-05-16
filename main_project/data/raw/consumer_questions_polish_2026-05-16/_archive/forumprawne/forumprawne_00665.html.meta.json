@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00665",
+  "source_url": "https://forumprawne.org/watek/klient-chce-zwrocic-samochod-z-swoja-strata.868207/",
+  "fetch_url": "https://forumprawne.org/watek/klient-chce-zwrocic-samochod-z-swoja-strata.868207/",
+  "archive_file": "forumprawne/forumprawne_00665.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 90020,
+  "sha256": "2046e26d9eaa1fb66172e3ac56320cef6a44edb418a31275eeae34a3ba82d472",
+  "download_date": "2026-05-16T07:54:05Z",
+  "duration_sec": 0.119,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00534",
+  "source_url": "https://forumprawne.org/watek/zgloszenie-reklamacyjne-z-tytulu-rekojmi-14-dni.872530/",
+  "fetch_url": "https://forumprawne.org/watek/zgloszenie-reklamacyjne-z-tytulu-rekojmi-14-dni.872530/",
+  "archive_file": "forumprawne/forumprawne_00534.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66260,
+  "sha256": "78040314421c7b6291d765b610c74c2d1adc684a4de0d7474eca5da1d13d9130",
+  "download_date": "2026-05-16T07:51:37Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

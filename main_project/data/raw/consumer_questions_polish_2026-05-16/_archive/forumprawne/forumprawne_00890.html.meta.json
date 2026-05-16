@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00890",
+  "source_url": "https://forumprawne.org/watek/mechanik-odnawia-wydania-samochodu-oddanego-na-reklamacje.865969/",
+  "fetch_url": "https://forumprawne.org/watek/mechanik-odnawia-wydania-samochodu-oddanego-na-reklamacje.865969/",
+  "archive_file": "forumprawne/forumprawne_00890.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58657,
+  "sha256": "508e289a84c50554c682fce8edc457bb27d8f375d536baf750ee99feb7ea58be",
+  "download_date": "2026-05-16T07:58:19Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

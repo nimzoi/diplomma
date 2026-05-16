@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00908",
+  "source_url": "https://forumprawne.org/watek/reklamacja-za-usluge-dodatkowa-a-platnosc.865567/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-za-usluge-dodatkowa-a-platnosc.865567/",
+  "archive_file": "forumprawne/forumprawne_00908.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54764,
+  "sha256": "db7d56c0f8fd477fd9d4486a739a5982c8fa947f57adbeb7cc0224b900914b87",
+  "download_date": "2026-05-16T07:58:40Z",
+  "duration_sec": 0.107,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

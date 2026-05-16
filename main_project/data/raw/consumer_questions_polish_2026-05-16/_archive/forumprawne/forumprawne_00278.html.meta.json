@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00278",
+  "source_url": "https://forumprawne.org/watek/zakup-samochodu-wada-ukryta.878686/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-samochodu-wada-ukryta.878686/",
+  "archive_file": "forumprawne/forumprawne_00278.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 130893,
+  "sha256": "1d742dd63912e60d995305214bd4028b9faddd14ea8efc7e65c99cf2cb0830fc",
+  "download_date": "2026-05-16T07:46:49Z",
+  "duration_sec": 0.127,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

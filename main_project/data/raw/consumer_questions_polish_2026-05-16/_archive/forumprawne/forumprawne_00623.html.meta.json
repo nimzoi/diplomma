@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00623",
+  "source_url": "https://forumprawne.org/watek/odmowa-otwarcia-rachunku-bankowego-bez-podania-przyczyny.870624/",
+  "fetch_url": "https://forumprawne.org/watek/odmowa-otwarcia-rachunku-bankowego-bez-podania-przyczyny.870624/",
+  "archive_file": "forumprawne/forumprawne_00623.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 102656,
+  "sha256": "87707e3ce2ec3c4105a92c741422f9dda7c3036872c165da006ef5645786277c",
+  "download_date": "2026-05-16T07:53:18Z",
+  "duration_sec": 0.128,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

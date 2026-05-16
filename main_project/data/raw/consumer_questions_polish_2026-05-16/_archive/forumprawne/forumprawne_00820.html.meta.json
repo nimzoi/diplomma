@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00820",
+  "source_url": "https://forumprawne.org/watek/reklamacja-walizki.867216/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-walizki.867216/",
+  "archive_file": "forumprawne/forumprawne_00820.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72892,
+  "sha256": "57d96f4fb976b86804271b432cbeda43ab8c48ba85a66f5e8ca9f5a8a1458bba",
+  "download_date": "2026-05-16T07:57:00Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

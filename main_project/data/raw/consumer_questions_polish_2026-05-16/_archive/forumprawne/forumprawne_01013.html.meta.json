@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01013",
+  "source_url": "https://forumprawne.org/watek/doliczanie-oplat-do-wykonanej-uslugi.862939/",
+  "fetch_url": "https://forumprawne.org/watek/doliczanie-oplat-do-wykonanej-uslugi.862939/",
+  "archive_file": "forumprawne/forumprawne_01013.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 90867,
+  "sha256": "573d1aac70054e6d4359e460ad4cc1fa3d858ece844be3e17eaac339abf3c528",
+  "download_date": "2026-05-16T08:00:38Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

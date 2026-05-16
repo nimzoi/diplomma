@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00222",
+  "source_url": "https://forumprawne.org/watek/zmiana-pomnika-na-cmentarzu.879917/",
+  "fetch_url": "https://forumprawne.org/watek/zmiana-pomnika-na-cmentarzu.879917/",
+  "archive_file": "forumprawne/forumprawne_00222.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65421,
+  "sha256": "08576c284a519243149291e6ed938c168152f707f0fafbcd31783be1a05ce410",
+  "download_date": "2026-05-16T07:45:45Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

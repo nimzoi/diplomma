@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00550",
+  "source_url": "https://forumprawne.org/watek/rezygnacja-z-uslugi-po-14-dniach.872127/",
+  "fetch_url": "https://forumprawne.org/watek/rezygnacja-z-uslugi-po-14-dniach.872127/",
+  "archive_file": "forumprawne/forumprawne_00550.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58196,
+  "sha256": "3f1df971d1317ee76932bf814e1dc5d7be412e264b632515dcb6df307272dd39",
+  "download_date": "2026-05-16T07:51:55Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

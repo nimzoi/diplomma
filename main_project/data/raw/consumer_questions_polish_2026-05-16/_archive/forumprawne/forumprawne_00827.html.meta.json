@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00827",
+  "source_url": "https://forumprawne.org/watek/reklamowanie-perfum.867151/",
+  "fetch_url": "https://forumprawne.org/watek/reklamowanie-perfum.867151/",
+  "archive_file": "forumprawne/forumprawne_00827.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57760,
+  "sha256": "ccfa34d04d28a351dd44946be1577b7259dd69c260f2d2a55351f3a435771d55",
+  "download_date": "2026-05-16T07:57:08Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,419 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 59,
+  "entries": [
+    {
+      "article_id": "gp_0001_unia_stawia_na_made_in_europe",
+      "url": "https://edgp.gazetaprawna.pl/gospodarka/artykuly/11246676,unia-stawia-na-made-in-europe.html",
+      "status": 200,
+      "title": "Unia stawia na Made in Europe",
+      "char_count": 998
+    },
+    {
+      "article_id": "gp_0002_zaczeo_sie_pkb_wyhamowa_w_i_kwartale_do_3_4_proc_w",
+      "url": "https://edgp.gazetaprawna.pl/gospodarka/artykuly/11246827,gus-gospodarka-wyhamowala-pod-wplywem-mroznego-poczatku-roku-w-i-kw.html",
+      "status": 200,
+      "title": "„Zaczęło się. PKB wyhamował w I kwartale do 3,4 proc. w ujęciu rocznym\". Ale to jeszcze nie jest efekt wojny na Bliskim ",
+      "char_count": 904
+    },
+    {
+      "article_id": "gp_0003_pkb_zawiod_ale_to_nie_caa_historia_sa_tez_dobre_wi",
+      "url": "https://edgp.gazetaprawna.pl/gospodarka/artykuly/11247463,mniej-wiecej-wzrost-pkb-slabszy-ale-nie-taki-zly-malejacy-wzrost.html",
+      "status": 200,
+      "title": "PKB zawiódł, ale to nie cała historia. Są też dobre wiadomości z gospodarki",
+      "char_count": 1060
+    },
+    {
+      "article_id": "gp_0004_szok_naftowy_popchnie_inflacje_w_okolice_3_5_proc_",
+      "url": "https://edgp.gazetaprawna.pl/gospodarka/artykuly/11247719,szok-naftowy-popchnie-majowa-inflacje-w-okolice-35-proc.html",
+      "status": 200,
+      "title": "Szok naftowy popchnie inflację w okolice 3,5 proc. w maju. Na koniec roku będzie 4 proc.?",
+      "char_count": 1226
+    },
+    {
+      "article_id": "gp_0005_dylematy_branzy_transportowej",
+      "url": "https://edgp.gazetaprawna.pl/gospodarka/biznes/artykuly/11246693,dylematy-branzy-transportowej.html",
+      "status": 200,
+      "title": "Dylematy branży transportowej",
+      "char_count": 761
+    },
+    {
+      "article_id": "gp_0006_spodzielnie_energetyczne_w_2026_r_jakie_daja_korzy",
+      "url": "https://edgp.gazetaprawna.pl/gospodarka/energetyka/artykuly/11234266,spoldzielnie-energetyczne-w-2026-r-nowe-zasady-tworzenia-jakie-daja.html",
+      "status": 200,
+      "title": "Spółdzielnie energetyczne w 2026 r. Jakie dają korzyści i kiedy warto je zakładać [RAPORT SPECJALNY DGP]",
+      "char_count": 913
+    },
+    {
+      "article_id": "gp_0007_dzwignia_dla_rozwoju",
+      "url": "https://edgp.gazetaprawna.pl/gospodarka/energetyka/artykuly/11246690,dzwignia-dla-rozwoju.html",
+      "status": 200,
+      "title": "Dźwignia dla rozwoju",
+      "char_count": 6378
+    },
+    {
+      "article_id": "gp_0008_circoloco_pod_paacem_w_wilanowie_co_z_ochrona_zaby",
+      "url": "https://edgp.gazetaprawna.pl/gospodarka/klimat-i-srodowisko/artykuly/11246481,impreza-techno-w-wilanowie-jaka-kara-moze-spotkac-organizatora.html",
+      "status": 200,
+      "title": "Circoloco pod Pałacem w Wilanowie. Co z ochroną zabytków i przyrody?",
+      "char_count": 803
+    },
+    {
+      "article_id": "gp_0009_granice_pakietu_motoryzacyjnego_moga_zostac_przesu",
+      "url": "https://edgp.gazetaprawna.pl/gospodarka/klimat-i-srodowisko/artykuly/11247259,granice-pakietu-motoryzacyjnego-moga-zostac-przesuniete-branza-koment.html",
+      "status": 200,
+      "title": "Granice pakietu motoryzacyjnego mogą zostać przesunięte. Branża komentuje przeciek nowej propozycji",
+      "char_count": 928
+    },
+    {
+      "article_id": "gp_0010_zrownanie_zarobkow_urzedniczek_i_urzednikow_bedzie",
+      "url": "https://edgp.gazetaprawna.pl/kadry-i-place/prawo-pracy/artykuly/11245870,zrownanie-zarobkow-urzedniczek-i-urzednikow-bedzie-bolesne.html",
+      "status": 200,
+      "title": "Zrównanie zarobków urzędniczek i urzędników będzie bolesne",
+      "char_count": 1271
+    },
+    {
+      "article_id": "gp_0011_inspekcja_pracy_chce_nowych_obowiazkow_dla_firm_ch",
+      "url": "https://edgp.gazetaprawna.pl/kadry-i-place/prawo-pracy/artykuly/11246560,inspekcja-pracy-chce-nowych-obowiazkow-dla-firm-chodzi-o-stres-pracow.html",
+      "status": 200,
+      "title": "Inspekcja pracy chce nowych obowiązków dla firm. Chodzi o stres pracowników",
+      "char_count": 672
+    },
+    {
+      "article_id": "gp_0013_fdi_screening_2026_koniec_naiwnosci_europy_nadchod",
+      "url": "https://edgp.gazetaprawna.pl/kraj/artykuly/11247096,fdi-screening-2026-koniec-naiwnosci-europy-nadchodzi-nowa-era-inwest.html",
+      "status": 200,
+      "title": "FDI Screening 2026: Koniec naiwności Europy. Nadchodzi nowa era inwestycji",
+      "char_count": 1004
+    },
+    {
+      "article_id": "gp_0014_pkp_intercity_planuje_dodatkowe_poaczenie_komercyj",
+      "url": "https://edgp.gazetaprawna.pl/kraj/artykuly/11247625,pkp-intercity-planuje-dodatkowe-polaczenie-komercyjne-ale-tansze-poci.html",
+      "status": 200,
+      "title": "PKP Intercity planuje dodatkowe połączenie komercyjne. Czy tańsze pociągi znikną?",
+      "char_count": 752
+    },
+    {
+      "article_id": "gp_0015_spor_o_egzaminy_w_edukacji_domowej_men_zmienia_prz",
+      "url": "https://edgp.gazetaprawna.pl/kraj/edukacja/artykuly/11245759,men-uszczelnia-system-egzaminow-edukacja-domowa-pod-presja-zmian.html",
+      "status": 200,
+      "title": "Spór o egzaminy w edukacji domowej. MEN zmienia przepisy",
+      "char_count": 695
+    },
+    {
+      "article_id": "gp_0016_nie_pewne_losy_rzecznikow_praw_uczniowskich",
+      "url": "https://edgp.gazetaprawna.pl/kraj/edukacja/artykuly/11246592,niepewne-losy-rzecznikow-praw-uczniowskich.html",
+      "status": 200,
+      "title": "(Nie)pewne losy rzeczników praw uczniowskich",
+      "char_count": 820
+    },
+    {
+      "article_id": "gp_0017_doktorant_za_3_tys_z_tak_polska_nauka_traci_modych",
+      "url": "https://edgp.gazetaprawna.pl/kraj/edukacja/artykuly/11246784,doktorant-za-3000-zl-adiunkt-ponizej-sredniej-krajowej-to-juz-nie-k.html",
+      "status": 200,
+      "title": "Doktorant za 3 tys. zł. Tak polska nauka traci młodych. „Za chwilę nie będzie komu uczyć i prowadzić badań”",
+      "char_count": 709
+    },
+    {
+      "article_id": "gp_0018_egzamin_osmoklasisty_ai_i_nauczyciele_ocenili_arku",
+      "url": "https://edgp.gazetaprawna.pl/kraj/edukacja/artykuly/11247475,sztuczna-inteligencja-ocenila-arkusze-osmoklasisty-co-mowia-nauczycie.html",
+      "status": 200,
+      "title": "Egzamin ósmoklasisty. AI i nauczyciele ocenili arkusze",
+      "char_count": 652
+    },
+    {
+      "article_id": "gp_0019_rzad_wygra_w_komisji_ale_ustawa_o_kryptoaktywach_i",
+      "url": "https://edgp.gazetaprawna.pl/kraj/polityka/artykuly/11246594,rzad-wygral-w-komisji-ale-ustawa-o-kryptoaktywach-i-tak-moze-utknac.html",
+      "status": 200,
+      "title": "Rząd wygrał w komisji, ale ustawa o kryptoaktywach i tak może utknąć",
+      "char_count": 577
+    },
+    {
+      "article_id": "gp_0020_ostatnia_kampania_kaczynskiego_kulisy_burzliwego_p",
+      "url": "https://edgp.gazetaprawna.pl/kraj/polityka/artykuly/11247501,ostatnia-kampania-kaczynskiego-kulisy-burzliwego-posiedzenia-pis.html",
+      "status": 200,
+      "title": "Ostatnia kampania Kaczyńskiego? Kulisy burzliwego posiedzenia PiS",
+      "char_count": 1042
+    },
+    {
+      "article_id": "gp_0021_paac_patrzy_na_wojne_w_pis_prezydent_moze_zostac_p",
+      "url": "https://edgp.gazetaprawna.pl/kraj/polityka/artykuly/11248051,palac-patrzy-na-wojne-w-pis-prezydent-moze-zostac-patronem-nowej-praw.html",
+      "status": 200,
+      "title": "Pałac patrzy na wojnę w PiS. Prezydent może zostać patronem nowej prawicy",
+      "char_count": 976
+    },
+    {
+      "article_id": "gp_0022_ponad_poowa_polakow_nie_ufa_trybunaowi_konstytucyj",
+      "url": "https://edgp.gazetaprawna.pl/kraj/spoleczenstwo/artykuly/11236344,ponad-polowa-polakow-nie-ufa-trybunalowi-konstytucyjnemu.html",
+      "status": 200,
+      "title": "Ponad połowa Polaków nie ufa Trybunałowi Konstytucyjnemu",
+      "char_count": 892
+    },
+    {
+      "article_id": "gp_0023_nie_ufamy_tk_bez_wzgledu_na_poglady_polityczne",
+      "url": "https://edgp.gazetaprawna.pl/kraj/spoleczenstwo/artykuly/11236370,nie-ufamy-tk-bez-wzgledu-na-poglady-polityczne.html",
+      "status": 200,
+      "title": "Nie ufamy TK. Bez względu na poglądy polityczne",
+      "char_count": 851
+    },
+    {
+      "article_id": "gp_0024_krzysztof_zanussi_wraca_do_torunia",
+      "url": "https://edgp.gazetaprawna.pl/kraj/spoleczenstwo/artykuly/11240874,krzysztof-zanussi-wraca-do-torunia.html",
+      "status": 200,
+      "title": "Krzysztof Zanussi wraca do Torunia",
+      "char_count": 5218
+    },
+    {
+      "article_id": "gp_0025_polskie_filmy_sa_fajne_inzynier_mamon_sie_myli",
+      "url": "https://edgp.gazetaprawna.pl/kraj/spoleczenstwo/artykuly/11240876,polskie-filmy-sa-fajne-inzynier-mamon-sie-mylil.html",
+      "status": 200,
+      "title": "Polskie filmy są fajne. Inżynier Mamoń się mylił",
+      "char_count": 2341
+    },
+    {
+      "article_id": "gp_0026_sprawdz_wyniki_najnowszego_badania_dla_dgp_jak_pol",
+      "url": "https://edgp.gazetaprawna.pl/kraj/spoleczenstwo/artykuly/11242260,co-polacy-mysla-o-zwiazkach-jednoplciowych-mezczyzni-bardziej-konserw.html",
+      "status": 200,
+      "title": "Sprawdź wyniki najnowszego badania dla DGP. Jak Polacy oceniają małżeństwa jednopłciowe i związki partnerskie po decyzji",
+      "char_count": 807
+    },
+    {
+      "article_id": "gp_0027_ai_wypycha_modych_z_rynku_pracy_stazysci_i_juniorz",
+      "url": "https://edgp.gazetaprawna.pl/kraj/spoleczenstwo/artykuly/11243651,cyfrowa-bariera-dla-pokolenia-z-ai-przejmuje-pierwsze-szczeble-karier.html",
+      "status": 200,
+      "title": "AI wypycha młodych z rynku pracy. Stażyści i juniorzy pierwszą ofiarą sztucznej inteligencji",
+      "char_count": 1108
+    },
+    {
+      "article_id": "gp_0028_organizator_imprezy_circoloco_w_wilanowie_zama_pra",
+      "url": "https://edgp.gazetaprawna.pl/kraj/spoleczenstwo/artykuly/11245143,rdos-interweniuje-w-sprawie-imprezy-circoloco-pod-palacem-w-wilanowie.html",
+      "status": 200,
+      "title": "Organizator imprezy Circoloco w Wilanowie złamał prawo? RDOŚ idzie na policję",
+      "char_count": 879
+    },
+    {
+      "article_id": "gp_0029_dostaja_20_tys_z_i_kupuja_konia_lub_remontuja_dom_",
+      "url": "https://edgp.gazetaprawna.pl/kraj/spoleczenstwo/artykuly/11246590,z-pieczy-zastepczej-do-bezdomnosci-polska-traci-kolejne-pokolenie-dzi.html",
+      "status": 200,
+      "title": "Dostają 20 tys. zł i kupują konia lub remontują dom rodzicom alkoholikom. Usamodzielnienie dzieci z pieczy zastępczej to",
+      "char_count": 409
+    },
+    {
+      "article_id": "gp_0031_nfz_planuje_obnizyc_wyceny_operacji_zacmy_ponad_li",
+      "url": "https://edgp.gazetaprawna.pl/kraj/zdrowie/artykuly/11245719,nfz-planuje-obnizyc-wyceny-operacji-zacmy-ponad-limit-szpitale-ostrze.html",
+      "status": 200,
+      "title": "NFZ planuje obniżyć wyceny operacji zaćmy ponad limit. Szpitale ostrzegają przed kolejkami",
+      "char_count": 866
+    },
+    {
+      "article_id": "gp_0032_naczelna_rada_lekarska_podwyzki_lekarzy_za_niskie",
+      "url": "https://edgp.gazetaprawna.pl/kraj/zdrowie/artykuly/11246483,naczelna-rada-lekarska-podwyzki-lekarzy-za-niskie.html",
+      "status": 200,
+      "title": "Naczelna Rada Lekarska: Podwyżki lekarzy za niskie",
+      "char_count": 1358
+    },
+    {
+      "article_id": "gp_0033_w_aptece_okazuje_sie_za_pozno_czym_jest_bezpieczen",
+      "url": "https://edgp.gazetaprawna.pl/kraj/zdrowie/artykuly/11246686,w-aptece-okazuje-sie-za-pozno-czym-jest-bezpieczenstwo-lekowe.html",
+      "status": 200,
+      "title": "W aptece okazuje się za późno, czym jest bezpieczeństwo lekowe",
+      "char_count": 7701
+    },
+    {
+      "article_id": "gp_0034_by_jedno_ai_nie_zostao_as_em_jak_donald_trump_walc",
+      "url": "https://edgp.gazetaprawna.pl/magazyn/artykuly/11247778,by-jedno-ai-niezostalo-asem-jak-donald-trump-walczy-z-anthropic.html",
+      "status": 200,
+      "title": "By jedno AI nie zostało AS-em. Jak Donald Trump walczy z Anthropic",
+      "char_count": 451
+    },
+    {
+      "article_id": "gp_0035_poczobut_chce_wrocic_do_kraju_ukaszenki_to_moze_ur",
+      "url": "https://edgp.gazetaprawna.pl/opinie/artykuly/11245394,poczobut-chce-wrocic-na-bialorus-minsk-moze-znowu-zrobic-z-niego-zakl.html",
+      "status": 200,
+      "title": "Poczobut chce wrócić do kraju Łukaszenki. To może uruchomić nową polityczną grę",
+      "char_count": 1356
+    },
+    {
+      "article_id": "gp_0036_bezradni_wobec_pis_sprawczy_wobec_swoich",
+      "url": "https://edgp.gazetaprawna.pl/opinie/artykuly/11245737,bezradni-wobec-pis-sprawczy-wobec-swoich.html",
+      "status": 200,
+      "title": "Bezradni wobec PiS, sprawczy wobec swoich",
+      "char_count": 919
+    },
+    {
+      "article_id": "gp_0037_wilanow_nie_spi_bo_sucha_techno_ale_problemem_w_te",
+      "url": "https://edgp.gazetaprawna.pl/opinie/artykuly/11245860,i-zrobili-halas-nie-tylko-w-wilanowie.html",
+      "status": 200,
+      "title": "Wilanów nie śpi, bo słucha techno. Ale problemem w tej sprawie nie są zabytki i milionerzy",
+      "char_count": 705
+    },
+    {
+      "article_id": "gp_0038_kaczynski_chce_zakazu_kryptowalut_w_pis_na_nowo_wy",
+      "url": "https://edgp.gazetaprawna.pl/opinie/artykuly/11246519,pis-pogubiony-w-narracji-w-sprawie-kryptowalut-spor-morawieckiego-z-s.html",
+      "status": 200,
+      "title": "Kaczyński chce zakazu kryptowalut. W PiS na nowo wybuchła wojna Morawieckiego z Sasinem",
+      "char_count": 981
+    },
+    {
+      "article_id": "gp_0039_24_ofiary_w_kijowie_co_nam_to_mowi_o_rosji_opinia",
+      "url": "https://edgp.gazetaprawna.pl/opinie/artykuly/11248081,24-ofiary-w-kijowie-co-nam-to-mowi-o-rosji-opinia.html",
+      "status": 200,
+      "title": "24 ofiary w Kijowie. Co nam to mówi o Rosji? [OPINIA]",
+      "char_count": 1357
+    },
+    {
+      "article_id": "gp_0040_cash_pooling_to_specyficzna_pozyczka_jak_ksiegowac",
+      "url": "https://edgp.gazetaprawna.pl/podatki/ksiegowosc/artykuly/11247561,cash-pooling-to-specyficzna-pozyczka-jak-ksiegowac-srodki-i-rozlicza.html",
+      "status": 200,
+      "title": "Cash pooling to specyficzna pożyczka – jak księgować środki i rozliczać odsetki",
+      "char_count": 607
+    },
+    {
+      "article_id": "gp_0041_rzecznik_tsue_rodzinna_darowizna_udziaow_w_przedsi",
+      "url": "https://edgp.gazetaprawna.pl/podatki/vat/artykuly/11246537,rzecznik-tsue-rodzinna-darowizna-udzialow-w-przedsiebiorstwie-jest-z.html",
+      "status": 200,
+      "title": "Rzecznik TSUE: rodzinna darowizna udziałów w przedsiębiorstwie jest z VAT",
+      "char_count": 507
+    },
+    {
+      "article_id": "gp_0042_faktury_offline_w_ksef_mozna_antydatowac",
+      "url": "https://edgp.gazetaprawna.pl/podatki/vat/artykuly/11246552,faktury-offline-w-ksef-mozna-antydatowac.html",
+      "status": 200,
+      "title": "Faktury offline w KSeF można „antydatować”",
+      "char_count": 929
+    },
+    {
+      "article_id": "gp_0043_coraz_wiekszy_skandal_na_ukrainie_rezydencje_jak_w",
+      "url": "https://edgp.gazetaprawna.pl/swiat/artykuly/11245909,coraz-wiekszy-skandal-na-ukrainie-rezydencje-jak-w-dynastii.html",
+      "status": 200,
+      "title": "Coraz większy skandal na Ukrainie, rezydencje jak w Dynastii. Andrij Jermak ma trafić do aresztu",
+      "char_count": 880
+    },
+    {
+      "article_id": "gp_0044_wizyta_trumpa_w_chinach_mao_konkretow_duzo_pompy",
+      "url": "https://edgp.gazetaprawna.pl/swiat/artykuly/11247774,wizyta-trumpa-w-chinach-malo-konkretow-duzo-pompy.html",
+      "status": 200,
+      "title": "Wizyta Trumpa w Chinach: mało konkretów, dużo pompy",
+      "char_count": 840
+    },
+    {
+      "article_id": "gp_0045_orteza_do_rehabilitacji_reki_i_sterownik_do_nanosa",
+      "url": "https://edgp.gazetaprawna.pl/wideo/eureka-odkrycie-tygodnia/artykuly/11247860,orteza-do-rehabilitacji-reki-i-sterownik-do-nanosatelitow.html",
+      "status": 200,
+      "title": "Orteza do rehabilitacji ręki i sterownik do nanosatelitów",
+      "char_count": 4535
+    },
+    {
+      "article_id": "gp_0046_local_content_ma_odegrac_kluczowa_role_w_dekadzie_",
+      "url": "https://www.gazetaprawna.pl/biznes/artykuly/11246788,local-content-ma-odegrac-kluczowa-role-w-dekadzie-inwestycji.html",
+      "status": 200,
+      "title": "Local content ma odegrać kluczową rolę w dekadzie inwestycji",
+      "char_count": 22180
+    },
+    {
+      "article_id": "gp_0047_kobiety_sa_kluczowe_dla_przyszosci_rolnictwa",
+      "url": "https://www.gazetaprawna.pl/biznes/artykuly/11247498,kobiety-sa-kluczowe-dla-przyszlosci-rolnictwa.html",
+      "status": 200,
+      "title": "Kobiety są kluczowe dla przyszłości rolnictwa",
+      "char_count": 10938
+    },
+    {
+      "article_id": "gp_0048_nadszed_krytyczny_moment_aby_wykorzystac_model_ppp",
+      "url": "https://www.gazetaprawna.pl/biznes/transport/artykuly/11246735,nadszedl-krytyczny-moment-aby-wykorzystac-model-ppp.html",
+      "status": 200,
+      "title": "Nadszedł krytyczny moment, aby wykorzystać model PPP",
+      "char_count": 1104
+    },
+    {
+      "article_id": "gp_0049_najnowsze_porady_z_rachunkowosci",
+      "url": "https://www.gazetaprawna.pl/podatki/rachunkowosc/artykuly/11183153,poradnia-rachunkowa.html",
+      "status": 200,
+      "title": "Najnowsze porady z rachunkowości",
+      "char_count": 1092
+    },
+    {
+      "article_id": "gp_0050_najnowsze_odpowiedzi_z_zakresu_prawa_pracy",
+      "url": "https://www.gazetaprawna.pl/praca/artykuly/9889806,poradnia-kadrowa.html",
+      "status": 200,
+      "title": "Najnowsze odpowiedzi z zakresu prawa pracy",
+      "char_count": 909
+    },
+    {
+      "article_id": "gp_0051_najnowsze_odpowiedzi_z_zakresu_prawa_oswiatowego",
+      "url": "https://www.gazetaprawna.pl/praca/artykuly/9910234,poradnia-oswiatowa.html",
+      "status": 200,
+      "title": "Najnowsze odpowiedzi z zakresu prawa oświatowego",
+      "char_count": 1343
+    },
+    {
+      "article_id": "gp_0052_poradnia_ubezpieczeniowa",
+      "url": "https://www.gazetaprawna.pl/praca/emerytury-i-renty/artykuly/10915412,poradnia-ubezpieczeniowa.html",
+      "status": 200,
+      "title": "Poradnia ubezpieczeniowa",
+      "char_count": 957
+    },
+    {
+      "article_id": "gp_0053_sedziowie_do_krs_wybrani_sejm_zdecydowa_lista_nazw",
+      "url": "https://www.gazetaprawna.pl/prawnik/zawody-prawnicze/artykuly/11247716,sedziowie-do-krs-wybrani-sejm-zdecydowal-lista-nazwisk.html",
+      "status": 200,
+      "title": "Sędziowie do KRS wybrani. Sejm zdecydował. Lista nazwisk",
+      "char_count": 3440
+    },
+    {
+      "article_id": "gp_0054_rzad_opoznia_likwidacje_podatku_belki_miliony_pola",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11245008,rzad-opoznia-likwidacje-podatku-belki-miliony-polakow-poczekaja-dluzej-na-nowe-ulgi.html",
+      "status": 200,
+      "title": "Rząd opóźnia likwidację podatku Belki. Miliony Polaków poczekają dłużej na nowe ulgi",
+      "char_count": 8438
+    },
+    {
+      "article_id": "gp_0055_wlepiaja_kary_za_niepacenie_abonamentu_rtv_tym_kto",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11246057,wlepiaja-kary-za-nieplacenie-abonamentu-rtv-tym-ktorzy-nie-maja-te.html",
+      "status": 200,
+      "title": "Wlepiają kary za niepłacenie abonamentu RTV tym, którzy... nie mają telewizora i radia. Jak to możliwe?",
+      "char_count": 5674
+    },
+    {
+      "article_id": "gp_0056_rosja_chce_wciagnac_biaorus_do_wojny_zeenski_ujawn",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11247923,zelenski-rosja-bialorus-atak-nato.html",
+      "status": 200,
+      "title": "Rosja chce wciągnąć Białoruś do wojny? Zełenski ujawnia plany",
+      "char_count": 2794
+    },
+    {
+      "article_id": "gp_0057_rosnie_deficyt_budzetu_panstwa_mf_pokazao_nowe_wyl",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11247994,mf-podalo-dane-o-budzecie-deficyt-przekroczyl-89-mld-zl.html",
+      "status": 200,
+      "title": "Rośnie deficyt budżetu państwa. MF pokazało nowe wyliczenia",
+      "char_count": 1428
+    },
+    {
+      "article_id": "gp_0058_brutalne_pobicie_nastolatkow_w_warszawie_nowe_decy",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11248000,pobicie-nastolatkow-z-ukrainy-w-warszawie-nowe-decyzje-prokuratury.html",
+      "status": 200,
+      "title": "Brutalne pobicie nastolatków w Warszawie. Nowe decyzje prokuratury",
+      "char_count": 2606
+    },
+    {
+      "article_id": "gp_0059_spor_o_interwencje_policji_w_warszawie_dwie_wersje",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11248065,policja-warszawa-wiktorska-dementi-tv-republika.html",
+      "status": 200,
+      "title": "Spór o interwencję policji w Warszawie. Dwie wersje wydarzeń",
+      "char_count": 2582
+    },
+    {
+      "article_id": "gp_0060_wstrzymana_rotacja_brygady_usa_szef_mon_ujawnia_pl",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11248088,mon-wojska-usa-w-polsce-kosiniak-kamysz-spotkanie-gen-dan-caine-rotacja-brygady.html",
+      "status": 200,
+      "title": "Wstrzymana rotacja brygady USA. Szef MON ujawnia plan rozmów z Pentagonem",
+      "char_count": 2711
+    },
+    {
+      "article_id": "gp_0061_kolejne_45_dni_bez_wojny_izrael_i_liban_podjey_dec",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/swiat/artykuly/11248091,izrael-i-liban-zgodzily-sie-na-przedluzenie-rozejmu-usa-posredniczyly.html",
+      "status": 200,
+      "title": "Kolejne 45 dni bez wojny? Izrael i Liban podjęły decyzję",
+      "char_count": 1096
+    }
+  ]
+}

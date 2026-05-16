@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01008",
+  "source_url": "https://forumprawne.org/watek/sklep-a-brak-realizacji-zamowienia.863086/",
+  "fetch_url": "https://forumprawne.org/watek/sklep-a-brak-realizacji-zamowienia.863086/",
+  "archive_file": "forumprawne/forumprawne_01008.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60939,
+  "sha256": "3b4ca27806042e3e515b500f2a0d5ac5539191aa53bb8038b2e58399df9ea04b",
+  "download_date": "2026-05-16T08:00:33Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

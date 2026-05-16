@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00939",
+  "source_url": "https://forumprawne.org/watek/rezygnacja-z-zamowinego-samochodu.864750/",
+  "fetch_url": "https://forumprawne.org/watek/rezygnacja-z-zamowinego-samochodu.864750/",
+  "archive_file": "forumprawne/forumprawne_00939.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 87361,
+  "sha256": "aba959e370c916ca0cfa025c848cb28add45d8cf49ae72102511eeb1c41549c3",
+  "download_date": "2026-05-16T07:59:15Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00800",
+  "source_url": "https://forumprawne.org/watek/czy-mozna-ubiegac-sie-o-zwrot-pieniedzy-za-kurs-jesli-zmienil-sie-program.867566/",
+  "fetch_url": "https://forumprawne.org/watek/czy-mozna-ubiegac-sie-o-zwrot-pieniedzy-za-kurs-jesli-zmienil-sie-program.867566/",
+  "archive_file": "forumprawne/forumprawne_00800.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53800,
+  "sha256": "259d2ec4de6e7ab9322ba179892864f21af01875a0d5bf993a636e5d55e79f72",
+  "download_date": "2026-05-16T07:56:38Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

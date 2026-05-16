@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00132",
+  "source_url": "https://forumprawne.org/watek/falszywy-sklep-pgg-problem-ze-zwrotem-pieniedzy.882145/",
+  "fetch_url": "https://forumprawne.org/watek/falszywy-sklep-pgg-problem-ze-zwrotem-pieniedzy.882145/",
+  "archive_file": "forumprawne/forumprawne_00132.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59264,
+  "sha256": "9eccfe3bc6b5e7a44533d32006781438bedd61c7df902cf82e17fd474146d547",
+  "download_date": "2026-05-16T07:44:04Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

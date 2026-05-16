@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01062",
+  "source_url": "https://forumprawne.org/watek/wezwanie-do-zaplaty-za-usluge-bez-reklamacji.861802/",
+  "fetch_url": "https://forumprawne.org/watek/wezwanie-do-zaplaty-za-usluge-bez-reklamacji.861802/",
+  "archive_file": "forumprawne/forumprawne_01062.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64428,
+  "sha256": "8671b51f7be9bcbdf0fc1ad4bdbb361b8fb79dcb16ab4ba0597c3bd56fa7b0c5",
+  "download_date": "2026-05-16T08:01:33Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00168",
+  "source_url": "https://forumprawne.org/watek/umowa-z-tauronem-na-zakup-klimatyzacji.881096/",
+  "fetch_url": "https://forumprawne.org/watek/umowa-z-tauronem-na-zakup-klimatyzacji.881096/",
+  "archive_file": "forumprawne/forumprawne_00168.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59704,
+  "sha256": "b7a93cdb285e78e1c79a9681b641a9819d7bbbd87426717663efd04d6fc7cc36",
+  "download_date": "2026-05-16T07:44:45Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

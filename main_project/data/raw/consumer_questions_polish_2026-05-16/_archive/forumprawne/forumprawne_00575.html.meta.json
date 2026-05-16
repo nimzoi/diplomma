@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00575",
+  "source_url": "https://forumprawne.org/watek/nierzetelna-firma-uslugowa.871485/",
+  "fetch_url": "https://forumprawne.org/watek/nierzetelna-firma-uslugowa.871485/",
+  "archive_file": "forumprawne/forumprawne_00575.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 88206,
+  "sha256": "8447f0fa9ca838569ae3a6931f8bd46e6768b91b8241418faacb5bd2522b1021",
+  "download_date": "2026-05-16T07:52:23Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

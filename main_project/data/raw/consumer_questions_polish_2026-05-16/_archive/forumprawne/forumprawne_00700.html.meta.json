@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00700",
+  "source_url": "https://forumprawne.org/watek/reklamacja-wycieczki-prosba-o-pomoc.869227/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-wycieczki-prosba-o-pomoc.869227/",
+  "archive_file": "forumprawne/forumprawne_00700.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 92227,
+  "sha256": "f62fa591ca8adb4f4ab8fc100b8c461df345964200936cbd824ac35bd70f2889",
+  "download_date": "2026-05-16T07:54:45Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

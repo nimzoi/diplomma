@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01063",
+  "source_url": "https://forumprawne.org/watek/wkrecanie-klienta-na-roczne-karnety.861751/",
+  "fetch_url": "https://forumprawne.org/watek/wkrecanie-klienta-na-roczne-karnety.861751/",
+  "archive_file": "forumprawne/forumprawne_01063.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 89239,
+  "sha256": "354a4402f83d247293136fc5da165ece621ddf24e0c6995df2c44702adf28c57",
+  "download_date": "2026-05-16T08:01:34Z",
+  "duration_sec": 0.099,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

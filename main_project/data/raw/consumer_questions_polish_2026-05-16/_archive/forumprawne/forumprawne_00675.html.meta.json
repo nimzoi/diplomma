@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00675",
+  "source_url": "https://forumprawne.org/watek/zagubiona-przesylka-przez.869470/",
+  "fetch_url": "https://forumprawne.org/watek/zagubiona-przesylka-przez.869470/",
+  "archive_file": "forumprawne/forumprawne_00675.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69413,
+  "sha256": "e2ba7d24700345b4d3698dc65911c8936733ca5dca0cbb03b428deb0c1fbda57",
+  "download_date": "2026-05-16T07:54:17Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

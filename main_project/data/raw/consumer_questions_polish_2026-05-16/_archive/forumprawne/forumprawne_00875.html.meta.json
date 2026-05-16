@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00875",
+  "source_url": "https://forumprawne.org/watek/patologia-z-reklamacjami-obuwia.866150/",
+  "fetch_url": "https://forumprawne.org/watek/patologia-z-reklamacjami-obuwia.866150/",
+  "archive_file": "forumprawne/forumprawne_00875.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 130974,
+  "sha256": "a9d91abfd888bf50257b5f23e3651ff986600496b3e3e5fc1fea0b1b86f7cea5",
+  "download_date": "2026-05-16T07:58:03Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

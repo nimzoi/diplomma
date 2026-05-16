@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00592",
+  "source_url": "https://forumprawne.org/watek/pozyczka-pozabankowa.871027/",
+  "fetch_url": "https://forumprawne.org/watek/pozyczka-pozabankowa.871027/",
+  "archive_file": "forumprawne/forumprawne_00592.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58463,
+  "sha256": "d94f32c77226fa1441153eba36097a179d1d6cd1d2348ceebd7ed9d9d0e321ae",
+  "download_date": "2026-05-16T07:52:43Z",
+  "duration_sec": 0.098,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

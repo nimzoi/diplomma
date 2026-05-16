@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00521",
+  "source_url": "https://forumprawne.org/watek/uszkodzenie-pojazdu-w-warsztacie-samochodowym.872964/",
+  "fetch_url": "https://forumprawne.org/watek/uszkodzenie-pojazdu-w-warsztacie-samochodowym.872964/",
+  "archive_file": "forumprawne/forumprawne_00521.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61462,
+  "sha256": "f86c8eab36c81c496d0f490a6b57e59f098adb38e174cd6948d7c4bbc399e84b",
+  "download_date": "2026-05-16T07:51:23Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

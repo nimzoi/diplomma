@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00773",
+  "source_url": "https://forumprawne.org/watek/towar-niezgodny-z-opisem-i-reklamacja.867971/",
+  "fetch_url": "https://forumprawne.org/watek/towar-niezgodny-z-opisem-i-reklamacja.867971/",
+  "archive_file": "forumprawne/forumprawne_00773.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53915,
+  "sha256": "deb4b7c863b55e0268a1a09c9b511a00593aafefbe89b529c8ad5c498416cbbd",
+  "download_date": "2026-05-16T07:56:07Z",
+  "duration_sec": 0.15,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

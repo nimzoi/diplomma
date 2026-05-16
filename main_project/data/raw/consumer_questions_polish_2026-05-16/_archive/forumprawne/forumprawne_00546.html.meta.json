@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00546",
+  "source_url": "https://forumprawne.org/watek/uziemiony-samochod-przez-wade-producenta.872274/",
+  "fetch_url": "https://forumprawne.org/watek/uziemiony-samochod-przez-wade-producenta.872274/",
+  "archive_file": "forumprawne/forumprawne_00546.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55082,
+  "sha256": "98b4a3cb795dfa3c3a01b92d21041dc673fbbbe1bb072ccd2bd40d9cffd35e77",
+  "download_date": "2026-05-16T07:51:51Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

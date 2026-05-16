@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00798",
+  "source_url": "https://forumprawne.org/watek/uszkodzony-towar-odmowa-reklamacji.867570/",
+  "fetch_url": "https://forumprawne.org/watek/uszkodzony-towar-odmowa-reklamacji.867570/",
+  "archive_file": "forumprawne/forumprawne_00798.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59809,
+  "sha256": "8406d8f92c29eccd851e0ecdb4ab7b2e0fa834b2758d1505c81b2dd6185d0891",
+  "download_date": "2026-05-16T07:56:35Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00108",
+  "source_url": "https://forumprawne.org/watek/reklamacja-z-tytulu-rekojmi-odwolanie.882809/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-z-tytulu-rekojmi-odwolanie.882809/",
+  "archive_file": "forumprawne/forumprawne_00108.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59334,
+  "sha256": "35ca70ec1c0989328d94875a23c0450fe70fbde19011753640b848db75b72ebd",
+  "download_date": "2026-05-16T07:43:37Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

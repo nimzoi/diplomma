@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00270",
+  "source_url": "https://forumprawne.org/watek/reklamacja-czesci-samochodowych.878852/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-czesci-samochodowych.878852/",
+  "archive_file": "forumprawne/forumprawne_00270.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53335,
+  "sha256": "d2eb03ee4b83085be6fb09a5f73671c3b6f659bbf32b806491f2f0554a782d8f",
+  "download_date": "2026-05-16T07:46:40Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

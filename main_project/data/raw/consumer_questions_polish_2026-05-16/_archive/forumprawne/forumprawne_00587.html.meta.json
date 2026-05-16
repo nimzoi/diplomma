@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00587",
+  "source_url": "https://forumprawne.org/watek/zalando-100-dniowy-termin-zwrotu-a-reklamacja.871364/",
+  "fetch_url": "https://forumprawne.org/watek/zalando-100-dniowy-termin-zwrotu-a-reklamacja.871364/",
+  "archive_file": "forumprawne/forumprawne_00587.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 127911,
+  "sha256": "64a5c837d9b8f82d33b316c29ad345434552f9fb832abe762ca79ae9c1cbca42",
+  "download_date": "2026-05-16T07:52:37Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

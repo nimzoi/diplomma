@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00747",
+  "source_url": "https://forumprawne.org/watek/ac-a-nowy-nabywca.868481/",
+  "fetch_url": "https://forumprawne.org/watek/ac-a-nowy-nabywca.868481/",
+  "archive_file": "forumprawne/forumprawne_00747.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53207,
+  "sha256": "4776cb8b0a033adfd434b6a1ec52054d0d467e4fa0347a9dccc33e389fe9af71",
+  "download_date": "2026-05-16T07:55:38Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

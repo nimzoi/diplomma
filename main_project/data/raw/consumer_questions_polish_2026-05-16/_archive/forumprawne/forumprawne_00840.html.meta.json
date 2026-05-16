@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00840",
+  "source_url": "https://forumprawne.org/watek/rekojmia-a-awaria-po-roku-uzytkowania.866830/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-a-awaria-po-roku-uzytkowania.866830/",
+  "archive_file": "forumprawne/forumprawne_00840.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 84133,
+  "sha256": "e33ada155a3d38af2087cc682fc6b345aeeb5506e627a5ae6c2907acd323f52e",
+  "download_date": "2026-05-16T07:57:23Z",
+  "duration_sec": 0.225,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

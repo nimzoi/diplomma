@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00246",
+  "source_url": "https://forumprawne.org/watek/umowa-abonencka-w-canal.879406/",
+  "fetch_url": "https://forumprawne.org/watek/umowa-abonencka-w-canal.879406/",
+  "archive_file": "forumprawne/forumprawne_00246.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57874,
+  "sha256": "62b774c5caf03cc3f2a6f63785f72bb91cd7594a2d9bc5701ff87ba90486cc49",
+  "download_date": "2026-05-16T07:46:13Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

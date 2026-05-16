@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00684",
+  "source_url": "https://forumprawne.org/watek/nie-uczciwy-serwis-gsm.868573/",
+  "fetch_url": "https://forumprawne.org/watek/nie-uczciwy-serwis-gsm.868573/",
+  "archive_file": "forumprawne/forumprawne_00684.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 71634,
+  "sha256": "b4a71c19a18ee75d813c83838bc796e0a74b43fd665de52de9970195ffd914e0",
+  "download_date": "2026-05-16T07:54:27Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

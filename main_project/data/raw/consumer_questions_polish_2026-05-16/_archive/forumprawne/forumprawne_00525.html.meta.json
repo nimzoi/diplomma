@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00525",
+  "source_url": "https://forumprawne.org/watek/wlasciwosc-miejscowa-w-sprawie-o-skorzystanie-z-prawa-do-rekojmi.871056/",
+  "fetch_url": "https://forumprawne.org/watek/wlasciwosc-miejscowa-w-sprawie-o-skorzystanie-z-prawa-do-rekojmi.871056/",
+  "archive_file": "forumprawne/forumprawne_00525.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 82166,
+  "sha256": "46733ca56f38ea4742632c839fe879d938ed29e31bd1d0e7a6b0183615d80683",
+  "download_date": "2026-05-16T07:51:27Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00283",
+  "source_url": "https://forumprawne.org/watek/vocher-zwrot-pomocy.878655/",
+  "fetch_url": "https://forumprawne.org/watek/vocher-zwrot-pomocy.878655/",
+  "archive_file": "forumprawne/forumprawne_00283.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59750,
+  "sha256": "17ddabc87f0b046718b28702833c395bd7bfb40ef0da9662eb9616aa67546dfa",
+  "download_date": "2026-05-16T07:46:55Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

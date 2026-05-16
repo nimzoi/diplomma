@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00720",
+  "source_url": "https://forumprawne.org/watek/przetrzymane-pieniadze-przez-blad-pracownicy-banku.869027/",
+  "fetch_url": "https://forumprawne.org/watek/przetrzymane-pieniadze-przez-blad-pracownicy-banku.869027/",
+  "archive_file": "forumprawne/forumprawne_00720.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 77200,
+  "sha256": "def34aef5f5e9e3bdd548ca7c6dfc0681839c6ffdf960971c8249dcb658f3195",
+  "download_date": "2026-05-16T07:55:08Z",
+  "duration_sec": 0.239,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

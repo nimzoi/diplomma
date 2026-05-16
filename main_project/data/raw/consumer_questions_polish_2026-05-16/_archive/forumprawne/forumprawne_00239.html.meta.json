@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00239",
+  "source_url": "https://forumprawne.org/watek/nowy-samochod-ciagle-sie-psuje.879552/",
+  "fetch_url": "https://forumprawne.org/watek/nowy-samochod-ciagle-sie-psuje.879552/",
+  "archive_file": "forumprawne/forumprawne_00239.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53310,
+  "sha256": "5eb5983e040271bf88c4c1717371a6bcfa19bf71cf425edb78c5cf33e3ceb615",
+  "download_date": "2026-05-16T07:46:05Z",
+  "duration_sec": 0.3,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

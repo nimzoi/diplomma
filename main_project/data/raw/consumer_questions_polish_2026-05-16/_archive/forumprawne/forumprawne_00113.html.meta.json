@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00113",
+  "source_url": "https://forumprawne.org/watek/fotowoltaika-nie-dziala-w-dni-sloneczne.882683/",
+  "fetch_url": "https://forumprawne.org/watek/fotowoltaika-nie-dziala-w-dni-sloneczne.882683/",
+  "archive_file": "forumprawne/forumprawne_00113.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68047,
+  "sha256": "ae1ae152db2e5d1d3dd1acbe35c00b972a6324cefe495db1a56338d30abac7a5",
+  "download_date": "2026-05-16T07:43:43Z",
+  "duration_sec": 0.218,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

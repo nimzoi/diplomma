@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00403",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-uzywanej-hulajnogi.875913/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-uzywanej-hulajnogi.875913/",
+  "archive_file": "forumprawne/forumprawne_00403.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60197,
+  "sha256": "99504f56ae3450f1d9c78466c8eb84274f40eaa28fd9ae140b5a335e9b19c140",
+  "download_date": "2026-05-16T07:49:10Z",
+  "duration_sec": 0.268,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

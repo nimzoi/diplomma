@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00136",
+  "source_url": "https://forumprawne.org/watek/brak-uprawnien-do-wykonania-uslugi.881914/",
+  "fetch_url": "https://forumprawne.org/watek/brak-uprawnien-do-wykonania-uslugi.881914/",
+  "archive_file": "forumprawne/forumprawne_00136.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59878,
+  "sha256": "b8384a25b6f66b94e8d8c52beaae8111887a49d5f717c3e537ef75f40448686e",
+  "download_date": "2026-05-16T07:44:09Z",
+  "duration_sec": 0.113,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

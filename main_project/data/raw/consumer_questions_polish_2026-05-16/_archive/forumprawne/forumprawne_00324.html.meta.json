@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00324",
+  "source_url": "https://forumprawne.org/watek/reklamacja-firma-energetyczna-czas-rozpatrzenia.877502/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-firma-energetyczna-czas-rozpatrzenia.877502/",
+  "archive_file": "forumprawne/forumprawne_00324.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53515,
+  "sha256": "1d380c59847d5d25b809c54ec692df2c03c68107fccafd4786886e5cc4c11c7a",
+  "download_date": "2026-05-16T07:47:41Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

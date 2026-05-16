@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01028",
+  "source_url": "https://forumprawne.org/watek/serwisant-2-razy-uszkodzil-mi-komputer.862565/",
+  "fetch_url": "https://forumprawne.org/watek/serwisant-2-razy-uszkodzil-mi-komputer.862565/",
+  "archive_file": "forumprawne/forumprawne_01028.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56931,
+  "sha256": "a59849f07c91107a7aa4a6dc6a3ff31c938b2d415d06edda1d9a4177f893a407",
+  "download_date": "2026-05-16T08:00:55Z",
+  "duration_sec": 0.118,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

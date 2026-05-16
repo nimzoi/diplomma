@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00949",
+  "source_url": "https://forumprawne.org/watek/zwrot-auta-do-komisu-z-tytulu-rekojmi.864396/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-auta-do-komisu-z-tytulu-rekojmi.864396/",
+  "archive_file": "forumprawne/forumprawne_00949.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 106176,
+  "sha256": "019af5140c635ec8e6ac598bc149a8f45a834cd302a8b4e31716fa7a2805e28d",
+  "download_date": "2026-05-16T07:59:26Z",
+  "duration_sec": 0.087,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

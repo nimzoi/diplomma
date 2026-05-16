@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00805",
+  "source_url": "https://forumprawne.org/watek/zakup-allegro-brak-gwarancji-a-rekojmia.867437/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-allegro-brak-gwarancji-a-rekojmia.867437/",
+  "archive_file": "forumprawne/forumprawne_00805.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 102958,
+  "sha256": "024b865428a9422416a4fbfa3e88f5d32e9e59e65a61e9fec4f4feb7f2cfa9f7",
+  "download_date": "2026-05-16T07:56:43Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

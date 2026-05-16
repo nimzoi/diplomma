@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00979",
+  "source_url": "https://forumprawne.org/watek/podawanie-falszywych-informacji-przez-dostawce-internetu.863830/",
+  "fetch_url": "https://forumprawne.org/watek/podawanie-falszywych-informacji-przez-dostawce-internetu.863830/",
+  "archive_file": "forumprawne/forumprawne_00979.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61899,
+  "sha256": "51f388fcfc57eadbb5df52ba8f0ed85dafc5aee29ce05d351317a3bbd3435865",
+  "download_date": "2026-05-16T08:00:00Z",
+  "duration_sec": 0.215,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

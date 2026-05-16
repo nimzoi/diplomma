@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00293",
+  "source_url": "https://forumprawne.org/watek/kupno-samochodu-a-zapis-sprzedawcy.878368/",
+  "fetch_url": "https://forumprawne.org/watek/kupno-samochodu-a-zapis-sprzedawcy.878368/",
+  "archive_file": "forumprawne/forumprawne_00293.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76837,
+  "sha256": "61b5d912a63b23fa5ee92d2852a9645fa69290ed0f9c2cf7d14acbc19478dd5d",
+  "download_date": "2026-05-16T07:47:06Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

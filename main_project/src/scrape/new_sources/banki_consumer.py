@@ -67,14 +67,18 @@ MBANK_BLOCKED_REASON = "WAF 404 — mBank blocks /regulaminy paths via bot detec
 
 
 def discover_ing_urls(fetcher: Fetcher) -> list[str]:
+    """Strict — only seed paths + ich direct children with regulamin/tabel/polityka in path.
+
+    NIE robimy aggressive BFS — ING site jest ogromny, BFS znajdzie tysiące URL
+    irrelevant.  Zostajemy przy whitelist + jeden poziom głębiej.
+    """
     seen: set[str] = set()
-    queue: list[tuple[str, int]] = [(urljoin(ING_BASE, p), 0) for p in ING_ENTRY_PATHS]
-    while queue:
-        url, depth = queue.pop(0)
-        if url in seen or depth >= 3:
-            continue
-        seen.add(url)
-        resp = fetcher.get(url)
+    # 1) seed entries
+    for p in ING_ENTRY_PATHS:
+        seen.add(urljoin(ING_BASE, p))
+    # 2) one-level expansion z każdego seed jeśli zawiera regulamin/tabel
+    for seed in list(seen):
+        resp = fetcher.get(seed)
         if resp is None or resp.status_code != 200:
             continue
         text = resp.content.decode("utf-8", "replace")
@@ -86,24 +90,22 @@ def discover_ing_urls(fetcher: Fetcher) -> list[str]:
                 full = href_clean
             else:
                 continue
-            # Only consumer-relevant paths
-            path = full[len(ING_BASE):]
+            path_lower = full[len(ING_BASE):].lower() if full.startswith(ING_BASE) else ""
+            # Strict: ścieżka musi zawierać explicit regulamin / tabela-oplat / polityka
             if any(
-                kw in path.lower()
+                kw in path_lower
                 for kw in (
                     "regulamin",
-                    "tabel",
-                    "klient",
-                    "dla-klient",
-                    "indywidualn",
-                    "polityka",
-                    "umowa",
-                    "wzor",
-                    "reklamacj",
+                    "tabela-oplat",
+                    "tabela_oplat",
+                    "tabele-i-regulaminy",
+                    "polityka-prywatn",
+                    "polityka-cookie",
+                    "wzory-dokument",
+                    "ochrona-danych-osobowych",
                 )
             ):
-                if full not in seen:
-                    queue.append((full, depth + 1))
+                seen.add(full)
     return sorted(seen)
 
 

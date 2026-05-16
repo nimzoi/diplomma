@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00864",
+  "source_url": "https://forumprawne.org/watek/upadlosc-konsumencka-w-wieku-19-lat.859327/",
+  "fetch_url": "https://forumprawne.org/watek/upadlosc-konsumencka-w-wieku-19-lat.859327/",
+  "archive_file": "forumprawne/forumprawne_00864.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 88751,
+  "sha256": "116b8b89ed92780138eb0652d8b3afae010a062ed8d43447a069fcf014180624",
+  "download_date": "2026-05-16T07:57:50Z",
+  "duration_sec": 0.11,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

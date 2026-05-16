@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00511",
+  "source_url": "https://forumprawne.org/watek/niekompletne-zamowienie.873086/",
+  "fetch_url": "https://forumprawne.org/watek/niekompletne-zamowienie.873086/",
+  "archive_file": "forumprawne/forumprawne_00511.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60529,
+  "sha256": "a7551ce0296200ff03580f2810406d82af3b3997db21807b35d9ccce764e1fc7",
+  "download_date": "2026-05-16T07:51:12Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

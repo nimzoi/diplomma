@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00984",
+  "source_url": "https://forumprawne.org/watek/kupno-samochodu-z-brakujaca-faktura.863489/",
+  "fetch_url": "https://forumprawne.org/watek/kupno-samochodu-z-brakujaca-faktura.863489/",
+  "archive_file": "forumprawne/forumprawne_00984.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70320,
+  "sha256": "50c2fef4c164bad0afbdb841c7d87426d2ec7167332448c686e295c678e137d7",
+  "download_date": "2026-05-16T08:00:05Z",
+  "duration_sec": 0.227,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

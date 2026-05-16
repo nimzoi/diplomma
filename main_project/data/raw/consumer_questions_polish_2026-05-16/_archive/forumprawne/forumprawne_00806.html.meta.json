@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00806",
+  "source_url": "https://forumprawne.org/watek/kto-moze-pomoc.867457/",
+  "fetch_url": "https://forumprawne.org/watek/kto-moze-pomoc.867457/",
+  "archive_file": "forumprawne/forumprawne_00806.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59841,
+  "sha256": "915ad125e726c4d0355e903fac87770dbaab80fe9cd03f693e68b14f7ee98196",
+  "download_date": "2026-05-16T07:56:44Z",
+  "duration_sec": 0.087,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

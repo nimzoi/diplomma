@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00175",
+  "source_url": "https://forumprawne.org/watek/rekojmia-problem-ze-sklepem.880906/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-problem-ze-sklepem.880906/",
+  "archive_file": "forumprawne/forumprawne_00175.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65358,
+  "sha256": "83eea6c6751a6c529364f395b5c2d64ceecb4f5b1d6086c590e8a0bfe5baa845",
+  "download_date": "2026-05-16T07:44:53Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,37 @@
+{
+  "allegro": {
+    "url_main": "https://allegro.pl/regulamin/pl",
+    "url_help": "https://help.allegro.com/pl/",
+    "status_via_requests": "403 Forbidden (cookie/CSRF + WAF)",
+    "status_via_playwright_stealth": "403 Forbidden (still WAF rejection)",
+    "reason": "Allegro deploys aggressive bot detection (Datadome / similar). Standard scrape rejected even with realistic Chrome UA + stealth JS. Workaround would require residential proxy + manual CAPTCHA solve, out of scope per academic time budget.",
+    "recommendation": "If regulamin pełen tekst kluczowy: use archive.org Wayback Machine snapshot or contact Allegro Press Office for explicit research access."
+  },
+  "olx": {
+    "url_main": "https://help.olx.pl/hc/pl",
+    "url_regulamin": "https://www.olx.pl/regulamin/",
+    "status_via_requests": "404 (no listing) / 200 z error page",
+    "status_via_playwright": "200 z body 'Ups, mamy problem' (93 chars)",
+    "reason": "OLX Polska deploys Zendesk help center with bot protection on listing API. Individual articles may be accessible via direct slug URLs but discovery wymaga session cookies. Out of scope.",
+    "recommendation": "OLX Pomoc Polska — request from PR (commercial T&C are public)."
+  },
+  "lex_pl_wolters_kluwer": {
+    "url_main": "https://www.lex.pl/",
+    "url_paywall_example": "https://sip.lex.pl/",
+    "status": "200 OK ale 99% content paywall (SIP subskrypcja)",
+    "reason": "Lex.pl (Wolters Kluwer) = komercyjna baza prawnicza paywall. Public articles ograniczone do landing pages + SEO content. Streszczenia prawne za paywall. Free legal acts już pokryte z ISAP/EUR-Lex.",
+    "recommendation": "Nie potrzebne — Lex.pl content że ISAP/EUR-Lex (już mamy) + Federacja Konsumentów porady (już mamy) pokrywa ten layer."
+  },
+  "pko_bp": {
+    "url": "https://www.pkobp.pl/klienci-indywidualni/regulaminy/",
+    "status_via_requests": "404",
+    "status_via_playwright": "200 ale body_len=677 (effectively empty)",
+    "reason": "PKO BP blocks /regulaminy paths via WAF + JavaScript-only navigation. Regulaminy są dostępne tylko w portalu klienta (after login)."
+  },
+  "mbank": {
+    "url": "https://www.mbank.pl/pomoc/regulaminy-i-tabele/",
+    "status_via_requests": "404",
+    "status_via_playwright": "200 z error page (404 inner)",
+    "reason": "mBank /pomoc/regulaminy paths return 404 for bot UA. Regulaminy tylko via mBank Online client portal."
+  }
+}

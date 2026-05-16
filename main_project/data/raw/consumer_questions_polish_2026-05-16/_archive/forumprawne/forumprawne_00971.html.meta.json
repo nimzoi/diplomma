@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00971",
+  "source_url": "https://forumprawne.org/watek/motocykl-nie-zgodny-z-opisem.863907/",
+  "fetch_url": "https://forumprawne.org/watek/motocykl-nie-zgodny-z-opisem.863907/",
+  "archive_file": "forumprawne/forumprawne_00971.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59931,
+  "sha256": "6c15bfe4813c595293b70a12cb83e7b251933880042fdabc4ccdc4426138a7de",
+  "download_date": "2026-05-16T07:59:50Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

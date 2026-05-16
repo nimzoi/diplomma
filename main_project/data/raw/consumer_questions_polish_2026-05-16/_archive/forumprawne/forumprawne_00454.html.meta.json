@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00454",
+  "source_url": "https://forumprawne.org/watek/poczta-polska-doplata-za-niewykonana-usluge.874621/",
+  "fetch_url": "https://forumprawne.org/watek/poczta-polska-doplata-za-niewykonana-usluge.874621/",
+  "archive_file": "forumprawne/forumprawne_00454.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53792,
+  "sha256": "489c5a14050a1387adac87454cd937b1eb779de28c0e778b9f2ad8a1b6b18da5",
+  "download_date": "2026-05-16T07:50:07Z",
+  "duration_sec": 0.144,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

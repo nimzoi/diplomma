@@ -1,0 +1,16 @@
+{
+  "source": "platforms_blocked_log",
+  "scrape_date": "2026-05-16",
+  "license": "N/A — documentation only",
+  "discovered_urls": 0,
+  "successful_articles": 0,
+  "failed_urls": 5,
+  "skipped_too_short": 0,
+  "skipped_duplicate": 0,
+  "waf_blocks": 0,
+  "total_chars": 0,
+  "avg_chars_per_article": 0.0,
+  "archive_mb": 0.0,
+  "notes": "Documentation-only output: 5 sources blocked, each with explicit reason + recommendation w blocked.json. Compensating coverage z innych adapterów dataset listed w README.md.",
+  "categories": {}
+}

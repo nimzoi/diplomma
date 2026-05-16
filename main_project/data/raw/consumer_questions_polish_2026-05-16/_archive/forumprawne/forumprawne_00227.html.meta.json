@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00227",
+  "source_url": "https://forumprawne.org/watek/wezwanie-do-wydania-zakupionego-towaru.879816/",
+  "fetch_url": "https://forumprawne.org/watek/wezwanie-do-wydania-zakupionego-towaru.879816/",
+  "archive_file": "forumprawne/forumprawne_00227.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64393,
+  "sha256": "eba6295a3c79dcab7dc1559c912d4c99693fbb1da1e8b3af107079313e6edb4f",
+  "download_date": "2026-05-16T07:45:51Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

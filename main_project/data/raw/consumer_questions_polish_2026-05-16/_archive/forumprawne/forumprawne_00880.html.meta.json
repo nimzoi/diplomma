@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00880",
+  "source_url": "https://forumprawne.org/watek/wymiana-rozrzadu-w-aucie.866145/",
+  "fetch_url": "https://forumprawne.org/watek/wymiana-rozrzadu-w-aucie.866145/",
+  "archive_file": "forumprawne/forumprawne_00880.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61121,
+  "sha256": "24c0ad9c5caa2e2f4ced7823c5c06b60b65002badfde2cf4b0c74fc21092c2e6",
+  "download_date": "2026-05-16T07:58:08Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

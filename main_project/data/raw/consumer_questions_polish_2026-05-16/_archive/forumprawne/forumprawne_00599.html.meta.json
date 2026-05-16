@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00599",
+  "source_url": "https://forumprawne.org/watek/zmiana-cen-podczas-leczenia-ortodontycznego.870942/",
+  "fetch_url": "https://forumprawne.org/watek/zmiana-cen-podczas-leczenia-ortodontycznego.870942/",
+  "archive_file": "forumprawne/forumprawne_00599.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 82289,
+  "sha256": "87b47a48938f6a0ef7f4be4549b90a450b6a9fe2c4d8a59319cdd83db24be075",
+  "download_date": "2026-05-16T07:52:51Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00174",
+  "source_url": "https://forumprawne.org/watek/grozby-konsumenta.880918/",
+  "fetch_url": "https://forumprawne.org/watek/grozby-konsumenta.880918/",
+  "archive_file": "forumprawne/forumprawne_00174.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64550,
+  "sha256": "225743b4297644f5309b744435ca0f39bac4b9efae76a7e3d54249f0d4e7d04b",
+  "download_date": "2026-05-16T07:44:52Z",
+  "duration_sec": 0.114,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

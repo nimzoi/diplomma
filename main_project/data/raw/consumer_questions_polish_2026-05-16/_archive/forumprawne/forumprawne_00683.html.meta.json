@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00683",
+  "source_url": "https://forumprawne.org/watek/spor-z-pralnia-o-zniszczone-ubranie.869564/",
+  "fetch_url": "https://forumprawne.org/watek/spor-z-pralnia-o-zniszczone-ubranie.869564/",
+  "archive_file": "forumprawne/forumprawne_00683.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 74531,
+  "sha256": "58ac6aa62d5bb6dccb6499e087652f5f2167f6c3b05e7150e796c8c6a5579c21",
+  "download_date": "2026-05-16T07:54:26Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

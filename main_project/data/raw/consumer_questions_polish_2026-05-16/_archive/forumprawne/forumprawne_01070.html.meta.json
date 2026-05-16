@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01070",
+  "source_url": "https://forumprawne.org/watek/problem-z-realizacja-gwarancji-na-karte-graficzna.861542/",
+  "fetch_url": "https://forumprawne.org/watek/problem-z-realizacja-gwarancji-na-karte-graficzna.861542/",
+  "archive_file": "forumprawne/forumprawne_01070.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59153,
+  "sha256": "b2b7a0fc3cbda72111e966a3c380e64dace43f7a5d31ade4b65321d7fed5f71a",
+  "download_date": "2026-05-16T08:01:42Z",
+  "duration_sec": 0.091,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

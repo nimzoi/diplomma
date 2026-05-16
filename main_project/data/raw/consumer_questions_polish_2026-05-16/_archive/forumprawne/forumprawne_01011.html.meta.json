@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01011",
+  "source_url": "https://forumprawne.org/watek/nietypowa-reklamacja-dotyczaca-karty-pamieci.862988/",
+  "fetch_url": "https://forumprawne.org/watek/nietypowa-reklamacja-dotyczaca-karty-pamieci.862988/",
+  "archive_file": "forumprawne/forumprawne_01011.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62298,
+  "sha256": "e12baae20484b7aa5b119aae0d89929b9c4059b2c77c2e095a076912a28bccbc",
+  "download_date": "2026-05-16T08:00:36Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00646",
+  "source_url": "https://forumprawne.org/watek/studia-podyplomowe-prawo-szkolnictwa-wyzszego.870276/",
+  "fetch_url": "https://forumprawne.org/watek/studia-podyplomowe-prawo-szkolnictwa-wyzszego.870276/",
+  "archive_file": "forumprawne/forumprawne_00646.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53211,
+  "sha256": "30b6ffbec7ecc6dd5189731bba07ad20389287178ecee8277894dbd2d05646ad",
+  "download_date": "2026-05-16T07:53:44Z",
+  "duration_sec": 0.108,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

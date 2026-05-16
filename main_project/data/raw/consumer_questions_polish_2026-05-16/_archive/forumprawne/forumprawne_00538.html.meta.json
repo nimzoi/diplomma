@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00538",
+  "source_url": "https://forumprawne.org/watek/zakup-auta-z-ukrytymi-naprawami.872448/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-auta-z-ukrytymi-naprawami.872448/",
+  "archive_file": "forumprawne/forumprawne_00538.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66552,
+  "sha256": "049f5742d6aba234a317f1a0265da44f43107cde785c0b2dfcde1c0f46a2d368",
+  "download_date": "2026-05-16T07:51:42Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

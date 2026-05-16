@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00211",
+  "source_url": "https://forumprawne.org/watek/odrzucona-rekojmia.880205/",
+  "fetch_url": "https://forumprawne.org/watek/odrzucona-rekojmia.880205/",
+  "archive_file": "forumprawne/forumprawne_00211.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61261,
+  "sha256": "59debe882424e20778ca68e7d29139e6a736d0a3b8d67e50ed853a42e7e4c2a9",
+  "download_date": "2026-05-16T07:45:33Z",
+  "duration_sec": 0.109,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

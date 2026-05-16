@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00209",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-mieszkania-w-trakcie-procesu-sadowego.880249/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-mieszkania-w-trakcie-procesu-sadowego.880249/",
+  "archive_file": "forumprawne/forumprawne_00209.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69311,
+  "sha256": "f3e1179e33e286ee8030611ec026f3872f6bdd5779d14191aa02875d76594c9e",
+  "download_date": "2026-05-16T07:45:31Z",
+  "duration_sec": 0.135,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

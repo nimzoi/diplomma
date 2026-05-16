@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00909",
+  "source_url": "https://forumprawne.org/watek/problem-po-sprzedazy-auta.865550/",
+  "fetch_url": "https://forumprawne.org/watek/problem-po-sprzedazy-auta.865550/",
+  "archive_file": "forumprawne/forumprawne_00909.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59366,
+  "sha256": "7ce34c08a4dacea0a443319fff52ec4facc52faa022d7a2cc5b2e3272ba99bdb",
+  "download_date": "2026-05-16T07:58:41Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

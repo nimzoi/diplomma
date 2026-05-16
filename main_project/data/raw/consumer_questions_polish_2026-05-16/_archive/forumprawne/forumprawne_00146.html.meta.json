@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00146",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-towaru-z-przecena.881619/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-towaru-z-przecena.881619/",
+  "archive_file": "forumprawne/forumprawne_00146.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54993,
+  "sha256": "1cf27f9d8cbf278cd45cf5b94777ddb5d9d357abd237b104d8f54189ffecc56c",
+  "download_date": "2026-05-16T07:44:20Z",
+  "duration_sec": 0.141,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

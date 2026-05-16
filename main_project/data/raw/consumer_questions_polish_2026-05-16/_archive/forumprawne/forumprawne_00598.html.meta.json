@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00598",
+  "source_url": "https://forumprawne.org/watek/samoodnawialny-karnet-w-klubie-fitness.871134/",
+  "fetch_url": "https://forumprawne.org/watek/samoodnawialny-karnet-w-klubie-fitness.871134/",
+  "archive_file": "forumprawne/forumprawne_00598.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76993,
+  "sha256": "63c4ec0f61936047ba218316bf5193840108da23a0b092292f9ebecafaa14e8c",
+  "download_date": "2026-05-16T07:52:50Z",
+  "duration_sec": 0.102,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

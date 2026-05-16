@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00363",
+  "source_url": "https://forumprawne.org/watek/zwrot-pieniedzy.876759/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-pieniedzy.876759/",
+  "archive_file": "forumprawne/forumprawne_00363.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57515,
+  "sha256": "c70c3668716622ff5e692a4ac2f724629493683593ed0e799c7143ebed64fd4e",
+  "download_date": "2026-05-16T07:48:25Z",
+  "duration_sec": 0.244,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

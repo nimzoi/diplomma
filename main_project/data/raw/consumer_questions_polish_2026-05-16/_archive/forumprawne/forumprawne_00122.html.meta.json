@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00122",
+  "source_url": "https://forumprawne.org/watek/nieodebranie-paczki-z-platnoscia-przy-odbiorze.882541/",
+  "fetch_url": "https://forumprawne.org/watek/nieodebranie-paczki-z-platnoscia-przy-odbiorze.882541/",
+  "archive_file": "forumprawne/forumprawne_00122.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 125620,
+  "sha256": "c4ec802257789b4be37bc75533635a058e3ab1dda13b3209d2aaa29868559099",
+  "download_date": "2026-05-16T07:43:53Z",
+  "duration_sec": 0.226,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

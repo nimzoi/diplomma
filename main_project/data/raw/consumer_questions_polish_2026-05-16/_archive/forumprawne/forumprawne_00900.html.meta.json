@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00900",
+  "source_url": "https://forumprawne.org/watek/zakup-w-sklepie-stacjonarnym.705190/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-w-sklepie-stacjonarnym.705190/",
+  "archive_file": "forumprawne/forumprawne_00900.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 99789,
+  "sha256": "0a2f9eed7d3fd682418bc61ad57116a10b0a7263f7605b60249b7dad5cbc3d04",
+  "download_date": "2026-05-16T07:58:31Z",
+  "duration_sec": 0.206,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

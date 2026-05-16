@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00621",
+  "source_url": "https://forumprawne.org/watek/reklamacja-agd-a-koszty-nowego-sprzetu.870649/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-agd-a-koszty-nowego-sprzetu.870649/",
+  "archive_file": "forumprawne/forumprawne_00621.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 80873,
+  "sha256": "dc296c9e8fd5d227f05e2794aed0d0ec176bf23141f20923398bd7b43bb6a8b9",
+  "download_date": "2026-05-16T07:53:15Z",
+  "duration_sec": 0.137,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

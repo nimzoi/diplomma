@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00345",
+  "source_url": "https://forumprawne.org/watek/zwrot-uszkodzonego-telefonu.877131/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-uszkodzonego-telefonu.877131/",
+  "archive_file": "forumprawne/forumprawne_00345.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 73076,
+  "sha256": "57ca74b293e8bd3520a0f96e3ff800ce87d66164bece60bd539fe9fe43037d16",
+  "download_date": "2026-05-16T07:48:04Z",
+  "duration_sec": 0.175,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

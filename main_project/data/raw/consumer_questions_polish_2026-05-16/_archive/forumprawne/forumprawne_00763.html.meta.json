@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00763",
+  "source_url": "https://forumprawne.org/watek/brak-towaru-na-magazynie-lecz-nastepnego-dnia.868049/",
+  "fetch_url": "https://forumprawne.org/watek/brak-towaru-na-magazynie-lecz-nastepnego-dnia.868049/",
+  "archive_file": "forumprawne/forumprawne_00763.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70574,
+  "sha256": "3f29a45908b0a0cde89ae46eeaa476c4e963626b8d95739764da0a6deeedb525",
+  "download_date": "2026-05-16T07:55:56Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

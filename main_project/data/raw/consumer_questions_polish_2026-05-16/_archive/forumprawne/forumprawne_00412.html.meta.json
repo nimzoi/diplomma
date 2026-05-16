@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00412",
+  "source_url": "https://forumprawne.org/watek/reklamacja-bluzy.875633/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-bluzy.875633/",
+  "archive_file": "forumprawne/forumprawne_00412.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66725,
+  "sha256": "7f8e7bf7f7ba890dce0de7838f0ff72875b76f6600b08ad942091268e8ee9b53",
+  "download_date": "2026-05-16T07:49:20Z",
+  "duration_sec": 0.216,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

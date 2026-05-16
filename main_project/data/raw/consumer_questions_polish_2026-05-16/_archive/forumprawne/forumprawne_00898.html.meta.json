@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00898",
+  "source_url": "https://forumprawne.org/watek/oc-kupno-samochodu.865771/",
+  "fetch_url": "https://forumprawne.org/watek/oc-kupno-samochodu.865771/",
+  "archive_file": "forumprawne/forumprawne_00898.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 99127,
+  "sha256": "1892b861ba3380ea1b4f4d1feac694fcc1daafaf1d1ffecbf07a624f2a2ecb79",
+  "download_date": "2026-05-16T07:58:28Z",
+  "duration_sec": 0.231,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

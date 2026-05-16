@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00717",
+  "source_url": "https://forumprawne.org/watek/kupujacy-chce-zwrocic-samochod.869036/",
+  "fetch_url": "https://forumprawne.org/watek/kupujacy-chce-zwrocic-samochod.869036/",
+  "archive_file": "forumprawne/forumprawne_00717.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60609,
+  "sha256": "1fe575af04334822eae166e0c7361755863b3cee9242a68abf82343920642da0",
+  "download_date": "2026-05-16T07:55:04Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

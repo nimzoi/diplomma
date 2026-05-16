@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00723",
+  "source_url": "https://forumprawne.org/watek/brak-odpowiedzi-w-terminie-14-dni-na-zgloszone-wady-rekojmia.868982/",
+  "fetch_url": "https://forumprawne.org/watek/brak-odpowiedzi-w-terminie-14-dni-na-zgloszone-wady-rekojmia.868982/",
+  "archive_file": "forumprawne/forumprawne_00723.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59567,
+  "sha256": "9858443ce72a85d291a132bca2680965349a7c6a9f00a83a891fffc519f50403",
+  "download_date": "2026-05-16T07:55:11Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

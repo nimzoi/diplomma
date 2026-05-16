@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00353",
+  "source_url": "https://forumprawne.org/watek/zakup-kota-problemy.696603/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-kota-problemy.696603/",
+  "archive_file": "forumprawne/forumprawne_00353.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 89474,
+  "sha256": "df9d68026a86a0559c37b6c22b469bd4d170372edba0d794be699aeb1afb90a2",
+  "download_date": "2026-05-16T07:48:13Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

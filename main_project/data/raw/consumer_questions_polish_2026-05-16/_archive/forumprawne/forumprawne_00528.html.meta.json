@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00528",
+  "source_url": "https://forumprawne.org/watek/zle-przeprowadzona-naprawa-laptopa.872725/",
+  "fetch_url": "https://forumprawne.org/watek/zle-przeprowadzona-naprawa-laptopa.872725/",
+  "archive_file": "forumprawne/forumprawne_00528.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60710,
+  "sha256": "0a498d150fd73f39ce7181ef3f87ef5519ae1ad7a1227daf11a58640ab2158fd",
+  "download_date": "2026-05-16T07:51:31Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

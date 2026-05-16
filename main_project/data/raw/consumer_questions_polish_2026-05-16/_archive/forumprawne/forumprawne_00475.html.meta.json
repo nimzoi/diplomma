@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00475",
+  "source_url": "https://forumprawne.org/watek/anulowana-rezerwacja-lotnicza-przez-operatora.874036/",
+  "fetch_url": "https://forumprawne.org/watek/anulowana-rezerwacja-lotnicza-przez-operatora.874036/",
+  "archive_file": "forumprawne/forumprawne_00475.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 174487,
+  "sha256": "a4ec518cc07f7e05be3e9dff40271915d30a4575f53b12617cc0c6d9b04a7dab",
+  "download_date": "2026-05-16T07:50:31Z",
+  "duration_sec": 0.219,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

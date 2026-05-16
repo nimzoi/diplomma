@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00142",
+  "source_url": "https://forumprawne.org/watek/kredyt-hipoteczny-w-frankach.881765/",
+  "fetch_url": "https://forumprawne.org/watek/kredyt-hipoteczny-w-frankach.881765/",
+  "archive_file": "forumprawne/forumprawne_00142.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66342,
+  "sha256": "2c62f81df62ac9d793e768ae9d60db424bf821276903bd6fe9a27c6a521092c4",
+  "download_date": "2026-05-16T07:44:15Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

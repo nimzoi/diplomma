@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00360",
+  "source_url": "https://forumprawne.org/watek/zgubiona-paczka-a-wartosc-odtworzenia.876799/",
+  "fetch_url": "https://forumprawne.org/watek/zgubiona-paczka-a-wartosc-odtworzenia.876799/",
+  "archive_file": "forumprawne/forumprawne_00360.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53616,
+  "sha256": "14ebb724b13ca2fd327e0ac1b60e080cd1c6ff9b47a2c61d6dcdc66eb0b17164",
+  "download_date": "2026-05-16T07:48:21Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

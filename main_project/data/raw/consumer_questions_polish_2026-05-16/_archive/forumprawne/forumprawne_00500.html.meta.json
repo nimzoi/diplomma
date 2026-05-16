@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00500",
+  "source_url": "https://forumprawne.org/watek/reklamacja-zmechaconej-bluzy.873522/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-zmechaconej-bluzy.873522/",
+  "archive_file": "forumprawne/forumprawne_00500.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60822,
+  "sha256": "24b37661a119dff58ac204630dddc767f5ec44c19f792d1ac893abfd35960857",
+  "download_date": "2026-05-16T07:50:59Z",
+  "duration_sec": 0.107,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

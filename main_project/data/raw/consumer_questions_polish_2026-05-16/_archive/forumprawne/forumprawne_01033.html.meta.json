@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01033",
+  "source_url": "https://forumprawne.org/watek/naprawa-sprzetu-a-prawo-konsumenta.862338/",
+  "fetch_url": "https://forumprawne.org/watek/naprawa-sprzetu-a-prawo-konsumenta.862338/",
+  "archive_file": "forumprawne/forumprawne_01033.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64181,
+  "sha256": "0bbc94ab1b62a70dbc53b8b650a697be7d550d83fb19cb1799c7f82a2076c457",
+  "download_date": "2026-05-16T08:01:01Z",
+  "duration_sec": 0.199,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

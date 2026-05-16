@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00481",
+  "source_url": "https://forumprawne.org/watek/sprzedawca-wyslal-towar-przez-pomylke-i-zapomnial-odebrac.873900/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedawca-wyslal-towar-przez-pomylke-i-zapomnial-odebrac.873900/",
+  "archive_file": "forumprawne/forumprawne_00481.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61039,
+  "sha256": "2ff8834199e195bd90e53c5a2454d9105fc2724479895a426acd50ab7b1d7b0a",
+  "download_date": "2026-05-16T07:50:38Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01039",
+  "source_url": "https://forumprawne.org/watek/problem-ze-zwrotem-srodkow.862370/",
+  "fetch_url": "https://forumprawne.org/watek/problem-ze-zwrotem-srodkow.862370/",
+  "archive_file": "forumprawne/forumprawne_01039.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 86453,
+  "sha256": "679683b7b3803e8d0c6936a9ff8a310288d4fcf77ea1225a2750a7ca1e26fad1",
+  "download_date": "2026-05-16T08:01:08Z",
+  "duration_sec": 0.116,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

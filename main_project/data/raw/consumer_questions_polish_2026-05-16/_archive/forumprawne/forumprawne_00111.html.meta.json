@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00111",
+  "source_url": "https://forumprawne.org/watek/nieuznana-reklamacja-odciecie-pradu-sad.882716/",
+  "fetch_url": "https://forumprawne.org/watek/nieuznana-reklamacja-odciecie-pradu-sad.882716/",
+  "archive_file": "forumprawne/forumprawne_00111.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 81934,
+  "sha256": "55acf295a599bf81fb5a387a9267a9f86812aed862f2bdbf29370dd9e2354ec4",
+  "download_date": "2026-05-16T07:43:40Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

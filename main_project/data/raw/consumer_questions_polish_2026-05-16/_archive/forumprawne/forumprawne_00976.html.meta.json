@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00976",
+  "source_url": "https://forumprawne.org/watek/kolejna-rekojmia-na-wersalke.863867/",
+  "fetch_url": "https://forumprawne.org/watek/kolejna-rekojmia-na-wersalke.863867/",
+  "archive_file": "forumprawne/forumprawne_00976.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66069,
+  "sha256": "26d6f31ba8d7f865edf8a2b55d560aa2f7461a8baf553f61ad3ca1f1d66d5891",
+  "download_date": "2026-05-16T07:59:56Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

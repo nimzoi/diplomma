@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00522",
+  "source_url": "https://forumprawne.org/watek/gwarancja-miedzy-firmami-ograniczona-do-14dni.872896/",
+  "fetch_url": "https://forumprawne.org/watek/gwarancja-miedzy-firmami-ograniczona-do-14dni.872896/",
+  "archive_file": "forumprawne/forumprawne_00522.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72660,
+  "sha256": "7ad91fd42a0b94c3bcbbc134ae937e5747a78c8decb71fec012915d6eafe5bf6",
+  "download_date": "2026-05-16T07:51:24Z",
+  "duration_sec": 0.131,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

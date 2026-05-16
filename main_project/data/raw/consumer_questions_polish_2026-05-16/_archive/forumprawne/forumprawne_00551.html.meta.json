@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00551",
+  "source_url": "https://forumprawne.org/watek/jaka-suma-odszkodowania-od-poczty-polskiej.872153/",
+  "fetch_url": "https://forumprawne.org/watek/jaka-suma-odszkodowania-od-poczty-polskiej.872153/",
+  "archive_file": "forumprawne/forumprawne_00551.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64731,
+  "sha256": "30ada52e2a5178455d6ac3801d249aa969d54f50d7226ac83cf57d05f95588fb",
+  "download_date": "2026-05-16T07:51:56Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

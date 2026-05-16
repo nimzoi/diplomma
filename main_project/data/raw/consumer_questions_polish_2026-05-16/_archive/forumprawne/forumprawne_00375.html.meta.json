@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00375",
+  "source_url": "https://forumprawne.org/watek/rekojmia-a-jdg.876334/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-a-jdg.876334/",
+  "archive_file": "forumprawne/forumprawne_00375.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64163,
+  "sha256": "58f9bcc6272298cd3c844b9f7da4d8341d19dfa114a0dc8f778ecd6fc791510e",
+  "download_date": "2026-05-16T07:48:39Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

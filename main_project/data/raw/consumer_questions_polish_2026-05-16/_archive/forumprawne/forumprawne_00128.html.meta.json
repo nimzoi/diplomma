@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00128",
+  "source_url": "https://forumprawne.org/watek/pies-w-restauracji.882194/",
+  "fetch_url": "https://forumprawne.org/watek/pies-w-restauracji.882194/",
+  "archive_file": "forumprawne/forumprawne_00128.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 164259,
+  "sha256": "ee4e7b04a05c833f49d194c0972a80579306b4451834fea1a96d5407d632bc15",
+  "download_date": "2026-05-16T07:44:00Z",
+  "duration_sec": 0.123,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

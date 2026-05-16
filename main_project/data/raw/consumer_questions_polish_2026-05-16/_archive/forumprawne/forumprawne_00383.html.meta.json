@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00383",
+  "source_url": "https://forumprawne.org/watek/multimedia.875750/",
+  "fetch_url": "https://forumprawne.org/watek/multimedia.875750/",
+  "archive_file": "forumprawne/forumprawne_00383.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70782,
+  "sha256": "84f67a21fe3dc513cd7a8822bcf3680f2fd4044633c4a339cad50d714d310c13",
+  "download_date": "2026-05-16T07:48:48Z",
+  "duration_sec": 0.186,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

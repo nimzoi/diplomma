@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00447",
+  "source_url": "https://forumprawne.org/watek/allegro-dpd-klient-stwierdza-brak-dostawy-po-1-5-roku.874741/",
+  "fetch_url": "https://forumprawne.org/watek/allegro-dpd-klient-stwierdza-brak-dostawy-po-1-5-roku.874741/",
+  "archive_file": "forumprawne/forumprawne_00447.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 174434,
+  "sha256": "dfcaccae51d0d0e31f6fe0cae09cb8d1207d990199d106734e82d9cae547aae9",
+  "download_date": "2026-05-16T07:49:59Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

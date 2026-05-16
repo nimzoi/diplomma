@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00180",
+  "source_url": "https://forumprawne.org/watek/cena-promocyjna-na-produkt-a-brak-produktu.880768/",
+  "fetch_url": "https://forumprawne.org/watek/cena-promocyjna-na-produkt-a-brak-produktu.880768/",
+  "archive_file": "forumprawne/forumprawne_00180.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64264,
+  "sha256": "1637844c573a97201be57ccc28f8aa08ebd9882cea636311a2034eff528129fa",
+  "download_date": "2026-05-16T07:44:58Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

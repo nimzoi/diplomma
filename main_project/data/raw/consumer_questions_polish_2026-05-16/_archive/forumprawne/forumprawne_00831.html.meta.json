@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00831",
+  "source_url": "https://forumprawne.org/watek/problem-z-reklamacja.866973/",
+  "fetch_url": "https://forumprawne.org/watek/problem-z-reklamacja.866973/",
+  "archive_file": "forumprawne/forumprawne_00831.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65302,
+  "sha256": "017ce625eae237edebd1abad0ea6a26f2f18c341dfc8dbb0f633d18846cee190",
+  "download_date": "2026-05-16T07:57:12Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

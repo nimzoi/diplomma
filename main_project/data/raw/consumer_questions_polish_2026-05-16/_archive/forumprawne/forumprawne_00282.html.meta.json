@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00282",
+  "source_url": "https://forumprawne.org/watek/media-markt-zwrot-towaru.878656/",
+  "fetch_url": "https://forumprawne.org/watek/media-markt-zwrot-towaru.878656/",
+  "archive_file": "forumprawne/forumprawne_00282.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 75010,
+  "sha256": "9213e48b66fe09d12b7185bfeb06d74cf1e1edb7b1242713fc135599155f758f",
+  "download_date": "2026-05-16T07:46:53Z",
+  "duration_sec": 0.159,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

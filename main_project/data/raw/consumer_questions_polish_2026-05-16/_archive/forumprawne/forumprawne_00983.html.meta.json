@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00983",
+  "source_url": "https://forumprawne.org/watek/reklamacja-laptopa-minelo-14-dni.863633/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-laptopa-minelo-14-dni.863633/",
+  "archive_file": "forumprawne/forumprawne_00983.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61543,
+  "sha256": "61b916585bc47a1c8332c9edcc7a6a54bf5b59a91e4680656952ac3efeef88b5",
+  "download_date": "2026-05-16T08:00:04Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

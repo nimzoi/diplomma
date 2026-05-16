@@ -1,0 +1,1742 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 248,
+  "entries": [
+    {
+      "article_id": "prawo_pl_0001_ms_uzytkowanie_wegla_nie_stoi_w_sprzecznosci_z_och",
+      "url": "https://www.prawo.pl/biznes/ms-uzytkowanie-wegla-nie-stoi-w-sprzecznosci-z-ochrona-klimatu,166821.html",
+      "status": 200,
+      "title": "MŚ: użytkowanie węgla nie stoi w sprzeczności z ochroną klimatu",
+      "char_count": 2569
+    },
+    {
+      "article_id": "prawo_pl_0002_jakie_wymagania_powinien_speniac_pszok",
+      "url": "https://www.prawo.pl/biznes/jakie-wymagania-powinien-spelniac-pszok,166822.html",
+      "status": 200,
+      "title": "Jakie wymagania powinien spełniać PSZOK?",
+      "char_count": 4859
+    },
+    {
+      "article_id": "prawo_pl_0003_za_utrzymanie_psa_w_schronisku_zapaci_wasciciel",
+      "url": "https://www.prawo.pl/biznes/za-utrzymanie-psa-w-schronisku-zaplaci-wlasciciel,166823.html",
+      "status": 200,
+      "title": "Za utrzymanie psa w schronisku zapłaci właściciel",
+      "char_count": 2103
+    },
+    {
+      "article_id": "prawo_pl_0004_pock_nadwislanska_skarpa_zostanie_wzmocniona",
+      "url": "https://www.prawo.pl/biznes/plock-nadwislanska-skarpa-zostanie-wzmocniona,166825.html",
+      "status": 200,
+      "title": "Płock: nadwiślańska skarpa zostanie wzmocniona",
+      "char_count": 3619
+    },
+    {
+      "article_id": "prawo_pl_0005_starosta_moze_udzielic_pozwolenia_na_wprowadzanie_",
+      "url": "https://www.prawo.pl/biznes/starosta-moze-udzielic-pozwolenia-na-wprowadzanie-gazow-z-wytworni-mas-bitumicznych,166826.html",
+      "status": 200,
+      "title": "Starosta może udzielić pozwolenia na wprowadzanie gazów z wytwórni mas bitumicznych",
+      "char_count": 1666
+    },
+    {
+      "article_id": "prawo_pl_0006_kujawsko_pomorskie_trwaja_konsultacje_planow_ochro",
+      "url": "https://www.prawo.pl/biznes/kujawsko-pomorskie-trwaja-konsultacje-planow-ochrony-rezerwatow-przyrody,166827.html",
+      "status": 200,
+      "title": "Kujawsko-pomorskie: trwają konsultacje planów ochrony rezerwatów przyrody",
+      "char_count": 629
+    },
+    {
+      "article_id": "prawo_pl_0007_nfosigw_udzieli_porad_o_programie_life",
+      "url": "https://www.prawo.pl/biznes/nfosigw-udzieli-porad-o-programie-life,166828.html",
+      "status": 200,
+      "title": "NFOŚiGW udzieli porad o programie LIFE",
+      "char_count": 1253
+    },
+    {
+      "article_id": "prawo_pl_0008_rekordowe_inwestycje_w_morskie_farmy_wiatrowe",
+      "url": "https://www.prawo.pl/biznes/rekordowe-inwestycje-w-morskie-farmy-wiatrowe,166829.html",
+      "status": 200,
+      "title": "Rekordowe inwestycje w morskie farmy wiatrowe",
+      "char_count": 1920
+    },
+    {
+      "article_id": "prawo_pl_0009_nabor_wnioskow_w_programie_edukacja_ekologiczna_w_",
+      "url": "https://www.prawo.pl/biznes/nabor-wnioskow-w-programie-edukacja-ekologiczna-w-pazdzierniku,166831.html",
+      "status": 200,
+      "title": "Nabór wniosków w programie „Edukacja ekologiczna” w październiku",
+      "char_count": 2736
+    },
+    {
+      "article_id": "prawo_pl_0010_powstaje_coraz_wiecej_budynkow_przyjaznych_srodowi",
+      "url": "https://www.prawo.pl/biznes/powstaje-coraz-wiecej-budynkow-przyjaznych-srodowisku,166832.html",
+      "status": 200,
+      "title": "Powstaje coraz więcej budynków przyjaznych środowisku",
+      "char_count": 2902
+    },
+    {
+      "article_id": "prawo_pl_0011_wwf_osrodki_hodowli_tygrysow_powinny_zostac_zamkni",
+      "url": "https://www.prawo.pl/biznes/wwf-osrodki-hodowli-tygrysow-powinny-zostac-zamkniete,166833.html",
+      "status": 200,
+      "title": "WWF: ośrodki hodowli tygrysów powinny zostać zamknięte",
+      "char_count": 2833
+    },
+    {
+      "article_id": "prawo_pl_0012_czy_wasciciel_nieruchomosci_moze_zostac_ukarany_za",
+      "url": "https://www.prawo.pl/biznes/czy-wlasciciel-nieruchomosci-moze-zostac-ukarany-za-brak-wystarczajacej-ilosci-pojemnikow-na-odpady,166836.html",
+      "status": 200,
+      "title": "Czy właściciel nieruchomości może zostać ukarany za brak wystarczającej ilości pojemników na odpady?",
+      "char_count": 3407
+    },
+    {
+      "article_id": "prawo_pl_0013_mniej_pieniedzy_na_puszcze_biaowieska",
+      "url": "https://www.prawo.pl/biznes/mniej-pieniedzy-na-puszcze-bialowieska,166837.html",
+      "status": 200,
+      "title": "Mniej pieniędzy na Puszczę Białowieską",
+      "char_count": 2163
+    },
+    {
+      "article_id": "prawo_pl_0014_swietokrzyski_pn_ma_nowego_dyrektora",
+      "url": "https://www.prawo.pl/biznes/swietokrzyski-pn-ma-nowego-dyrektora,166839.html",
+      "status": 200,
+      "title": "Świętokrzyski PN ma nowego dyrektora",
+      "char_count": 1208
+    },
+    {
+      "article_id": "prawo_pl_0015_ms_z_certyfikatem_emas",
+      "url": "https://www.prawo.pl/biznes/ms-z-certyfikatem-emas,166840.html",
+      "status": 200,
+      "title": "MŚ z certyfikatem EMAS",
+      "char_count": 1144
+    },
+    {
+      "article_id": "prawo_pl_0016_prowadzenie_pszok_to_dziaalnosc_o_charakterze_uzyt",
+      "url": "https://www.prawo.pl/biznes/prowadzenie-pszok-to-dzialalnosc-o-charakterze-uzytecznosci-publicznej,166842.html",
+      "status": 200,
+      "title": "Prowadzenie PSZOK to działalność o charakterze użyteczności publicznej",
+      "char_count": 5114
+    },
+    {
+      "article_id": "prawo_pl_0017_rusza_nabor_wnioskow_do_programu_soko",
+      "url": "https://www.prawo.pl/biznes/rusza-nabor-wnioskow-do-programu-sokol,166843.html",
+      "status": 200,
+      "title": "Rusza nabór wniosków do programu Sokół",
+      "char_count": 1301
+    },
+    {
+      "article_id": "prawo_pl_0018_ekspert_swiatowe_zasoby_ryb_sa_zagrozone",
+      "url": "https://www.prawo.pl/biznes/ekspert-swiatowe-zasoby-ryb-sa-zagrozone,166845.html",
+      "status": 200,
+      "title": "Ekspert: światowe zasoby ryb są zagrożone",
+      "char_count": 2791
+    },
+    {
+      "article_id": "prawo_pl_0019_przerzut_wody_wymaga_pozwolenia_wodnoprawnego",
+      "url": "https://www.prawo.pl/biznes/przerzut-wody-wymaga-pozwolenia-wodnoprawnego,166846.html",
+      "status": 200,
+      "title": "Przerzut wody wymaga pozwolenia wodnoprawnego",
+      "char_count": 4679
+    },
+    {
+      "article_id": "prawo_pl_0020_zmiany_w_szacowaniu_szkod_owieckich",
+      "url": "https://www.prawo.pl/biznes/zmiany-w-szacowaniu-szkod-lowieckich,166847.html",
+      "status": 200,
+      "title": "Zmiany w szacowaniu szkód łowieckich",
+      "char_count": 1766
+    },
+    {
+      "article_id": "prawo_pl_0021_czy_farme_fotowoltaiczna_mozna_zaklasyfikowac_jako",
+      "url": "https://www.prawo.pl/biznes/czy-farme-fotowoltaiczna-mozna-zaklasyfikowac-jako-urzadzenie-infrastruktury-technicznej,166851.html",
+      "status": 200,
+      "title": "Czy farmę fotowoltaiczną można zaklasyfikować jako urządzenie infrastruktury technicznej?",
+      "char_count": 1236
+    },
+    {
+      "article_id": "prawo_pl_0022_wnioskodawca_musi_wskazac_proces_odzysku_odpadow",
+      "url": "https://www.prawo.pl/biznes/wnioskodawca-musi-wskazac-proces-odzysku-odpadow,166852.html",
+      "status": 200,
+      "title": "Wnioskodawca musi wskazać proces odzysku odpadów",
+      "char_count": 2494
+    },
+    {
+      "article_id": "prawo_pl_0023_w_jaki_sposob_podmiot_moze_zmienic_zasoby_operatyw",
+      "url": "https://www.prawo.pl/biznes/w-jaki-sposob-podmiot-moze-zmienic-zasoby-operatywne-kwalifikujace-sie-do-wydobycia,166854.html",
+      "status": 200,
+      "title": "W jaki sposób podmiot może zmienić zasoby operatywne kwalifikujące się do wydobycia?",
+      "char_count": 2035
+    },
+    {
+      "article_id": "prawo_pl_0024_nfosigw_przeznaczy_miliard_z_na_poprawe_jakosci_po",
+      "url": "https://www.prawo.pl/biznes/nfosigw-przeznaczy-miliard-zl-na-poprawe-jakosci-powietrza,166855.html",
+      "status": 200,
+      "title": "NFOŚiGW przeznaczy miliard zł na poprawę jakości powietrza",
+      "char_count": 2319
+    },
+    {
+      "article_id": "prawo_pl_0025_fotowoltaika_coraz_popularniejsza",
+      "url": "https://www.prawo.pl/biznes/fotowoltaika-coraz-popularniejsza,166857.html",
+      "status": 200,
+      "title": "Fotowoltaika coraz popularniejsza",
+      "char_count": 1355
+    },
+    {
+      "article_id": "prawo_pl_0026_czym_roznia_sie_tereny_zielone_od_terenow_zieleni",
+      "url": "https://www.prawo.pl/biznes/tereny-zielone-a-tereny-zieleni,166858.html",
+      "status": 200,
+      "title": "Czym różnią się tereny zielone od terenów zieleni?",
+      "char_count": 1954
+    },
+    {
+      "article_id": "prawo_pl_0027_nowelizacja_prawa_owieckiego_bedzie_kosztowna_fikc",
+      "url": "https://www.prawo.pl/biznes/nowelizacja-prawa-lowieckiego-bedzie-kosztowna-fikcja,166859.html",
+      "status": 200,
+      "title": "Nowelizacja Prawa łowieckiego będzie kosztowną fikcją?",
+      "char_count": 1343
+    },
+    {
+      "article_id": "prawo_pl_0028_marszakowie_wojewodztw_potrzebne_rozporzadzenie_re",
+      "url": "https://www.prawo.pl/biznes/marszalkowie-wojewodztw-potrzebne-rozporzadzenie-regulujace-przetwarzanie-zmieszanych-odpadow-komunalnych,166860.html",
+      "status": 200,
+      "title": "Marszałkowie województw: potrzebne rozporządzenie regulujące przetwarzanie zmieszanych odpadów komunalnych",
+      "char_count": 3382
+    },
+    {
+      "article_id": "prawo_pl_0029_marszakowie_wojewodztw_apeluja_o_uchwalenie_krajow",
+      "url": "https://www.prawo.pl/biznes/marszalkowie-wojewodztw-apeluja-o-uchwalenie-krajowego-planu-gospodarki-odpadami,166861.html",
+      "status": 200,
+      "title": "Marszałkowie województw apelują o uchwalenie Krajowego planu gospodarki odpadami",
+      "char_count": 1724
+    },
+    {
+      "article_id": "prawo_pl_0030_wwf_krytykuje_projekt_zmian_w_ochronie_zubrow_wilk",
+      "url": "https://www.prawo.pl/biznes/wwf-krytykuje-projekt-zmian-w-ochronie-zubrow-wilkow-rysi-niedzwiedzi-i-bobrow,166862.html",
+      "status": 200,
+      "title": "WWF krytykuje projekt zmian w ochronie żubrów, wilków, rysi, niedźwiedzi i bobrów",
+      "char_count": 2573
+    },
+    {
+      "article_id": "prawo_pl_0031_gminy_wiejskie_same_chca_decydowac_o_zieleni_na_sw",
+      "url": "https://www.prawo.pl/biznes/gminy-wiejskie-same-chca-decydowac-o-zieleni-na-swoim-terenie,166863.html",
+      "status": 200,
+      "title": "Gminy wiejskie same chcą decydować o zieleni na swoim terenie",
+      "char_count": 1722
+    },
+    {
+      "article_id": "prawo_pl_0032_pierwsza_morska_farma_wiatrowa_juz_w_2021_roku",
+      "url": "https://www.prawo.pl/biznes/pierwsza-morska-farma-wiatrowa-juz-w-2021-roku,166865.html",
+      "status": 200,
+      "title": "Pierwsza morska farma wiatrowa już w 2021 roku",
+      "char_count": 2649
+    },
+    {
+      "article_id": "prawo_pl_0033_wchodza_w_zycie_niektore_przepisy_dot_zmian_w_zasa",
+      "url": "https://www.prawo.pl/biznes/wchodza-w-zycie-niektore-przepisy-dot-zmian-w-zasadach-szacowania-szkod-lowieckich,166866.html",
+      "status": 200,
+      "title": "Wchodzą w życie niektóre przepisy dot. zmian w zasadach szacowania szkód łowieckich",
+      "char_count": 3100
+    },
+    {
+      "article_id": "prawo_pl_0034_na_terenie_parku_narodowego_mozna_wybudowac_parkin",
+      "url": "https://www.prawo.pl/biznes/na-terenie-parku-narodowego-mozna-wybudowac-parking,166870.html",
+      "status": 200,
+      "title": "Na terenie parku narodowego można wybudować parking",
+      "char_count": 2080
+    },
+    {
+      "article_id": "prawo_pl_0035_nfosigw_przeznaczy_2_mld_z_na_ekologiczne_inwestyc",
+      "url": "https://www.prawo.pl/biznes/nfosigw-przeznaczyl-2-mld-zl-na-ekologiczne-inwestycje,166871.html",
+      "status": 200,
+      "title": "NFOŚiGW przeznaczył 2 mld zł na ekologiczne inwestycje",
+      "char_count": 1436
+    },
+    {
+      "article_id": "prawo_pl_0036_nfosigw_sfinansowa_dokumentacje_jaskin",
+      "url": "https://www.prawo.pl/biznes/nfosigw-sfinansowal-dokumentacje-jaskin,166872.html",
+      "status": 200,
+      "title": "NFOŚiGW sfinansował dokumentacje jaskiń",
+      "char_count": 1225
+    },
+    {
+      "article_id": "prawo_pl_0037_rosnie_cakowita_moc_instalacji_fotowoltaicznych",
+      "url": "https://www.prawo.pl/biznes/rosnie-calkowita-moc-instalacji-fotowoltaicznych,166873.html",
+      "status": 200,
+      "title": "Rośnie całkowita moc instalacji fotowoltaicznych",
+      "char_count": 3025
+    },
+    {
+      "article_id": "prawo_pl_0038_ustawa_o_oze_trwaja_konsultacje_projektow_rozporza",
+      "url": "https://www.prawo.pl/biznes/ustawa-o-oze-trwaja-konsultacje-projektow-rozporzadzen,166874.html",
+      "status": 200,
+      "title": "Ustawa o OZE: trwają konsultacje projektów rozporządzeń",
+      "char_count": 2993
+    },
+    {
+      "article_id": "prawo_pl_0039_eco_miasto_trwa_konkurs_dla_miast_i_zwiazkow_gminn",
+      "url": "https://www.prawo.pl/biznes/eco-miasto-trwa-konkurs-dla-miast-i-zwiazkow-gminnych,166876.html",
+      "status": 200,
+      "title": "ECO-MIASTO - trwa konkurs dla miast i związków gminnych",
+      "char_count": 1512
+    },
+    {
+      "article_id": "prawo_pl_0040_gminy_z_prawem_do_ksztatowania_polityki_ochrony_za",
+      "url": "https://www.prawo.pl/biznes/gminy-z-prawem-do-ksztaltowania-polityki-ochrony-zadrzewien-resort-przedstawil-projekt,166877.html",
+      "status": 200,
+      "title": "Gminy z prawem do kształtowania polityki ochrony zadrzewień - resort przedstawił projekt",
+      "char_count": 3257
+    },
+    {
+      "article_id": "prawo_pl_0041_odpady_przyjmowane_do_pszok_moga_byc_wazone",
+      "url": "https://www.prawo.pl/biznes/odpady-przyjmowane-do-pszok-moga-byc-wazone,166878.html",
+      "status": 200,
+      "title": "Odpady przyjmowane do PSZOK mogą być ważone",
+      "char_count": 1538
+    },
+    {
+      "article_id": "prawo_pl_0042_biogazowni_rolniczych_nie_bedzie",
+      "url": "https://www.prawo.pl/biznes/biogazowni-rolniczych-nie-bedzie,166879.html",
+      "status": 200,
+      "title": "Biogazowni rolniczych nie będzie?",
+      "char_count": 993
+    },
+    {
+      "article_id": "prawo_pl_0043_opozycja_chce_odblokowac_inwestycje_wiatrakowe",
+      "url": "https://www.prawo.pl/biznes/opozycja-chce-odblokowac-inwestycje-wiatrakowe,166882.html",
+      "status": 200,
+      "title": "Opozycja chce odblokować inwestycje wiatrakowe",
+      "char_count": 3416
+    },
+    {
+      "article_id": "prawo_pl_0044_sad_odrzuci_skargi_na_krakowska_darmowa_komunikacj",
+      "url": "https://www.prawo.pl/biznes/sad-odrzucil-skargi-na-krakowska-darmowa-komunikacje-smogowa,166883.html",
+      "status": 200,
+      "title": "Sąd odrzucił skargi na krakowską darmową komunikację smogową",
+      "char_count": 1449
+    },
+    {
+      "article_id": "prawo_pl_0045_trwa_wielka_inwentaryzacja_w_puszczy_biaowieskiej",
+      "url": "https://www.prawo.pl/biznes/trwa-wielka-inwentaryzacja-w-puszczy-bialowieskiej,166884.html",
+      "status": 200,
+      "title": "Trwa wielka inwentaryzacja w Puszczy Białowieskiej",
+      "char_count": 2252
+    },
+    {
+      "article_id": "prawo_pl_0046_decyzja_srodowiskowa_moze_zostac_przeniesiona",
+      "url": "https://www.prawo.pl/biznes/decyzja-srodowiskowa-moze-zostac-przeniesiona,166885.html",
+      "status": 200,
+      "title": "Decyzja środowiskowa może zostać przeniesiona",
+      "char_count": 796
+    },
+    {
+      "article_id": "prawo_pl_0047_bestsellery_lipca_2016_w_ksiegarni_profinfo_pl",
+      "url": "https://www.prawo.pl/biznes/bestsellery-lipca-2016-w-ksiegarni-profinfopl,166886.html",
+      "status": 200,
+      "title": "Bestsellery lipca 2016 w księgarni profinfo.pl",
+      "char_count": 2312
+    },
+    {
+      "article_id": "prawo_pl_0048_ms_uspokaja_zmiana_przepisow_nie_spowoduje_masoweg",
+      "url": "https://www.prawo.pl/biznes/ms-uspokaja-zmiana-przepisow-nie-spowoduje-masowego-usuwania-drzew,166887.html",
+      "status": 200,
+      "title": "MŚ uspokaja: zmiana przepisów nie spowoduje masowego usuwania drzew",
+      "char_count": 1764
+    },
+    {
+      "article_id": "prawo_pl_0049_pozwolenia_wodnoprawne_krok_po_kroku",
+      "url": "https://www.prawo.pl/biznes/pozwolenia-wodnoprawne-krok-po-kroku,166888.html",
+      "status": 200,
+      "title": "Pozwolenia wodnoprawne - krok po kroku",
+      "char_count": 5626
+    },
+    {
+      "article_id": "prawo_pl_0050_ekspert_zrownowazone_poowy_chronia_srodowisko",
+      "url": "https://www.prawo.pl/biznes/ekspert-zrownowazone-polowy-chronia-srodowisko,166891.html",
+      "status": 200,
+      "title": "Ekspert: zrównoważone połowy chronią środowisko",
+      "char_count": 2372
+    },
+    {
+      "article_id": "prawo_pl_0051_zanieczyszczenie_powietrza_resort_srodowiska_dostr",
+      "url": "https://www.prawo.pl/biznes/zanieczyszczenie-powietrza-resort-srodowiska-dostrzega-problem-i-przedstawia-plan-dzialania,166892.html",
+      "status": 200,
+      "title": "Zanieczyszczenie powietrza: resort środowiska dostrzega problem i przedstawia plan działania",
+      "char_count": 3808
+    },
+    {
+      "article_id": "prawo_pl_0052_szkoka_lesna_jest_obiektem_produkcyjnym",
+      "url": "https://www.prawo.pl/biznes/szkolka-lesna-jest-obiektem-produkcyjnym,166893.html",
+      "status": 200,
+      "title": "Szkółka leśna jest obiektem produkcyjnym",
+      "char_count": 2282
+    },
+    {
+      "article_id": "prawo_pl_0053_decyzje_srodowiskowa_mozna_wydac_po_realizacji_cze",
+      "url": "https://www.prawo.pl/biznes/decyzje-srodowiskowa-mozna-wydac-po-realizacji-czesci-robot-budowlanych,166894.html",
+      "status": 200,
+      "title": "Decyzję środowiskową można wydać po realizacji części robót budowlanych",
+      "char_count": 2003
+    },
+    {
+      "article_id": "prawo_pl_0054_pierwsze_miasto_na_swiecie_do_ktorego_nie_wjedzies",
+      "url": "https://www.prawo.pl/biznes/pierwsze-miasto-na-swiecie-do-ktorego-nie-wjedziesz-samochodem,166895.html",
+      "status": 200,
+      "title": "Pierwsze miasto na świecie, do którego nie wjedziesz samochodem",
+      "char_count": 1075
+    },
+    {
+      "article_id": "prawo_pl_0055_za_jazde_motorami_crossowymi_i_quadami_po_lesie_gr",
+      "url": "https://www.prawo.pl/biznes/za-jazde-motorami-crossowymi-i-quadami-po-lesie-grozi-kara,166896.html",
+      "status": 200,
+      "title": "Za jazdę motorami crossowymi i quadami po lesie grozi kara",
+      "char_count": 1242
+    },
+    {
+      "article_id": "prawo_pl_0056_usa_zwiekszono_populacje_lisa_wyspowego",
+      "url": "https://www.prawo.pl/biznes/usa-zwiekszono-populacje-lisa-wyspowego,166897.html",
+      "status": 200,
+      "title": "USA: zwiększono populację lisa wyspowego",
+      "char_count": 1316
+    },
+    {
+      "article_id": "prawo_pl_0057_opaty_za_wode_moga_wzrosnac",
+      "url": "https://www.prawo.pl/biznes/oplaty-za-wode-moga-wzrosnac,166898.html",
+      "status": 200,
+      "title": "Opłaty za wodę mogą wzrosnąć",
+      "char_count": 2495
+    },
+    {
+      "article_id": "prawo_pl_0058_kiedy_wymagana_jest_decyzja_srodowiskowa_dla_obiek",
+      "url": "https://www.prawo.pl/biznes/kiedy-wymagana-jest-decyzja-srodowiskowa-dla-obiektu-mostowego,166899.html",
+      "status": 200,
+      "title": "Kiedy wymagana jest decyzja środowiskowa dla obiektu mostowego?",
+      "char_count": 2447
+    },
+    {
+      "article_id": "prawo_pl_0060_nowe_prawo_wodne_czy_jest_sie_czego_obawiac",
+      "url": "https://www.prawo.pl/biznes/nowe-prawo-wodne-czy-jest-sie-czego-obawiac,166902.html",
+      "status": 200,
+      "title": "Nowe Prawo wodne - czy jest się czego obawiać?",
+      "char_count": 7254
+    },
+    {
+      "article_id": "prawo_pl_0061_jaki_organ_powinien_wszczac_postepowanie_w_sprawie",
+      "url": "https://www.prawo.pl/biznes/jaki-organ-powinien-wszczac-postepowanie-w-sprawie-dzikich-wysypisk-smieci,166906.html",
+      "status": 200,
+      "title": "Jaki organ powinien wszcząć postępowanie w sprawie dzikich wysypisk śmieci?",
+      "char_count": 2532
+    },
+    {
+      "article_id": "prawo_pl_0062_czy_na_terenach_zalewowych_mozna_budowac_urzadzeni",
+      "url": "https://www.prawo.pl/biznes/czy-na-terenach-zalewowych-mozna-budowac-urzadzenia-wodne,166907.html",
+      "status": 200,
+      "title": "Czy na terenach zalewowych można budować urządzenia wodne?",
+      "char_count": 1594
+    },
+    {
+      "article_id": "prawo_pl_0063_kto_zapaci_za_nowelizacje_prawa_wodnego",
+      "url": "https://www.prawo.pl/biznes/kto-zaplaci-za-nowelizacje-prawa-wodnego,166908.html",
+      "status": 200,
+      "title": "Kto zapłaci za nowelizację Prawa wodnego?",
+      "char_count": 2404
+    },
+    {
+      "article_id": "prawo_pl_0064_rezerwat_sikorz_udostepniono_szlaki_do_ruchu_piesz",
+      "url": "https://www.prawo.pl/biznes/rezerwat-sikorz-udostepniono-szlaki-do-ruchu-pieszego,166909.html",
+      "status": 200,
+      "title": "Rezerwat Sikórz: udostępniono szlaki do ruchu pieszego",
+      "char_count": 1306
+    },
+    {
+      "article_id": "prawo_pl_0065_wiceminister_mazurek_nowe_rozporzadzenie_poprawi_j",
+      "url": "https://www.prawo.pl/biznes/wiceminister-mazurek-nowe-rozporzadzenie-poprawi-jakosc-selektywnego-zbierania-odpadow-komunalnych-u-zrodla,166912.html",
+      "status": 200,
+      "title": "Wiceminister Mazurek: nowe rozporządzenie poprawi jakość selektywnego zbierania odpadów komunalnych „u źródła”",
+      "char_count": 1710
+    },
+    {
+      "article_id": "prawo_pl_0066_po_proponuje_zmiane_dopuszczalnej_odlegosci_budowy",
+      "url": "https://www.prawo.pl/biznes/po-proponuje-zmiane-dopuszczalnej-odleglosci-budowy-elektrowni-wiatrowej-od-zabudowy-mieszkaniowej,166913.html",
+      "status": 200,
+      "title": "PO proponuje zmianę dopuszczalnej odległości budowy elektrowni wiatrowej od zabudowy mieszkaniowej",
+      "char_count": 2219
+    },
+    {
+      "article_id": "prawo_pl_0067_pszczelarze_z_kazda_sekunda_ubywa_105_pszczo",
+      "url": "https://www.prawo.pl/biznes/pszczelarze-z-kazda-sekunda-ubywa-105-pszczol,166915.html",
+      "status": 200,
+      "title": "Pszczelarze: z każdą sekundą ubywa 105 pszczół",
+      "char_count": 3154
+    },
+    {
+      "article_id": "prawo_pl_0068_remont_urzadzenia_wodnego_nie_wymaga_pozwolenia_wo",
+      "url": "https://www.prawo.pl/biznes/remont-urzadzenia-wodnego-nie-wymaga-pozwolenia-wodnoprawnego,166916.html",
+      "status": 200,
+      "title": "Remont urządzenia wodnego nie wymaga pozwolenia wodnoprawnego",
+      "char_count": 1336
+    },
+    {
+      "article_id": "prawo_pl_0069_kostka_brukowa_odzyskana_z_remontowanej_drogi_jest",
+      "url": "https://www.prawo.pl/biznes/kostka-brukowa-odzyskana-z-remontowanej-drogi-jest-odpadem,166917.html",
+      "status": 200,
+      "title": "Kostka brukowa odzyskana z remontowanej drogi jest odpadem",
+      "char_count": 2454
+    },
+    {
+      "article_id": "prawo_pl_0070_nfosigw_ruszy_nabor_wnioskow_w_programie_racjonaln",
+      "url": "https://www.prawo.pl/biznes/nfosigw-ruszyl-nabor-wnioskow-w-programie-racjonalna-gospodarka-odpadami,166918.html",
+      "status": 200,
+      "title": "NFOŚiGW: ruszył nabór wniosków w programie „Racjonalna gospodarka odpadami”",
+      "char_count": 2258
+    },
+    {
+      "article_id": "prawo_pl_0071_utrata_statusu_odpadow_nastepuje_z_chwila_spenieni",
+      "url": "https://www.prawo.pl/biznes/utrata-statusu-odpadow-nastepuje-z-chwila-spelnienia-ustawowych-przeslanek,166926.html",
+      "status": 200,
+      "title": "Utrata statusu odpadów następuje z chwilą spełnienia ustawowych przesłanek",
+      "char_count": 1166
+    },
+    {
+      "article_id": "prawo_pl_0072_elektrofiltry_pomoga_ograniczyc_niska_emisje",
+      "url": "https://www.prawo.pl/biznes/elektrofiltry-pomoga-ograniczyc-niska-emisje,166929.html",
+      "status": 200,
+      "title": "Elektrofiltry pomogą ograniczyć niską emisję",
+      "char_count": 6856
+    },
+    {
+      "article_id": "prawo_pl_0073_ekspert_sztywne_odlegosci_dla_wiatrakow_to_przykad",
+      "url": "https://www.prawo.pl/biznes/ekspert-sztywne-odleglosci-dla-wiatrakow-to-przyklad-politycznego-podejscia,166930.html",
+      "status": 200,
+      "title": "Ekspert: sztywne odległości dla wiatraków to przykład politycznego podejścia",
+      "char_count": 3270
+    },
+    {
+      "article_id": "prawo_pl_0074_europejczycy_chca_wiecej_dziaan_ue_w_zakresie_ochr",
+      "url": "https://www.prawo.pl/biznes/europejczycy-chca-wiecej-dzialan-ue-w-zakresie-ochrony-srodowiska,166931.html",
+      "status": 200,
+      "title": "Europejczycy chcą więcej działań UE w zakresie ochrony środowiska",
+      "char_count": 2910
+    },
+    {
+      "article_id": "prawo_pl_0075_czy_folia_stretch_oraz_folia_celofanowa_a_takze_pr",
+      "url": "https://www.prawo.pl/biznes/czy-folia-stretch-oraz-folia-celofanowa-a-takze-przekladka-kartonowa-to-opakowania,166934.html",
+      "status": 200,
+      "title": "Czy folia stretch oraz folia celofanowa, a także przekładka kartonowa to opakowania?",
+      "char_count": 5013
+    },
+    {
+      "article_id": "prawo_pl_0076_pod_jakim_kodem_odpadu_nalezy_zaklasyfikowac_palet",
+      "url": "https://www.prawo.pl/biznes/pod-jakim-kodem-odpadu-nalezy-zaklasyfikowac-palety-mdf,166935.html",
+      "status": 200,
+      "title": "Pod jakim kodem odpadu należy zaklasyfikować palety MDF?",
+      "char_count": 3066
+    },
+    {
+      "article_id": "prawo_pl_0077_lokalizacja_elektrowni_wiatrowej_wyacznie_na_podst",
+      "url": "https://www.prawo.pl/biznes/lokalizacja-elektrowni-wiatrowej-wylacznie-na-podstawie-miejscowego-planu,166936.html",
+      "status": 200,
+      "title": "Lokalizacja elektrowni wiatrowej wyłącznie na podstawie miejscowego planu",
+      "char_count": 1417
+    },
+    {
+      "article_id": "prawo_pl_0078_ms_planuje_powoac_urzad_ds_regulacji_cen_wody",
+      "url": "https://www.prawo.pl/biznes/ms-planuje-powolac-urzad-ds-regulacji-cen-wody,166937.html",
+      "status": 200,
+      "title": "MŚ planuje powołać urząd ds. regulacji cen wody",
+      "char_count": 2569
+    },
+    {
+      "article_id": "prawo_pl_0079_jakie_wymagania_powinien_spenic_podmiot_by_moc_wyb",
+      "url": "https://www.prawo.pl/biznes/jakie-wymagania-powinien-spelnic-podmiot-by-moc-wybudowac-staw-rybny,166938.html",
+      "status": 200,
+      "title": "Jakie wymagania powinien spełnić podmiot, by móc wybudować staw rybny?",
+      "char_count": 1362
+    },
+    {
+      "article_id": "prawo_pl_0080_ustawa_antyodorowa_coraz_blizej",
+      "url": "https://www.prawo.pl/biznes/ustawa-antyodorowa-coraz-blizej,166939.html",
+      "status": 200,
+      "title": "Ustawa antyodorowa coraz bliżej?",
+      "char_count": 2204
+    },
+    {
+      "article_id": "prawo_pl_0081_gdzie_zwrocic_sie_o_tzw_to_zanieczyszczen_powietrz",
+      "url": "https://www.prawo.pl/biznes/gdzie-zwrocic-sie-o-tzw-tlo-zanieczyszczen-powietrza,166940.html",
+      "status": 200,
+      "title": "Gdzie zwrócić się o tzw. tło zanieczyszczeń powietrza?",
+      "char_count": 2022
+    },
+    {
+      "article_id": "prawo_pl_0082_warszawa_ratuje_pomniki_przyrody",
+      "url": "https://www.prawo.pl/biznes/warszawa-ratuje-pomniki-przyrody,166941.html",
+      "status": 200,
+      "title": "Warszawa ratuje pomniki przyrody",
+      "char_count": 967
+    },
+    {
+      "article_id": "prawo_pl_0083_polskie_panele_fotowoltaiczne_wypieraja_chinskie",
+      "url": "https://www.prawo.pl/biznes/polskie-panele-fotowoltaiczne-wypieraja-chinskie,166942.html",
+      "status": 200,
+      "title": "Polskie panele fotowoltaiczne wypierają chińskie",
+      "char_count": 4152
+    },
+    {
+      "article_id": "prawo_pl_0084_rosiczki_z_in_vitro_trafia_na_torfowiska",
+      "url": "https://www.prawo.pl/biznes/rosiczki-z-in-vitro-trafia-na-torfowiska,166943.html",
+      "status": 200,
+      "title": "Rosiczki z in vitro trafią na torfowiska",
+      "char_count": 1671
+    },
+    {
+      "article_id": "prawo_pl_0085_przepust_nie_jest_urzadzeniem_wodnym",
+      "url": "https://www.prawo.pl/biznes/przepust-nie-jest-urzadzeniem-wodnym,166944.html",
+      "status": 200,
+      "title": "Przepust nie jest urządzeniem wodnym",
+      "char_count": 2291
+    },
+    {
+      "article_id": "prawo_pl_0086_decyzja_okreslajaca_opate_za_odpady_nie_jest_odpow",
+      "url": "https://www.prawo.pl/biznes/decyzja-okreslajaca-oplate-za-odpady-nie-jest-odpowiednikiem-deklaracji,166946.html",
+      "status": 200,
+      "title": "Decyzja określająca opłatę za odpady nie jest odpowiednikiem deklaracji",
+      "char_count": 1623
+    },
+    {
+      "article_id": "prawo_pl_0087_spoka_wodna_nie_moze_zadac_opat_za_uzgodnienie_pro",
+      "url": "https://www.prawo.pl/biznes/spolka-wodna-nie-moze-zadac-oplat-za-uzgodnienie-projektow-inwestycyjnych-w-zakresie-melioracji,166948.html",
+      "status": 200,
+      "title": "Spółka wodna nie może żądać opłat za uzgodnienie projektów inwestycyjnych w zakresie melioracji",
+      "char_count": 2810
+    },
+    {
+      "article_id": "prawo_pl_0088_otop_krytycznie_o_projekcie_nowelizacji_ustawy_o_o",
+      "url": "https://www.prawo.pl/biznes/otop-krytycznie-o-projekcie-nowelizacji-ustawy-o-ochronie-przyrody-i-kilku-innych-ustaw,166949.html",
+      "status": 200,
+      "title": "OTOP krytycznie o projekcie nowelizacji ustawy o ochronie przyrody i kilku innych ustaw",
+      "char_count": 1216
+    },
+    {
+      "article_id": "prawo_pl_0089_inwestorzy_zainteresowani_odnawialnymi_zrodami_ene",
+      "url": "https://www.prawo.pl/biznes/inwestorzy-zainteresowani-odnawialnymi-zrodlami-energii,166950.html",
+      "status": 200,
+      "title": "Inwestorzy zainteresowani odnawialnymi źródłami energii",
+      "char_count": 2120
+    },
+    {
+      "article_id": "prawo_pl_0090_opaty_za_wode_sfinansuja_inwestycje_w_zeglownosc",
+      "url": "https://www.prawo.pl/biznes/oplaty-za-wode-sfinansuja-inwestycje-w-zeglownosc,166951.html",
+      "status": 200,
+      "title": "Opłaty za wodę sfinansują inwestycje w żeglowność",
+      "char_count": 1291
+    },
+    {
+      "article_id": "prawo_pl_0091_bioasekuracja_ogranicza_rozprzestrzenianie_asf",
+      "url": "https://www.prawo.pl/biznes/bioasekuracja-ogranicza-rozprzestrzenianie-asf,166953.html",
+      "status": 200,
+      "title": "Bioasekuracja ogranicza rozprzestrzenianie ASF",
+      "char_count": 1282
+    },
+    {
+      "article_id": "prawo_pl_0092_ekspert_podatek_ekologiczny_ograniczyby_liczbe_sta",
+      "url": "https://www.prawo.pl/biznes/ekspert-podatek-ekologiczny-ograniczylby-liczbe-starych-aut-sprowadzanych-z-zagranicy,166954.html",
+      "status": 200,
+      "title": "Ekspert: podatek ekologiczny ograniczyłby liczbę starych aut sprowadzanych z zagranicy",
+      "char_count": 2334
+    },
+    {
+      "article_id": "prawo_pl_0093_nfosigw_przeznaczy_100_mln_z_na_inwestycje_w_gospo",
+      "url": "https://www.prawo.pl/biznes/nfosigw-przeznaczy-100-mln-zl-na-inwestycje-w-gospodarce-sciekowej,166955.html",
+      "status": 200,
+      "title": "NFOŚiGW przeznaczy 100 mln zł na inwestycje w gospodarce ściekowej",
+      "char_count": 1806
+    },
+    {
+      "article_id": "prawo_pl_0094_organ_nie_musi_zobowiazac_wnioskodawcy_do_dokonani",
+      "url": "https://www.prawo.pl/biznes/organ-nie-musi-zobowiazac-wnioskodawcy-do-dokonania-nasadzen-zastepczych,166958.html",
+      "status": 200,
+      "title": "Organ nie musi zobowiązać wnioskodawcy do dokonania nasadzeń zastępczych",
+      "char_count": 2833
+    },
+    {
+      "article_id": "prawo_pl_0095_gdos_plastikowe_butelki_smiertelna_puapka_dla_zwie",
+      "url": "https://www.prawo.pl/biznes/gdos-plastikowe-butelki-smiertelna-pulapka-dla-zwierzat,166960.html",
+      "status": 200,
+      "title": "GDOŚ: plastikowe butelki śmiertelną pułapką dla zwierząt",
+      "char_count": 978
+    },
+    {
+      "article_id": "prawo_pl_0096_co_robic_z_workami_po_wapnie",
+      "url": "https://www.prawo.pl/biznes/co-robic-z-workami-po-wapnie,166962.html",
+      "status": 200,
+      "title": "Co robić z workami po wapnie?",
+      "char_count": 3360
+    },
+    {
+      "article_id": "prawo_pl_0097_czy_firma_ktora_sprowadza_i_naprawia_pojazdy_podle",
+      "url": "https://www.prawo.pl/biznes/czy-firma-ktora-sprowadza-i-naprawia-pojazdy-podlega-pod-obowiazek-zapewnienia-sieci-zbierania-pojazdow,166963.html",
+      "status": 200,
+      "title": "Czy firma, która sprowadza i naprawia pojazdy, podlega pod obowiązek zapewnienia sieci zbierania pojazdów?",
+      "char_count": 2368
+    },
+    {
+      "article_id": "prawo_pl_0098_czy_organ_moze_wydac_zezwolenie_na_zbieranie_i_prz",
+      "url": "https://www.prawo.pl/biznes/czy-organ-moze-wydac-zezwolenie-na-zbieranie-i-przetwarzanie-odpadow-na-okres-dluzszy-niz-10-lat,166964.html",
+      "status": 200,
+      "title": "Czy organ może wydać zezwolenie na zbieranie i przetwarzanie odpadów na okres dłuższy niż 10 lat?",
+      "char_count": 2359
+    },
+    {
+      "article_id": "prawo_pl_0099_nowe_stawki_opat_za_usuniecie_drzew_i_krzewow",
+      "url": "https://www.prawo.pl/biznes/oplaty-za-usuniecie-drzew-i-krzewow,166965.html",
+      "status": 200,
+      "title": "Nowe stawki opłat za usunięcie drzew i krzewów",
+      "char_count": 3001
+    },
+    {
+      "article_id": "prawo_pl_0100_ekspert_wzrost_cen_energii_nieunikniony",
+      "url": "https://www.prawo.pl/biznes/ekspert-wzrost-cen-energii-nieunikniony,166966.html",
+      "status": 200,
+      "title": "Ekspert: wzrost cen energii nieunikniony",
+      "char_count": 3989
+    },
+    {
+      "article_id": "prawo_pl_0101_gosowanie_na_rzeke_roku_juz_we_wrzesniu",
+      "url": "https://www.prawo.pl/biznes/glosowanie-na-rzeke-roku-juz-we-wrzesniu,166968.html",
+      "status": 200,
+      "title": "Głosowanie na Rzekę Roku już we wrześniu",
+      "char_count": 1905
+    },
+    {
+      "article_id": "prawo_pl_0102_rzad_wyda_70_mld_z_na_przywrocenie_zeglownosci_pol",
+      "url": "https://www.prawo.pl/biznes/rzad-wyda-70-mld-zl-na-przywrocenie-zeglownosci-polskich-rzek,166973.html",
+      "status": 200,
+      "title": "Rząd wyda 70 mld zł na przywrócenie żeglowności polskich rzek",
+      "char_count": 2566
+    },
+    {
+      "article_id": "prawo_pl_0103_zaktualizowano_mape_drogowa_dla_aglomeracji_ubiega",
+      "url": "https://www.prawo.pl/biznes/zaktualizowano-mape-drogowa-dla-aglomeracji-ubiegajacych-sie-o-ujecie-w-v-aktualizacji-kposk,166974.html",
+      "status": 200,
+      "title": "Zaktualizowano mapę drogową dla aglomeracji ubiegających się o ujęcie w V aktualizacji KPOŚK",
+      "char_count": 585
+    },
+    {
+      "article_id": "prawo_pl_0104_na_gruncie_pod_liniami_energetycznymi_mozna_prowad",
+      "url": "https://www.prawo.pl/biznes/na-gruncie-pod-liniami-energetycznymi-mozna-prowadzic-gospodarke-lesna,166975.html",
+      "status": 200,
+      "title": "Na gruncie pod liniami energetycznymi można prowadzić gospodarkę leśną",
+      "char_count": 3194
+    },
+    {
+      "article_id": "prawo_pl_0105_inwestor_zapaci_za_ocene_oddziaywania_przedsiewzie",
+      "url": "https://www.prawo.pl/biznes/inwestor-zaplaci-za-ocene-oddzialywania-przedsiewziecia-na-srodowisko-ale-jej-nie-zleci,166979.html",
+      "status": 200,
+      "title": "Inwestor zapłaci za ocenę oddziaływania przedsięwzięcia na środowisko, ale jej nie zleci?",
+      "char_count": 1582
+    },
+    {
+      "article_id": "prawo_pl_0106_decyzje_zwiazane_z_gospodarowaniem_odpadami_sa_prz",
+      "url": "https://www.prawo.pl/biznes/decyzje-zwiazane-z-gospodarowaniem-odpadami-sa-przenaszalne,166980.html",
+      "status": 200,
+      "title": "Decyzje związane z gospodarowaniem odpadami są przenaszalne",
+      "char_count": 4014
+    },
+    {
+      "article_id": "prawo_pl_0107_ms_chcemy_ratowac_puszcze",
+      "url": "https://www.prawo.pl/biznes/ms-chcemy-ratowac-puszcze,166982.html",
+      "status": 200,
+      "title": "MŚ: chcemy ratować Puszczę",
+      "char_count": 1207
+    },
+    {
+      "article_id": "prawo_pl_0108_na_zdjecie_klauzuli_ochronnosci_musza_zgodzic_sie_",
+      "url": "https://www.prawo.pl/biznes/na-zdjecie-klauzuli-ochronnosci-musza-zgodzic-sie-wszyscy-wlasciciele-lasu,166984.html",
+      "status": 200,
+      "title": "Na zdjęcie klauzuli ochronności muszą zgodzić się wszyscy właściciele lasu",
+      "char_count": 2503
+    },
+    {
+      "article_id": "prawo_pl_0109_pod_jakim_kodem_odpadu_nalezy_zakwalifikowac_folie",
+      "url": "https://www.prawo.pl/biznes/pod-jakim-kodem-odpadu-nalezy-zakwalifikowac-folie-zawierajaca-dehp,166985.html",
+      "status": 200,
+      "title": "Pod jakim kodem odpadu należy zakwalifikować folię zawierającą DEHP?",
+      "char_count": 1528
+    },
+    {
+      "article_id": "prawo_pl_0110_jakie_przesanki_decyduja_o_uznaniu_substancji_ciek",
+      "url": "https://www.prawo.pl/biznes/jakie-przeslanki-decyduja-o-uznaniu-substancji-cieklej-za-odpad-a-jakie-za-sciek,166986.html",
+      "status": 200,
+      "title": "Jakie przesłanki decydują o uznaniu substancji ciekłej za odpad, a jakie za ściek?",
+      "char_count": 3085
+    },
+    {
+      "article_id": "prawo_pl_0111_jakie_sankcje_organ_moze_naozyc_na_podmiot_odbiera",
+      "url": "https://www.prawo.pl/biznes/jakie-sankcje-organ-moze-nalozyc-na-podmiot-odbierajacy-odpady-komunalne-ktory-nieregularnie-oproznia-smieciarke,166987.html",
+      "status": 200,
+      "title": "Jakie sankcje organ może nałożyć na podmiot odbierający odpady komunalne, który nieregularnie opróżnia śmieciarkę?",
+      "char_count": 2852
+    },
+    {
+      "article_id": "prawo_pl_0112_lasy_panstwowe_beda_tworzyy_plan_zadan_ochronnych_",
+      "url": "https://www.prawo.pl/biznes/lasy-panstwowe-beda-tworzyly-plan-zadan-ochronnych-w-ramach-planu-urzadzenia-lasu,166988.html",
+      "status": 200,
+      "title": "Lasy Państwowe będą tworzyły plan zadań ochronnych w ramach planu urządzenia lasu",
+      "char_count": 1145
+    },
+    {
+      "article_id": "prawo_pl_0113_papiez_wzywa_do_zadoscuczynienia_i_skruchy_za_zo_w",
+      "url": "https://www.prawo.pl/biznes/papiez-wzywa-do-zadoscuczynienia-i-skruchy-za-zlo-wyrzadzone-ziemi,166989.html",
+      "status": 200,
+      "title": "Papież wzywa do zadośćuczynienia i skruchy za zło wyrządzone Ziemi",
+      "char_count": 4938
+    },
+    {
+      "article_id": "prawo_pl_0114_enea_inwestuje_w_czyste_technologie_weglowe",
+      "url": "https://www.prawo.pl/biznes/enea-inwestuje-w-czyste-technologie-weglowe,166992.html",
+      "status": 200,
+      "title": "Enea inwestuje w czyste technologie węglowe",
+      "char_count": 2483
+    },
+    {
+      "article_id": "prawo_pl_0115_zatwierdzenie_uproszczonego_planu_urzadzenia_lasu_",
+      "url": "https://www.prawo.pl/biznes/zatwierdzenie-uproszczonego-planu-urzadzenia-lasu-nie-ma-formy-decyzji,166993.html",
+      "status": 200,
+      "title": "Zatwierdzenie uproszczonego planu urządzenia lasu nie ma formy decyzji",
+      "char_count": 6144
+    },
+    {
+      "article_id": "prawo_pl_0116_151_mln_z_na_ochrone_powierzchni_ziemi_od_nfosigw",
+      "url": "https://www.prawo.pl/biznes/151-mln-zl-na-ochrone-powierzchni-ziemi-od-nfosigw,166996.html",
+      "status": 200,
+      "title": "151 mln zł na ochronę powierzchni ziemi od NFOŚiGW",
+      "char_count": 2654
+    },
+    {
+      "article_id": "prawo_pl_0117_resort_srodowiska_zaleca_odstrza_dzikow",
+      "url": "https://www.prawo.pl/biznes/resort-srodowiska-zaleca-odstrzal-dzikow,166998.html",
+      "status": 200,
+      "title": "Resort środowiska zaleca odstrzał dzików",
+      "char_count": 1650
+    },
+    {
+      "article_id": "prawo_pl_0118_piskleta_moga_padac_ofiara_slimakow",
+      "url": "https://www.prawo.pl/biznes/piskleta-moga-padac-ofiara-slimakow,166999.html",
+      "status": 200,
+      "title": "Pisklęta mogą padać ofiarą ślimaków",
+      "char_count": 3803
+    },
+    {
+      "article_id": "prawo_pl_0119_decyzje_o_odstrzale_zwierzat_wydaje_starosta",
+      "url": "https://www.prawo.pl/biznes/decyzje-o-odstrzale-zwierzat-wydaje-starosta,167002.html",
+      "status": 200,
+      "title": "Decyzje o odstrzale zwierząt wydaje starosta",
+      "char_count": 4212
+    },
+    {
+      "article_id": "prawo_pl_0120_fiat_oskarzony_o_faszowanie_emisji_spalin",
+      "url": "https://www.prawo.pl/biznes/fiat-oskarzony-o-falszowanie-emisji-spalin,167003.html",
+      "status": 200,
+      "title": "Fiat oskarżony o fałszowanie emisji spalin",
+      "char_count": 659
+    },
+    {
+      "article_id": "prawo_pl_0121_goryl_wschodni_o_krok_od_wymarcia",
+      "url": "https://www.prawo.pl/biznes/goryl-wschodni-o-krok-od-wymarcia,167005.html",
+      "status": 200,
+      "title": "Goryl wschodni o krok od wymarcia",
+      "char_count": 2603
+    },
+    {
+      "article_id": "prawo_pl_0122_porozumienie_paryskie_resort_srodowiska_rozpocznie",
+      "url": "https://www.prawo.pl/biznes/porozumienie-paryskie-resort-srodowiska-rozpocznie-procedure-ratyfikacji,167006.html",
+      "status": 200,
+      "title": "Porozumienie paryskie: resort środowiska rozpocznie procedurę ratyfikacji",
+      "char_count": 2854
+    },
+    {
+      "article_id": "prawo_pl_0123_gdos_uruchomi_rejestr_bezposrednich_zagrozen_szkod",
+      "url": "https://www.prawo.pl/biznes/gdos-uruchomil-rejestr-bezposrednich-zagrozen-szkoda-w-srodowisku-i-szkod-w-srodowisku,167007.html",
+      "status": 200,
+      "title": "GDOŚ uruchomił rejestr bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku",
+      "char_count": 2090
+    },
+    {
+      "article_id": "prawo_pl_0124_faktura_nie_jest_dowodem_legalnosci_nabycia_zwierz",
+      "url": "https://www.prawo.pl/biznes/faktura-nie-jest-dowodem-legalnosci-nabycia-zwierzecia,167008.html",
+      "status": 200,
+      "title": "Faktura nie jest dowodem legalności nabycia zwierzęcia",
+      "char_count": 2862
+    },
+    {
+      "article_id": "prawo_pl_0125_czy_kazda_zorganizowana_emisja_musi_byc_objeta_pom",
+      "url": "https://www.prawo.pl/biznes/czy-kazda-zorganizowana-emisja-musi-byc-objeta-pomiarami-i-monitoringiem,167014.html",
+      "status": 200,
+      "title": "Czy każda zorganizowana emisja musi być objęta pomiarami i monitoringiem?",
+      "char_count": 3520
+    },
+    {
+      "article_id": "prawo_pl_0126_trwa_iii_runda_mapowania_akustycznego_kraju",
+      "url": "https://www.prawo.pl/biznes/trwa-iii-runda-mapowania-akustycznego-kraju,167015.html",
+      "status": 200,
+      "title": "Trwa III runda mapowania akustycznego kraju",
+      "char_count": 2597
+    },
+    {
+      "article_id": "prawo_pl_0127_nfosigw_ogosi_nabor_na_projekty_wodno_sciekowe",
+      "url": "https://www.prawo.pl/biznes/nfosigw-oglosil-nabor-na-projekty-wodno-sciekowe,167016.html",
+      "status": 200,
+      "title": "NFOŚiGW ogłosił nabór na projekty wodno-ściekowe",
+      "char_count": 2509
+    },
+    {
+      "article_id": "prawo_pl_0128_wycinanie_trzciny_wymaga_uzyskania_pozwolenia_wodn",
+      "url": "https://www.prawo.pl/biznes/wycinanie-trzciny-wymaga-uzyskania-pozwolenia-wodnoprawnego,167019.html",
+      "status": 200,
+      "title": "Wycinanie trzciny wymaga uzyskania pozwolenia wodnoprawnego",
+      "char_count": 773
+    },
+    {
+      "article_id": "prawo_pl_0129_puszcza_biaowieska_jest_niszczona",
+      "url": "https://www.prawo.pl/biznes/puszcza-bialowieska-jest-niszczona,167020.html",
+      "status": 200,
+      "title": "Puszcza Białowieska jest niszczona?",
+      "char_count": 3616
+    },
+    {
+      "article_id": "prawo_pl_0130_ms_polityka_klimatyczna_ue_powinna_odzwierciedlac_",
+      "url": "https://www.prawo.pl/biznes/ms-polityka-klimatyczna-ue-powinna-odzwierciedlac-paryskie-ustalenia,167022.html",
+      "status": 200,
+      "title": "MŚ: polityka klimatyczna UE powinna odzwierciedlać paryskie ustalenia",
+      "char_count": 3426
+    },
+    {
+      "article_id": "prawo_pl_0131_bedzie_odstrza_dzikow_na_terenie_caego_kraju",
+      "url": "https://www.prawo.pl/biznes/bedzie-odstrzal-dzikow-na-terenie-calego-kraju,167024.html",
+      "status": 200,
+      "title": "Będzie odstrzał dzików na terenie całego kraju",
+      "char_count": 1866
+    },
+    {
+      "article_id": "prawo_pl_0132_kosz_ssawny_jest_urzadzeniem_wodnym",
+      "url": "https://www.prawo.pl/biznes/kosz-ssawny-jest-urzadzeniem-wodnym,167025.html",
+      "status": 200,
+      "title": "Kosz ssawny jest urządzeniem wodnym",
+      "char_count": 2786
+    },
+    {
+      "article_id": "prawo_pl_0133_maopolska_jakosc_powietrza_w_mniejszych_miastach_g",
+      "url": "https://www.prawo.pl/biznes/malopolska-jakosc-powietrza-w-mniejszych-miastach-gorsza-niz-w-krakowie,167027.html",
+      "status": 200,
+      "title": "Małopolska: jakość powietrza w mniejszych miastach gorsza niż w Krakowie",
+      "char_count": 3036
+    },
+    {
+      "article_id": "prawo_pl_0134_usuwanie_drzew_z_lasu_tylko_na_podstawie_upul_albo",
+      "url": "https://www.prawo.pl/biznes/usuwanie-drzew-z-lasu-tylko-na-podstawie-upul-albo-decyzji,167030.html",
+      "status": 200,
+      "title": "Usuwanie drzew z lasu tylko na podstawie UPUL albo decyzji",
+      "char_count": 3533
+    },
+    {
+      "article_id": "prawo_pl_0135_bestsellery_sierpnia_2016_w_ksiegarni_profinfo_pl",
+      "url": "https://www.prawo.pl/biznes/bestsellery-sierpnia-2016-w-ksiegarni-profinfopl,167031.html",
+      "status": 200,
+      "title": "Bestsellery sierpnia 2016 w księgarni profinfo.pl",
+      "char_count": 2436
+    },
+    {
+      "article_id": "prawo_pl_0136_zanieczyszczenie_powietrza_przyczyna_alzheimera",
+      "url": "https://www.prawo.pl/biznes/zanieczyszczenie-powietrza-przyczyna-alzheimera,167032.html",
+      "status": 200,
+      "title": "Zanieczyszczenie powietrza przyczyną Alzheimera?",
+      "char_count": 2296
+    },
+    {
+      "article_id": "prawo_pl_0137_coraz_blizej_powoania_rezerwatu_biosfery_jeziora_m",
+      "url": "https://www.prawo.pl/biznes/coraz-blizej-powolania-rezerwatu-biosfery-jeziora-mazurskie,167033.html",
+      "status": 200,
+      "title": "Coraz bliżej powołania Rezerwatu Biosfery Jeziora Mazurskie",
+      "char_count": 2384
+    },
+    {
+      "article_id": "prawo_pl_0138_jakie_zezwolenie_musi_posiadac_podmiot_przewozacy_",
+      "url": "https://www.prawo.pl/biznes/jakie-zezwolenie-musi-posiadac-podmiot-przewozacy-scieki-przemyslowe,167037.html",
+      "status": 200,
+      "title": "Jakie zezwolenie musi posiadać podmiot przewożący ścieki przemysłowe?",
+      "char_count": 4867
+    },
+    {
+      "article_id": "prawo_pl_0139_wraca_problem_odorow_zwiazanych_z_jesiennymi_praca",
+      "url": "https://www.prawo.pl/biznes/wraca-problem-odorow-zwiazanych-z-jesiennymi-pracami-w-rolnictwie,167038.html",
+      "status": 200,
+      "title": "Wraca problem odorów związanych z jesiennymi pracami w rolnictwie",
+      "char_count": 4830
+    },
+    {
+      "article_id": "prawo_pl_0140_minister_srodowiska_apeluje_do_europosow_o_poparci",
+      "url": "https://www.prawo.pl/biznes/minister-srodowiska-apeluje-do-europoslow-o-poparcie-dzialan-w-puszczy-bialowieskiej,167044.html",
+      "status": 200,
+      "title": "Minister środowiska apeluje do europosłów o poparcie działań w Puszczy Białowieskiej",
+      "char_count": 1940
+    },
+    {
+      "article_id": "prawo_pl_0141_system_zbiorki_zuzytego_sprzetu_elektrycznego_i_el",
+      "url": "https://www.prawo.pl/biznes/system-zbiorki-zuzytego-sprzetu-elektrycznego-i-elektronicznego-kuleje,167045.html",
+      "status": 200,
+      "title": "System zbiórki zużytego sprzętu elektrycznego i elektronicznego kuleje",
+      "char_count": 4606
+    },
+    {
+      "article_id": "prawo_pl_0142_nowelizacja_wyduzy_termin_do_wystapienia_o_odszkod",
+      "url": "https://www.prawo.pl/biznes/nowelizacja-wydluzy-termin-do-wystapienia-o-odszkodowanie-z-tytulu-ograniczenia-korzystania-z-nieruchomosci-w-zwiazku-z-ochrona-srodowiska,167046.html",
+      "status": 200,
+      "title": "Nowelizacja wydłuży termin do wystąpienia o odszkodowanie z tytułu ograniczenia korzystania z nieruchomości w związku z ",
+      "char_count": 3086
+    },
+    {
+      "article_id": "prawo_pl_0143_resort_srodowiska_zaprasza_ekologow_do_wspopracy_p",
+      "url": "https://www.prawo.pl/biznes/resort-srodowiska-zaprasza-ekologow-do-wspolpracy-przy-odtworzeniu-populacji-zubra,167051.html",
+      "status": 200,
+      "title": "Resort środowiska zaprasza ekologów do współpracy przy odtworzeniu populacji żubra",
+      "char_count": 2625
+    },
+    {
+      "article_id": "prawo_pl_0144_liderzy_ochrony_srodowiska_o_zasobach_naturalnych_",
+      "url": "https://www.prawo.pl/biznes/liderzy-ochrony-srodowiska-o-zasobach-naturalnych-w-przemysle,167052.html",
+      "status": 200,
+      "title": "Liderzy ochrony środowiska o zasobach naturalnych w przemyśle",
+      "char_count": 1421
+    },
+    {
+      "article_id": "prawo_pl_0145_gmina_moze_pobierac_opaty_za_wydawane_zezwolenia_n",
+      "url": "https://www.prawo.pl/biznes/gmina-moze-pobierac-oplaty-za-wydawane-zezwolenia-na-amatorski-polow-ryb,167055.html",
+      "status": 200,
+      "title": "Gmina może pobierać opłaty za wydawane zezwolenia na amatorski połów ryb",
+      "char_count": 2850
+    },
+    {
+      "article_id": "prawo_pl_0146_czym_roznia_sie_scieki_opadowe_od_sciekow_przemyso",
+      "url": "https://www.prawo.pl/biznes/czym-roznia-sie-scieki-opadowe-od-sciekow-przemyslowych,167059.html",
+      "status": 200,
+      "title": "Czym różnią się ścieki opadowe od ścieków przemysłowych?",
+      "char_count": 1757
+    },
+    {
+      "article_id": "prawo_pl_0147_polskie_firmy_zaczynaja_inwestowac_w_morskie_farmy",
+      "url": "https://www.prawo.pl/biznes/polskie-firmy-zaczynaja-inwestowac-w-morskie-farmy-wiatrowe,167062.html",
+      "status": 200,
+      "title": "Polskie firmy zaczynają inwestować w morskie farmy wiatrowe",
+      "char_count": 1931
+    },
+    {
+      "article_id": "prawo_pl_0148_mandat_za_uzywanie_plastikowych_sztuccow_i_naczyn",
+      "url": "https://www.prawo.pl/biznes/mandat-za-uzywanie-plastikowych-sztuccow-i-naczyn,167063.html",
+      "status": 200,
+      "title": "Mandat za używanie plastikowych sztućców i naczyń",
+      "char_count": 709
+    },
+    {
+      "article_id": "prawo_pl_0149_odpowiedzialny_rozwoj_wyznaczono_priorytety_dla_po",
+      "url": "https://www.prawo.pl/biznes/odpowiedzialny-rozwoj-wyznaczono-priorytety-dla-pomorza-zachodniego,167069.html",
+      "status": 200,
+      "title": "Odpowiedzialny Rozwój: wyznaczono priorytety dla Pomorza Zachodniego",
+      "char_count": 4889
+    },
+    {
+      "article_id": "prawo_pl_0150_nowa_ustawa_ma_zapewnic_bardziej_racjonalna_gospod",
+      "url": "https://www.prawo.pl/biznes/nowa-ustawa-ma-zapewnic-bardziej-racjonalna-gospodarke-lowiecka,167071.html",
+      "status": 200,
+      "title": "Nowa ustawa ma zapewnić bardziej racjonalną gospodarkę łowiecką",
+      "char_count": 5807
+    },
+    {
+      "article_id": "prawo_pl_0151_mpzp_przesadza_o_przeznaczeniu_gruntow_do_zalesien",
+      "url": "https://www.prawo.pl/biznes/mpzp-przesadza-o-przeznaczeniu-gruntow-do-zalesienia,167073.html",
+      "status": 200,
+      "title": "MPZP przesądza o przeznaczeniu gruntów do zalesienia",
+      "char_count": 5832
+    },
+    {
+      "article_id": "prawo_pl_0152_nfosigw_wyrozniony_nagroda_razem_dla_srodowiska",
+      "url": "https://www.prawo.pl/biznes/nfosigw-wyrozniony-nagroda-razem-dla-srodowiska,167075.html",
+      "status": 200,
+      "title": "NFOŚiGW wyróżniony nagrodą „Razem dla środowiska”",
+      "char_count": 2918
+    },
+    {
+      "article_id": "prawo_pl_0153_stolica_zakonczyy_sie_konsultacje_ws_programu_ochr",
+      "url": "https://www.prawo.pl/biznes/stolica-zakonczyly-sie-konsultacje-ws-programu-ochrony-srodowiska,167076.html",
+      "status": 200,
+      "title": "Stolica: zakończyły się konsultacje ws. Programu Ochrony Środowiska",
+      "char_count": 4122
+    },
+    {
+      "article_id": "prawo_pl_0154_nfosigw_udostepni_materiay_informacyjno_edukacyjne",
+      "url": "https://www.prawo.pl/biznes/nfosigw-udostepnil-materialy-informacyjno-edukacyjne-o-life,167081.html",
+      "status": 200,
+      "title": "NFOŚiGW udostępnił materiały informacyjno-edukacyjne o LIFE",
+      "char_count": 1831
+    },
+    {
+      "article_id": "prawo_pl_0155_azoty_chorzow_zainwestuja_do_10_mln_z_w_udoskonale",
+      "url": "https://www.prawo.pl/biznes/azoty-chorzow-zainwestuja-do-10-mln-zl-w-udoskonalenie-instalacji-stearyny,167083.html",
+      "status": 200,
+      "title": "Azoty Chorzów zainwestują do 10 mln zł w udoskonalenie instalacji stearyny",
+      "char_count": 3821
+    },
+    {
+      "article_id": "prawo_pl_0156_juz_60_panstw_ratyfikowao_porozumienie_paryskie",
+      "url": "https://www.prawo.pl/biznes/juz-60-panstw-ratyfikowalo-porozumienie-paryskie,167084.html",
+      "status": 200,
+      "title": "Już 60 państw ratyfikowało porozumienie paryskie",
+      "char_count": 2399
+    },
+    {
+      "article_id": "prawo_pl_0157_podjecie_zabiegow_pielegnacyjnych_pomnikow_przyrod",
+      "url": "https://www.prawo.pl/biznes/podjecie-zabiegow-pielegnacyjnych-pomnikow-przyrody-wymaga-uchwaly-rady-gminy,167089.html",
+      "status": 200,
+      "title": "Podjęcie zabiegów pielęgnacyjnych pomników przyrody wymaga uchwały rady gminy",
+      "char_count": 2184
+    },
+    {
+      "article_id": "prawo_pl_0158_rpo_skarzy_do_wsa_decyzje_dot_zwiekszenia_wycinki_",
+      "url": "https://www.prawo.pl/biznes/rpo-skarzy-do-wsa-decyzje-dot-zwiekszenia-wycinki-w-puszczy-bialowieskiej,167098.html",
+      "status": 200,
+      "title": "RPO skarży do WSA decyzję dot. zwiększenia wycinki w Puszczy Białowieskiej",
+      "char_count": 5729
+    },
+    {
+      "article_id": "prawo_pl_0159_ms_rozwoj_asf_spowodowany_indolencja_poprzednich_w",
+      "url": "https://www.prawo.pl/biznes/ms-rozwoj-asf-spowodowany-indolencja-poprzednich-wladz,167099.html",
+      "status": 200,
+      "title": "MŚ: rozwój ASF spowodowany indolencją poprzednich władz",
+      "char_count": 2022
+    },
+    {
+      "article_id": "prawo_pl_0160_min_szyszko_podpisa_wniosek_o_ratyfikacje_porozumi",
+      "url": "https://www.prawo.pl/biznes/min-szyszko-podpisal-wniosek-o-ratyfikacje-porozumienia-paryskiego,167100.html",
+      "status": 200,
+      "title": "Min. Szyszko podpisał wniosek o ratyfikację porozumienia paryskiego",
+      "char_count": 1726
+    },
+    {
+      "article_id": "prawo_pl_0161_liczba_instalacji_fotowoltaicznych_bedzie_rosnac",
+      "url": "https://www.prawo.pl/biznes/liczba-instalacji-fotowoltaicznych-bedzie-rosnac,167101.html",
+      "status": 200,
+      "title": "Liczba instalacji fotowoltaicznych będzie rosnąć",
+      "char_count": 1814
+    },
+    {
+      "article_id": "prawo_pl_0162_przymiot_strony_zalezy_od_tego_kto_jest_wasciciele",
+      "url": "https://www.prawo.pl/biznes/przymiot-strony-zalezy-od-tego-kto-jest-wlascicielem-nieruchomosci,167102.html",
+      "status": 200,
+      "title": "Przymiot strony zależy od tego kto jest właścicielem nieruchomości",
+      "char_count": 1877
+    },
+    {
+      "article_id": "prawo_pl_0163_organ_nie_zawsze_zobowiazuje_do_dokonania_nasadzen",
+      "url": "https://www.prawo.pl/biznes/organ-nie-zawsze-zobowiazuje-do-dokonania-nasadzen-zastepczych,167103.html",
+      "status": 200,
+      "title": "Organ nie zawsze zobowiązuje do dokonania nasadzeń zastępczych",
+      "char_count": 2832
+    },
+    {
+      "article_id": "prawo_pl_0164_siedliska_zlokalizowane_na_obszarach_natura_2000_p",
+      "url": "https://www.prawo.pl/biznes/siedliska-zlokalizowane-na-obszarach-natura-2000-podlegaja-ochronie,167108.html",
+      "status": 200,
+      "title": "Siedliska zlokalizowane na obszarach Natura 2000 podlegają ochronie",
+      "char_count": 2798
+    },
+    {
+      "article_id": "prawo_pl_0165_nsa_interes_prawny_ma_tylko_prowadzacy_regionalna_",
+      "url": "https://www.prawo.pl/biznes/nsa-interes-prawny-ma-tylko-prowadzacy-regionalna-instalacje-przetwarzania-odpadow,167109.html",
+      "status": 200,
+      "title": "NSA: interes prawny ma tylko prowadzący regionalną instalację przetwarzania odpadów",
+      "char_count": 1752
+    },
+    {
+      "article_id": "prawo_pl_0166_tylko_8_procent_ludzi_ma_dostep_do_czystego_powiet",
+      "url": "https://www.prawo.pl/biznes/tylko-8-procent-ludzi-ma-dostep-do-czystego-powietrza,167117.html",
+      "status": 200,
+      "title": "Tylko 8 procent ludzi ma dostęp do czystego powietrza",
+      "char_count": 1523
+    },
+    {
+      "article_id": "prawo_pl_0167_na_cene_sprzedawanej_wody_skada_sie_m_in_opata_sro",
+      "url": "https://www.prawo.pl/biznes/na-cene-sprzedawanej-wody-sklada-sie-min-oplata-srodowiskowa,167118.html",
+      "status": 200,
+      "title": "Na cenę sprzedawanej wody składa się m.in. opłata środowiskowa",
+      "char_count": 1570
+    },
+    {
+      "article_id": "prawo_pl_0168_nfosigw_organizuje_szkolenie_nt_programu_life",
+      "url": "https://www.prawo.pl/biznes/nfosigw-organizuje-szkolenie-nt-programu-life,167122.html",
+      "status": 200,
+      "title": "NFOŚiGW organizuje szkolenie nt. programu LIFE",
+      "char_count": 1231
+    },
+    {
+      "article_id": "prawo_pl_0169_kana_zeranski_3999_drzew_do_wycinki",
+      "url": "https://www.prawo.pl/biznes/kanal-zeranski-3999-drzew-do-wycinki,167123.html",
+      "status": 200,
+      "title": "Kanał Żerański: 3999 drzew do wycinki",
+      "char_count": 747
+    },
+    {
+      "article_id": "prawo_pl_0170_podniesienie_celu_efektywnosci_energetycznej_do_30",
+      "url": "https://www.prawo.pl/biznes/podniesienie-celu-efektywnosci-energetycznej-do-30-proc-do-2030-r-niemal-pewne,167124.html",
+      "status": 200,
+      "title": "Podniesienie celu efektywności energetycznej do 30 proc. do 2030 r. niemal pewne",
+      "char_count": 2451
+    },
+    {
+      "article_id": "prawo_pl_0171_zozono_pierwszy_w_polsce_pozew_zbiorowy_przeciwko_",
+      "url": "https://www.prawo.pl/biznes/zlozono-pierwszy-w-polsce-pozew-zbiorowy-przeciwko-vw,167125.html",
+      "status": 200,
+      "title": "Złożono pierwszy w Polsce pozew zbiorowy przeciwko VW",
+      "char_count": 2589
+    },
+    {
+      "article_id": "prawo_pl_0172_urzednicy_udostepnia_informacje_o_srodowisku_objet",
+      "url": "https://www.prawo.pl/biznes/urzednicy-udostepnia-informacje-o-srodowisku-objete-tajemnica-przedsiebiorstwa,167127.html",
+      "status": 200,
+      "title": "Urzędnicy udostępnią informacje o środowisku objęte tajemnicą przedsiębiorstwa",
+      "char_count": 6360
+    },
+    {
+      "article_id": "prawo_pl_0173_104_mln_z_na_poprawe_jakosci_srodowiska_miejskiego",
+      "url": "https://www.prawo.pl/biznes/104-mln-zl-na-poprawe-jakosci-srodowiska-miejskiego,167128.html",
+      "status": 200,
+      "title": "104 mln zł na poprawę jakości środowiska miejskiego",
+      "char_count": 950
+    },
+    {
+      "article_id": "prawo_pl_0174_sprawa_inwentaryzacji_dzikow_zajma_sie_trzy_minist",
+      "url": "https://www.prawo.pl/biznes/sprawa-inwentaryzacji-dzikow-zajma-sie-trzy-ministerstwa,167129.html",
+      "status": 200,
+      "title": "Sprawą inwentaryzacji dzików zajmą się trzy ministerstwa",
+      "char_count": 1183
+    },
+    {
+      "article_id": "prawo_pl_0175_nowelizacja_zapewni_racjonalne_prowadzenie_gospoda",
+      "url": "https://www.prawo.pl/biznes/nowelizacja-zapewni-racjonalne-prowadzenie-gospodarki-lowieckiej,167130.html",
+      "status": 200,
+      "title": "Nowelizacja zapewni racjonalne prowadzenie gospodarki łowieckiej",
+      "char_count": 1437
+    },
+    {
+      "article_id": "prawo_pl_0176_pozwolenie_wodnoprawne_nie_moze_byc_przeduzone",
+      "url": "https://www.prawo.pl/biznes/pozwolenie-wodnoprawne-nie-moze-byc-przedluzone,167132.html",
+      "status": 200,
+      "title": "Pozwolenie wodnoprawne nie może być przedłużone",
+      "char_count": 2288
+    },
+    {
+      "article_id": "prawo_pl_0177_ms_o_ratyfikacji_porozumienia_polskie_interesy_zos",
+      "url": "https://www.prawo.pl/biznes/ms-o-ratyfikacji-porozumienia-polskie-interesy-zostaly-zabezpieczone,167134.html",
+      "status": 200,
+      "title": "MŚ o ratyfikacji porozumienia: polskie interesy zostały zabezpieczone",
+      "char_count": 1580
+    },
+    {
+      "article_id": "prawo_pl_0178_spoka_ustalajaca_projekt_taryf_moze_zaskarzyc_odmo",
+      "url": "https://www.prawo.pl/biznes/spolka-ustalajaca-projekt-taryf-moze-zaskarzyc-odmowe-ich-zatwierdzenia,167140.html",
+      "status": 200,
+      "title": "Spółka ustalająca projekt taryf może zaskarżyć odmowę ich zatwierdzenia",
+      "char_count": 1804
+    },
+    {
+      "article_id": "prawo_pl_0179_czy_pozwolenie_zintegrowane_zastepuje_pozwolenia_s",
+      "url": "https://www.prawo.pl/biznes/czy-pozwolenie-zintegrowane-zastepuje-pozwolenia-sektorowe-na-korzystanie-ze-srodowiska,167141.html",
+      "status": 200,
+      "title": "Czy pozwolenie zintegrowane zastępuje pozwolenia sektorowe na korzystanie ze środowiska?",
+      "char_count": 1140
+    },
+    {
+      "article_id": "prawo_pl_0180_czy_organizacja_odzysku_zobowiazana_jest_przeprowa",
+      "url": "https://www.prawo.pl/biznes/czy-organizacja-odzysku-zobowiazana-jest-przeprowadzic-audyt-zewnetrzny-w-2017-r,167142.html",
+      "status": 200,
+      "title": "Czy organizacja odzysku zobowiązana jest przeprowadzić audyt zewnętrzny w 2017 r.?",
+      "char_count": 1887
+    },
+    {
+      "article_id": "prawo_pl_0181_ms_szykuje_kolejna_reforme_smieciowa",
+      "url": "https://www.prawo.pl/biznes/ms-szykuje-kolejna-reforme-smieciowa,167143.html",
+      "status": 200,
+      "title": "MŚ szykuje kolejną reformę śmieciową",
+      "char_count": 2326
+    },
+    {
+      "article_id": "prawo_pl_0182_dla_zwolnienia_od_akcyzy_niezbedny_bedzie_system_z",
+      "url": "https://www.prawo.pl/biznes/dla-zwolnienia-od-akcyzy-niezbedny-bedzie-system-zwiazany-z-ochrona-srodowiska,167146.html",
+      "status": 200,
+      "title": "Dla zwolnienia od akcyzy niezbędny będzie system związany z ochroną środowiska",
+      "char_count": 2269
+    },
+    {
+      "article_id": "prawo_pl_0183_plan_miejscowy_nie_uchyla_przepisow_dotyczacych_zm",
+      "url": "https://www.prawo.pl/biznes/plan-miejscowy-nie-uchyla-przepisow-dotyczacych-zmian-stosunkow-wodnych,167151.html",
+      "status": 200,
+      "title": "Plan miejscowy nie uchyla przepisów dotyczących zmian stosunków wodnych",
+      "char_count": 1422
+    },
+    {
+      "article_id": "prawo_pl_0184_nowela_prawa_wodnego_uderza_w_wojewodzkie_fundusze",
+      "url": "https://www.prawo.pl/biznes/nowela-prawa-wodnego-uderza-w-wojewodzkie-fundusze-ochrony-srodowiska,167152.html",
+      "status": 200,
+      "title": "Nowela prawa wodnego uderza w Wojewódzkie Fundusze Ochrony Środowiska",
+      "char_count": 5523
+    },
+    {
+      "article_id": "prawo_pl_0185_nfosigw_przygotowuje_dotacje_na_gospodarke_odpadam",
+      "url": "https://www.prawo.pl/biznes/nfosigw-przygotowuje-dotacje-na-gospodarke-odpadami-komunalnymi,167158.html",
+      "status": 200,
+      "title": "NFOŚiGW przygotowuje dotacje na gospodarkę odpadami komunalnymi",
+      "char_count": 1203
+    },
+    {
+      "article_id": "prawo_pl_0186_czy_pozwolenie_zintegrowane_zastepuje_pozwolenia_s",
+      "url": "https://www.prawo.pl/biznes/czy-pozwolenie-zintegrowane-zastepuje-pozwolenia-sektorowe-na-korzystanie-ze-srodowiska,167160.html",
+      "status": 200,
+      "title": "Czy pozwolenie zintegrowane zastępuje pozwolenia sektorowe na korzystanie ze środowiska?",
+      "char_count": 1100
+    },
+    {
+      "article_id": "prawo_pl_0187_nowe_prawo_wodne_wpynie_pozytywnie_na_bezpieczenst",
+      "url": "https://www.prawo.pl/biznes/nowe-prawo-wodne-wplynie-pozytywnie-na-bezpieczenstwo-przeciwpowodziowe,167162.html",
+      "status": 200,
+      "title": "Nowe prawo wodne wpłynie pozytywnie na bezpieczeństwo przeciwpowodziowe",
+      "char_count": 3681
+    },
+    {
+      "article_id": "prawo_pl_0188_prezydent_podpisa_ustawe_dot_porozumienia_klimatyc",
+      "url": "https://www.prawo.pl/biznes/prezydent-podpisal-ustawe-dot-porozumienia-klimatycznego,167167.html",
+      "status": 200,
+      "title": "Prezydent podpisał ustawę dot. porozumienia klimatycznego",
+      "char_count": 3960
+    },
+    {
+      "article_id": "prawo_pl_0189_pszok_nie_przyjmuje_chemikaliow_nietypowych_dla_pr",
+      "url": "https://www.prawo.pl/biznes/pszok-nie-przyjmuje-chemikaliow-nietypowych-dla-prac-domowych,167171.html",
+      "status": 200,
+      "title": "PSZOK nie przyjmuje chemikaliów nietypowych dla prac domowych",
+      "char_count": 1173
+    },
+    {
+      "article_id": "prawo_pl_0190_guszce_z_rosji_zasila_populacje_tych_ptakow_w_pusz",
+      "url": "https://www.prawo.pl/biznes/gluszce-z-rosji-zasila-populacje-tych-ptakow-w-puszczy-augustowskiej,167173.html",
+      "status": 200,
+      "title": "Głuszce z Rosji zasilą populację tych ptaków w Puszczy Augustowskiej",
+      "char_count": 2277
+    },
+    {
+      "article_id": "prawo_pl_0191_sektor_lotniczy_porozumia_sie_ws_emisji_gazow_ciep",
+      "url": "https://www.prawo.pl/biznes/sektor-lotniczy-porozumial-sie-ws-emisji-gazow-cieplarnianych,167176.html",
+      "status": 200,
+      "title": "Sektor lotniczy porozumiał się ws. emisji gazów cieplarnianych",
+      "char_count": 3183
+    },
+    {
+      "article_id": "prawo_pl_0192_lewiatan_strategia_na_rzecz_odpowiedzialnego_rozwo",
+      "url": "https://www.prawo.pl/biznes/lewiatan-strategia-na-rzecz-odpowiedzialnego-rozwoju-nie-docenia-oze,167177.html",
+      "status": 200,
+      "title": "Lewiatan: Strategia na rzecz Odpowiedzialnego Rozwoju nie docenia OZE",
+      "char_count": 2033
+    },
+    {
+      "article_id": "prawo_pl_0193_wzrost_produkcji_samochodow_wymusza_inwestycje_w_e",
+      "url": "https://www.prawo.pl/biznes/wzrost-produkcji-samochodow-wymusza-inwestycje-w-ekologie,167178.html",
+      "status": 200,
+      "title": "Wzrost produkcji samochodów wymusza inwestycje w ekologię",
+      "char_count": 3371
+    },
+    {
+      "article_id": "prawo_pl_0194_ekspert_branza_energetyki_wiatrowej_potrzebuje_sta",
+      "url": "https://www.prawo.pl/biznes/ekspert-branza-energetyki-wiatrowej-potrzebuje-stabilizacji-i-przewidywalnosci,167179.html",
+      "status": 200,
+      "title": "Ekspert: branża energetyki wiatrowej potrzebuje stabilizacji i przewidywalności",
+      "char_count": 4859
+    },
+    {
+      "article_id": "prawo_pl_0195_10_pazdziernika_swieto_drzewa",
+      "url": "https://www.prawo.pl/biznes/10-pazdziernika-swieto-drzewa,167181.html",
+      "status": 200,
+      "title": "10 października: Święto Drzewa",
+      "char_count": 2005
+    },
+    {
+      "article_id": "prawo_pl_0196_szesc_gownych_mitow_na_temat_spalania_drewna",
+      "url": "https://www.prawo.pl/biznes/szesc-glownych-mitow-na-temat-spalania-drewna,167182.html",
+      "status": 200,
+      "title": "Sześć głównych mitów na temat spalania drewna",
+      "char_count": 3650
+    },
+    {
+      "article_id": "prawo_pl_0197_ms_porozumienie_paryskie_szansa_dla_zrownowazonego",
+      "url": "https://www.prawo.pl/biznes/ms-porozumienie-paryskie-szansa-dla-zrownowazonego-rozwoju,167185.html",
+      "status": 200,
+      "title": "MŚ: porozumienie paryskie szansą dla zrównoważonego rozwoju",
+      "char_count": 3720
+    },
+    {
+      "article_id": "prawo_pl_0198_rekultywacja_skadowiska_przy_pomocy_odpadow_nie_je",
+      "url": "https://www.prawo.pl/biznes/rekultywacja-skladowiska-odpadow,167187.html",
+      "status": 200,
+      "title": "Rekultywacja składowiska przy pomocy odpadów nie jest odzyskiem odpadów w instalacji",
+      "char_count": 3375
+    },
+    {
+      "article_id": "prawo_pl_0199_jakie_dokumenty_nalezy_doaczyc_do_zgoszenia_wykona",
+      "url": "https://www.prawo.pl/biznes/jakie-dokumenty-nalezy-dolaczyc-do-zgloszenia-wykonania-stawu,167192.html",
+      "status": 200,
+      "title": "Jakie dokumenty należy dołączyć do zgłoszenia wykonania stawu?",
+      "char_count": 2112
+    },
+    {
+      "article_id": "prawo_pl_0200_asf_zmniejszono_strefe_z_ograniczeniami_w_handlu_t",
+      "url": "https://www.prawo.pl/biznes/asf-zmniejszono-strefe-z-ograniczeniami-w-handlu-tucznikami,167193.html",
+      "status": 200,
+      "title": "ASF: zmniejszono strefę z ograniczeniami w handlu tucznikami",
+      "char_count": 1220
+    },
+    {
+      "article_id": "prawo_pl_0201_rusza_konkurs_zaadoptuj_rzeke_2016",
+      "url": "https://www.prawo.pl/biznes/rusza-konkurs-zaadoptuj-rzeke-2016,167194.html",
+      "status": 200,
+      "title": "Rusza konkurs Zaadoptuj rzekę 2016",
+      "char_count": 1244
+    },
+    {
+      "article_id": "prawo_pl_0202_dzis_obchodzimy_miedzynarodowy_dzien_ograniczania_",
+      "url": "https://www.prawo.pl/biznes/dzis-obchodzimy-miedzynarodowy-dzien-ograniczania-klesk-zywiolowych,167195.html",
+      "status": 200,
+      "title": "Dziś obchodzimy Międzynarodowy Dzień Ograniczania Klęsk Żywiołowych",
+      "char_count": 1169
+    },
+    {
+      "article_id": "prawo_pl_0203_samorzadowcy_apeluja_o_odozenie_o_rok_reformy_praw",
+      "url": "https://www.prawo.pl/biznes/samorzadowcy-apeluja-o-odlozenie-o-rok-reformy-prawa-wodnego,167200.html",
+      "status": 200,
+      "title": "Samorządowcy apelują o odłożenie o rok reformy prawa wodnego",
+      "char_count": 1806
+    },
+    {
+      "article_id": "prawo_pl_0204_reforma_prawa_wodnego_jakie_beda_zadania_panstwowe",
+      "url": "https://www.prawo.pl/biznes/reforma-prawa-wodnego-jakie-beda-zadania-panstwowego-gospodarstwa-wodnego-wody-polskie,167201.html",
+      "status": 200,
+      "title": "Reforma prawa wodnego: jakie będą zadania Państwowego Gospodarstwa Wodnego \"Wody Polskie\"?",
+      "char_count": 3271
+    },
+    {
+      "article_id": "prawo_pl_0205_bestsellery_wrzesnia_2016_w_ksiegarni_profinfo_pl",
+      "url": "https://www.prawo.pl/biznes/bestsellery-wrzesnia-2016-w-ksiegarni-profinfopl,167202.html",
+      "status": 200,
+      "title": "Bestsellery września 2016 w księgarni profinfo.pl",
+      "char_count": 2647
+    },
+    {
+      "article_id": "prawo_pl_0206_sosnowiec_straz_miejska_sprawdzi_nieruchomosci_pod",
+      "url": "https://www.prawo.pl/biznes/sosnowiec-straz-miejska-sprawdzi-nieruchomosci-pod-katem-spalania-smieci,167203.html",
+      "status": 200,
+      "title": "Sosnowiec: straż miejska sprawdzi nieruchomości pod kątem spalania śmieci",
+      "char_count": 4140
+    },
+    {
+      "article_id": "prawo_pl_0207_przedsiebiorca_moze_w_ciagu_trwania_roku_rozliczen",
+      "url": "https://www.prawo.pl/biznes/przedsiebiorca-moze-w-ciagu-trwania-roku-rozliczeniowego-zmienic-organizacje-odzysku-opakowan,167206.html",
+      "status": 200,
+      "title": "Przedsiębiorca może w ciągu trwania roku rozliczeniowego zmienić organizację odzysku opakowań",
+      "char_count": 1810
+    },
+    {
+      "article_id": "prawo_pl_0208_nfosigw_zaprasza_na_bezpatne_szkolenia_z_programu_",
+      "url": "https://www.prawo.pl/biznes/nfosigw-zaprasza-na-bezplatne-szkolenia-z-programu-life,167207.html",
+      "status": 200,
+      "title": "NFOŚiGW zaprasza na bezpłatne szkolenia z programu LIFE",
+      "char_count": 896
+    },
+    {
+      "article_id": "prawo_pl_0209_minister_srodowiska_powoa_zespo_ds_puszczy_biaowie",
+      "url": "https://www.prawo.pl/biznes/minister-srodowiska-powolal-zespol-ds-puszczy-bialowieskiej,167208.html",
+      "status": 200,
+      "title": "Minister środowiska powołał zespół ds. Puszczy Białowieskiej",
+      "char_count": 970
+    },
+    {
+      "article_id": "prawo_pl_0210_panowanie_nad_ziemia_oznacza_odpowiedzialnosc_za_n",
+      "url": "https://www.prawo.pl/biznes/panowanie-nad-ziemia-oznacza-odpowiedzialnosc-za-nia,167211.html",
+      "status": 200,
+      "title": "Panowanie nad ziemią oznacza odpowiedzialność za nią",
+      "char_count": 2465
+    },
+    {
+      "article_id": "prawo_pl_0211_czy_scinki_drewna_ktore_powstaja_przy_produkcji_me",
+      "url": "https://www.prawo.pl/biznes/czy-scinki-drewna-ktore-powstaja-przy-produkcji-mebli-sa-odpadem,167214.html",
+      "status": 200,
+      "title": "Czy ścinki drewna, które powstają przy produkcji mebli, są odpadem?",
+      "char_count": 3887
+    },
+    {
+      "article_id": "prawo_pl_0212_grupa_energa_oficjalnie_powitana_w_emas",
+      "url": "https://www.prawo.pl/biznes/grupa-energa-oficjalnie-powitana-w-emas,167215.html",
+      "status": 200,
+      "title": "Grupa ENERGA oficjalnie powitana w EMAS",
+      "char_count": 1982
+    },
+    {
+      "article_id": "prawo_pl_0213_zycie_wsrod_zanieczyszczen_grozi_deformacja_kosci",
+      "url": "https://www.prawo.pl/biznes/zycie-wsrod-zanieczyszczen-grozi-deformacja-kosci,167216.html",
+      "status": 200,
+      "title": "Życie wśród zanieczyszczeń grozi deformacją kości",
+      "char_count": 2833
+    },
+    {
+      "article_id": "prawo_pl_0214_gantner_ceta_nie_narusza_bezpieczenstwa_zywnosci_w",
+      "url": "https://www.prawo.pl/biznes/gantner-ceta-nie-narusza-bezpieczenstwa-zywnosci-w-ue,167217.html",
+      "status": 200,
+      "title": "Gantner: CETA nie narusza bezpieczeństwa żywności w UE",
+      "char_count": 4451
+    },
+    {
+      "article_id": "prawo_pl_0215_od_2017_r_po_pozwolenie_wodnoprawne_do_nowego_orga",
+      "url": "https://www.prawo.pl/biznes/od-2017-r-po-pozwolenie-wodnoprawne-do-nowego-organu,167223.html",
+      "status": 200,
+      "title": "Od 2017 r. po pozwolenie wodnoprawne do nowego organu",
+      "char_count": 1033
+    },
+    {
+      "article_id": "prawo_pl_0216_zegluga_towarowa_wroci_na_odre",
+      "url": "https://www.prawo.pl/biznes/zegluga-towarowa-wroci-na-odre,167224.html",
+      "status": 200,
+      "title": "Żegluga towarowa wróci na Odrę",
+      "char_count": 1348
+    },
+    {
+      "article_id": "prawo_pl_0217_wwf_wczorajsze_wystapienie_ministra_srodowiska_ws_",
+      "url": "https://www.prawo.pl/biznes/wwf-wczorajsze-wystapienie-ministra-srodowiska-ws-puszczy-bialowieskiej-to-wprowadzanie-europy-w-blad,167225.html",
+      "status": 200,
+      "title": "WWF: wczorajsze wystąpienie ministra środowiska ws. Puszczy Białowieskiej to wprowadzanie Europy w błąd",
+      "char_count": 2961
+    },
+    {
+      "article_id": "prawo_pl_0218_gos_patyczki_higieniczne_blokuja_pompy_w_oczyszcza",
+      "url": "https://www.prawo.pl/biznes/gos-patyczki-higieniczne-blokuja-pompy-w-oczyszczalni-i-powoduja-ich-awarie,167227.html",
+      "status": 200,
+      "title": "GOŚ: patyczki higieniczne blokują pompy w oczyszczalni i powodują ich awarie",
+      "char_count": 2243
+    },
+    {
+      "article_id": "prawo_pl_0219_swietokrzyskie_ruszy_ekologiczny_program_edukacyjn",
+      "url": "https://www.prawo.pl/biznes/swietokrzyskie-ruszyl-ekologiczny-program-edukacyjny-dla-dzieci,167228.html",
+      "status": 200,
+      "title": "Świętokrzyskie: ruszył ekologiczny program edukacyjny dla dzieci",
+      "char_count": 2281
+    },
+    {
+      "article_id": "prawo_pl_0220_w_kpo_nalezy_zamiescic_pieczec_i_podpis",
+      "url": "https://www.prawo.pl/biznes/w-kpo-nalezy-zamiescic-pieczec-i-podpis,167231.html",
+      "status": 200,
+      "title": "W KPO należy zamieścić pieczęć i podpis",
+      "char_count": 1913
+    },
+    {
+      "article_id": "prawo_pl_0221_ekspert_magazynowanie_energii_konieczne_do_rozwija",
+      "url": "https://www.prawo.pl/biznes/ekspert-magazynowanie-energii-konieczne-do-rozwijania-oze,167232.html",
+      "status": 200,
+      "title": "Ekspert: magazynowanie energii konieczne do rozwijania OZE",
+      "char_count": 4064
+    },
+    {
+      "article_id": "prawo_pl_0222_ms_porozumienie_paryskie_gwarantuje_dalsze_korzyst",
+      "url": "https://www.prawo.pl/biznes/ms-porozumienie-paryskie-gwarantuje-dalsze-korzystanie-z-zasobow-wegla,167233.html",
+      "status": 200,
+      "title": "MŚ: porozumienie paryskie gwarantuje dalsze korzystanie z zasobów węgla",
+      "char_count": 2325
+    },
+    {
+      "article_id": "prawo_pl_0223_rzad_przyja_pzrp_dla_obszarow_dorzeczy_odry_wisy_i",
+      "url": "https://www.prawo.pl/biznes/rzad-przyjal-pzrp-dla-obszarow-dorzeczy-odry-wisly-i-pregoly,167236.html",
+      "status": 200,
+      "title": "Rząd przyjął PZRP dla obszarów dorzeczy Odry, Wisły i Pregoły",
+      "char_count": 1220
+    },
+    {
+      "article_id": "prawo_pl_0224_rm_przyjea_plany_gospodarowania_wodami_na_obszarac",
+      "url": "https://www.prawo.pl/biznes/rm-przyjela-plany-gospodarowania-wodami-na-obszarach-dorzeczy-min-wisly-i-odry,167237.html",
+      "status": 200,
+      "title": "RM przyjęła plany gospodarowania wodami na obszarach dorzeczy m.in. Wisły i Odry",
+      "char_count": 1439
+    },
+    {
+      "article_id": "prawo_pl_0225_powiat_moze_dofinansowac_modernizacje_ujecia_wod_p",
+      "url": "https://www.prawo.pl/biznes/powiat-moze-dofinansowac-modernizacje-ujecia-wod-podziemnych,167239.html",
+      "status": 200,
+      "title": "Powiat może dofinansować modernizację ujęcia wód podziemnych",
+      "char_count": 2180
+    },
+    {
+      "article_id": "prawo_pl_0226_gmina_nie_jest_strona_postepowania_ws_srodowiskowy",
+      "url": "https://www.prawo.pl/biznes/gmina-nie-jest-strona-postepowania-ws-srodowiskowych-uwarunkowan,167244.html",
+      "status": 200,
+      "title": "Gmina nie jest stroną postępowania ws. środowiskowych uwarunkowań",
+      "char_count": 1469
+    },
+    {
+      "article_id": "prawo_pl_0227_ekspert_prawo_dot_odpadow_rozlege_i_skomplikowane",
+      "url": "https://www.prawo.pl/biznes/ekspert-prawo-dot-odpadow-rozlegle-i-skomplikowane,167245.html",
+      "status": 200,
+      "title": "Ekspert: prawo dot. odpadów rozległe i skomplikowane",
+      "char_count": 2775
+    },
+    {
+      "article_id": "prawo_pl_0228_ile_gaezi_moze_wyciac_wasciciel_drzewa",
+      "url": "https://www.prawo.pl/biznes/ile-galezi-moze-wyciac-wlasciciel-drzewa,167246.html",
+      "status": 200,
+      "title": "Ile gałęzi może wyciąć właściciel drzewa?",
+      "char_count": 2007
+    },
+    {
+      "article_id": "prawo_pl_0229_trwaja_zapisy_na_smogathon",
+      "url": "https://www.prawo.pl/biznes/trwaja-zapisy-na-smogathon,167249.html",
+      "status": 200,
+      "title": "Trwają zapisy na Smogathon",
+      "char_count": 856
+    },
+    {
+      "article_id": "prawo_pl_0230_nfosigw_organizuje_szkolenia_dla_samorzadow_planuj",
+      "url": "https://www.prawo.pl/biznes/nfosigw-organizuje-szkolenia-dla-samorzadow-planujacych-inwestycje-w-zielen-miejska,167250.html",
+      "status": 200,
+      "title": "NFOŚiGW organizuje szkolenia dla samorządów planujących inwestycje w zieleń miejską",
+      "char_count": 1848
+    },
+    {
+      "article_id": "prawo_pl_0231_szyszko_dziaalnosc_mysliwych_nie_polega_tylko_na_o",
+      "url": "https://www.prawo.pl/biznes/szyszko-dzialalnosc-mysliwych-nie-polega-tylko-na-organizowaniu-polowan,167251.html",
+      "status": 200,
+      "title": "Szyszko: działalność myśliwych nie polega tylko na organizowaniu polowań",
+      "char_count": 1724
+    },
+    {
+      "article_id": "prawo_pl_0232_inwentaryzacja_stanu_lasow_powinna_uwzgledniac_war",
+      "url": "https://www.prawo.pl/biznes/inwentaryzacja-stanu-lasow-powinna-uwzgledniac-warunki-fizjograficzne-i-walory-przyrodnicze,167252.html",
+      "status": 200,
+      "title": "Inwentaryzacja stanu lasów powinna uwzględniać warunki fizjograficzne i walory przyrodnicze",
+      "char_count": 4249
+    },
+    {
+      "article_id": "prawo_pl_0233_jakie_zezwolenie_powinien_posiadac_wykonawca_usuwa",
+      "url": "https://www.prawo.pl/biznes/jakie-zezwolenie-powinien-posiadac-wykonawca-usuwajacy-odpady-i-zanieczyszczenia-gruntu,167258.html",
+      "status": 200,
+      "title": "Jakie zezwolenie powinien posiadać wykonawca usuwający odpady i zanieczyszczenia gruntu?",
+      "char_count": 3850
+    },
+    {
+      "article_id": "prawo_pl_0234_ms_powoano_komitet_sterujacy_ds_krajowego_programu",
+      "url": "https://www.prawo.pl/biznes/ms-powolano-komitet-sterujacy-ds-krajowego-programu-ochrony-powietrza,167262.html",
+      "status": 200,
+      "title": "MŚ: powołano Komitet Sterujący ds. Krajowego Programu Ochrony Powietrza",
+      "char_count": 1615
+    },
+    {
+      "article_id": "prawo_pl_0235_sejm_za_wieksza_ochrona_przed_szkodliwym_wpywem_ch",
+      "url": "https://www.prawo.pl/biznes/sejm-za-wieksza-ochrona-przed-szkodliwym-wplywem-chemikaliow,167264.html",
+      "status": 200,
+      "title": "Sejm za większą ochroną przed szkodliwym wpływem chemikaliów",
+      "char_count": 2082
+    },
+    {
+      "article_id": "prawo_pl_0236_kowal_bezskrzydy_nie_jest_objety_ochrona_gatunkowa",
+      "url": "https://www.prawo.pl/biznes/kowal-bezskrzydly-nie-jest-objety-ochrona-gatunkowa,167269.html",
+      "status": 200,
+      "title": "Kowal bezskrzydły nie jest objęty ochroną gatunkową",
+      "char_count": 815
+    },
+    {
+      "article_id": "prawo_pl_0237_liderzy_srodowiska_o_optymalizacji_zuzycia_zasobow",
+      "url": "https://www.prawo.pl/biznes/liderzy-srodowiska-o-optymalizacji-zuzycia-zasobow-naturalnych,167270.html",
+      "status": 200,
+      "title": "Liderzy środowiska o optymalizacji zużycia zasobów naturalnych",
+      "char_count": 3555
+    },
+    {
+      "article_id": "prawo_pl_0238_ke_pracuje_nad_zmianami_w_rozporzadzeniu_emas",
+      "url": "https://www.prawo.pl/biznes/ke-pracuje-nad-zmianami-w-rozporzadzeniu-emas,167271.html",
+      "status": 200,
+      "title": "KE pracuje nad zmianami w rozporządzeniu EMAS",
+      "char_count": 2291
+    },
+    {
+      "article_id": "prawo_pl_0239_na_jakim_wzorze_sprawozdania_nalezy_zozyc_sprawozd",
+      "url": "https://www.prawo.pl/biznes/na-jakim-wzorze-sprawozdania-nalezy-zlozyc-sprawozdanie-za-zbierane-wytwarzane-i-przetwarzane-odpady-za-2016-r,167273.html",
+      "status": 200,
+      "title": "Na jakim wzorze sprawozdania należy złożyć sprawozdanie za zbierane, wytwarzane i przetwarzane odpady za 2016 r.?",
+      "char_count": 1386
+    },
+    {
+      "article_id": "prawo_pl_0240_wsa_nowy_podmiot_odpowiada_za_wytworzone_wczesniej",
+      "url": "https://www.prawo.pl/biznes/wsa-nowy-podmiot-odpowiada-za-wytworzone-wczesniej-odpady,167274.html",
+      "status": 200,
+      "title": "WSA: nowy podmiot odpowiada za wytworzone wcześniej odpady",
+      "char_count": 1619
+    },
+    {
+      "article_id": "prawo_pl_0241_pellet_alternatywa_dla_paliw_staych",
+      "url": "https://www.prawo.pl/biznes/pellet-alternatywa-dla-paliw-stalych,167275.html",
+      "status": 200,
+      "title": "Pellet alternatywą dla paliw stałych",
+      "char_count": 1249
+    },
+    {
+      "article_id": "prawo_pl_0242_ms_europejska_polityka_klimatyczna_powinna_byc_pro",
+      "url": "https://www.prawo.pl/biznes/ms-europejska-polityka-klimatyczna-powinna-byc-prowadzona-w-duchu-porozumienia-paryskiego,167277.html",
+      "status": 200,
+      "title": "MŚ: europejska polityka klimatyczna powinna być prowadzona w duchu porozumienia paryskiego",
+      "char_count": 1828
+    },
+    {
+      "article_id": "prawo_pl_0243_nfosigw_dofinansuje_gospodarke_odpadami_komunalnym",
+      "url": "https://www.prawo.pl/biznes/nfosigw-dofinansuje-gospodarke-odpadami-komunalnymi,167278.html",
+      "status": 200,
+      "title": "NFOŚiGW dofinansuje gospodarkę odpadami komunalnymi",
+      "char_count": 1932
+    },
+    {
+      "article_id": "prawo_pl_0245_strefe_ochronna_ujecia_wody_ustanawia_dyrektor_rzg",
+      "url": "https://www.prawo.pl/biznes/strefe-ochronna-ujecia-wody-ustanawia-dyrektor-rzgw,167281.html",
+      "status": 200,
+      "title": "Strefę ochronną ujęcia wody ustanawia dyrektor RZGW",
+      "char_count": 1492
+    },
+    {
+      "article_id": "prawo_pl_0246_stawki_opat_za_usuniecie_drzew_i_krzewow_beda_wyzs",
+      "url": "https://www.prawo.pl/biznes/stawki-oplat-za-usuniecie-drzew-i-krzewow-beda-wyzsze,167282.html",
+      "status": 200,
+      "title": "Stawki opłat za usunięcie drzew i krzewów będą wyższe",
+      "char_count": 1091
+    },
+    {
+      "article_id": "prawo_pl_0247_okreslono_tryb_uznawania_praktyki_zawodowej_wymaga",
+      "url": "https://www.prawo.pl/biznes/okreslono-tryb-uznawania-praktyki-zawodowej-wymaganej-do-uzyskania-uprawnien-inspektora-dozoru-jadrowego,167284.html",
+      "status": 200,
+      "title": "Określono tryb uznawania praktyki zawodowej wymaganej do uzyskania uprawnień inspektora dozoru jądrowego",
+      "char_count": 1168
+    },
+    {
+      "article_id": "prawo_pl_0248_ms_owiectwo_jest_wazne_dla_zachowania_rownowagi_ek",
+      "url": "https://www.prawo.pl/biznes/ms-lowiectwo-jest-wazne-dla-zachowania-rownowagi-ekosystemu,167290.html",
+      "status": 200,
+      "title": "MŚ: łowiectwo jest ważne dla zachowania równowagi ekosystemu",
+      "char_count": 1837
+    },
+    {
+      "article_id": "prawo_pl_0249_nfosigw_dofinansuje_osrodki_edukacji_ekologicznej",
+      "url": "https://www.prawo.pl/biznes/nfosigw-dofinansuje-osrodki-edukacji-ekologicznej,167291.html",
+      "status": 200,
+      "title": "NFOŚIGW dofinansuje ośrodki edukacji ekologicznej",
+      "char_count": 1221
+    },
+    {
+      "article_id": "prawo_pl_0250_do_kogo_nalezy_przesac_kalendarz_polowan_koa_owiec",
+      "url": "https://www.prawo.pl/biznes/do-kogo-nalezy-przeslac-kalendarz-polowan-kola-lowieckiego,167295.html",
+      "status": 200,
+      "title": "Do kogo należy przesłać kalendarz polowań koła łowieckiego?",
+      "char_count": 1369
+    }
+  ]
+}

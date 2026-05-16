@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00130",
+  "source_url": "https://forumprawne.org/watek/odszkodowanie-za-zmieniony-kurs-busa.882263/",
+  "fetch_url": "https://forumprawne.org/watek/odszkodowanie-za-zmieniony-kurs-busa.882263/",
+  "archive_file": "forumprawne/forumprawne_00130.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70239,
+  "sha256": "ebea80ab27855a4f473a317a1383b6a6ce1e9a3a26054812ae9c99209668b498",
+  "download_date": "2026-05-16T07:44:02Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

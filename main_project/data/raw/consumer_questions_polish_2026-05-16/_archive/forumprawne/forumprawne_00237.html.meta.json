@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00237",
+  "source_url": "https://forumprawne.org/watek/zadoscuczynienie-za-zmarnowany-urlop.879570/",
+  "fetch_url": "https://forumprawne.org/watek/zadoscuczynienie-za-zmarnowany-urlop.879570/",
+  "archive_file": "forumprawne/forumprawne_00237.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 82280,
+  "sha256": "43231a45f502323f8a71448342141c15c64d79cc043c9c0321255a0cb4e5fac7",
+  "download_date": "2026-05-16T07:46:03Z",
+  "duration_sec": 0.178,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

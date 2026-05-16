@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00552",
+  "source_url": "https://forumprawne.org/watek/problem-ze-sklepem.871991/",
+  "fetch_url": "https://forumprawne.org/watek/problem-ze-sklepem.871991/",
+  "archive_file": "forumprawne/forumprawne_00552.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 81903,
+  "sha256": "0c0a3bfbc5d98b7295bc1bdbf0b41ba55eb24125f5c32381a06337e8b3cbf9da",
+  "download_date": "2026-05-16T07:51:57Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

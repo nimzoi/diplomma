@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00913",
+  "source_url": "https://forumprawne.org/watek/kupiona-lodowka-zepsuta-w-dniu-distarczenia.865408/",
+  "fetch_url": "https://forumprawne.org/watek/kupiona-lodowka-zepsuta-w-dniu-distarczenia.865408/",
+  "archive_file": "forumprawne/forumprawne_00913.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 77364,
+  "sha256": "596433ea018693a3dbb3c05cba950fead4ab347078846e683cd36175a25e022a",
+  "download_date": "2026-05-16T07:58:45Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

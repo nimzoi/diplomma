@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01009",
+  "source_url": "https://forumprawne.org/watek/reklamacja-odziezy-kupionej-na-bazarku.863088/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-odziezy-kupionej-na-bazarku.863088/",
+  "archive_file": "forumprawne/forumprawne_01009.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58031,
+  "sha256": "c2a5ab5351664aac7ef730592db030eb478151e3d46bc2854611c2e499d39f92",
+  "download_date": "2026-05-16T08:00:34Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

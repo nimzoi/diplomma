@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00941",
+  "source_url": "https://forumprawne.org/watek/zen-nie-chce-oddac-pieniedzy.864925/",
+  "fetch_url": "https://forumprawne.org/watek/zen-nie-chce-oddac-pieniedzy.864925/",
+  "archive_file": "forumprawne/forumprawne_00941.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53137,
+  "sha256": "1f04db067f97d7d3bf0ed544d2db8467fe3de4c3e81365b3ca477900905cb4fa",
+  "download_date": "2026-05-16T07:59:17Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

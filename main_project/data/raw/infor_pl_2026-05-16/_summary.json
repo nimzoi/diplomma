@@ -2,18 +2,23 @@
   "source": "infor.pl",
   "scrape_date": "2026-05-16",
   "license": "fair-use Art. 29 PrAut (academic research, attribution preserved)",
-  "discovered_urls": 96,
-  "successful_articles": 96,
+  "discovered_urls": 400,
+  "successful_articles": 400,
   "failed_urls": 0,
   "skipped_too_short": 0,
   "skipped_duplicate": 0,
   "waf_blocks": 0,
-  "total_chars": 317458,
-  "avg_chars_per_article": 3306.9,
-  "archive_mb": 24.42,
-  "notes": "Walk 20 podkategorii prawa-konsumenta × 8 stron. Article URL pattern: /prawo/prawa-konsumenta/<sub>/NNNNNN,SLUG.html",
+  "total_chars": 1559360,
+  "avg_chars_per_article": 3898.4,
+  "archive_mb": 126.44,
+  "notes": "Walk 3 podkategorii prawa-konsumenta × 50 stron. Article URL pattern: /prawo/prawa-konsumenta/<sub>/NNNNNN,SLUG.html",
   "categories": {
+    "prawa-konsumenta/ogolne": 49,
     "prawa-konsumenta/gwarancja": 23,
-    "prawa-konsumenta/reklamacja": 73
+    "prawa-konsumenta/inne": 35,
+    "prawa-konsumenta/konsument-dom": 40,
+    "prawa-konsumenta/konsument-internet": 5,
+    "prawa-konsumenta/konsument-telekomunikacja": 125,
+    "prawa-konsumenta/konsument-turystyka": 123
   }
 }

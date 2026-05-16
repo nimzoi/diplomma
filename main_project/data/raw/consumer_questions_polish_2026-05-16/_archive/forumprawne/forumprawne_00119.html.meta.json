@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00119",
+  "source_url": "https://forumprawne.org/watek/reklamacja-meble-kuchenne.882626/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-meble-kuchenne.882626/",
+  "archive_file": "forumprawne/forumprawne_00119.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58846,
+  "sha256": "d5f0caf3bbf0b6f0c336eff1707db38a841197d4af2113c616124cdeaa85dec0",
+  "download_date": "2026-05-16T07:43:49Z",
+  "duration_sec": 0.211,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

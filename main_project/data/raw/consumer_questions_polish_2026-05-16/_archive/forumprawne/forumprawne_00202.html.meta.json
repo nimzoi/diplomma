@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00202",
+  "source_url": "https://forumprawne.org/watek/zaplata-za-usluge-z-umowy-czy-faktury.880440/",
+  "fetch_url": "https://forumprawne.org/watek/zaplata-za-usluge-z-umowy-czy-faktury.880440/",
+  "archive_file": "forumprawne/forumprawne_00202.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70953,
+  "sha256": "629d03be6422caa15acc720599e1909940e88714ce6f625f634554066565c2d1",
+  "download_date": "2026-05-16T07:45:23Z",
+  "duration_sec": 0.115,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

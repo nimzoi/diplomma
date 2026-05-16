@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00238",
+  "source_url": "https://forumprawne.org/watek/duze-problemy-z-dostawca-pradu.879568/",
+  "fetch_url": "https://forumprawne.org/watek/duze-problemy-z-dostawca-pradu.879568/",
+  "archive_file": "forumprawne/forumprawne_00238.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57946,
+  "sha256": "63d1a547c2cd5759c47a5f197498df7325c4e2770b3febff68b65c44a9eabb1a",
+  "download_date": "2026-05-16T07:46:04Z",
+  "duration_sec": 0.216,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00453",
+  "source_url": "https://forumprawne.org/watek/rekojmia-sprzetu-elektronicznego.874624/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-sprzetu-elektronicznego.874624/",
+  "archive_file": "forumprawne/forumprawne_00453.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53596,
+  "sha256": "ab59eac60bc0c8ab65739690b830055c6d152ce07fbb3fe92d808d83941f311a",
+  "download_date": "2026-05-16T07:50:06Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

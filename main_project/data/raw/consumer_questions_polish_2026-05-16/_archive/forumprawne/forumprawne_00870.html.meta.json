@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00870",
+  "source_url": "https://forumprawne.org/watek/bank-przez-przypade-zamknal-konto.866347/",
+  "fetch_url": "https://forumprawne.org/watek/bank-przez-przypade-zamknal-konto.866347/",
+  "archive_file": "forumprawne/forumprawne_00870.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53164,
+  "sha256": "3986d65ee03e1f265a8b8b9f16b03175a8b6300368e837ddffdc15361f75e7b8",
+  "download_date": "2026-05-16T07:57:57Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

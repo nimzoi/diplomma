@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00348",
+  "source_url": "https://forumprawne.org/watek/rekojmia-odmowa-naprawy-on-line.877088/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-odmowa-naprawy-on-line.877088/",
+  "archive_file": "forumprawne/forumprawne_00348.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 114085,
+  "sha256": "8553cad23afe9ca126d680a95038c50ca49cf952fa903bb33c0768e327135c3d",
+  "download_date": "2026-05-16T07:48:08Z",
+  "duration_sec": 0.143,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

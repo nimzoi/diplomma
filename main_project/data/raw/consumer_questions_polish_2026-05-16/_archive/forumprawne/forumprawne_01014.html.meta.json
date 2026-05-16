@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01014",
+  "source_url": "https://forumprawne.org/watek/przedawnienie-roszczen-z-tytulu-rekojmi.862607/",
+  "fetch_url": "https://forumprawne.org/watek/przedawnienie-roszczen-z-tytulu-rekojmi.862607/",
+  "archive_file": "forumprawne/forumprawne_01014.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 75709,
+  "sha256": "d95381add33aaa7d5c1ec9569e15e42edc1c97bfb5bf20f71e1c867eed5f7cab",
+  "download_date": "2026-05-16T08:00:39Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

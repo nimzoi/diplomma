@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00318",
+  "source_url": "https://forumprawne.org/watek/anulacji-rezerwacji-noclegu-przez-hotel.877606/",
+  "fetch_url": "https://forumprawne.org/watek/anulacji-rezerwacji-noclegu-przez-hotel.877606/",
+  "archive_file": "forumprawne/forumprawne_00318.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59999,
+  "sha256": "e18934bc8f4312a904fdb2bbff27c58b1b08f43e906e97c00dff1c03008165b0",
+  "download_date": "2026-05-16T07:47:34Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

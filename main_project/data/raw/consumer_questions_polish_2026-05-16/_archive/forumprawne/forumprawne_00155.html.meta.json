@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00155",
+  "source_url": "https://forumprawne.org/watek/etykieta-z-cena-zabka.881419/",
+  "fetch_url": "https://forumprawne.org/watek/etykieta-z-cena-zabka.881419/",
+  "archive_file": "forumprawne/forumprawne_00155.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66327,
+  "sha256": "191717ddf2ea581cf62e7389294711d6f30baa4e8670f012863cce55bf295534",
+  "download_date": "2026-05-16T07:44:30Z",
+  "duration_sec": 0.091,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

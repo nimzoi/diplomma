@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00508",
+  "source_url": "https://forumprawne.org/watek/pkp-a-nie-odbyty-przejazd.873310/",
+  "fetch_url": "https://forumprawne.org/watek/pkp-a-nie-odbyty-przejazd.873310/",
+  "archive_file": "forumprawne/forumprawne_00508.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54951,
+  "sha256": "131f51523afdf88bb3c3c7ccc218278bef988bf0ed23f8c6ecd4dc7d788e1f38",
+  "download_date": "2026-05-16T07:51:08Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

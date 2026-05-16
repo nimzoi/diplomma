@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00807",
+  "source_url": "https://forumprawne.org/watek/kupujacy-nie-zaplacil.867064/",
+  "fetch_url": "https://forumprawne.org/watek/kupujacy-nie-zaplacil.867064/",
+  "archive_file": "forumprawne/forumprawne_00807.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69629,
+  "sha256": "dda56a795a8a1c32dd3c04dc0c09e5fa92a01bbe1adbfbc2110434bd45f86a0d",
+  "download_date": "2026-05-16T07:56:45Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

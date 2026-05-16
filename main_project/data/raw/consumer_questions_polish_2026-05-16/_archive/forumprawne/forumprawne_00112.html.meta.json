@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00112",
+  "source_url": "https://forumprawne.org/watek/kto-to-jest-ten-jego-prosze-o-interpretacje-przepisu.882704/",
+  "fetch_url": "https://forumprawne.org/watek/kto-to-jest-ten-jego-prosze-o-interpretacje-przepisu.882704/",
+  "archive_file": "forumprawne/forumprawne_00112.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64996,
+  "sha256": "fc0e32acac93101a31407397da51e03412c0930da6a6854a1eb495ee14c7f93c",
+  "download_date": "2026-05-16T07:43:41Z",
+  "duration_sec": 0.182,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

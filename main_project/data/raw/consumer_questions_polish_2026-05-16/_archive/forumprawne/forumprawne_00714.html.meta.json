@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00714",
+  "source_url": "https://forumprawne.org/watek/zadanie-odeslania-towaru.869063/",
+  "fetch_url": "https://forumprawne.org/watek/zadanie-odeslania-towaru.869063/",
+  "archive_file": "forumprawne/forumprawne_00714.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59402,
+  "sha256": "f1d997e41bc6a012b6a9549d5d7c3e9660a2f288ea5e8f60988efe03bca44e02",
+  "download_date": "2026-05-16T07:55:01Z",
+  "duration_sec": 0.124,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

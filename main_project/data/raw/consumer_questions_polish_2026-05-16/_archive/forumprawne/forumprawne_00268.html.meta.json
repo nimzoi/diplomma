@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00268",
+  "source_url": "https://forumprawne.org/watek/hotel-cudzy-rachunek.878785/",
+  "fetch_url": "https://forumprawne.org/watek/hotel-cudzy-rachunek.878785/",
+  "archive_file": "forumprawne/forumprawne_00268.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59033,
+  "sha256": "71602154286ea4d1a17385bde0e467f83544a55deab5cc5231f91427a03857b2",
+  "download_date": "2026-05-16T07:46:38Z",
+  "duration_sec": 0.106,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

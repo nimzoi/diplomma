@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00415",
+  "source_url": "https://forumprawne.org/watek/umowa-sprzedazy-auta-bez-rekojmi.875577/",
+  "fetch_url": "https://forumprawne.org/watek/umowa-sprzedazy-auta-bez-rekojmi.875577/",
+  "archive_file": "forumprawne/forumprawne_00415.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63608,
+  "sha256": "af0b0ad66b0bdd1d2e2f9f7f86e2d3ebddef01ec927fee58c02ac70c2c9ca58f",
+  "download_date": "2026-05-16T07:49:24Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

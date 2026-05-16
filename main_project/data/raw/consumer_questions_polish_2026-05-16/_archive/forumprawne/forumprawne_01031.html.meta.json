@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01031",
+  "source_url": "https://forumprawne.org/watek/brak-kontaktu-i-odpowiedzi-ze-strony-dostawcy.862028/",
+  "fetch_url": "https://forumprawne.org/watek/brak-kontaktu-i-odpowiedzi-ze-strony-dostawcy.862028/",
+  "archive_file": "forumprawne/forumprawne_01031.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65326,
+  "sha256": "745af3617b17f94bb9cd450f57f749d888ccf70548360f514558f4bc1f329935",
+  "download_date": "2026-05-16T08:00:59Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

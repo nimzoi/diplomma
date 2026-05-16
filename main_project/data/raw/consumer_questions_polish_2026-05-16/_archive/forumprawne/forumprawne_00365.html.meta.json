@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00365",
+  "source_url": "https://forumprawne.org/watek/zgubiony-paragon.876590/",
+  "fetch_url": "https://forumprawne.org/watek/zgubiony-paragon.876590/",
+  "archive_file": "forumprawne/forumprawne_00365.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72048,
+  "sha256": "df80e0b54aaa55fefdd143fa31e924d8e8e199688c5cdc2e9934b9328985bcc5",
+  "download_date": "2026-05-16T07:48:27Z",
+  "duration_sec": 0.226,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

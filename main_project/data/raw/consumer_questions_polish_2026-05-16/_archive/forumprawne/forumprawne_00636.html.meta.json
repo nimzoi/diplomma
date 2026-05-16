@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00636",
+  "source_url": "https://forumprawne.org/watek/zadania-kupujacego-auto.870364/",
+  "fetch_url": "https://forumprawne.org/watek/zadania-kupujacego-auto.870364/",
+  "archive_file": "forumprawne/forumprawne_00636.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61861,
+  "sha256": "99a4043a681dcc01e49519b91bf7ce3b5c035f9bc0bc313a0699dc095422d684",
+  "download_date": "2026-05-16T07:53:33Z",
+  "duration_sec": 0.204,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

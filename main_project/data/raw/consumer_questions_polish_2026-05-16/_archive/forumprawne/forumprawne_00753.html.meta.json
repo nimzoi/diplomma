@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00753",
+  "source_url": "https://forumprawne.org/watek/wadliwy-towar-a-rekojmia.868256/",
+  "fetch_url": "https://forumprawne.org/watek/wadliwy-towar-a-rekojmia.868256/",
+  "archive_file": "forumprawne/forumprawne_00753.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58974,
+  "sha256": "94a6338ca18aba51fb6a2ba6fe8c75371d5457d9caaf773edd6cb5d230ebf8db",
+  "download_date": "2026-05-16T07:55:44Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

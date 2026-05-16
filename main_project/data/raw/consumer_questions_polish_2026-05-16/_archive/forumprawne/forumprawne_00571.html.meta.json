@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00571",
+  "source_url": "https://forumprawne.org/watek/wybuch-baterii.871678/",
+  "fetch_url": "https://forumprawne.org/watek/wybuch-baterii.871678/",
+  "archive_file": "forumprawne/forumprawne_00571.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 96388,
+  "sha256": "682d120cd9eb74c5460c09a7634f02fc639f33ccbe60fb656f7d9591d119bcba",
+  "download_date": "2026-05-16T07:52:19Z",
+  "duration_sec": 0.208,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

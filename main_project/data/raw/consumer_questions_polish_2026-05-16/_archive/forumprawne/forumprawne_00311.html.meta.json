@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00311",
+  "source_url": "https://forumprawne.org/watek/artykul-higieniczny-zwrot.877900/",
+  "fetch_url": "https://forumprawne.org/watek/artykul-higieniczny-zwrot.877900/",
+  "archive_file": "forumprawne/forumprawne_00311.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61013,
+  "sha256": "218859d35c9b4963213c0a86d31c8069ba9dc1966a0ec8b5e092ef6dc69eadc9",
+  "download_date": "2026-05-16T07:47:26Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

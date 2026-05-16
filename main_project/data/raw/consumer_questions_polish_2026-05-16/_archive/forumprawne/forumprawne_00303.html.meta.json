@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00303",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-internetowa-a-zwrot-towaru.878101/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-internetowa-a-zwrot-towaru.878101/",
+  "archive_file": "forumprawne/forumprawne_00303.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66555,
+  "sha256": "9c0d8740c290b69a8a64253ea0d0e17ff8510be0f48114af789a4d80ee356a78",
+  "download_date": "2026-05-16T07:47:17Z",
+  "duration_sec": 0.263,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

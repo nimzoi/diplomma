@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00589",
+  "source_url": "https://forumprawne.org/watek/kupno-czesci-udzialow-we-wlasnosci-konia.871224/",
+  "fetch_url": "https://forumprawne.org/watek/kupno-czesci-udzialow-we-wlasnosci-konia.871224/",
+  "archive_file": "forumprawne/forumprawne_00589.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58682,
+  "sha256": "d67a343f7d1a506f3edf4836f34ec66796a88a54259550ecd5f7a7e88763f4e2",
+  "download_date": "2026-05-16T07:52:39Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

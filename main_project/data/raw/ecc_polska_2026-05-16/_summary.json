@@ -1,0 +1,18 @@
+{
+  "source": "konsument.gov.pl",
+  "scrape_date": "2026-05-16",
+  "license": "urzędowe (Art. 4 ust. 2 PrAut, public domain)",
+  "discovered_urls": 400,
+  "successful_articles": 400,
+  "failed_urls": 0,
+  "skipped_too_short": 0,
+  "skipped_duplicate": 0,
+  "waf_blocks": 0,
+  "total_chars": 1024771,
+  "avg_chars_per_article": 2561.9,
+  "archive_mb": 42.35,
+  "notes": "Sitemap.xml walk (yoast SEO). ECC Polska = European Consumer Centre Polska, utrzymywane przez UOKiK. Pełne porady transgraniczne dla konsumentów + FAQ.",
+  "categories": {
+    "aktualnosci": 400
+  }
+}

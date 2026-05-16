@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00987",
+  "source_url": "https://forumprawne.org/watek/odzyskanie-pieniedzy-a-niewykonanie-uslugi.863545/",
+  "fetch_url": "https://forumprawne.org/watek/odzyskanie-pieniedzy-a-niewykonanie-uslugi.863545/",
+  "archive_file": "forumprawne/forumprawne_00987.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53806,
+  "sha256": "f7cf619fe12ab6d1c0506a46cbdf098845e43e0af3c5614eafd8d9cd301b8e97",
+  "download_date": "2026-05-16T08:00:09Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

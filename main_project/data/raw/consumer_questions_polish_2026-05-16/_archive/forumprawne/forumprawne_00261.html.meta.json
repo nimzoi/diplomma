@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00261",
+  "source_url": "https://forumprawne.org/watek/gta-v-a-windows-7-8.879034/",
+  "fetch_url": "https://forumprawne.org/watek/gta-v-a-windows-7-8.879034/",
+  "archive_file": "forumprawne/forumprawne_00261.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68992,
+  "sha256": "68f15b8a7dfcc645439ca941091a2066785c47802628e35cd74c957d0c44fc80",
+  "download_date": "2026-05-16T07:46:30Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

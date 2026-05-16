@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00120",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-tylko-dla-firm-pole-z-numerem-nip.882583/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-tylko-dla-firm-pole-z-numerem-nip.882583/",
+  "archive_file": "forumprawne/forumprawne_00120.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 80118,
+  "sha256": "b10600b9d09ff080ab07f86f318097b8c670af7653e46d6412da52e03c4f5fc7",
+  "download_date": "2026-05-16T07:43:50Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

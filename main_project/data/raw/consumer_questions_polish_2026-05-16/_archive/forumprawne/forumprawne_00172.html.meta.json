@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00172",
+  "source_url": "https://forumprawne.org/watek/wada-ukryta-mieszkanie-po-remoncie-ksylamit.880994/",
+  "fetch_url": "https://forumprawne.org/watek/wada-ukryta-mieszkanie-po-remoncie-ksylamit.880994/",
+  "archive_file": "forumprawne/forumprawne_00172.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 80110,
+  "sha256": "00db22bbe258534ec4060210b4f08a3ea4d7b049da5384b828945640a33cce58",
+  "download_date": "2026-05-16T07:44:49Z",
+  "duration_sec": 0.118,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

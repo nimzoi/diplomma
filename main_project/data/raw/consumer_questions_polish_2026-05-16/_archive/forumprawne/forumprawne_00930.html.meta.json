@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00930",
+  "source_url": "https://forumprawne.org/watek/zwrot-wadliwej-gry-w-serwisie-steam.865148/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-wadliwej-gry-w-serwisie-steam.865148/",
+  "archive_file": "forumprawne/forumprawne_00930.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 120685,
+  "sha256": "dbc7c497738e959400403fe8c320ba9d94d1426ac9612448675fd8b8e4964bb2",
+  "download_date": "2026-05-16T07:59:04Z",
+  "duration_sec": 0.088,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

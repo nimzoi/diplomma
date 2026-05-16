@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00612",
+  "source_url": "https://forumprawne.org/watek/abonament-rtv.868684/",
+  "fetch_url": "https://forumprawne.org/watek/abonament-rtv.868684/",
+  "archive_file": "forumprawne/forumprawne_00612.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58849,
+  "sha256": "4486b828557dbbcf4829c4ea5657a558f77791f1740c41a51b05889e0fd8909e",
+  "download_date": "2026-05-16T07:53:05Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

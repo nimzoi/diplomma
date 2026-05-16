@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00517",
+  "source_url": "https://forumprawne.org/watek/wada-ukryta-samochodu-dzien-po-zakupie-co-zrobic.873032/",
+  "fetch_url": "https://forumprawne.org/watek/wada-ukryta-samochodu-dzien-po-zakupie-co-zrobic.873032/",
+  "archive_file": "forumprawne/forumprawne_00517.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70744,
+  "sha256": "8162cdb0bb774cb2b3b73c29a93f5847cccd344431d448aaf1a6cbeac55e1363",
+  "download_date": "2026-05-16T07:51:18Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00970",
+  "source_url": "https://forumprawne.org/watek/reklamacja-roweru-z-przesylka-allegro.863879/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-roweru-z-przesylka-allegro.863879/",
+  "archive_file": "forumprawne/forumprawne_00970.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 105429,
+  "sha256": "c458ecb23016eb45d6d7a6d5086ac6dd00cfe5af68080709e7b5b19c6f6e3591",
+  "download_date": "2026-05-16T07:59:49Z",
+  "duration_sec": 0.228,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

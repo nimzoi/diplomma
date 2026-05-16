@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00188",
+  "source_url": "https://forumprawne.org/watek/produkt-niezgodny-z-umowa-paczka-pusta.880636/",
+  "fetch_url": "https://forumprawne.org/watek/produkt-niezgodny-z-umowa-paczka-pusta.880636/",
+  "archive_file": "forumprawne/forumprawne_00188.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55933,
+  "sha256": "fc26d90744d62b606266cde561e5701f7f113585a940a629632f82bc7c24b91b",
+  "download_date": "2026-05-16T07:45:07Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00716",
+  "source_url": "https://forumprawne.org/watek/reklamacja-a-uszkodzenie-produktu.869019/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-a-uszkodzenie-produktu.869019/",
+  "archive_file": "forumprawne/forumprawne_00716.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 71325,
+  "sha256": "cec82c8738a0a47114084952b4b42c6bc060e2c095ec9d000ab2e253f184de94",
+  "download_date": "2026-05-16T07:55:03Z",
+  "duration_sec": 0.231,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

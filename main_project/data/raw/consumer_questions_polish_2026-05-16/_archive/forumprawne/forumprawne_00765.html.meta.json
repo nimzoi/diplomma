@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00765",
+  "source_url": "https://forumprawne.org/watek/studzienka-orange-w-ogrodzie.868051/",
+  "fetch_url": "https://forumprawne.org/watek/studzienka-orange-w-ogrodzie.868051/",
+  "archive_file": "forumprawne/forumprawne_00765.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53665,
+  "sha256": "79449b3538409c7ff276d7cbc58ef2a156e3c28f2cc019caf7b7ec91cc750757",
+  "download_date": "2026-05-16T07:55:58Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

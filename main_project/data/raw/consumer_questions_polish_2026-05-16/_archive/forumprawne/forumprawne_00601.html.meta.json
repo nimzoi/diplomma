@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00601",
+  "source_url": "https://forumprawne.org/watek/rekojmia-na-mieszkanie-z-wada.871017/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-na-mieszkanie-z-wada.871017/",
+  "archive_file": "forumprawne/forumprawne_00601.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 75040,
+  "sha256": "9b3e4cc3ffd5430739f94213bdfccaae8cb65e1510fb0508911a96829ab3dc23",
+  "download_date": "2026-05-16T07:52:53Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

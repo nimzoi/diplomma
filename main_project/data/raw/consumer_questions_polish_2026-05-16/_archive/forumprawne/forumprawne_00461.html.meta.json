@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00461",
+  "source_url": "https://forumprawne.org/watek/sprzedawca-energii.874462/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedawca-energii.874462/",
+  "archive_file": "forumprawne/forumprawne_00461.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52680,
+  "sha256": "d9fc791b1ece3a5c0760ba614fdadc280bbb7915062f2aca82f937b460add97c",
+  "download_date": "2026-05-16T07:50:15Z",
+  "duration_sec": 0.146,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

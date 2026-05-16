@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01023",
+  "source_url": "https://forumprawne.org/watek/zakup-auta-na-tzw-niemca-problem-z-posrednikiem.862772/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-auta-na-tzw-niemca-problem-z-posrednikiem.862772/",
+  "archive_file": "forumprawne/forumprawne_01023.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61899,
+  "sha256": "cbe4f4a0a1bb08a5670118e2448534416faeb0d77f3b02df51d34cdf33ffa00c",
+  "download_date": "2026-05-16T08:00:50Z",
+  "duration_sec": 0.15,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

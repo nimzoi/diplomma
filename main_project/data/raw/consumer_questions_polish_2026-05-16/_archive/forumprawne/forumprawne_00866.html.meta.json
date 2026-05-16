@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00866",
+  "source_url": "https://forumprawne.org/watek/umowa-z-dostawca-internetu.866371/",
+  "fetch_url": "https://forumprawne.org/watek/umowa-z-dostawca-internetu.866371/",
+  "archive_file": "forumprawne/forumprawne_00866.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69227,
+  "sha256": "d8a4b42e8ca6590d8549ba43bb6f10863c04a22ce5789ffa9e4bb0697ef27866",
+  "download_date": "2026-05-16T07:57:53Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

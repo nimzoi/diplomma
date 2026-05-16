@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00340",
+  "source_url": "https://forumprawne.org/watek/termin-14-dni-na-odpowiedz-na-reklamacje.877240/",
+  "fetch_url": "https://forumprawne.org/watek/termin-14-dni-na-odpowiedz-na-reklamacje.877240/",
+  "archive_file": "forumprawne/forumprawne_00340.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 67723,
+  "sha256": "2fb9679a9d1d33e81d7f927b23f7e16a18bebcee423bcee43e4e49bccb0f6ac2",
+  "download_date": "2026-05-16T07:47:59Z",
+  "duration_sec": 0.131,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00816",
+  "source_url": "https://forumprawne.org/watek/odrzucenie-reklamacji-bez-sprawdzenia-produktu.864117/",
+  "fetch_url": "https://forumprawne.org/watek/odrzucenie-reklamacji-bez-sprawdzenia-produktu.864117/",
+  "archive_file": "forumprawne/forumprawne_00816.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 96764,
+  "sha256": "24cad2b82d84badc31cd472585d729c72dc90b5eda62577906d48d3fe75a7205",
+  "download_date": "2026-05-16T07:56:56Z",
+  "duration_sec": 0.211,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00503",
+  "source_url": "https://forumprawne.org/watek/zablokowany-telefon-zakupiony-w-lombardzie.852968/",
+  "fetch_url": "https://forumprawne.org/watek/zablokowany-telefon-zakupiony-w-lombardzie.852968/",
+  "archive_file": "forumprawne/forumprawne_00503.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 129604,
+  "sha256": "7b2b1aa3498a8d8f0ec59e03c6cd3368e0ef684698599336ee3972053e67a405",
+  "download_date": "2026-05-16T07:51:03Z",
+  "duration_sec": 0.127,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

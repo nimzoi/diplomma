@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00346",
+  "source_url": "https://forumprawne.org/watek/dwie-rozne-ceny.821388/",
+  "fetch_url": "https://forumprawne.org/watek/dwie-rozne-ceny.821388/",
+  "archive_file": "forumprawne/forumprawne_00346.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 82917,
+  "sha256": "95c94691bc291a9f07e677c017b70e8a9a6aa047091790e60c0a196719ac7c69",
+  "download_date": "2026-05-16T07:48:05Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

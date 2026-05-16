@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00558",
+  "source_url": "https://forumprawne.org/watek/zwrot-naleznosci-za-nieodbyty-kurs.871983/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-naleznosci-za-nieodbyty-kurs.871983/",
+  "archive_file": "forumprawne/forumprawne_00558.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64116,
+  "sha256": "53f01e6ff2ba5b752c23190a67e1ad844a03be77db18628c7b690fb4cd53714b",
+  "download_date": "2026-05-16T07:52:04Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

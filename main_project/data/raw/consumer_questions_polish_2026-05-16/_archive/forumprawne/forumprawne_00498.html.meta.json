@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00498",
+  "source_url": "https://forumprawne.org/watek/bateria-prysznicowa-firma.873564/",
+  "fetch_url": "https://forumprawne.org/watek/bateria-prysznicowa-firma.873564/",
+  "archive_file": "forumprawne/forumprawne_00498.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55026,
+  "sha256": "3abc290b7398c7700ab0b847721fc4bea1b5774fa85fc3b5ee5dcf65f67712b8",
+  "download_date": "2026-05-16T07:50:57Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}
