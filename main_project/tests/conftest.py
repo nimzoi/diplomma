@@ -10,6 +10,8 @@ from pathlib import Path
 
 import pytest
 
+from src.halu.schemas import ConsumerSource, HaluType, NLILabel
+
 
 @pytest.fixture
 def repo_root() -> Path:
@@ -90,7 +92,7 @@ def sample_consumer_question_dict() -> dict:
             "Co mogę zrobić?"
         ),
         "context": None,
-        "source": "e-prawnik.pl",
+        "source": ConsumerSource.E_PRAWNIK,
         "source_url": "https://e-prawnik.pl/forum/example/123",
         "category": "ochrona-konsumenta",
         "thread_responses_count": 5,
@@ -109,8 +111,8 @@ def sample_halu_pair_dict(sample_legal_chunk_dict: dict) -> dict:
         "claim": "Konsument ma 60 dni na zwrot bez podania przyczyny.",
         "evidence_chunks": [sample_legal_chunk_dict["chunk_id"]],
         "is_hallucinated": True,
-        "halu_type": "factual_fabrication",
-        "nli_label": "contradicted",
+        "halu_type": HaluType.FACTUAL_FABRICATION,
+        "nli_label": NLILabel.CONTRADICTED,
         "generation_method": "manual_test_fixture",
         "metadata": {"correct_value": "14 dni", "fabricated_value": "60 dni"},
     }

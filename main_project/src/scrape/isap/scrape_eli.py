@@ -126,6 +126,39 @@ USTAWY: tuple[UstawaConfig, ...] = (
         ustawa_id="DU/2016/1823",
         short_title="Ustawy o pozasądowym rozwiązywaniu sporów konsumenckich",
     ),
+    # === Dodane w Iter. 0b extension (2026-05-16) — 5 ustaw konsumenckich z scope brief Część B ===
+    # NOTE: Magdy brief miał błędne pos:
+    #   DU/1997/140 → faktycznie DU/1997/939 (Prawo bankowe; 140 to nr, 939 to poz)
+    #   DU/2004/1800 → NOT_IN_FORCE, zastąpione przez DU/2024/1221 (Prawo komunikacji elektronicznej)
+    #   DU/2009/89  → DU/2009/89 to Rozporządzenie infrastruktury, NIE Ust. o pos. grup.
+    #                  Faktycznie DU/2010/44 (ann. 2009-12-17, prom. 2010-01-18)
+    UstawaConfig(
+        ustawa_id="DU/1997/939",
+        short_title="Ustawy Prawo bankowe",
+        # Konsumencko-relewantne: rozdz. 5 (kredyty pożyczki) + 8 (obowiązki banków)
+        # + wybrane z rozdz. 3 (rachunki bankowe) i 13 (odpowiedzialność cywilna)
+        # Pragmatic: scrape całą ustawę (~194 arts) — analiza filtrów post-hoc
+        # przy budowaniu eval set jest tańsza niż restrykcyjny scrape.
+    ),
+    UstawaConfig(
+        ustawa_id="DU/2002/1204",
+        short_title="Ustawy o świadczeniu usług drogą elektroniczną",
+    ),
+    UstawaConfig(
+        ustawa_id="DU/2024/1221",
+        short_title="Ustawy Prawo komunikacji elektronicznej",
+        # Tylko Dział VII (Publicznie dostępne usługi komunikacji elektronicznej) —
+        # to centralny konsumencko-relewantny rozdział. Art. 282-410.
+        art_filter=tuple(range(282, 411)),
+    ),
+    UstawaConfig(
+        ustawa_id="DU/2011/715",
+        short_title="Ustawy o kredycie konsumenckim",
+    ),
+    UstawaConfig(
+        ustawa_id="DU/2010/44",
+        short_title="Ustawy o dochodzeniu roszczeń w postępowaniu grupowym",
+    ),
 )
 
 

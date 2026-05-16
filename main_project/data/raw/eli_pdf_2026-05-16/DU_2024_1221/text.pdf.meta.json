@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2024/1221",
+  "ustawa_title": "Ustawa z dnia 12 lipca 2024 r. - Prawo komunikacji elektronicznej",
+  "kind": "announcement",
+  "consolidated_ref": null,
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1221/text.pdf",
+  "size_bytes": 3430079,
+  "sha256": "6ffec62972a8c37d0533f1459a3b8936965c91fe8f044defb109924ef0e7cca4",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

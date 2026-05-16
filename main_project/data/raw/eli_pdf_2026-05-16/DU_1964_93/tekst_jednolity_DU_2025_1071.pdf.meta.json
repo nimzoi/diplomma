@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/1964/93",
+  "ustawa_title": "Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny.",
+  "kind": "tekst_jednolity",
+  "consolidated_ref": "DU/2025/1071",
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2025/1071/text.pdf",
+  "size_bytes": 1245943,
+  "sha256": "c491190afeb7237e1aadc7ab4408ab1f699dad627e7276744ac0294e56eab255",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

@@ -1,0 +1,39 @@
+{
+  "ustawa_id": "DU/2010/44",
+  "short_title": "Ustawy o dochodzeniu roszczeń w postępowaniu grupowym",
+  "title": "Ustawa z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym",
+  "publisher": "DU",
+  "year": 2010,
+  "pos": 44,
+  "display_address": "Dz.U. 2010 nr 7 poz. 44",
+  "type": "Ustawa",
+  "data_uchwalenia": "2009-12-17",
+  "data_promulgacji": "2010-01-18",
+  "data_wejscia_w_zycie": "2010-07-19",
+  "ostatnia_zmiana": "2024-10-08T09:46:13",
+  "obowiazujaca": true,
+  "in_force_raw": "IN_FORCE",
+  "status": "akt posiada tekst jednolity",
+  "ELI": "DU/2010/44",
+  "previous_title": [],
+  "art_filter": null,
+  "chunk_count": 67,
+  "source_metadata_url": "https://api.sejm.gov.pl/eli/acts/DU/2010/44",
+  "source_html_url": "https://api.sejm.gov.pl/eli/acts/DU/2010/44/text.html",
+  "consolidated_text_references": [
+    "DU/2024/1485",
+    "DU/2023/1212",
+    "DU/2020/446",
+    "DU/2018/573"
+  ],
+  "amending_acts": [
+    "DU/2024/1237",
+    "DU/2022/2640",
+    "DU/2019/1469",
+    "DU/2017/933"
+  ],
+  "directives_eu": [
+    "32020L1828"
+  ],
+  "scrape_date": "2026-05-16"
+}

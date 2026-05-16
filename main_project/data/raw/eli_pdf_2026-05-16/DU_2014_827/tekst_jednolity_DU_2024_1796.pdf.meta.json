@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2014/827",
+  "ustawa_title": "Ustawa z dnia 30 maja 2014 r. o prawach konsumenta",
+  "kind": "tekst_jednolity",
+  "consolidated_ref": "DU/2024/1796",
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1796/text.pdf",
+  "size_bytes": 644307,
+  "sha256": "19d7f6d7bc3127e5f8fac15d0713012e968e7cabd3bf8557db6c28cc69e1cfa5",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

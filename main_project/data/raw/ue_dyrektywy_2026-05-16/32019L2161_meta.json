@@ -1,0 +1,30 @@
+{
+  "celex_id": "32019L2161",
+  "direktywa_id": "2019/2161/UE",
+  "title_pl": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/2161 z dnia 27 listopada 2019 r. zmieniajaca dyrektywe Rady 93/13/EWG i dyrektywy Parlamentu Europejskiego i Rady 98/6/WE, 2005/29/WE oraz 2011/83/UE",
+  "title_observed": null,
+  "data_publikacji": "2019-12-18",
+  "data_wejscia_w_zycie": "2020-01-07",
+  "data_implementacji": "2021-11-28",
+  "polska_implementacja": "DU/2022/2581",
+  "notes": "Omnibus — modernization of 4 directives (93/13, 98/6, 2005/29, 2011/83); implementowana m.in. przez DU/2022/2581",
+  "chunk_count": 115,
+  "motyw_count": 60,
+  "article_chunk_count": 55,
+  "distinct_articles": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "source_url_html": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:32019L2161",
+  "source_url_landing": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32019L2161",
+  "source_url_pdf": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32019L2161",
+  "scrape_date": "2026-05-16",
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)"
+}

@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2007/1206",
+  "ustawa_title": "Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym",
+  "kind": "tekst_jednolity",
+  "consolidated_ref": "DU/2023/845",
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2023/845/text.pdf",
+  "size_bytes": 280485,
+  "sha256": "2ce289c2c218696b946df6707a04408f56f20390bd1972848d6873d65ba5ef04",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

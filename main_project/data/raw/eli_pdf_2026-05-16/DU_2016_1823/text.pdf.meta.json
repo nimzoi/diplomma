@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2016/1823",
+  "ustawa_title": "Ustawa z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich",
+  "kind": "announcement",
+  "consolidated_ref": null,
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1823/text.pdf",
+  "size_bytes": 353676,
+  "sha256": "a01689283773665c498b033b5a346c0516563417e9413037674035c399c5b118",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

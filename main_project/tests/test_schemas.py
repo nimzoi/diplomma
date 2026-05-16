@@ -87,7 +87,7 @@ class TestHaluPair:
     def test_non_hallucinated_no_halu_type(self, sample_halu_pair_dict: dict) -> None:
         sample_halu_pair_dict["is_hallucinated"] = False
         sample_halu_pair_dict["halu_type"] = None
-        sample_halu_pair_dict["nli_label"] = "entailed"
+        sample_halu_pair_dict["nli_label"] = NLILabel.ENTAILED
         pair = HaluPair.model_validate(sample_halu_pair_dict)
         assert pair.is_hallucinated is False
         assert pair.halu_type is None

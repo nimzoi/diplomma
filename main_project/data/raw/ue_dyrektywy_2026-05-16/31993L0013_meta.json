@@ -1,0 +1,32 @@
+{
+  "celex_id": "31993L0013",
+  "direktywa_id": "93/13/EWG",
+  "title_pl": "Dyrektywa Rady 93/13/EWG z dnia 5 kwietnia 1993 r. w sprawie nieuczciwych warunkow w umowach konsumenckich",
+  "title_observed": null,
+  "data_publikacji": "1993-04-21",
+  "data_wejscia_w_zycie": "1993-04-21",
+  "data_implementacji": "1994-12-31",
+  "polska_implementacja": "DU/1964/93",
+  "notes": "UCT — Unfair Contract Terms, transponowana do polskiego KC (art. 385^1 i nast.) ustawa DU/2000/443 wprowadzajaca; centralna w orzecznictwie TSUE (Dziubak, Kasler)",
+  "chunk_count": 22,
+  "motyw_count": 0,
+  "article_chunk_count": 22,
+  "distinct_articles": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
+  ],
+  "source_url_html": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:31993L0013",
+  "source_url_landing": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:31993L0013",
+  "source_url_pdf": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:31993L0013",
+  "scrape_date": "2026-05-16",
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)"
+}

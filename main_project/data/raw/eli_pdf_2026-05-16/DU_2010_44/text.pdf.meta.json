@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2010/44",
+  "ustawa_title": "Ustawa z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym",
+  "kind": "announcement",
+  "consolidated_ref": null,
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2010/44/text.pdf",
+  "size_bytes": 340625,
+  "sha256": "3f0143270bc8c416485dbaa3273821893beec629594a495c575fb57c71c5571a",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

@@ -5,19 +5,27 @@ dla citation-grounded polskiego RAG (deterministyczne źródłowanie per
 art./§/ust./pkt./lit.).
 
 **Skrypt:** `main_project/src/scrape/isap/scrape_eli.py`
-**Data scrape:** 2026-05-16
-**Łącznie:** 2 123 chunks, 2 157 918 bajtów (~2.1 MB)
+**Data scrape:** 2026-05-16 (pierwsze 6 ustaw) + 2026-05-16 Iter. 0b extension (5 ustaw dodanych)
+**Łącznie:** **4 056 chunks** na **962 unikalnych artykułach** (6 existing + 5 nowych)
+
+PDF oryginalne (Dziennik Ustaw) dla wszystkich 11 ustaw w `data/raw/eli_pdf_2026-05-16/`
+(20 plików, 59.76 MB).
 
 ## Status per ustawa
 
-| ID | Tytuł | Status | Chunks | Plik |
-|---|---|---|---|---|
-| DU/2014/827 | Ustawa o prawach konsumenta | OK | 240 | `DU_2014_827.jsonl` |
-| DU/1964/93 | Kodeks cywilny (art. 384-385, 535-581) | OK | 92 | `DU_1964_93.jsonl` |
-| DU/2007/1206 | Ustawa o przeciwdziałaniu nieuczciwym praktykom rynkowym | OK | 113 | `DU_2007_1206.jsonl` |
-| DU/2007/331 | Ustawa o ochronie konkurencji i konsumentów | OK | 500 | `DU_2007_331.jsonl` |
-| DU/2011/1175 | Ustawa o usługach płatniczych | OK | 888 | `DU_2011_1175.jsonl` |
-| DU/2016/1823 | Ustawa o pozasądowym rozwiązywaniu sporów konsumenckich | OK | 290 | `DU_2016_1823.jsonl` |
+| ID | Tytuł | Status | Chunks | Plik | Iter. |
+|---|---|---|---|---|---|
+| DU/2014/827 | Ustawa o prawach konsumenta | OK | 240 | `DU_2014_827.jsonl` | 0a |
+| DU/1964/93 | Kodeks cywilny (art. 384-385, 535-581) | OK | 92 | `DU_1964_93.jsonl` | 0a |
+| DU/2007/1206 | Ustawa o przeciwdziałaniu nieuczciwym praktykom rynkowym | OK | 113 | `DU_2007_1206.jsonl` | 0a |
+| DU/2007/331 | Ustawa o ochronie konkurencji i konsumentów | OK | 500 | `DU_2007_331.jsonl` | 0a |
+| DU/2011/1175 | Ustawa o usługach płatniczych | OK | 888 | `DU_2011_1175.jsonl` | 0a |
+| DU/2016/1823 | Ustawa o pozasądowym rozwiązywaniu sporów konsumenckich | OK | 290 | `DU_2016_1823.jsonl` | 0a |
+| DU/1997/939 | Ustawa Prawo bankowe (full scrape) | OK | 665 | `DU_1997_939.jsonl` | **0b** |
+| DU/2002/1204 | Ustawa o świadczeniu usług drogą elektroniczną | OK | 109 | `DU_2002_1204.jsonl` | **0b** |
+| DU/2024/1221 | Ustawa Prawo komunikacji elektronicznej (Dział VII, art. 282-410) | OK | 797 | `DU_2024_1221.jsonl` | **0b** |
+| DU/2011/715 | Ustawa o kredycie konsumenckim | OK | 295 | `DU_2011_715.jsonl` | **0b** |
+| DU/2010/44 | Ustawa o dochodzeniu roszczeń w postępowaniu grupowym | OK | 67 | `DU_2010_44.jsonl` | **0b** |
 
 Wszystkie ustawy zostały pobrane w aktualnym tekście (current consolidated state
 udostępniany przez ELI HTML endpoint). Per ustawa: jeden plik `.jsonl` z chunks
@@ -193,6 +201,8 @@ i adresu `Dz.U.`. To kluczowe dla detekcji halucynacji w generatorze RAG.
 
 ## Statystyki
 
+### Iter. 0a (6 ustaw existing)
+
 | Plik | Chunks | Bajty | Średnia dł. (chars) | Min | Max |
 |---|---:|---:|---:|---:|---:|
 | DU_1964_93.jsonl | 92 | 85 929 | 258 | 41 | 702 |
@@ -201,7 +211,29 @@ i adresu `Dz.U.`. To kluczowe dla detekcji halucynacji w generatorze RAG.
 | DU_2011_1175.jsonl | 888 | 934 017 | 187 | 10 | 2 004 |
 | DU_2014_827.jsonl | 240 | 239 084 | 171 | 20 | 654 |
 | DU_2016_1823.jsonl | 290 | 287 207 | 137 | 18 | 538 |
-| **TOTAL** | **2 123** | **2 157 918** | — | — | — |
+| **Subtotal Iter. 0a** | **2 123** | **2 157 918** | — | — | — |
+
+### Iter. 0b (5 ustaw dodanych 2026-05-16 extension)
+
+| Plik | Chunks | Arts | Komentarz |
+|---|---:|---:|---|
+| DU_1997_939.jsonl | 665 | 194 | Prawo bankowe (full scrape — filter post-hoc w dataset_builder) |
+| DU_2002_1204.jsonl | 109 | 30 | Usługi elektroniczne (full) |
+| DU_2010_44.jsonl | 67 | 26 | Post. grupowe (full) |
+| DU_2011_715.jsonl | 295 | 68 | Kredyt konsumencki (full) |
+| DU_2024_1221.jsonl | 797 | 129 | Prawo kom. elektr. Dział VII (art. 282-410) |
+| **Subtotal Iter. 0b** | **1 933** | **447** | |
+
+### Grand total
+
+| | Chunks | Unique Articles |
+|---|---:|---:|
+| Iter. 0a (6 ustaw) | 2 123 | 515 |
+| Iter. 0b (5 ustaw) | 1 933 | 447 |
+| **TOTAL (11 ustaw)** | **4 056** | **962** |
+
+PDF oryginalne (dla wszystkich 11): 20 plików (11 announcement + 9 tekst jednolity), 59.76 MB
+w `data/raw/eli_pdf_2026-05-16/`.
 
 ## QA results
 

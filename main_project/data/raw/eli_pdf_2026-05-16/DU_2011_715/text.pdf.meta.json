@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2011/715",
+  "ustawa_title": "Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim",
+  "kind": "announcement",
+  "consolidated_ref": null,
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2011/715/text.pdf",
+  "size_bytes": 565986,
+  "sha256": "c8913d8bdd6b3767c5c6ab2256d1c87898bd64a3b26bc57477c05afe3812c65b",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

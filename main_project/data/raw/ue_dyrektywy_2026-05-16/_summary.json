@@ -1,0 +1,15 @@
+{
+  "scrape_date": "2026-05-16",
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+  "directives": [
+    {
+      "source": "93/13/EWG",
+      "scrape_date": "2026-05-16",
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "total_records": 22,
+      "skipped_no_pl": [],
+      "notes": "motyw=0 art=22 arts=11"
+    }
+  ],
+  "total_chunks": 22
+}

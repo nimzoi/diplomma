@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2002/1204",
+  "ustawa_title": "Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.",
+  "kind": "tekst_jednolity",
+  "consolidated_ref": "DU/2024/1513",
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1513/text.pdf",
+  "size_bytes": 346612,
+  "sha256": "0f968f010d1af0ca749436d17c6ff73dffe1377489bf77d58f315b1c9b38eb47",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

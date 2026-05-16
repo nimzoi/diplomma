@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2011/1175",
+  "ustawa_title": "Ustawa z dnia 19 sierpnia 2011 r. o usługach płatniczych",
+  "kind": "tekst_jednolity",
+  "consolidated_ref": "DU/2026/623",
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2026/623/text.pdf",
+  "size_bytes": 1322292,
+  "sha256": "2fd32361597930f01325346ebb85ec61a665e1fb51cee55e1d0a9c17d6696873",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

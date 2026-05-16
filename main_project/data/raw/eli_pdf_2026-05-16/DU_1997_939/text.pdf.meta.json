@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/1997/939",
+  "ustawa_title": "Ustawa z dnia 29 sierpnia 1997 r. - Prawo bankowe.",
+  "kind": "announcement",
+  "consolidated_ref": null,
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/1997/939/text.pdf",
+  "size_bytes": 11786933,
+  "sha256": "3af514a8cd1b2688e59b5be7f3c46cfd7211122ad5b2f0304756bed155d78176",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2007/331",
+  "ustawa_title": "Ustawa z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów",
+  "kind": "announcement",
+  "consolidated_ref": null,
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2007/331/text.pdf",
+  "size_bytes": 151823,
+  "sha256": "4d7105c5c77b62684e06df4e92d65acaa5823b697332563c6bf5488cd8d682c3",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}
