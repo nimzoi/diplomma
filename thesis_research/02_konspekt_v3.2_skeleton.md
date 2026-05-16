@@ -18,7 +18,7 @@
 
 Praca projektuje, implementuje i ewaluuje **trzykomponentowy pipeline** dla polskich systemów RAG w domenach krytycznych: (1) **citation-grounded generator** (Bielik 11B v3 + LlamaIndex z post-hoc citation alignment), (2) **hidden-states hallucination probe** trenowany na aktywacjach Bielika layer 47 (modern technique 2025-2026), (3) **3-tier NLI-based citation verifier** (mDeBERTa Tier 1 ✓ T1 PASS 80.6% → HerBERT-large Tier 2 fallback → LLM judge Tier 3 ablation) sprawdzający per-claim grounding w retrieved context. Pipeline objęty **continuous improvement loop** — failure cases (probe alarmy + verifier kontradykcje) trafiają do preference dataset → retrain probe co N cykli z A/B test gating.
 
-Studium przypadku: **polskie prawa konsumenta** (UPK + Kodeks cywilny art. 535-581 z ISAP, UE dyrektywy konsumenckie + TSUE orzeczenia z EUR-Lex, decyzje + raporty UOKiK, real consumer questions z fora prawne). Eval set ~110-160 par (60 UOKiK Q&A ready-made + 50-100 manual gold by autorka).
+Studium przypadku: **polskie prawa konsumenta** (UPK + Kodeks cywilny art. 535-581 z ISAP, UE dyrektywy konsumenckie + TSUE orzeczenia z EUR-Lex, decyzje + raporty UOKiK, real consumer questions z fora prawne). Eval set **200 par gold standard** (60 UOKiK Q&A ready-made + 140 manual gold by autorka — per DEC-005 2026-05-16).
 
 Wkład: **trzy publishable artefakty** na HuggingFace (Polish CitationBench dataset, hidden-states halu probe model, polish citation verifier model) + Gradio demo (3 zakładki: Chat / Inspect / Compare) + reprodukowalny pipeline MLOps. Komponenty open-source (Bielik 11B v3, BGE-M3, mDeBERTa, MLflow, Prefect, Evidently, Langfuse, Qdrant, SGLang).
 
@@ -115,7 +115,7 @@ Generator: `main_project/src/halu/halu_injector.py` (programatic templates, dete
 
 ### II.4.3 Eval set design
 
-- **Primary (~110-160 par):** UOKiK Q&A 60 par ready-made (✓ DONE, 55/60 z citations) + 50-100 par hand-annotated by autorka (weekend hyperfocus, diversity coverage: rare halu types, RODO/telekom edge cases)
+- **Primary (200 par gold per DEC-005):** UOKiK Q&A 60 par ready-made (✓ DONE, 55/60 z citations) + 140 par hand-annotated by autorka (weekend hyperfocus, diversity coverage: rare halu types, RODO/telekom edge cases)
 - **Secondary (~1000 par):** programatic z Bielik+NLI silver labels + spot-check 5% (50 par) by autorka
 
 ---
@@ -191,7 +191,7 @@ Decyzja post-Iter. 2 po empirical comparison (R7 ablation A4).
 
 ### II.8.2 Eval datasets
 
-- **Primary:** ~110-160 par manual gold (UOKiK 60 + autorka 50-100)
+- **Primary:** 200 par manual gold (UOKiK 60 + autorka 140) — per DEC-005 commitment
 - **Secondary:** ~1000 par silver labels (Bielik+NLI), spot-check 5%
 - **Out-of-distribution baseline:** explicit NIE testowane (Dubanowska 2025 evidence — OOD AUROC ≈ random; honest scope w R8 limitations)
 
@@ -282,7 +282,7 @@ Dataset jako wyróżniona standalone publishable artifact dla polish NLP communi
 | **2** | Ablations A1-A4 | Wszystkie 4 ablations zaszły z wynikami → R7 tabele |
 | **3** | Continuous improvement loop | 3 cykle retraining demonstrowalne + drift triggers |
 | **4** | Observability + Mirage critique | Langfuse + LGTM + Alertmanager production-ready |
-| **5** | Manual gold 50-100 par + 4-way verifier comp | Eval set complete; gliclass + LLM-judge ablations |
+| **5** | Manual gold 140 par + 4-way verifier comp | Eval set 200 par complete (60 UOKiK + 140 autorka per DEC-005); gliclass + LLM-judge ablations |
 | **6** | Gradio polish + HF publishing | 3 artefakty live na HF + DOI Zenodo + arXiv preprint |
 | **7** | R1-R8 writing | Drafty + cross-review + citation pass |
 | **8** | Finalization + submit | PJATK format + abstract PL+EN + bind |

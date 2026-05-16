@@ -132,10 +132,10 @@ Sign-off na temat + DEC-003 ADR + konspekt v3.2 + cleanup v3.1 archive + project
 
 ### Iteracja 5 — Manual gold standard + 4-way verifier
 
-**Done criterion:** Eval set complete (~110-160 par) + 4-way verifier comparison (mDeBERTa + HerBERT + gliclass + LLM-judge) reported.
+**Done criterion:** Eval set 200 par complete (per DEC-005) + 4-way verifier comparison (mDeBERTa + HerBERT + gliclass + LLM-judge) reported.
 
 **Twoja praca:**
-- [ ] **50-100 par hand-annotated** (weekend hyperfocus burst) — diversity coverage (paragraph mis-citation, temporal drift, fabrication w RODO/telekom edge cases)
+- [ ] **140 par hand-annotated** (weekend hyperfocus burst, per DEC-005 commitment) — diversity coverage (paragraph mis-citation, temporal drift, fabrication w RODO/telekom edge cases)
 - [ ] Eval 4-way verifier comparison na complete eval set
 - [ ] (Opcjonalnie) HerBERT-large + CDSC-E LoRA fine-tune (~1-2h A100) jeśli Iter. 1 wykazała potrzebę Tier 2
 
