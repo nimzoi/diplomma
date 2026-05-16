@@ -1,0 +1,13 @@
+{
+  "source": "federacja-konsumentow.org.pl",
+  "scrape_date": "2026-05-16",
+  "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+  "total_records": 5,
+  "records_with_citations": 1,
+  "avg_text_length": 4370.8,
+  "categories": {
+    "Umowa": 4,
+    "Rachunek bankowy": 1
+  },
+  "notes": "Tree-walk od 28 top categories; 5 discovered article URLs; 0 failures. License: brak explicit CC; framing: research/fair-use, attribution w source_url + metadata."
+}

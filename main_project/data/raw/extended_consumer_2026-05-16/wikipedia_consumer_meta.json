@@ -1,0 +1,26 @@
+{
+  "source": "pl.wikipedia.org",
+  "scrape_date": "2026-05-16",
+  "license": "CC BY-SA 4.0 (Wikipedia)",
+  "total_records": 34,
+  "records_with_citations": 10,
+  "avg_text_length": 2495.8,
+  "categories": {
+    "Prawa_konsumenta": 3,
+    "Ustawa_o_prawach_konsumenta": 3,
+    "Ochrona_praw_konsumenta": 3,
+    "Konsument_(prawo)": 3,
+    "Kredyt_konsumencki": 2,
+    "Reklamacja": 2,
+    "Rękojmia": 2,
+    "Niedozwolone_postanowienie_umowne": 2,
+    "Niezgodność_towaru_konsumpcyjnego_z_umową": 1,
+    "Urząd_Ochrony_Konkurencji_i_Konsumentów": 5,
+    "Klauzula_(prawo)": 3,
+    "Sprzedaż_konsumencka": 1,
+    "Federacja_Konsumentów": 1,
+    "Inspekcja_Handlowa": 1,
+    "Umowa": 2
+  },
+  "notes": "Kurated lista 15 artykułów; section-level chunking przez H2, MIN_CHUNK_CHARS=200. Skipped: Przypisy, Bibliografia, Linki zewnętrzne, Zobacz też, Uwagi."
+}
