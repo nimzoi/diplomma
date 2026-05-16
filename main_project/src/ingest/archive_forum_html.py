@@ -69,8 +69,8 @@ import signal
 import sys
 import time
 from collections.abc import Iterator
-from dataclasses import asdict, dataclass, field
-from datetime import datetime, timezone
+from dataclasses import dataclass, field
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
@@ -84,15 +84,13 @@ logger = logging.getLogger("ingest.archive_forum_html")
 
 # Per Magda — academic research, polite UA with contact:
 USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "consumer-rights-academic-research@pjwstk.edu.pl"
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) consumer-rights-academic-research@pjwstk.edu.pl"
 )
 # Slightly richer browser-like headers help with Cloudflare-fronted sites
 # (forumprawne.org). Some sites refuse responses with a clearly-non-browser UA.
 BROWSER_HEADERS = {
     "Accept": (
-        "text/html,application/xhtml+xml,application/xml;q=0.9,"
-        "image/avif,image/webp,*/*;q=0.8"
+        "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
     ),
     "Accept-Language": "pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7",
     "Accept-Encoding": "gzip, deflate, br",
@@ -129,11 +127,11 @@ DEFAULT_RATE_LIMIT_SEC = 1.0
 # we stay safely under the soft cap. Cost is ~1 min/12 records, acceptable for
 # 509 records (~45 min). The earlier 0.5s/req triggered persistent 429s after
 # ~100 records and the retry storm cost us little but throughput.
-REDDIT_RATE_LIMIT_SEC = 6.0
+REDDIT_RATE_LIMIT_SEC = 12.0
 # Reddit-specific extra wait when a 429 is encountered, on top of the per-
 # attempt exponential backoff. This is the dominant signal that we are being
 # rate-limited globally, so wait longer before any next request.
-REDDIT_429_COOLDOWN_SEC = 60.0
+REDDIT_429_COOLDOWN_SEC = 120.0
 RETRYABLE_STATUSES = {429, 502, 503, 504}
 
 
@@ -201,7 +199,7 @@ DOMAINS: dict[str, DomainConfig] = {
 
 
 def utc_now_iso() -> str:
-    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 def sha256_bytes(blob: bytes) -> str:
@@ -341,7 +339,7 @@ def download_one(
                 last_error,
             )
             if attempt < MAX_RETRIES:
-                time.sleep(min(2 ** attempt, 30))
+                time.sleep(min(2**attempt, 30))
                 continue
             break
 
@@ -365,9 +363,7 @@ def download_one(
                 "error": False,
                 "error_reason": None,
             }
-            meta_path.write_text(
-                json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
-            )
+            meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
             return DownloadResult(
                 question_id=question_id,
                 source_url=source_url,
@@ -393,23 +389,22 @@ def download_one(
             # actual auth failures) — treat as a rate-limit signal and back off
             # hard once before giving up. For non-Reddit domains, 403 is
             # genuine and we should not retry.
-            if domain.is_reddit:
-                if attempt == 0:
-                    backoff = REDDIT_429_COOLDOWN_SEC
-                    logger.warning(
-                        "[%s] %s attempt %d -> 403 Blocked, cooldown %ds",
-                        domain.name,
-                        question_id,
-                        attempt + 1,
-                        backoff,
-                    )
-                    time.sleep(backoff)
-                    last_error = "blocked_403"
-                    continue
+            if domain.is_reddit and attempt == 0:
+                backoff = REDDIT_429_COOLDOWN_SEC
+                logger.warning(
+                    "[%s] %s attempt %d -> 403 Blocked, cooldown %ds",
+                    domain.name,
+                    question_id,
+                    attempt + 1,
+                    backoff,
+                )
+                time.sleep(backoff)
+                last_error = "blocked_403"
+                continue
             last_error = "forbidden_403"
             break
         if resp.status_code in RETRYABLE_STATUSES:
-            backoff = min(2 ** attempt + 1, 30)
+            backoff = min(2**attempt + 1, 30)
             # Reddit 429 = global rate-limit signal — much longer wait
             if domain.is_reddit and resp.status_code == 429:
                 backoff = max(backoff, REDDIT_429_COOLDOWN_SEC)
@@ -443,9 +438,7 @@ def download_one(
         "error": True,
         "error_reason": last_error or "unknown",
     }
-    meta_path.write_text(
-        json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
     logger.warning(
         "[%s] %s FAILED status=%s reason=%s",
         domain.name,
@@ -479,7 +472,7 @@ _STOP_REQUESTED = False
 def _install_sigint_handler() -> None:
     """Make Ctrl+C set a flag instead of crashing mid-write."""
 
-    def handler(signum, frame):  # noqa: ARG001
+    def handler(_signum, _frame):
         global _STOP_REQUESTED
         if _STOP_REQUESTED:
             logger.warning("second SIGINT — exiting hard.")
@@ -540,9 +533,7 @@ def process_domain(
 
             # check idempotency BEFORE rate-limit sleep — skips should be fast
             question_id = record["question_id"]
-            blob_path = (
-                archive_dir / f"{domain.subdir}/{question_id}{domain.extension}"
-            )
+            blob_path = archive_dir / f"{domain.subdir}/{question_id}{domain.extension}"
             meta_path = blob_path.with_suffix(blob_path.suffix + ".meta.json")
             will_skip = (not force) and existing_meta_ok(meta_path, blob_path)
             if not will_skip:
@@ -551,9 +542,7 @@ def process_domain(
                 if elapsed < domain.rate_limit_sec:
                     time.sleep(domain.rate_limit_sec - elapsed)
 
-            result = download_one(
-                client, record, domain, archive_dir, force=force
-            )
+            result = download_one(client, record, domain, archive_dir, force=force)
             if not will_skip:
                 last_request_time = time.monotonic()
             results.append(result)
@@ -615,9 +604,7 @@ def write_manifest(
     existing_manifest_path = archive_dir / "_manifest.json"
     if existing_manifest_path.exists():
         try:
-            existing = json.loads(
-                existing_manifest_path.read_text(encoding="utf-8")
-            )
+            existing = json.loads(existing_manifest_path.read_text(encoding="utf-8"))
             entries.update(existing.get("entries", {}))
         except (json.JSONDecodeError, OSError):
             logger.warning("could not load existing manifest, starting fresh")
@@ -675,9 +662,7 @@ def write_manifest(
     }
 
     manifest_path = archive_dir / "_manifest.json"
-    manifest_path.write_text(
-        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     logger.info("manifest written: %s", manifest_path)
 
 
@@ -765,9 +750,7 @@ def rebuild_manifest_from_disk(archive_dir: Path, collection_dir: Path) -> None:
             "skipped_existing": 0,
             "not_found": total_nf,
             "forbidden": total_forb,
-            "records_total": sum(
-                c.get("total", 0) for c in per_domain_counts.values()
-            ),
+            "records_total": sum(c.get("total", 0) for c in per_domain_counts.values()),
             "archive_total_bytes": total_bytes,
             "archive_total_mb": round(total_bytes / (1024 * 1024), 2),
         },
@@ -775,9 +758,7 @@ def rebuild_manifest_from_disk(archive_dir: Path, collection_dir: Path) -> None:
         "rebuilt_from_disk": True,
     }
     manifest_path = archive_dir / "_manifest.json"
-    manifest_path.write_text(
-        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     logger.info(
         "rebuilt manifest: %s (%d entries across %d domains, total %.1f MB)",
         manifest_path,
@@ -802,9 +783,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--collection-dir",
         type=Path,
-        default=Path(
-            "main_project/data/raw/consumer_questions_polish_2026-05-16"
-        ),
+        default=Path("main_project/data/raw/consumer_questions_polish_2026-05-16"),
     )
     parser.add_argument(
         "--domains",

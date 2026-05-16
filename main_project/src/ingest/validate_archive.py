@@ -43,8 +43,7 @@ def main(argv: list[str] | None = None) -> int:
         "--archive-dir",
         type=Path,
         default=Path(
-            "D:/diplomma/main_project/data/raw/"
-            "consumer_questions_polish_2026-05-16/_archive"
+            "D:/diplomma/main_project/data/raw/consumer_questions_polish_2026-05-16/_archive"
         ),
     )
     args = parser.parse_args(argv)
@@ -126,16 +125,16 @@ def main(argv: list[str] | None = None) -> int:
         p["ok"] += 1
 
     print()
-    print(f"{'domain':<14} {'total':>6} {'ok':>6} {'miss':>6} {'sha!':>6} "
-          f"{'no-mk':>6} {'err':>6} {'avg-kb':>7} {'min-kb':>7} {'max-kb':>7}")
+    print(
+        f"{'domain':<14} {'total':>6} {'ok':>6} {'miss':>6} {'sha!':>6} "
+        f"{'no-mk':>6} {'err':>6} {'avg-kb':>7} {'min-kb':>7} {'max-kb':>7}"
+    )
     print("-" * 90)
     overall_ok = 0
     overall_total = 0
     for dom, p in sorted(per_domain.items()):
         avg_kb = round(p["sum_size"] / max(p["ok"], 1) / 1024.0, 1)
-        min_kb = (
-            round(p["min_size"] / 1024.0, 1) if p["min_size"] < 10**12 else 0.0
-        )
+        min_kb = round(p["min_size"] / 1024.0, 1) if p["min_size"] < 10**12 else 0.0
         max_kb = round(p["max_size"] / 1024.0, 1)
         print(
             f"{dom:<14} {p['total']:>6} {p['ok']:>6} "

@@ -10,7 +10,7 @@ import pytest
 from src.halu.dataset_builder import (
     load_consumer_questions,
     load_eli_chunks,
-    load_uokik_gold,
+    load_uokik_qa_chunks,
 )
 
 
@@ -24,11 +24,11 @@ class TestUokikLoading:
     def test_loads_real_uokik_pairs(self, raw_data_dir: Path, has_raw_data: bool) -> None:
         if not has_raw_data:
             pytest.skip("Raw UOKiK data not present (run scrape first)")
-        pairs = load_uokik_gold(raw_data_dir)
-        assert len(pairs) >= 50, f"Expected ≥50 UOKiK pairs, got {len(pairs)}"
+        chunks, _raw_qa = load_uokik_qa_chunks(raw_data_dir)
+        assert len(chunks) >= 50, f"Expected ≥50 UOKiK pairs, got {len(chunks)}"
         # 92% should have citations per scrape report
-        with_citations = sum(1 for p in pairs if p.cited_articles)
-        ratio = with_citations / len(pairs)
+        with_citations = sum(1 for c in chunks if c.cited_articles)
+        ratio = with_citations / len(chunks)
         assert ratio >= 0.85, f"Citation rate {ratio:.1%} < 85% threshold"
 
 

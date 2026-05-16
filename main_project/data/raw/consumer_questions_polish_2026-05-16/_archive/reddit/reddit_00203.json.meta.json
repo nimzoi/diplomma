@@ -7,8 +7,8 @@
   "content_type": null,
   "size_bytes": null,
   "sha256": null,
-  "download_date": "2026-05-16T08:19:18Z",
-  "duration_sec": 0.451,
+  "download_date": "2026-05-16T08:56:20Z",
+  "duration_sec": 60.762,
   "attempt": 6,
   "error": true,
   "error_reason": "forbidden_403"

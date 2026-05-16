@@ -145,38 +145,55 @@
 
 ---
 
-## Stats forecast v0.4 → v0.5 (strict policy)
+## Stats v0.4 → v0.5 (strict policy) — ACTUAL po build (2026-05-16 10:44)
 
-| Kategoria | v0.4 chunks | v0.5 forecast (strict) | Drop |
+**Input (po dedup):** 17,862 chunks → **Kept:** 11,000 (61.6%) → **Dropped:** 6,862 (38.4%).
+
+Reduction trochę mniejsza niż założone „~50%" w prompt — wynika z:
+- RF insurance filter dropped 406 chunks (przewidywano ~1,400-1,600) — threshold ≥3 insurance keywords AND 0 banking-credit keywords okazał się dość konserwatywny. Większość RF PDFs ma w treści kombinację ubezpieczenia+banking, więc filter content-based zachowuje je.
+- SN CHF filter dropped 63 chunks (zbliżone do prognozy ~50).
+- S6 banki_consumer (ING) miało tylko 22 chunks pre-dedup, 12 po dedup (chunks zostały zdedupowane bo CSS pliki mają identyczny content).
+
+### Actual drops by reason (z chunks_filter audit log)
+
+| reason | count | uzasadnienie |
+|---|---|---|
+| `eli_DU/1964/296` | 2,077 | KPC — 96% NIE consumer-specific |
+| `eli_DU/2003/535` | 1,237 | Prawo upadłościowe — separate domain |
+| `eli_DU/2011/1175` | 856 | Usługi płatnicze — regulator-side |
+| `eli_DU/1997/939` | 663 | Prawo bankowe — regulator-bank side |
+| `rf_pure_insurance` | 406 | RF PDF pure-insurance (≥3 ins kw, 0 credit kw) |
+| `s6_infor.pl` | 398 | Generic legal/finance journalism |
+| `s6_bankier.pl` | 299 | Generic finance journalism |
+| `s6_prawo.pl` | 248 | Borderline professional/media |
+| `s6_bezprawnik.pl` | 200 | Opinion site, low quality |
+| `eli_DU/2003/2275` | 188 | UCHYLONA bezp. produktów |
+| `eli_DU/2000/271` | 83 | UCHYLONA ochrona praw konsumentów |
+| `sn_chf_content` | 63 | SN CHF/franki content |
+| `s6_gazetaprawna.pl` | 59 | Borderline media |
+| `eli_DU/2002/1176` | 42 | UCHYLONA sprzedaż konsumencka |
+| `s6_money.pl` | 31 | Generic finance journalism |
+| `s6_ing.pl` | 12 | ING CSS scrape artifacts (post-dedup) |
+| **TOTAL** | **6,862** | |
+
+### Kept by source_type (v0.5)
+
+| source_type | v0.4 | v0.5 | Δ |
 |---|---|---|---|
-| **ELI ustawy konsumenckie** (legal_statute) | 7,687 | ~3,138 | -4,549 |
-| – KPC | 2,084 | 0 | -2,084 |
-| – Prawo upadłościowe | 1,252 | 0 | -1,252 |
-| – Prawo bankowe | 665 | 0 | -665 |
-| – Usługi płatnicze | 888 | 0 | -888 |
-| – Uchylone ustawy (3) | 317 | 0 | -317 |
-| – Reszta (UPK+KC+UOKK+ADR+...) | 2,481 | ~3,138 (incl. komunikacja elektroniczna 797) | -657 |
-| **Consumer questions** (qa_raw) | 2,945 | 2,945 | 0 |
-| **Consumer documents** (E4) | 2,856 | ~1,250-1,450 | ~1,400-1,600 |
-| – UOKiK PDFs | 202 | 202 | 0 |
-| – RF PDFs | 2,105 | ~500-700 | ~1,400-1,600 |
-| – orzeczenia ms | 479 | 479 | 0 |
-| – Federacja | 70 | 70 | 0 |
-| **UE Dyrektywy** | 1,480 | 1,480 | 0 |
-| **TSUE** | 29 | 29 | 0 |
-| **UOKiK decyzje** | 26 | 26 | 0 |
-| **UOKiK Q&A** | 60 | 60 | 0 |
-| **SN orzeczenia** | 121 | ~70-90 | ~30-50 |
-| **Extended consumer (E1)** | 716 | 716 | 0 |
-| **S6 articles** (bez ING) | 2,179 | ~1,020 | ~1,160 |
-| – KEEP: ECC + UODO + KNF + UKE + URE | 920 | 920 | 0 |
-| – KEEP: konsument.gov.pl (z infor_pl 400 = konsument.gov.pl per source field) | (already 400 ECC?) | jak wyżej | — |
-| – DROP: bankier (299) + money (31) + infor (400) + gazeta (59) + prawo.pl (248) + bezprawnik (200) | 1,237 | 0 | -1,237 |
-| – DROP: ING banki (22) | 22 | 0 | -22 |
-| **TOTAL CHUNKS** | 17,862 | **~9,000-9,500** | **~8,400-8,900** |
-| **Synthetic halu pairs** | 240 | 240 (unchanged) | 0 |
+| legal_statute | 7,687 | 2,541 | -5,146 (drop full ustawy KPC/upadł./bank./płatnicz./uchyl.) |
+| qa_raw | 2,945 | 2,945 | 0 |
+| encyclopedic | 2,414 | 1,167 | -1,247 (drop bankier/money/infor/gazeta/prawo.pl/bezprawnik/ing) |
+| legal_document_pdf | 2,371 | 1,965 | -406 (drop RF pure-insurance) |
+| legal_ue_directive | 1,360 | 1,360 | 0 |
+| legal_court_judgment | 597 | 534 | -63 (drop SN CHF) |
+| qa_gold | 433 | 433 | 0 |
+| legal_tsue_judgment | 29 | 29 | 0 |
+| legal_uokik_decision | 26 | 26 | 0 |
+| **TOTAL** | **17,862** | **11,000** | **-6,862** |
 
-**Reduction ratio:** ~50% chunks dropped, ~50% retained. Zgodne z Wariant B target („~8-10k consumer_core focused").
+**Synthetic halu pairs (v0.5):** 5,402 (vs v0.4 240) — pipeline w międzyczasie rozszerzony przez współbieżną iterację (`generate_halu_pairs_from_legal_chunks` w `halu_injector.py` dodany; uruchomione z `--halu-injection-per-pair=10` + `--halu-legal-chunks-sample=1500`). Pełen breakdown w `halu_pairs.jsonl`.
+
+**Verdict:** v0.5 osiągnął target „consumer_core focused" z 11k chunks + 5,4k halu pairs (ratio 1:0.5 chunks:halu). To **lepiej** niż v0.4 ratio (1:0.013) — krytyka § Q5 adresowana.
 
 ---
 

@@ -1,11 +1,38 @@
 {
   "manifest_version": "1.0",
-  "created_at": "2026-05-16T08:43:39Z",
+  "created_at": "2026-05-16T09:07:49Z",
   "collection_dir": "D:\\diplomma\\main_project\\data\\raw\\consumer_questions_polish_2026-05-16",
   "domains": [
+    "e_prawnik",
+    "forumprawne",
+    "reddit",
     "legal_other"
   ],
   "counts": {
+    "e_prawnik": {
+      "ok": 954,
+      "error": 0,
+      "skipped_existing": 0,
+      "not_found": 0,
+      "forbidden": 0,
+      "total": 954
+    },
+    "forumprawne": {
+      "ok": 1202,
+      "error": 0,
+      "skipped_existing": 0,
+      "not_found": 0,
+      "forbidden": 0,
+      "total": 1202
+    },
+    "reddit": {
+      "ok": 198,
+      "error": 8,
+      "skipped_existing": 0,
+      "not_found": 0,
+      "forbidden": 8,
+      "total": 206
+    },
     "legal_other": {
       "ok": 302,
       "error": 0,
@@ -16,14 +43,14 @@
     }
   },
   "totals": {
-    "ok": 302,
-    "error": 0,
+    "ok": 2656,
+    "error": 8,
     "skipped_existing": 0,
     "not_found": 0,
-    "forbidden": 0,
-    "records_total": 302,
-    "archive_total_bytes": 203361756,
-    "archive_total_mb": 193.94
+    "forbidden": 8,
+    "records_total": 2664,
+    "archive_total_bytes": 204041086,
+    "archive_total_mb": 194.59
   },
   "entries": {
     "eprawnik_00001": {
@@ -32929,15 +32956,15 @@
     "reddit_00195": {
       "domain": "reddit",
       "source_url": "https://www.reddit.com/r/Polska/comments/1rs47u9/program_safe_dyskusja/",
-      "archive_file": null,
-      "http_status": 403,
-      "content_type": null,
-      "size_bytes": null,
-      "sha256": null,
-      "download_date": "2026-05-16T08:30:09Z",
-      "duration_sec": 60.542,
-      "error": true,
-      "error_reason": "forbidden_403",
+      "archive_file": "reddit/reddit_00195.json",
+      "http_status": 200,
+      "content_type": "application/json; charset=UTF-8",
+      "size_bytes": 418432,
+      "sha256": "378a347831b9fac6bd53d5ad326c3f7af3c923dd451e026046398c9732621d48",
+      "download_date": "2026-05-16T08:49:40Z",
+      "duration_sec": 1.141,
+      "error": false,
+      "error_reason": null,
       "skipped_existing": false
     },
     "reddit_00196": {
@@ -32971,15 +32998,15 @@
     "reddit_00198": {
       "domain": "reddit",
       "source_url": "https://www.reddit.com/r/Polska/comments/1pp40oe/praca_w_polsce_to_żart_nie_opłaca_się_być_uczciwym/",
-      "archive_file": null,
-      "http_status": 403,
-      "content_type": null,
-      "size_bytes": null,
-      "sha256": null,
-      "download_date": "2026-05-16T08:31:16Z",
-      "duration_sec": 60.592,
-      "error": true,
-      "error_reason": "forbidden_403",
+      "archive_file": "reddit/reddit_00198.json",
+      "http_status": 200,
+      "content_type": "application/json; charset=UTF-8",
+      "size_bytes": 260684,
+      "sha256": "6678d59feef5daa6046efcf81b21ad6e893cfefc4a71558d83f83337565275ef",
+      "download_date": "2026-05-16T09:04:54Z",
+      "duration_sec": 0.775,
+      "error": false,
+      "error_reason": null,
       "skipped_existing": false
     },
     "reddit_00199": {
@@ -32990,8 +33017,8 @@
       "content_type": null,
       "size_bytes": null,
       "sha256": null,
-      "download_date": "2026-05-16T08:32:22Z",
-      "duration_sec": 60.581,
+      "download_date": "2026-05-16T09:07:07Z",
+      "duration_sec": 120.593,
       "error": true,
       "error_reason": "forbidden_403",
       "skipped_existing": false
@@ -33004,8 +33031,8 @@
       "content_type": null,
       "size_bytes": null,
       "sha256": null,
-      "download_date": "2026-05-16T08:33:29Z",
-      "duration_sec": 60.626,
+      "download_date": "2026-05-16T08:53:00Z",
+      "duration_sec": 60.594,
       "error": true,
       "error_reason": "forbidden_403",
       "skipped_existing": false
@@ -33018,8 +33045,8 @@
       "content_type": null,
       "size_bytes": null,
       "sha256": null,
-      "download_date": "2026-05-16T08:34:36Z",
-      "duration_sec": 60.628,
+      "download_date": "2026-05-16T08:54:06Z",
+      "duration_sec": 60.604,
       "error": true,
       "error_reason": "forbidden_403",
       "skipped_existing": false
@@ -33032,8 +33059,8 @@
       "content_type": null,
       "size_bytes": null,
       "sha256": null,
-      "download_date": "2026-05-16T08:19:11Z",
-      "duration_sec": 0.447,
+      "download_date": "2026-05-16T08:55:13Z",
+      "duration_sec": 60.611,
       "error": true,
       "error_reason": "forbidden_403",
       "skipped_existing": false
@@ -33046,8 +33073,8 @@
       "content_type": null,
       "size_bytes": null,
       "sha256": null,
-      "download_date": "2026-05-16T08:19:18Z",
-      "duration_sec": 0.451,
+      "download_date": "2026-05-16T08:56:20Z",
+      "duration_sec": 60.762,
       "error": true,
       "error_reason": "forbidden_403",
       "skipped_existing": false
@@ -33060,8 +33087,8 @@
       "content_type": null,
       "size_bytes": null,
       "sha256": null,
-      "download_date": "2026-05-16T08:19:24Z",
-      "duration_sec": 0.259,
+      "download_date": "2026-05-16T08:57:26Z",
+      "duration_sec": 60.552,
       "error": true,
       "error_reason": "forbidden_403",
       "skipped_existing": false
@@ -33074,8 +33101,8 @@
       "content_type": null,
       "size_bytes": null,
       "sha256": null,
-      "download_date": "2026-05-16T08:19:31Z",
-      "duration_sec": 0.493,
+      "download_date": "2026-05-16T08:58:33Z",
+      "duration_sec": 60.772,
       "error": true,
       "error_reason": "forbidden_403",
       "skipped_existing": false
@@ -33088,8 +33115,8 @@
       "content_type": null,
       "size_bytes": null,
       "sha256": null,
-      "download_date": "2026-05-16T08:19:37Z",
-      "duration_sec": 0.306,
+      "download_date": "2026-05-16T08:59:40Z",
+      "duration_sec": 60.665,
       "error": true,
       "error_reason": "forbidden_403",
       "skipped_existing": false
@@ -37322,5 +37349,6 @@
       "error_reason": null,
       "skipped_existing": false
     }
-  }
+  },
+  "rebuilt_from_disk": true
 }
