@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00127",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1s9q24z/tym_razem_prywatne_kliniki_lecą_sobie_w_kulki/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1s9q24z/tym_razem_prywatne_kliniki_lecą_sobie_w_kulki/.json",
+  "archive_file": "reddit/reddit_00127.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 95955,
+  "sha256": "0d2b5f57c61d493a9e871e20a1bde32dd38e67a383cb5f118bc50ec120811cee",
+  "download_date": "2026-05-16T08:11:03Z",
+  "duration_sec": 0.58,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

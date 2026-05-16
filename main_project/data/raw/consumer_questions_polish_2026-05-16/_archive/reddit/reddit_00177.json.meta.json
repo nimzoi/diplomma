@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00177",
+  "source_url": "https://www.reddit.com/r/Polska/comments/fsjea8/oszczędności_a_korona/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/fsjea8/oszczędności_a_korona/.json",
+  "archive_file": "reddit/reddit_00177.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 35389,
+  "sha256": "76cceb5ed5e2b1f3bca89b94d69ba96eea53aad503962a91d20ca885fe55298a",
+  "download_date": "2026-05-16T08:16:28Z",
+  "duration_sec": 0.356,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

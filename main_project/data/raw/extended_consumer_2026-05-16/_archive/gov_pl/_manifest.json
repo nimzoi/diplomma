@@ -1,0 +1,83 @@
+{
+  "source": "gov.pl",
+  "source_dir": "main_project\\data\\raw\\extended_consumer_2026-05-16",
+  "scrape_date": "2026-05-16",
+  "stats": {
+    "total_entries": 5,
+    "total_errors": 0,
+    "total_bytes": 182481
+  },
+  "entries": [
+    {
+      "doc_id": "gov_pl_001_prawa-konsumenta-portal-informacyjny__bdfd62d6",
+      "source_url": "https://www.gov.pl/web/gov/prawa-konsumenta-portal-informacyjny",
+      "archive_path": "_archive/gov_pl/gov_pl_001_prawa-konsumenta-portal-informacyjny__bdfd62d6.html",
+      "content_type": "text/html",
+      "size_bytes": 14126,
+      "sha256": "a39eb0580c7114cd6ca8c878e8e047bcce0d96ddf2bff3f28b7a7b1b806352b6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "gov_pl_001_prawa-konsumenta-portal-informacyjny"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (gov.pl, materiały rządowe)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "gov_pl_002_skorzystaj-z-pomocy-dla-konsumentow__05bcdc01",
+      "source_url": "https://www.gov.pl/web/gov/skorzystaj-z-pomocy-dla-konsumentow",
+      "archive_path": "_archive/gov_pl/gov_pl_002_skorzystaj-z-pomocy-dla-konsumentow__05bcdc01.html",
+      "content_type": "text/html",
+      "size_bytes": 20719,
+      "sha256": "3aabbe6771288b31169a4fd8e204fa95bf0b6d686d150f0143cf04bef23c140e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "gov_pl_002_skorzystaj-z-pomocy-dla-konsumentow"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (gov.pl, materiały rządowe)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "gov_pl_003_rozwiaz-spor-przez-mediacje__ea2b8a13",
+      "source_url": "https://www.gov.pl/web/gov/rozwiaz-spor-przez-mediacje",
+      "archive_path": "_archive/gov_pl/gov_pl_003_rozwiaz-spor-przez-mediacje__ea2b8a13.html",
+      "content_type": "text/html",
+      "size_bytes": 76301,
+      "sha256": "01b6af84e7f1610e4f290b241c7d0e503c91876def2b158b88999aa2d386f0dd",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "gov_pl_003_rozwiaz-spor-przez-mediacje"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (gov.pl, materiały rządowe)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "gov_pl_004_skorzystaj-z-darmowej-pomocy-prawnej__1aeb4c12",
+      "source_url": "https://www.gov.pl/web/gov/skorzystaj-z-darmowej-pomocy-prawnej",
+      "archive_path": "_archive/gov_pl/gov_pl_004_skorzystaj-z-darmowej-pomocy-prawnej__1aeb4c12.html",
+      "content_type": "text/html",
+      "size_bytes": 23553,
+      "sha256": "82997320db18a3445ec33e5c35a9ecfb85fa5a1911aad9eb6a42f027c177e627",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "gov_pl_004_skorzystaj-z-darmowej-pomocy-prawnej"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (gov.pl, materiały rządowe)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "gov_pl_005_zloz-zawiadomienie-o-braku-dostepnosci-p__8e5cfd0d",
+      "source_url": "https://www.gov.pl/web/gov/zloz-zawiadomienie-o-braku-dostepnosci-produktu-lub-uslugi",
+      "archive_path": "_archive/gov_pl/gov_pl_005_zloz-zawiadomienie-o-braku-dostepnosci-p__8e5cfd0d.html",
+      "content_type": "text/html",
+      "size_bytes": 47782,
+      "sha256": "fca52d17661fa0bd949ed5c94b73c254ddb1497814d645625db24ca76839e9a4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "gov_pl_005_zloz-zawiadomienie-o-braku-dostepnosci-p"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (gov.pl, materiały rządowe)",
+      "http_status": 200
+    }
+  ],
+  "errors": []
+}

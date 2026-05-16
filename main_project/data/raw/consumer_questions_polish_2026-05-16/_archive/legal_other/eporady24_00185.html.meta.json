@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00185",
+  "source_url": "https://www.eporady24.pl/skrocenie-pobytu-w-hotelu-czy-trzeba-zaplacic-za-cala-rezerwacje,pytania,4,47,28947.html",
+  "fetch_url": "https://www.eporady24.pl/skrocenie-pobytu-w-hotelu-czy-trzeba-zaplacic-za-cala-rezerwacje,pytania,4,47,28947.html",
+  "archive_file": "legal_other/eporady24_00185.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23850,
+  "sha256": "ea8ccaa204f1d1fd2bc9b56bbf17d87c619adef699d9db875f297a119a7d0242",
+  "download_date": "2026-05-16T08:24:45Z",
+  "duration_sec": 0.17,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

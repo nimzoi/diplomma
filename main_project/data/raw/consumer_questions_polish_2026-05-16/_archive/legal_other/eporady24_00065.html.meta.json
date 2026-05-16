@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00065",
+  "source_url": "https://www.eporady24.pl/reklamacja_telewizora,pytania,4,54,8684.html",
+  "fetch_url": "https://www.eporady24.pl/reklamacja_telewizora,pytania,4,54,8684.html",
+  "archive_file": "legal_other/eporady24_00065.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23794,
+  "sha256": "0ff14181fd520a98000968db08846b86a79c7598d1c94eff8aa97f162d1a052e",
+  "download_date": "2026-05-16T08:22:23Z",
+  "duration_sec": 0.339,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00289",
+  "source_url": "https://www.eporady24.pl/sprzedaz-mieszkania-gdy-jest-kilku-wlascicieli,pytania,4,47,20515.html",
+  "fetch_url": "https://www.eporady24.pl/sprzedaz-mieszkania-gdy-jest-kilku-wlascicieli,pytania,4,47,20515.html",
+  "archive_file": "legal_other/eporady24_00289.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22582,
+  "sha256": "8c785e32921762b7d5ad045cfd8f43b44cac31e35b567ddd8b05628c973f797b",
+  "download_date": "2026-05-16T08:26:48Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

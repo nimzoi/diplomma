@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00105",
+  "source_url": "https://www.eporady24.pl/nieodebranie_zamowionego_towaru,pytania,17,110,6498.html",
+  "fetch_url": "https://www.eporady24.pl/nieodebranie_zamowionego_towaru,pytania,17,110,6498.html",
+  "archive_file": "legal_other/eporady24_00105.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23343,
+  "sha256": "b9cd2ba8889c5812517cbcefe2457e65a72d311ad470718d081fba21ab08018d",
+  "download_date": "2026-05-16T08:23:10Z",
+  "duration_sec": 0.29,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,14 +1,132 @@
 {
   "sweep_date": "2026-05-16",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36 (PJATK thesis citation-grounded polish RAG - consumer-rights-academic-research@pjwstk.edu.pl)",
-  "sources": {
-    "orzeczenia": {
-      "entries": 8,
-      "errors": 27,
-      "total_bytes": 110721
+  "skipped_pre_existing": {
+    "eli_pdf_2026-05-16": {
+      "note": "ELI ustawy konsumenckie — already complete (20 PDFów, 60 MB) per data/raw/eli_pdf_2026-05-16/_download_summary.json. NOT touched by this sweep."
     }
   },
-  "total_bytes": 110721,
-  "total_entries": 8,
-  "total_errors": 27
+  "sources": {
+    "uokik_pdfs": {
+      "entries": 8,
+      "errors": 0,
+      "total_bytes": 32631891,
+      "format": "PDF",
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)"
+    },
+    "rf_pdfs": {
+      "entries": 36,
+      "errors": 0,
+      "total_bytes": 191452998,
+      "format": "PDF",
+      "license": "urzędowe (Art. 4 PrAut)",
+      "waf": "Incapsula bypass via per_request_session=True"
+    },
+    "federacja_docs": {
+      "entries": 5,
+      "errors": 0,
+      "total_bytes": 2068207,
+      "format": "3 PDF + 2 HTML",
+      "license": "fair-use Art. 29 PrAut"
+    },
+    "orzeczenia": {
+      "entries": 8,
+      "errors": 30,
+      "total_bytes": 117458,
+      "format": "HTML (TSPD-wrapped)",
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+      "note": "ms.gov.pl rate-limit aggressive — 8/38 successful via httpx; 22 raw HTML files na dysku łącznie (część z innego scrape process w trakcie sweep). Re-run later or use playwright fallback. Content extraction needs JS execution downstream."
+    },
+    "ue_dyrektywy": {
+      "entries": 16,
+      "errors": 0,
+      "total_bytes": 8254665,
+      "format": "8 PDF + 8 HTML (both formats per CELEX)",
+      "license": "(c) European Union, Decyzja 2011/833/UE — free reuse z attribution"
+    },
+    "tsue": {
+      "entries": 58,
+      "errors": 0,
+      "total_bytes": 31536336,
+      "format": "29 PDF + 29 HTML (both formats per case)",
+      "license": "(c) European Union, Decyzja 2011/833/UE — free reuse z attribution"
+    },
+    "wikipedia": {
+      "entries": 15,
+      "errors": 0,
+      "total_bytes": 1251328,
+      "format": "HTML (15 unique URLs, 34 section-chunks)",
+      "license": "CC BY-SA 4.0"
+    },
+    "federacja_e1": {
+      "entries": 192,
+      "errors": 0,
+      "total_bytes": 1944905,
+      "format": "HTML",
+      "license": "fair-use Art. 29 PrAut (NGO porady)"
+    },
+    "uokik_news": {
+      "entries": 111,
+      "errors": 0,
+      "total_bytes": 10292007,
+      "format": "HTML (aktualności)",
+      "license": "urzędowe (Art. 4 PrAut)"
+    },
+    "gov_pl": {
+      "entries": 5,
+      "errors": 0,
+      "total_bytes": 182481,
+      "format": "HTML",
+      "license": "urzędowe (Art. 4 PrAut)"
+    },
+    "rf_faq": {
+      "entries": 0,
+      "errors": 25,
+      "total_bytes": 0,
+      "format": "HTML (25 kategorii FAQ)",
+      "license": "urzędowe (Art. 4 PrAut)",
+      "note": "BLOCKED by Incapsula WAF as of 2026-05-16 ~10:00. All 25 URLs return _Incapsula_Resource challenge body (~840 bytes). Re-attempts at any rate fail. Mitigations: wait 24h + retry; OR use playwright fallback (existing infrastructure)."
+    },
+    "uokik_qa": {
+      "entries": 5,
+      "errors": 0,
+      "total_bytes": 509575,
+      "format": "HTML (5 kategorii, 60 par Q&A)",
+      "license": "urzędowe (Art. 4 PrAut)"
+    },
+    "consumer_questions": {
+      "entries": 80,
+      "errors": 0,
+      "total_bytes": 4331565,
+      "format": "HTML sample (20 records × 4 fora = 80 plików)",
+      "license": "fair-use research sample",
+      "note": "Full archive (2,967 records) skipped per task brief. Sample-only for proof-of-format. Pre-existing _archive/ from another tool already exists (~834 plików w e_prawnik/) — coexist via separate _manifest_archive_sweep.json filename."
+    }
+  },
+  "total_bytes": 285063191,
+  "total_entries": 614,
+  "total_errors": 85,
+  "totals_per_priority": {
+    "p1_core_documents": {
+      "sources": ["uokik_pdfs", "rf_pdfs", "federacja_docs", "orzeczenia"],
+      "entries": 57,
+      "bytes": 226270554
+    },
+    "p2_eu_law": {
+      "sources": ["ue_dyrektywy", "tsue"],
+      "entries": 74,
+      "bytes": 39791001
+    },
+    "p3_extended_html": {
+      "sources": ["wikipedia", "federacja_e1", "uokik_news", "gov_pl", "rf_faq"],
+      "entries": 323,
+      "bytes": 13670721,
+      "blocked_count": 25
+    },
+    "p4_qa_questions": {
+      "sources": ["uokik_qa", "consumer_questions"],
+      "entries": 85,
+      "bytes": 4841140
+    }
+  }
 }

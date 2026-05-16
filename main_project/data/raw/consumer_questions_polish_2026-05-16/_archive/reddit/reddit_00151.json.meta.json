@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00151",
+  "source_url": "https://www.reddit.com/r/Polska/comments/sfealz/seba_z_allegro_mnie_oszukał/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/sfealz/seba_z_allegro_mnie_oszukał/.json",
+  "archive_file": "reddit/reddit_00151.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 102751,
+  "sha256": "20494047c160a29b051ac3e4e0578c5c70af966fce1156e8798bc0282c4cbe9e",
+  "download_date": "2026-05-16T08:13:41Z",
+  "duration_sec": 0.446,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

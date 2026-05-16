@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00096",
+  "source_url": "https://www.eporady24.pl/aukcja_grzecznosciowa,pytania,17,82,6383.html",
+  "fetch_url": "https://www.eporady24.pl/aukcja_grzecznosciowa,pytania,17,82,6383.html",
+  "archive_file": "legal_other/eporady24_00096.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 24374,
+  "sha256": "7256c9b60cef4cd0ec45dda293ec62b97c8b918fd99aa2e39635bccdf858b929",
+  "download_date": "2026-05-16T08:23:00Z",
+  "duration_sec": 0.148,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

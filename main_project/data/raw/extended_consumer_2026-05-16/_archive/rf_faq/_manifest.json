@@ -1,0 +1,20 @@
+{
+  "source": "rf.gov.pl (FAQ)",
+  "source_dir": "main_project\\data\\raw\\extended_consumer_2026-05-16",
+  "scrape_date": "2026-05-16",
+  "stats": {
+    "total_entries": 0,
+    "total_errors": 25,
+    "total_bytes": 0,
+    "blocked": true,
+    "reason": "Incapsula WAF actively blocking all 25 category URLs as of 2026-05-16 ~10:00. Original scrape (extended/rzecznik_finansowy.py) worked earlier but post-burst the WAF is now blocking even fresh per-request sessions. Re-attempts at any rate return _Incapsula_Resource challenge body (~840 bytes). Mitigation options: (1) wait 24h + retry; (2) use playwright-based fetch (existing playwright_sources/ infrastructure) — JS challenge can be solved by browser; (3) accept that only RF FAQ extracted text (rzecznik_finansowy_faq.jsonl, 374 records) is on disk without raw HTML archive."
+  },
+  "entries": [],
+  "errors": [
+    {
+      "doc_id": "all_25_categories",
+      "source_url": "https://rf.gov.pl/edukacja/baza-wiedzy/najczestsze-pytania-i-odpowiedzi-faq/<category-slug>/",
+      "reason": "Incapsula_WAF_blocked"
+    }
+  ]
+}

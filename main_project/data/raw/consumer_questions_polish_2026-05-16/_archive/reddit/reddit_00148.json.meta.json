@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00148",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1hy6bqi/przedmiot_na_wymiar_nie_był_zgodny_z_zamówieniem/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1hy6bqi/przedmiot_na_wymiar_nie_był_zgodny_z_zamówieniem/.json",
+  "archive_file": "reddit/reddit_00148.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 26913,
+  "sha256": "b45f13dc53b599d55da98a909b680a9df474322a31dc57295944c841b2f3e293",
+  "download_date": "2026-05-16T08:13:21Z",
+  "duration_sec": 0.33,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00100",
+  "source_url": "https://www.eporady24.pl/niesluszne_zawieszenie_konta_na_allegro,pytania,17,82,969.html",
+  "fetch_url": "https://www.eporady24.pl/niesluszne_zawieszenie_konta_na_allegro,pytania,17,82,969.html",
+  "archive_file": "legal_other/eporady24_00100.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22675,
+  "sha256": "ee6a69229454df556bcd884c74e44d50e3ec55a3c382a25201f8e004c64c3457",
+  "download_date": "2026-05-16T08:23:04Z",
+  "duration_sec": 0.404,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

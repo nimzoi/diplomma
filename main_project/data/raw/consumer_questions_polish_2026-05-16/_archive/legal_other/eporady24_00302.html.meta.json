@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00302",
+  "source_url": "https://www.eporady24.pl/bar_szybkiej_obslugi_nieodebrane_zamowienia,pytania,4,47,17272.html",
+  "fetch_url": "https://www.eporady24.pl/bar_szybkiej_obslugi_nieodebrane_zamowienia,pytania,4,47,17272.html",
+  "archive_file": "legal_other/eporady24_00302.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22154,
+  "sha256": "43e7428940f6e20c6d9925b4ab63c9e18f9828124b13023cf2792bd0de44b07a",
+  "download_date": "2026-05-16T08:27:03Z",
+  "duration_sec": 0.136,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

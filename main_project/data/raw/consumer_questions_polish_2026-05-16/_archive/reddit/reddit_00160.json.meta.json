@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00160",
+  "source_url": "https://www.reddit.com/r/Polska/comments/18muvd2/nieodebrana_paczka_z_paczkomatu/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/18muvd2/nieodebrana_paczka_z_paczkomatu/.json",
+  "archive_file": "reddit/reddit_00160.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 16851,
+  "sha256": "0f79a925d1d0c04c954900a8cd28c5a34a38dbfaee20c20ca324e2bb6663e4ea",
+  "download_date": "2026-05-16T08:14:39Z",
+  "duration_sec": 0.342,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

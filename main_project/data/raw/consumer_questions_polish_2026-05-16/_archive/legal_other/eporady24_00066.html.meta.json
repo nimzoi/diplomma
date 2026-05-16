@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00066",
+  "source_url": "https://www.eporady24.pl/zwrot_pieniedzy_za_kurs,pytania,4,54,8493.html",
+  "fetch_url": "https://www.eporady24.pl/zwrot_pieniedzy_za_kurs,pytania,4,54,8493.html",
+  "archive_file": "legal_other/eporady24_00066.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22949,
+  "sha256": "25eb158ef8fc8c6a40ca9aa597346b6b8c83ff86e2dc2347b4d578cb9083c187",
+  "download_date": "2026-05-16T08:22:24Z",
+  "duration_sec": 0.144,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

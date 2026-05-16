@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00111",
+  "source_url": "https://www.eporady24.pl/internetowa_galeria_sztuki,pytania,17,110,13423.html",
+  "fetch_url": "https://www.eporady24.pl/internetowa_galeria_sztuki,pytania,17,110,13423.html",
+  "archive_file": "legal_other/eporady24_00111.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23032,
+  "sha256": "e872a1c703891803472b32ccde052f54dd712607c3dbe3ad920b82fa1a45e567",
+  "download_date": "2026-05-16T08:23:17Z",
+  "duration_sec": 0.129,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

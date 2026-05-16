@@ -109,8 +109,14 @@ BROWSER_HEADERS = {
 }
 
 REDDIT_HEADERS = {
-    # Reddit prefers a real-looking UA over a generic one; it rate-limits more
-    # aggressively for anything that looks like a bot.
+    # Reddit's unauthenticated `.json` endpoint rate-limits and blocks
+    # aggressively for anything that looks bot-like. The PJATK academic UA we
+    # use for the other domains gets 403-blocked here, so use a plain Chrome UA
+    # for Reddit specifically.
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+    ),
     "Accept": "application/json,text/plain,*/*",
     "Accept-Language": "pl-PL,pl;q=0.9,en;q=0.7",
 }
@@ -173,7 +179,10 @@ DOMAINS: dict[str, DomainConfig] = {
         extension=".json",
         rate_limit_sec=REDDIT_RATE_LIMIT_SEC,
         is_reddit=True,
-        headers={**REDDIT_HEADERS, "User-Agent": USER_AGENT},
+        # NB: REDDIT_HEADERS already contains its own Chrome User-Agent —
+        # do NOT overwrite it with the academic USER_AGENT (Reddit 403s on
+        # academic UAs in mass and our IP gets banned for ~30 min).
+        headers=dict(REDDIT_HEADERS),
     ),
     "legal_other": DomainConfig(
         name="legal_other",
@@ -376,9 +385,29 @@ def download_one(
         if resp.status_code == 404:
             last_error = "not_found"
             break  # no retries on 404
-        if resp.status_code in (401, 403):
-            last_error = f"forbidden_{resp.status_code}"
-            break  # no retries — auth/blocked
+        if resp.status_code == 401:
+            last_error = "forbidden_401"
+            break
+        if resp.status_code == 403:
+            # Reddit returns "403 Blocked" for IP-rate-limited clients (not
+            # actual auth failures) — treat as a rate-limit signal and back off
+            # hard once before giving up. For non-Reddit domains, 403 is
+            # genuine and we should not retry.
+            if domain.is_reddit:
+                if attempt == 0:
+                    backoff = REDDIT_429_COOLDOWN_SEC
+                    logger.warning(
+                        "[%s] %s attempt %d -> 403 Blocked, cooldown %ds",
+                        domain.name,
+                        question_id,
+                        attempt + 1,
+                        backoff,
+                    )
+                    time.sleep(backoff)
+                    last_error = "blocked_403"
+                    continue
+            last_error = "forbidden_403"
+            break
         if resp.status_code in RETRYABLE_STATUSES:
             backoff = min(2 ** attempt + 1, 30)
             # Reddit 429 = global rate-limit signal — much longer wait
@@ -490,6 +519,12 @@ def process_domain(
         "forbidden": 0,
         "total": total,
     }
+    # Kill switch: if we see many consecutive failures, abort this domain so we
+    # do not burn the whole queue against a hard IP block. We keep the partial
+    # progress; a later run with a fresh IP (or after a long cooldown) can
+    # pick up where we left off thanks to idempotency.
+    consecutive_failures = 0
+    CONSECUTIVE_FAILURE_KILL_SWITCH = 25
 
     with httpx.Client(
         headers=domain.headers,
@@ -525,16 +560,28 @@ def process_domain(
 
             if result.skipped_existing:
                 counts["skipped_existing"] += 1
+                consecutive_failures = 0
             elif result.error:
                 counts["error"] += 1
                 if result.error_reason == "not_found":
                     counts["not_found"] += 1
-                elif result.error_reason and result.error_reason.startswith(
-                    "forbidden"
+                elif result.error_reason and (
+                    result.error_reason.startswith("forbidden")
+                    or result.error_reason == "blocked_403"
                 ):
                     counts["forbidden"] += 1
+                consecutive_failures += 1
+                if consecutive_failures >= CONSECUTIVE_FAILURE_KILL_SWITCH:
+                    logger.error(
+                        "[%s] kill switch: %d consecutive failures, aborting "
+                        "domain (partial progress kept).",
+                        domain.name,
+                        consecutive_failures,
+                    )
+                    break
             else:
                 counts["ok"] += 1
+                consecutive_failures = 0
 
             if idx % 50 == 0 or idx == total:
                 logger.info(
@@ -556,8 +603,26 @@ def write_manifest(
     per_domain_results: dict[str, list[DownloadResult]],
     per_domain_counts: dict[str, dict[str, int]],
 ) -> None:
-    """Aggregate per-domain results into ``_manifest.json``."""
+    """Aggregate per-domain results into ``_manifest.json``.
+
+    Preserves entries from previous runs by reading the existing manifest
+    first, then overlaying current-run results. This makes the manifest
+    cumulative across resumed runs.
+    """
     entries: dict[str, dict[str, Any]] = {}
+
+    # Load existing manifest entries (from previous runs / other domains)
+    existing_manifest_path = archive_dir / "_manifest.json"
+    if existing_manifest_path.exists():
+        try:
+            existing = json.loads(
+                existing_manifest_path.read_text(encoding="utf-8")
+            )
+            entries.update(existing.get("entries", {}))
+        except (json.JSONDecodeError, OSError):
+            logger.warning("could not load existing manifest, starting fresh")
+
+    # Overlay current run results
     for domain_name, results in per_domain_results.items():
         for r in results:
             entries[r.question_id] = {
@@ -616,6 +681,122 @@ def write_manifest(
     logger.info("manifest written: %s", manifest_path)
 
 
+def rebuild_manifest_from_disk(archive_dir: Path, collection_dir: Path) -> None:
+    """Walk the archive subdirectories and rebuild ``_manifest.json``.
+
+    Useful when prior runs overwrote the manifest with only a subset of
+    domains, or to recover after a manual file edit. Source-of-truth is the
+    per-file ``*.meta.json`` blobs.
+    """
+    entries: dict[str, dict[str, Any]] = {}
+    per_domain_counts: dict[str, dict[str, int]] = {}
+
+    for key, domain in DOMAINS.items():
+        subdir = archive_dir / domain.subdir
+        if not subdir.exists():
+            continue
+        c = per_domain_counts.setdefault(
+            key,
+            {
+                "ok": 0,
+                "error": 0,
+                "skipped_existing": 0,
+                "not_found": 0,
+                "forbidden": 0,
+                "total": 0,
+            },
+        )
+        for meta_path in subdir.glob("*.meta.json"):
+            try:
+                meta = json.loads(meta_path.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                continue
+            qid = meta.get("question_id")
+            if not qid:
+                continue
+            c["total"] += 1
+            if meta.get("error"):
+                c["error"] += 1
+                reason = (meta.get("error_reason") or "").lower()
+                if reason == "not_found":
+                    c["not_found"] += 1
+                elif reason.startswith("forbidden") or reason == "blocked_403":
+                    c["forbidden"] += 1
+            else:
+                c["ok"] += 1
+            entries[qid] = {
+                "domain": key,
+                "source_url": meta.get("source_url"),
+                "archive_file": meta.get("archive_file"),
+                "http_status": meta.get("http_status"),
+                "content_type": meta.get("content_type"),
+                "size_bytes": meta.get("size_bytes"),
+                "sha256": meta.get("sha256"),
+                "download_date": meta.get("download_date"),
+                "duration_sec": meta.get("duration_sec"),
+                "error": meta.get("error", False),
+                "error_reason": meta.get("error_reason"),
+                "skipped_existing": False,
+            }
+
+    total_ok = sum(c.get("ok", 0) for c in per_domain_counts.values())
+    total_err = sum(c.get("error", 0) for c in per_domain_counts.values())
+    total_nf = sum(c.get("not_found", 0) for c in per_domain_counts.values())
+    total_forb = sum(c.get("forbidden", 0) for c in per_domain_counts.values())
+
+    total_bytes = 0
+    for path in archive_dir.rglob("*"):
+        if path.is_file() and path.suffix in (".html", ".json"):
+            if path.name != "_manifest.json":
+                try:
+                    total_bytes += path.stat().st_size
+                except OSError:
+                    pass
+
+    manifest = {
+        "manifest_version": "1.0",
+        "created_at": utc_now_iso(),
+        "collection_dir": str(collection_dir),
+        "domains": list(per_domain_counts.keys()),
+        "counts": per_domain_counts,
+        "totals": {
+            "ok": total_ok,
+            "error": total_err,
+            "skipped_existing": 0,
+            "not_found": total_nf,
+            "forbidden": total_forb,
+            "records_total": sum(
+                c.get("total", 0) for c in per_domain_counts.values()
+            ),
+            "archive_total_bytes": total_bytes,
+            "archive_total_mb": round(total_bytes / (1024 * 1024), 2),
+        },
+        "entries": entries,
+        "rebuilt_from_disk": True,
+    }
+    manifest_path = archive_dir / "_manifest.json"
+    manifest_path.write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    logger.info(
+        "rebuilt manifest: %s (%d entries across %d domains, total %.1f MB)",
+        manifest_path,
+        len(entries),
+        len(per_domain_counts),
+        total_bytes / (1024 * 1024),
+    )
+    for key, c in per_domain_counts.items():
+        logger.info(
+            "  %s: ok=%d error=%d not_found=%d forbidden=%d total=%d",
+            key,
+            c.get("ok", 0),
+            c.get("error", 0),
+            c.get("not_found", 0),
+            c.get("forbidden", 0),
+            c.get("total", 0),
+        )
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -642,6 +823,14 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Redownload even if archive file already exists.",
     )
+    parser.add_argument(
+        "--rebuild-manifest",
+        action="store_true",
+        help=(
+            "Skip downloads; just walk the archive directory and rebuild "
+            "_manifest.json from existing .meta.json files on disk."
+        ),
+    )
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args(argv)
 
@@ -656,6 +845,10 @@ def main(argv: list[str] | None = None) -> int:
     archive_dir.mkdir(parents=True, exist_ok=True)
     logger.info("collection dir: %s", collection_dir)
     logger.info("archive dir:    %s", archive_dir)
+
+    if args.rebuild_manifest:
+        rebuild_manifest_from_disk(archive_dir, collection_dir)
+        return 0
 
     chosen_keys = [k.strip() for k in args.domains.split(",") if k.strip()]
     bad = [k for k in chosen_keys if k not in DOMAINS]

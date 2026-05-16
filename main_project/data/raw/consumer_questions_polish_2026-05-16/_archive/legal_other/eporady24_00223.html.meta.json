@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00223",
+  "source_url": "https://www.eporady24.pl/zadatek_a_zaliczka,pytania,4,47,83.html",
+  "fetch_url": "https://www.eporady24.pl/zadatek_a_zaliczka,pytania,4,47,83.html",
+  "archive_file": "legal_other/eporady24_00223.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21080,
+  "sha256": "2e3ae239d90378979a17ce44f27e9ce9517c9fc995c0f028922f30bd95b6dc01",
+  "download_date": "2026-05-16T08:25:30Z",
+  "duration_sec": 0.302,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00095",
+  "source_url": "https://www.eporady24.pl/bledne_okreslenie_ceny_na_allegro,pytania,17,82,8336.html",
+  "fetch_url": "https://www.eporady24.pl/bledne_okreslenie_ceny_na_allegro,pytania,17,82,8336.html",
+  "archive_file": "legal_other/eporady24_00095.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23166,
+  "sha256": "f93fea7b9e5e422c2148f52f07509eba23ab7ed9a9619422db5ae958e012ee25",
+  "download_date": "2026-05-16T08:22:58Z",
+  "duration_sec": 0.35,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

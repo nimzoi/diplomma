@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00205",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1dd873k/umowa_w_pracy_na_3_miesiące/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1dd873k/umowa_w_pracy_na_3_miesiące/.json",
+  "archive_file": null,
+  "http_status": 403,
+  "content_type": null,
+  "size_bytes": null,
+  "sha256": null,
+  "download_date": "2026-05-16T08:19:31Z",
+  "duration_sec": 0.493,
+  "attempt": 6,
+  "error": true,
+  "error_reason": "forbidden_403"
+}

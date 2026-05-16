@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00120",
+  "source_url": "https://www.eporady24.pl/wypowiedzenie_umowy_o_wspolpracy,pytania,4,47,807.html",
+  "fetch_url": "https://www.eporady24.pl/wypowiedzenie_umowy_o_wspolpracy,pytania,4,47,807.html",
+  "archive_file": "legal_other/eporady24_00120.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21302,
+  "sha256": "2e679cceabb9d6a2903451c53be9dc46ef64bd961d24e1108a54f8b68d3a8819",
+  "download_date": "2026-05-16T08:23:29Z",
+  "duration_sec": 0.47,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

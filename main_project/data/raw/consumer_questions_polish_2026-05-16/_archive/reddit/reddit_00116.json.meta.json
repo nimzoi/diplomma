@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00116",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1cropd7/gdzie_kupić_okulary_przeciwsłoneczne_balistyczne/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1cropd7/gdzie_kupić_okulary_przeciwsłoneczne_balistyczne/.json",
+  "archive_file": "reddit/reddit_00116.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 33766,
+  "sha256": "018209cb5c937d83469b3ef12d76778f4f97e4f0ab2a3c66fcea5a462efdecd5",
+  "download_date": "2026-05-16T08:09:48Z",
+  "duration_sec": 0.343,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

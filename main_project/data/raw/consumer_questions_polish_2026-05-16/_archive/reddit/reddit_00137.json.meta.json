@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00137",
+  "source_url": "https://www.reddit.com/r/Polska/comments/18oqck6/oto_jak_amazon_rozwiązał_mój_zwrot_produktu_który/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/18oqck6/oto_jak_amazon_rozwiązał_mój_zwrot_produktu_który/.json",
+  "archive_file": "reddit/reddit_00137.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 120262,
+  "sha256": "b1a8c78ccc6e3e60648f88cb4e69b3dcf702a33a1b09d2ff88012eb05a74e13e",
+  "download_date": "2026-05-16T08:12:10Z",
+  "duration_sec": 0.584,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

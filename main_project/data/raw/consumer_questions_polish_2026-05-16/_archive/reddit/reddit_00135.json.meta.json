@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00135",
+  "source_url": "https://www.reddit.com/r/Polska/comments/18c04u3/regulacja_roweru_na_własną_rękę_opowieść_z/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/18c04u3/regulacja_roweru_na_własną_rękę_opowieść_z/.json",
+  "archive_file": "reddit/reddit_00135.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 161366,
+  "sha256": "f67ff5ecb4eedddfc36fbf70cff35053121da39275e9086976cb7665f9c9986b",
+  "download_date": "2026-05-16T08:11:57Z",
+  "duration_sec": 0.764,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

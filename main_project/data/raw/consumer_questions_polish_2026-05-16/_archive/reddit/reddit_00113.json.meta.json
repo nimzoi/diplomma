@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00113",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1hgjb6v/zakup_tv_w_sklepie_vs_przez_internet_a_wymóg/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1hgjb6v/zakup_tv_w_sklepie_vs_przez_internet_a_wymóg/.json",
+  "archive_file": "reddit/reddit_00113.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 42361,
+  "sha256": "77fd7d5c5a2a4d61ecafb9657905e4dee13deb7b6ab0829ce4efdf1a1a17e52b",
+  "download_date": "2026-05-16T08:09:29Z",
+  "duration_sec": 0.386,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

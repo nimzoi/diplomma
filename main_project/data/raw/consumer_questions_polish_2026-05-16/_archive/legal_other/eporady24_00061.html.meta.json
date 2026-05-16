@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00061",
+  "source_url": "https://www.eporady24.pl/okres_gwarancji_po_naprawie,pytania,4,54,10472.html",
+  "fetch_url": "https://www.eporady24.pl/okres_gwarancji_po_naprawie,pytania,4,54,10472.html",
+  "archive_file": "legal_other/eporady24_00061.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21756,
+  "sha256": "0c24544c3435b05be79374de31f557859eeb9d81be34c567c0c1bd780df0a6e0",
+  "download_date": "2026-05-16T08:22:18Z",
+  "duration_sec": 0.142,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

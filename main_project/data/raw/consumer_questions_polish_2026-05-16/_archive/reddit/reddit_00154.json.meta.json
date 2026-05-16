@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00154",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1d699ft/ubezpieczenie_w_rtv_euro_agd/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1d699ft/ubezpieczenie_w_rtv_euro_agd/.json",
+  "archive_file": "reddit/reddit_00154.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 41149,
+  "sha256": "a1ad5edff3685ab2bf1780ca53b15d66b73f522c6f1bc11298fc3c27d9e9d672",
+  "download_date": "2026-05-16T08:14:00Z",
+  "duration_sec": 0.354,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00176",
+  "source_url": "https://www.reddit.com/r/Polska/comments/pfq6ow/kiedy_mogę_żądać_zwrotu_pieniędzy_na_rękojmi/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/pfq6ow/kiedy_mogę_żądać_zwrotu_pieniędzy_na_rękojmi/.json",
+  "archive_file": "reddit/reddit_00176.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 17250,
+  "sha256": "31b9934a42b6c1bb31dbf7c2b1ebf16b7a89ca06386dc663d2d80d6194744a70",
+  "download_date": "2026-05-16T08:16:21Z",
+  "duration_sec": 0.32,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

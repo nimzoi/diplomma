@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00131",
+  "source_url": "https://www.reddit.com/r/Polska/comments/17qhxg4/czy_u_was_też_tylu_ludzi_prosi_o_pieniądze/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/17qhxg4/czy_u_was_też_tylu_ludzi_prosi_o_pieniądze/.json",
+  "archive_file": "reddit/reddit_00131.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 260044,
+  "sha256": "631200b79bea472b09297eda86a2a94c9092ce5cbe6eb86b1c78df5fe83bf7ad",
+  "download_date": "2026-05-16T08:11:31Z",
+  "duration_sec": 0.906,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

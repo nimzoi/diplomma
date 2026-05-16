@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00195",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1rs47u9/program_safe_dyskusja/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1rs47u9/program_safe_dyskusja/.json",
+  "archive_file": null,
+  "http_status": 403,
+  "content_type": null,
+  "size_bytes": null,
+  "sha256": null,
+  "download_date": "2026-05-16T08:18:24Z",
+  "duration_sec": 0.27,
+  "attempt": 6,
+  "error": true,
+  "error_reason": "forbidden_403"
+}

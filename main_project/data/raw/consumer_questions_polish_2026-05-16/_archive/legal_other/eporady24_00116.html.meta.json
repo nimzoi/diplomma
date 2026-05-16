@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00116",
+  "source_url": "https://www.eporady24.pl/umowa_ustna,pytania,4,47,2896.html",
+  "fetch_url": "https://www.eporady24.pl/umowa_ustna,pytania,4,47,2896.html",
+  "archive_file": "legal_other/eporady24_00116.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21676,
+  "sha256": "51cc4c84cce473a8f5593e19a300d75ea389486a1969a69d4abacf435e899fe3",
+  "download_date": "2026-05-16T08:23:23Z",
+  "duration_sec": 0.151,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

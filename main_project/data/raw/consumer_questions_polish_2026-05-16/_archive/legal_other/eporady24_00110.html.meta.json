@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00110",
+  "source_url": "https://www.eporady24.pl/zamowienia_na_aliexpresscom,pytania,17,110,14015.html",
+  "fetch_url": "https://www.eporady24.pl/zamowienia_na_aliexpresscom,pytania,17,110,14015.html",
+  "archive_file": "legal_other/eporady24_00110.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22133,
+  "sha256": "fe58e484e9eb27f55b7ff004718cc25b26a30fadff741fc3c4d5f25fe5bda37a",
+  "download_date": "2026-05-16T08:23:16Z",
+  "duration_sec": 0.241,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

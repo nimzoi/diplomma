@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00119",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1nyv5ps/firma_hackeru_grozi_mi_kodeksem_karnym_gdy_badam/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1nyv5ps/firma_hackeru_grozi_mi_kodeksem_karnym_gdy_badam/.json",
+  "archive_file": "reddit/reddit_00119.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 648224,
+  "sha256": "d7053e7d1ba695a2f7f83984af9376c14314842311f92a813adbf8173d156305",
+  "download_date": "2026-05-16T08:10:09Z",
+  "duration_sec": 1.658,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

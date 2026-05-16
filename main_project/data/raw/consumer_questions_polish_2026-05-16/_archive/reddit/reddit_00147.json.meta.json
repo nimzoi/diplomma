@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00147",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1dk8s1g/jeden_jedyny_raz_chciałem_coś_kupić_na_amazon/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1dk8s1g/jeden_jedyny_raz_chciałem_coś_kupić_na_amazon/.json",
+  "archive_file": "reddit/reddit_00147.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 71983,
+  "sha256": "0b240d7d9ad422b354d773624e3e014498ac2055ce0f3cc45740ac58ce1f5124",
+  "download_date": "2026-05-16T08:13:15Z",
+  "duration_sec": 0.39,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

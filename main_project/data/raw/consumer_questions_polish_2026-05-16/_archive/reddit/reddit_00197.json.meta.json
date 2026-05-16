@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00197",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1jsoq2h/zmiana_składki_zdrowotnej_rant_przedsiębiorcy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1jsoq2h/zmiana_składki_zdrowotnej_rant_przedsiębiorcy/.json",
+  "archive_file": "reddit/reddit_00197.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 507125,
+  "sha256": "5a1323db5cbe1199753f59b229043fc7eadcefd6bc7034228056a8cc085b853b",
+  "download_date": "2026-05-16T08:18:39Z",
+  "duration_sec": 1.973,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

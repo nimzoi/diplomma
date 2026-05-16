@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00150",
+  "source_url": "https://www.reddit.com/r/Polska/comments/qnz41b/na_inflacji_tracisz_więcej_niż_myślisz/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/qnz41b/na_inflacji_tracisz_więcej_niż_myślisz/.json",
+  "archive_file": "reddit/reddit_00150.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 80330,
+  "sha256": "12fa6130e55e3ce68e4c010799a740176dc497b01de08fb1454274693d3d1144",
+  "download_date": "2026-05-16T08:13:34Z",
+  "duration_sec": 0.64,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00126",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1s6a2lo/błednie_wpisany_numer_przy_transakcji_blik/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1s6a2lo/błednie_wpisany_numer_przy_transakcji_blik/.json",
+  "archive_file": "reddit/reddit_00126.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 114266,
+  "sha256": "c46bf645ddbf61ae2ab47c2873ae34038b534f983b37d1b3e5b2e64339e09a01",
+  "download_date": "2026-05-16T08:10:57Z",
+  "duration_sec": 0.506,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

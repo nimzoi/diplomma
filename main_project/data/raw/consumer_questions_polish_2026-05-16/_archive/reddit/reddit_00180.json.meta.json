@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00180",
+  "source_url": "https://www.reddit.com/r/Polska/comments/58c28q/gwarancja_w_xkom/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/58c28q/gwarancja_w_xkom/.json",
+  "archive_file": "reddit/reddit_00180.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 18225,
+  "sha256": "554420a2d704c70e7c588f448529325694a2f5473351cf84636c256c37a08c4a",
+  "download_date": "2026-05-16T08:16:47Z",
+  "duration_sec": 0.298,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

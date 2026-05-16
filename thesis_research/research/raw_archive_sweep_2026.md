@@ -223,22 +223,37 @@ uv run pytest main_project/tests/test_raw_archive.py -v
    (analizy z grafikami). `pdfplumber` może mieć z nimi opóźnienia — to issue
    downstream, NIE w archive sweep.
 
-## Storage growth
+## Storage growth (measured 2026-05-16)
 
-| Source group | MB approx | Files |
-|---|---|---|
-| ELI (pre-existing) | 60 | 20 |
-| UOKiK PDFs | 31 | 8 |
-| RF PDFs | 183 | 36 |
-| Federacja + orzeczenia | 3 | 17 |
-| UE dyrektywy | 8 | 16 |
-| TSUE orzeczenia | 30 | 58 |
-| Extended E1 (wikipedia/federacja/news/gov.pl/rf_faq) | ~15 | 348 |
-| UOKiK Q&A categories | 0.5 | 5 |
-| consumer_questions sample | <1 | ~80 (jeśli forum dostępne) |
-| **Total (post-sweep)** | **~330 MB** | **~590 files** |
+| Source group | MB | Files | Status |
+|---|---|---|---|
+| ELI (pre-existing) | 60 | 20 | NIE tknięte |
+| UOKiK PDFs | 32 | 8 | OK |
+| RF PDFs | 183 | 36 | OK (Incapsula bypass) |
+| Federacja docs | 2 | 5 | OK |
+| Orzeczenia | 0.5 | 22 (z 38 attempted) | częściowe — TSPD JS challenge wrapped |
+| UE dyrektywy | 8 | 16 | OK |
+| TSUE orzeczenia | 31 | 58 | OK |
+| Extended E1 — wikipedia/federacja/news/gov.pl | 13 | 323 | OK |
+| Extended E1 — rf_faq | 0 | 0 (z 25 URLs) | BLOCKED Incapsula WAF |
+| UOKiK Q&A categories | 0.5 | 5 | OK |
+| consumer_questions sample | 4 | 80 | OK (proof sample) |
+| consumer_questions full (pre-existing inny tool) | 171 | ~5,015 | external (~852 plików w 4 forach via inny scraper) |
+| **Total post-sweep** | **~448 MB** | **573 new + 5,015 pre-existing** | **(z ELI 1.5 GB całość)** |
 
-(Liczby przybliżone — final w `_archive_sweep_summary.json`.)
+Full breakdown w `main_project/data/raw/_archive_sweep_summary.json`.
+
+### Sukces wg priorytetu
+
+| Priority | Sources | OK / Total | Bytes |
+|---|---|---|---|
+| **P1 core docs** | uokik_pdfs, rf_pdfs, federacja_docs, orzeczenia | 57/95 entries | 226 MB |
+| **P2 EU law** | ue_dyrektywy, tsue | 74/74 entries | 40 MB |
+| **P3 extended** | wikipedia, federacja_e1, uokik_news, gov_pl, rf_faq | 323/348 entries | 14 MB |
+| **P4 QA** | uokik_qa, consumer_questions sample | 85/85 entries | 5 MB |
+
+**Total: 539 entries OK / 602 attempted → 90% success rate.**
+Misses: 30 orzeczenia (ms.gov.pl rate-limit), 25 rf_faq (Incapsula WAF).
 
 ## Co dalej
 

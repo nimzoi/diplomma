@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00109",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1aqi32m/studnia_ludzkiej_głupoty_po_prostu_nie_ma_dna/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1aqi32m/studnia_ludzkiej_głupoty_po_prostu_nie_ma_dna/.json",
+  "archive_file": "reddit/reddit_00109.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 215827,
+  "sha256": "201e58d53ffbb3b960e7cdd898a53beddb18d3bc940c18fe6a860ae37a038038",
+  "download_date": "2026-05-16T08:09:02Z",
+  "duration_sec": 0.775,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

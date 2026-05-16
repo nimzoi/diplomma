@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00167",
+  "source_url": "https://www.reddit.com/r/Polska/comments/138e1pi/zwroty_z_aliexpress_ile_czekacie/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/138e1pi/zwroty_z_aliexpress_ile_czekacie/.json",
+  "archive_file": "reddit/reddit_00167.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 23752,
+  "sha256": "1e90e3cdfd2311f5ae1ae22e690057261909000b844394d9b2978d490f8c7701",
+  "download_date": "2026-05-16T08:15:23Z",
+  "duration_sec": 0.302,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

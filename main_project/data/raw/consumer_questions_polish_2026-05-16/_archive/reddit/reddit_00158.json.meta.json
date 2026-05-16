@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00158",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1b3wthu/to_co_z_tym_wyrokiem_trybunału_w_strasburgu/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1b3wthu/to_co_z_tym_wyrokiem_trybunału_w_strasburgu/.json",
+  "archive_file": "reddit/reddit_00158.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 30815,
+  "sha256": "9b1624d39ccbade170e32844ce5eafee894368042a565cdce50a6a90b5d8f969",
+  "download_date": "2026-05-16T08:14:26Z",
+  "duration_sec": 0.328,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

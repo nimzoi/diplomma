@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00122",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1lp0d8m/uwaga_przed_wakacjami_opłacona_rezerwacja_na/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1lp0d8m/uwaga_przed_wakacjami_opłacona_rezerwacja_na/.json",
+  "archive_file": "reddit/reddit_00122.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 239812,
+  "sha256": "5789bb614e6194c54cfe1db00baeb4a4740058d2465a51695fbf3b1087a0886f",
+  "download_date": "2026-05-16T08:10:29Z",
+  "duration_sec": 0.759,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

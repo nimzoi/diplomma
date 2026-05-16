@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00130",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1d37uvo/rant_na_bookingcom/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1d37uvo/rant_na_bookingcom/.json",
+  "archive_file": "reddit/reddit_00130.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 241393,
+  "sha256": "8441972be78a56f5d9021a083e5ac5939142f94de879e4cb0e1eaacc2a97b91a",
+  "download_date": "2026-05-16T08:11:24Z",
+  "duration_sec": 0.793,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

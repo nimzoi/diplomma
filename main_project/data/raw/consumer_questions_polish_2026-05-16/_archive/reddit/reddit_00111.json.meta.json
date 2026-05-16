@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00111",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ew8ax0/mandat_za_złe_parkowanie/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ew8ax0/mandat_za_złe_parkowanie/.json",
+  "archive_file": "reddit/reddit_00111.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 137492,
+  "sha256": "0d91518bde273e4a25bb1bead16f15022ee29c039f07b85f759bd3bb6d1ab551",
+  "download_date": "2026-05-16T08:09:16Z",
+  "duration_sec": 1.708,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

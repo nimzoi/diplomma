@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00073",
+  "source_url": "https://www.eporady24.pl/oplata-za-transfer-danych,pytania,4,54,5840.html",
+  "fetch_url": "https://www.eporady24.pl/oplata-za-transfer-danych,pytania,4,54,5840.html",
+  "archive_file": "legal_other/eporady24_00073.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21904,
+  "sha256": "c06aa9dcc01011ce1000afec1e8e2e1a02766f82f98c4ee34825b2d2763c1234",
+  "download_date": "2026-05-16T08:22:32Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

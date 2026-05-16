@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00079",
+  "source_url": "https://www.eporady24.pl/niedotrzymanie-umowy-przez-hotel,pytania,4,54,4374.html",
+  "fetch_url": "https://www.eporady24.pl/niedotrzymanie-umowy-przez-hotel,pytania,4,54,4374.html",
+  "archive_file": "legal_other/eporady24_00079.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21795,
+  "sha256": "63b991f5a2f937057acc7e4c5d00f62216b297ccf9c7857d79b3c16baabfc58b",
+  "download_date": "2026-05-16T08:22:39Z",
+  "duration_sec": 0.151,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

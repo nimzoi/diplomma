@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00141",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1esunj8/odwołany_lot/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1esunj8/odwołany_lot/.json",
+  "archive_file": "reddit/reddit_00141.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 95397,
+  "sha256": "5cb6b9ece7d08721f6966de39f67bc52cce7a981064db78a4199ccf4f53b7365",
+  "download_date": "2026-05-16T08:12:36Z",
+  "duration_sec": 0.473,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

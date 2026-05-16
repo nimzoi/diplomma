@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00018",
+  "source_url": "https://www.eporady24.pl/nieprzyjecie_reklamacji_rozklejonego_obuwia,pytania,4,54,9762.html",
+  "fetch_url": "https://www.eporady24.pl/nieprzyjecie_reklamacji_rozklejonego_obuwia,pytania,4,54,9762.html",
+  "archive_file": "legal_other/eporady24_00018.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 25107,
+  "sha256": "459bd8d96aa618fe679cc2a4fd39c851e7ef34741c3a19c82843d34b2139656a",
+  "download_date": "2026-05-16T08:21:28Z",
+  "duration_sec": 0.152,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

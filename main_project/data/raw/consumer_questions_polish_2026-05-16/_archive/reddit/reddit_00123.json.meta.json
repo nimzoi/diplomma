@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00123",
+  "source_url": "https://www.reddit.com/r/Polska/comments/13rnins/pkp_to_chlew_obsrany_gównem/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/13rnins/pkp_to_chlew_obsrany_gównem/.json",
+  "archive_file": "reddit/reddit_00123.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 542447,
+  "sha256": "cf8419e10c79e7b89aef59974e1a6e6e3debc38b477feafb985cd356bc864931",
+  "download_date": "2026-05-16T08:10:37Z",
+  "duration_sec": 1.395,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

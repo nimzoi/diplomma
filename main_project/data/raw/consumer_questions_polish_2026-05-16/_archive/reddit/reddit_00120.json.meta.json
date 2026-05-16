@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00120",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1rrmdl0/ile_czeka_się_na_zwrot_pieniędzy_z_terminala/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1rrmdl0/ile_czeka_się_na_zwrot_pieniędzy_z_terminala/.json",
+  "archive_file": "reddit/reddit_00120.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 43579,
+  "sha256": "6ac30b54232f607385cbb19c4c17930f92bda8aab7cb00306bfd2235a912ac57",
+  "download_date": "2026-05-16T08:10:16Z",
+  "duration_sec": 0.644,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

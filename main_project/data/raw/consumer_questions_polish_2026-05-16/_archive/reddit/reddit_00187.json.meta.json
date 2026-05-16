@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00187",
+  "source_url": "https://www.reddit.com/r/Polska/comments/qsi4fs/w_polsce_po_staremu_w_kwestii_składania/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/qsi4fs/w_polsce_po_staremu_w_kwestii_składania/.json",
+  "archive_file": "reddit/reddit_00187.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 95562,
+  "sha256": "cc03c07d8a44d96d098e677018bc9cf2d1aec80069350276259a3cbbdd5ffc2e",
+  "download_date": "2026-05-16T08:17:32Z",
+  "duration_sec": 0.586,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

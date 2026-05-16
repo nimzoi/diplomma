@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00156",
+  "source_url": "https://www.reddit.com/r/Polska/comments/18l9dlp/zwrot_używki_z_allegro/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/18l9dlp/zwrot_używki_z_allegro/.json",
+  "archive_file": "reddit/reddit_00156.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 41598,
+  "sha256": "b3801ede287f018a4145ed9d840e09d7171ccdebde05256b38dfed212c32bcb7",
+  "download_date": "2026-05-16T08:14:13Z",
+  "duration_sec": 0.429,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

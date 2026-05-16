@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00194",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ri99pr/umowa_na_wynajem_coś_tu_śmierdzi/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ri99pr/umowa_na_wynajem_coś_tu_śmierdzi/.json",
+  "archive_file": "reddit/reddit_00194.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 37351,
+  "sha256": "672f391077fffc0085679542783627f8ca2dd0b61c438a3f617b472314f29672",
+  "download_date": "2026-05-16T08:18:18Z",
+  "duration_sec": 0.423,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

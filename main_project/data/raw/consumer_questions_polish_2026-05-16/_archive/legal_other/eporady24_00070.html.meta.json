@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00070",
+  "source_url": "https://www.eporady24.pl/wadliwa_instalacja,pytania,4,54,7075.html",
+  "fetch_url": "https://www.eporady24.pl/wadliwa_instalacja,pytania,4,54,7075.html",
+  "archive_file": "legal_other/eporady24_00070.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23135,
+  "sha256": "156b30e53b57971f6e12a96ce0d0145a51482f69e882e5e095e28ed2fd3fcb76",
+  "download_date": "2026-05-16T08:22:29Z",
+  "duration_sec": 0.143,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

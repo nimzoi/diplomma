@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00014",
+  "source_url": "https://www.eporady24.pl/rekojmia-po-okresie-gwarancyjnym,pytania,4,54,27887.html",
+  "fetch_url": "https://www.eporady24.pl/rekojmia-po-okresie-gwarancyjnym,pytania,4,54,27887.html",
+  "archive_file": "legal_other/eporady24_00014.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23667,
+  "sha256": "8f6935af9bd4c1e2924c4fbc6ff946dd3add445c9c74e8802ea99f43a231e2b9",
+  "download_date": "2026-05-16T08:21:23Z",
+  "duration_sec": 0.134,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

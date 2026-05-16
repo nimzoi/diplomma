@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00030",
+  "source_url": "https://www.eporady24.pl/zakup-samochodu-z-zatrzymanym-dowodem-rejestracyjnym,pytania,4,54,30781.html",
+  "fetch_url": "https://www.eporady24.pl/zakup-samochodu-z-zatrzymanym-dowodem-rejestracyjnym,pytania,4,54,30781.html",
+  "archive_file": "legal_other/eporady24_00030.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21327,
+  "sha256": "011da4d9a977f99194625309ced02ddd5a84704619243ea4f04c1bf47a2fef2b",
+  "download_date": "2026-05-16T08:21:42Z",
+  "duration_sec": 0.141,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

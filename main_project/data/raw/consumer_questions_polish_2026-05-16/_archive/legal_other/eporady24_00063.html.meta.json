@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00063",
+  "source_url": "https://www.eporady24.pl/reklamacja_konsumencka,pytania,4,54,10769.html",
+  "fetch_url": "https://www.eporady24.pl/reklamacja_konsumencka,pytania,4,54,10769.html",
+  "archive_file": "legal_other/eporady24_00063.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21430,
+  "sha256": "60b86e20e0c2f4ea58d945ea82ff3f0da72eba91b8e9e815c8a1c4128ae110e8",
+  "download_date": "2026-05-16T08:22:20Z",
+  "duration_sec": 0.13,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

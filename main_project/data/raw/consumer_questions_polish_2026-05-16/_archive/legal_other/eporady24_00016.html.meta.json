@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00016",
+  "source_url": "https://www.eporady24.pl/klient-twierdzi-ze-otrzymal-niekompletne-zamowienie-co-zrobic,pytania,4,54,27350.html",
+  "fetch_url": "https://www.eporady24.pl/klient-twierdzi-ze-otrzymal-niekompletne-zamowienie-co-zrobic,pytania,4,54,27350.html",
+  "archive_file": "legal_other/eporady24_00016.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 26121,
+  "sha256": "3518d1e387d8ebfad0f0d053458390ac282c219f8dfa2475fedc2770a9202e4e",
+  "download_date": "2026-05-16T08:21:25Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

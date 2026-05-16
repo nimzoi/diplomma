@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00236",
+  "source_url": "https://www.eporady24.pl/brak-dostarczenia-towaru-mimo-zaplaty,pytania,4,47,29740.html",
+  "fetch_url": "https://www.eporady24.pl/brak-dostarczenia-towaru-mimo-zaplaty,pytania,4,47,29740.html",
+  "archive_file": "legal_other/eporady24_00236.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22991,
+  "sha256": "2572731481836634bcedd250cb7023ff70719457b4755f350d43fcb6f945297a",
+  "download_date": "2026-05-16T08:25:45Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

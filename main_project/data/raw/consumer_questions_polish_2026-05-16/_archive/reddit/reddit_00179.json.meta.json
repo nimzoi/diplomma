@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00179",
+  "source_url": "https://www.reddit.com/r/Polska/comments/fsm5c7/zamieszanie_z_wysyłkązamówieniami_do_polski/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/fsm5c7/zamieszanie_z_wysyłkązamówieniami_do_polski/.json",
+  "archive_file": "reddit/reddit_00179.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 18214,
+  "sha256": "1f3ba5931fc88003c264bfe7b6a306727e74dd7c5b99c5e9bdd484912c7f382f",
+  "download_date": "2026-05-16T08:16:40Z",
+  "duration_sec": 0.346,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00164",
+  "source_url": "https://www.reddit.com/r/Polska/comments/yy1fuk/czy_sprzedająca_z_allegro_może_mi_zwrócić_część/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/yy1fuk/czy_sprzedająca_z_allegro_może_mi_zwrócić_część/.json",
+  "archive_file": "reddit/reddit_00164.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 33818,
+  "sha256": "a3b28af76abe6c4eb644543e24a6b1f69ba07df3c41860c41bca5befe1f4e242",
+  "download_date": "2026-05-16T08:15:04Z",
+  "duration_sec": 0.414,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

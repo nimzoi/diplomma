@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00091",
+  "source_url": "https://www.eporady24.pl/blad-w-opisie-aukcji-i-wycofanie-sie-z-transakcji,pytania,17,82,23144.html",
+  "fetch_url": "https://www.eporady24.pl/blad-w-opisie-aukcji-i-wycofanie-sie-z-transakcji,pytania,17,82,23144.html",
+  "archive_file": "legal_other/eporady24_00091.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21293,
+  "sha256": "0186957edb11269d3073521fe38f4525115e7a409fd02c7917b25f87f6db227c",
+  "download_date": "2026-05-16T08:22:53Z",
+  "duration_sec": 0.131,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

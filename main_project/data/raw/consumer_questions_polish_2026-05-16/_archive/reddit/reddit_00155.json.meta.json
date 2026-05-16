@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00155",
+  "source_url": "https://www.reddit.com/r/Polska/comments/kdjuap/sony_nie_chce_zwrócić_pieniędzy_za_cp77_co_można/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/kdjuap/sony_nie_chce_zwrócić_pieniędzy_za_cp77_co_można/.json",
+  "archive_file": "reddit/reddit_00155.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 122898,
+  "sha256": "76b5dedb940b5e55f9035772f243780fac9475ad7553657430044a73d4d88176",
+  "download_date": "2026-05-16T08:14:07Z",
+  "duration_sec": 0.753,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

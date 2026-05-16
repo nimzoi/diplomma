@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00067",
+  "source_url": "https://www.eporady24.pl/nieodebranie_przesylki,pytania,4,54,8342.html",
+  "fetch_url": "https://www.eporady24.pl/nieodebranie_przesylki,pytania,4,54,8342.html",
+  "archive_file": "legal_other/eporady24_00067.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21718,
+  "sha256": "e580f55d853407a72cc714814503ceac127ac11bee2f6990656ae6f26969fbd5",
+  "download_date": "2026-05-16T08:22:25Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

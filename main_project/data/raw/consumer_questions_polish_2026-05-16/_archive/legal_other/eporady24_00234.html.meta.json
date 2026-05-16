@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00234",
+  "source_url": "https://www.eporady24.pl/zakup-mieszkania-z-odroczonym-terminem-platnosci,pytania,4,47,30016.html",
+  "fetch_url": "https://www.eporady24.pl/zakup-mieszkania-z-odroczonym-terminem-platnosci,pytania,4,47,30016.html",
+  "archive_file": "legal_other/eporady24_00234.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23395,
+  "sha256": "106bc510c6d23908ca4aee184ff2784e41d7c34fb67e26a55ae57ec58c0e6ff4",
+  "download_date": "2026-05-16T08:25:43Z",
+  "duration_sec": 0.139,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

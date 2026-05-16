@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00191",
+  "source_url": "https://www.reddit.com/r/Polska/comments/6lfmv6/kupowanie_telefonu_na_alledrogo/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/6lfmv6/kupowanie_telefonu_na_alledrogo/.json",
+  "archive_file": "reddit/reddit_00191.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 67926,
+  "sha256": "7267b1df3a4feedef7d9a6bf6a320205ce157e16959439608ee367d1b82707e7",
+  "download_date": "2026-05-16T08:17:58Z",
+  "duration_sec": 0.504,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

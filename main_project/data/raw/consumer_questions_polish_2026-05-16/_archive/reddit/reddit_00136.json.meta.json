@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00136",
+  "source_url": "https://www.reddit.com/r/Polska/comments/drnsmm/transowe_success_story/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/drnsmm/transowe_success_story/.json",
+  "archive_file": "reddit/reddit_00136.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 270898,
+  "sha256": "126136fc91baea491f4b8537552473fc23ecd192cd4dbbc3a328fa4f27cf960e",
+  "download_date": "2026-05-16T08:12:04Z",
+  "duration_sec": 0.901,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

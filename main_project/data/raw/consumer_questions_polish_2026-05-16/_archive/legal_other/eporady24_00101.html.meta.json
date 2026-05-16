@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00101",
+  "source_url": "https://www.eporady24.pl/zawieszenie_konta_na_ebayu,pytania,17,82,961.html",
+  "fetch_url": "https://www.eporady24.pl/zawieszenie_konta_na_ebayu,pytania,17,82,961.html",
+  "archive_file": "legal_other/eporady24_00101.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21681,
+  "sha256": "5562e8a0eb75840e911888a9c5f1ec93e39229bad0567ca3bf91133364ed0528",
+  "download_date": "2026-05-16T08:23:06Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

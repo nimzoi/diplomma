@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00170",
+  "source_url": "https://www.reddit.com/r/Polska/comments/alhq4r/kradzież_pieniędzy_z_karty_debetowej_visa/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/alhq4r/kradzież_pieniędzy_z_karty_debetowej_visa/.json",
+  "archive_file": "reddit/reddit_00170.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 72512,
+  "sha256": "6620564ea4c93b7f0b909968f5139a480d4f72960f2f48d8319104781adf82f9",
+  "download_date": "2026-05-16T08:15:43Z",
+  "duration_sec": 0.474,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00152",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1dsqq2w/psycholog_paragonfaktura/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1dsqq2w/psycholog_paragonfaktura/.json",
+  "archive_file": "reddit/reddit_00152.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 29183,
+  "sha256": "86be371977659ba56e63fef4d9a54c2f36e8e3567f47cd729d68ec1ee6380547",
+  "download_date": "2026-05-16T08:13:47Z",
+  "duration_sec": 0.439,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

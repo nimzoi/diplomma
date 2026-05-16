@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00087",
+  "source_url": "https://www.eporady24.pl/reklamacja_nowego_samochodu_z_salonu,pytania,4,54,1225.html",
+  "fetch_url": "https://www.eporady24.pl/reklamacja_nowego_samochodu_z_salonu,pytania,4,54,1225.html",
+  "archive_file": "legal_other/eporady24_00087.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22782,
+  "sha256": "e7868094bfa346540f80b568bbd6553c2a6d7a04a753bafa6f3cf5afa96bdab2",
+  "download_date": "2026-05-16T08:22:49Z",
+  "duration_sec": 0.17,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

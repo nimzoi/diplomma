@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00139",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1b0c91c/zwroty_rowerów_to_stan_umysłu/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1b0c91c/zwroty_rowerów_to_stan_umysłu/.json",
+  "archive_file": "reddit/reddit_00139.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 108517,
+  "sha256": "d8f0f694c7153f22f192edfdeb74e8cd206a6df2b66d96db16aa915175de73c4",
+  "download_date": "2026-05-16T08:12:23Z",
+  "duration_sec": 0.575,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

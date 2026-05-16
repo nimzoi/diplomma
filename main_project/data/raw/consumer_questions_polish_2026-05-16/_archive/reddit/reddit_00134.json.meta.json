@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00134",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1gktk15/po_co_kombinować_skoro_można_inaczej/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1gktk15/po_co_kombinować_skoro_można_inaczej/.json",
+  "archive_file": "reddit/reddit_00134.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 120195,
+  "sha256": "b80577645cdfb630229e375e85953f3d20bd97b30f5797c5c5d7cc5f1e8bce6a",
+  "download_date": "2026-05-16T08:11:50Z",
+  "duration_sec": 0.569,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

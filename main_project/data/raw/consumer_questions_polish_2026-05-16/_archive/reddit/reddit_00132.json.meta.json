@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00132",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1r5mkzl/ku_przestrodze_jak_działa_serwis_i_proces/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1r5mkzl/ku_przestrodze_jak_działa_serwis_i_proces/.json",
+  "archive_file": "reddit/reddit_00132.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 83631,
+  "sha256": "5affac155a0cc66873228a6699b70af11aef2bcaf21135b0974f50ae5286532c",
+  "download_date": "2026-05-16T08:11:37Z",
+  "duration_sec": 0.56,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

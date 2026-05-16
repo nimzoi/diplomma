@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00161",
+  "source_url": "https://www.reddit.com/r/Polska/comments/uszz86/zwrot_ksiązki_empik/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/uszz86/zwrot_ksiązki_empik/.json",
+  "archive_file": "reddit/reddit_00161.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 63217,
+  "sha256": "574b7d709ab3a156cddc40c4242a0c82b04c4242c9f49da909aa9b7709de0717",
+  "download_date": "2026-05-16T08:14:45Z",
+  "duration_sec": 0.399,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

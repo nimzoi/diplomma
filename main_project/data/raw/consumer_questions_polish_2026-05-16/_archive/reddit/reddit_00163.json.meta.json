@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00163",
+  "source_url": "https://www.reddit.com/r/Polska/comments/yjzpkw/co_to_tym_sądzicie_i_czy_to_w_ogóle_jest_legalne/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/yjzpkw/co_to_tym_sądzicie_i_czy_to_w_ogóle_jest_legalne/.json",
+  "archive_file": "reddit/reddit_00163.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 33912,
+  "sha256": "3b2c030b7250a52a43e0cb4aeca773cdd95605529feaaa18e121ef2271f7b0ce",
+  "download_date": "2026-05-16T08:14:58Z",
+  "duration_sec": 0.365,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

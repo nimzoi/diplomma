@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00203",
+  "source_url": "https://www.reddit.com/r/Polska/comments/19ep85c/czym_się_zawodowo_zajmujecie/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/19ep85c/czym_się_zawodowo_zajmujecie/.json",
+  "archive_file": null,
+  "http_status": 403,
+  "content_type": null,
+  "size_bytes": null,
+  "sha256": null,
+  "download_date": "2026-05-16T08:19:18Z",
+  "duration_sec": 0.451,
+  "attempt": 6,
+  "error": true,
+  "error_reason": "forbidden_403"
+}

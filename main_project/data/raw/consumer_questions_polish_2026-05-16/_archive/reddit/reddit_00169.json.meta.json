@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00169",
+  "source_url": "https://www.reddit.com/r/Polska/comments/jz700b/gay_drama_storytime_pandemia_studia_związek/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/jz700b/gay_drama_storytime_pandemia_studia_związek/.json",
+  "archive_file": "reddit/reddit_00169.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 89748,
+  "sha256": "29ff11dbd9df15ef70091efb1be78db025c2ad28e6ff158e3c22837aac3ea967",
+  "download_date": "2026-05-16T08:15:36Z",
+  "duration_sec": 0.592,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

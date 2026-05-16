@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00117",
+  "source_url": "https://www.reddit.com/r/Polska/comments/x35o7a/blockfi_scam_xd/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/x35o7a/blockfi_scam_xd/.json",
+  "archive_file": "reddit/reddit_00117.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 12223,
+  "sha256": "92aaeab42763887dbfddaa3c0266b29755a6a47f142c879010ab4949fcbf27a1",
+  "download_date": "2026-05-16T08:09:55Z",
+  "duration_sec": 0.383,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

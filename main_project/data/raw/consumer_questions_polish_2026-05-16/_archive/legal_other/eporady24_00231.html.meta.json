@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00231",
+  "source_url": "https://www.eporady24.pl/sprzedaz-samochodu-z-wada-ukryta-a-zwrot-pieniedzy,pytania,4,47,30151.html",
+  "fetch_url": "https://www.eporady24.pl/sprzedaz-samochodu-z-wada-ukryta-a-zwrot-pieniedzy,pytania,4,47,30151.html",
+  "archive_file": "legal_other/eporady24_00231.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21383,
+  "sha256": "590c7f24b5d8e6ee44526ac9bb4dfcfc91324247f9c6c6ca7007c8f8a7ca70fe",
+  "download_date": "2026-05-16T08:25:39Z",
+  "duration_sec": 0.162,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

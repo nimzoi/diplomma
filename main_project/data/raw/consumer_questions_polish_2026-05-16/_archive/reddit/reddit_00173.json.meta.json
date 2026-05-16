@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00173",
+  "source_url": "https://www.reddit.com/r/Polska/comments/rbnyei/zwrot_czy_reklamacja/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/rbnyei/zwrot_czy_reklamacja/.json",
+  "archive_file": "reddit/reddit_00173.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 38825,
+  "sha256": "cb9c732e0ff14d6020c68bf4c377a6804da7cb91cc0d9de1004201e4ad20a6b1",
+  "download_date": "2026-05-16T08:16:02Z",
+  "duration_sec": 0.394,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

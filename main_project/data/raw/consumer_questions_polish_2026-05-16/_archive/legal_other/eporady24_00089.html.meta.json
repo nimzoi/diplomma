@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00089",
+  "source_url": "https://www.eporady24.pl/reklamacja_naprawy_samochodu,pytania,4,54,687.html",
+  "fetch_url": "https://www.eporady24.pl/reklamacja_naprawy_samochodu,pytania,4,54,687.html",
+  "archive_file": "legal_other/eporady24_00089.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22168,
+  "sha256": "73789e5c12d391ebc6fe96088a2ab5448401adcf16dad6eb357d7bf819da7ad2",
+  "download_date": "2026-05-16T08:22:51Z",
+  "duration_sec": 0.305,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

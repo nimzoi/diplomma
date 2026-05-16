@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00174",
+  "source_url": "https://www.reddit.com/r/Polska/comments/tip8up/pieniądze_za_zakwaterowanie_obywateli_ukrainy_jak/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/tip8up/pieniądze_za_zakwaterowanie_obywateli_ukrainy_jak/.json",
+  "archive_file": "reddit/reddit_00174.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 26759,
+  "sha256": "3d79d80ade866604a80ca73ceeb06066fffb3df372e7296985d2ca8dcb92c800",
+  "download_date": "2026-05-16T08:16:09Z",
+  "duration_sec": 0.338,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

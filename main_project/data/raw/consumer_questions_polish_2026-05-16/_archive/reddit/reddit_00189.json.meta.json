@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00189",
+  "source_url": "https://www.reddit.com/r/Polska/comments/osuxtm/czy_muszę_mieć_kartę_gwarancyjną/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/osuxtm/czy_muszę_mieć_kartę_gwarancyjną/.json",
+  "archive_file": "reddit/reddit_00189.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 94986,
+  "sha256": "a6c0c116d0898f49b0449e6b38cec6b37bd21951b95a6915080c3363da02aae5",
+  "download_date": "2026-05-16T08:17:45Z",
+  "duration_sec": 0.588,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

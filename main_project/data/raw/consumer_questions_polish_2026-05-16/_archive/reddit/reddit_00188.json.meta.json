@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00188",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ffy8oi/gwarancja_producenta/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ffy8oi/gwarancja_producenta/.json",
+  "archive_file": "reddit/reddit_00188.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 20881,
+  "sha256": "57dec41adae26f052cdc5302f5b889e04686fbbd33c43991563093facd3e4c1d",
+  "download_date": "2026-05-16T08:17:38Z",
+  "duration_sec": 0.314,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

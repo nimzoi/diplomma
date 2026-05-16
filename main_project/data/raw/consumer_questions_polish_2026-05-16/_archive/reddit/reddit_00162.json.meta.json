@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00162",
+  "source_url": "https://www.reddit.com/r/Polska/comments/17m67yo/zwrot_z_ubezpieczenia/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/17m67yo/zwrot_z_ubezpieczenia/.json",
+  "archive_file": "reddit/reddit_00162.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 18726,
+  "sha256": "778c0ee96a3f67cfbb8855487218c8e0ff4f6ded75dea46c6f6350748fefe222",
+  "download_date": "2026-05-16T08:14:51Z",
+  "duration_sec": 0.354,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

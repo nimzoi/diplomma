@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00185",
+  "source_url": "https://www.reddit.com/r/Polska/comments/19crq52/granica_opłacalności_napraw/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/19crq52/granica_opłacalności_napraw/.json",
+  "archive_file": "reddit/reddit_00185.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 70423,
+  "sha256": "1668a0548272e9cd0ce5482c192817c44d8a1f867838a30172d82494c4a3a909",
+  "download_date": "2026-05-16T08:17:19Z",
+  "duration_sec": 0.357,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

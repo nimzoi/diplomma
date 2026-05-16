@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00273",
+  "source_url": "https://www.eporady24.pl/sprzedaz-mieszkania-na-dwie-raty,pytania,4,47,24995.html",
+  "fetch_url": "https://www.eporady24.pl/sprzedaz-mieszkania-na-dwie-raty,pytania,4,47,24995.html",
+  "archive_file": "legal_other/eporady24_00273.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22988,
+  "sha256": "7e488e9e853a18321b606e8a130967695afa9ff63470a298c12f1ed493ef0c44",
+  "download_date": "2026-05-16T08:26:29Z",
+  "duration_sec": 0.197,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

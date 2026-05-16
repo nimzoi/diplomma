@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00149",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1iovmp7/wadliwy_sprzęt_a_reklamacje_w_mediaexpert/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1iovmp7/wadliwy_sprzęt_a_reklamacje_w_mediaexpert/.json",
+  "archive_file": "reddit/reddit_00149.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 38207,
+  "sha256": "defe06a6149097faf86b77285d5901c02674e475d8abcdf69748ec49840db231",
+  "download_date": "2026-05-16T08:13:28Z",
+  "duration_sec": 0.337,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

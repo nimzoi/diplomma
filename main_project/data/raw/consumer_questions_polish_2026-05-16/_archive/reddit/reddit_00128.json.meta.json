@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00128",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1r9u5hr/jak_skutecznie_złożyć_reklamację_w_xkom/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1r9u5hr/jak_skutecznie_złożyć_reklamację_w_xkom/.json",
+  "archive_file": "reddit/reddit_00128.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 97136,
+  "sha256": "4b39317b5d135d1e2be825b19f0e4ec7021e3611a35c547b80429462050dc76b",
+  "download_date": "2026-05-16T08:11:10Z",
+  "duration_sec": 0.432,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

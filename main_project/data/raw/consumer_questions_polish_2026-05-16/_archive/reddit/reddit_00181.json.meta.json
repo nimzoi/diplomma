@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00181",
+  "source_url": "https://www.reddit.com/r/Polska/comments/5rgee9/w_kraju_indian_wrze_tygodnik_powszechny/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/5rgee9/w_kraju_indian_wrze_tygodnik_powszechny/.json",
+  "archive_file": "reddit/reddit_00181.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 62816,
+  "sha256": "cffd3b885a0496896ebe8898c06856975a48097e0a9fd906b4f606f711802d66",
+  "download_date": "2026-05-16T08:16:53Z",
+  "duration_sec": 0.403,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

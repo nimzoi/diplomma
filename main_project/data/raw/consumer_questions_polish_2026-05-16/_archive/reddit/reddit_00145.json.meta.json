@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00145",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1jmmubt/zwrot_kosztów_pomoc/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1jmmubt/zwrot_kosztów_pomoc/.json",
+  "archive_file": "reddit/reddit_00145.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 27962,
+  "sha256": "13f5525349198b381fbffb2072e1364fa51b591bad54ac9a73191e1b273ddfa8",
+  "download_date": "2026-05-16T08:13:02Z",
+  "duration_sec": 0.364,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

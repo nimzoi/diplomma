@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00125",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1lebpqg/spadek/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1lebpqg/spadek/.json",
+  "archive_file": "reddit/reddit_00125.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 165207,
+  "sha256": "7cf7c0dfb9e6edc0469a2a8a2ff9b760d587c90e18432082eb181ab378af70d2",
+  "download_date": "2026-05-16T08:10:50Z",
+  "duration_sec": 0.769,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

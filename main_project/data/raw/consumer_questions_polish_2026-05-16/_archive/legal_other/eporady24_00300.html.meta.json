@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00300",
+  "source_url": "https://www.eporady24.pl/awaria-rozrzadu-po-zakupie-samochodu,pytania,4,47,18041.html",
+  "fetch_url": "https://www.eporady24.pl/awaria-rozrzadu-po-zakupie-samochodu,pytania,4,47,18041.html",
+  "archive_file": "legal_other/eporady24_00300.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21697,
+  "sha256": "612bff189c0a498814dcba51c50475cb69f9d8e93b4bd66955e58de929015d1c",
+  "download_date": "2026-05-16T08:27:01Z",
+  "duration_sec": 0.177,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

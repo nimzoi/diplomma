@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00112",
+  "source_url": "https://www.reddit.com/r/Polska/comments/iwzi8j/protip_nie_potrzebujesz_paragonu_do_reklamacji/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/iwzi8j/protip_nie_potrzebujesz_paragonu_do_reklamacji/.json",
+  "archive_file": "reddit/reddit_00112.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 91581,
+  "sha256": "38b52cd19fd7aa07590657df9fbb1d9d4ba7682857de016221a136f8aebabcbe",
+  "download_date": "2026-05-16T08:09:22Z",
+  "duration_sec": 0.565,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

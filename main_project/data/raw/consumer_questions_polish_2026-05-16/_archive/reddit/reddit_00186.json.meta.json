@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00186",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1f89ksd/gwarancja_dell_czy_ktoś_ma_doświadczenia/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1f89ksd/gwarancja_dell_czy_ktoś_ma_doświadczenia/.json",
+  "archive_file": "reddit/reddit_00186.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 29727,
+  "sha256": "7fb0d712f0e03274a4b517363a013efe53280be3be379a660be438bbd81e1dad",
+  "download_date": "2026-05-16T08:17:26Z",
+  "duration_sec": 0.297,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

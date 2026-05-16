@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00140",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1hrf08n/kryształy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1hrf08n/kryształy/.json",
+  "archive_file": "reddit/reddit_00140.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 49230,
+  "sha256": "6a32e69cf4019d0b44fbf21a0f898bb7270fbdbadea8193388a11354d6245f97",
+  "download_date": "2026-05-16T08:12:30Z",
+  "duration_sec": 0.396,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

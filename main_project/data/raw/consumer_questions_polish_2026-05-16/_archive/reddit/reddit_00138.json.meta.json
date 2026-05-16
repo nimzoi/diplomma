@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00138",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1kxt6ln/prośba_o_polecajki_czytników_ebooków/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1kxt6ln/prośba_o_polecajki_czytników_ebooków/.json",
+  "archive_file": "reddit/reddit_00138.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 68199,
+  "sha256": "cccb9d1b6ae57bd74270e622a4a3d54fbafa7499add55eb997ae9f3cfed74e83",
+  "download_date": "2026-05-16T08:12:17Z",
+  "duration_sec": 0.373,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

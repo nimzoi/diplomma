@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00183",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1exjpnc/rowery_z_giełdy_to_jakaś_porażka/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1exjpnc/rowery_z_giełdy_to_jakaś_porażka/.json",
+  "archive_file": "reddit/reddit_00183.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 122263,
+  "sha256": "4932b279b1c0a04cef958dd8af009f27e5e273b958d7b5774b7b03b1f2d9673f",
+  "download_date": "2026-05-16T08:17:06Z",
+  "duration_sec": 0.682,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

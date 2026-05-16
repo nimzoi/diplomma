@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00171",
+  "source_url": "https://www.reddit.com/r/Polska/comments/53tlcp/bezdomny_ochroniarz_na_służbie_za_350_wyborcza/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/53tlcp/bezdomny_ochroniarz_na_służbie_za_350_wyborcza/.json",
+  "archive_file": "reddit/reddit_00171.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 175017,
+  "sha256": "b18153df963376a7a522a83b07a6219eaf82893d22ee2f0a04812d8937073d02",
+  "download_date": "2026-05-16T08:15:50Z",
+  "duration_sec": 0.83,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

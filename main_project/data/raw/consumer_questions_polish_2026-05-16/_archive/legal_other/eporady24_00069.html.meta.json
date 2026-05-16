@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00069",
+  "source_url": "https://www.eporady24.pl/reklamacja_kurtki,pytania,4,54,7206.html",
+  "fetch_url": "https://www.eporady24.pl/reklamacja_kurtki,pytania,4,54,7206.html",
+  "archive_file": "legal_other/eporady24_00069.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21889,
+  "sha256": "74a7324e01c9e2ae39a4a05236a50c54e8a8178433b673efdc4c3e060c21a20d",
+  "download_date": "2026-05-16T08:22:27Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00157",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1d21e3y/matura_z_biologii/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1d21e3y/matura_z_biologii/.json",
+  "archive_file": "reddit/reddit_00157.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 22031,
+  "sha256": "3a44c945816e557742f36566a01095e8ed1ddaab2b3cca2e09ce9dbebc2464e1",
+  "download_date": "2026-05-16T08:14:20Z",
+  "duration_sec": 0.299,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

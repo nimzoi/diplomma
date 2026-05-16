@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00072",
+  "source_url": "https://www.eporady24.pl/reklamacja_towaru,pytania,4,54,5969.html",
+  "fetch_url": "https://www.eporady24.pl/reklamacja_towaru,pytania,4,54,5969.html",
+  "archive_file": "legal_other/eporady24_00072.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23112,
+  "sha256": "6831333162b7703d6bc531f87fb4dc80a489a3740c055b3a38f68e21572c7741",
+  "download_date": "2026-05-16T08:22:31Z",
+  "duration_sec": 0.149,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

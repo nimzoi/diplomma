@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00182",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1e1t8yk/sprzedawca_zamyka_biznes_a_gwarancja/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1e1t8yk/sprzedawca_zamyka_biznes_a_gwarancja/.json",
+  "archive_file": "reddit/reddit_00182.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 110826,
+  "sha256": "5478e03fa965a941fca0e4f1a3dc50f5607a826c90c48817e1c029489091edd5",
+  "download_date": "2026-05-16T08:17:00Z",
+  "duration_sec": 0.653,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

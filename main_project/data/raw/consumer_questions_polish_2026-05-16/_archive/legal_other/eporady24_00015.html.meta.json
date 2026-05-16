@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00015",
+  "source_url": "https://www.eporady24.pl/anulowanie-rezerwacji-na-bookingcom,pytania,4,54,27523.html",
+  "fetch_url": "https://www.eporady24.pl/anulowanie-rezerwacji-na-bookingcom,pytania,4,54,27523.html",
+  "archive_file": "legal_other/eporady24_00015.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 24510,
+  "sha256": "600567f6b50d977c41de4309826d189444b1377520b67d17345c402d2670fa32",
+  "download_date": "2026-05-16T08:21:24Z",
+  "duration_sec": 0.294,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

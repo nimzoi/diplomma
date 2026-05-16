@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00144",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1c1ga6m/jć_media_markt/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1c1ga6m/jć_media_markt/.json",
+  "archive_file": "reddit/reddit_00144.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 102338,
+  "sha256": "3bf2b2e7681c082eadde05014063171a721d586f64ad242f929f45c316228509",
+  "download_date": "2026-05-16T08:12:56Z",
+  "duration_sec": 0.919,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

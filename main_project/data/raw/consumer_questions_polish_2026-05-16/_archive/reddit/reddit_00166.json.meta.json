@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00166",
+  "source_url": "https://www.reddit.com/r/Polska/comments/xvi5t3/czy_mediaexpert_zwróci_mi_pieniądze/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/xvi5t3/czy_mediaexpert_zwróci_mi_pieniądze/.json",
+  "archive_file": "reddit/reddit_00166.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 37275,
+  "sha256": "858d7a2196ba59d7a2b05a0efd3586005609a1724fdb65a9a7316d5d33697d86",
+  "download_date": "2026-05-16T08:15:17Z",
+  "duration_sec": 0.415,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

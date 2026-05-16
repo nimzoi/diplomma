@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00196",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1g4tyj0/trend_lazy_girl_job/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1g4tyj0/trend_lazy_girl_job/.json",
+  "archive_file": "reddit/reddit_00196.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 497775,
+  "sha256": "374f1ebdfaf0b2992deb9466f933ed3f007ea013d0ee807b1e9ff55f0ce86abd",
+  "download_date": "2026-05-16T08:18:31Z",
+  "duration_sec": 1.574,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

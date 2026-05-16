@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00190",
+  "source_url": "https://www.reddit.com/r/Polska/comments/15h4b0c/gwarancja_ceny_na_prąd_w_2024_czy_warto/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/15h4b0c/gwarancja_ceny_na_prąd_w_2024_czy_warto/.json",
+  "archive_file": "reddit/reddit_00190.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 28971,
+  "sha256": "cc348c0ab49e7f69c87537e73e5819767a32593e3842dab996244111ae98c897",
+  "download_date": "2026-05-16T08:29:03Z",
+  "duration_sec": 0.583,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

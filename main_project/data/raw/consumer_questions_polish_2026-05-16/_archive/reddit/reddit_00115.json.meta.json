@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00115",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ghmiym/niejasna_umowa/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ghmiym/niejasna_umowa/.json",
+  "archive_file": "reddit/reddit_00115.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 30079,
+  "sha256": "6684c964a75988444894d13a1c95264f52ceecb57c845a62edc68bda88cecc01",
+  "download_date": "2026-05-16T08:09:42Z",
+  "duration_sec": 0.702,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

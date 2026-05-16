@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00284",
+  "source_url": "https://www.eporady24.pl/zakup-mieszkania-nielegalnie-przerobionego,pytania,4,47,22696.html",
+  "fetch_url": "https://www.eporady24.pl/zakup-mieszkania-nielegalnie-przerobionego,pytania,4,47,22696.html",
+  "archive_file": "legal_other/eporady24_00284.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 22313,
+  "sha256": "362bfb980412aa22b02f41ddaa0c082cac45ed507924e1591b3f44642af956ef",
+  "download_date": "2026-05-16T08:26:42Z",
+  "duration_sec": 0.149,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

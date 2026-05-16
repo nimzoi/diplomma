@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00168",
+  "source_url": "https://www.reddit.com/r/Polska/comments/g31t7m/radio_nowy_świat_powstała_więc_ratujmy_trójkę_sp/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/g31t7m/radio_nowy_świat_powstała_więc_ratujmy_trójkę_sp/.json",
+  "archive_file": "reddit/reddit_00168.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 60074,
+  "sha256": "c8f9b8b6fd8a81751a90a6b7123730d2b620fa00fe4aedcb7b478e850b8b9228",
+  "download_date": "2026-05-16T08:15:30Z",
+  "duration_sec": 0.442,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

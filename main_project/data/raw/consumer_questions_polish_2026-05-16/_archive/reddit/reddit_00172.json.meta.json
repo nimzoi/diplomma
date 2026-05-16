@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00172",
+  "source_url": "https://www.reddit.com/r/Polska/comments/sjgfua/państwowy_fundusz_rehabilitacji_osób/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/sjgfua/państwowy_fundusz_rehabilitacji_osób/.json",
+  "archive_file": "reddit/reddit_00172.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 25326,
+  "sha256": "4538248f253ff4c992e856de02b795480c5c8a16ac0d2d01d0519f731e157b6e",
+  "download_date": "2026-05-16T08:15:56Z",
+  "duration_sec": 0.372,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

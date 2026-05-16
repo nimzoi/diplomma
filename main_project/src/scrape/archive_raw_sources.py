@@ -82,7 +82,7 @@ class ArchiveFetcher:
         self._default_headers = {
             "User-Agent": USER_AGENT_BASE,
             "Accept-Language": "pl,en;q=0.7",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,application/pdf,*/*;q=0.8",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,application/pdf,*/*;q=0.8",  # noqa: E501
             "Accept-Encoding": "gzip, deflate, br",
         }
         if not per_request_session:
@@ -111,10 +111,7 @@ class ArchiveFetcher:
                 self._last_fetch = time.monotonic()
                 if resp.status_code == 200:
                     # WAF Incapsula challenge (tiny body z _Incapsula_Resource)
-                    if (
-                        len(resp.content) < 2048
-                        and b"_Incapsula_Resource" in resp.content
-                    ):
+                    if len(resp.content) < 2048 and b"_Incapsula_Resource" in resp.content:
                         logger.warning(
                             "GET %s -> WAF challenge (Incapsula) attempt %d/%d",
                             url,
@@ -124,13 +121,10 @@ class ArchiveFetcher:
                         time.sleep(3.0 * (attempt + 1))
                         continue
                     # ms.gov.pl rate-limit response: "Połączenie odrzucone" mini-page
-                    if (
-                        len(resp.content) < 1024
-                        and (
-                            b"Po\xc5\x82\xc4\x85czenie odrzucone" in resp.content
-                            or b"Po\xc5\x82\xc4\x85czenie do" in resp.content
-                            or b"connection refused" in resp.content.lower()
-                        )
+                    if len(resp.content) < 1024 and (
+                        b"Po\xc5\x82\xc4\x85czenie odrzucone" in resp.content
+                        or b"Po\xc5\x82\xc4\x85czenie do" in resp.content
+                        or b"connection refused" in resp.content.lower()
                     ):
                         logger.warning(
                             "GET %s -> rate-limit reject (ms.gov.pl) attempt %d/%d",
@@ -236,7 +230,9 @@ class ArchiveManifest:
         }
         with path.open("w", encoding="utf-8") as f:
             json.dump(d, f, ensure_ascii=False, indent=2)
-        logger.info("manifest -> %s (%d entries, %d errors)", path, len(self.entries), len(self.errors))
+        logger.info(
+            "manifest -> %s (%d entries, %d errors)", path, len(self.entries), len(self.errors)
+        )
 
 
 # === Helpers ===
@@ -287,7 +283,9 @@ def load_existing_manifest(path: Path) -> dict[str, ManifestEntry]:
         if "error_reason" in e:
             continue  # don't trust errors — re-attempt
         # Require minimum schema fields
-        if not all(k in e for k in ("doc_id", "source_url", "archive_path", "sha256", "size_bytes")):
+        if not all(
+            k in e for k in ("doc_id", "source_url", "archive_path", "sha256", "size_bytes")
+        ):
             return {}  # foreign manifest schema — treat as missing
         out[e["doc_id"]] = ManifestEntry(
             doc_id=e["doc_id"],
@@ -327,7 +325,9 @@ def archive_uokik_pdfs(*, dry_run: bool = False) -> ArchiveManifest:
     source_dir = DATA_RAW / "consumer_documents_2026-05-16" / "uokik_pdfs"
     archive_dir = source_dir / "_archive"
     manifest_path = archive_dir / "_manifest.json"
-    manifest = ArchiveManifest(source="uokik.gov.pl/Download", source_dir=str(source_dir.relative_to(REPO_ROOT)))
+    manifest = ArchiveManifest(
+        source="uokik.gov.pl/Download", source_dir=str(source_dir.relative_to(REPO_ROOT))
+    )
 
     # Map document_id -> chunk_ids
     chunk_map: dict[str, list[str]] = {}
@@ -394,7 +394,9 @@ def archive_rf_pdfs(*, dry_run: bool = False) -> ArchiveManifest:
     source_dir = DATA_RAW / "consumer_documents_2026-05-16" / "rf_pdfs"
     archive_dir = source_dir / "_archive"
     manifest_path = archive_dir / "_manifest.json"
-    manifest = ArchiveManifest(source="rf.gov.pl", source_dir=str(source_dir.relative_to(REPO_ROOT)))
+    manifest = ArchiveManifest(
+        source="rf.gov.pl", source_dir=str(source_dir.relative_to(REPO_ROOT))
+    )
 
     chunk_map: dict[str, list[str]] = {}
     records = load_jsonl(source_dir / "documents.jsonl")
@@ -527,7 +529,9 @@ def archive_orzeczenia(*, dry_run: bool = False) -> ArchiveManifest:
     source_dir = DATA_RAW / "consumer_documents_2026-05-16" / "orzeczenia"
     archive_dir = source_dir / "_archive"
     manifest_path = archive_dir / "_manifest.json"
-    manifest = ArchiveManifest(source="orzeczenia.ms.gov.pl", source_dir=str(source_dir.relative_to(REPO_ROOT)))
+    manifest = ArchiveManifest(
+        source="orzeczenia.ms.gov.pl", source_dir=str(source_dir.relative_to(REPO_ROOT))
+    )
 
     chunk_map: dict[str, list[str]] = {}
     records = load_jsonl(source_dir / "documents.jsonl")
@@ -599,13 +603,17 @@ def archive_ue_dyrektywy(*, dry_run: bool = False) -> ArchiveManifest:
     source_dir = DATA_RAW / "ue_dyrektywy_2026-05-16"
     archive_dir = source_dir / "_archive"
     manifest_path = archive_dir / "_manifest.json"
-    manifest = ArchiveManifest(source="eur-lex.europa.eu", source_dir=str(source_dir.relative_to(REPO_ROOT)))
+    manifest = ArchiveManifest(
+        source="eur-lex.europa.eu", source_dir=str(source_dir.relative_to(REPO_ROOT))
+    )
 
     existing = load_existing_manifest(manifest_path)
     fetcher = ArchiveFetcher(rate_limit_sec=2.0)  # EUR-Lex polite rate
 
     meta_files = sorted(source_dir.glob("*_meta.json"))
-    logger.info("ue_dyrektywy: %d directives x 2 formats = %d files", len(meta_files), 2 * len(meta_files))
+    logger.info(
+        "ue_dyrektywy: %d directives x 2 formats = %d files", len(meta_files), 2 * len(meta_files)
+    )
 
     for meta_path in meta_files:
         meta = json.loads(meta_path.read_text(encoding="utf-8"))
@@ -618,15 +626,9 @@ def archive_ue_dyrektywy(*, dry_run: bool = False) -> ArchiveManifest:
 
         for fmt in ("pdf", "html"):
             doc_id = f"{celex_id}_{fmt}"
-            url = (
-                meta.get("source_url_pdf")
-                if fmt == "pdf"
-                else meta.get("source_url_html")
-            )
+            url = meta.get("source_url_pdf") if fmt == "pdf" else meta.get("source_url_html")
             if not url:
-                url = (
-                    f"https://eur-lex.europa.eu/legal-content/PL/TXT/{fmt.upper()}/?uri=CELEX:{celex_id}"
-                )
+                url = f"https://eur-lex.europa.eu/legal-content/PL/TXT/{fmt.upper()}/?uri=CELEX:{celex_id}"
             archive_path_rel = f"_archive/{celex_id}.{fmt}"
             archive_path_abs = source_dir / "_archive" / f"{celex_id}.{fmt}"
 
@@ -681,7 +683,9 @@ def archive_tsue(*, dry_run: bool = False) -> ArchiveManifest:
     source_dir = DATA_RAW / "tsue_orzeczenia_2026-05-16"
     archive_dir = source_dir / "_archive"
     manifest_path = archive_dir / "_manifest.json"
-    manifest = ArchiveManifest(source="eur-lex.europa.eu (TSUE)", source_dir=str(source_dir.relative_to(REPO_ROOT)))
+    manifest = ArchiveManifest(
+        source="eur-lex.europa.eu (TSUE)", source_dir=str(source_dir.relative_to(REPO_ROOT))
+    )
 
     existing = load_existing_manifest(manifest_path)
     fetcher = ArchiveFetcher(rate_limit_sec=2.0)
@@ -703,9 +707,7 @@ def archive_tsue(*, dry_run: bool = False) -> ArchiveManifest:
 
         for fmt in ("pdf", "html"):
             doc_id = f"{celex_id}_{fmt}"
-            url = (
-                f"https://eur-lex.europa.eu/legal-content/PL/TXT/{fmt.upper()}/?uri=CELEX:{celex_id}"
-            )
+            url = f"https://eur-lex.europa.eu/legal-content/PL/TXT/{fmt.upper()}/?uri=CELEX:{celex_id}"
             archive_path_rel = f"_archive/{celex_id}.{fmt}"
             archive_path_abs = source_dir / "_archive" / f"{celex_id}.{fmt}"
 
@@ -788,7 +790,9 @@ def _archive_extended_html(
         targets = [(rec["source_url"], rec) for rec in records]
         url_to_chunks = {rec["source_url"]: [rec.get(id_field, "")] for rec in records}
 
-    logger.info("%s: %d records -> %d unique URLs to fetch", archive_subdir, len(records), len(targets))
+    logger.info(
+        "%s: %d records -> %d unique URLs to fetch", archive_subdir, len(records), len(targets)
+    )
 
     for url, rec in targets:
         if slug_field and rec.get(slug_field):
@@ -844,7 +848,9 @@ def archive_extended_wikipedia(*, dry_run: bool = False) -> ArchiveManifest:
     """Wikipedia: 34 chunks → 15 unique URLs."""
     source_dir = DATA_RAW / "extended_consumer_2026-05-16"
     manifest_path = source_dir / "_archive" / "wikipedia" / "_manifest.json"
-    manifest = ArchiveManifest(source="pl.wikipedia.org", source_dir=str(source_dir.relative_to(REPO_ROOT)))
+    manifest = ArchiveManifest(
+        source="pl.wikipedia.org", source_dir=str(source_dir.relative_to(REPO_ROOT))
+    )
     fetcher = ArchiveFetcher(rate_limit_sec=1.0)
     existing = load_existing_manifest(manifest_path)
     _archive_extended_html(
@@ -886,7 +892,9 @@ def archive_extended_uokik_news(*, dry_run: bool = False) -> ArchiveManifest:
     """UOKiK news E1: 111 records, 1:1."""
     source_dir = DATA_RAW / "extended_consumer_2026-05-16"
     manifest_path = source_dir / "_archive" / "uokik_news" / "_manifest.json"
-    manifest = ArchiveManifest(source="uokik.gov.pl (news)", source_dir=str(source_dir.relative_to(REPO_ROOT)))
+    manifest = ArchiveManifest(
+        source="uokik.gov.pl (news)", source_dir=str(source_dir.relative_to(REPO_ROOT))
+    )
     fetcher = ArchiveFetcher(rate_limit_sec=1.5)
     existing = load_existing_manifest(manifest_path)
     _archive_extended_html(
@@ -924,7 +932,9 @@ def archive_extended_rf_faq(*, dry_run: bool = False) -> ArchiveManifest:
     """RF FAQ E1: 374 records → 25 unique URLs (per-category). WAF."""
     source_dir = DATA_RAW / "extended_consumer_2026-05-16"
     manifest_path = source_dir / "_archive" / "rf_faq" / "_manifest.json"
-    manifest = ArchiveManifest(source="rf.gov.pl (FAQ)", source_dir=str(source_dir.relative_to(REPO_ROOT)))
+    manifest = ArchiveManifest(
+        source="rf.gov.pl (FAQ)", source_dir=str(source_dir.relative_to(REPO_ROOT))
+    )
     fetcher = ArchiveFetcher(rate_limit_sec=3.0, per_request_session=True)
     existing = load_existing_manifest(manifest_path)
     _archive_extended_html(
@@ -946,7 +956,9 @@ def archive_uokik_qa(*, dry_run: bool = False) -> ArchiveManifest:
     """UOKiK Q&A gold: 60 pairs → 5 unique URLs (per-category)."""
     source_dir = DATA_RAW / "uokik_qa_2026-05-16"
     manifest_path = source_dir / "_archive" / "_manifest.json"
-    manifest = ArchiveManifest(source="prawakonsumenta.uokik.gov.pl", source_dir=str(source_dir.relative_to(REPO_ROOT)))
+    manifest = ArchiveManifest(
+        source="prawakonsumenta.uokik.gov.pl", source_dir=str(source_dir.relative_to(REPO_ROOT))
+    )
     fetcher = ArchiveFetcher(rate_limit_sec=1.5)
     existing = load_existing_manifest(manifest_path)
     _archive_extended_html(
@@ -1067,13 +1079,18 @@ SOURCE_REGISTRY: dict[str, tuple[str, Any]] = {
     "gov_pl": ("Priority 3: gov.pl HTML", archive_extended_gov_pl),
     "rf_faq": ("Priority 3: RF FAQ HTML (WAF)", archive_extended_rf_faq),
     "uokik_qa": ("Priority 4: UOKiK Q&A categories HTML", archive_uokik_qa),
-    "consumer_questions": ("Priority 4: consumer questions proof sample", archive_consumer_questions_sample),
+    "consumer_questions": (
+        "Priority 4: consumer questions proof sample",
+        archive_consumer_questions_sample,
+    ),
 }
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--source", "-s", action="append", default=None, help="Source key (repeat for multiple)")
+    parser.add_argument(
+        "--source", "-s", action="append", default=None, help="Source key (repeat for multiple)"
+    )
     parser.add_argument("--all", action="store_true", help="Run all sources")
     parser.add_argument("--dry-run", action="store_true", help="Don't download — log plan")
     parser.add_argument("--log-level", default="INFO", help="DEBUG|INFO|WARNING")
@@ -1116,7 +1133,7 @@ def main() -> int:
                 "errors": len(m.errors),
                 "total_bytes": sum(e.size_bytes for e in m.entries),
             }
-        except Exception as exc:  # noqa: BLE001
+        except Exception as exc:
             logger.exception("source %s FAILED: %s", key, exc)
             summary[key] = {"entries": 0, "errors": -1, "total_bytes": 0, "exception": str(exc)}
 
@@ -1141,10 +1158,14 @@ def main() -> int:
 
     print("\n=== SWEEP SUMMARY ===")
     for key, s in summary.items():
-        print(f"  {key:20s}  entries={s['entries']:4d}  errors={s['errors']:3d}  bytes={s['total_bytes']:>12,d}")
-    print(f"\nTOTAL: {sum(s['entries'] for s in summary.values())} entries, "
-          f"{sum(s['total_bytes'] for s in summary.values()):,} bytes "
-          f"(~{sum(s['total_bytes'] for s in summary.values()) / 1024 / 1024:.1f} MB)")
+        print(
+            f"  {key:20s}  entries={s['entries']:4d}  errors={s['errors']:3d}  bytes={s['total_bytes']:>12,d}"  # noqa: E501
+        )
+    print(
+        f"\nTOTAL: {sum(s['entries'] for s in summary.values())} entries, "
+        f"{sum(s['total_bytes'] for s in summary.values()):,} bytes "
+        f"(~{sum(s['total_bytes'] for s in summary.values()) / 1024 / 1024:.1f} MB)"
+    )
 
     return 0
 

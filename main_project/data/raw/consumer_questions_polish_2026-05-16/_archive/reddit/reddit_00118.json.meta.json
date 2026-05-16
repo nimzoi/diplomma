@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00118",
+  "source_url": "https://www.reddit.com/r/Polska/comments/9xe1ny/ankieta_dotycząca_łamania_praw_konsumenta/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/9xe1ny/ankieta_dotycząca_łamania_praw_konsumenta/.json",
+  "archive_file": "reddit/reddit_00118.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 13624,
+  "sha256": "a6c030635b57b27da1d0d005e56db8277ef3896764841b8010c673ba47dd0663",
+  "download_date": "2026-05-16T08:10:01Z",
+  "duration_sec": 0.391,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

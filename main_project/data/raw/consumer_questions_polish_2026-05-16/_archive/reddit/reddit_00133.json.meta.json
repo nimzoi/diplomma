@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00133",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ol0u66/jak_nie_dostać_zapłaty_mimo_że_wszystko_zrobiłeś/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ol0u66/jak_nie_dostać_zapłaty_mimo_że_wszystko_zrobiłeś/.json",
+  "archive_file": "reddit/reddit_00133.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 78627,
+  "sha256": "c9734cefcc451c393de38bf1f554db23003e5a2756d61e4a3b06f435a68a397d",
+  "download_date": "2026-05-16T08:11:43Z",
+  "duration_sec": 0.394,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

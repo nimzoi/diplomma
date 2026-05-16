@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00054",
+  "source_url": "https://www.eporady24.pl/sprzedaz_i_zwrot_czesci_uzywanych,pytania,4,54,13845.html",
+  "fetch_url": "https://www.eporady24.pl/sprzedaz_i_zwrot_czesci_uzywanych,pytania,4,54,13845.html",
+  "archive_file": "legal_other/eporady24_00054.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 21930,
+  "sha256": "a60dd513148aa185cf66daf12afa7974b1a2c1c7408f06ac1ababcb6262e1c89",
+  "download_date": "2026-05-16T08:22:10Z",
+  "duration_sec": 0.257,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

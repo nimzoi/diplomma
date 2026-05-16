@@ -1,0 +1,15 @@
+{
+  "question_id": "eporady24_00011",
+  "source_url": "https://www.eporady24.pl/reklamacja-zle-wykonanego-tatuazu,pytania,4,54,33632.html",
+  "fetch_url": "https://www.eporady24.pl/reklamacja-zle-wykonanego-tatuazu,pytania,4,54,33632.html",
+  "archive_file": "legal_other/eporady24_00011.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "size_bytes": 23120,
+  "sha256": "cc99b219a1b26a357b0d5002919e52900d57bae933c9d10d414e43b3be252cdb",
+  "download_date": "2026-05-16T08:21:20Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00206",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1p3vr38/plan_pokojowy_dla_ukrainy_poważna_analiza/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1p3vr38/plan_pokojowy_dla_ukrainy_poważna_analiza/.json",
+  "archive_file": null,
+  "http_status": 403,
+  "content_type": null,
+  "size_bytes": null,
+  "sha256": null,
+  "download_date": "2026-05-16T08:19:37Z",
+  "duration_sec": 0.306,
+  "attempt": 6,
+  "error": true,
+  "error_reason": "forbidden_403"
+}

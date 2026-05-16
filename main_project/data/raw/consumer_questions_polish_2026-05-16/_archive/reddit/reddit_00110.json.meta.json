@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00110",
+  "source_url": "https://www.reddit.com/r/Polska/comments/5n49y8/prawa_konsumenta_i_jebane_lg/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/5n49y8/prawa_konsumenta_i_jebane_lg/.json",
+  "archive_file": "reddit/reddit_00110.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 22617,
+  "sha256": "ead21cd30d3101e883fbe3178bad2b9a938c593f1242032eebb5e13540bee99e",
+  "download_date": "2026-05-16T08:09:08Z",
+  "duration_sec": 0.346,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

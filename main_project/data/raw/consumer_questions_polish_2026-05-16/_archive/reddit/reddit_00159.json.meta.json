@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00159",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1774g1v/opłata_dodatkowa_150zł_intercity/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1774g1v/opłata_dodatkowa_150zł_intercity/.json",
+  "archive_file": "reddit/reddit_00159.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 40222,
+  "sha256": "397fe4417a5364a6641313729e555b62069391e9c3c97d44d44fed0ca042b50f",
+  "download_date": "2026-05-16T08:14:32Z",
+  "duration_sec": 0.492,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}
