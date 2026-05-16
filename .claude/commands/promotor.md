@@ -2,9 +2,9 @@
 description: Generate 10 critical questions promotor Kojałowicz might ask. Style — structured technical defensiveness.
 ---
 
-Argument: $ARGUMENTS — obszar fokusu (np. "feasibility test psychiatria",
-"drift detection design", "harmonogram realistyczny", "wybór polish-reranker"),
-albo puste = całokształt projektu.
+Argument: $ARGUMENTS — obszar fokusu (np. "Iter. 0b POC results T1 mDeBERTa",
+"drift detection design", "halu probe layer 47 wybór", "wybór mDeBERTa Tier 1 zamiast HerBERT",
+"5,402 halu pairs balance"), albo puste = całokształt projektu v3.2.
 
 ## Profil promotora (z brief sekcja 1)
 
@@ -29,11 +29,12 @@ N. [PYTANIE — krótkie, ostre]
   "dlaczego cykl 3 retreningu ma dać ≤2pp a nie 0pp przy plateau?"
 - **Cytuj specyficzne wartości** z konspekt (kappa 0.50 vs 0.75, nDCG ≥10pp,
   precision 0.80, etc.)
-- **Probuj decyzje techniczne** — czemu polish-reranker-roberta-v3 a nie E5-mistral?
-  Czemu PLLuM-12B a nie większy model jako judge?
+- **Probuj decyzje techniczne** — czemu mDeBERTa Tier 1 a nie HerBERT-large + CDSC-E fine-tune?
+  Czemu Bielik 11B v3 layer 47 a nie 49 lub 45? Czemu gliclass tylko jako Tier 0 ablation?
 - **Probuj scope** — czemu drift detection w core a nie future work?
-  Czemu BGE-M3 frozen?
-- **Probuj harmonogram** — czemu cykle 2-3 idą na sem. III a nie kompresja sem. II?
+  Czemu BGE-M3 frozen? Czemu RAG MVP w Iter. 1 a probe training osobno?
+- **Probuj harmonogram** — czemu manual gold 200 par w Iter. 5 a nie wcześniej?
+  Czemu cykle 2-3 retraining przed observability?
 - **Probuj defensibility** — gdzie są dziury w argumentacji?
 
 ## Po 10 pytaniach

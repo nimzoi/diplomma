@@ -1,19 +1,18 @@
 ---
-description: Where am I vs iteration plan from 02b_konspekt_v3_updates.md II.16. Iteration-based check (NIE calendar weeks). Brutal honest.
+description: Where am I vs iteration plan z 02_konspekt_v3.2_skeleton.md + PLAN_cele_i_kroki.md (post-DEC-003 v3.2 halu detection). Iteration-based (NIE calendar weeks). Brutal honest.
 ---
 
 ## Procedura
 
-1. **Sprawdź bieżącą iterację** — czytaj `thesis_research/02b_konspekt_v3_updates.md` sekcja II.16:
-   - **Iteracja 0:** feasibility (URPL test + judge picked)
-   - **Iteracja 1:** corpus full + EDA + eval set (200 par gold standard psych subset)
-   - **Iteracja 2:** pipeline core + cykl 1 + ablations A1-A4
-   - **Iteracja 3:** cykle 2 + 3 + plateau analysis (RQ3 answered)
-   - **Iteracja 4:** cross-register RQ5 (MRR per direction)
-   - **Iteracja 5:** drift detection RQ4 (simulated OOD)
-   - **Iteracja 6:** kategoryczna error analysis (Defense scaffolding pkt 2)
-   - **Iteracja 7:** writing R1-R6
-   - **Iteracja 8:** finalization (R7+R8 + PJATK format + abstract + binding)
+1. **Sprawdź bieżącą iterację** — czytaj `thesis_research/PLAN_cele_i_kroki.md` + `02_konspekt_v3.2_skeleton.md`:
+   - **Iteracja 0b POC:** 4 kill-criteria testy (T1 mDeBERTa NLI sanity ✓ PASS 80.6% / T2 Outlines+Bielik diakrytyki / T3 PyTorch hooks layer 47 / T4 lab GPU verify)
+   - **Iteracja 1:** RAG MVP (Bielik + Qdrant + LlamaIndex + 3-tier NLI verifier + Gradio 3-tab) + halu probe training layer 47
+   - **Iteracja 2:** Continuous improvement loop (3 cykle retraining z drift triggers)
+   - **Iteracja 3:** Observability stack (Langfuse + Evidently + Alibi Detect + LGTM + Alertmanager)
+   - **Iteracja 4:** Serving + CI/CD (SGLang + TEI + FastAPI + Docker + GH Actions)
+   - **Iteracja 5:** Manual gold standard 200 par + 4-way verifier ablation (mDeBERTa + HerBERT + gliclass + LLM-judge)
+   - **Iteracja 6:** 6-poziomowa error analysis + ablations A1-A4 + RAGAS faithfulness
+   - **Iteracja 7-8:** R1-R8 writing + PJATK formatting + citation pass + defense scaffolding
 
 2. **Scan repo state** (równolegle):
    - `main_project/` — pliki kodu? `git log --oneline -20` w main_project

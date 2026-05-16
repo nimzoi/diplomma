@@ -246,11 +246,12 @@ kategorii (zachowują kolejność z HTML).
 - **N=60 par to mało** dla pełnego eval setu — UOKiK Q&A można użyć
   jako *gold standard subset*, dopełnić innymi źródłami (np. ISAP,
   Rejestr Klauzul Niedozwolonych UOKiK, infor.pl Q&A).
-- **Domena to consumer rights — nie pharmacology.** Ta data jest
-  out-of-scope dla głównego use case pracy (farmakologia kliniczna),
-  ale citation-grounded RAG patterns przenoszą się — `Podstawa prawna:
-  <statute>` jest analogiczne do `Zgodnie z art. X Prawa
-  Farmaceutycznego` w ChPL/Ulotka pairing (RQ5).
+- **Domena to consumer rights — CENTRAL dla pracy (post-DEC-003 pivot 2026-05-16).**
+  UOKiK Q&A jest gold standard core dla RQ3 (3-tier NLI verifier ≥85% citation
+  precision) — `Podstawa prawna: <statute>` format mapuje deterministyczne na
+  ISAP chunks (UPK Dz.U. 2014/827, KC art. 535-581, UE dyrektywy konsumenckie).
+  60 par jako halu_injector source dla 360+ HaluPair (1 neg + 5+ pos balanced 5/5
+  typów per fix 2026-05-16).
 - **Statute strings są raw z UOKiK** — nie są zmapowane na konkretne
   publication IDs (np. nie ma linka do ISAP entry). Dla downstream
   use w benchmarku grounded retrieval rekomendowane: dorobić mapping

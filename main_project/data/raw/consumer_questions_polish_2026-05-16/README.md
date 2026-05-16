@@ -1,7 +1,7 @@
 # Polish consumer-rights questions — multi-source scrape
 
 Data zbioru: **2026-05-16**
-Cel: real consumer questions z polskich for prawnych + Reddit jako uzupełnienie UOKiK Q&A gold standard. Wykorzystywane w pracy inżynierskiej Magdaleny Sochackiej (PJATK Data Science / s25508) — RAG retrieval retraining dla domeny farmakologii klinicznej (eval halu sub-task: tu używamy questions jako stress test dla Bielik 11B v3 — generujemy własne odpowiedzi i sprawdzamy halucynacje).
+Cel: real consumer questions z polskich for prawnych + Reddit jako query distribution dla pracy inżynierskiej Magdaleny Sochackiej (PJATK Data Science / s25508) — **citation-grounded polish RAG z hidden-states hallucination probe**, studium przypadku polskie prawa konsumenta (per DEC-003 pivot 2026-05-16). Questions jako stress test dla RAG (Bielik 11B v3) + halu probe layer 47 + 3-tier NLI verifier — generujemy własne odpowiedzi i sprawdzamy halucynacje vs cytacje do ISAP/UOKiK/EUR-Lex.
 
 > **NIE pobraliśmy odpowiedzi z forów (poza eporady24 gdzie meta description = parafraza pytania, NIE odpowiedź).** Reasons: odpowiedzi od losowych userów są noisy, nie stanowią ground truth; do halu eval generujemy własne odpowiedzi z Bielik.
 
