@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00054",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1qkkj2y/inpost_zgubił_9_kg_karmy_dla_psa/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1qkkj2y/inpost_zgubił_9_kg_karmy_dla_psa/.json",
+  "archive_file": "reddit/reddit_00054.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 73384,
+  "sha256": "dc23f5e9ab322b4a8b56067f239e207e4f19a527eb1a910e331eb152ad85dd0f",
+  "download_date": "2026-05-16T08:05:03Z",
+  "duration_sec": 0.417,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

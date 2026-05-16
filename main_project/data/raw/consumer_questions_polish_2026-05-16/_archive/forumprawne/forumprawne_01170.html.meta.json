@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01170",
+  "source_url": "https://forumprawne.org/watek/kaucja-zerwanie-umowy-sala-weselna.859115/",
+  "fetch_url": "https://forumprawne.org/watek/kaucja-zerwanie-umowy-sala-weselna.859115/",
+  "archive_file": "forumprawne/forumprawne_01170.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 75302,
+  "sha256": "6c9c16f518c9367b59033586b7d31e09d4c40717bd9607e2260ee4641573e9a8",
+  "download_date": "2026-05-16T08:03:38Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

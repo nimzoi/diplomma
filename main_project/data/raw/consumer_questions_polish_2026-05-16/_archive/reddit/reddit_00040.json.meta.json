@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00040",
+  "source_url": "https://www.reddit.com/r/Polska/comments/6a697o/internetowy_sklep_komputerowy_z_dobrą_obsługą/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/6a697o/internetowy_sklep_komputerowy_z_dobrą_obsługą/.json",
+  "archive_file": "reddit/reddit_00040.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 39184,
+  "sha256": "a68d3b44933aaf4257ad74740da4cd78b6dc2b314c70844ce0bddfc4bd6a777f",
+  "download_date": "2026-05-16T08:04:50Z",
+  "duration_sec": 0.268,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

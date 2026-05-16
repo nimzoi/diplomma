@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00076",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1bo1w29/pomoc_z_zakupem_alternatywy_dla_trackir/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1bo1w29/pomoc_z_zakupem_alternatywy_dla_trackir/.json",
+  "archive_file": "reddit/reddit_00076.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 77847,
+  "sha256": "ad6f07d5dc3ae9b2ed5fa9f1b5c1279f4002e6afd1d230264ba195cba3dc68b1",
+  "download_date": "2026-05-16T08:05:24Z",
+  "duration_sec": 0.321,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01133",
+  "source_url": "https://forumprawne.org/watek/rekojmia-i-odmowa-naprawy.859905/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-i-odmowa-naprawy.859905/",
+  "archive_file": "forumprawne/forumprawne_01133.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59329,
+  "sha256": "2601258695acc2f16a899647e80c4be06bb9662204926236b5a764146e12e4d2",
+  "download_date": "2026-05-16T08:02:55Z",
+  "duration_sec": 0.201,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

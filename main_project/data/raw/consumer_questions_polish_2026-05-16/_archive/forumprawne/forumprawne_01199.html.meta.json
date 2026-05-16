@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01199",
+  "source_url": "https://forumprawne.org/watek/naprawa-klawiatury.858531/",
+  "fetch_url": "https://forumprawne.org/watek/naprawa-klawiatury.858531/",
+  "archive_file": "forumprawne/forumprawne_01199.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58941,
+  "sha256": "18214042c825c4d00d46f8f7262656a7fca175800966ac4139aa73a3497c52ef",
+  "download_date": "2026-05-16T08:04:10Z",
+  "duration_sec": 0.344,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

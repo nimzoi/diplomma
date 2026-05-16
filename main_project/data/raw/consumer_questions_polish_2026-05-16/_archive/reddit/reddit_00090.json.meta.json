@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00090",
+  "source_url": "https://www.reddit.com/r/Polska/comments/wdi64m/zwrot_złożonego_już_mebla/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/wdi64m/zwrot_złożonego_już_mebla/.json",
+  "archive_file": "reddit/reddit_00090.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 34896,
+  "sha256": "d6ac6d4ee2e403b9a31f093196dd19a8796e250a579d1b0bb9e90dc51c4f1770",
+  "download_date": "2026-05-16T08:05:36Z",
+  "duration_sec": 0.285,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

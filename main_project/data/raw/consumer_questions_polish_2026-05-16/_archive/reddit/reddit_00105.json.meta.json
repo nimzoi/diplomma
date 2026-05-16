@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00105",
+  "source_url": "https://www.reddit.com/r/Polska/comments/10o2ubb/neonet_prawa_konsumenta_zepsuty_telewizor_smutna/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/10o2ubb/neonet_prawa_konsumenta_zepsuty_telewizor_smutna/.json",
+  "archive_file": "reddit/reddit_00105.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 40589,
+  "sha256": "7d5bbc2b2aff56eb877e341204d92d353566b184cc975ced812f545c7054d6bf",
+  "download_date": "2026-05-16T08:08:35Z",
+  "duration_sec": 0.525,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

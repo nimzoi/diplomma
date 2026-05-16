@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00010",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ga4fxe/jak_się_oszukuje_w_internecie/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ga4fxe/jak_się_oszukuje_w_internecie/.json",
+  "archive_file": "reddit/reddit_00010.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 181832,
+  "sha256": "2738524b6a13326321b6f6ad7c868b04709e0b5e2ae0a58128418f5663c481c5",
+  "download_date": "2026-05-16T08:04:22Z",
+  "duration_sec": 0.624,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

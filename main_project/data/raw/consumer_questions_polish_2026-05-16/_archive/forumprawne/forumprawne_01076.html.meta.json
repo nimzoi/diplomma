@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01076",
+  "source_url": "https://forumprawne.org/watek/nieuczciwy-sprzedawca-lazienki.861428/",
+  "fetch_url": "https://forumprawne.org/watek/nieuczciwy-sprzedawca-lazienki.861428/",
+  "archive_file": "forumprawne/forumprawne_01076.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59536,
+  "sha256": "45b5ee9b12995363b301e721f97d873c537bb165aec8bf4e4919e3df91760477",
+  "download_date": "2026-05-16T08:01:49Z",
+  "duration_sec": 0.121,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

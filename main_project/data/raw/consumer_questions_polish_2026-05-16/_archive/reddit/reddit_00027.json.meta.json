@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00027",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1c8o3fj/parinepl_oszuści/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1c8o3fj/parinepl_oszuści/.json",
+  "archive_file": "reddit/reddit_00027.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 86412,
+  "sha256": "838037d64c29363202d0871b005431edcc2f45b996dc831cd14dc45f9789eb81",
+  "download_date": "2026-05-16T08:04:38Z",
+  "duration_sec": 0.478,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

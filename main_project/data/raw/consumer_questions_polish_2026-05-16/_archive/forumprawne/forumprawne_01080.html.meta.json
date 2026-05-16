@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01080",
+  "source_url": "https://forumprawne.org/watek/sprzedaz-mieszkania.861350/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedaz-mieszkania.861350/",
+  "archive_file": "forumprawne/forumprawne_01080.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54588,
+  "sha256": "6a1404c87f6559fdb46c22ede9527fbf6ac23f826f6bb72f3329523cb95bfbc0",
+  "download_date": "2026-05-16T08:01:54Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

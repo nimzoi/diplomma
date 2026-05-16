@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00106",
+  "source_url": "https://www.reddit.com/r/Polska/comments/14s82q0/pytanie_o_prawa_konsumenta/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/14s82q0/pytanie_o_prawa_konsumenta/.json",
+  "archive_file": "reddit/reddit_00106.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 17620,
+  "sha256": "c26c287bbe9f59fa54b317a3ad63fb1f1a9133ea3a14aad6d9947100063b2bd6",
+  "download_date": "2026-05-16T08:08:42Z",
+  "duration_sec": 0.295,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

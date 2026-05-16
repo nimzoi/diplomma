@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00087",
+  "source_url": "https://www.reddit.com/r/Polska/comments/g3ryky/raport_z_poszukiwań_idealnej_maseczki/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/g3ryky/raport_z_poszukiwań_idealnej_maseczki/.json",
+  "archive_file": "reddit/reddit_00087.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 91521,
+  "sha256": "f724ec9348447f8cd35510d411b5b54026de774a8fd52974899a51146550f6dc",
+  "download_date": "2026-05-16T08:05:33Z",
+  "duration_sec": 0.427,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

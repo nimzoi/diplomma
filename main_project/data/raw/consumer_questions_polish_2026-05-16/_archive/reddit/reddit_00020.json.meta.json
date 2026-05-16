@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00020",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1c0eyot/gdy_chcesz_być_dobry_ale_i_tak_jesteś_tym_złym/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1c0eyot/gdy_chcesz_być_dobry_ale_i_tak_jesteś_tym_złym/.json",
+  "archive_file": "reddit/reddit_00020.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 122598,
+  "sha256": "fb60da64f2e6935d53ccdd496fb13cede1c82c5a283896270ed37199d30cb317",
+  "download_date": "2026-05-16T08:04:32Z",
+  "duration_sec": 0.626,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

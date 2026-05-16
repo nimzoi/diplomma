@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00036",
+  "source_url": "https://www.reddit.com/r/Polska/comments/10ck9vw/zwrot_robota_sprzątającego_w_sklepie_internetowym/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/10ck9vw/zwrot_robota_sprzątającego_w_sklepie_internetowym/.json",
+  "archive_file": "reddit/reddit_00036.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 38395,
+  "sha256": "aa352b2c38ef09b0493952051022b60c1cab3adec3a620857f460754829042de",
+  "download_date": "2026-05-16T08:04:47Z",
+  "duration_sec": 0.291,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

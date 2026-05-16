@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00107",
+  "source_url": "https://www.reddit.com/r/Polska/comments/pf3msh/prawa_konsumenta_a_wykonanie_nieprawidłowej_usługi/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/pf3msh/prawa_konsumenta_a_wykonanie_nieprawidłowej_usługi/.json",
+  "archive_file": "reddit/reddit_00107.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 27019,
+  "sha256": "dd11eb8cf8084fd74aa2b4ffa6064c6007f5bb2c5663d0283e12b3c75687f154",
+  "download_date": "2026-05-16T08:08:48Z",
+  "duration_sec": 0.465,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

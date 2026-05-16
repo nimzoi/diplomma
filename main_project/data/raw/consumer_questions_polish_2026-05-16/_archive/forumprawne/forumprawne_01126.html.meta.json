@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01126",
+  "source_url": "https://forumprawne.org/watek/naprawa-bez-zgody-klienta.860250/",
+  "fetch_url": "https://forumprawne.org/watek/naprawa-bez-zgody-klienta.860250/",
+  "archive_file": "forumprawne/forumprawne_01126.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60287,
+  "sha256": "54544cf1b48d72df771c96b06aec2b3a324e5e04ff7cbdd2361724959d6e4e11",
+  "download_date": "2026-05-16T08:02:47Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

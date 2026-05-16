@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01114",
+  "source_url": "https://forumprawne.org/watek/paragon-nie-fiskalny.860461/",
+  "fetch_url": "https://forumprawne.org/watek/paragon-nie-fiskalny.860461/",
+  "archive_file": "forumprawne/forumprawne_01114.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 78501,
+  "sha256": "72bbb0bc30c88d6af92cf3871afae96b4874a4c41ac9b8049ebb36a080fc24cb",
+  "download_date": "2026-05-16T08:02:33Z",
+  "duration_sec": 0.215,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

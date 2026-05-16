@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00032",
+  "source_url": "https://www.reddit.com/r/Polska/comments/13260o6/omijacie_sklep_playergamespl/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/13260o6/omijacie_sklep_playergamespl/.json",
+  "archive_file": "reddit/reddit_00032.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 79710,
+  "sha256": "0f2af23b8580b46497e61ae10c32743bf76a14df6d61585508b3a523017954c1",
+  "download_date": "2026-05-16T08:04:43Z",
+  "duration_sec": 0.358,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

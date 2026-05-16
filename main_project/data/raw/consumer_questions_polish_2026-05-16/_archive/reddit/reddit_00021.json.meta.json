@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00021",
+  "source_url": "https://www.reddit.com/r/Polska/comments/186kxqq/bo_pan_źle_doradził_dlatego_proszę_o_zwrot/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/186kxqq/bo_pan_źle_doradził_dlatego_proszę_o_zwrot/.json",
+  "archive_file": "reddit/reddit_00021.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 138568,
+  "sha256": "5c88ad95b3f4c01467ad42e68760981f60703457e787f595cafd6853d858f01e",
+  "download_date": "2026-05-16T08:04:33Z",
+  "duration_sec": 0.519,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

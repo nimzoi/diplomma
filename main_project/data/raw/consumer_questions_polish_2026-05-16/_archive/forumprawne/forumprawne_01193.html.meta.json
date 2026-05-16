@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01193",
+  "source_url": "https://forumprawne.org/watek/kupujacy-twierdzi-ze-towar-uszkodzony-ale-brak-protokolu.326486/",
+  "fetch_url": "https://forumprawne.org/watek/kupujacy-twierdzi-ze-towar-uszkodzony-ale-brak-protokolu.326486/",
+  "archive_file": "forumprawne/forumprawne_01193.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 101227,
+  "sha256": "3c1be6f4b0c333ea2bdf73f7c5f6e7a459dfb3f965665690ba6bb4c2dddf6d5d",
+  "download_date": "2026-05-16T08:04:04Z",
+  "duration_sec": 0.097,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

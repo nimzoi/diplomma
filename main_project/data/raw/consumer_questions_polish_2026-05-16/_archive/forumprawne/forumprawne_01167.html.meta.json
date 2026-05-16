@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01167",
+  "source_url": "https://forumprawne.org/watek/budujemy-sie.859148/",
+  "fetch_url": "https://forumprawne.org/watek/budujemy-sie.859148/",
+  "archive_file": "forumprawne/forumprawne_01167.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59130,
+  "sha256": "6141db473b592455e94c71b8824de957e77050f969fd9708c9d80bfbf0891df3",
+  "download_date": "2026-05-16T08:03:34Z",
+  "duration_sec": 0.201,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

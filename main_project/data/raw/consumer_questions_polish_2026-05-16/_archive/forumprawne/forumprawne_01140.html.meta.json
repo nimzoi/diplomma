@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01140",
+  "source_url": "https://forumprawne.org/watek/zlamanie-regulaminu.859913/",
+  "fetch_url": "https://forumprawne.org/watek/zlamanie-regulaminu.859913/",
+  "archive_file": "forumprawne/forumprawne_01140.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76958,
+  "sha256": "d22cb3cbc1ccf258f5820cf3465dbda7b67c96090caabae0ce0a1d5fb7410c84",
+  "download_date": "2026-05-16T08:03:03Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

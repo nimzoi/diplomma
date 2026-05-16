@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00019",
+  "source_url": "https://www.reddit.com/r/Polska/comments/16fpa2m/święte_prawo_konsumenta/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/16fpa2m/święte_prawo_konsumenta/.json",
+  "archive_file": "reddit/reddit_00019.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 133029,
+  "sha256": "0a90faa11564059ccfcc5fa29ff56339c3f65c750bacae28a69cba9ae43aee7c",
+  "download_date": "2026-05-16T08:04:31Z",
+  "duration_sec": 0.491,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

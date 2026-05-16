@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00085",
+  "source_url": "https://www.reddit.com/r/Polska/comments/po8cvp/pytanie_raczej_do_kobiet/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/po8cvp/pytanie_raczej_do_kobiet/.json",
+  "archive_file": "reddit/reddit_00085.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 98956,
+  "sha256": "4b3456b181a28fde2a5f4f29989fcc629939522ce66808c0f82da8f126b23de7",
+  "download_date": "2026-05-16T08:05:32Z",
+  "duration_sec": 0.462,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

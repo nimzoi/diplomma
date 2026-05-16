@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01111",
+  "source_url": "https://forumprawne.org/watek/reklamacja-podzespolu-komputera.860523/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-podzespolu-komputera.860523/",
+  "archive_file": "forumprawne/forumprawne_01111.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 74649,
+  "sha256": "6af8191fc9f336e33b9d3b379be5978d9d8bcf6b3831fa18c8c68dc1351327a8",
+  "download_date": "2026-05-16T08:02:30Z",
+  "duration_sec": 0.298,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

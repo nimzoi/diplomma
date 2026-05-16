@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00014",
+  "source_url": "https://www.reddit.com/r/Polska/comments/17oyoj3/nie_mam_dowodu_ale_mam_świadków_opowieść_z/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/17oyoj3/nie_mam_dowodu_ale_mam_świadków_opowieść_z/.json",
+  "archive_file": "reddit/reddit_00014.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 140463,
+  "sha256": "87d430bca38773ca2b195b05673ffd89b301a04cdf7ec0df98176ed637d7b856",
+  "download_date": "2026-05-16T08:04:26Z",
+  "duration_sec": 0.49,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00013",
+  "source_url": "https://www.reddit.com/r/Polska/comments/16xrret/dzieci_i_ryby_głosu_nie_mają_przynajmniej_według/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/16xrret/dzieci_i_ryby_głosu_nie_mają_przynajmniej_według/.json",
+  "archive_file": "reddit/reddit_00013.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 153950,
+  "sha256": "2e55553252dceba495fdd4db2ba90d69034bd5f3ecb0abb482fdcfdc66fc6bda",
+  "download_date": "2026-05-16T08:04:25Z",
+  "duration_sec": 0.608,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

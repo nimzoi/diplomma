@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01116",
+  "source_url": "https://forumprawne.org/watek/oplata-za-niestawienie-sie-na-lotnisku.860475/",
+  "fetch_url": "https://forumprawne.org/watek/oplata-za-niestawienie-sie-na-lotnisku.860475/",
+  "archive_file": "forumprawne/forumprawne_01116.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53784,
+  "sha256": "35d27a0d7119f0aa383416ca6feff57bfcae6d8075fade1889cd5c4f21a8cb15",
+  "download_date": "2026-05-16T08:02:36Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

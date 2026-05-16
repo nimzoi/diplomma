@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00072",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ezb0ae/paczka_inpost_zwrócona_do_nadawcy_bez_wydania_do/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ezb0ae/paczka_inpost_zwrócona_do_nadawcy_bez_wydania_do/.json",
+  "archive_file": "reddit/reddit_00072.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 67821,
+  "sha256": "e7e02bbcfd8359388d05f1bab2237011c37766dc463b273f1c9ad9fd02d7bea5",
+  "download_date": "2026-05-16T08:05:21Z",
+  "duration_sec": 0.37,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

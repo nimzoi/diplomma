@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01119",
+  "source_url": "https://forumprawne.org/watek/opozniona-transza-dla-developera.860411/",
+  "fetch_url": "https://forumprawne.org/watek/opozniona-transza-dla-developera.860411/",
+  "archive_file": "forumprawne/forumprawne_01119.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64397,
+  "sha256": "520a10920045f31cffc69b402c57864f49ede653332d5ebc948f699531b368fc",
+  "download_date": "2026-05-16T08:02:39Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

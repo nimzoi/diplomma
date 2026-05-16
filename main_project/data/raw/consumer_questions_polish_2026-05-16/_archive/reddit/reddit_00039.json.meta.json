@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00039",
+  "source_url": "https://www.reddit.com/r/Polska/comments/58i17x/opinie_o_serwisach_z_opiniami_o_sklepach_opineo/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/58i17x/opinie_o_serwisach_z_opiniami_o_sklepach_opineo/.json",
+  "archive_file": "reddit/reddit_00039.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 75729,
+  "sha256": "3c402ddf503b4f3a173e1bb169ae0cbf4fbae456c4e8e24e4dc67ac04a173170",
+  "download_date": "2026-05-16T08:04:49Z",
+  "duration_sec": 0.445,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

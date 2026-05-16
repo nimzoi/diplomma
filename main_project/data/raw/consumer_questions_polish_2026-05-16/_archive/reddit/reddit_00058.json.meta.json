@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00058",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1t6cli6/gdzie_kupić_najtaniej_importowane_z_usa_napoje_dr/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1t6cli6/gdzie_kupić_najtaniej_importowane_z_usa_napoje_dr/.json",
+  "archive_file": "reddit/reddit_00058.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 75974,
+  "sha256": "f930d84e8ef83944a2c427c5f336abee839b164527f1af6e2baccf04c3e54577",
+  "download_date": "2026-05-16T08:05:08Z",
+  "duration_sec": 0.303,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

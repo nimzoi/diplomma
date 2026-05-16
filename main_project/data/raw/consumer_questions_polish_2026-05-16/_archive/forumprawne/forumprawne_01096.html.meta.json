@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01096",
+  "source_url": "https://forumprawne.org/watek/sklep-internetowy-brak-towaru-i-pieniedzy.861042/",
+  "fetch_url": "https://forumprawne.org/watek/sklep-internetowy-brak-towaru-i-pieniedzy.861042/",
+  "archive_file": "forumprawne/forumprawne_01096.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54730,
+  "sha256": "d0931cde7cdc75c53187e53ebb4e97ecbe3ee5b26e53744b0bc46c0515bc8fa2",
+  "download_date": "2026-05-16T08:02:12Z",
+  "duration_sec": 0.272,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01198",
+  "source_url": "https://forumprawne.org/watek/faktura-vat-marza-za-nowy-smartfon.858561/",
+  "fetch_url": "https://forumprawne.org/watek/faktura-vat-marza-za-nowy-smartfon.858561/",
+  "archive_file": "forumprawne/forumprawne_01198.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72212,
+  "sha256": "34031ecf1f4b4d2f5d77fc20bf1767368e3d638609523dc57348b32f70494c3b",
+  "download_date": "2026-05-16T08:04:09Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

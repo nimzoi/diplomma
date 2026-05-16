@@ -46,6 +46,7 @@ from src.halu.normalizers import (
     normalize_court_judgment,
     normalize_eli_record,
     normalize_encyclopedic,
+    normalize_new_source_article,
     normalize_tsue_judgment,
     normalize_ue_directive,
     normalize_uokik_decision,
@@ -162,6 +163,29 @@ def load_uokik_decyzje(raw_dir: Path) -> list[Chunk]:
     if not paths:
         return []
     chunks, _ = _load_jsonl_with_normalizer(paths, normalize_uokik_decision, "UOKiK Dec")
+    return chunks
+
+
+def load_new_sources_articles(raw_dir: Path) -> list[Chunk]:
+    """S6 nowy source articles (bankier/infor/prawo.pl/bezprawnik/ecc/uodo/...).
+
+    Glob pattern: ``data/raw/{source}_2026-*/articles.jsonl`` ale wykluczamy
+    `consumer_documents`, `consumer_questions`, `eli_*`, `tsue_*`, `ue_*`,
+    `uokik_*` (już handled przez dedicated loaders).
+    """
+    s6_sources = [
+        "bankier_pl", "money_pl", "infor_pl", "gazeta_prawna", "prawo_pl",
+        "bezprawnik_pl", "ecc_polska", "uodo", "knf_consumer", "uke_consumer",
+        "ure_consumer", "banki_consumer",
+    ]
+    paths: list[Path] = []
+    for src in s6_sources:
+        paths.extend(sorted(raw_dir.glob(f"{src}_*/articles.jsonl")))
+    if not paths:
+        return []
+    chunks, _ = _load_jsonl_with_normalizer(
+        paths, normalize_new_source_article, "S6 articles"
+    )
     return chunks
 
 
@@ -415,6 +439,7 @@ def main(argv: list[str] | None = None) -> int:
     all_chunks.extend(load_tsue_judgments(args.raw_dir))
     all_chunks.extend(load_uokik_decyzje(args.raw_dir))
     all_chunks.extend(load_sn_orzeczenia(args.raw_dir))
+    all_chunks.extend(load_new_sources_articles(args.raw_dir))
 
     logger.info("Total loaded: %d chunks", len(all_chunks))
 

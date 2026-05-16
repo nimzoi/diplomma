@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00068",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ma70u9/jak_czyściciepierzecie_czapki_z_daszkiem/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ma70u9/jak_czyściciepierzecie_czapki_z_daszkiem/.json",
+  "archive_file": "reddit/reddit_00068.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 66386,
+  "sha256": "98819098d9d1dc000e001e48f84bfdc6f10976272ef9fe16a8da1bc4a3cbca6a",
+  "download_date": "2026-05-16T08:05:17Z",
+  "duration_sec": 0.329,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

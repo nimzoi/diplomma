@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01152",
+  "source_url": "https://forumprawne.org/watek/rekojmia-a-przerobki-lokatorskie.775182/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-a-przerobki-lokatorskie.775182/",
+  "archive_file": "forumprawne/forumprawne_01152.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57915,
+  "sha256": "7a94c123d908447bb3a677a8688e9d9d0f55315339c0fe596c18bd2124a8bef2",
+  "download_date": "2026-05-16T08:03:17Z",
+  "duration_sec": 0.218,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01159",
+  "source_url": "https://forumprawne.org/watek/problem-z-reklamacja-z-tytulu-rekojmi.859450/",
+  "fetch_url": "https://forumprawne.org/watek/problem-z-reklamacja-z-tytulu-rekojmi.859450/",
+  "archive_file": "forumprawne/forumprawne_01159.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63069,
+  "sha256": "8f39715fa09b3fed300885d6c82cf10cdf0d40cf21594fe6454eb3579ef72fed",
+  "download_date": "2026-05-16T08:03:25Z",
+  "duration_sec": 0.1,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

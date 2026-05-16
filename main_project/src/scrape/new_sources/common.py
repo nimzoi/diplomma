@@ -129,9 +129,19 @@ class ScrapeSummary:
 
 
 def normalize_pl(text: str) -> str:
-    """NFC normalize + whitespace collapse. Preserve newlines via join."""
+    """NFC normalize + whitespace collapse + HTML entity decode.
+
+    Preserve newlines via join. Decodes HTML entities (np. &nbsp;) tylko
+    jeśli text zawiera & — żeby nie szkodzić tekstom które mają explicit
+    sekwencje (ampersandy w tekście prawniczym).
+    """
     if not text:
         return ""
+    if "&" in text and ";" in text:
+        # html.unescape decodes &nbsp;, &amp;, &lt;, etc. to chars.
+        import html as _html
+
+        text = _html.unescape(text)
     text = unicodedata.normalize("NFC", text)
     text = text.replace("\xa0", " ").replace("​", "").replace("‌", "")
     # Collapse multiple spaces/tabs but preserve newlines.

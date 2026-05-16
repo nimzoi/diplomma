@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00067",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1d4uy89/ktoś_notorycznie_zamawia_paczki_na_mój_numer/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1d4uy89/ktoś_notorycznie_zamawia_paczki_na_mój_numer/.json",
+  "archive_file": "reddit/reddit_00067.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 144977,
+  "sha256": "1d33ea190a8d922c9f65a7cac79dbd5cfd8374f3adaaa683c3319bfc244bc8bc",
+  "download_date": "2026-05-16T08:05:17Z",
+  "duration_sec": 0.559,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

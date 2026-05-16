@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01101",
+  "source_url": "https://forumprawne.org/watek/awaria-silnika-po-montazu-lpg.860776/",
+  "fetch_url": "https://forumprawne.org/watek/awaria-silnika-po-montazu-lpg.860776/",
+  "archive_file": "forumprawne/forumprawne_01101.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 74409,
+  "sha256": "cc1dde13286990dc63604b2ae22318de5561cd530d7c653f37eb536b577eb72a",
+  "download_date": "2026-05-16T08:02:18Z",
+  "duration_sec": 0.28,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

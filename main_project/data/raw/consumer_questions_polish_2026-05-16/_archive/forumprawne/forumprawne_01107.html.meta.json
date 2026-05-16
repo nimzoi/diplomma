@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01107",
+  "source_url": "https://forumprawne.org/watek/rekojmia-a-zwrot-pieniedzy-allegro.860660/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-a-zwrot-pieniedzy-allegro.860660/",
+  "archive_file": "forumprawne/forumprawne_01107.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 71349,
+  "sha256": "6c67dfe002f0b784677003bef86515836de19cc5a93c996851862d5ac0582b71",
+  "download_date": "2026-05-16T08:02:25Z",
+  "duration_sec": 0.218,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

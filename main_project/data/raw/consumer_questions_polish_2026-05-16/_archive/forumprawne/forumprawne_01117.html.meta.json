@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01117",
+  "source_url": "https://forumprawne.org/watek/zakup-na-allegro-a-zwrot.860438/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-na-allegro-a-zwrot.860438/",
+  "archive_file": "forumprawne/forumprawne_01117.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64945,
+  "sha256": "07528ac9ccb59e1f909a4382b1f180851284487801d40a68944583ec1e47cae4",
+  "download_date": "2026-05-16T08:02:37Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

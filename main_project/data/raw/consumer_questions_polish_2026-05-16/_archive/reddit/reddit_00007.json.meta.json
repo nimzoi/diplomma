@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00007",
+  "source_url": "https://www.reddit.com/r/Polska/comments/17joikp/czy_rozmiar_ma_znaczenie_opowieść_z_serwisu/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/17joikp/czy_rozmiar_ma_znaczenie_opowieść_z_serwisu/.json",
+  "archive_file": "reddit/reddit_00007.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 231285,
+  "sha256": "5e6901c72ad7c1c51a2c3714c1902a328968cbbcc6848c71797add5797b4fa06",
+  "download_date": "2026-05-16T08:04:18Z",
+  "duration_sec": 0.634,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00018",
+  "source_url": "https://www.reddit.com/r/Polska/comments/18vuaji/ludzka_roszczeniowość_nie_zna_granic/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/18vuaji/ludzka_roszczeniowość_nie_zna_granic/.json",
+  "archive_file": "reddit/reddit_00018.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 159759,
+  "sha256": "fe524064ebbfa7cea37886ee2af1b7923a7230ca07a83af3890f49e512f938c2",
+  "download_date": "2026-05-16T08:04:30Z",
+  "duration_sec": 0.598,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

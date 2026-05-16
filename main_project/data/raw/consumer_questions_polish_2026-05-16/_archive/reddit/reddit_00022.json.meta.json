@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00022",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1pqrg5x/prezent_dla_babci_czy_ktoś_z_was_kupił_książkę/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1pqrg5x/prezent_dla_babci_czy_ktoś_z_was_kupił_książkę/.json",
+  "archive_file": "reddit/reddit_00022.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 34448,
+  "sha256": "ac5b37be1d3cc55aebabf8dc2ed1e319d11712a7d6271e84db4927b8ff7e3b14",
+  "download_date": "2026-05-16T08:04:34Z",
+  "duration_sec": 0.242,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

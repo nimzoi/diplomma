@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01175",
+  "source_url": "https://forumprawne.org/watek/sprzedawca-nie-chce-zwrocic-srodkow-za-uszkodzony-towar.858992/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedawca-nie-chce-zwrocic-srodkow-za-uszkodzony-towar.858992/",
+  "archive_file": "forumprawne/forumprawne_01175.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57757,
+  "sha256": "b404e4175cb4aed63021de738ece83d426759e90acc8cf3868e18ddc83fc5793",
+  "download_date": "2026-05-16T08:03:43Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

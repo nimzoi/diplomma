@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00104",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ovxwq9/w_polsce_prawa_konsumenta_to_sa_jakies_jaja/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ovxwq9/w_polsce_prawa_konsumenta_to_sa_jakies_jaja/.json",
+  "archive_file": "reddit/reddit_00104.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 225484,
+  "sha256": "2a8af4126bffc83e789e65c812d2c798fd83e18b95efba5fad58c78bccb81a38",
+  "download_date": "2026-05-16T08:05:48Z",
+  "duration_sec": 0.624,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

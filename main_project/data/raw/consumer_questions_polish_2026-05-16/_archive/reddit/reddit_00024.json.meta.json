@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00024",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1850boz/jak_nie_zwracać_rowerów_opowieść_z_serwisu/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1850boz/jak_nie_zwracać_rowerów_opowieść_z_serwisu/.json",
+  "archive_file": "reddit/reddit_00024.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 101981,
+  "sha256": "d49e77a18c0f1e1a984b27eb2fa2cf37d734d7014008aa557c78967affaa716e",
+  "download_date": "2026-05-16T08:04:36Z",
+  "duration_sec": 0.512,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

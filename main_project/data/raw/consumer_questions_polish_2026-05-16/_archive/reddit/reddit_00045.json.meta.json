@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00045",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1ieby8o/sklep_oszuści/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1ieby8o/sklep_oszuści/.json",
+  "archive_file": "reddit/reddit_00045.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 69361,
+  "sha256": "2dae1a7e51218f0bce49434206c21584207b86c26ce77bae24c97b54888c92ac",
+  "download_date": "2026-05-16T08:04:55Z",
+  "duration_sec": 0.352,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

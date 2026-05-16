@@ -116,9 +116,18 @@ REDDIT_HEADERS = {
 }
 
 REQUEST_TIMEOUT = httpx.Timeout(30.0, connect=15.0)
-MAX_RETRIES = 3
+MAX_RETRIES = 5
 DEFAULT_RATE_LIMIT_SEC = 1.0
-REDDIT_RATE_LIMIT_SEC = 0.5  # 2 req/sec
+# Reddit's unauthenticated `.json` endpoint starts 429-ing aggressively after
+# ~30 requests/min for "scrape-like" UA patterns. Push pacing to ~10 req/min so
+# we stay safely under the soft cap. Cost is ~1 min/12 records, acceptable for
+# 509 records (~45 min). The earlier 0.5s/req triggered persistent 429s after
+# ~100 records and the retry storm cost us little but throughput.
+REDDIT_RATE_LIMIT_SEC = 6.0
+# Reddit-specific extra wait when a 429 is encountered, on top of the per-
+# attempt exponential backoff. This is the dominant signal that we are being
+# rate-limited globally, so wait longer before any next request.
+REDDIT_429_COOLDOWN_SEC = 60.0
 RETRYABLE_STATUSES = {429, 502, 503, 504}
 
 
@@ -372,6 +381,9 @@ def download_one(
             break  # no retries — auth/blocked
         if resp.status_code in RETRYABLE_STATUSES:
             backoff = min(2 ** attempt + 1, 30)
+            # Reddit 429 = global rate-limit signal — much longer wait
+            if domain.is_reddit and resp.status_code == 429:
+                backoff = max(backoff, REDDIT_429_COOLDOWN_SEC)
             logger.warning(
                 "[%s] %s attempt %d -> %d, backoff %ds",
                 domain.name,

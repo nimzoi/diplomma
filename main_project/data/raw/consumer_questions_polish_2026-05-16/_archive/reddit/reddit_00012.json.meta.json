@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00012",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1rjmbe5/update_w_mojej_sprawie_z_euro_agd/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1rjmbe5/update_w_mojej_sprawie_z_euro_agd/.json",
+  "archive_file": "reddit/reddit_00012.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 77486,
+  "sha256": "0141de3d4dbb8294d1cac851835eea20cf192799880d57ee93b6239031af6adf",
+  "download_date": "2026-05-16T08:04:23Z",
+  "duration_sec": 0.344,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

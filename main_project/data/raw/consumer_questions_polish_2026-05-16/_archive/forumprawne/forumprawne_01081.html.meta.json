@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01081",
+  "source_url": "https://forumprawne.org/watek/zwrot-towaru-kupionego-na-odleglosc.861319/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-towaru-kupionego-na-odleglosc.861319/",
+  "archive_file": "forumprawne/forumprawne_01081.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57461,
+  "sha256": "17cd2f0bce9f415b01811250a7c81c7018011381dbce066255ef7e12f8e0b001",
+  "download_date": "2026-05-16T08:01:55Z",
+  "duration_sec": 0.191,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

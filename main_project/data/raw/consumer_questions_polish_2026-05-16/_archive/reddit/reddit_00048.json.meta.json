@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00048",
+  "source_url": "https://www.reddit.com/r/Polska/comments/11en0v3/o_gwarancji_i_robieniu_z_klienta_kretyna/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/11en0v3/o_gwarancji_i_robieniu_z_klienta_kretyna/.json",
+  "archive_file": "reddit/reddit_00048.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 35929,
+  "sha256": "884fcccc769eb1ad595b19c0e5b98406eab5991dcc9a1e3d6be98472c92c3cf8",
+  "download_date": "2026-05-16T08:04:57Z",
+  "duration_sec": 0.243,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

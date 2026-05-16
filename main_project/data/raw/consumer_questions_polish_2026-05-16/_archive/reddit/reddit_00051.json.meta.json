@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00051",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1j2b0e4/media_expert_mafia/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1j2b0e4/media_expert_mafia/.json",
+  "archive_file": "reddit/reddit_00051.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 416938,
+  "sha256": "068a715d2aabd53bb837cb3905017b0f80dc28ce081b67a4329178c3c178d7f5",
+  "download_date": "2026-05-16T08:05:00Z",
+  "duration_sec": 1.11,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

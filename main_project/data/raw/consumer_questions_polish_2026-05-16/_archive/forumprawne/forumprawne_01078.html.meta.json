@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01078",
+  "source_url": "https://forumprawne.org/watek/ubezpieczyciel-nie-zwrocil-pelnej-kwoty.861360/",
+  "fetch_url": "https://forumprawne.org/watek/ubezpieczyciel-nie-zwrocil-pelnej-kwoty.861360/",
+  "archive_file": "forumprawne/forumprawne_01078.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76038,
+  "sha256": "9d34229238feb552ae59f2c35c484a6b512e0d061bc2ab40ff4e13878554f570",
+  "download_date": "2026-05-16T08:01:51Z",
+  "duration_sec": 0.197,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

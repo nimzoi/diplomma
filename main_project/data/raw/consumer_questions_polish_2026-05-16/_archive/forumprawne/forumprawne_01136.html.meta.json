@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01136",
+  "source_url": "https://forumprawne.org/watek/reklamacja-z-tytulu-niezgodnosci-towaru-z-opisem.860017/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-z-tytulu-niezgodnosci-towaru-z-opisem.860017/",
+  "archive_file": "forumprawne/forumprawne_01136.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63575,
+  "sha256": "576fc225bab2401713ce8c8dc86bfc7f08b3f03e67fed8c22fbf666f31206cbd",
+  "download_date": "2026-05-16T08:02:58Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01194",
+  "source_url": "https://forumprawne.org/watek/prad-faktura-szacunkowa-za-okres-3-lata-wstecz.858476/",
+  "fetch_url": "https://forumprawne.org/watek/prad-faktura-szacunkowa-za-okres-3-lata-wstecz.858476/",
+  "archive_file": "forumprawne/forumprawne_01194.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 90480,
+  "sha256": "df179c8227ae6bd174572b3823002ffa8969984823010011c386a49fb10c431d",
+  "download_date": "2026-05-16T08:04:05Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

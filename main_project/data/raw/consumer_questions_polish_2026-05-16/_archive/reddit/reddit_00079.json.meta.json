@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00079",
+  "source_url": "https://www.reddit.com/r/Polska/comments/18f7vo5/dziwny_biznes_może_mi_wyjaśnicie/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/18f7vo5/dziwny_biznes_może_mi_wyjaśnicie/.json",
+  "archive_file": "reddit/reddit_00079.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 43319,
+  "sha256": "6185bc12cdfbe7915975a7b61838936e03781f13172de6a9182f9dbce599fd39",
+  "download_date": "2026-05-16T08:05:27Z",
+  "duration_sec": 0.311,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01103",
+  "source_url": "https://forumprawne.org/watek/pomoc-w-ocenie-sytuacji-po-kradziezy-pieniedzy-z-konta.860498/",
+  "fetch_url": "https://forumprawne.org/watek/pomoc-w-ocenie-sytuacji-po-kradziezy-pieniedzy-z-konta.860498/",
+  "archive_file": "forumprawne/forumprawne_01103.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 80709,
+  "sha256": "44cfc33e1389165cc7fa5172f5a5bc042968eeea1f0a866c6b055a339a9fbfc9",
+  "download_date": "2026-05-16T08:02:20Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

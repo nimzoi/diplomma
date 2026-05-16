@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01185",
+  "source_url": "https://forumprawne.org/watek/telefon-z-wada-prawna.858785/",
+  "fetch_url": "https://forumprawne.org/watek/telefon-z-wada-prawna.858785/",
+  "archive_file": "forumprawne/forumprawne_01185.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76596,
+  "sha256": "5bf88cbeb6b20c9773d64e19a613373672af87966fcf5f1c6f0973449bdd9380",
+  "download_date": "2026-05-16T08:03:55Z",
+  "duration_sec": 0.115,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

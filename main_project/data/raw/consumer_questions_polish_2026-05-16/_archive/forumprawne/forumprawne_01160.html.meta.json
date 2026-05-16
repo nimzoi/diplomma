@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01160",
+  "source_url": "https://forumprawne.org/watek/reklamacja-smartfona.859429/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-smartfona.859429/",
+  "archive_file": "forumprawne/forumprawne_01160.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70280,
+  "sha256": "591c412d1d4588ee431f3d79f9a5c91f02658312b5ea54f5e39e33f93e1d7815",
+  "download_date": "2026-05-16T08:03:26Z",
+  "duration_sec": 0.11,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

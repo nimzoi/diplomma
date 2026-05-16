@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01180",
+  "source_url": "https://forumprawne.org/watek/zakupiony-produkt-nie-posiada-funkcji.858914/",
+  "fetch_url": "https://forumprawne.org/watek/zakupiony-produkt-nie-posiada-funkcji.858914/",
+  "archive_file": "forumprawne/forumprawne_01180.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59300,
+  "sha256": "d38c9e5d38b806246a10a67f4e9cc8c4c85ee74cabc814e0b8b18b56fbf96803",
+  "download_date": "2026-05-16T08:03:49Z",
+  "duration_sec": 0.209,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

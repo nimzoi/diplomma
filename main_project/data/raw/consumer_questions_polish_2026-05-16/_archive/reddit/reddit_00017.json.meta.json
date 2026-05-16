@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00017",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1cbrrqh/polska_perfidność_nie_zna_granic/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1cbrrqh/polska_perfidność_nie_zna_granic/.json",
+  "archive_file": "reddit/reddit_00017.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 173596,
+  "sha256": "187d0526ebe5ccd0b579957314a6ca30f2f612ad947c874e4bb82ef9b81fc05a",
+  "download_date": "2026-05-16T08:04:29Z",
+  "duration_sec": 0.594,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

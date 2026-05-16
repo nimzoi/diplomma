@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01084",
+  "source_url": "https://forumprawne.org/watek/sprzedawca-nie-chce-uznac-reklamacji-produktow-na-gwarancji.861276/",
+  "fetch_url": "https://forumprawne.org/watek/sprzedawca-nie-chce-uznac-reklamacji-produktow-na-gwarancji.861276/",
+  "archive_file": "forumprawne/forumprawne_01084.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 88193,
+  "sha256": "50d569623984323e6d6f0912b3d54878a3c4c076e34adffada040e2a8a7a5c2b",
+  "download_date": "2026-05-16T08:01:58Z",
+  "duration_sec": 0.092,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

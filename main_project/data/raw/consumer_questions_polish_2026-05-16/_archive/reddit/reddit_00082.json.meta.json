@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00082",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1dxo7zj/autentyczność_pakowania_gry_ps4/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1dxo7zj/autentyczność_pakowania_gry_ps4/.json",
+  "archive_file": "reddit/reddit_00082.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 30220,
+  "sha256": "e99e68fa641170c87a2618c49fbdd9f5809d9d79c67d56e6b289d5b7cc66abc8",
+  "download_date": "2026-05-16T08:05:29Z",
+  "duration_sec": 0.312,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

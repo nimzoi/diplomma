@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00053",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1sadt0v/nie_mogę_zaprzeczyć_że_się_starzeję_i_spadają_mi/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1sadt0v/nie_mogę_zaprzeczyć_że_się_starzeję_i_spadają_mi/.json",
+  "archive_file": "reddit/reddit_00053.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 65396,
+  "sha256": "280a606ff5d20c82f95ed210c222ce5b79a5d83a4ef595f245bfcb6d3f93e10e",
+  "download_date": "2026-05-16T08:05:02Z",
+  "duration_sec": 0.311,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

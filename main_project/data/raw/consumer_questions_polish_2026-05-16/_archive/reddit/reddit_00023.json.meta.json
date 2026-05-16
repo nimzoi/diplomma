@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00023",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1boxffe/naciąganie_na_gwarancję/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1boxffe/naciąganie_na_gwarancję/.json",
+  "archive_file": "reddit/reddit_00023.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 118157,
+  "sha256": "a92b1827506d0f614f33ee1ab0dbb8004345de8ff7d353eeab29095ea6603329",
+  "download_date": "2026-05-16T08:04:35Z",
+  "duration_sec": 0.44,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

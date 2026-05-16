@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01122",
+  "source_url": "https://forumprawne.org/watek/rekojmia-sklep-naprawa-bez-powiadomienia.860348/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-sklep-naprawa-bez-powiadomienia.860348/",
+  "archive_file": "forumprawne/forumprawne_01122.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 84958,
+  "sha256": "5b139c719af1076ce08b53cce436389752fc06c20be8006cdee0e397a173127a",
+  "download_date": "2026-05-16T08:02:42Z",
+  "duration_sec": 0.106,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00015",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1h0yrnj/kto_pierwszy_ten_lepszy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1h0yrnj/kto_pierwszy_ten_lepszy/.json",
+  "archive_file": "reddit/reddit_00015.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 140731,
+  "sha256": "a5fb41f3b44eadbd2a9d19549b35db17ca2c6f44119ec25d22e5a24e7d2bb087",
+  "download_date": "2026-05-16T08:04:27Z",
+  "duration_sec": 0.476,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

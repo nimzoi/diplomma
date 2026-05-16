@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00099",
+  "source_url": "https://www.reddit.com/r/Polska/comments/ik37k6/pytanie_o_krzesło/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/ik37k6/pytanie_o_krzesło/.json",
+  "archive_file": "reddit/reddit_00099.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 37140,
+  "sha256": "e563ea301c9e453bd400bbb1ac87d2c5475ad0836e73eae873d1275600a92beb",
+  "download_date": "2026-05-16T08:05:43Z",
+  "duration_sec": 0.439,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

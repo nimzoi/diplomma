@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00070",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1nirzwv/słuchawki_z_przewodnictwem_kostnym_do_prowadzenia/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1nirzwv/słuchawki_z_przewodnictwem_kostnym_do_prowadzenia/.json",
+  "archive_file": "reddit/reddit_00070.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 29006,
+  "sha256": "aa5645eee663af284185e170ae4cc5c7d80a83af4bb944e4a12bac5b456f79d7",
+  "download_date": "2026-05-16T08:05:19Z",
+  "duration_sec": 0.288,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

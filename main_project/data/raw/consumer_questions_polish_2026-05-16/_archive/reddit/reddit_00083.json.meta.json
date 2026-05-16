@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00083",
+  "source_url": "https://www.reddit.com/r/Polska/comments/10vzd1g/laptop_do_animacji/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/10vzd1g/laptop_do_animacji/.json",
+  "archive_file": "reddit/reddit_00083.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 70463,
+  "sha256": "862289dfa39690bce79de2a8bad35fe5d5c45204ceee2b273005970770a5c3c4",
+  "download_date": "2026-05-16T08:05:30Z",
+  "duration_sec": 0.365,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

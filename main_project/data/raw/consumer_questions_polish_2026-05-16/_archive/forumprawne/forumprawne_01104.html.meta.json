@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01104",
+  "source_url": "https://forumprawne.org/watek/odpowiedzialnosc-producenta.860727/",
+  "fetch_url": "https://forumprawne.org/watek/odpowiedzialnosc-producenta.860727/",
+  "archive_file": "forumprawne/forumprawne_01104.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62969,
+  "sha256": "cbe4c00384e4ba7c76a15dffac0b312c78a9cabd9e2a40126bf92db329dc33bf",
+  "download_date": "2026-05-16T08:02:22Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

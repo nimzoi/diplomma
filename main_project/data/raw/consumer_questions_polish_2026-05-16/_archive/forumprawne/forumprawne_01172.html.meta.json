@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01172",
+  "source_url": "https://forumprawne.org/watek/czy-moge-zwrocic-towar-podczas-reklamacji.858996/",
+  "fetch_url": "https://forumprawne.org/watek/czy-moge-zwrocic-towar-podczas-reklamacji.858996/",
+  "archive_file": "forumprawne/forumprawne_01172.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 101463,
+  "sha256": "5c5cfab64e5e6eef973c2a094a8a0f9dc2d1c4c7cbcadf6347be8b4467117be8",
+  "download_date": "2026-05-16T08:03:40Z",
+  "duration_sec": 0.207,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

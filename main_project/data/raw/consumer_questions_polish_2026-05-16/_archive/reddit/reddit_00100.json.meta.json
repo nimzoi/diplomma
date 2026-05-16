@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00100",
+  "source_url": "https://www.reddit.com/r/Polska/comments/steht9/adresy_na_allegro/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/steht9/adresy_na_allegro/.json",
+  "archive_file": "reddit/reddit_00100.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 10359,
+  "sha256": "b6bf4edaa3d070ddfdc525fd377fda796d95458d81c02302d2e641437c7c06bf",
+  "download_date": "2026-05-16T08:05:44Z",
+  "duration_sec": 0.248,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

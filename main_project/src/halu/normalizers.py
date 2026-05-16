@@ -445,6 +445,49 @@ def normalize_uokik_decision(record: dict[str, Any]) -> Chunk:
     )
 
 
+def normalize_new_source_article(record: dict[str, Any]) -> Chunk:
+    """S6 nowy source article (bankier/infor/prawo.pl/etc.) → unified Chunk.
+
+    Wszystkie S6 sources mają jednolity ``ArticleRecord`` schema z
+    ``src/scrape/new_sources/common.py``: article_id, source, source_url, title,
+    tresc, license, category, tags, extracted_citations, publication_date.
+    """
+    tresc = _ensure_nfc(record["tresc"])
+    title = _ensure_nfc(record.get("title", "untitled"))
+    source = record["source"]
+
+    # Detect finance_adjacent dla banki + KNF + bankier per Magda decision 2b
+    extra_categories: list[Category] = []
+    if any(s in source.lower() for s in ["bankier", "money", "knf", "banki_consumer"]):
+        extra_categories.append(Category.FINANCE_ADJACENT)
+
+    categories = categorize_chunk(title, tresc) + extra_categories
+    categories = list(dict.fromkeys(categories))
+
+    return Chunk(
+        chunk_id=record["article_id"],
+        source_type=SourceType.ENCYCLOPEDIC,  # treat S6 articles as encyclopedic chunks
+        source=source,
+        source_url=record["source_url"],
+        title=title,
+        tresc=tresc,
+        citation_string=None,
+        cited_articles=record.get("extracted_citations", []) or extract_all_citations(tresc),
+        categories=categories,
+        license=record.get("license", "fair-use Art. 29 PrAut (academic)"),
+        scrape_date=_parse_date(record["scrape_date"]),
+        process_date=date.today(),
+        metadata={
+            "subtitle": record.get("subtitle"),
+            "author": record.get("author"),
+            "publication_date": record.get("publication_date"),
+            "category": record.get("category"),
+            "tags": record.get("tags", []),
+            **record.get("metadata", {}),
+        },
+    )
+
+
 def normalize_court_judgment(record: dict[str, Any]) -> Chunk:
     """SN orzeczenie / sądy powszechne → Chunk (S2 + E4 output)."""
     tresc = _ensure_nfc(record.get("tresc") or record.get("uzasadnienie", ""))
@@ -475,6 +518,7 @@ __all__ = [
     "normalize_court_judgment",
     "normalize_eli_record",
     "normalize_encyclopedic",
+    "normalize_new_source_article",
     "normalize_tsue_judgment",
     "normalize_ue_directive",
     "normalize_uokik_decision",

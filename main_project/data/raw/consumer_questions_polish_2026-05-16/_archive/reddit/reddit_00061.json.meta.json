@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00061",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1fzmfla/perspektywy_na_pracę_stacjonarną_w_korporacji_w/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1fzmfla/perspektywy_na_pracę_stacjonarną_w_korporacji_w/.json",
+  "archive_file": "reddit/reddit_00061.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 370574,
+  "sha256": "66bbc3a06ecf68fbf243d52223e6b8483e45c3301776290aad51f881d811a126",
+  "download_date": "2026-05-16T08:05:11Z",
+  "duration_sec": 1.164,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

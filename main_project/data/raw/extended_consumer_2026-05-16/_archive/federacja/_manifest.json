@@ -1,6 +1,6 @@
 {
   "source": "federacja-konsumentow.org.pl (E1)",
-  "source_dir": "main_project\\data\\raw\\extended_consumer_2026-05-16/federacja",
+  "source_dir": "main_project\\data\\raw\\extended_consumer_2026-05-16",
   "scrape_date": "2026-05-16",
   "stats": {
     "total_entries": 192,

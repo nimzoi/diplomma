@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00028",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1fsiqlg/zamiast_naprawy_destrukcja_jak_serwis_asus/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1fsiqlg/zamiast_naprawy_destrukcja_jak_serwis_asus/.json",
+  "archive_file": "reddit/reddit_00028.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 68102,
+  "sha256": "dc1ba14a0967ec43972d598389514b10eb6606a1da19289e060adef0ce9fd60b",
+  "download_date": "2026-05-16T08:04:39Z",
+  "duration_sec": 0.416,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

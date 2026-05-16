@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01191",
+  "source_url": "https://forumprawne.org/watek/czy-to-wystarczajaca-odpowiedz-sklepu-w-sprawie-rekojmi.858501/",
+  "fetch_url": "https://forumprawne.org/watek/czy-to-wystarczajaca-odpowiedz-sklepu-w-sprawie-rekojmi.858501/",
+  "archive_file": "forumprawne/forumprawne_01191.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 73051,
+  "sha256": "8ced49fd809c3e55addf32fe7d61771f05960f6adc25b350863a91529631cfd2",
+  "download_date": "2026-05-16T08:04:01Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

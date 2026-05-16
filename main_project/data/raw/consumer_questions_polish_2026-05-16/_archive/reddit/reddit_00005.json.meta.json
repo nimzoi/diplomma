@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00005",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1stevjn/zwrot_opakowań_kaucyjnych_a_wewnętrzne_regulaminy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1stevjn/zwrot_opakowań_kaucyjnych_a_wewnętrzne_regulaminy/.json",
+  "archive_file": "reddit/reddit_00005.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 199510,
+  "sha256": "70d7d0e869a3c9b99c89d86a518401cfc0405f3b6d961dbc9cf789f0fccaf4e2",
+  "download_date": "2026-05-16T08:04:16Z",
+  "duration_sec": 0.934,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

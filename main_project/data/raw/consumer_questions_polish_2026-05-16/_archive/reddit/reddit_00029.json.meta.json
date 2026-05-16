@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00029",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1de0cxs/wymiana_roweru_na_nowy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1de0cxs/wymiana_roweru_na_nowy/.json",
+  "archive_file": "reddit/reddit_00029.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 77572,
+  "sha256": "3c82d68a85858a5827281a82bf8611e582026032c3530d2e5996468ffdaa17b7",
+  "download_date": "2026-05-16T08:04:40Z",
+  "duration_sec": 0.602,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

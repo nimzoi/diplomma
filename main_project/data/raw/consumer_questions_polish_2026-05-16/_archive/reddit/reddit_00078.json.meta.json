@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00078",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1e7s5ow/śmierdzi_z_klimy_w_samochodzie/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1e7s5ow/śmierdzi_z_klimy_w_samochodzie/.json",
+  "archive_file": "reddit/reddit_00078.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 31894,
+  "sha256": "e654c3c45ffb0a3721e9fce614e4438208b0193788ba6136ac6b93c93ecb8cef",
+  "download_date": "2026-05-16T08:05:26Z",
+  "duration_sec": 0.315,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

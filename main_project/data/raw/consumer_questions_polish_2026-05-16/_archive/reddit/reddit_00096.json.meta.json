@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00096",
+  "source_url": "https://www.reddit.com/r/Polska/comments/nzwrpz/brak_książek_w_księgarniach/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/nzwrpz/brak_książek_w_księgarniach/.json",
+  "archive_file": "reddit/reddit_00096.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 45660,
+  "sha256": "17531b316e3ad35570490b424d5cad58163fb6219f0f468fcfd7bdb453b230b6",
+  "download_date": "2026-05-16T08:05:41Z",
+  "duration_sec": 0.33,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

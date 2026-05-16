@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00091",
+  "source_url": "https://www.reddit.com/r/Polska/comments/s0qvtg/kabel_hdmi_21_sprawdzony_przy_długości_10m_albo/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/s0qvtg/kabel_hdmi_21_sprawdzony_przy_długości_10m_albo/.json",
+  "archive_file": "reddit/reddit_00091.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 58279,
+  "sha256": "c0c3b1052c7e4ee7c59b36f77d8bbc098d0749099ff3875bbae2d1f79823de3f",
+  "download_date": "2026-05-16T08:05:37Z",
+  "duration_sec": 0.274,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00081",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1gysjr8/dlaczego_rynek_książki_w_polsce_jest_taki/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1gysjr8/dlaczego_rynek_książki_w_polsce_jest_taki/.json",
+  "archive_file": "reddit/reddit_00081.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 20993,
+  "sha256": "ec8713307b55f18d0d0bafe2203effc3c7a8a579aa90980302d00ec393df3871",
+  "download_date": "2026-05-16T08:05:28Z",
+  "duration_sec": 0.315,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

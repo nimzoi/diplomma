@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00042",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1nd686p/kiedy_ludzie_się_w_końcu_nauczą/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1nd686p/kiedy_ludzie_się_w_końcu_nauczą/.json",
+  "archive_file": "reddit/reddit_00042.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 143306,
+  "sha256": "7c7faced0d91cf99f546cb25f7fc419cf21560deace1528d23df6af0cb4733d5",
+  "download_date": "2026-05-16T08:04:52Z",
+  "duration_sec": 0.501,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

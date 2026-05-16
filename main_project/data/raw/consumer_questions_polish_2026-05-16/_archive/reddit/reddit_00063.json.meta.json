@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00063",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1r46c78/kołdra_chłodząca/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1r46c78/kołdra_chłodząca/.json",
+  "archive_file": "reddit/reddit_00063.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 47953,
+  "sha256": "68c8cb697e34a9192ba6d0001cfb3af03722ff474d9ee77afbf289797f445dbc",
+  "download_date": "2026-05-16T08:05:13Z",
+  "duration_sec": 0.305,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

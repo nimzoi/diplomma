@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01074",
+  "source_url": "https://forumprawne.org/watek/potracona-zaliczka.861475/",
+  "fetch_url": "https://forumprawne.org/watek/potracona-zaliczka.861475/",
+  "archive_file": "forumprawne/forumprawne_01074.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56323,
+  "sha256": "014977b548075330658cb72f0fb4f67e60e79dafa471e0e325fb4f7a5d058833",
+  "download_date": "2026-05-16T08:01:47Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

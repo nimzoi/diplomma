@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00077",
+  "source_url": "https://www.reddit.com/r/Polska/comments/xglht1/zakupy_online_vs_stacjonarne_sklepy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/xglht1/zakupy_online_vs_stacjonarne_sklepy/.json",
+  "archive_file": "reddit/reddit_00077.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 103043,
+  "sha256": "2c2c65c1ed920622273111021a89b45e2fe5395fd9e7487b702a9292b53079dd",
+  "download_date": "2026-05-16T08:05:25Z",
+  "duration_sec": 0.489,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

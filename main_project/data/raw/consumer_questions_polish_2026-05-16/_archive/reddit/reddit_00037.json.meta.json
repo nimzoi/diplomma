@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00037",
+  "source_url": "https://www.reddit.com/r/Polska/comments/158la3b/polskie_sklepy_internetowe_mają_trochę_za_łatwo/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/158la3b/polskie_sklepy_internetowe_mają_trochę_za_łatwo/.json",
+  "archive_file": "reddit/reddit_00037.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 30515,
+  "sha256": "c98512f3f22899f02fb3294e170e49230a8229b70becfd31e5757ac159e805cc",
+  "download_date": "2026-05-16T08:04:48Z",
+  "duration_sec": 0.265,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

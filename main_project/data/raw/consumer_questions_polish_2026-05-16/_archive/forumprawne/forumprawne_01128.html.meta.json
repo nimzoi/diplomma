@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01128",
+  "source_url": "https://forumprawne.org/watek/ford-awaria-auta-2-miesiace-po-gwarancji.860098/",
+  "fetch_url": "https://forumprawne.org/watek/ford-awaria-auta-2-miesiace-po-gwarancji.860098/",
+  "archive_file": "forumprawne/forumprawne_01128.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63445,
+  "sha256": "922b7acce99329ebd2ad3dd4e1268e83ab00059ba6a5a5ed90aa0809c674bb9a",
+  "download_date": "2026-05-16T08:02:49Z",
+  "duration_sec": 0.183,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

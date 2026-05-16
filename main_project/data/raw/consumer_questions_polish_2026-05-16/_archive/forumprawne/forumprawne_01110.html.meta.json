@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01110",
+  "source_url": "https://forumprawne.org/watek/rekojmia-na-dzialalnosci.860592/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-na-dzialalnosci.860592/",
+  "archive_file": "forumprawne/forumprawne_01110.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57867,
+  "sha256": "f483876dc59e3f4ce45a23837268ebdfd5e2094600f2c54fdffa74eb8c0bfb1d",
+  "download_date": "2026-05-16T08:02:29Z",
+  "duration_sec": 0.092,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

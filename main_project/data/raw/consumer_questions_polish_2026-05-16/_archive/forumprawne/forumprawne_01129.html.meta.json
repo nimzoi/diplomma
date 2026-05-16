@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01129",
+  "source_url": "https://forumprawne.org/watek/zwrot-czesci-samochodowe.860069/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-czesci-samochodowe.860069/",
+  "archive_file": "forumprawne/forumprawne_01129.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64228,
+  "sha256": "0bdf5ab21bc59a24a1a286c61a07f13c94b6508c368a58ae5b960d4e4b59a2d0",
+  "download_date": "2026-05-16T08:02:50Z",
+  "duration_sec": 0.113,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00038",
+  "source_url": "https://www.reddit.com/r/Polska/comments/172be8w/czy_ktoś_już_dostał_zwrot_ceny_widma_wolności_na/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/172be8w/czy_ktoś_już_dostał_zwrot_ceny_widma_wolności_na/.json",
+  "archive_file": "reddit/reddit_00038.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 8959,
+  "sha256": "24c54c788cbb1972c47a8774edf2640943d478a6312ec9d6175fd1deba6fae84",
+  "download_date": "2026-05-16T08:04:48Z",
+  "duration_sec": 0.205,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01100",
+  "source_url": "https://forumprawne.org/watek/zwrot-na-niesistniejace-konto.860857/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-na-niesistniejace-konto.860857/",
+  "archive_file": "forumprawne/forumprawne_01100.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64159,
+  "sha256": "732f33541bedadf81cc247cbb989eb8fbcc927bc5a3b91be11fedb24f3f238ee",
+  "download_date": "2026-05-16T08:02:17Z",
+  "duration_sec": 0.129,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

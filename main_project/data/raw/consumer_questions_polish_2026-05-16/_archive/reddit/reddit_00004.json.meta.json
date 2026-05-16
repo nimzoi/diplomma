@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00004",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1mcz403/nie_każda_współpraca_się_opłaca/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1mcz403/nie_każda_współpraca_się_opłaca/.json",
+  "archive_file": "reddit/reddit_00004.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 179780,
+  "sha256": "b780ceda773008b406ec1b18b1996f38933a916942a4ee6b9a8a0dbf94443612",
+  "download_date": "2026-05-16T08:04:15Z",
+  "duration_sec": 0.635,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

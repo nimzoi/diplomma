@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01130",
+  "source_url": "https://forumprawne.org/watek/reklamacje-na-podstawie-gwarancji-a-zwrot-srodkow.860097/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacje-na-podstawie-gwarancji-a-zwrot-srodkow.860097/",
+  "archive_file": "forumprawne/forumprawne_01130.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 81071,
+  "sha256": "90d3dcb230e9ab2865a25867523859ba9759d476665799806a9fae6ec0542f1c",
+  "download_date": "2026-05-16T08:02:52Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

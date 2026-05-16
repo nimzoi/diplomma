@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01102",
+  "source_url": "https://forumprawne.org/watek/bledna-cena-w-sklepie-stacjonarnym.860769/",
+  "fetch_url": "https://forumprawne.org/watek/bledna-cena-w-sklepie-stacjonarnym.860769/",
+  "archive_file": "forumprawne/forumprawne_01102.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 95172,
+  "sha256": "7a7dd8b0ef89cb192476b28c41596b99a44740b7545b29901ab939b073664b93",
+  "download_date": "2026-05-16T08:02:19Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

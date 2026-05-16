@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00098",
+  "source_url": "https://www.reddit.com/r/Polska/comments/9kztsd/pomysły_na_przepierdzielenie_pieniędzy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/9kztsd/pomysły_na_przepierdzielenie_pieniędzy/.json",
+  "archive_file": "reddit/reddit_00098.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 48354,
+  "sha256": "79c747b7676b9ae9dbe5199a342f6b2331c058d5178eedd62701b4049e7fe0f2",
+  "download_date": "2026-05-16T08:05:42Z",
+  "duration_sec": 0.384,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

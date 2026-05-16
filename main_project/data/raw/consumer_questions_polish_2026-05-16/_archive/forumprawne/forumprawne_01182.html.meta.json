@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01182",
+  "source_url": "https://forumprawne.org/watek/zakup-ratalny-na-allegro-towaru-ktory-zniknal.858848/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-ratalny-na-allegro-towaru-ktory-zniknal.858848/",
+  "archive_file": "forumprawne/forumprawne_01182.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 103791,
+  "sha256": "2f875ae9068f603fd7adfdbceec26ca9e95802c13f5e02a24c8caea99dac1d00",
+  "download_date": "2026-05-16T08:03:51Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

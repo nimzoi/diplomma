@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00035",
+  "source_url": "https://www.reddit.com/r/Polska/comments/13tx260/rant_zjawisko_zwracania_używanych_rzeczy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/13tx260/rant_zjawisko_zwracania_używanych_rzeczy/.json",
+  "archive_file": "reddit/reddit_00035.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 48588,
+  "sha256": "705a4f1a9e1b5d014ce53198c11023ea4dbe51d440d775ad75806866131cfcfa",
+  "download_date": "2026-05-16T08:04:46Z",
+  "duration_sec": 0.439,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

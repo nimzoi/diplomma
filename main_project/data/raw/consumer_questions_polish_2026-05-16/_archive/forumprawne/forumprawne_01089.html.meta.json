@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01089",
+  "source_url": "https://forumprawne.org/watek/obliczanie-terminow.861172/",
+  "fetch_url": "https://forumprawne.org/watek/obliczanie-terminow.861172/",
+  "archive_file": "forumprawne/forumprawne_01089.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68892,
+  "sha256": "5a13c0ed2b358fc842590e2d5646e1ebe062fb94eb84c7d6a4de6c693a446f26",
+  "download_date": "2026-05-16T08:02:04Z",
+  "duration_sec": 0.212,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

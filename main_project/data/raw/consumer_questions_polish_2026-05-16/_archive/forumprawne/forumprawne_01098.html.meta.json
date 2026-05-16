@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01098",
+  "source_url": "https://forumprawne.org/watek/nieuczciwe-naliczenie-przez-wlasciciela.859213/",
+  "fetch_url": "https://forumprawne.org/watek/nieuczciwe-naliczenie-przez-wlasciciela.859213/",
+  "archive_file": "forumprawne/forumprawne_01098.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 98154,
+  "sha256": "a483979d94539555b1c1b1c06002e25901ade403990c5f70f7bb420ea2b5a1c8",
+  "download_date": "2026-05-16T08:02:15Z",
+  "duration_sec": 0.082,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

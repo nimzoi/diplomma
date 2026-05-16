@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01174",
+  "source_url": "https://forumprawne.org/watek/nie-chce-zdjac-blokady.859015/",
+  "fetch_url": "https://forumprawne.org/watek/nie-chce-zdjac-blokady.859015/",
+  "archive_file": "forumprawne/forumprawne_01174.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 82568,
+  "sha256": "fc110f5f3b26bb35adda499e5cd180fd4758757fb3d7e236baf1f025f989444a",
+  "download_date": "2026-05-16T08:03:42Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

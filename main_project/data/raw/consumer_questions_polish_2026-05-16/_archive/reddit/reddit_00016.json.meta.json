@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00016",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1f8mu3v/klient_ma_zawsze_racje_czyli_najgorsze/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1f8mu3v/klient_ma_zawsze_racje_czyli_najgorsze/.json",
+  "archive_file": "reddit/reddit_00016.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 138133,
+  "sha256": "f53015985042e4f80b4cb7bc84e7bc2ecd4967ba03829a53b4cecf7cc82320e4",
+  "download_date": "2026-05-16T08:04:28Z",
+  "duration_sec": 0.476,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

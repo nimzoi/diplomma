@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01188",
+  "source_url": "https://forumprawne.org/watek/zadanie-zwrotu-kosztow-naprawy-gwarancyjnej.858773/",
+  "fetch_url": "https://forumprawne.org/watek/zadanie-zwrotu-kosztow-naprawy-gwarancyjnej.858773/",
+  "archive_file": "forumprawne/forumprawne_01188.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61443,
+  "sha256": "92b1276ff878162148174b372ec0fc0cdfe1dd7c7b6d64fb48e0bbdde880734c",
+  "download_date": "2026-05-16T08:03:58Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

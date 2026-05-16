@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01121",
+  "source_url": "https://forumprawne.org/watek/splata-raty-nadplata-w-koncie-do-splaty.860404/",
+  "fetch_url": "https://forumprawne.org/watek/splata-raty-nadplata-w-koncie-do-splaty.860404/",
+  "archive_file": "forumprawne/forumprawne_01121.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54384,
+  "sha256": "596b385ef85b94f8faf18af1370a15b4ea32263ea9006cbbff145ce6b6a7129d",
+  "download_date": "2026-05-16T08:02:41Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01143",
+  "source_url": "https://forumprawne.org/watek/oplata-za-niedostarczona-usluge.859858/",
+  "fetch_url": "https://forumprawne.org/watek/oplata-za-niedostarczona-usluge.859858/",
+  "archive_file": "forumprawne/forumprawne_01143.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55777,
+  "sha256": "9086330bdf8e01fee64cf4f1e787463cacbfce8190617bd62598b674fd9e7312",
+  "download_date": "2026-05-16T08:03:07Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

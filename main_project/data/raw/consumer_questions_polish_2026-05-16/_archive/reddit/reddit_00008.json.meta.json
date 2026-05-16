@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00008",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1jcr9nz/sprzedawca_z_allegro_grozi_mi_sądem_za_stratę_8/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1jcr9nz/sprzedawca_z_allegro_grozi_mi_sądem_za_stratę_8/.json",
+  "archive_file": "reddit/reddit_00008.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 188158,
+  "sha256": "b012ee5e8cd8aadb89dbb2fcdfea286e254be7c3b4023c00716264f9ef3c47ed",
+  "download_date": "2026-05-16T08:04:20Z",
+  "duration_sec": 0.666,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

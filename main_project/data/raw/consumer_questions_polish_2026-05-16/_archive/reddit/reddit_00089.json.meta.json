@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00089",
+  "source_url": "https://www.reddit.com/r/Polska/comments/s0xh92/różnice_tak_zwanych_smartbandów/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/s0xh92/różnice_tak_zwanych_smartbandów/.json",
+  "archive_file": "reddit/reddit_00089.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 46792,
+  "sha256": "65020ff47b5cffb064642d734f6c99c22eaf11af8c4dd7213a8af62b98cbeaa4",
+  "download_date": "2026-05-16T08:05:35Z",
+  "duration_sec": 0.463,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00074",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1efys2i/wymiana_części_pc/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1efys2i/wymiana_części_pc/.json",
+  "archive_file": "reddit/reddit_00074.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 62125,
+  "sha256": "8f1520f7aba6cc22bc531817150ad25f930cb35d93cb31d6df6cd1c2a8cb697b",
+  "download_date": "2026-05-16T08:05:22Z",
+  "duration_sec": 0.282,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

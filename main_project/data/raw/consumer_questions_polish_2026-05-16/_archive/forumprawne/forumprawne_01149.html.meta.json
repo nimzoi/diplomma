@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01149",
+  "source_url": "https://forumprawne.org/watek/zamowienie-online-a-reklamacja.859664/",
+  "fetch_url": "https://forumprawne.org/watek/zamowienie-online-a-reklamacja.859664/",
+  "archive_file": "forumprawne/forumprawne_01149.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52279,
+  "sha256": "0cf38af2f1852faefd819d0fa93243494e78fecdf54e352e2565846997691b9f",
+  "download_date": "2026-05-16T08:03:14Z",
+  "duration_sec": 0.152,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

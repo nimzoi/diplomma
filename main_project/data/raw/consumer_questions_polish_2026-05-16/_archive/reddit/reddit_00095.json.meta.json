@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00095",
+  "source_url": "https://www.reddit.com/r/Polska/comments/13evw4y/jak_dziala_podatek_i_clo_przesylek_z_chin/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/13evw4y/jak_dziala_podatek_i_clo_przesylek_z_chin/.json",
+  "archive_file": "reddit/reddit_00095.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 16444,
+  "sha256": "6678b017d91df31d82c91b3e06788ced931d6d9e3951d83a0e4225cfb0140bfa",
+  "download_date": "2026-05-16T08:05:40Z",
+  "duration_sec": 0.227,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

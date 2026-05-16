@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00006",
+  "source_url": "https://www.reddit.com/r/Polska/comments/xf4qvx/reklamacja_sklep_notorycznie_ignoruje_wniosek_o/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/xf4qvx/reklamacja_sklep_notorycznie_ignoruje_wniosek_o/.json",
+  "archive_file": "reddit/reddit_00006.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 31367,
+  "sha256": "b42db171f3390d6f2a3e152c97c21f7552c3c49a490ca4208e4e1c5b7e958cb6",
+  "download_date": "2026-05-16T08:04:17Z",
+  "duration_sec": 0.263,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00084",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1fi3o38/czy_komuś_jeszcze_nie_działa_santander/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1fi3o38/czy_komuś_jeszcze_nie_działa_santander/.json",
+  "archive_file": "reddit/reddit_00084.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 8953,
+  "sha256": "b55f290132d5f5aec82460b1502ed53d0462c03a4b0dcc53258a298cf44dbef6",
+  "download_date": "2026-05-16T08:05:31Z",
+  "duration_sec": 0.235,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

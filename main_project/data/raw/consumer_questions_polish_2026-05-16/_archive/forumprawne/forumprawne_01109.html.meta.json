@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01109",
+  "source_url": "https://forumprawne.org/watek/zaginiony-list-polecony-priorytet-odszkodowanie.860516/",
+  "fetch_url": "https://forumprawne.org/watek/zaginiony-list-polecony-priorytet-odszkodowanie.860516/",
+  "archive_file": "forumprawne/forumprawne_01109.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 81106,
+  "sha256": "c55266c47660e1883791d67c4d4bc52063d99c65305e72adb4ce54e12923ce2c",
+  "download_date": "2026-05-16T08:02:27Z",
+  "duration_sec": 0.248,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

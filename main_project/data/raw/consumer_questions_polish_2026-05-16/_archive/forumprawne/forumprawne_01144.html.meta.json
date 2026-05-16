@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01144",
+  "source_url": "https://forumprawne.org/watek/zwrot-towaru-allegro.859847/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-towaru-allegro.859847/",
+  "archive_file": "forumprawne/forumprawne_01144.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65851,
+  "sha256": "2ffb8fd85d85eda64424ef69752f4468e399ef750778e9da24284d117f021678",
+  "download_date": "2026-05-16T08:03:08Z",
+  "duration_sec": 0.443,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

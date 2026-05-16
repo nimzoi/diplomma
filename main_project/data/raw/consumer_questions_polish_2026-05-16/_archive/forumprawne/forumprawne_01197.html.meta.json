@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01197",
+  "source_url": "https://forumprawne.org/watek/zakup-towaru-a-zmiana-ceny-w-sklepie-internetowym.858634/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-towaru-a-zmiana-ceny-w-sklepie-internetowym.858634/",
+  "archive_file": "forumprawne/forumprawne_01197.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55002,
+  "sha256": "d4688c2f67759df6514521c0d812f7f6e512161ebdf0ced6bbaba80824e3558d",
+  "download_date": "2026-05-16T08:04:08Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

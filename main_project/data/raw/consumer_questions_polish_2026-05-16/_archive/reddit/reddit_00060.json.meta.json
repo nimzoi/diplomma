@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00060",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1t3aoyv/jak_kupować_rzeczy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1t3aoyv/jak_kupować_rzeczy/.json",
+  "archive_file": "reddit/reddit_00060.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 54918,
+  "sha256": "6a0afaf6fd7163e1baf6689f95ffd199d3d7b841c3a4179673d5d9cdeec33da1",
+  "download_date": "2026-05-16T08:05:09Z",
+  "duration_sec": 0.379,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

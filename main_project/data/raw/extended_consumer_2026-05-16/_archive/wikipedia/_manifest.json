@@ -1,6 +1,6 @@
 {
   "source": "pl.wikipedia.org",
-  "source_dir": "main_project\\data\\raw\\extended_consumer_2026-05-16/wikipedia",
+  "source_dir": "main_project\\data\\raw\\extended_consumer_2026-05-16",
   "scrape_date": "2026-05-16",
   "stats": {
     "total_entries": 15,

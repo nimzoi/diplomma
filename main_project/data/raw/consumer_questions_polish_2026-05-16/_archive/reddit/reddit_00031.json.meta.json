@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00031",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1g9u54g/zjebałem/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1g9u54g/zjebałem/.json",
+  "archive_file": "reddit/reddit_00031.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 42580,
+  "sha256": "315955d25ea5538196d8c52191b860d3ccaa403f2f2f11d719736ca04a4d988a",
+  "download_date": "2026-05-16T08:04:42Z",
+  "duration_sec": 0.435,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01145",
+  "source_url": "https://forumprawne.org/watek/deweloper-brak-kar-za-opoznienia.859749/",
+  "fetch_url": "https://forumprawne.org/watek/deweloper-brak-kar-za-opoznienia.859749/",
+  "archive_file": "forumprawne/forumprawne_01145.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 86334,
+  "sha256": "32ffe7a2370156959515266308c5f397c98838432b9727f459591365a5d480d8",
+  "download_date": "2026-05-16T08:03:09Z",
+  "duration_sec": 0.124,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

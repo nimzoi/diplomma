@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00073",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1h7dvl4/karty_podatunkowe/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1h7dvl4/karty_podatunkowe/.json",
+  "archive_file": "reddit/reddit_00073.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 47126,
+  "sha256": "f84508d9f81366216c324345d4ed5d26688a660231448865a33d9b8f5eac44eb",
+  "download_date": "2026-05-16T08:05:22Z",
+  "duration_sec": 0.282,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

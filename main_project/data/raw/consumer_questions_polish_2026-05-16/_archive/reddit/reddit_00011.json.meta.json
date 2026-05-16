@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00011",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1r86sn5/jak_oleole_zlewa_temat_reklamacji_od_2_miesięcy/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1r86sn5/jak_oleole_zlewa_temat_reklamacji_od_2_miesięcy/.json",
+  "archive_file": "reddit/reddit_00011.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 85250,
+  "sha256": "641dd34af173df012b90b24e06ab0a4a49cef909dd9dc631bafce77cbea375aa",
+  "download_date": "2026-05-16T08:04:23Z",
+  "duration_sec": 0.315,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

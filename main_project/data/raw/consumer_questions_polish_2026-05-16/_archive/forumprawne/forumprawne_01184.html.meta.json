@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01184",
+  "source_url": "https://forumprawne.org/watek/odstapienie-w-ciagu-14-dni.858794/",
+  "fetch_url": "https://forumprawne.org/watek/odstapienie-w-ciagu-14-dni.858794/",
+  "archive_file": "forumprawne/forumprawne_01184.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57210,
+  "sha256": "700485664b91e7fbce40e48691bf1645de36a7a36dbabd9b22a89fa020028892",
+  "download_date": "2026-05-16T08:03:53Z",
+  "duration_sec": 0.161,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

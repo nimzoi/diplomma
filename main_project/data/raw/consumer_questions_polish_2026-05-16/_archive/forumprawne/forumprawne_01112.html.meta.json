@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01112",
+  "source_url": "https://forumprawne.org/watek/rezerwacja-wizyty-a-zwrot-oplaty.860474/",
+  "fetch_url": "https://forumprawne.org/watek/rezerwacja-wizyty-a-zwrot-oplaty.860474/",
+  "archive_file": "forumprawne/forumprawne_01112.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64921,
+  "sha256": "8d1c515292a1e59d42f180e0ff1007b2c6b0295d0862b573f72cd9ec9ad2ed1a",
+  "download_date": "2026-05-16T08:02:31Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

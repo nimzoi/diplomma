@@ -844,7 +844,7 @@ def archive_extended_wikipedia(*, dry_run: bool = False) -> ArchiveManifest:
     """Wikipedia: 34 chunks → 15 unique URLs."""
     source_dir = DATA_RAW / "extended_consumer_2026-05-16"
     manifest_path = source_dir / "_archive" / "wikipedia" / "_manifest.json"
-    manifest = ArchiveManifest(source="pl.wikipedia.org", source_dir=str(source_dir.relative_to(REPO_ROOT)) + "/wikipedia")
+    manifest = ArchiveManifest(source="pl.wikipedia.org", source_dir=str(source_dir.relative_to(REPO_ROOT)))
     fetcher = ArchiveFetcher(rate_limit_sec=1.0)
     existing = load_existing_manifest(manifest_path)
     _archive_extended_html(
@@ -866,7 +866,7 @@ def archive_extended_federacja(*, dry_run: bool = False) -> ArchiveManifest:
     manifest_path = source_dir / "_archive" / "federacja" / "_manifest.json"
     manifest = ArchiveManifest(
         source="federacja-konsumentow.org.pl (E1)",
-        source_dir=str(source_dir.relative_to(REPO_ROOT)) + "/federacja",
+        source_dir=str(source_dir.relative_to(REPO_ROOT)),
     )
     fetcher = ArchiveFetcher(rate_limit_sec=1.5)
     existing = load_existing_manifest(manifest_path)
@@ -886,7 +886,7 @@ def archive_extended_uokik_news(*, dry_run: bool = False) -> ArchiveManifest:
     """UOKiK news E1: 111 records, 1:1."""
     source_dir = DATA_RAW / "extended_consumer_2026-05-16"
     manifest_path = source_dir / "_archive" / "uokik_news" / "_manifest.json"
-    manifest = ArchiveManifest(source="uokik.gov.pl (news)", source_dir=str(source_dir.relative_to(REPO_ROOT)) + "/uokik_news")
+    manifest = ArchiveManifest(source="uokik.gov.pl (news)", source_dir=str(source_dir.relative_to(REPO_ROOT)))
     fetcher = ArchiveFetcher(rate_limit_sec=1.5)
     existing = load_existing_manifest(manifest_path)
     _archive_extended_html(
@@ -905,7 +905,7 @@ def archive_extended_gov_pl(*, dry_run: bool = False) -> ArchiveManifest:
     """gov.pl E1: 5 records."""
     source_dir = DATA_RAW / "extended_consumer_2026-05-16"
     manifest_path = source_dir / "_archive" / "gov_pl" / "_manifest.json"
-    manifest = ArchiveManifest(source="gov.pl", source_dir=str(source_dir.relative_to(REPO_ROOT)) + "/gov_pl")
+    manifest = ArchiveManifest(source="gov.pl", source_dir=str(source_dir.relative_to(REPO_ROOT)))
     fetcher = ArchiveFetcher(rate_limit_sec=1.5)
     existing = load_existing_manifest(manifest_path)
     _archive_extended_html(
@@ -924,7 +924,7 @@ def archive_extended_rf_faq(*, dry_run: bool = False) -> ArchiveManifest:
     """RF FAQ E1: 374 records → 25 unique URLs (per-category). WAF."""
     source_dir = DATA_RAW / "extended_consumer_2026-05-16"
     manifest_path = source_dir / "_archive" / "rf_faq" / "_manifest.json"
-    manifest = ArchiveManifest(source="rf.gov.pl (FAQ)", source_dir=str(source_dir.relative_to(REPO_ROOT)) + "/rf_faq")
+    manifest = ArchiveManifest(source="rf.gov.pl (FAQ)", source_dir=str(source_dir.relative_to(REPO_ROOT)))
     fetcher = ArchiveFetcher(rate_limit_sec=3.0, per_request_session=True)
     existing = load_existing_manifest(manifest_path)
     _archive_extended_html(

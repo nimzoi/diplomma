@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01072",
+  "source_url": "https://forumprawne.org/watek/gwarancja-na-wykonana-usluge-regeneracji-retardera.861512/",
+  "fetch_url": "https://forumprawne.org/watek/gwarancja-na-wykonana-usluge-regeneracji-retardera.861512/",
+  "archive_file": "forumprawne/forumprawne_01072.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52746,
+  "sha256": "155633ba6efdf61bf1200980a04dc990e589df2b6d3fb9a527a4c6321d070938",
+  "download_date": "2026-05-16T08:01:45Z",
+  "duration_sec": 0.1,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00062",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1rwihs3/czy_to_scam_olx/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1rwihs3/czy_to_scam_olx/.json",
+  "archive_file": "reddit/reddit_00062.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 36502,
+  "sha256": "39fcd4b92e02d2122f90ee895495ef6effcb54ae64f8eda2516cd2d8660bdcc9",
+  "download_date": "2026-05-16T08:05:12Z",
+  "duration_sec": 0.287,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

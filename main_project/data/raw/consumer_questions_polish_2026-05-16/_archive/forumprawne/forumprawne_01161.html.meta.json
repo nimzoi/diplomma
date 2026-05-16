@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01161",
+  "source_url": "https://forumprawne.org/watek/reklamacja-zwrot-czy-rekojmia.858574/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-zwrot-czy-rekojmia.858574/",
+  "archive_file": "forumprawne/forumprawne_01161.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 143750,
+  "sha256": "7ff2f3f0d3ef8f529eadf4fcba7169e7e84e95f8379818672477a8fbeb8ccfc9",
+  "download_date": "2026-05-16T08:03:27Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

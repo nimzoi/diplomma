@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01200",
+  "source_url": "https://forumprawne.org/watek/uchylanie-sie-od-naprawy-piekarnika.858373/",
+  "fetch_url": "https://forumprawne.org/watek/uchylanie-sie-od-naprawy-piekarnika.858373/",
+  "archive_file": "forumprawne/forumprawne_01200.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69621,
+  "sha256": "3a2bac349b5805808ffd6824057792b13c33facfa9a84bba4a126e29da8ef351",
+  "download_date": "2026-05-16T08:04:12Z",
+  "duration_sec": 0.202,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01097",
+  "source_url": "https://forumprawne.org/watek/brak-zwrotu-pieniedzy-za-zwrocony-towar.860409/",
+  "fetch_url": "https://forumprawne.org/watek/brak-zwrotu-pieniedzy-za-zwrocony-towar.860409/",
+  "archive_file": "forumprawne/forumprawne_01097.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 71988,
+  "sha256": "fa146fdc78024c5a0a32a21a7dd269657c106280ea702dc1e69ff27813d75c7a",
+  "download_date": "2026-05-16T08:02:14Z",
+  "duration_sec": 0.092,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

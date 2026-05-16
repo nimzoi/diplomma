@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00101",
+  "source_url": "https://www.reddit.com/r/Polska/comments/a5lbvd/podejrzenie_oszustwa_na_allegro_inna_zawartosc/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/a5lbvd/podejrzenie_oszustwa_na_allegro_inna_zawartosc/.json",
+  "archive_file": "reddit/reddit_00101.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 22008,
+  "sha256": "b9235cec9d01175d6b2a0cfe9abf0622a0131f8b761a5804b82d404f0c563817",
+  "download_date": "2026-05-16T08:05:45Z",
+  "duration_sec": 0.25,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

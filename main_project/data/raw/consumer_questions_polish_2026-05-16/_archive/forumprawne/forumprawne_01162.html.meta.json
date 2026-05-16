@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01162",
+  "source_url": "https://forumprawne.org/watek/klient-zwrocil-towar-po-14-dniach-co-dalej.859394/",
+  "fetch_url": "https://forumprawne.org/watek/klient-zwrocil-towar-po-14-dniach-co-dalej.859394/",
+  "archive_file": "forumprawne/forumprawne_01162.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57514,
+  "sha256": "a8762cb01c55741ef5089e2cce90958a6006def2809464d0b46e09d36c5941b9",
+  "download_date": "2026-05-16T08:03:28Z",
+  "duration_sec": 0.078,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

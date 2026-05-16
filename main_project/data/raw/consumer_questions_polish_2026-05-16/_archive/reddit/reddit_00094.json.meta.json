@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00094",
+  "source_url": "https://www.reddit.com/r/Polska/comments/13u4l8e/konsola_typu_brick_game/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/13u4l8e/konsola_typu_brick_game/.json",
+  "archive_file": "reddit/reddit_00094.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 13137,
+  "sha256": "0fc50ed7a7ead201efeb843d94834ede162d6d7bd786ecd71e044bdaef247618",
+  "download_date": "2026-05-16T08:05:39Z",
+  "duration_sec": 0.354,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

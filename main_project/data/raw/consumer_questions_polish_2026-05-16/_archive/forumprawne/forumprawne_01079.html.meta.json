@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01079",
+  "source_url": "https://forumprawne.org/watek/blokada-imei.861343/",
+  "fetch_url": "https://forumprawne.org/watek/blokada-imei.861343/",
+  "archive_file": "forumprawne/forumprawne_01079.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 75491,
+  "sha256": "201458ac2536d969ec6bfd5829eb6e37f4e5b1934d73f68dbf2a51ef4082bd74",
+  "download_date": "2026-05-16T08:01:53Z",
+  "duration_sec": 0.168,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

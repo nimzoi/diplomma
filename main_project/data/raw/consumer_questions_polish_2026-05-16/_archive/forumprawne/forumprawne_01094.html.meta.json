@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01094",
+  "source_url": "https://forumprawne.org/watek/pieniadze-zagarniete-z-konta-przez-bank.861051/",
+  "fetch_url": "https://forumprawne.org/watek/pieniadze-zagarniete-z-konta-przez-bank.861051/",
+  "archive_file": "forumprawne/forumprawne_01094.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55684,
+  "sha256": "79b8591ab5545161a04dbb9e6f11aead212de6bdeefc5afe3e92fa75c7fb5fd6",
+  "download_date": "2026-05-16T08:02:10Z",
+  "duration_sec": 0.208,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

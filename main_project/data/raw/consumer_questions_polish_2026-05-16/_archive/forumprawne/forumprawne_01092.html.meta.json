@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01092",
+  "source_url": "https://forumprawne.org/watek/stacja-paliw.861053/",
+  "fetch_url": "https://forumprawne.org/watek/stacja-paliw.861053/",
+  "archive_file": "forumprawne/forumprawne_01092.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 86796,
+  "sha256": "e04acf103eb8787525d7aa2a99c8cbf68e25b7f631a092288372bb4b1372315d",
+  "download_date": "2026-05-16T08:02:08Z",
+  "duration_sec": 0.229,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

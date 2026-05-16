@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00103",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1le99fi/rada_na_dziś_nie_warto_być_cwaniakiem/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1le99fi/rada_na_dziś_nie_warto_być_cwaniakiem/.json",
+  "archive_file": "reddit/reddit_00103.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 244598,
+  "sha256": "ea94efbb9c67eb0464f4c509b5c2fb2d4f9f584e381de62e8e19165382ae4bc8",
+  "download_date": "2026-05-16T08:05:47Z",
+  "duration_sec": 0.661,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01120",
+  "source_url": "https://forumprawne.org/watek/zakup-przez-internet-odmowa-zwrotu.860318/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-przez-internet-odmowa-zwrotu.860318/",
+  "archive_file": "forumprawne/forumprawne_01120.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76756,
+  "sha256": "10db22810ce41dd5c47ee25608aec0572147c648959c23d529a3590bde2a752e",
+  "download_date": "2026-05-16T08:02:40Z",
+  "duration_sec": 0.131,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

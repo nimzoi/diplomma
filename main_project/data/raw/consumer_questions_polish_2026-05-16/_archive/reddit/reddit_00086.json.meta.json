@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00086",
+  "source_url": "https://www.reddit.com/r/Polska/comments/16yn9cr/tłumaczeniowe_problemy_sprzętów_kucharskich/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/16yn9cr/tłumaczeniowe_problemy_sprzętów_kucharskich/.json",
+  "archive_file": "reddit/reddit_00086.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 36065,
+  "sha256": "bff68d52913b8c1e392ead1175db6f33c6d0ad52df564ad3f33a423c51d4e490",
+  "download_date": "2026-05-16T08:05:33Z",
+  "duration_sec": 0.311,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

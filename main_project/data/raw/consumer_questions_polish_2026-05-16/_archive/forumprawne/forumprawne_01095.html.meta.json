@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01095",
+  "source_url": "https://forumprawne.org/watek/problemy-z-umowa.860957/",
+  "fetch_url": "https://forumprawne.org/watek/problemy-z-umowa.860957/",
+  "archive_file": "forumprawne/forumprawne_01095.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61047,
+  "sha256": "5f364c094d5e2420ae226d949305a2732f9b20f15b701613bfdcffe8cfeb1ca2",
+  "download_date": "2026-05-16T08:02:11Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

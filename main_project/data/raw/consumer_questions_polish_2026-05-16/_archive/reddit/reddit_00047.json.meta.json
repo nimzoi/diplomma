@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00047",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1bi2f00/reklamacja_vitkac/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1bi2f00/reklamacja_vitkac/.json",
+  "archive_file": "reddit/reddit_00047.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 20543,
+  "sha256": "28ccc50c8ffa6840231aa049cd15dda3da638a12de9ca8f16d118d2ed9180bac",
+  "download_date": "2026-05-16T08:04:56Z",
+  "duration_sec": 0.264,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

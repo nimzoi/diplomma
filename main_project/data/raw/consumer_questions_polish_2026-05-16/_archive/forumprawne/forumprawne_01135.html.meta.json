@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01135",
+  "source_url": "https://forumprawne.org/watek/reklamacja-w.860021/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-w.860021/",
+  "archive_file": "forumprawne/forumprawne_01135.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58186,
+  "sha256": "28b7df9745654ab79889dcbb838d3a9790c162492a4a225b593940f8e17eac84",
+  "download_date": "2026-05-16T08:02:57Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

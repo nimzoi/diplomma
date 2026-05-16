@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01075",
+  "source_url": "https://forumprawne.org/watek/odmowa-reklamacji.861410/",
+  "fetch_url": "https://forumprawne.org/watek/odmowa-reklamacji.861410/",
+  "archive_file": "forumprawne/forumprawne_01075.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68357,
+  "sha256": "6459c24d6624b334d675cdf14bbeca4a6fd669cbb5100cbe9ecc12401ccf4a5d",
+  "download_date": "2026-05-16T08:01:48Z",
+  "duration_sec": 0.124,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

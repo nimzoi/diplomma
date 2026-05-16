@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01106",
+  "source_url": "https://forumprawne.org/watek/prawo-bankowe-nieautoryzowane-tranzakcje.860639/",
+  "fetch_url": "https://forumprawne.org/watek/prawo-bankowe-nieautoryzowane-tranzakcje.860639/",
+  "archive_file": "forumprawne/forumprawne_01106.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63914,
+  "sha256": "4b082e3228629897b36829bfed6f00a099c674053c6ebb0f2350bf36fc5f96bf",
+  "download_date": "2026-05-16T08:02:24Z",
+  "duration_sec": 0.146,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

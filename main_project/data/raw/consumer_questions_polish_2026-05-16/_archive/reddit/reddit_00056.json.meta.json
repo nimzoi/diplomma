@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00056",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1mdtsf6/szukam_pracy_ale_to_co_się_odwala_to_już_nie/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1mdtsf6/szukam_pracy_ale_to_co_się_odwala_to_już_nie/.json",
+  "archive_file": "reddit/reddit_00056.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 340721,
+  "sha256": "3a7cb3a98d852d232763aecf9fca8432f1a848cb6f3f425390616d3b1219199a",
+  "download_date": "2026-05-16T08:05:06Z",
+  "duration_sec": 1.191,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

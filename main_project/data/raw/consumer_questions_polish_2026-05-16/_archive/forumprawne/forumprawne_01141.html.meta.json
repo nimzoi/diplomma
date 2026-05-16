@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01141",
+  "source_url": "https://forumprawne.org/watek/klub-fifness.859867/",
+  "fetch_url": "https://forumprawne.org/watek/klub-fifness.859867/",
+  "archive_file": "forumprawne/forumprawne_01141.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 85276,
+  "sha256": "d2f9eda93972ee87b87320d35e801d5515f2ab84c5a9ad38613533554eb744bb",
+  "download_date": "2026-05-16T08:03:04Z",
+  "duration_sec": 0.355,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

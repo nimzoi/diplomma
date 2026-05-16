@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01087",
+  "source_url": "https://forumprawne.org/watek/reklamacja-brodzika-do-kabinny-prysznicowej.861213/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-brodzika-do-kabinny-prysznicowej.861213/",
+  "archive_file": "forumprawne/forumprawne_01087.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55203,
+  "sha256": "293632374ed377ff01ff4b68d15dd33f73f4d0f0f142262b7c776c8cf46ea0f0",
+  "download_date": "2026-05-16T08:02:02Z",
+  "duration_sec": 0.091,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

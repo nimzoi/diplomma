@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01165",
+  "source_url": "https://forumprawne.org/watek/rozliczenie-wynajmu-mieszkania.859308/",
+  "fetch_url": "https://forumprawne.org/watek/rozliczenie-wynajmu-mieszkania.859308/",
+  "archive_file": "forumprawne/forumprawne_01165.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54213,
+  "sha256": "a55c616d3ddc6d9155da97b8f2f866bffde1a0fde7234bde52f2ccc22287a8ad",
+  "download_date": "2026-05-16T08:03:32Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

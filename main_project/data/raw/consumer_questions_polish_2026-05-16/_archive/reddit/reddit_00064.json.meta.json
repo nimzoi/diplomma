@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00064",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1rwan9j/gdzie_allegro_udostępnia_numer_przesyłki/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1rwan9j/gdzie_allegro_udostępnia_numer_przesyłki/.json",
+  "archive_file": "reddit/reddit_00064.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 16126,
+  "sha256": "9c86dbf44b4f38c80896b872e741c68cc3c8e3000d5ec5552495c02307859c86",
+  "download_date": "2026-05-16T08:05:13Z",
+  "duration_sec": 0.295,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

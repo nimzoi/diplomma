@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00033",
+  "source_url": "https://www.reddit.com/r/Polska/comments/tazj9f/odradzam_zakupy_w_sklepie_xkompl_niech_to_będzie/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/tazj9f/odradzam_zakupy_w_sklepie_xkompl_niech_to_będzie/.json",
+  "archive_file": "reddit/reddit_00033.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 198598,
+  "sha256": "417b9d4c47c4c9bee9d62e6f19b1a2776a6bdaf41cf452e0cb5954b5211c371e",
+  "download_date": "2026-05-16T08:04:44Z",
+  "duration_sec": 0.691,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

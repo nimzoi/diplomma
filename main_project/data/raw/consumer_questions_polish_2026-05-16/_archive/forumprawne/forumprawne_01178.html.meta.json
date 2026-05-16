@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01178",
+  "source_url": "https://forumprawne.org/watek/reklamacja-czy-rekojmia.858954/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-czy-rekojmia.858954/",
+  "archive_file": "forumprawne/forumprawne_01178.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64889,
+  "sha256": "144945e8834f4d660044a669606e5fe400424af6e3d4f8d27dafd2da5e86565a",
+  "download_date": "2026-05-16T08:03:47Z",
+  "duration_sec": 0.17,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

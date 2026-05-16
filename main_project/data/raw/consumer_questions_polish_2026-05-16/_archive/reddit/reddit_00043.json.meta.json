@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00043",
+  "source_url": "https://www.reddit.com/r/Polska/comments/181x3bt/rower_elektryczny_ale_nie_elektryczny_opowieść_z/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/181x3bt/rower_elektryczny_ale_nie_elektryczny_opowieść_z/.json",
+  "archive_file": "reddit/reddit_00043.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 154311,
+  "sha256": "4364f5aa0ca92a1b32dd4957135e5b99c5c34e8bb1c5e74567e566e46e962bdc",
+  "download_date": "2026-05-16T08:04:53Z",
+  "duration_sec": 0.542,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

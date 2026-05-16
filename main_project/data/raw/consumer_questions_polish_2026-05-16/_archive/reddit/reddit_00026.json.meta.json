@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00026",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1f34ayr/jak_wypożyczyć_kiedy_możesz_tylko_kupić/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1f34ayr/jak_wypożyczyć_kiedy_możesz_tylko_kupić/.json",
+  "archive_file": "reddit/reddit_00026.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 104505,
+  "sha256": "562aeee9ce86ccdb14d4f6889a2c851389e04da6138fb3392d6960f40815f0f6",
+  "download_date": "2026-05-16T08:04:37Z",
+  "duration_sec": 0.434,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

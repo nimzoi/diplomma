@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01154",
+  "source_url": "https://forumprawne.org/watek/reklamacja-karty-graficznej.859455/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-karty-graficznej.859455/",
+  "archive_file": "forumprawne/forumprawne_01154.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 89599,
+  "sha256": "9290d36870072b69e2185a85932f829270d3cb0ad64f9ccfe1d3d183053ad61f",
+  "download_date": "2026-05-16T08:03:20Z",
+  "duration_sec": 0.081,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

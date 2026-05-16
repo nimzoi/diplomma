@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01139",
+  "source_url": "https://forumprawne.org/watek/rekojmia-u-sprzedawcy.859862/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-u-sprzedawcy.859862/",
+  "archive_file": "forumprawne/forumprawne_01139.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 82920,
+  "sha256": "8f93e2f82f6610123d2200560fdb6bc7944a7be7d0e20e6388d362a1a57544ff",
+  "download_date": "2026-05-16T08:03:02Z",
+  "duration_sec": 0.187,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01157",
+  "source_url": "https://forumprawne.org/watek/darowizna-w-nowym-polskim-ladzie.859471/",
+  "fetch_url": "https://forumprawne.org/watek/darowizna-w-nowym-polskim-ladzie.859471/",
+  "archive_file": "forumprawne/forumprawne_01157.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 51642,
+  "sha256": "874d11a88799666fb7ccaf9efe6b85e1877935c28d222f0f5296dfb124f7ad33",
+  "download_date": "2026-05-16T08:03:23Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

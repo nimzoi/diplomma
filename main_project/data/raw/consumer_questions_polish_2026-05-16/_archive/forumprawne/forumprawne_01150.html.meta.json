@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01150",
+  "source_url": "https://forumprawne.org/watek/rekojmia-oddaniem-robota-kuchennego.859596/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-oddaniem-robota-kuchennego.859596/",
+  "archive_file": "forumprawne/forumprawne_01150.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 92036,
+  "sha256": "3a8b0407f7f97fcb4ff41f3a33f2fa3e40992901a28ee9786a3c94ae854e7bf5",
+  "download_date": "2026-05-16T08:03:15Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

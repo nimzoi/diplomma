@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01082",
+  "source_url": "https://forumprawne.org/watek/zagubiona-przesyka-a-zwrot-pieniedzy.861300/",
+  "fetch_url": "https://forumprawne.org/watek/zagubiona-przesyka-a-zwrot-pieniedzy.861300/",
+  "archive_file": "forumprawne/forumprawne_01082.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 77940,
+  "sha256": "4c18bde58dbc4baeed17512bd82b974d324ce3e9e4304f9d83b8ffb33f1a7c3b",
+  "download_date": "2026-05-16T08:01:56Z",
+  "duration_sec": 0.204,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

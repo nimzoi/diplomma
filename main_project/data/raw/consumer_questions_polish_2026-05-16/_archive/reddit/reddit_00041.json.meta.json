@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00041",
+  "source_url": "https://www.reddit.com/r/Polska/comments/6l7pqz/papierowe_pojednanie_w_sri_lance/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/6l7pqz/papierowe_pojednanie_w_sri_lance/.json",
+  "archive_file": "reddit/reddit_00041.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 49363,
+  "sha256": "4abca096728f9b156639ed36cd7e3607c0eef4de7c9a29a132fee3b9d76b2e83",
+  "download_date": "2026-05-16T08:04:51Z",
+  "duration_sec": 0.228,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

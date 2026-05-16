@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01147",
+  "source_url": "https://forumprawne.org/watek/piec-elektryczny.859656/",
+  "fetch_url": "https://forumprawne.org/watek/piec-elektryczny.859656/",
+  "archive_file": "forumprawne/forumprawne_01147.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60461,
+  "sha256": "2ba5a1a6797a7545d8c94aeaec10259ab38f3889c198fa0c40f7c6e8a7d4e305",
+  "download_date": "2026-05-16T08:03:12Z",
+  "duration_sec": 0.225,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

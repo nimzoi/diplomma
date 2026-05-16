@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00071",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1kd5qfj/dodakowe_oplaty_za_przesylke_na_allegro/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1kd5qfj/dodakowe_oplaty_za_przesylke_na_allegro/.json",
+  "archive_file": "reddit/reddit_00071.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 51313,
+  "sha256": "5d258502ba9846e0de7d2ca4213bfaa13c8cd6d9b857516d1bd006224202a595",
+  "download_date": "2026-05-16T08:05:20Z",
+  "duration_sec": 0.37,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01125",
+  "source_url": "https://forumprawne.org/watek/nowe-auto-z-salonu-z-wada-ukryta.860252/",
+  "fetch_url": "https://forumprawne.org/watek/nowe-auto-z-salonu-z-wada-ukryta.860252/",
+  "archive_file": "forumprawne/forumprawne_01125.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 72236,
+  "sha256": "d63eb46f9c6714f0208a65da42715c670868a2b73a573e8fff67539d355092ff",
+  "download_date": "2026-05-16T08:02:46Z",
+  "duration_sec": 0.174,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

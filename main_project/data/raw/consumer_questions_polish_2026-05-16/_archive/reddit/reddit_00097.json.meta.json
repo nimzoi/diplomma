@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00097",
+  "source_url": "https://www.reddit.com/r/Polska/comments/oa4jg4/mam_problem_z_dyskami_albo_zasilaczem/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/oa4jg4/mam_problem_z_dyskami_albo_zasilaczem/.json",
+  "archive_file": "reddit/reddit_00097.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 38022,
+  "sha256": "2111685a0cfe843d2015f8566595eda7ba30797b67ee34751575372963186682",
+  "download_date": "2026-05-16T08:05:42Z",
+  "duration_sec": 0.418,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

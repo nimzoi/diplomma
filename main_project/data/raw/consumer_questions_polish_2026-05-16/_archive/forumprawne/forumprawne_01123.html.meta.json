@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01123",
+  "source_url": "https://forumprawne.org/watek/zwrot-zaliczki.860357/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-zaliczki.860357/",
+  "archive_file": "forumprawne/forumprawne_01123.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52808,
+  "sha256": "42863f7b3a8733cb4bab92a0860dc0c704d84b1ec18455efc25c0aef87481caf",
+  "download_date": "2026-05-16T08:02:44Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

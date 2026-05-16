@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00093",
+  "source_url": "https://www.reddit.com/r/Polska/comments/14ledr1/ceny_retro_klawiatur_i_gdzie_ich_szukać/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/14ledr1/ceny_retro_klawiatur_i_gdzie_ich_szukać/.json",
+  "archive_file": "reddit/reddit_00093.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 18596,
+  "sha256": "855aad15531bc928734122f5cdb713ef39d50d1122a74a60fc57e6cc7ca39777",
+  "download_date": "2026-05-16T08:05:38Z",
+  "duration_sec": 0.248,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

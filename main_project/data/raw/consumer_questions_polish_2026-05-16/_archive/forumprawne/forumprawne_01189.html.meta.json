@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_01189",
+  "source_url": "https://forumprawne.org/watek/auto-kupione-z-wada-ukryta.858723/",
+  "fetch_url": "https://forumprawne.org/watek/auto-kupione-z-wada-ukryta.858723/",
+  "archive_file": "forumprawne/forumprawne_01189.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 95599,
+  "sha256": "b22c3db35875beae43ffd7def419ffc02650ac6f2dc13e40ae7bc758346efb73",
+  "download_date": "2026-05-16T08:03:59Z",
+  "duration_sec": 0.204,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}
