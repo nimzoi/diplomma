@@ -1,7 +1,7 @@
 # DEC-004 — Iteracja 0b POC results + sign-off na Iter. 1
 
-**Data:** TBD (wypełnić po wszystkich 4 POC testach)
-**Status:** TEMPLATE — wypełnić po Iter. 0b POC run
+**Data:** 2026-05-16 (T1 done lokal CPU; T2/T3/T4 pending lab GPU)
+**Status:** PARTIAL — T1 mDeBERTa NLI sanity ✓ PASS 80.6%; T2/T3/T4 pending lab GPU SP7 H200
 **Supersedes:** brak
 **Related:** [DEC-003 pivot na halu detection](DEC-003_pivot-na-halu-detection.md), [krytyka 2026-05-16](../notes/KRYTYCZNA_ocena_scope_2026-05-16.md)
 
@@ -9,7 +9,7 @@
 
 ## Kontekst
 
-Po pivocie DEC-003 (2026-05-16) i dataset construction Polish CitationBench v0.5 (11,000 chunks + 5,402 halu pairs, post-cleanup Wariant B), uruchamiam 4 POC testy zdefiniowane jako kill criteria dla Iter. 1 (probe training pipeline + RAG demo). Każdy test ma jednoznaczne PASS/FAIL z falsyfikowalnym progiem. Decyzja DEC-004 syntetyzuje wyniki + autoryzuje (lub blokuje) start Iter. 1.
+Po pivocie DEC-003 (2026-05-16) i dataset construction Polish CitationBench v0.6 (11,000 chunks + 5,402 halu pairs, post-cleanup Wariant B + post-fix factual_fabrication=NEUTRAL), uruchamiam 4 POC testy zdefiniowane jako kill criteria dla Iter. 1 (probe training pipeline + RAG demo). Każdy test ma jednoznaczne PASS/FAIL z falsyfikowalnym progiem. Decyzja DEC-004 syntetyzuje wyniki + autoryzuje (lub blokuje) start Iter. 1.
 
 ## 4 POC tests — wypełnij wyniki
 

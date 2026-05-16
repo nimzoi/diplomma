@@ -1,8 +1,8 @@
 # Plan: cele + kroki
 
 **Status:** *operational document, daily reference dla autorki*. Pisany po polsku, konkretnie, agent-friendly.
-**Data:** 2026-05-16 (post-DEC-003)
-**Powiązane:** `EXPLAINER_temat_dla_siebie.md` (narrative kontekst), `02_konspekt_v3.2_skeleton.md` (akademicki konspekt), `decisions/DEC-003_pivot-na-halu-detection.md` (ADR pivotu)
+**Data:** 2026-05-16 (evening — post-Wariant B + T1 PASS + v0.6)
+**Powiązane:** `EXPLAINER_temat_dla_siebie.md` (narrative kontekst), `02_konspekt_v3.2_skeleton.md` (akademicki konspekt), `decisions/DEC-003_pivot-na-halu-detection.md` (ADR pivotu), `decisions/DEC-004_iter0b_poc_results.md` (POC results PARTIAL)
 
 ---
 
@@ -20,9 +20,9 @@ Zbudować **citation-grounded RAG dla polskich praw konsumenta** który (a) odpo
 
 ## 2. CELE szczegółowe (5 punktów)
 
-1. **Hidden-states halu probe** dla Bielika (mały LLM 1.5B/3B) — pierwszy publicznie udokumentowany polish hallucination probe model → publish na HuggingFace
-2. **Citation grounding pipeline** post-hoc (NLI-based via mDeBERTa) — per claim verification entailment z retrieved evidence
-3. **Polish CitationBench dataset** (~10-15k pairs) — pierwszy publicznie udokumentowany polish citation-grounded halu benchmark → publish na HuggingFace
+1. **Hidden-states halu probe** dla Bielik 11B v3 layer 47 (lab GPU SP7 H200; fallback 1.5B/3B local CPU) — pierwszy publicznie udokumentowany polish hallucination probe model → publish na HuggingFace
+2. **Citation grounding pipeline** post-hoc (3-tier NLI: mDeBERTa Tier 1 ✓ T1 PASS 80.6% + HerBERT Tier 2 fallback + LLM judge Tier 3 ablation) — per claim verification entailment z retrieved evidence
+3. **Polish CitationBench dataset v0.6** (✓ DONE 2026-05-16: 11,000 chunks + 5,402 halu pairs, post-Wariant B cleanup) — pierwszy publicznie udokumentowany polish citation-grounded halu benchmark → publish na HuggingFace w Iter. 6
 4. **Continuous improvement loop** — failure cases (probe alarmy + NLI kontradykcje) → preference dataset → retrain probe → A/B gate → deploy
 5. **Gradio demo** (3 zakładki: Chat / Inspect / Compare) — fizyczny artifact do pokazania na obronie + manager's office
 
@@ -40,30 +40,28 @@ Zbudować **citation-grounded RAG dla polskich praw konsumenta** który (a) odpo
 ✅ Feasibility research (verdict CONDITIONAL GO)
 ✅ EXPLAINER + PLAN docs (this file)
 
-### Iteracja 0b — POC + halu type taxonomy
+### Iteracja 0b — POC + halu type taxonomy (PARTIAL DONE 2026-05-16)
 
 **Twoja praca:**
-- [ ] Sprecyzuj 5 typów halu (definicje operacyjne, przykłady) — patrz EXPLAINER § 4
-- [ ] Decyzja: Bielik 1.5B / 3B / 11B jako probe target (trade-off compute vs quality) — recommend startujemy 1.5B
-- [ ] Setup Bielika lokalnie / na lab GPU (sprawdzenie VRAM ~22 GB dla 11B w bf16; mniejsza wersja na CPU OK dla POC)
-- [ ] Manualna weryfikacja sample 10 chunks ELI po scrape (czy structure ma sens)
+- [x] 5 typów halu zdefiniowane (factual_fabrication / entity_confusion / temporal_drift / negation_flip / paragraph_mis_citation) — patrz EXPLAINER § 4
+- [x] Decyzja: **Bielik 11B v3 primary** (lab GPU SP7 H200 80GB), 1.5B/3B fallback dla local CPU dev
+- [ ] **PENDING:** Setup Bielika na lab GPU — T3 PyTorch hooks layer 47 + T4 lab GPU smoke inference + T2 Outlines diakrytyki
+- [x] Manualna weryfikacja sample 10 chunks ELI po scrape — DONE w EDA notebook
 
 **Agent robi:**
-- [ ] **Scrape script ELI Ustawy o prawach konsumenta + KC art. 535-581** (~1-2 dni agent work)
-  - Format: JSONL, każdy chunk = (ustawa_id, art, ust, pkt, treść, metadata, citation_string)
-  - Output: `data/raw/eli_ustawy_konsumenckie_2026-05-16.jsonl`
-- [ ] **Scrape UOKiK Q&A** — `prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/` (~kilka godzin)
-  - Output: `data/raw/uokik_qa_2026-05-16.jsonl` z (question, answer, cited_articles)
-  - To są **gold standard pairs ready-made**
-- [ ] **Outlines + Bielik 1.5B POC z 10 queries** — czy structured citation generation działa
-  - Output: `notebooks/poc_outlines_bielik.ipynb` z 10 example outputs
-- [ ] **mDeBERTa NLI sanity-check** — testuj `MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7` na 50 polish (claim, evidence) pairs z UOKiK Q&A
-  - Output: `notebooks/poc_nli_polish.ipynb` z accuracy estimate (~70% target)
+- [x] **Scrape ELI ustawy konsumenckie** (Ustawa o prawach konsumenta + KC + Nieuczc. praktyki + Ochrona konkurencji + Usługi płatnicze + Pozasądowe spory) — 2,541 chunks legal_statute → v0.6
+- [x] **Scrape UOKiK Q&A** → 60 par ready-made + ekspansja → 433 qa_gold w v0.6
+- [x] **mDeBERTa NLI sanity-check ✓ PASS 80.6%** (2026-05-16 lokal CPU, DEC-004 T1)
+  - Output: `iter0b_poc/results/t1_mdeberta_20260516_115505.json`
+- [x] **Wariant B cleanup** (17,862 → 11,000 chunks, drop 38.4% off-scope) per `notes/scope_cleanup_decisions_2026-05-16.md`
+- [x] **Polish CitationBench v0.6 build** → `data/processed/citationbench_v0.6_2026-05-16/` (11,000 chunks + 5,402 halu pairs)
+- [ ] **PENDING lab GPU:** T2 Outlines + Bielik 11B v3 polish diakrytyki (D8+D13)
+- [ ] **PENDING lab GPU:** T3 PyTorch hooks Bielik 11B layer 47 (D10+D11)
+- [ ] **PENDING lab GPU:** T4 lab GPU SSH + smoke inference (D9)
 
-**Checkpoint go/no-go po Iter. 0b:**
-- ✅ Jeśli ELI scrape działa + UOKiK Q&A scraped + Outlines+Bielik daje sensible structured output + mDeBERTa NLI ≥70% accuracy na polish → **FULL GO Iter. 1**
-- ⚠ Jeśli Outlines+Bielik nie współpracują → **DROP hidden-states probe jako optional**, focus na NLI-judge only (less ambitious ale defendable)
-- ❌ Jeśli mDeBERTa <50% accuracy → **fallback HerBERT-large custom NLI fine-tune** na CDSC-E (~1d GPU)
+**Checkpoint go/no-go po Iter. 0b:** PARTIAL PASS (T1) — full PASS pending T2/T3/T4. Per DEC-004:
+- ✅ T1 PASS 80.6% (kill criterion 50% przekroczone +30.6pp) → Tier 1 mDeBERTa confirmed dla downstream
+- ⏳ T2/T3/T4 zależne od lab GPU access — Iter. 1 probe training STARTS dopiero po T3 PASS
 
 ### Iteracja 1 — full corpus + dataset + EDA
 
@@ -111,8 +109,8 @@ Zbudować **citation-grounded RAG dla polskich praw konsumenta** który (a) odpo
 - MLflow runs z 3 random seeds + Optuna best hyperparams
 - Probe AUROC + verifier accuracy reported
 
-**RQ1/H1 first answer:** czy probe AUROC ≥0.80 na polish consumer rights eval set?
-**RQ4/H4 first answer:** czy verifier ≥75% agreement z manual labels?
+**RQ1/H1 first answer:** czy probe AUROC ≥0.70 z bootstrap CI lower ≥0.60 na polish consumer rights eval set (per D14)?
+**RQ4/H4 first answer:** czy LLM-as-judge → kappa ≥0.50 z manual labels (substantial agreement per Landis-Koch)?
 
 ### Iteracja 3 — continuous improvement loop
 
@@ -210,8 +208,8 @@ Zbudować **citation-grounded RAG dla polskich praw konsumenta** który (a) odpo
 
 | # | Decyzja | Termin | Default jeśli nie zdecydujesz |
 |---|---|---|---|
-| D1 | Probe target LLM: **Bielik 11B v3** (current), Qwen 3.5/4 (do 32B), Gemma 4 (do 34B) — czeka na agent #4 research output | Iter. 0b | Bielik 11B v3 (polish-first, confirmed) |
-| D2 | Verifier: mDeBERTa Tier 1 (frozen) vs HerBERT-large Tier 2 (custom fine-tune CDSC-E ~1-2h A100) | Iter. 0b checkpoint (po sanity check 50 par) | mDeBERTa frozen (Tier 1) — fallback Tier 2 jeśli <70% accuracy. Per Magda: Tier 2 OK ($2-5 cost no concern) |
+| D1 | Probe target LLM: **Bielik 11B v3** (current), Qwen 3.5/4 (do 32B), Gemma 4 (do 34B) — czeka na agent #4 research output | Iter. 0b | Bielik 11B v3 (polish-first, confirmed) — **CONFIRMED 2026-05-16; T3 lab GPU verify pending** |
+| D2 | Verifier: mDeBERTa Tier 1 (frozen) vs HerBERT-large Tier 2 (custom fine-tune CDSC-E ~1-2h A100) | Iter. 0b checkpoint (po sanity check 50 par) | **DECIDED 2026-05-16: mDeBERTa Tier 1 ✓ PASS 80.6%** (DEC-004 T1) — Tier 2 NIE wymagany teraz (reserved jako fallback dla wyższej precision w Iter. 1 jeśli probe training tego potrzebuje) |
 | D3 | Halu typy: 5 (current) vs 6-7 | Iter. 0b | 5 (current) |
 | D4 | Real questions source priority: Reddit Pushshift vs e-prawnik.pl vs forumprawne.org | Iter. 1 (czeka na agent #4 z poprzedniej batch) | All three (mix) |
 | D5 | Drift simulation type: perturbed polish queries vs OOD different polish legal domain | Iter. 5 | Perturbed (cheaper) |

@@ -1,7 +1,7 @@
 # Co właściwie robisz w tej pracy — explainer dla siebie
 
 **Status:** *internal narrative document, NIE część pracy dyplomowej*. Pisany prostym językiem dla orientacji autorki.
-**Data:** 2026-05-16 (post-DEC-003)
+**Data:** 2026-05-16 (evening — post-Wariant B + T1 PASS + v0.6)
 **Cel:** żebyś zawsze wiedziała w jednym miejscu „o co tu chodzi", bez dłubania w konspekcie.
 
 ---
@@ -61,7 +61,7 @@ W UI każdy claim dostaje **kolorowy badge** z linkowanym evidence: zielony grou
 
 ### Komponent 3: Hidden-states halu probe
 
-Niezależny od NLI sygnał. Podczas gdy Bielik generuje każdy token, **podsłuchujesz jego ostatnie 2-3 warstwy ukryte** (poprzez PyTorch hooks). Mały klasyfikator nauczony na (hidden_state, label_halu_yes_no) przewiduje — czy to wygenerowane słowo prawdopodobnie jest halucynacją?
+Niezależny od NLI sygnał. Podczas gdy Bielik generuje każdy token, **podsłuchujesz jego warstwę 47** (= ⌊0.95 × 50⌋ per Balcells et al. 2025; Bielik 11B v3 ma 50 layers × 4096 hidden) poprzez PyTorch hooks + HF `output_hidden_states=True`. Mały klasyfikator (sklearn LogisticRegression linear primary, MLP nonlinear w ablation) nauczony na (hidden_state, label_halu_yes_no) przewiduje — czy to wygenerowane słowo prawdopodobnie jest halucynacją?
 
 Dlaczego to działa? Hidden states zawierają „self-knowledge" modelu — kiedy LLM zmyśla, jego ukryte stany różnią się od tych gdy mówi prawdę. To było zaskoczenie w research 2023-2024 — *modele „wiedzą" że kłamią, tylko zwykle nie mówią*. Probe to wyciąga.
 
@@ -88,31 +88,31 @@ To jest MLOps centralny — system **sam się poprawia** w czasie. Magnetic dla 
 
 ## 4. Dane (skąd to wszystko wziąć)
 
-### Corpus (~500-1500 chunks ustaw)
+### Polish CitationBench v0.6 — DONE 2026-05-16 (post-Wariant B cleanup)
 
-**ISAP/ELI API** (`api.sejm.gov.pl/eli`) — official polish ustawy, deterministic URL per art./§/ust./pkt. Public domain (Art. 4 PrAut). Pobierasz:
-- Ustawa o prawach konsumenta z 2014 (Dz.U. 2014 poz. 827) — 80 artykułów
-- Kodeks cywilny art. 535-581 (sprzedaż, rękojmia, gwarancja) — kilkaset chunks
-- Ustawa o przeciwdziałaniu nieuczciwym praktykom rynkowym (2007)
-- Ust. o RODO PL
-- Plus opcjonalnie ustawy pokrewne
+**Output:** `main_project/data/processed/citationbench_v0.6_2026-05-16/` — 11,000 unified chunks + 5,402 halu pairs.
 
-**UOKiK** — decyzje + raporty edukacyjne ze strony.
+| Co | count w v0.6 |
+|---|---|
+| `legal_statute` (ISAP ELI) | 2,541 |
+| `qa_raw` (real consumer questions) | 2,945 |
+| `legal_document_pdf` (UOKiK/RF/FK poradniki) | 1,965 |
+| `legal_ue_directive` (EUR-Lex) | 1,360 |
+| `encyclopedic` (wikipedia) | 1,167 |
+| `legal_court_judgment` | 597 |
+| `qa_gold` (UOKiK Q&A scraped) | 433 |
+| `legal_tsue_judgment` | 29 |
+| `legal_uokik_decision` | 26 |
 
-### Evaluation pairs (~100-300 par gold standard)
+Wariant B cleanup dropped 6,862 chunks (38.4%) — KPC, Prawo upadłościowe, Prawo bankowe, finance journalism, uchylone ustawy, CHF orzeczenia, etc. Per-source decyzje: `notes/scope_cleanup_decisions_2026-05-16.md`.
 
-**🎁 Goldmine: UOKiK Q&A** — `prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/` ma **~50-200 ekspert Q&A pairs z explicit cytacjami** do KC + Ustawy. To są **gotowe gold standard pairs** — nie musisz manualnie annotate. Eliminuje ~połowę pracy.
+### Evaluation pairs (~110-160 par gold standard)
+
+**Goldmine: UOKiK Q&A** — `prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/` → 60 par scraped + ekspansja → 433 qa_gold w v0.6 (z explicit cytacjami do KC + Ustawy). To są **gotowe gold standard pairs** — eliminuje połowę pracy.
 
 Plus **50-100 par hand-annotated by Ty** dla diversity (typy halu spoza UOKiK distribution — np. paragraph mis-citation, temporal drift). Weekend hyperfocus burst.
 
-### Real consumer questions (~2-4k/miesiąc)
-
-- **Reddit r/Polska, r/Polish** — pobierane z Pushshift dumps via Academic Torrents (Reddit live API jest zablokowane, ale archive 5-15 GB compressed dla r/Polska slice działa)
-- **e-prawnik.pl** — sekcja ochrona-konsumenta (970 wątków, scrape OK)
-- **forumprawne.org** — 2436 stron paginacji
-- Plus auto-generated z ustaw (z każdego art. → pytanie o jego treść)
-
-### Synthetic halu pairs (~5-10k)
+### Synthetic halu pairs — DONE: 5,402 pairs balanced 5/5 typów
 
 Skrypt który bierze prawdziwe Q&A pair z UOKiK + losuje typ halu z 5 kategorii:
 - **Factual fabrication:** dodaj claim którego nie ma w evidence
@@ -135,11 +135,11 @@ Pierwszy publicznie udokumentowany polish citation-grounded halu benchmark. Form
 
 ### Artefakt 2: Polish hallucination probe model (HuggingFace)
 
-Trained probe (small classifier nad hidden states Bielika 1.5B/3B). Wagi + config + przykłady użycia. Pierwszy hidden-states halu probe dla polskiego LLM publicznie.
+Trained probe (small classifier nad hidden states Bielika 11B v3 layer 47, primary; 1.5B/3B fallback dla local CPU dev). Wagi + config + przykłady użycia. Pierwszy hidden-states halu probe dla polskiego LLM publicznie.
 
 ### Artefakt 3: Polish citation verifier (HuggingFace)
 
-mDeBERTa NLI fine-tuned (lub HerBERT-large NLI custom fine-tune jeśli mDeBERTa za słabe na polish legal). Plus model card.
+**mDeBERTa NLI frozen Tier 1 (NIE fine-tuned)** — confirmed working ✓ T1 PASS 80.6% (2026-05-16 lokal CPU sanity, DEC-004). HerBERT-large + custom CDSC-E fine-tune Tier 2 reserved jako fallback (NIE wymagany TERAZ — T1 PASS przekroczyło próg ≥75% +5.6pp). Plus model card.
 
 ### Artefakt 4: Gradio demo z 3 zakładkami
 
@@ -168,17 +168,17 @@ To jest co pokażesz na obronie — live demo, każdy w komisji może wpisać py
 
 ### Limitations (uczciwie)
 
-- **Hidden-states extraction nie jest agent-friendly.** Wymaga PyTorch hooks na Bielik forward pass — to Twoja praca, nie agentów. Plus compute intensive (forward pass przez Bielik na 5-10k samples).
-- **Programatic NLI ma ceiling.** Jeśli mDeBERTa multilingual baseline daje <70% agreement na polish legal text, fallback to LLM-as-judge (Bielik z few-shot prompting) — drożej, wolniej.
+- **Hidden-states extraction nie jest agent-friendly.** Wymaga PyTorch hooks na Bielik 11B forward pass — to Twoja praca, nie agentów. Plus compute intensive (forward pass przez Bielik na 5-10k samples). T3 lab GPU verify pending.
+- **Programatic NLI ma ceiling.** mDeBERTa multilingual ✓ T1 PASS 80.6% (lokal CPU 2026-05-16) — confirmed working. Jeśli probe training (Iter. 1) wykaże potrzebę wyższej precision, fallback to HerBERT Tier 2 lub LLM-as-judge Tier 3.
 - **Drugi pivot ma defense cost.** Promotor może spytać „dlaczego znowu zmieniasz". DEC-003 ma silny argument (Iter. 0a evidence + Mu-SHROOM gap + reuse 70%), ale nie 100% gwarancji że przejdzie. Risk: 10-20%.
-- **Czas:** ~10-11 tygodni speed-run. Compress możliwy do 7-8 tygodni jeśli skip ablations + simpler eval.
+- **Iteration-based pacing.** Speed-run mode bez calendar deadlines per Magda decision 2026-05-16; każda iteracja done-criterion based.
 
 ### Fallback jeśli coś nie wyjdzie
 
-- **Probe nie konwerguje w Iter. 2** (AUROC <0.65): fallback na semantic entropy approach (Farquhar 2024) — klasyczny ale działający.
-- **mDeBERTa za słaby**: HerBERT-large + custom NLI fine-tune na CDSC-E (~1d GPU work).
-- **Reddit blokowany**: Pushshift dumps via Academic Torrents + e-prawnik + forumprawne wystarczą (mitigacja confirmed).
-- **Outlines + Bielik nie współpracują** (technical blocker): drop hidden-states probe jako optional, focus na NLI-judge only — mniej ambitious ale defendable.
+- **Probe nie konwerguje w Iter. 2** (AUROC <0.70 lub CI lower <0.60 per D14): fallback na semantic entropy approach (Farquhar 2024) — klasyczny ale działający (R7 ablation A1).
+- **mDeBERTa per-class precision niedostateczna**: HerBERT-large + custom NLI fine-tune na CDSC-E Tier 2 fallback (~1-2h A100, $2-5).
+- **Reddit blokowany**: Pushshift dumps via Academic Torrents + e-prawnik + forumprawne wystarczą (mitigacja confirmed — qa_raw 2,945 chunks w v0.6).
+- **Outlines + Bielik diakrytyki problem T2** (technical blocker): switch z Outlines na xgrammar lub plain prompt+regex; drop generation-time citation, focus post-hoc only (per D13 + DEC-004 Wariant B fallback).
 
 ---
 
@@ -192,7 +192,9 @@ To jest co pokażesz na obronie — live demo, każdy w komisji może wpisać py
 
 Ten dokument jest *narrative explainer*. Konkretne kroki + co kto robi + sequence iteracji → drugi dokument: `PLAN_cele_i_kroki.md`.
 
-W skrócie: Iteracja 0 POC (1 tydzień) — ELI scrape Ustawy + UOKiK Q&A + Outlines+Bielik POC + mDeBERTa NLI sanity. Checkpoint go/no-go po tygodniu. Potem Iteracje 1-8 per `02_konspekt_v3.2_skeleton.md` § II.11.
+**Status 2026-05-16 evening:** Iteracja 0b PARTIAL DONE — ELI scrape ✓ + UOKiK Q&A ✓ + mDeBERTa NLI sanity ✓ T1 PASS 80.6% (DEC-004) + Polish CitationBench v0.6 build ✓ (11,000 chunks + 5,402 halu pairs). **Pending lab GPU SP7 H200:** T2 Outlines+Bielik diakrytyki + T3 PyTorch hooks layer 47 + T4 lab smoke inference. Po pełnym DEC-004 PASS → Iteracje 1-8 per `02_konspekt_v3.2_skeleton.md` § II.11.
+
+**Drafty thesis_research/drafts/:** PUSTE post-Wariant B (pre-cleanup R3/R4/R5 → `_archive/v3.2-pre-clean/drafts/`). Nowe drafty powstają w Iteracji 7 (writing phase) per build-first-finalize-last.
 
 ---
 

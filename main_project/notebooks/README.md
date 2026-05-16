@@ -4,7 +4,9 @@ Eksploracja danych + sanity checks dla Polish CitationBench.
 
 ## `eda_v0.ipynb`
 
-**Iteracja 0 (2026-05-16) — REAL EDA na 5,150 scrape'owanych rekordach.**
+**Iteracja 0 (2026-05-16) — REAL EDA na initial 5,150 scrape'owanych rekordach (PRE-cleanup, historical snapshot).**
+
+**Note:** EDA uruchomione na pre-Wariant B build (5,150 raw items). **Current dataset = Polish CitationBench v0.6** (11,000 unified chunks + 5,402 halu pairs, post-cleanup) w `data/processed/citationbench_v0.6_2026-05-16/`. Notebook EDA zostaje jako historical snapshot dla porównania pre/post-cleanup; refresh post-v0.6 = `eda_v1_processed.ipynb` (planned Iter. 1).
 
 Sekcje:
 - **A.** Setup + data loading (workaround do `dataset_builder` — schema drift fix)
@@ -32,7 +34,7 @@ uv run jupyter lab main_project/notebooks/
 
 ## Przyszłe notebooks (Iter. 1+)
 
-- `eda_v1_processed.ipynb` — po fix `dataset_builder` + processed JSONL build, porównanie v0 vs v1 stats
-- `probe_layer_search.ipynb` — layer 47 verification (Bielik 11B v3 internal hidden states dla halu detection)
+- `eda_v1_processed.ipynb` — porównanie v0 vs v0.6 stats (pre-cleanup vs post-Wariant B)
+- `probe_layer_search.ipynb` — layer 47 verification (Bielik 11B v3 internal hidden states dla halu detection — D10)
 - `error_analysis.ipynb` — kategoryczna error analysis halu types per cykl retreningu (R7 wyniki)
-- `umap_embeddings.ipynb` — UMAP per ustawa, sprawdzenie coverage diversity dla reranker training
+- `umap_embeddings.ipynb` — UMAP per source_type, sprawdzenie coverage diversity dla probe training distribution

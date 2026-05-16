@@ -1,7 +1,7 @@
 # Setup instrukcje — nowy laptop / migration
 
-**Data:** 2026-05-16
-**Cel:** Po `git clone` mieć fully working repo do continue Iter. 0b POC.
+**Data:** 2026-05-16 (evening — post-Wariant B + T1 PASS + v0.6)
+**Cel:** Po `git clone` mieć fully working repo do continue Iter. 0b POC (T2/T3/T4 lab GPU pending) lub Iter. 1 probe training (po T3 PASS).
 
 ---
 
@@ -89,15 +89,27 @@ cp .env.example .env
 
 ```bash
 ls main_project/data/raw/
-# Powinien być:
-# - eli_ustawy_konsumenckie_2026-05-16/   (2,123 chunks z 6 ustaw)
-# - uokik_qa_2026-05-16/                  (60 par gold standard)
-# - consumer_questions_polish_2026-05-16/ (2,967 questions)
-# - extended_consumer_2026-05-16/         (jeśli E1 done — Q&A z dodatkowych źródeł)
-# - consumer_documents_2026-05-16/        (jeśli E4 done — long-form documents)
+# Powinien być (raw scrape, pre-cleanup):
+# - eli_ustawy_konsumenckie_2026-05-16/   (2,541 chunks legal_statute z 6+ ustaw)
+# - uokik_qa_2026-05-16/                  (60 par gold standard ready-made)
+# - consumer_questions_polish_2026-05-16/ (qa_raw forumprawne+e-prawnik+reddit+...)
+# - extended_consumer_2026-05-16/         (Q&A z dodatkowych źródeł)
+# - consumer_documents_2026-05-16/        (legal_document_pdf UOKiK/RF/FK poradniki)
 
-wc -l main_project/data/raw/uokik_qa_2026-05-16/uokik_qa.jsonl
-# Should be 60
+ls main_project/data/processed/
+# Powinien być (processed, post-Wariant B cleanup):
+# - citationbench_v0.1_2026-05-16/  (initial build, historical)
+# - citationbench_v0.2_2026-05-16/  (intermediate, historical)
+# - citationbench_v0.3_2026-05-16/  (intermediate, historical)
+# - citationbench_v0.4_2026-05-16/  (pre-Wariant B, historical)
+# - citationbench_v0.5_2026-05-16/  (post-Wariant B initial, historical)
+# - citationbench_v0.6_2026-05-16/  (CURRENT — 11,000 chunks + 5,402 halu pairs balanced)
+
+wc -l main_project/data/processed/citationbench_v0.6_2026-05-16/chunks.jsonl
+# Should be 11000
+
+wc -l main_project/data/processed/citationbench_v0.6_2026-05-16/halu_pairs.jsonl
+# Should be 5402
 ```
 
 **Note:** `thesis_research/iter0_feasibility/rpl-snapshot-2026-05-16.xml` (~70 MB) jest **gitignored** (locked legacy artifact z v3.1 farma probe). Nie potrzebujesz go — historical reference only.
@@ -112,38 +124,52 @@ uv run pytest -v -k "not integration"         # skip slow integration
 
 Expected: schemas unit tests PASS. Integration tests skip jeśli raw data path różny.
 
-## 8. Build processed dataset (Polish CitationBench v0.1)
+## 8. Build processed dataset (Polish CitationBench v0.6 — current)
 
 ```bash
 cd main_project
 uv run python -m src.halu.dataset_builder \
     --raw-dir data/raw \
     --output-dir data/processed \
-    --version v0.1
+    --version v0.6 \
+    --filter-policy strict
 ```
 
-Output: `data/processed/citationbench_v0.1_<date>/` z `legal_chunks.jsonl`, `uokik_gold.jsonl`, `consumer_questions.jsonl`, `DATASET_CARD.md`.
+Output: `data/processed/citationbench_v0.6_<date>/` z `chunks.jsonl` (11,000 unified Chunks), `halu_pairs.jsonl` (5,402 balanced HaluPairs), `DATASET_CARD.md`.
 
-## 9. Iter. 0b POC start (po setup)
+**Note:** v0.6 jest current production version. Wariant B cleanup applied (drop ~38.4% off-scope chunks). Versions v0.1-v0.5 = historical (intermediate builds 2026-05-16).
 
-Per `thesis_research/PLAN_cele_i_kroki.md` § Iter. 0b — 4 testy:
+## 9. Iter. 0b POC status (PARTIAL DONE 2026-05-16)
 
-1. **Outlines + Bielik z polish diakrytyki** (D13 priority 1)
-2. **PyTorch hooks na Bielik layer 47** (D10+D11)
-3. **mDeBERTa NLI sanity** na 50 par UOKiK Q&A (D2)
-4. **Lab GPU verify** (D9)
+Per `thesis_research/PLAN_cele_i_kroki.md` § Iter. 0b + `decisions/DEC-004_iter0b_poc_results.md` — 4 testy:
+
+1. **T1 mDeBERTa NLI sanity** na 93 par v0.6 (D2) — ✓ **PASS 80.6%** (lokal CPU 2026-05-16 11:55)
+2. **T2 Outlines + Bielik z polish diakrytyki** (D8+D13 priority 1) — pending lab GPU
+3. **T3 PyTorch hooks na Bielik 11B layer 47** (D10+D11) — pending lab GPU
+4. **T4 Lab GPU verify** (D9 — SP7 H200 80GB SSH + smoke inference) — pending Magdy SSH access
+
+T1 results: `iter0b_poc/results/t1_mdeberta_20260516_115505.json`. Run T2/T3/T4 na lab:
+```bash
+cd main_project
+uv run python -m iter0b_poc.t2_outlines_bielik_diakrytyki --device cuda
+uv run python -m iter0b_poc.t3_pytorch_hooks_bielik --device cuda --layer 47
+uv run python -m iter0b_poc.t4_lab_gpu_verify --mode lab-side
+```
 
 Code templates → `thesis_research/research/bielik_tools_outlines_research.md` § 6 + `probes_polish_llm_research.md` § 9.
 
 ## 10. Where to start (read order, post-clone)
 
-1. **`D:\diplomma\CLAUDE.md`** — project state v3.2 (post-DEC-003 pivot)
+1. **`D:\diplomma\CLAUDE.md`** — project state v3.2 (post-DEC-003 pivot, post-Wariant B + T1 PASS + v0.6)
 2. **`thesis_research/CLAUDE.md`** — read order priorities post-pivot
 3. **`thesis_research/EXPLAINER_temat_dla_siebie.md`** — narrative + glossary (50+ pojęć)
 4. **`thesis_research/PLAN_cele_i_kroki.md`** — daily operational reference (D1-D15 decisions)
 5. **`thesis_research/02_konspekt_v3.2_skeleton.md`** — akademicki konspekt (12 sekcji)
 6. **`thesis_research/decisions/DEC-003_pivot-na-halu-detection.md`** — pivot rationale dla promotora
-7. Research outputs (8 plików w `thesis_research/research/`) — gdy potrzebny depth na konkretny topic
+7. **`thesis_research/decisions/DEC-004_iter0b_poc_results.md`** — POC results PARTIAL (T1 PASS; T2/T3/T4 pending lab GPU)
+8. **`thesis_research/notes/scope_cleanup_decisions_2026-05-16.md`** + **`KRYTYCZNA_ocena_scope_2026-05-16.md`** — Wariant B audit
+9. **`main_project/data/processed/citationbench_v0.6_2026-05-16/DATASET_CARD.md`** — current dataset stats
+10. Research outputs (~19 plików w `thesis_research/research/`) — gdy potrzebny depth na konkretny topic
 
 ## 11. Common workflows
 
@@ -196,8 +222,9 @@ Per Magdy konspekt v3.1 historical — dostęp do SP7 H200 80GB. Verify że:
 
 **Co się przeniesie z git clone (gotowe):**
 - ✅ Cały code (`main_project/src/`, `tests/`)
-- ✅ Wszystkie scraped data (~5,150 items + extended po E1/E4 land — JSONL)
-- ✅ Wszystkie research outputs + chapter skeletons + spec docs
+- ✅ Wszystkie raw scraped data (`data/raw/` — JSONL ELI/UOKiK/consumer questions/PDF poradniki)
+- ✅ Wszystkie processed datasets (`data/processed/citationbench_v0.1` ... `v0.6_2026-05-16/` — current = v0.6 11,000 chunks + 5,402 halu pairs)
+- ✅ Wszystkie research outputs + spec docs (drafts/ PUSTY post-Wariant B; pre-cleanup R3/R4/R5 → `_archive/v3.2-pre-clean/drafts/`)
 - ✅ Pyproject + lock file (deterministyczna re-install via `uv sync`)
 - ✅ .gitignore + SETUP.md + README
 

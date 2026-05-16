@@ -1,9 +1,9 @@
 # Konspekt v3.2 — Citation-grounded polish RAG z hallucination detection
 
-**Data:** 2026-05-16
-**Status:** ACTIVE skeleton (post-DEC-003 pivot). Pełna prose w R1-R8 powstaje w Iter. 7 manual writing per build-first-finalize-last.
+**Data:** 2026-05-16 (evening — post-Wariant B + T1 PASS + v0.6)
+**Status:** ACTIVE skeleton (post-DEC-003 pivot + post-DEC-004 POC partial PASS). Pełna prose w R1-R8 powstaje w Iter. 7 manual writing per build-first-finalize-last. Drafty PUSTE w `thesis_research/drafts/` (pre-cleanup R3/R4/R5 → `_archive/v3.2-pre-clean/drafts/`).
 **Supersedes:** `_archive/v3-pharma-reranker/02_konspekt_v3_FINAL.docx` + `_archive/v3-pharma-reranker/02b_konspekt_v3_updates.md` (v3.1 farma+reranker)
-**Related ADR:** [DEC-003](decisions/DEC-003_pivot-na-halu-detection.md)
+**Related ADR:** [DEC-003](decisions/DEC-003_pivot-na-halu-detection.md), [DEC-004](decisions/DEC-004_iter0b_poc_results.md)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## II.1 Streszczenie wykonawcze
 
-Praca projektuje, implementuje i ewaluuje **trzykomponentowy pipeline** dla polskich systemów RAG w domenach krytycznych: (1) **citation-grounded generator** (Bielik 11B v3 + LlamaIndex z post-hoc citation alignment), (2) **hidden-states hallucination probe** trenowany na aktywacjach Bielika (modern technique 2025-2026), (3) **NLI-based citation verifier** (HerBERT-large lub sdadas/polish-nli) sprawdzający per-claim grounding w retrieved context. Pipeline objęty **continuous improvement loop** — failure cases (probe alarmy + verifier kontradykcje) trafiają do preference dataset → retrain probe co N cykli z A/B test gating.
+Praca projektuje, implementuje i ewaluuje **trzykomponentowy pipeline** dla polskich systemów RAG w domenach krytycznych: (1) **citation-grounded generator** (Bielik 11B v3 + LlamaIndex z post-hoc citation alignment), (2) **hidden-states hallucination probe** trenowany na aktywacjach Bielika layer 47 (modern technique 2025-2026), (3) **3-tier NLI-based citation verifier** (mDeBERTa Tier 1 ✓ T1 PASS 80.6% 2026-05-16 → HerBERT-large Tier 2 fallback → LLM judge Tier 3 ablation) sprawdzający per-claim grounding w retrieved context. Pipeline objęty **continuous improvement loop** — failure cases (probe alarmy + verifier kontradykcje) trafiają do preference dataset → retrain probe co N cykli z A/B test gating.
 
 Studium przypadku: **polskie prawa konsumenta** (Ustawa o prawach konsumenta + Kodeks cywilny art. 535-581 z ISAP, decyzje + raporty UOKiK, real consumer questions z Reddit r/Polska + fora prawne). Eval set 100 par manual gold standard by autorka.
 
@@ -77,7 +77,7 @@ Każdy axis zwęża niche. AggTruth = English summarization halu, bardzo różny
 
 ## II.3 Pytania badawcze i hipotezy
 
-**3 main + 2 supporting (NIE 5 jak w v3.1).**
+**3 main + 1 supporting (NIE 5 jak w v3.1; RQ5 cross-domain deprecated post-Magda decision 2026-05-16 + Dubanowska EMNLP 2025 + Vaddi 2026-03 OOD evidence).**
 
 ### Main
 
@@ -113,17 +113,24 @@ Każdy axis zwęża niche. AggTruth = English summarization halu, bardzo różny
 
 ## II.4 Strategia danych
 
-### II.4.1 Korpus (target ~10-15k pairs)
+### II.4.1 Korpus — Polish CitationBench v0.6 (BUILT 2026-05-16, post-Wariant B cleanup)
 
-| Komponent | Source | ~size | Method | Kto |
-|---|---|---|---|---|
-| **Ustawy konsumenckie ✓ DONE 2026-05-16** | ISAP/ELI 6 ustaw: Ustawa o prawach konsumenta (240), KC art. 384-385+535-581 (92), Nieuczc. praktyki (113), Ochrona konkurencji (500), Usługi płatnicze (888), Pozasądowe spory (290) | **2,123 chunks scraped** (2.1 MB JSONL) | ELI download full text + stack-based HTML parser z struct validation | Agent (✓ DONE) |
-| **UOKiK Q&A (gold standard! ✓ DONE 2026-05-16)** | `prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/` — **60 par scraped, 92% z citations, 52 unique legal refs**, 5 kategorii (Prawo do informacji 20 / Odstąpienie 19 / Ogólne 12 / Reklamacja 6 / Telemarketing 3) | **60 ready-made pairs** | HTML scrape (✓ done) | Agent (✓ DONE) |
-| UOKiK decyzje + raporty | decyzje Prezesa UOKiK + raporty edukacyjne | ~200-500 chunks | HTML scrape | Agent |
-| **Real consumer questions** | Reddit r/Polska + r/Polish via Pushshift dumps (Academic Torrents, ~5-15 GB compressed) + e-prawnik.pl (970 wątków sekcji ochrona-konsumenta) + forumprawne.org (2436 stron paginacji) | ~2-4k pytań/miesiąc | Pushshift NDJSON.zst filter + HTML scrape (Reddit live API zablokowane) | Agent |
-| **Synthetic halu pairs** | Bielik 11B generated answers + injected halu (5 typów: factual fabrication, entity confusion, temporal drift, negation flip, paragraph mis-citation) | ~5-10k pairs | Programatic injection script + NLI labeling | Agent |
-| **Manual gold standard** | hand-annotated (claim, evidence, label) by autorka | 100 par | Magda weekend hyperfocus | Magda |
-| **Total** | | **~10-15k pairs** | | mix |
+**Output:** `main_project/data/processed/citationbench_v0.6_2026-05-16/` (chunks.jsonl 24 MB + halu_pairs.jsonl 7.9 MB + DATASET_CARD.md). Per-Wariant B audit: input 17,862 → kept 11,000 (61.6%) + dropped 6,862 (38.4%) per `notes/scope_cleanup_decisions_2026-05-16.md`.
+
+| Komponent (source_type) | count | source dominant |
+|---|---|---|
+| `legal_statute` (ISAP ELI) | 2,541 | isap.sejm.gov.pl |
+| `qa_raw` (real consumer questions) | 2,945 | forumprawne / e-prawnik / reddit / eporady24 / federacja / konsument.gov.pl / ... |
+| `legal_document_pdf` (UOKiK/RF/FK poradniki) | 1,965 | rf.gov.pl + uokik.gov.pl + federacja-konsumentow + uodo + cik.uke + knf |
+| `legal_ue_directive` (EUR-Lex) | 1,360 | eur-lex.europa.eu |
+| `encyclopedic` | 1,167 | wikipedia (CC BY-SA — share-alike caveat) |
+| `legal_court_judgment` | 534 | orzeczenia.ms.gov.pl |
+| `qa_gold` (UOKiK Q&A scraped) | 433 | prawakonsumenta.uokik.gov.pl + ekspansja |
+| `legal_tsue_judgment` | 29 | EUR-Lex CURIA |
+| `legal_uokik_decision` | 26 | uokik.gov.pl decyzje |
+| **Unified chunks total** | **11,000** | — |
+| **Synthetic halu pairs** | **5,402** | Bielik+injection 5 typów; balanced; factual_fabrication=NEUTRAL, reszta CONTRADICTED |
+| **Manual gold standard** | UOKiK Q&A 60 par ready-made (✓ DONE) + ~50-100 par hand-annotated by autorka (Magda weekend hyperfocus) → ~110-160 total | Magda + agent |
 
 ### II.4.2 Halu injection strategy (5 typów)
 
@@ -139,13 +146,17 @@ Każdy typ z jasną definicją operacyjną + skript-based generator:
 
 ### II.4.3 Programatic NLI labeling — 3-tier strategy
 
-**Tier 1 — production default:** **`MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7`**
+**Tier 1 — production default ✓ T1 PASS 2026-05-16 (DEC-004):** **`MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7`**
 - Polish **explicitly w training set** (27 langs, NIE tylko cross-lingual transfer)
 - 0.3B params, MIT license, 275k downloads/mo
-- **Estymata polish accuracy: 70-78%** (honest cross-lingual proxy z RU/BG — polish NIE jest w XNLI 15-lang test set; KLEJ leaderboard 96.4% to CDSC-E specific, NIE multi-domain)
+- **CONFIRMED: 80.6% accuracy** na 93 par v0.6 sanity check (lokal CPU, 2026-05-16 11:55)
+- Per-class P/R: contradicted P=1.000/R=0.766 (perfect precision); entailed P=0.800/R=0.706; neutral P=0.643/R=0.931 (model conservative — over-predicts neutral)
+- Critical finding: model wymaga `_HALU_TYPE_NLI_LABEL` map fix — `factual_fabrication` mutation (dodaje fikcyjny fakt) NIE jest contradiction lecz *unsupported claim* = NLI poprawnie predict NEUTRAL. Po fix → PASS 80.6%.
 - Production-friendly latency (~10 ms/inference)
 
-**Tier 2 — accuracy upgrade (jeśli Tier 1 < 70% w Iter. 0b sanity check):** **HerBERT-large + custom CDSC-E fine-tune**
+**Tier 2 — accuracy upgrade (NIE wymagany TERAZ — T1 PASS):** **HerBERT-large + custom CDSC-E fine-tune**
+- Status: NIE potrzebny dla MVP (T1 PASS 80.6%, próg ≥75% przekroczony +5.6pp)
+- Reserved jako fallback jeśli probe training (Iter. 1) wykaże że Tier 1 niedostateczne dla downstream pipeline (np. wymagane wyższe precision dla rzadkich halu types)
 - KLEJ leaderboard: 96.4% na CDSC-E (caveat: CDSC-E = image captions, domain shift do legal text obniża real accuracy do ~80-85%)
 - Cost: ~1-2h na A100, ~$2-5
 - License: CDSC-E CC-BY-NC-SA-4.0 (NonCommercial — OK badawczo, flag w R8 limitations + HuggingFace dataset card)
@@ -190,11 +201,12 @@ Dodatkowo Figura 5.8 — Gradio UI mockup (3 zakładki).
 |---|---|---|---|---|
 | Embedder | BGE-M3 | 568M | frozen | Multilingual, polish coverage, hybrid dense+sparse, MIT license |
 | Generator RAG | Bielik 11B v3 | 11B | frozen | Apache 2.0, native polish, ~131k context (YaRN) |
-| **Probe target** | Bielik 11B v3 (primary, lab GPU SP7 H200 80GB; fallback 1.5B/3B dla local CPU dev) | 1.5-3B | hidden-states extracted | Mniejszy = cheaper extraction. Trade-off: mniejszy może mieć mniej rich representations dla halu detection |
-| **Halu probe** | Small classifier (1-3 layer MLP) nad hidden activations | <10M | trained from scratch | Modern technique 2025-2026, single-pass, real-time |
-| **Citation verifier (Tier 1)** | **MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7** (300M, MIT) — primary, polish explicit w training | 300M | frozen | Estymata polish accuracy 70-78% (cross-lingual proxy z RU/BG) |
-| **Citation verifier (Tier 2 — fallback)** | **HerBERT-large + custom CDSC-E fine-tune** | 340M | LoRA fine-tune ~1-2h A100 | Triggered jeśli Tier 1 <70% w Iter. 0b POC sanity check; KLEJ 96.4% (ale CDSC-E domain shift do legal ~80-85%) |
-| **Citation verifier (Tier 3 — oracle baseline)** | **Bielik-11B-v3 few-shot** | 11B | frozen | Ablation A3 jako upper bound (NIE production — 100-200× drożej) |
+| **Probe target** | Bielik 11B v3 (primary, lab GPU SP7 H200 80GB; fallback 1.5B/3B dla local CPU dev jeśli T4 lab GPU verify FAIL) | 11B (1.5-3B fallback) | hidden-states extracted | Confirmed PyTorch hooks compatible (50 layers × 4096 hidden, ~22 GB VRAM bf16). T3 lab GPU verify pending. |
+| **Halu probe** | sklearn LogisticRegression linear primary (Liang & Wang Dec 2025 + Dubanowska EMNLP 2025) lub 1-3 layer MLP nonlinear w ablation | <10M | trained from scratch | Modern technique 2025-2026, single-pass, real-time |
+| **Citation verifier (Tier 1) ✓ T1 PASS 80.6% 2026-05-16** | **MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7** (300M, MIT) — primary, polish explicit w training | 300M | frozen | **CONFIRMED 80.6% accuracy** na 93 par v0.6; per-class contradicted P=1.000/R=0.766 |
+| **Citation verifier (Tier 2 — fallback, NIE wymagany teraz)** | **HerBERT-large + custom CDSC-E fine-tune** | 340M | LoRA fine-tune ~1-2h A100 | Reserved jeśli probe training Iter. 1 wykaże potrzebę wyższej precision; KLEJ 96.4% (ale CDSC-E domain shift do legal ~80-85%) |
+| **Citation verifier (Tier 3 — oracle baseline + RQ4 supporting)** | **Bielik / PLLuM / Gemma 3 / Claude Haiku few-shot** | 11B+ | frozen | Ablation A3 jako upper bound + RQ4 supporting (LLM-judge kappa ≥0.50 vs manual labels) |
+| **Tier 0 ablation (R7)** | gliclass-multilang-ultra | small | frozen | Alternative NLI baseline per `research/nli_models_2026_update.md` |
 | Multilingual baseline (compare) | Lynx 8B (Patronus AI), HHEM 2.x (Vectara) | 8B / small | frozen | Baseline dla R7 comparison vs polish-trained probe |
 
 ---
@@ -274,7 +286,7 @@ W R8 explicit zapisz rozdzielność kontrybucji:
 > 4. **Eksperymentalny:** porównanie hidden-states probe vs multilingual baselines (Lynx, HHEM) na polish corpus
 > 5. **Korpusowy:** pierwszy polish CitationBench dataset z deterministic citation grounding (ISAP-based)
 >
-> Każdy z pięciu wymiarów broni się niezależnie. W przypadku odrzucenia H1 (probe AUROC <0.80), kontrybucje (2)-(5) stoją niezależnie — z szczególnym wyróżnieniem dataset jako standalone publishable artifact.
+> Każdy z pięciu wymiarów broni się niezależnie. W przypadku odrzucenia H1 (probe AUROC <0.70 lub bootstrap CI lower <0.60), kontrybucje (2)-(5) stoją niezależnie — z szczególnym wyróżnieniem dataset jako standalone publishable artifact.
 
 ---
 
@@ -295,7 +307,7 @@ W R8 explicit zapisz rozdzielność kontrybucji:
 
 | Iter. | Czas | Magda robi | Agenty robią |
 |---|---|---|---|
-| **0b** | 1 tydz | Sign-off na temat (DONE 2026-05-16) + halu type taxonomy refinement | DEC-003 (DONE) + nowy konspekt v3.2 (TEN PLIK) + dataset feasibility research (in progress) |
+| **0b** | DONE 2026-05-16 (PARTIAL) | Sign-off na temat ✓ + halu type taxonomy ✓ + Wariant B cleanup ✓ + T1 mDeBERTa sanity ✓ PASS 80.6% | DEC-003 + DEC-004 + konspekt v3.2 (TEN PLIK) + Polish CitationBench v0.6 (11,000 chunks + 5,402 halu pairs) + halu_injector fix factual_fabrication=NEUTRAL + Wariant B scope filter (drop 38.4%); **Pending lab GPU:** T2 Outlines+Bielik diakrytyki + T3 PyTorch hooks layer 47 + T4 lab smoke inference |
 | **1a** | 1 tydz | Konfiguruje scrape (które ustawy in/out scope, fora wybór) | Scrape ISAP + UOKiK + Reddit/fora, format do HF datasets |
 | **1b** | 1 tydz | **100 par manual gold standard** (weekend hyperfocus burst) | Halu injection script (5 typów) → ~5-10k synthetic pairs + NLI labeling pipeline + EDA notebook + R3 Dane draft skeleton |
 | **2** | 2 tydz | Probe training (PyTorch hooks Bielik, hyperparam Optuna) + verifier training (HerBERT NLI LoRA) | Boilerplate code + monitoring scripts + R6 Modele draft skeleton |

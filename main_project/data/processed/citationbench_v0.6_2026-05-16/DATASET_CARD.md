@@ -16,7 +16,7 @@ size_categories:
 - 1K<n<10K
 ---
 
-# Polish CitationBench (vv0.6)
+# Polish CitationBench (v0.6)
 
 **Snapshot date:** 2026-05-16
 **Domena:** polskie prawa konsumenta + EU consumer law context
