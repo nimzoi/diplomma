@@ -530,3 +530,44 @@ Lista **must-cite** refs dla R2 v3.2 — **bez nich praca nie obroni się przed 
 - [ ] Decision dla R5/R6: czy wybrać Outlines (97% RAG success) vs xgrammar (3.5-14× szybsze) — Iter. 0b POC
 - [ ] Decision dla judge model: Bielik 11B vs PLLuM 12B vs Gemma 3 27B vs Claude Haiku — DEC w Iter. 0
 - [ ] Cross-check Bucket N polish gap claims przed final R1 §1.2 motywacja write-up
+
+---
+
+## NLI models update 2026 (Magda 2026-05-16 leads)
+
+**Trigger:** Magdy odkrycie nowych modeli/datasetów po DEC-003 pivot — request: czy aktualizować 3-tier NLI verifier strategy?
+**Pełny research:** `D:\diplomma\thesis_research\research\nli_models_2026_update.md`
+
+### TLDR (3 zdania)
+
+1. **TRZYMAĆ current 3-tier plan** — żaden z 6 ocenianych modeli/datasetów (gliclass-multilang-ultra, gliclass-v3 collection, finecat-nli, ModernCE, EttinX, all-nli) nie pokonuje `MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7` dla polish citation grounding na łącznym kryterium polish coverage + license + battle-tested adoption (275k dl/mo, MIT).
+2. **DODAĆ `knowledgator/gliclass-multilang-ultra` jako Tier 0 ablation w R7** — native multi-class output (1.7B params, Apache 2.0, 20 langs incl. PL) bezpośrednio maps na 6-poziomową taksonomię halu types z `CLAUDE.md` § Defense scaffolding. Komplementarne, NIE replacement.
+3. **ZAPRZYJAŹNIĆ dleemiller methodology** — blog "Ways to use NLI cross-encoder" zawiera reusable patterns dla R2/R3/R5: hybrid scoring formula `0.5 * neutral + entailment - contradiction`, claim extraction guidelines (direct/unambiguous statements), NLI cross-encoder Swiss-Army-knife framing.
+
+### Key findings
+
+| # | Finding | Impact |
+|---|---------|--------|
+| 1 | `sdadas/polish-nli` NIE ISTNIEJE (verified) — phantom citation potwierdzony | Już prawidłowo w CLAUDE.md noted |
+| 2 | gliclass-multilang-ultra: native multi-class halu typology = defensible R7 ablation | Dodać Tier 0 |
+| 3 | finecat-nli-l: **license NIE specyfikowana** — red flag dla HF publication | NIE używać bez confirmation |
+| 4 | all-nli dataset: English-only (SNLI+MultiNLI) — nieprzydatne dla polish fine-tune | Skip dla Tier 2 |
+| 5 | FineCat-NLI methodology (knowledge distillation z DeBERTa-v3-large) reusable jako future work jeśli HerBERT Tier 2 zbyt wolny | R8 future work |
+| 6 | dleemiller hybrid scoring formula → R5 verifier head + R6 verifier methodology | High-value cite |
+
+### Stack proposed addition (CLAUDE.md § Stack)
+
+```
++ knowledgator/gliclass-multilang-ultra (1.7B, Apache 2.0, 20 langs incl. PL)
++ — Tier 0 R7 ablation: native multi-class halu typology vs 2-step mDeBERTa NLI + LLM judge classify
+```
+
+### Time-to-execute estimate
+
+~6-12h work total dla wariantu 1+2 (TRZYMAĆ + DODAĆ gliclass ablation):
+- Update CLAUDE.md + 02_konspekt R7 sub-section: ~20 min
+- Iter. 0b POC gliclass batch eval na CDSC-E 1k par + 100 manual gold: 5-10h
+- R5 FIG-3 add hybrid scoring formula: ~30 min
+- R3 add claim extraction guidelines: ~20 min
+
+**NIE blocker.** NIE scope creep (exploratory sub-RQ, NIE modyfikacja 3 main + 2 supporting RQ).
