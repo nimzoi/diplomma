@@ -47,7 +47,10 @@ Alternatywa dla prostego tekstu (bez struktury): `pypdf` lub `PDF_Tools.read_pdf
 
 `thesis_research/drafts/` — workspace dla pre-rozdziałowych szkiców, brainstormów, draft sekcji.
 
-**Status drafts (2026-05-16):** **PUSTY** po pivot DEC-003. Stare drafty v3.1 (R1_wprowadzenie, R2_literatura, R3_dane, R4_eda, R5_outline, R6_modele, R7_wyniki, R8_podsumowanie) zarchiwizowane w `_archive/v3-pharma-reranker/drafts/`.
+**Status drafts (2026-05-16, post-Wariant B cleanup):** **PUSTY** per CLAUDE.md.
+- Stare drafty v3.1 (R1_wprowadzenie, R2_literatura, R3_dane, R4_eda, R5_outline, R6_modele, R7_wyniki, R8_podsumowanie) → `_archive/v3-pharma-reranker/drafts/`
+- Pre-cleanup v3.2 drafty R3/R4/R5 (1,315 LOC, pre-Wariant B, pre-T1 PASS, pre-v0.6 dataset) → `_archive/v3.2-pre-clean/drafts/` z README explanation
+- Nowe drafty v3.2 powstają w **Iter. 7 writing phase** (po wszystkich Iter. 1-6 ablations) per build-first-finalize-last (CLAUDE.md Wzorzec 8)
 
 **Nowe drafty v3.2** będą tworzone w Iteracji 7 (writing phase) per build-first-finalize-last principle (patrz `D:\diplomma\CLAUDE.md` Wzorce pracy pkt 8).
 
