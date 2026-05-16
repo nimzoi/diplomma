@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00625",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-butow-ccc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-butow-ccc.html",
+  "archive_file": "e_prawnik/eprawnik_00625.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55014,
+  "sha256": "403be6f5edc8c6e22cbd3cf0990c3d43e636c5d3c8b85b7fda05674b2c037f2e",
+  "download_date": "2026-05-16T07:34:58Z",
+  "duration_sec": 0.146,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

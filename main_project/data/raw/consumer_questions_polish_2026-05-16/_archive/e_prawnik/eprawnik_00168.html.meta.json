@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00168",
+  "source_url": "https://e-prawnik.pl/forum/pozyczka-200-tys-zl-a-oszustwo.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pozyczka-200-tys-zl-a-oszustwo.html",
+  "archive_file": "e_prawnik/eprawnik_00168.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56200,
+  "sha256": "ceab9c750c7db6b05b828baf9785b7d786fbef219005a8b8af47e772162eb5cf",
+  "download_date": "2026-05-16T07:26:00Z",
+  "duration_sec": 0.125,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

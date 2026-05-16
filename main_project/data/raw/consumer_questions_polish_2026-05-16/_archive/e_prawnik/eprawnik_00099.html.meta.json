@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00099",
+  "source_url": "https://e-prawnik.pl/forum/witam-firma-zgubila-oryginal-umowy-na-tej-podstawie-zalozylem-ze-ta-umowa-nie-istnieje-i-nie-wy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-firma-zgubila-oryginal-umowy-na-tej-podstawie-zalozylem-ze-ta-umowa-nie-istnieje-i-nie-wy.html",
+  "archive_file": "e_prawnik/eprawnik_00099.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56010,
+  "sha256": "4f326f29e5d8ae5b58867f0c8f6a7aa1ec669dc2deb9594beeb32f2699105382",
+  "download_date": "2026-05-16T07:24:40Z",
+  "duration_sec": 0.204,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

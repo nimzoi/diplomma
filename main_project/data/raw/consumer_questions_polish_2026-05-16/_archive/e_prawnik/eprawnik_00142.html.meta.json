@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00142",
+  "source_url": "https://e-prawnik.pl/forum/korzystanie-z-czyjegos-konta-na-allegropl.html",
+  "fetch_url": "https://e-prawnik.pl/forum/korzystanie-z-czyjegos-konta-na-allegropl.html",
+  "archive_file": "e_prawnik/eprawnik_00142.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54109,
+  "sha256": "675ee064f5ebf3d310d78c1dce2f03be5b0b69f3fa27ad7a7238d2c3dc9cccc5",
+  "download_date": "2026-05-16T07:25:30Z",
+  "duration_sec": 0.106,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

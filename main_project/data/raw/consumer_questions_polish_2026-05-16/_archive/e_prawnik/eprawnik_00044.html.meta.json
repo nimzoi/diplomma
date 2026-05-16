@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00044",
+  "source_url": "https://e-prawnik.pl/forum/mozliwosci-zadoscucznienia-po-zlamaniu-umowy-miedzy-firmami.html",
+  "fetch_url": "https://e-prawnik.pl/forum/mozliwosci-zadoscucznienia-po-zlamaniu-umowy-miedzy-firmami.html",
+  "archive_file": "e_prawnik/eprawnik_00044.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58085,
+  "sha256": "15a4fd4cff744f7653ed0999e73fbe078ab44c6b87b2679906d7daac7b5848e1",
+  "download_date": "2026-05-16T07:23:36Z",
+  "duration_sec": 0.161,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

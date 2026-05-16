@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00217",
+  "source_url": "https://e-prawnik.pl/forum/wymiana-towaru-na-nowy-na-gwarancji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wymiana-towaru-na-nowy-na-gwarancji.html",
+  "archive_file": "e_prawnik/eprawnik_00217.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57111,
+  "sha256": "cb784bf6a94821a7690d2216d61f9442f21f12f28c397688a078615633a9afcf",
+  "download_date": "2026-05-16T07:26:57Z",
+  "duration_sec": 0.205,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

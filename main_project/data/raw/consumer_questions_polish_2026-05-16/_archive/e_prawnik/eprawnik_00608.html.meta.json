@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00608",
+  "source_url": "https://e-prawnik.pl/forum/gwarancja-telefonu-w-plusie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/gwarancja-telefonu-w-plusie.html",
+  "archive_file": "e_prawnik/eprawnik_00608.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57875,
+  "sha256": "9939194b6dfbe29b0de72378ef3de945cf3fdbc4a0a78048c826bc6251cbd1c3",
+  "download_date": "2026-05-16T07:34:37Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

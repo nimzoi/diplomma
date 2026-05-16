@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00266",
+  "source_url": "https://e-prawnik.pl/forum/uszkodzony-towar-z-olx-a-rekojmia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/uszkodzony-towar-z-olx-a-rekojmia.html",
+  "archive_file": "e_prawnik/eprawnik_00266.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58543,
+  "sha256": "dde13d8cb6bfe914c2c7015e6b070560fdaaf6aa3569921ae33baa1f3fcbf32b",
+  "download_date": "2026-05-16T07:27:54Z",
+  "duration_sec": 0.137,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00112",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-poniesione-straty-wypadek-na-budowie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-poniesione-straty-wypadek-na-budowie.html",
+  "archive_file": "e_prawnik/eprawnik_00112.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55964,
+  "sha256": "67a2a211c7acc9780c2b4097bc7bfa04f68a9ed6d3b7008137d78b623e80109c",
+  "download_date": "2026-05-16T07:24:55Z",
+  "duration_sec": 0.144,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

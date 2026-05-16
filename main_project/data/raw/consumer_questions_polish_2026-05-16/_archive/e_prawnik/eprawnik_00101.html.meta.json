@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00101",
+  "source_url": "https://e-prawnik.pl/forum/umowa-niezgodna-z-prawem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-niezgodna-z-prawem.html",
+  "archive_file": "e_prawnik/eprawnik_00101.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56899,
+  "sha256": "ba7fb3af9f1e036fb16efe21c856a362d5bb4abb9aa754bdd14c9d9df165fe00",
+  "download_date": "2026-05-16T07:24:43Z",
+  "duration_sec": 0.109,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

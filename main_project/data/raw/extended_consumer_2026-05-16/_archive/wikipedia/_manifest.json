@@ -1,0 +1,242 @@
+{
+  "source": "pl.wikipedia.org",
+  "source_dir": "main_project\\data\\raw\\extended_consumer_2026-05-16/wikipedia",
+  "scrape_date": "2026-05-16",
+  "stats": {
+    "total_entries": 15,
+    "total_errors": 0,
+    "total_bytes": 1251328
+  },
+  "entries": [
+    {
+      "doc_id": "Prawa_konsumenta__2d9ccc2c",
+      "source_url": "https://pl.wikipedia.org/wiki/Prawa_konsumenta",
+      "archive_path": "_archive/wikipedia/Prawa_konsumenta__2d9ccc2c.html",
+      "content_type": "text/html",
+      "size_bytes": 87286,
+      "sha256": "ca2f93c0d128e90da4ba69a7c52e5cbead14879bdb2f63f64a4ec6e6ab10bbac",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_prawa_konsumenta_historia",
+        "wiki_pl_prawa_konsumenta_prawa_konsumenta_w_unii_europejskiej",
+        "wiki_pl_prawa_konsumenta_prawa_konsumenta_w_polsce"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Ustawa_o_prawach_konsumenta__bc64523e",
+      "source_url": "https://pl.wikipedia.org/wiki/Ustawa_o_prawach_konsumenta",
+      "archive_path": "_archive/wikipedia/Ustawa_o_prawach_konsumenta__bc64523e.html",
+      "content_type": "text/html",
+      "size_bytes": 69177,
+      "sha256": "0767d9bc7559fe32b5b976cc0b4cb1f24fea5e07dcf7a521104fc94066ca3beb",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_ustawa_o_prawach_konsumenta_lead",
+        "wiki_pl_ustawa_o_prawach_konsumenta_przedmiot_regulacji",
+        "wiki_pl_ustawa_o_prawach_konsumenta_wprowadzone_zmiany"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Ochrona_praw_konsumenta__ad035530",
+      "source_url": "https://pl.wikipedia.org/wiki/Ochrona_praw_konsumenta",
+      "archive_path": "_archive/wikipedia/Ochrona_praw_konsumenta__ad035530.html",
+      "content_type": "text/html",
+      "size_bytes": 107436,
+      "sha256": "3fc3156abc930d1877614c006f149ad8c37b6f57e2db698f0fe178995ac6279e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_ochrona_praw_konsumenta_lead",
+        "wiki_pl_ochrona_praw_konsumenta_rozwój_prawa_ochrony_konsumenta_w_europi",
+        "wiki_pl_ochrona_praw_konsumenta_unijne_prawa_konsumenta"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Konsument_prawo__318db669",
+      "source_url": "https://pl.wikipedia.org/wiki/Konsument_(prawo)",
+      "archive_path": "_archive/wikipedia/Konsument_prawo__318db669.html",
+      "content_type": "text/html",
+      "size_bytes": 85477,
+      "sha256": "84fc7d176f6ed77604faafbc58193a69d6224b3b9ea536c8dea882190b6a7530",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_konsument__prawo_lead",
+        "wiki_pl_konsument__prawo_definicja_kodeksowa",
+        "wiki_pl_konsument__prawo_prawa_konsumenta"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Kredyt_konsumencki__bdaeff22",
+      "source_url": "https://pl.wikipedia.org/wiki/Kredyt_konsumencki",
+      "archive_path": "_archive/wikipedia/Kredyt_konsumencki__bdaeff22.html",
+      "content_type": "text/html",
+      "size_bytes": 69014,
+      "sha256": "f46713956ba7d424c330cddf2ca31f4984c9b6fbfe6aff0d3a7a1d558795e2c1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_kredyt_konsumencki_lead",
+        "wiki_pl_kredyt_konsumencki_kredyt_konsumencki_w_polsce"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Reklamacja__f8358711",
+      "source_url": "https://pl.wikipedia.org/wiki/Reklamacja",
+      "archive_path": "_archive/wikipedia/Reklamacja__f8358711.html",
+      "content_type": "text/html",
+      "size_bytes": 73863,
+      "sha256": "497500b227e71554f0a1273bdb02ed6289b7c04f230c3f6643f4ab6474ce3f07",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_reklamacja_lead",
+        "wiki_pl_reklamacja_procedury_reklamacyjne"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "R_kojmia__00b4984b",
+      "source_url": "https://pl.wikipedia.org/wiki/Rękojmia",
+      "archive_path": "_archive/wikipedia/R_kojmia__00b4984b.html",
+      "content_type": "text/html",
+      "size_bytes": 115291,
+      "sha256": "70d8ef2f0493adfc458355f5cf39b1756cea526dbc41661611669a24bb4da791",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_rękojmia_lead",
+        "wiki_pl_rękojmia_rękojmia_w_polskim_prawie"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Niedozwolone_postanowienie_umowne__ea6511ec",
+      "source_url": "https://pl.wikipedia.org/wiki/Niedozwolone_postanowienie_umowne",
+      "archive_path": "_archive/wikipedia/Niedozwolone_postanowienie_umowne__ea6511ec.html",
+      "content_type": "text/html",
+      "size_bytes": 67103,
+      "sha256": "4789937e5e28ba4a55ff3a8c45787f49459d5747977cbd5f3f29d52c28bcfcf2",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_niedozwolone_postanowienie_umowne_lead",
+        "wiki_pl_niedozwolone_postanowienie_umowne_rejestr_klauzul_niedozwolonych_i_kary_za"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Niezgodno_towaru_konsumpcyjnego_z_umow__4109ce39",
+      "source_url": "https://pl.wikipedia.org/wiki/Niezgodność_towaru_konsumpcyjnego_z_umową",
+      "archive_path": "_archive/wikipedia/Niezgodno_towaru_konsumpcyjnego_z_umow__4109ce39.html",
+      "content_type": "text/html",
+      "size_bytes": 73753,
+      "sha256": "0f9e06025eefd1ab465bf2dca2831aa6912d12f6e9bdabcdbee08fe5955147a3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_niezgodność_towaru_konsumpcyjnego_z_umową_lead"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Urz_d_Ochrony_Konkurencji_i_Konsument_w__cbf51560",
+      "source_url": "https://pl.wikipedia.org/wiki/Urząd_Ochrony_Konkurencji_i_Konsumentów",
+      "archive_path": "_archive/wikipedia/Urz_d_Ochrony_Konkurencji_i_Konsument_w__cbf51560.html",
+      "content_type": "text/html",
+      "size_bytes": 107518,
+      "sha256": "c588fb80c9fb7284db93d2413d0a3bf0a18368d79d1fdf166101d87e2152c42a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_urząd_ochrony_konkurencji_i_konsumentów_lead",
+        "wiki_pl_urząd_ochrony_konkurencji_i_konsumentów_historia",
+        "wiki_pl_urząd_ochrony_konkurencji_i_konsumentów_organizacja",
+        "wiki_pl_urząd_ochrony_konkurencji_i_konsumentów_działalność",
+        "wiki_pl_urząd_ochrony_konkurencji_i_konsumentów_krytyka_działań_uokik"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Klauzula_prawo__1caf046b",
+      "source_url": "https://pl.wikipedia.org/wiki/Klauzula_(prawo)",
+      "archive_path": "_archive/wikipedia/Klauzula_prawo__1caf046b.html",
+      "content_type": "text/html",
+      "size_bytes": 77793,
+      "sha256": "8b80907dd3be9f062dd8acd4c06c728a5f8f0df705c2976ea51156ec86ac6e4b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_klauzula__prawo_klauzule_niedozwolone_abuzywne_zakazane",
+        "wiki_pl_klauzula__prawo_klauzule_niedozwolone_w_rejestrach_preze",
+        "wiki_pl_klauzula__prawo_klauzule_niedozwolone_w_kodeksie_cywilny"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Sprzeda_konsumencka__ca24c0ea",
+      "source_url": "https://pl.wikipedia.org/wiki/Sprzedaż_konsumencka",
+      "archive_path": "_archive/wikipedia/Sprzeda_konsumencka__ca24c0ea.html",
+      "content_type": "text/html",
+      "size_bytes": 57939,
+      "sha256": "f6b2e1edf37b95952c5f2ecb33b5d7e2e5d5a31da28d8fd5408a4c4aeb292f5f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_sprzedaż_konsumencka_lead"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Federacja_Konsument_w__de8be3c3",
+      "source_url": "https://pl.wikipedia.org/wiki/Federacja_Konsumentów",
+      "archive_path": "_archive/wikipedia/Federacja_Konsument_w__de8be3c3.html",
+      "content_type": "text/html",
+      "size_bytes": 53242,
+      "sha256": "79dc0c3a0a08e59c7536fed82991fc2c573a10eb879251fbd3a63e34aa90ee34",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_federacja_konsumentów_lead"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Inspekcja_Handlowa__91868a3e",
+      "source_url": "https://pl.wikipedia.org/wiki/Inspekcja_Handlowa",
+      "archive_path": "_archive/wikipedia/Inspekcja_Handlowa__91868a3e.html",
+      "content_type": "text/html",
+      "size_bytes": 57132,
+      "sha256": "59cd73ecbdcc9ae892d3ba03703cdf84a75cf7a9be8111b1b5a1181d1556b28b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_inspekcja_handlowa_lead"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "Umowa__95c991a4",
+      "source_url": "https://pl.wikipedia.org/wiki/Umowa",
+      "archive_path": "_archive/wikipedia/Umowa__95c991a4.html",
+      "content_type": "text/html",
+      "size_bytes": 149304,
+      "sha256": "62ecb2884f39798d665561d81c5a6e7bba4c8e055b755eb2d8bfbf7e5ab83bae",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "wiki_pl_umowa_lead",
+        "wiki_pl_umowa_umowa_w_prawie_polskim"
+      ],
+      "license": "CC BY-SA 4.0 (Wikipedia)",
+      "http_status": 200
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00018",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-slup-linia-energetyczna-na-dzialce-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-slup-linia-energetyczna-na-dzialce-1.html",
+  "archive_file": "e_prawnik/eprawnik_00018.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 109800,
+  "sha256": "cfb04bd4f7f25368ee6cd461f25812371cfb34cf7110dede9a4e2d1445d37fb1",
+  "download_date": "2026-05-16T07:23:06Z",
+  "duration_sec": 0.205,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

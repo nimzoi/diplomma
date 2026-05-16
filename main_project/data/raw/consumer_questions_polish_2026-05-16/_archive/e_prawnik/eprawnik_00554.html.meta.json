@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00554",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-kosztow-w-procesie-reklamacyjnym.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-kosztow-w-procesie-reklamacyjnym.html",
+  "archive_file": "e_prawnik/eprawnik_00554.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57138,
+  "sha256": "cbc9cef0f48296866bc33bed9b54c2d4a6747e390895b0262e14e4beae157ebe",
+  "download_date": "2026-05-16T07:33:33Z",
+  "duration_sec": 0.332,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

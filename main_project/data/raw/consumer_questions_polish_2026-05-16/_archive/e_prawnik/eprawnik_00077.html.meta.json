@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00077",
+  "source_url": "https://e-prawnik.pl/forum/uzytkownik-zalicytowal-kup-teraz-a-po-czasie-napial-ze-nie-zaplaci-co-zrobic.html",
+  "fetch_url": "https://e-prawnik.pl/forum/uzytkownik-zalicytowal-kup-teraz-a-po-czasie-napial-ze-nie-zaplaci-co-zrobic.html",
+  "archive_file": "e_prawnik/eprawnik_00077.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56256,
+  "sha256": "47578dca37fe230f259c84fcc8cf7e1bf35e179f1c90bc9b63bfc7b60c00afb0",
+  "download_date": "2026-05-16T07:24:15Z",
+  "duration_sec": 0.134,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

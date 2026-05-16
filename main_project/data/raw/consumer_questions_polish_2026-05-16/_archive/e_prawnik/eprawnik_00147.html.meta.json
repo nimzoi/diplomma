@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00147",
+  "source_url": "https://e-prawnik.pl/forum/nota-obciazeniowa-z-mzk.html",
+  "fetch_url": "https://e-prawnik.pl/forum/nota-obciazeniowa-z-mzk.html",
+  "archive_file": "e_prawnik/eprawnik_00147.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59286,
+  "sha256": "e925c86f98afee8c4de4b7e7140d297f101695392d604d35583b74aa6bd4c261",
+  "download_date": "2026-05-16T07:25:36Z",
+  "duration_sec": 0.213,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

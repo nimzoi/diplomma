@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00151",
+  "source_url": "https://e-prawnik.pl/forum/wzor-podania-o-odszkodowanie-za-pobicie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wzor-podania-o-odszkodowanie-za-pobicie.html",
+  "archive_file": "e_prawnik/eprawnik_00151.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56837,
+  "sha256": "afe44e96ec62c1445e14785315f5b556ebc1793e4d98e1a1d77d8a8c28b46a8f",
+  "download_date": "2026-05-16T07:25:41Z",
+  "duration_sec": 0.228,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

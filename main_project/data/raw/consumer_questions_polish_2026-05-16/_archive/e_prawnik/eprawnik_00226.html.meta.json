@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00226",
+  "source_url": "https://e-prawnik.pl/forum/oplaty-za-skladowanie-towaru.html",
+  "fetch_url": "https://e-prawnik.pl/forum/oplaty-za-skladowanie-towaru.html",
+  "archive_file": "e_prawnik/eprawnik_00226.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57458,
+  "sha256": "c20cc82361f570f7470a701cbfeed24ba50dda63ca7b6edca1ffe371555a5fe9",
+  "download_date": "2026-05-16T07:27:08Z",
+  "duration_sec": 0.151,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

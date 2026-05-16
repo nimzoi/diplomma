@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00385",
+  "source_url": "https://e-prawnik.pl/forum/problemy-z-firma-provident-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problemy-z-firma-provident-1.html",
+  "archive_file": "e_prawnik/eprawnik_00385.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63696,
+  "sha256": "3ee12fc287d5626abe4089697ea37119e6d922c5055c8e3e9f737888198197ff",
+  "download_date": "2026-05-16T07:30:15Z",
+  "duration_sec": 0.208,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

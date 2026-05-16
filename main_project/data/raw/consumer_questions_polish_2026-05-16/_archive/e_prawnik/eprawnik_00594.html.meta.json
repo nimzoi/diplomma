@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00594",
+  "source_url": "https://e-prawnik.pl/forum/czy-moge-otrzymac-od-poradni-pp-odszkodowanie-za-zla-prowadzona-opieke-nad-moim-synem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-moge-otrzymac-od-poradni-pp-odszkodowanie-za-zla-prowadzona-opieke-nad-moim-synem.html",
+  "archive_file": "e_prawnik/eprawnik_00594.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57039,
+  "sha256": "0e0c262ffaf3220e31d863026bfd9f29891eaf99dae67910bb87885cf6beaf63",
+  "download_date": "2026-05-16T07:34:20Z",
+  "duration_sec": 0.131,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00282",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-pieniedzy-za-potrojny-przelew.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-pieniedzy-za-potrojny-przelew.html",
+  "archive_file": "e_prawnik/eprawnik_00282.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57249,
+  "sha256": "0bff8177879a833e0106155a03b1f69f334a0130b360a0587a185c83d4218ea1",
+  "download_date": "2026-05-16T07:28:13Z",
+  "duration_sec": 0.224,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

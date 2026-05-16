@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00068",
+  "source_url": "https://e-prawnik.pl/forum/dlug-splacony-bez-komornika-a-firma-chce-pieniadze-za-jego-usluge.html",
+  "fetch_url": "https://e-prawnik.pl/forum/dlug-splacony-bez-komornika-a-firma-chce-pieniadze-za-jego-usluge.html",
+  "archive_file": "e_prawnik/eprawnik_00068.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60443,
+  "sha256": "1d7a528aebaddbe359a519b6c1dde0973c5e7d3fe876f28ea655d9f8955efbde",
+  "download_date": "2026-05-16T07:24:04Z",
+  "duration_sec": 0.154,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

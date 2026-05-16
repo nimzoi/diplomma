@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00227",
+  "source_url": "https://e-prawnik.pl/forum/kupno-telefonu-brak-doslania-pudelka-i-faktury-ktore-mialy-zostac-doslane-w-ciagu-miesiaca.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kupno-telefonu-brak-doslania-pudelka-i-faktury-ktore-mialy-zostac-doslane-w-ciagu-miesiaca.html",
+  "archive_file": "e_prawnik/eprawnik_00227.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57704,
+  "sha256": "73ab74c92d0c6156dfc3a0bb050d109b1f248831c04626e7837b599d2f411ca5",
+  "download_date": "2026-05-16T07:27:09Z",
+  "duration_sec": 0.142,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

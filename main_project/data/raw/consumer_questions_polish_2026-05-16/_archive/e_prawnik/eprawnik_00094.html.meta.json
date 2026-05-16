@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00094",
+  "source_url": "https://e-prawnik.pl/forum/odstapenie-od-umowy-kupna-sprzedazy-oszustwo-na-oc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapenie-od-umowy-kupna-sprzedazy-oszustwo-na-oc.html",
+  "archive_file": "e_prawnik/eprawnik_00094.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55899,
+  "sha256": "d633f2851c46ce092d9d6c20486577fa0ba6f8adccfd414fcf852b1c550f69f7",
+  "download_date": "2026-05-16T07:24:35Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

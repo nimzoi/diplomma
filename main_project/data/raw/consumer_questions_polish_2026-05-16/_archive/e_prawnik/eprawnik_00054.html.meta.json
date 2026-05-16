@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00054",
+  "source_url": "https://e-prawnik.pl/forum/santander-consumer-bank-oszukiwal-klientow.html",
+  "fetch_url": "https://e-prawnik.pl/forum/santander-consumer-bank-oszukiwal-klientow.html",
+  "archive_file": "e_prawnik/eprawnik_00054.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54169,
+  "sha256": "dc9d5595ec401bd253c4f2c0224b9e5fc113e4215c8a938a7e626c480a5b6eb3",
+  "download_date": "2026-05-16T07:23:48Z",
+  "duration_sec": 0.216,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

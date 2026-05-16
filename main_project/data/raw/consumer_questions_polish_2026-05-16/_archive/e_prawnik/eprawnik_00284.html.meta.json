@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00284",
+  "source_url": "https://e-prawnik.pl/forum/ostrzezenie-w-dziale-iii-ksiegi-wieczystej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ostrzezenie-w-dziale-iii-ksiegi-wieczystej.html",
+  "archive_file": "e_prawnik/eprawnik_00284.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58764,
+  "sha256": "b66185a3a05c6ff01b2c5093b80d7481c076c23caf225ed61734b5e1303340f9",
+  "download_date": "2026-05-16T07:28:16Z",
+  "duration_sec": 0.141,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

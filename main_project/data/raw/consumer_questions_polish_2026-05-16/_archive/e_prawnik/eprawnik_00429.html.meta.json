@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00429",
+  "source_url": "https://e-prawnik.pl/forum/sprawdzenie-poprawnosci-pisma.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprawdzenie-poprawnosci-pisma.html",
+  "archive_file": "e_prawnik/eprawnik_00429.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56054,
+  "sha256": "99d361b1915509fd48a0556e9b3d4715f1e2de7454aca71200ff318cb7a6399c",
+  "download_date": "2026-05-16T07:31:06Z",
+  "duration_sec": 0.13,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

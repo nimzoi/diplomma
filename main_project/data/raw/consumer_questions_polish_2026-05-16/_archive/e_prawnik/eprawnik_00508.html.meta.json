@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00508",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-najmu-przez-przedsiebiorce.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-najmu-przez-przedsiebiorce.html",
+  "archive_file": "e_prawnik/eprawnik_00508.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56197,
+  "sha256": "568608c9d900da5cea3f1a7cf0fe32c2a86abec630bd64abde46d45fa13da219",
+  "download_date": "2026-05-16T07:32:38Z",
+  "duration_sec": 0.196,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00512",
+  "source_url": "https://e-prawnik.pl/forum/zakupy-na-raty-do-ktorych-nie-doszlo.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakupy-na-raty-do-ktorych-nie-doszlo.html",
+  "archive_file": "e_prawnik/eprawnik_00512.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57195,
+  "sha256": "83c132ec3a8e2854c8e75d06b240f27d7ca6f0de62f869c469fcea787566cda4",
+  "download_date": "2026-05-16T07:32:43Z",
+  "duration_sec": 0.238,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00400",
+  "source_url": "https://e-prawnik.pl/forum/zakup-uzywanego-wozka-dzieciecego-od-osoby-fizycznej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakup-uzywanego-wozka-dzieciecego-od-osoby-fizycznej.html",
+  "archive_file": "e_prawnik/eprawnik_00400.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57668,
+  "sha256": "98e68d8b522f18babf2f2692bfc45d10d2fab25c7458434868045444e419469f",
+  "download_date": "2026-05-16T07:30:33Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

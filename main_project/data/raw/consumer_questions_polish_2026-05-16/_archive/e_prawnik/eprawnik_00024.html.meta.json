@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00024",
+  "source_url": "https://e-prawnik.pl/forum/lokalizacja-obiektu-telekomunikacyjnego-maszt-o-wys-do-25-m-na-budynku.html",
+  "fetch_url": "https://e-prawnik.pl/forum/lokalizacja-obiektu-telekomunikacyjnego-maszt-o-wys-do-25-m-na-budynku.html",
+  "archive_file": "e_prawnik/eprawnik_00024.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58974,
+  "sha256": "0e2513c9c861af5d969232ef912b97bb11242db8b71c2144ab84ec58a3d2cdec",
+  "download_date": "2026-05-16T07:23:13Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

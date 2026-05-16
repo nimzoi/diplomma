@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00122",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-kupna-samochodu-czy-warto-czy-mozna-przerejestrowac.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-kupna-samochodu-czy-warto-czy-mozna-przerejestrowac.html",
+  "archive_file": "e_prawnik/eprawnik_00122.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55794,
+  "sha256": "8c252fa7bec4d052fa81a72410fd57c77c2b9d11c45e94fe9aa69e9d16d0a6d9",
+  "download_date": "2026-05-16T07:25:07Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

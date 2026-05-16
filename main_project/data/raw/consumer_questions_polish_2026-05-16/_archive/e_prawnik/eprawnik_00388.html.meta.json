@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00388",
+  "source_url": "https://e-prawnik.pl/forum/przedmiot-kupiony-na-allegro-przez-kup-teraz-sprzedajacy-nie-chce-wyslac-towaru.html",
+  "fetch_url": "https://e-prawnik.pl/forum/przedmiot-kupiony-na-allegro-przez-kup-teraz-sprzedajacy-nie-chce-wyslac-towaru.html",
+  "archive_file": "e_prawnik/eprawnik_00388.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56761,
+  "sha256": "7d80e40ac30b27cb6f50b12af39146520ed6d50eae95c7b552ba14f0a5c4c7d7",
+  "download_date": "2026-05-16T07:30:19Z",
+  "duration_sec": 0.112,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

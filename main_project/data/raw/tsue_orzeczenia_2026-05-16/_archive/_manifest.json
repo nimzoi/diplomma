@@ -1,0 +1,825 @@
+{
+  "source": "eur-lex.europa.eu (TSUE)",
+  "source_dir": "main_project\\data\\raw\\tsue_orzeczenia_2026-05-16",
+  "scrape_date": "2026-05-16",
+  "stats": {
+    "total_entries": 58,
+    "total_errors": 0,
+    "total_bytes": 31536336
+  },
+  "entries": [
+    {
+      "doc_id": "62017CJ0118_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62017CJ0118",
+      "archive_path": "_archive/62017CJ0118.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1262863,
+      "sha256": "18bdfbb91b7a0865ca776793594e8a8134c8c7dfe9547e31cd882e2780a621a1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-118/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0118_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62017CJ0118",
+      "archive_path": "_archive/62017CJ0118.html",
+      "content_type": "text/html",
+      "size_bytes": 103010,
+      "sha256": "ccd086381e690aec1cf84115313fc74a720aefcd85cc59612285ad683482db23",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-118/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62018CJ0125_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62018CJ0125",
+      "archive_path": "_archive/62018CJ0125.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1288282,
+      "sha256": "b29c230b956c5a5ea507e9adf311867ea51d6cda9119abf4e2289ca02600f497",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-125/18"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62018CJ0125_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62018CJ0125",
+      "archive_path": "_archive/62018CJ0125.html",
+      "content_type": "text/html",
+      "size_bytes": 140449,
+      "sha256": "20d9821a0982726f52318a3f132e18e53f1a85739a480aae5fcd54df927cd288",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-125/18"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0176_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62017CJ0176",
+      "archive_path": "_archive/62017CJ0176.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1275198,
+      "sha256": "6f125c5b429018d6595422ba93a5b0fa53a026fe0e6df9ed51ee93658c0eb42f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-176/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0176_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62017CJ0176",
+      "archive_path": "_archive/62017CJ0176.html",
+      "content_type": "text/html",
+      "size_bytes": 91681,
+      "sha256": "e66b0404ec97a644e18d10fa6109cf7ae1d941028efef7d4bcbd1376c23bfd29",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-176/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62016CJ0186_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62016CJ0186",
+      "archive_path": "_archive/62016CJ0186.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1301967,
+      "sha256": "1587ab17a7177423c1273c87975c6b2a2d975fe08b1c3b4fdff0464790bbc54f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-186/16"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62016CJ0186_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62016CJ0186",
+      "archive_path": "_archive/62016CJ0186.html",
+      "content_type": "text/html",
+      "size_bytes": 102743,
+      "sha256": "461b426a00c508d6cb7c81108f713e6a8327fcf0d89c4ed8cdbadf7d778d4d1e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-186/16"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62020CJ0019_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62020CJ0019",
+      "archive_path": "_archive/62020CJ0019.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1410088,
+      "sha256": "3f3e6e603cc9b07a13239fcdf2505ae8969b6dbb396d2828c1e492503bd8a690",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-19/20"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62020CJ0019_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62020CJ0019",
+      "archive_path": "_archive/62020CJ0019.html",
+      "content_type": "text/html",
+      "size_bytes": 132402,
+      "sha256": "e686312089a7250efa4a1547890834905ba7aaceb324eda5b3121bac686dbd67",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-19/20"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62019CJ0208_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62019CJ0208",
+      "archive_path": "_archive/62019CJ0208.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1016173,
+      "sha256": "842af22eeab0920c716dd6ba02d0b9daf9720b00377bd623677edf41b442ad95",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-208/19"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62019CJ0208_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62019CJ0208",
+      "archive_path": "_archive/62019CJ0208.html",
+      "content_type": "text/html",
+      "size_bytes": 88081,
+      "sha256": "06325ff6af2dfa7f37b0407b26331ed9eb13c3d735ffa32cdeaef049710cab8c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-208/19"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62020CJ0212_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62020CJ0212",
+      "archive_path": "_archive/62020CJ0212.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 481830,
+      "sha256": "993e7f60783f239385145178866ace81ac92b59ddedc7e1bdfba100b5c0a99f7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-212/20"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62020CJ0212_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62020CJ0212",
+      "archive_path": "_archive/62020CJ0212.html",
+      "content_type": "text/html",
+      "size_bytes": 98330,
+      "sha256": "45359bc484bd2bd6d58fc52feee78d04048e05192d34668db178a320e7adb149",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-212/20"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62008CJ0243_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62008CJ0243",
+      "archive_path": "_archive/62008CJ0243.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 585296,
+      "sha256": "929bd52caef4c29acf56916f11dec89cbf5f7fb8f522089f558d948b6274af0f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-243/08"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62008CJ0243_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62008CJ0243",
+      "archive_path": "_archive/62008CJ0243.html",
+      "content_type": "text/html",
+      "size_bytes": 53741,
+      "sha256": "4cd522ae821a9ba7ff69b4e0560e0753e13ac068e5679159b81d67bd2752a25f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-243/08"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62021CJ0249_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62021CJ0249",
+      "archive_path": "_archive/62021CJ0249.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 418794,
+      "sha256": "c5497ad9898114ce1cc216aa3eb21ec9c04b0a31e54146097e6e5615abf123fc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-249/21"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62021CJ0249_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62021CJ0249",
+      "archive_path": "_archive/62021CJ0249.html",
+      "content_type": "text/html",
+      "size_bytes": 51582,
+      "sha256": "38ab22f4038cef519da13c720fa8e8b8affa38b1796c7f4e778c80f8a7394c33",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-249/21"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62018CJ0260_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62018CJ0260",
+      "archive_path": "_archive/62018CJ0260.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1116569,
+      "sha256": "d546920e4674b668ceab0161074d2b45b7a4b72d0333a7368133a5f8b015de3b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-260/18"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62018CJ0260_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62018CJ0260",
+      "archive_path": "_archive/62018CJ0260.html",
+      "content_type": "text/html",
+      "size_bytes": 95729,
+      "sha256": "0676c4b38febce10861fca6acd433a7c6a89a3e22f46dc31c013d28129752eea",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-260/18"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62015CJ0269_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62015CJ0269",
+      "archive_path": "_archive/62015CJ0269.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1063993,
+      "sha256": "0931ba70dcea0730757ab884bff3d966c63afe19fc72c22ca10352cb4efc28bc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-269/15"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62015CJ0269_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62015CJ0269",
+      "archive_path": "_archive/62015CJ0269.html",
+      "content_type": "text/html",
+      "size_bytes": 79664,
+      "sha256": "ed1a4a3420d19238dbe546a1f6a4e6c7c479ba0afa565535f6d40d46cba7adfe",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-269/15"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62013CJ0026_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62013CJ0026",
+      "archive_path": "_archive/62013CJ0026.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1120637,
+      "sha256": "bbe7ffac63e3921f2228dd6769c9bcb60ed3841018b906e92e786e37e7d4f3e9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-26/13"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62013CJ0026_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62013CJ0026",
+      "archive_path": "_archive/62013CJ0026.html",
+      "content_type": "text/html",
+      "size_bytes": 105580,
+      "sha256": "0ba87db7e27c665b77c9548a93a846fbb4228b88495501c5e7fdf23078fe72ff",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-26/13"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62003CJ0336_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62003CJ0336",
+      "archive_path": "_archive/62003CJ0336.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 411700,
+      "sha256": "35e4b63a4c5dd58b864a918b1f352267ae60dafc2b61543c11bfef324f3e9d61",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-336/03"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62003CJ0336_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62003CJ0336",
+      "archive_path": "_archive/62003CJ0336.html",
+      "content_type": "text/html",
+      "size_bytes": 29058,
+      "sha256": "93b2a881739894e38b88b114fe6f1bcaf449251cff9c489dce9338ec6a300b07",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-336/03"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62014CJ0377_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62014CJ0377",
+      "archive_path": "_archive/62014CJ0377.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1325209,
+      "sha256": "cdaf28423bfd570b5deba9aa2d228437a49bad1b08538b2ae059ad005708955f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-377/14"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62014CJ0377_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62014CJ0377",
+      "archive_path": "_archive/62014CJ0377.html",
+      "content_type": "text/html",
+      "size_bytes": 152272,
+      "sha256": "62f57f14eb3b2ed855f365b28920b4c22421fdba1db2efdbe42dc1fdd005ffec",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-377/14"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0380_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62017CJ0380",
+      "archive_path": "_archive/62017CJ0380.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1191628,
+      "sha256": "556746eda28691b9fc46d6e91e40133521c82a76568700a5f4db5e7c3f52b9d9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-380/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0380_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62017CJ0380",
+      "archive_path": "_archive/62017CJ0380.html",
+      "content_type": "text/html",
+      "size_bytes": 89753,
+      "sha256": "7e6eafdc74b29399a5448cd7a7d3350755c4fd3740d7661cb3944852baf01258",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-380/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62018CJ0407_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62018CJ0407",
+      "archive_path": "_archive/62018CJ0407.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1345148,
+      "sha256": "a35042541949a98f08bb1b5e70e0276f6f503671e5aea538cb25a9913201cd83",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-407/18"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62018CJ0407_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62018CJ0407",
+      "archive_path": "_archive/62018CJ0407.html",
+      "content_type": "text/html",
+      "size_bytes": 99362,
+      "sha256": "a7454d3ec2ac4fd26c6469aefda583c5384be9bd8a17d89da6feb1a7fb7d1263",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-407/18"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62011CJ0415_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62011CJ0415",
+      "archive_path": "_archive/62011CJ0415.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1120723,
+      "sha256": "94a6ec2df94515dd453b1f22d41e68ce769e7ca1b6cb014a7f452b5eb425383f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-415/11"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62011CJ0415_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62011CJ0415",
+      "archive_path": "_archive/62011CJ0415.html",
+      "content_type": "text/html",
+      "size_bytes": 103687,
+      "sha256": "414cea4f69b74ac6e8da73ce9a34d6fab6b9f8fb901b22da2fe999f837b6e838",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-415/11"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62015CJ0042_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62015CJ0042",
+      "archive_path": "_archive/62015CJ0042.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1182312,
+      "sha256": "cf492068485dae421ef95eb5b5a131e48c96f49ff3c445b49bde595a053be720",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-42/15"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62015CJ0042_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62015CJ0042",
+      "archive_path": "_archive/62015CJ0042.html",
+      "content_type": "text/html",
+      "size_bytes": 126376,
+      "sha256": "b19f95067c41747654e2b01cedb13d47ccc4da2266447d2835148b51df1cd5ec",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-42/15"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62013CJ0449_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62013CJ0449",
+      "archive_path": "_archive/62013CJ0449.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 927572,
+      "sha256": "b7fecc1b326195fea0a06de4f6f2b66233bc6778556cad9004f40daa80789679",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-449/13"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62013CJ0449_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62013CJ0449",
+      "archive_path": "_archive/62013CJ0449.html",
+      "content_type": "text/html",
+      "size_bytes": 75442,
+      "sha256": "4957ca4e83d949a9bf192ec5c3746110b6bbb91e1a1671c09df6899a0bde41a9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-449/13"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62010CJ0453_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62010CJ0453",
+      "archive_path": "_archive/62010CJ0453.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 927392,
+      "sha256": "12cf3430a65b5527559d4cd610af7241d675ecb08a2cc6979ef37112fb0f59a2",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-453/10"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62010CJ0453_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62010CJ0453",
+      "archive_path": "_archive/62010CJ0453.html",
+      "content_type": "text/html",
+      "size_bytes": 70272,
+      "sha256": "1d731b3ff0fc99f7c59821e7845a754fdaf0c4d771f6183e7b07ad5095a0e098",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-453/10"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62001CJ0464_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62001CJ0464",
+      "archive_path": "_archive/62001CJ0464.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1014083,
+      "sha256": "8207c6e7d8dc57a22b56c01b29095540036ee3446b9655570f1e88039753a205",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-464/01"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62001CJ0464_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62001CJ0464",
+      "archive_path": "_archive/62001CJ0464.html",
+      "content_type": "text/html",
+      "size_bytes": 66606,
+      "sha256": "a0624b217f5036a8f6bf6989da8f390c224dea4f12603afdef2a350398b18a0a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-464/01"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62010CJ0472_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62010CJ0472",
+      "archive_path": "_archive/62010CJ0472.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 924640,
+      "sha256": "f441ef1818b73d6946ba9a53336fa0107b79144dff382d1fd29a9d7f2db7db5a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-472/10"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62010CJ0472_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62010CJ0472",
+      "archive_path": "_archive/62010CJ0472.html",
+      "content_type": "text/html",
+      "size_bytes": 67152,
+      "sha256": "ccd464308e984c2baa0ff083a053ff16abff4e52bdafe21e06c6114fa39442bf",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-472/10"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0485_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62017CJ0485",
+      "archive_path": "_archive/62017CJ0485.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1263409,
+      "sha256": "ac56907d4ec3a3c617bf7bfe6f939487cd2d12f1c59bd0a9ed2cdcb2b0c20708",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-485/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0485_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62017CJ0485",
+      "archive_path": "_archive/62017CJ0485.html",
+      "content_type": "text/html",
+      "size_bytes": 66892,
+      "sha256": "e57cd28cca3cb0d1e3774cf84f140aac3979e294a91a5b2f3c70f40b2af8d973",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-485/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62021CJ0520_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62021CJ0520",
+      "archive_path": "_archive/62021CJ0520.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 605407,
+      "sha256": "c48f38b8643ca657a364ddb653fb52e7a6b998b85442973b34370b3b4eebfe78",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-520/21"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62021CJ0520_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62021CJ0520",
+      "archive_path": "_archive/62021CJ0520.html",
+      "content_type": "text/html",
+      "size_bytes": 112710,
+      "sha256": "1bbc0ada104194580c57b03af2d834a51a2f996c7aca1e3c62880df26ab84c5c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-520/21"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62008CJ0540_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62008CJ0540",
+      "archive_path": "_archive/62008CJ0540.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 175419,
+      "sha256": "99ad7f276ae934a2900ba5455357410531f5d6c8158db20e5283e134f81e9494",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-540/08"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62008CJ0540_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62008CJ0540",
+      "archive_path": "_archive/62008CJ0540.html",
+      "content_type": "text/html",
+      "size_bytes": 53797,
+      "sha256": "0a00a8807d7e0fbdf3033bba95641ac63a4a45d3e22c6279325960f59ed429a4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-540/08"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62012CJ0565_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62012CJ0565",
+      "archive_path": "_archive/62012CJ0565.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 906440,
+      "sha256": "ca9d866178fce7e9be81863625146c1f99bfe34f65d4d2831af529cc4d8830c1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-565/12"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62012CJ0565_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62012CJ0565",
+      "archive_path": "_archive/62012CJ0565.html",
+      "content_type": "text/html",
+      "size_bytes": 63479,
+      "sha256": "a708ad8052547e54169cecad21a6c7a85922ed51d51c33ef87b783a832e8c80e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-565/12"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0628_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62017CJ0628",
+      "archive_path": "_archive/62017CJ0628.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 981334,
+      "sha256": "7b7d69f40d34f32d715a771f40a80909e72c4bd66866c081baeebcc348229d5e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-628/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0628_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62017CJ0628",
+      "archive_path": "_archive/62017CJ0628.html",
+      "content_type": "text/html",
+      "size_bytes": 76247,
+      "sha256": "53ca371de6deea148bade9e417afd6f0177d82ad527584e0a65bb013e1568153",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-628/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62019CJ0066_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62019CJ0066",
+      "archive_path": "_archive/62019CJ0066.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 970786,
+      "sha256": "ad70e986dd9baa88f7ae21704c14c57dffd76e1e0e8db5aaaf5416d540cb9abb",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-66/19"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62019CJ0066_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62019CJ0066",
+      "archive_path": "_archive/62019CJ0066.html",
+      "content_type": "text/html",
+      "size_bytes": 70106,
+      "sha256": "a8f971714a9f61a626f9bfee9e47e1da6f3bc7f080c44212171302f8e02fc050",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-66/19"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0070_pdf",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:62017CJ0070",
+      "archive_path": "_archive/62017CJ0070.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1353040,
+      "sha256": "e938b0ce3e273fcdde0961afacbac384ba09b0fd1d2fc5e29c587f6b9624e230",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-70/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "62017CJ0070_html",
+      "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62017CJ0070",
+      "archive_path": "_archive/62017CJ0070.html",
+      "content_type": "text/html",
+      "size_bytes": 102201,
+      "sha256": "886f3351da436bfa629c9b1e605b0a32efa64b08dec2f3fbe2205f16e4d8e8a2",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "C-70/17"
+      ],
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "http_status": 200
+    }
+  ],
+  "errors": []
+}

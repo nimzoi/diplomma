@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00516",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-o-dzielo-i-zwrot-gotowki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-o-dzielo-i-zwrot-gotowki.html",
+  "archive_file": "e_prawnik/eprawnik_00516.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57212,
+  "sha256": "faba1e7cc0ce9f720c6201e93d0e3f26366c86d357fae1b53cc0a1443903b95a",
+  "download_date": "2026-05-16T07:32:48Z",
+  "duration_sec": 0.158,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

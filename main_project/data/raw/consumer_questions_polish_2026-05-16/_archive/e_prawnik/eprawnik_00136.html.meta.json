@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00136",
+  "source_url": "https://e-prawnik.pl/forum/do-kogo-nalezy-droga.html",
+  "fetch_url": "https://e-prawnik.pl/forum/do-kogo-nalezy-droga.html",
+  "archive_file": "e_prawnik/eprawnik_00136.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57773,
+  "sha256": "f56309cf8b4008dbba59d0ab0daf8beb255cd61d1b7eb6799249500bbfefbd68",
+  "download_date": "2026-05-16T07:25:23Z",
+  "duration_sec": 0.184,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

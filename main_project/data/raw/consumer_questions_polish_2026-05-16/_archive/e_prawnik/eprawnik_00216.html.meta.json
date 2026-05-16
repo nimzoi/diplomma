@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00216",
+  "source_url": "https://e-prawnik.pl/forum/zablokowane-konto-na-allegro-za-czyjes-dlugi.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zablokowane-konto-na-allegro-za-czyjes-dlugi.html",
+  "archive_file": "e_prawnik/eprawnik_00216.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54394,
+  "sha256": "1de08e1abb0a628a8422acf42ba7c563807a30075f3c4a0b6723a930eb1c9540",
+  "download_date": "2026-05-16T07:26:56Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

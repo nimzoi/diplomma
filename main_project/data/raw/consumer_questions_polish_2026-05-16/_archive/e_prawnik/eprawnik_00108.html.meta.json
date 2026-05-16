@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00108",
+  "source_url": "https://e-prawnik.pl/forum/kiedy-zalegla-oplata-za-abonament-w-sieci-komorkowej-ulega-przedawnieniu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kiedy-zalegla-oplata-za-abonament-w-sieci-komorkowej-ulega-przedawnieniu.html",
+  "archive_file": "e_prawnik/eprawnik_00108.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53703,
+  "sha256": "e8a768428087942cceffe3aebb3101bcd199789f7e31f4a22b1499504a3595a3",
+  "download_date": "2026-05-16T07:24:51Z",
+  "duration_sec": 0.148,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

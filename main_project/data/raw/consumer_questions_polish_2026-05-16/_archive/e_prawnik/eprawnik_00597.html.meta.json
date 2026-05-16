@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00597",
+  "source_url": "https://e-prawnik.pl/forum/odrzucenie-zadania-zwrotu-kosztow-w-warsztacie-samochodowym.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odrzucenie-zadania-zwrotu-kosztow-w-warsztacie-samochodowym.html",
+  "archive_file": "e_prawnik/eprawnik_00597.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58979,
+  "sha256": "e3723c92374419dcf6ecc9f74fc3d8acbcf507867daab55945b328970b8273af",
+  "download_date": "2026-05-16T07:34:24Z",
+  "duration_sec": 0.231,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00276",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaz-telefonu-uzywanego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaz-telefonu-uzywanego.html",
+  "archive_file": "e_prawnik/eprawnik_00276.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57968,
+  "sha256": "ce7db1f76eb93c89784c3cbdab8f00fff29fe2ca3505eee9691bf3a05ce2f6bc",
+  "download_date": "2026-05-16T07:28:06Z",
+  "duration_sec": 0.238,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

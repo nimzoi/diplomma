@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00353",
+  "source_url": "https://e-prawnik.pl/forum/musze-oddac-mieszkanie-ktore-kupilam.html",
+  "fetch_url": "https://e-prawnik.pl/forum/musze-oddac-mieszkanie-ktore-kupilam.html",
+  "archive_file": "e_prawnik/eprawnik_00353.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57924,
+  "sha256": "69f55c3999d1fec276dfcfce7c09265a726650c48177a1f4d8cd5b3597b18478",
+  "download_date": "2026-05-16T07:29:37Z",
+  "duration_sec": 0.214,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00315",
+  "source_url": "https://e-prawnik.pl/forum/play-rozwiazanie-umowy-z-odzyskaniem-naleznosc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/play-rozwiazanie-umowy-z-odzyskaniem-naleznosc.html",
+  "archive_file": "e_prawnik/eprawnik_00315.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56492,
+  "sha256": "9749e2005ae7e3c0ca296e82760af0f81ddc22d69981dd51c4620f38d82686fa",
+  "download_date": "2026-05-16T07:28:52Z",
+  "duration_sec": 0.131,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

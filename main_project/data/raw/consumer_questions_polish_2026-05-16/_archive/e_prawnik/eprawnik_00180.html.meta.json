@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00180",
+  "source_url": "https://e-prawnik.pl/forum/wymiana-ktora-nie-doszla-do-skutku-i-zwrot.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wymiana-ktora-nie-doszla-do-skutku-i-zwrot.html",
+  "archive_file": "e_prawnik/eprawnik_00180.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59023,
+  "sha256": "0171bdf58ff387c6528f10d5b7cac193156c13eeb8f7f1d4c344487c5f08edf3",
+  "download_date": "2026-05-16T07:26:14Z",
+  "duration_sec": 0.138,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

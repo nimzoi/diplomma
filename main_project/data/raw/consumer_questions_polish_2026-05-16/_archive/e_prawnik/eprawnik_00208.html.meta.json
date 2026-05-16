@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00208",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-zakupu-od-osoby-prywatnej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-zakupu-od-osoby-prywatnej.html",
+  "archive_file": "e_prawnik/eprawnik_00208.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55760,
+  "sha256": "1ed5612222ce6c692324972fd97ce8bf4dcf2517b4fc34bf78341ed70d3f8354",
+  "download_date": "2026-05-16T07:26:47Z",
+  "duration_sec": 0.154,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

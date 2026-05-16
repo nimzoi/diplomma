@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00311",
+  "source_url": "https://e-prawnik.pl/forum/fajerwerki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/fajerwerki.html",
+  "archive_file": "e_prawnik/eprawnik_00311.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61969,
+  "sha256": "85310fbc900efe9e3d28c66f0683e629f55ed69c9a9845801ccd152c50f6ea6d",
+  "download_date": "2026-05-16T07:28:47Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

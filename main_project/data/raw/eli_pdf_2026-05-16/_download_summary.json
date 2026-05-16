@@ -1,259 +1,187 @@
 {
   "download_date": "2026-05-16",
   "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
-  "total_ustaw": 11,
-  "total_files": 20,
+  "total_ustaw": 8,
+  "total_files": 14,
   "total_errors": 0,
-  "total_bytes": 62666167,
+  "total_bytes": 66917286,
   "ustawy": [
     {
-      "ustawa_id": "DU/2014/827",
-      "title_short": "Ustawa o prawach konsumenta (UPK)",
+      "ustawa_id": "DU/1964/296",
+      "title_short": "Kodeks postępowania cywilnego (KPC)",
       "files": [
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2014_827\\text.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_1964_296\\text.pdf",
           "kind": "announcement",
-          "size_bytes": 659246,
-          "sha256": "0be2d06ed1cd2cd8f0e991f59e0827200d3c0dd15f8821987f04c14701627b36",
+          "size_bytes": 38874550,
+          "sha256": "ae9650eb64b3265c5988e04fc9356a02a4a68ad334a096acb26569c61f7a6ce8",
           "status": "downloaded"
         },
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2014_827\\tekst_jednolity_DU_2024_1796.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_1964_296\\tekst_jednolity_DU_2026_468.pdf",
           "kind": "tekst_jednolity",
-          "size_bytes": 644307,
-          "sha256": "19d7f6d7bc3127e5f8fac15d0713012e968e7cabd3bf8557db6c28cc69e1cfa5",
+          "size_bytes": 2879328,
+          "sha256": "97db38e9635dc6db23e46aa618a52fc7089790b6592858ddc5f5e521d6692003",
           "status": "downloaded"
         }
       ],
       "errors": [],
-      "title_full": "Ustawa z dnia 30 maja 2014 r. o prawach konsumenta",
-      "display_address": "Dz.U. 2014 poz. 827",
+      "title_full": "Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.",
+      "display_address": "Dz.U. 1964 nr 43 poz. 296",
       "in_force": "IN_FORCE"
     },
     {
-      "ustawa_id": "DU/1964/93",
-      "title_short": "Kodeks cywilny (KC)",
+      "ustawa_id": "DU/2003/535",
+      "title_short": "Prawo upadłościowe (z upadłością konsumencką)",
       "files": [
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_1964_93\\text.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2003_535\\text.pdf",
           "kind": "announcement",
-          "size_bytes": 34711150,
-          "sha256": "6881e91569f3502cf3a06db59a9bc85e8a60e78ba71d47e691249aa9d2a9b85a",
+          "size_bytes": 446632,
+          "sha256": "c8aa4413a28ca5eb95c44ca63aa41941419ae6e1099dbf97e8128afc4eaf8d12",
           "status": "downloaded"
         },
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_1964_93\\tekst_jednolity_DU_2025_1071.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2003_535\\tekst_jednolity_DU_2025_614.pdf",
           "kind": "tekst_jednolity",
-          "size_bytes": 1245943,
-          "sha256": "c491190afeb7237e1aadc7ab4408ab1f699dad627e7276744ac0294e56eab255",
+          "size_bytes": 2295999,
+          "sha256": "1adf0a0fb632aa8157c3315584f6e0f9a9e291ea8fe46a40d41e82f267870d17",
           "status": "downloaded"
         }
       ],
       "errors": [],
-      "title_full": "Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny.",
-      "display_address": "Dz.U. 1964 nr 16 poz. 93",
+      "title_full": "Ustawa z dnia 28 lutego 2003 r. Prawo upadłościowe",
+      "display_address": "Dz.U. 2003 nr 60 poz. 535",
       "in_force": "IN_FORCE"
     },
     {
-      "ustawa_id": "DU/2007/1206",
-      "title_short": "Ust. o przeciwdziałaniu nieuczciwym praktykom rynkowym",
+      "ustawa_id": "DU/2014/915",
+      "title_short": "Ust. o informowaniu o cenach towarów i usług",
       "files": [
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2007_1206\\text.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2014_915\\text.pdf",
           "kind": "announcement",
-          "size_bytes": 128358,
-          "sha256": "bd516c9293ae4f75b11eb746fe25c97ea18f238f07673116eb6e97b3b3d66a3d",
+          "size_bytes": 546345,
+          "sha256": "dfc79f00c2a9b60a00f5ee4c23b1b1f37958647743085ad4c807516783363e02",
           "status": "downloaded"
         },
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2007_1206\\tekst_jednolity_DU_2023_845.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2014_915\\tekst_jednolity_DU_2023_168.pdf",
           "kind": "tekst_jednolity",
-          "size_bytes": 280485,
-          "sha256": "2ce289c2c218696b946df6707a04408f56f20390bd1972848d6873d65ba5ef04",
+          "size_bytes": 251352,
+          "sha256": "be855fb97ab4d9e7614d3cc56b99fcd66ce62686e5c1c6b803f713f02419559b",
           "status": "downloaded"
         }
       ],
       "errors": [],
-      "title_full": "Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym",
-      "display_address": "Dz.U. 2007 nr 171 poz. 1206",
+      "title_full": "Ustawa z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług",
+      "display_address": "Dz.U. 2014 poz. 915",
       "in_force": "IN_FORCE"
     },
     {
-      "ustawa_id": "DU/2007/331",
-      "title_short": "Ust. o ochronie konkurencji i konsumentów",
+      "ustawa_id": "DU/2003/2275",
+      "title_short": "Ust. o ogólnym bezpieczeństwie produktów (UCHYLONA, historic)",
       "files": [
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2007_331\\text.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2003_2275\\text.pdf",
           "kind": "announcement",
-          "size_bytes": 151823,
-          "sha256": "4d7105c5c77b62684e06df4e92d65acaa5823b697332563c6bf5488cd8d682c3",
+          "size_bytes": 94397,
+          "sha256": "a5a7f3d3bbd1fa39ff9873af09313667f3a166f6782a21bc9a15ecddd525292a",
           "status": "downloaded"
         },
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2007_331\\tekst_jednolity_DU_2025_1714.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2003_2275\\tekst_jednolity_DU_2021_222.pdf",
           "kind": "tekst_jednolity",
-          "size_bytes": 1426126,
-          "sha256": "8809d9c85c9a8ab49f1a142a6eb54d938499f8c34ba970a00892eb15fb3020db",
+          "size_bytes": 367667,
+          "sha256": "a5a11380ed279f17a218e903bba822634c65ce36d4532bc3908ec74760ddb59b",
           "status": "downloaded"
         }
       ],
       "errors": [],
-      "title_full": "Ustawa z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów",
-      "display_address": "Dz.U. 2007 nr 50 poz. 331",
-      "in_force": "IN_FORCE"
+      "title_full": "Ustawa z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów",
+      "display_address": "Dz.U. 2003 nr 229 poz. 2275",
+      "in_force": "NOT_IN_FORCE"
     },
     {
-      "ustawa_id": "DU/2011/1175",
-      "title_short": "Ust. o usługach płatniczych",
+      "ustawa_id": "DU/1993/211",
+      "title_short": "Ust. o zwalczaniu nieuczciwej konkurencji",
       "files": [
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2011_1175\\text.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_1993_211\\text.pdf",
           "kind": "announcement",
-          "size_bytes": 703890,
-          "sha256": "fd89fd68972b423e3a0d278739635537f88549c821df9aa68bf80d39d0327d4f",
+          "size_bytes": 6356977,
+          "sha256": "1432000737ffd47069b38aa3b5511d2d47f096859bd7729eb2f6412658c44f20",
           "status": "downloaded"
         },
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2011_1175\\tekst_jednolity_DU_2026_623.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_1993_211\\tekst_jednolity_DU_2026_85.pdf",
           "kind": "tekst_jednolity",
-          "size_bytes": 1322292,
-          "sha256": "2fd32361597930f01325346ebb85ec61a665e1fb51cee55e1d0a9c17d6696873",
+          "size_bytes": 378091,
+          "sha256": "a34a37247c4d8ea5d93fb9ec37b937e28280876ca287f745d788b132be3285a9",
           "status": "downloaded"
         }
       ],
       "errors": [],
-      "title_full": "Ustawa z dnia 19 sierpnia 2011 r. o usługach płatniczych",
-      "display_address": "Dz.U. 2011 nr 199 poz. 1175",
+      "title_full": "Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.",
+      "display_address": "Dz.U. 1993 nr 47 poz. 211",
       "in_force": "IN_FORCE"
     },
     {
-      "ustawa_id": "DU/2016/1823",
-      "title_short": "Ust. o pozasądowym rozwiązywaniu sporów konsumenckich",
+      "ustawa_id": "DU/2002/1176",
+      "title_short": "Ust. o szczeg. warunkach sprzedaży konsumenckiej (UCHYLONA, historic)",
       "files": [
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2016_1823\\text.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2002_1176\\text.pdf",
           "kind": "announcement",
-          "size_bytes": 353676,
-          "sha256": "a01689283773665c498b033b5a346c0516563417e9413037674035c399c5b118",
+          "size_bytes": 65659,
+          "sha256": "458bb6ede09ae5d8be17ffdd3f7579fae573f4019208f626c18d89a57b397ce3",
           "status": "downloaded"
         }
       ],
       "errors": [],
-      "title_full": "Ustawa z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich",
-      "display_address": "Dz.U. 2016 poz. 1823",
-      "in_force": "IN_FORCE"
+      "title_full": "Ustawa z dnia 27 lipca 2002 r. o szczególnych warunkach sprzedaży konsumenckiej oraz o zmianie Kodeksu cywilnego.",
+      "display_address": "Dz.U. 2002 nr 141 poz. 1176",
+      "in_force": "NOT_IN_FORCE"
     },
     {
-      "ustawa_id": "DU/1997/939",
-      "title_short": "Prawo bankowe",
+      "ustawa_id": "DU/2000/271",
+      "title_short": "Ust. o ochronie niektórych praw konsumentów (UCHYLONA, historic)",
       "files": [
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_1997_939\\text.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2000_271\\text.pdf",
           "kind": "announcement",
-          "size_bytes": 11786933,
-          "sha256": "3af514a8cd1b2688e59b5be7f3c46cfd7211122ad5b2f0304756bed155d78176",
+          "size_bytes": 59614,
+          "sha256": "380ce48ffa0bcdafcb10ef681e00b8b6259c148ba2711de1cd36afe7532fa8fc",
           "status": "downloaded"
         },
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_1997_939\\tekst_jednolity_DU_2026_38.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2000_271\\tekst_jednolity_DU_2012_1225.pdf",
           "kind": "tekst_jednolity",
-          "size_bytes": 3059728,
-          "sha256": "85391e977fdea58d1a26b717b5d1283301e2533b20a2b30b1c84e4fecd74a1e1",
+          "size_bytes": 1068186,
+          "sha256": "5a003c7f6b339eca4eead3712a86e0422a9c2103abd06db3513a0ed9498dc053",
           "status": "downloaded"
         }
       ],
       "errors": [],
-      "title_full": "Ustawa z dnia 29 sierpnia 1997 r. - Prawo bankowe.",
-      "display_address": "Dz.U. 1997 nr 140 poz. 939",
-      "in_force": "IN_FORCE"
+      "title_full": "Ustawa z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny.",
+      "display_address": "Dz.U. 2000 nr 22 poz. 271",
+      "in_force": "NOT_IN_FORCE"
     },
     {
-      "ustawa_id": "DU/2002/1204",
-      "title_short": "Ust. o świadczeniu usług drogą elektroniczną",
+      "ustawa_id": "DU/1997/483",
+      "title_short": "Konstytucja RP",
       "files": [
         {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2002_1204\\text.pdf",
+          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_1997_483\\text.pdf",
           "kind": "announcement",
-          "size_bytes": 75839,
-          "sha256": "8938ac7e100b437748301aab157901ec1683cf3814a57735b12b8673f764235f",
-          "status": "downloaded"
-        },
-        {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2002_1204\\tekst_jednolity_DU_2024_1513.pdf",
-          "kind": "tekst_jednolity",
-          "size_bytes": 346612,
-          "sha256": "0f968f010d1af0ca749436d17c6ff73dffe1377489bf77d58f315b1c9b38eb47",
+          "size_bytes": 13232489,
+          "sha256": "014b25f1d5690f11f58fafdd505650b36fc8835530b20f16c08b2577a928877f",
           "status": "downloaded"
         }
       ],
       "errors": [],
-      "title_full": "Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.",
-      "display_address": "Dz.U. 2002 nr 144 poz. 1204",
-      "in_force": "IN_FORCE"
-    },
-    {
-      "ustawa_id": "DU/2024/1221",
-      "title_short": "Prawo komunikacji elektronicznej",
-      "files": [
-        {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2024_1221\\text.pdf",
-          "kind": "announcement",
-          "size_bytes": 3430079,
-          "sha256": "6ffec62972a8c37d0533f1459a3b8936965c91fe8f044defb109924ef0e7cca4",
-          "status": "downloaded"
-        }
-      ],
-      "errors": [],
-      "title_full": "Ustawa z dnia 12 lipca 2024 r. - Prawo komunikacji elektronicznej",
-      "display_address": "Dz.U. 2024 poz. 1221",
-      "in_force": "IN_FORCE"
-    },
-    {
-      "ustawa_id": "DU/2011/715",
-      "title_short": "Ust. o kredycie konsumenckim",
-      "files": [
-        {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2011_715\\text.pdf",
-          "kind": "announcement",
-          "size_bytes": 565986,
-          "sha256": "c8913d8bdd6b3767c5c6ab2256d1c87898bd64a3b26bc57477c05afe3812c65b",
-          "status": "downloaded"
-        },
-        {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2011_715\\tekst_jednolity_DU_2025_1362.pdf",
-          "kind": "tekst_jednolity",
-          "size_bytes": 964713,
-          "sha256": "5009f544acda0d4bbe325bfb73b6927410333326113cf1a9319443b8bff45bfc",
-          "status": "downloaded"
-        }
-      ],
-      "errors": [],
-      "title_full": "Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim",
-      "display_address": "Dz.U. 2011 nr 126 poz. 715",
-      "in_force": "IN_FORCE"
-    },
-    {
-      "ustawa_id": "DU/2010/44",
-      "title_short": "Ust. o dochodzeniu roszczeń w postępowaniu grupowym",
-      "files": [
-        {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2010_44\\text.pdf",
-          "kind": "announcement",
-          "size_bytes": 340625,
-          "sha256": "3f0143270bc8c416485dbaa3273821893beec629594a495c575fb57c71c5571a",
-          "status": "downloaded"
-        },
-        {
-          "path": "main_project\\data\\raw\\eli_pdf_2026-05-16\\DU_2010_44\\tekst_jednolity_DU_2024_1485.pdf",
-          "kind": "tekst_jednolity",
-          "size_bytes": 468356,
-          "sha256": "c2078a261753a3dadd81aa709af89987fa9ccac3350e106a2228df054fed3fe0",
-          "status": "downloaded"
-        }
-      ],
-      "errors": [],
-      "title_full": "Ustawa z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym",
-      "display_address": "Dz.U. 2010 nr 7 poz. 44",
+      "title_full": "Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.",
+      "display_address": "Dz.U. 1997 nr 78 poz. 483",
       "in_force": "IN_FORCE"
     }
   ]

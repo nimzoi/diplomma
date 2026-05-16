@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00185",
+  "source_url": "https://e-prawnik.pl/forum/odmowa-wyplaty-odszkodowania-kilka-pytan.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odmowa-wyplaty-odszkodowania-kilka-pytan.html",
+  "archive_file": "e_prawnik/eprawnik_00185.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59523,
+  "sha256": "3d0553e52acf80e77cd6c19db7b39c505b9681fea49a5e75ae50dcbd0b7f16ec",
+  "download_date": "2026-05-16T07:26:20Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

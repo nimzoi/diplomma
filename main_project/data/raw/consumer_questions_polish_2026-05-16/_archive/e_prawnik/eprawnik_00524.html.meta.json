@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00524",
+  "source_url": "https://e-prawnik.pl/forum/witam-mam-problem-zadzwonili-do-mnie-na-telefon-ze-wygralam-konkurs-i-wysla-mi-darmowa-paczke-t.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-mam-problem-zadzwonili-do-mnie-na-telefon-ze-wygralam-konkurs-i-wysla-mi-darmowa-paczke-t.html",
+  "archive_file": "e_prawnik/eprawnik_00524.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56133,
+  "sha256": "58c36e96f6f3973ea44318db0fab98a585c185334812a55bf4e7c5d102ab26b2",
+  "download_date": "2026-05-16T07:32:57Z",
+  "duration_sec": 0.091,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

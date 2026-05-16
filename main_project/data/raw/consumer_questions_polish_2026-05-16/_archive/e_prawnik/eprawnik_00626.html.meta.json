@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00626",
+  "source_url": "https://e-prawnik.pl/forum/karta-kredytowa-za-wakacje-w-biurze-podrozy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/karta-kredytowa-za-wakacje-w-biurze-podrozy.html",
+  "archive_file": "e_prawnik/eprawnik_00626.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58144,
+  "sha256": "51e37c0707114fb981dbcfb0387388ffcc3be39e1ea4cd14f6fa3dc1ae2d59f4",
+  "download_date": "2026-05-16T07:34:59Z",
+  "duration_sec": 0.161,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

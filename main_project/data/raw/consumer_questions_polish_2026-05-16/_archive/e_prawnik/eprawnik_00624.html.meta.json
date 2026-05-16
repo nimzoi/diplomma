@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00624",
+  "source_url": "https://e-prawnik.pl/forum/kupiony-uszkodzony-telefon-i-problem-ze-zwrotem-pieniedzy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kupiony-uszkodzony-telefon-i-problem-ze-zwrotem-pieniedzy.html",
+  "archive_file": "e_prawnik/eprawnik_00624.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57002,
+  "sha256": "5c92473b7c46127ac814577f6131343d72ff5a309d60c2707c94cfe95c4034a7",
+  "download_date": "2026-05-16T07:34:57Z",
+  "duration_sec": 0.142,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,22 @@
+{
+  "case_id": "C-336/03",
+  "celex_id": "62003CJ0336",
+  "case_name": "easyCar (UK) Ltd v Office of Fair Trading",
+  "case_name_short": "easyCar",
+  "data_orzeczenia": "2005-03-10",
+  "sklad": "pierwsza izba: P. Jann",
+  "streszczenie": "I‑0000 Streszczenie wyroku Zbliżanie ustawodawstw – Ochrona konsumentów w przypadku umów zawieranych na odległość – Dyrektywa 97/7 – Zakres stosowania – Wyłączenia przewidziane w art. 3 ust. 2 – Umowy o świadczenie usług w zakresie transportu – Pojęcie – Umowy o wynajem samochodów – Zaliczenie",
+  "tezy_kluczowe": [
+    "Artykuł 3 ust. 2 dyrektywy 97/7/WE Parlamentu Europejskiego i Rady z dnia 20 maja 1997 r. w sprawie ochrony konsumentów w przypadku umów zawieranych na odległość należy interpretować w ten sposób, że pojęcie „umów o świadczenie usług w zakresie transportu” obejmuje umowy o wynajem samochodów."
+  ],
+  "related_directives": [
+    "97/7/WE"
+  ],
+  "legal_topic": "wylaczenia z prawa odstapienia, najem samochodow online",
+  "notes": "",
+  "citation_string": "Wyrok TSUE z dnia 10 marca 2005 r. w sprawie C-336/03 easyCar",
+  "pelna_tresc_length": 15850,
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+  "scrape_date": "2026-05-16",
+  "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62003CJ0336"
+}

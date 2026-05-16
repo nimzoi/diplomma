@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00377",
+  "source_url": "https://e-prawnik.pl/forum/oszustwo-na-aukcji-olx-i-towar-niezgodny-z-opisem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/oszustwo-na-aukcji-olx-i-towar-niezgodny-z-opisem.html",
+  "archive_file": "e_prawnik/eprawnik_00377.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58555,
+  "sha256": "087270d3cd4c86c519eec10d9c911acefe25d110fd558d7514c65d4935b0c839",
+  "download_date": "2026-05-16T07:30:06Z",
+  "duration_sec": 0.14,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

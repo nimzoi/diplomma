@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00391",
+  "source_url": "https://e-prawnik.pl/forum/problem-ze-zakupem-od-firmy-przedajacej-na-allegro.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-ze-zakupem-od-firmy-przedajacej-na-allegro.html",
+  "archive_file": "e_prawnik/eprawnik_00391.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56814,
+  "sha256": "9fb1f0395b999cece702db1fa9e32c1480f5d9ddae30f77d26ee6c0648771821",
+  "download_date": "2026-05-16T07:30:22Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

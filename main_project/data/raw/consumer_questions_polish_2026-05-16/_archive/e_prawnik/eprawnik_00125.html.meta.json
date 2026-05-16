@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00125",
+  "source_url": "https://e-prawnik.pl/forum/umowa-z-biorem-podrozy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-z-biorem-podrozy.html",
+  "archive_file": "e_prawnik/eprawnik_00125.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54211,
+  "sha256": "a7002893a20732bc509a34eca3d21abb5558aba76e845490b39d897470eedae8",
+  "download_date": "2026-05-16T07:25:11Z",
+  "duration_sec": 0.197,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00143",
+  "source_url": "https://e-prawnik.pl/forum/wypadek-samochodowy-czechy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wypadek-samochodowy-czechy.html",
+  "archive_file": "e_prawnik/eprawnik_00143.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58505,
+  "sha256": "e812e4b5276b5a19738e1cae12af51c3467cf4eb69afc86b61e730e9c4456d05",
+  "download_date": "2026-05-16T07:25:31Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

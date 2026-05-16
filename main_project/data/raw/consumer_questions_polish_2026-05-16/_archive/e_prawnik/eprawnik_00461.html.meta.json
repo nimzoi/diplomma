@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00461",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-kozystanie-z-rzeczy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-kozystanie-z-rzeczy.html",
+  "archive_file": "e_prawnik/eprawnik_00461.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57431,
+  "sha256": "6c624307bd5c978b1d10c7b0c2995be3764d25f90554a4ccadfc38e1f4d7d0d3",
+  "download_date": "2026-05-16T07:31:43Z",
+  "duration_sec": 0.159,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

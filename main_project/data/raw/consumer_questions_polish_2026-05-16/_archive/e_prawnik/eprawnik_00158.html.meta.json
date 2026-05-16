@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00158",
+  "source_url": "https://e-prawnik.pl/forum/umowa-splaty-pozyczki-od-osoby-prywatnej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-splaty-pozyczki-od-osoby-prywatnej.html",
+  "archive_file": "e_prawnik/eprawnik_00158.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55707,
+  "sha256": "bea9f21bfe4731622c09a726ac402b761a9b7d9e8e50bb53fe7976d25ef22c1d",
+  "download_date": "2026-05-16T07:25:49Z",
+  "duration_sec": 0.202,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

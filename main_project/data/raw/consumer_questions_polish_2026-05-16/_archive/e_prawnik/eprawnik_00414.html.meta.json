@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00414",
+  "source_url": "https://e-prawnik.pl/forum/niewykonanie-stolarki-okiennej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niewykonanie-stolarki-okiennej.html",
+  "archive_file": "e_prawnik/eprawnik_00414.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57791,
+  "sha256": "ab5923fca31f54e078641f97bc52a6a9d1402cf023c3aeaba2f81fd5941c79dc",
+  "download_date": "2026-05-16T07:30:49Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

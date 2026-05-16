@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00577",
+  "source_url": "https://e-prawnik.pl/forum/allegro-sprzedaz-przedmiotu-z-opisem-innego-produktu-i-wlasciwym-zdjeciem-co-tak-wlasciwie-sprz.html",
+  "fetch_url": "https://e-prawnik.pl/forum/allegro-sprzedaz-przedmiotu-z-opisem-innego-produktu-i-wlasciwym-zdjeciem-co-tak-wlasciwie-sprz.html",
+  "archive_file": "e_prawnik/eprawnik_00577.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58290,
+  "sha256": "e0b282cd7d922b73e30497285309da36f19ed05b4f33083b0855210d8918a1ba",
+  "download_date": "2026-05-16T07:34:00Z",
+  "duration_sec": 0.1,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

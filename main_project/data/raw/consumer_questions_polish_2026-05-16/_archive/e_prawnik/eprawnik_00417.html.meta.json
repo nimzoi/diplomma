@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00417",
+  "source_url": "https://e-prawnik.pl/forum/umowa-a-rekojmia-ds-rzeczy-uzywanych.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-a-rekojmia-ds-rzeczy-uzywanych.html",
+  "archive_file": "e_prawnik/eprawnik_00417.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59465,
+  "sha256": "7ac6cd6a3663d34351168a5167fc0dff7173d5386a68e1f6f86337971a616e71",
+  "download_date": "2026-05-16T07:30:52Z",
+  "duration_sec": 0.187,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

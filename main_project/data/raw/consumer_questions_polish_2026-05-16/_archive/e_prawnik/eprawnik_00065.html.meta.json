@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00065",
+  "source_url": "https://e-prawnik.pl/forum/bank-gubi-konto.html",
+  "fetch_url": "https://e-prawnik.pl/forum/bank-gubi-konto.html",
+  "archive_file": "e_prawnik/eprawnik_00065.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55780,
+  "sha256": "254d81d68d9bd4f3f1aee3c1eb9eb4b68976761e492c9de315e11b4bedf3ff00",
+  "download_date": "2026-05-16T07:24:01Z",
+  "duration_sec": 0.195,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

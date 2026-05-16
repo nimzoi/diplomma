@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00275",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-blad-lekarza.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-blad-lekarza.html",
+  "archive_file": "e_prawnik/eprawnik_00275.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59127,
+  "sha256": "761fe032dddd019f46b0ecfc44c1587111f088b4458899d103491de39dfff040",
+  "download_date": "2026-05-16T07:28:05Z",
+  "duration_sec": 0.138,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00268",
+  "source_url": "https://e-prawnik.pl/forum/niezgodnosc-towaru-z-umowa-3.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niezgodnosc-towaru-z-umowa-3.html",
+  "archive_file": "e_prawnik/eprawnik_00268.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57336,
+  "sha256": "3f28aa4a2c509059dad4cbaabb286f33c2a26597ec814424b743c6f51d824fc5",
+  "download_date": "2026-05-16T07:27:57Z",
+  "duration_sec": 0.219,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

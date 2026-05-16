@@ -1,0 +1,16 @@
+{
+  "source": "bezprawnik.pl",
+  "scrape_date": "2026-05-16",
+  "license": "fair-use Art. 29 PrAut (academic research, attribution preserved)",
+  "discovered_urls": 3,
+  "successful_articles": 3,
+  "failed_urls": 0,
+  "skipped_too_short": 0,
+  "skipped_duplicate": 0,
+  "waf_blocks": 0,
+  "total_chars": 27031,
+  "avg_chars_per_article": 9010.3,
+  "archive_mb": 5.61,
+  "notes": "RSS feed + 10 tag pages walked, 5 pages each. Next.js SPA content extracted z HTML.",
+  "categories": {}
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00102",
+  "source_url": "https://e-prawnik.pl/forum/jaki-jest-minimalny-czas-gwarancji-na-roboty-budowlane.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jaki-jest-minimalny-czas-gwarancji-na-roboty-budowlane.html",
+  "archive_file": "e_prawnik/eprawnik_00102.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53931,
+  "sha256": "9fbd112e890cfc995917312b231a6f2e1df8f466b802836e8a8cebc8051e9a3b",
+  "download_date": "2026-05-16T07:24:44Z",
+  "duration_sec": 0.19,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

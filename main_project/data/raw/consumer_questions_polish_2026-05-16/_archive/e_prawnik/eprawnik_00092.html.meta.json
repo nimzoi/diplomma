@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00092",
+  "source_url": "https://e-prawnik.pl/forum/witam-mam-problem-z-tarasem-ktory-od-samego-poczatku-przecieka-taras-o-funkcji-dachu-w-nowym-bu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-mam-problem-z-tarasem-ktory-od-samego-poczatku-przecieka-taras-o-funkcji-dachu-w-nowym-bu.html",
+  "archive_file": "e_prawnik/eprawnik_00092.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58627,
+  "sha256": "4c16f65b5e89d5191649226256edcd8631dd889da082a096c65eccfbf275266d",
+  "download_date": "2026-05-16T07:24:32Z",
+  "duration_sec": 0.101,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

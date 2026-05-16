@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00436",
+  "source_url": "https://e-prawnik.pl/forum/interpretacja-regulaminu-allegro-pkt-33.html",
+  "fetch_url": "https://e-prawnik.pl/forum/interpretacja-regulaminu-allegro-pkt-33.html",
+  "archive_file": "e_prawnik/eprawnik_00436.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57761,
+  "sha256": "d52d4b318b7389d3580080f6ac962cf2ed16551c93da47b728a0326e3c1bad73",
+  "download_date": "2026-05-16T07:31:14Z",
+  "duration_sec": 0.15,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

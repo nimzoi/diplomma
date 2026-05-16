@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00001",
+  "source_url": "https://forumprawne.org/watek/wezwanie-do-zaprzestania-stosowania-klauzul-niedozwolonych-czesc-iii.450436/",
+  "fetch_url": "https://forumprawne.org/watek/wezwanie-do-zaprzestania-stosowania-klauzul-niedozwolonych-czesc-iii.450436/",
+  "archive_file": "forumprawne/forumprawne_00001.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 175111,
+  "sha256": "d8b06c4eabfca16aaf8ce3f46d422f0a0bdbe2e3ddcf65c95819a9ed4d14f8d7",
+  "download_date": "2026-05-16T07:21:33Z",
+  "duration_sec": 0.566,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

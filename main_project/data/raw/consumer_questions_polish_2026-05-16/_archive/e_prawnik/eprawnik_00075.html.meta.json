@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00075",
+  "source_url": "https://e-prawnik.pl/forum/czy-w-przypadku-odmowy-przesadzenia-wlasnosci-przez-sad-wylicytowanej-nieruchomosci-rekojmia-pr.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-w-przypadku-odmowy-przesadzenia-wlasnosci-przez-sad-wylicytowanej-nieruchomosci-rekojmia-pr.html",
+  "archive_file": "e_prawnik/eprawnik_00075.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56444,
+  "sha256": "929a57f3a3a7bd7c6e555a0d5977714238f2a9aafeb22f9094132dadd05b5e57",
+  "download_date": "2026-05-16T07:24:13Z",
+  "duration_sec": 0.185,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

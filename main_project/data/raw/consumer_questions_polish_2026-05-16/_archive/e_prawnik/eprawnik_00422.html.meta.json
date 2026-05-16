@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00422",
+  "source_url": "https://e-prawnik.pl/forum/zakup-kradzionego-telefonu-zwrot-kosztow.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakup-kradzionego-telefonu-zwrot-kosztow.html",
+  "archive_file": "e_prawnik/eprawnik_00422.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57369,
+  "sha256": "b976e4e96e8316af2064c6f99027505640fcbba4f4477699fca5804a66f7a50c",
+  "download_date": "2026-05-16T07:30:58Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00562",
+  "source_url": "https://e-prawnik.pl/forum/wymiana-telefonu-na-nowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wymiana-telefonu-na-nowy.html",
+  "archive_file": "e_prawnik/eprawnik_00562.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58313,
+  "sha256": "9159c958c669e64c0816f12e6833271e69cd67d7f116f64a47dec98d8738585f",
+  "download_date": "2026-05-16T07:33:42Z",
+  "duration_sec": 0.182,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

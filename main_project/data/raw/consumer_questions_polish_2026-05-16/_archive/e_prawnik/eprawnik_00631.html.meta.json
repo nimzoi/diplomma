@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00631",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaje-mieszkanie-przez-biuro-posrednictwa-kupujacy-polowe-kwoty-posiada-a-na-reszte-bierze-.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaje-mieszkanie-przez-biuro-posrednictwa-kupujacy-polowe-kwoty-posiada-a-na-reszte-bierze-.html",
+  "archive_file": "e_prawnik/eprawnik_00631.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57411,
+  "sha256": "474ffa5e10127c70676dfdf35d98d2ed6f5b22a964e90cfaa3d28791eda3d488",
+  "download_date": "2026-05-16T07:35:05Z",
+  "duration_sec": 0.159,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

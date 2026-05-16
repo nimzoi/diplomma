@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00021",
+  "source_url": "https://e-prawnik.pl/forum/garaz-odebrany-przez-nadzor-budowlany-a-niezgodny-z-przepisami.html",
+  "fetch_url": "https://e-prawnik.pl/forum/garaz-odebrany-przez-nadzor-budowlany-a-niezgodny-z-przepisami.html",
+  "archive_file": "e_prawnik/eprawnik_00021.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58429,
+  "sha256": "4b26e3f58d0afab5dc18341152bba973d768725046b36f7ec0f720fa0bbbb012",
+  "download_date": "2026-05-16T07:23:09Z",
+  "duration_sec": 0.184,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

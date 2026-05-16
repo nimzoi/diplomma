@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00537",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaz-mieszkania-zatajenie-faktu-o-probie-wlamania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaz-mieszkania-zatajenie-faktu-o-probie-wlamania.html",
+  "archive_file": "e_prawnik/eprawnik_00537.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58520,
+  "sha256": "8594d0d6b3adaa1ea611a24e251dd62575901b2c99c030f5a2f353b5b03cd8c2",
+  "download_date": "2026-05-16T07:33:13Z",
+  "duration_sec": 0.214,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

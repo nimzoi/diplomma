@@ -5,11 +5,11 @@ dla citation-grounded polskiego RAG (deterministyczne źródłowanie per
 art./§/ust./pkt./lit.).
 
 **Skrypt:** `main_project/src/scrape/isap/scrape_eli.py`
-**Data scrape:** 2026-05-16 (pierwsze 6 ustaw) + 2026-05-16 Iter. 0b extension (5 ustaw dodanych)
-**Łącznie:** **4 056 chunks** na **962 unikalnych artykułach** (6 existing + 5 nowych)
+**Data scrape:** 2026-05-16 — trzy fale (Iter. 0a: 6 ustaw; Iter. 0b: +5; Iter. 0c/S7: +8)
+**Łącznie:** **7 828 chunks** na ~**1 600 unikalnych artykułach** (6 + 5 + 8 = **19 ustaw**)
 
-PDF oryginalne (Dziennik Ustaw) dla wszystkich 11 ustaw w `data/raw/eli_pdf_2026-05-16/`
-(20 plików, 59.76 MB).
+PDF oryginalne (Dziennik Ustaw) dla wszystkich 19 ustaw w `data/raw/eli_pdf_2026-05-16/`
+(34 plików, 123.58 MB).
 
 ## Status per ustawa
 
@@ -26,6 +26,26 @@ PDF oryginalne (Dziennik Ustaw) dla wszystkich 11 ustaw w `data/raw/eli_pdf_2026
 | DU/2024/1221 | Ustawa Prawo komunikacji elektronicznej (Dział VII, art. 282-410) | OK | 797 | `DU_2024_1221.jsonl` | **0b** |
 | DU/2011/715 | Ustawa o kredycie konsumenckim | OK | 295 | `DU_2011_715.jsonl` | **0b** |
 | DU/2010/44 | Ustawa o dochodzeniu roszczeń w postępowaniu grupowym | OK | 67 | `DU_2010_44.jsonl` | **0b** |
+| DU/1964/296 | Ustawa Kodeks postępowania cywilnego (KPC) | OK | 2 084 | `DU_1964_296.jsonl` | **0c** |
+| DU/2003/535 | Ustawa Prawo upadłościowe (z upadłością konsumencką) | OK | 1 252 | `DU_2003_535.jsonl` | **0c** |
+| DU/2014/915 | Ustawa o informowaniu o cenach towarów i usług | OK | 46 | `DU_2014_915.jsonl` | **0c** |
+| DU/2003/2275 | Ustawa o ogólnym bezpieczeństwie produktów (UCHYLONA) | OK | 189 | `DU_2003_2275.jsonl` | **0c** |
+| DU/1993/211 | Ustawa o zwalczaniu nieuczciwej konkurencji | OK | 72 | `DU_1993_211.jsonl` | **0c** |
+| DU/2002/1176 | Ustawa o szczeg. warunkach sprzedaży konsumenckiej (UCHYLONA) | OK | 42 | `DU_2002_1176.jsonl` | **0c** |
+| DU/2000/271 | Ustawa o ochronie niektórych praw konsumentów (UCHYLONA) | OK | 86 | `DU_2000_271.jsonl` | **0c** |
+| DU/1997/483 | Konstytucja Rzeczypospolitej Polskiej (art. 76) | OK_PDF_ONLY | 1 | `DU_1997_483.jsonl` | **0c** |
+
+**Uwagi do Iter. 0c (S7, 2026-05-16):**
+- 3 ustawy oznaczone **UCHYLONA** (DU/2003/2275, DU/2002/1176, DU/2000/271) — pobrane jako *historic reference* dla legacy citations w starszych orzeczeniach SN/SA i decyzjach UOKiK (pre-2014). Pole `metadata.obowiazujaca=false` + `status` jasno oznaczone.
+- **Konstytucja RP** (DU/1997/483) — ELI ma `textHTML=False` (akty pre-2012 mają tylko skanowany PDF). Manualnie wyciągnięto art. 76 (konstytucyjna podstawa ochrony konsumenta) z PDF jako 1 chunk; pozostałe art. 1-243 NIE są konsumencko-relewantne — by-design scope decision. `metadata.extraction_method="manual_from_pdf"`.
+- **KPC + Pr. upadł.** — pełen scrape, NIE filter — analiza konsumencko-relevant fragmentów post-hoc w `dataset_builder` (KPC: postępowanie nakazowe/upominawcze/klauzula wykonalności/grupowe; Pr. upadł.: dział upadłości konsumenckiej).
+- **Korekty błędnych ELI ID z briefu** (4 z 8 mappingów było niepoprawnych — typowy E1 ID error):
+  - brief `DU/1997/88` → faktycznie Rozporządzenie Min. Transportu z 1997 (NOT_IN_FORCE). Poprawne: **DU/2003/535** (Pr. upadł., IN_FORCE)
+  - brief `DU/2002/1023` → faktycznie Rozporządzenie Min. Finansów (NOT_IN_FORCE). Poprawne: **DU/2003/2275** (Ust. ogólnym bezpieczeństwie produktów — UCHYLONA, ale zgodna z briefem intencją historic ref)
+  - brief `DU/2012/1225` → faktycznie Obwieszczenie Marszałka (NOT_IN_FORCE). Poprawne: **DU/1993/211** (Ust. zwalcz. nieucz. konkur., IN_FORCE)
+  - brief `DU/2003/1148` → faktycznie Rozporządzenie Min. Rolnictwa (NOT_IN_FORCE). Poprawne: **DU/2002/1176** (UCHYLONA ust. sprzedaży konsum.)
+  - brief `DU/2002/1183` → faktycznie ust. zmieniająca o zryczałtowanym podatku (NIE consumer-related) — **SKIPPED** (z dispozycji briefu „skip jeśli redundantne z DU/2007/331")
+- **Część D (akty wykonawcze)** — DEFERRED do osobnego task: ELI search dla "rozporządzenie pouczenie konsumenta" / "wzór formularza kredyt konsum." zwraca głównie noise + bardzo recent items (2026-future-dated rozporządzenia w bieżącej legislacji). Konkretne IDs Part D wymagają osobnego research pass z curated lista nazw od UOKiK lub Ministerstwa Sprawiedliwości.
 
 Wszystkie ustawy zostały pobrane w aktualnym tekście (current consolidated state
 udostępniany przez ELI HTML endpoint). Per ustawa: jeden plik `.jsonl` z chunks
@@ -224,16 +244,37 @@ i adresu `Dz.U.`. To kluczowe dla detekcji halucynacji w generatorze RAG.
 | DU_2024_1221.jsonl | 797 | 129 | Prawo kom. elektr. Dział VII (art. 282-410) |
 | **Subtotal Iter. 0b** | **1 933** | **447** | |
 
+### Iter. 0c (8 ustaw S7 dodanych 2026-05-16)
+
+| Plik | Chunks | Status | Komentarz |
+|---|---:|---|---|
+| DU_1964_296.jsonl | 2 084 | IN_FORCE | KPC — pełen scrape, filter konsumencko-relevant post-hoc |
+| DU_2003_535.jsonl | 1 252 | IN_FORCE | Pr. upadł. — focus na upadłość konsumencką (nowel. 2014+) |
+| DU_2014_915.jsonl | 46 | IN_FORCE | Ust. o cenach — informowanie konsumenta o cenach |
+| DU_2003_2275.jsonl | 189 | **UCHYLONA** | Ogólne bezp. produktów — historic ref dla pre-2024 orzeczeń |
+| DU_1993_211.jsonl | 72 | IN_FORCE | Zwalcz. nieucz. konkur. |
+| DU_2002_1176.jsonl | 42 | **UCHYLONA** | Sprzedaż konsum. — historic ref dla pre-2014 orzeczeń SN/SA |
+| DU_2000_271.jsonl | 86 | **UCHYLONA** | Ochr. niekt. praw konsum. — historic ref |
+| DU_1997_483.jsonl | 1 | IN_FORCE | Konstytucja RP — tylko art. 76 (manual_from_pdf, PDF-only) |
+| **Subtotal Iter. 0c** | **3 772** | | |
+
 ### Grand total
 
-| | Chunks | Unique Articles |
-|---|---:|---:|
-| Iter. 0a (6 ustaw) | 2 123 | 515 |
-| Iter. 0b (5 ustaw) | 1 933 | 447 |
-| **TOTAL (11 ustaw)** | **4 056** | **962** |
+| | Chunks | Comment |
+|---|---:|---|
+| Iter. 0a (6 ustaw) | 2 123 | Core consumer ustawy |
+| Iter. 0b (5 ustaw) | 1 933 | Extended consumer ustawy |
+| Iter. 0c (8 ustaw) | 3 772 | Procedury + szczegółowe + historic + Konstytucja |
+| **TOTAL (19 ustaw)** | **7 828** | |
 
-PDF oryginalne (dla wszystkich 11): 20 plików (11 announcement + 9 tekst jednolity), 59.76 MB
+PDF oryginalne: 34 plików (19 announcement + 15 tekst jednolity¹), 123.58 MB
 w `data/raw/eli_pdf_2026-05-16/`.
+
+¹ — 4 ustawy nie mają tekstu jednolitego w ELI:
+- DU/1997/483 (Konstytucja, brak nowelizacji wymagających tekstu jednolitego)
+- DU/2002/1176 (uchylona przed konsolidacją)
+- DU/2016/1823 (ADR — krótko po uchwaleniu, niewystarczająca liczba nowelizacji)
+- DU/2024/1221 (Pr. komunikacji elektronicznej — zbyt świeża)
 
 ## QA results
 

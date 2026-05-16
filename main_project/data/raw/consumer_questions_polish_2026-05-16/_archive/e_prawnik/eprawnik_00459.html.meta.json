@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00459",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-reklamacja-konsoli.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-reklamacja-konsoli.html",
+  "archive_file": "e_prawnik/eprawnik_00459.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57300,
+  "sha256": "bdf56ccb138c540e5e3683126c7534092484857d37dc9c6505fb7b20caf76524",
+  "download_date": "2026-05-16T07:31:41Z",
+  "duration_sec": 0.162,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

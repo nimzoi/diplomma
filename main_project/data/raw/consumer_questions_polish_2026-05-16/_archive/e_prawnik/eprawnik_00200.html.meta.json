@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00200",
+  "source_url": "https://e-prawnik.pl/forum/opoznienie-inwestycji-budowlanej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/opoznienie-inwestycji-budowlanej.html",
+  "archive_file": "e_prawnik/eprawnik_00200.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58763,
+  "sha256": "aea974acf54554462004a399938ff36ad6ae35705c989785a43fc59b5aa9acec",
+  "download_date": "2026-05-16T07:26:37Z",
+  "duration_sec": 0.161,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

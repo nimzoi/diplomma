@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00341",
+  "source_url": "https://e-prawnik.pl/forum/obciazenie-kupujacego-dodatkowymi-kosztami-za-przesylke.html",
+  "fetch_url": "https://e-prawnik.pl/forum/obciazenie-kupujacego-dodatkowymi-kosztami-za-przesylke.html",
+  "archive_file": "e_prawnik/eprawnik_00341.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55368,
+  "sha256": "2fe0be6e00274067e42b19e5e7d4188ba8c2c26e7afe6c7b74f5f818b1368755",
+  "download_date": "2026-05-16T07:29:23Z",
+  "duration_sec": 0.194,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

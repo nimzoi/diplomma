@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00017",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-wyjazdem-przy-budowie-chodnika.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-wyjazdem-przy-budowie-chodnika.html",
+  "archive_file": "e_prawnik/eprawnik_00017.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60005,
+  "sha256": "4f7e0a58e6ea1cf9fe2dc3a60977b9a0760614875fbae2943c2c0d28c146f01d",
+  "download_date": "2026-05-16T07:23:04Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

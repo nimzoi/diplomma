@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00511",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-butow-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-butow-1.html",
+  "archive_file": "e_prawnik/eprawnik_00511.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62046,
+  "sha256": "ff0806da29e542bee75e3b60f902f286c51c60f9461b4a535b0e8e1ec6d20e62",
+  "download_date": "2026-05-16T07:32:42Z",
+  "duration_sec": 0.32,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

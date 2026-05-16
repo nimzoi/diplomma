@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00578",
+  "source_url": "https://e-prawnik.pl/forum/bezpodstawne-wezwanie-do-zaplaty.html",
+  "fetch_url": "https://e-prawnik.pl/forum/bezpodstawne-wezwanie-do-zaplaty.html",
+  "archive_file": "e_prawnik/eprawnik_00578.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59882,
+  "sha256": "d4d43f25bf9cd43b3b6dc111d0d11eceb0dde1f1190d47d397665503cffae063",
+  "download_date": "2026-05-16T07:34:01Z",
+  "duration_sec": 0.163,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

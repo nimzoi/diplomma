@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00123",
+  "source_url": "https://e-prawnik.pl/forum/6-lat-wierzytelnosci-w-ultimo.html",
+  "fetch_url": "https://e-prawnik.pl/forum/6-lat-wierzytelnosci-w-ultimo.html",
+  "archive_file": "e_prawnik/eprawnik_00123.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54678,
+  "sha256": "8391db69a7d89aa9edf8fa25f2add3c7fb4e5b84bc9f0ec46b40d10d0e9d7105",
+  "download_date": "2026-05-16T07:25:08Z",
+  "duration_sec": 0.163,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

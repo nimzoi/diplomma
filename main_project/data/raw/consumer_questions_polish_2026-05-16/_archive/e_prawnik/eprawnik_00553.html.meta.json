@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00553",
+  "source_url": "https://e-prawnik.pl/forum/mozlowosc-reklamacji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/mozlowosc-reklamacji.html",
+  "archive_file": "e_prawnik/eprawnik_00553.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57142,
+  "sha256": "db9fe0cb7b0bd01802a00f328cf6e0d14beab441ea888b13397b3c712a3ab5a1",
+  "download_date": "2026-05-16T07:33:32Z",
+  "duration_sec": 0.139,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

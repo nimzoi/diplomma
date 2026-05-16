@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00002",
+  "source_url": "https://www.reddit.com/r/Polska/comments/15thokt/niektórzy_ludzie_nie_umieją_żyć_w_xxi_wieku/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/15thokt/niektórzy_ludzie_nie_umieją_żyć_w_xxi_wieku/.json",
+  "archive_file": "reddit/reddit_00002.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 552713,
+  "sha256": "77c12e48db181ed00f39f6234a56b89621af42fc3b52a1c7322f646abe858927",
+  "download_date": "2026-05-16T07:21:39Z",
+  "duration_sec": 1.302,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

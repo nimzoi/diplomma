@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00337",
+  "source_url": "https://e-prawnik.pl/forum/biuro-podrozy-po-zawarciu-umowy-uchyla-sie-od-oswiadczenia-woli.html",
+  "fetch_url": "https://e-prawnik.pl/forum/biuro-podrozy-po-zawarciu-umowy-uchyla-sie-od-oswiadczenia-woli.html",
+  "archive_file": "e_prawnik/eprawnik_00337.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57549,
+  "sha256": "6b895bbbe46e10199c5ec895f646e3920db17bb8c0c66325ff95601d5c03f1b7",
+  "download_date": "2026-05-16T07:29:18Z",
+  "duration_sec": 0.26,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

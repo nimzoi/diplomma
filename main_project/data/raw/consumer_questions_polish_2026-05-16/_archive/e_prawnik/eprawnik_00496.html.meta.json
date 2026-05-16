@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00496",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaz-dlugu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaz-dlugu.html",
+  "archive_file": "e_prawnik/eprawnik_00496.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60528,
+  "sha256": "cbb2e8ee77fdba2fb9f6703a603e71fa25b9dd6b1376f1dacdaa4c176ad0f2c7",
+  "download_date": "2026-05-16T07:32:24Z",
+  "duration_sec": 0.169,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

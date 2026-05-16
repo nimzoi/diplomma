@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00328",
+  "source_url": "https://e-prawnik.pl/forum/nagrywanie-rozmow-a-wymagana-zgoda.html",
+  "fetch_url": "https://e-prawnik.pl/forum/nagrywanie-rozmow-a-wymagana-zgoda.html",
+  "archive_file": "e_prawnik/eprawnik_00328.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56473,
+  "sha256": "cf2026ead585cf9d3020672682e6914ba1abbf902e703f5b676d10c93d45be07",
+  "download_date": "2026-05-16T07:29:07Z",
+  "duration_sec": 0.148,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

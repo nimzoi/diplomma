@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00457",
+  "source_url": "https://e-prawnik.pl/forum/anulowanie-zamowienia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/anulowanie-zamowienia.html",
+  "archive_file": "e_prawnik/eprawnik_00457.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60244,
+  "sha256": "8971a828b8f6ca2696ada146b70b5eae4772ace8c856232e159fa269748d6652",
+  "download_date": "2026-05-16T07:31:39Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

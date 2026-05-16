@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00283",
+  "source_url": "https://e-prawnik.pl/forum/anulowanie-zamowienia-personalizowanego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/anulowanie-zamowienia-personalizowanego.html",
+  "archive_file": "e_prawnik/eprawnik_00283.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56494,
+  "sha256": "36baa5bafa5462f48ed851e0618f9d5d24aea84516f944a46ec2e3969b49e4fa",
+  "download_date": "2026-05-16T07:28:15Z",
+  "duration_sec": 0.154,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

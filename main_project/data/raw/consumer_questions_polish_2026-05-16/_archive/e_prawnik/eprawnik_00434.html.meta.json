@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00434",
+  "source_url": "https://e-prawnik.pl/forum/zadatek-na-samochod.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zadatek-na-samochod.html",
+  "archive_file": "e_prawnik/eprawnik_00434.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58176,
+  "sha256": "664449b67838272f9bc786b10f68d04f9a7c7d1f247495f62da252a8283a7b9c",
+  "download_date": "2026-05-16T07:31:12Z",
+  "duration_sec": 0.187,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

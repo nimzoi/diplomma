@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00441",
+  "source_url": "https://e-prawnik.pl/forum/gazownik-spalil-mi-samochod.html",
+  "fetch_url": "https://e-prawnik.pl/forum/gazownik-spalil-mi-samochod.html",
+  "archive_file": "e_prawnik/eprawnik_00441.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 67174,
+  "sha256": "c11927472c4b77dbbde4f3487988243245ac5287992245a00bfc5071e09a894e",
+  "download_date": "2026-05-16T07:31:20Z",
+  "duration_sec": 0.168,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

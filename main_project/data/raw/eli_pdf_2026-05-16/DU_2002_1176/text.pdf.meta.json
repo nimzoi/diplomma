@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2002/1176",
+  "ustawa_title": "Ustawa z dnia 27 lipca 2002 r. o szczególnych warunkach sprzedaży konsumenckiej oraz o zmianie Kodeksu cywilnego.",
+  "kind": "announcement",
+  "consolidated_ref": null,
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1176/text.pdf",
+  "size_bytes": 65659,
+  "sha256": "458bb6ede09ae5d8be17ffdd3f7579fae573f4019208f626c18d89a57b397ce3",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "NOT_IN_FORCE",
+  "error": false
+}

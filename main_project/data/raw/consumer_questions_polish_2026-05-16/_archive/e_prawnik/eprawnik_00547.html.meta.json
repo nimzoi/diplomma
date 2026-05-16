@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00547",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-obuwia-po-uznanej-reklamacji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-obuwia-po-uznanej-reklamacji.html",
+  "archive_file": "e_prawnik/eprawnik_00547.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55643,
+  "sha256": "8c3c70d814aefbc1db96d8a09b30c93df22a3fee1429edb2e2ca5af0bd57e838",
+  "download_date": "2026-05-16T07:33:24Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

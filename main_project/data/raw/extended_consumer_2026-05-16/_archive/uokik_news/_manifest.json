@@ -1,0 +1,1567 @@
+{
+  "source": "uokik.gov.pl (news)",
+  "source_dir": "main_project\\data\\raw\\extended_consumer_2026-05-16/uokik_news",
+  "scrape_date": "2026-05-16",
+  "stats": {
+    "total_entries": 111,
+    "total_errors": 0,
+    "total_bytes": 10292007
+  },
+  "entries": [
+    {
+      "doc_id": "uokik_news_0002_hulajnoga-na-minuty-ale-odpowiedzialnosc-bez-limit__a75610da",
+      "source_url": "https://uokik.gov.pl/hulajnoga-na-minuty-ale-odpowiedzialnosc-bez-limitu-prezes-uokik-stawia-zarzuty-bolt-operations-ou",
+      "archive_path": "_archive/uokik_news/uokik_news_0002_hulajnoga-na-minuty-ale-odpowiedzialnosc-bez-limit__a75610da.html",
+      "content_type": "text/html",
+      "size_bytes": 94936,
+      "sha256": "1b4171fdf5305494f397c931bd2d0a6d3a660a13889aba9e5a59af729af3f2af",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0002_hulajnoga-na-minuty-ale-odpowiedzialnosc-bez-limit"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0003_kosztowny-brak-wspolpracy-z-uokik-beliani-ma-do-za__a5515b80",
+      "source_url": "https://uokik.gov.pl/kosztowny-brak-wspolpracy-z-uokik-beliani-ma-do-zaplaty-2-mln-euro",
+      "archive_path": "_archive/uokik_news/uokik_news_0003_kosztowny-brak-wspolpracy-z-uokik-beliani-ma-do-za__a5515b80.html",
+      "content_type": "text/html",
+      "size_bytes": 95220,
+      "sha256": "359ca96eea25b8dd1d47a0c228678e3e02418106c96b9566b9f48813b5176e6e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0003_kosztowny-brak-wspolpracy-z-uokik-beliani-ma-do-za"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0005_zostan-konsumenckim-ngo__3b0038f6",
+      "source_url": "https://uokik.gov.pl/zostan-konsumenckim-ngo",
+      "archive_path": "_archive/uokik_news/uokik_news_0005_zostan-konsumenckim-ngo__3b0038f6.html",
+      "content_type": "text/html",
+      "size_bytes": 79319,
+      "sha256": "237c8c9876b5f3d5f6b1e45ef9cc7ee31746a490078893b65c551fe008ab42e7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0005_zostan-konsumenckim-ngo"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0006_zmiany-warunkow-korzystania-z-portalu-otodom-preze__7f8c441e",
+      "source_url": "https://uokik.gov.pl/zmiany-warunkow-korzystania-z-portalu-otodom-prezes-uokik-mowi-sprawdzam",
+      "archive_path": "_archive/uokik_news/uokik_news_0006_zmiany-warunkow-korzystania-z-portalu-otodom-preze__7f8c441e.html",
+      "content_type": "text/html",
+      "size_bytes": 90201,
+      "sha256": "817af7b607340e6b048d28f82d9dab634871541a71eb9cd96a8e2ef1b4c37228",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0006_zmiany-warunkow-korzystania-z-portalu-otodom-preze"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0007_piec-lat-przeplacania-decora-i-bel-pol-zawarly-zmo__b991dd45",
+      "source_url": "https://uokik.gov.pl/piec-lat-przeplacania-decora-i-bel-pol-zawarly-zmowe-cenowa-i-podzielily-rynek",
+      "archive_path": "_archive/uokik_news/uokik_news_0007_piec-lat-przeplacania-decora-i-bel-pol-zawarly-zmo__b991dd45.html",
+      "content_type": "text/html",
+      "size_bytes": 101403,
+      "sha256": "055d604f369e6efff97c52edef545928a2a38040f406f22d967509cf1543b010",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0007_piec-lat-przeplacania-decora-i-bel-pol-zawarly-zmo"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0009_zarzuty-dla-wypozyczalni-samochodow-panek-i-kara-z__4ac2ebbe",
+      "source_url": "https://uokik.gov.pl/zarzuty-dla-wypozyczalni-samochodow-panek-i-kara-za-brak-wspolpracy-z-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0009_zarzuty-dla-wypozyczalni-samochodow-panek-i-kara-z__4ac2ebbe.html",
+      "content_type": "text/html",
+      "size_bytes": 97027,
+      "sha256": "0928627eb2c4eb4349629b7c4bffca53fd591639394d684ddcf3f95763f3b733",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0009_zarzuty-dla-wypozyczalni-samochodow-panek-i-kara-z"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0010_nieprawidlowe-oznaczanie-obnizek-sklepy-stacjonarn__1f719f22",
+      "source_url": "https://uokik.gov.pl/nieprawidlowe-oznaczanie-obnizek-sklepy-stacjonarne-black-red-white-zabka-nano-oraz-peek-cloppenburg-z-zarzutami-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0010_nieprawidlowe-oznaczanie-obnizek-sklepy-stacjonarn__1f719f22.html",
+      "content_type": "text/html",
+      "size_bytes": 95566,
+      "sha256": "5f731dfcf6167f4e316f2beb9dfa7c69c3f004ba05d76468585458922f0a3cf4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0010_nieprawidlowe-oznaczanie-obnizek-sklepy-stacjonarn"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0011_ile-naprawde-kosztuje-wycieczka-prezes-uokik-nakla__8e111ea7",
+      "source_url": "https://uokik.gov.pl/ile-naprawde-kosztuje-wycieczka-prezes-uokik-naklada-kare-na-traveplanetpl",
+      "archive_path": "_archive/uokik_news/uokik_news_0011_ile-naprawde-kosztuje-wycieczka-prezes-uokik-nakla__8e111ea7.html",
+      "content_type": "text/html",
+      "size_bytes": 91726,
+      "sha256": "c57eb403bf6d178ad63cd45f49b8f9d9e5a9109f0dbf1dff85ab11487842f1f9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0011_ile-naprawde-kosztuje-wycieczka-prezes-uokik-nakla"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0013_niedozwolone-klauzule-schodza-ze-sceny-ponad-15-ml__c0c6a488",
+      "source_url": "https://uokik.gov.pl/niedozwolone-klauzule-schodza-ze-sceny-ponad-15-mln-zl-kary-dla-live-nation-i-zwroty-dla-konsumentow",
+      "archive_path": "_archive/uokik_news/uokik_news_0013_niedozwolone-klauzule-schodza-ze-sceny-ponad-15-ml__c0c6a488.html",
+      "content_type": "text/html",
+      "size_bytes": 98272,
+      "sha256": "2ef501e3e832b5464ce99e77704cbf4d072b88bce2ef132c35fb1f1527a93b76",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0013_niedozwolone-klauzule-schodza-ze-sceny-ponad-15-ml"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0014_xx-edycja-olimpiady-wiedzy-konsumenckiej-jubileusz__f825d0d1",
+      "source_url": "https://uokik.gov.pl/xx-edycja-olimpiady-wiedzy-konsumenckiej-jubileuszowe-starcie-mlodych-ekspertow",
+      "archive_path": "_archive/uokik_news/uokik_news_0014_xx-edycja-olimpiady-wiedzy-konsumenckiej-jubileusz__f825d0d1.html",
+      "content_type": "text/html",
+      "size_bytes": 83259,
+      "sha256": "14753180df5e1b948e004fc5e3f691dfd426a06128435250cc74fbc5d6a4e70e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0014_xx-edycja-olimpiady-wiedzy-konsumenckiej-jubileusz"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0015_wejdz-do-swiata-ai-i-tajemniczego-klienta-dolacz-d__e3532327",
+      "source_url": "https://uokik.gov.pl/wejdz-do-swiata-ai-i-tajemniczego-klienta-dolacz-do-summer-camp-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0015_wejdz-do-swiata-ai-i-tajemniczego-klienta-dolacz-d__e3532327.html",
+      "content_type": "text/html",
+      "size_bytes": 89981,
+      "sha256": "066ccb4a5e5874ccc84e898800dffea15d01f9dd460b7eb732459347fd1cfb60",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0015_wejdz-do-swiata-ai-i-tajemniczego-klienta-dolacz-d"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0016_zmowa-przy-skupie-owocow-prezes-uokik-naklada-kary__4062bfed",
+      "source_url": "https://uokik.gov.pl/zmowa-przy-skupie-owocow-prezes-uokik-naklada-kary",
+      "archive_path": "_archive/uokik_news/uokik_news_0016_zmowa-przy-skupie-owocow-prezes-uokik-naklada-kary__4062bfed.html",
+      "content_type": "text/html",
+      "size_bytes": 95703,
+      "sha256": "8e2820736b78883ece3af18f4ba457d36961f6fd8185b6a0cc2e07e5c37eb385",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0016_zmowa-przy-skupie-owocow-prezes-uokik-naklada-kary"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0017_rekompensaty-od-enter-air-decyzja-zobowiazujaca-pr__96ea3768",
+      "source_url": "https://uokik.gov.pl/rekompensaty-od-enter-air-decyzja-zobowiazujaca-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0017_rekompensaty-od-enter-air-decyzja-zobowiazujaca-pr__96ea3768.html",
+      "content_type": "text/html",
+      "size_bytes": 96602,
+      "sha256": "99778b2c99269a7036bf50ca287a0d332a616738f6078350f3d887aa52810157",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0017_rekompensaty-od-enter-air-decyzja-zobowiazujaca-pr"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0018_zatory-platnicze-dzialania-prezesa-uokik-od-poczat__e1745f88",
+      "source_url": "https://uokik.gov.pl/zatory-platnicze-dzialania-prezesa-uokik-od-poczatku-roku",
+      "archive_path": "_archive/uokik_news/uokik_news_0018_zatory-platnicze-dzialania-prezesa-uokik-od-poczat__e1745f88.html",
+      "content_type": "text/html",
+      "size_bytes": 92522,
+      "sha256": "f51724394bebd79d7a10edbf0f0025b8eaeca1b5b26b302433686e9a52a13a98",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0018_zatory-platnicze-dzialania-prezesa-uokik-od-poczat"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0019_kary-liczone-w-emocjach-wchodzi-w-zycie-nowy-syste__98b7c60f",
+      "source_url": "https://uokik.gov.pl/kary-liczone-w-emocjach-wchodzi-w-zycie-nowy-system-sankcyjny-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0019_kary-liczone-w-emocjach-wchodzi-w-zycie-nowy-syste__98b7c60f.html",
+      "content_type": "text/html",
+      "size_bytes": 82578,
+      "sha256": "9516bf97f13b3f100ffa4a993d8ec879a17f9eb259984c6b08199fabfd079c95",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0019_kary-liczone-w-emocjach-wchodzi-w-zycie-nowy-syste"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0020_rabaty-czy-rebusy-prezes-uokik-interweniuje__bf8773a1",
+      "source_url": "https://uokik.gov.pl/rabaty-czy-rebusy-prezes-uokik-interweniuje",
+      "archive_path": "_archive/uokik_news/uokik_news_0020_rabaty-czy-rebusy-prezes-uokik-interweniuje__bf8773a1.html",
+      "content_type": "text/html",
+      "size_bytes": 94916,
+      "sha256": "96e341a18ec0402e24c066a92d4ff0ed9c239255724a00615acebe81325136c0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0020_rabaty-czy-rebusy-prezes-uokik-interweniuje"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0022_ceny-widmo-kontrole-inspekcji-handlowej__db68af7f",
+      "source_url": "https://uokik.gov.pl/ceny-widmo-kontrole-inspekcji-handlowej",
+      "archive_path": "_archive/uokik_news/uokik_news_0022_ceny-widmo-kontrole-inspekcji-handlowej__db68af7f.html",
+      "content_type": "text/html",
+      "size_bytes": 96434,
+      "sha256": "2fe8ce9c4e5456d04e53b0fc5b1baeb48fb34ceaa11bdd036a68fb9fb4a0ab13",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0022_ceny-widmo-kontrole-inspekcji-handlowej"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0023_czysta-energia-i-brudne-praktyki-prezes-uokik-nalo__ea1d1166",
+      "source_url": "https://uokik.gov.pl/czysta-energia-i-brudne-praktyki-prezes-uokik-nalozyl-ponad-7-mln-zl-kar-na-firmy-z-branzy-oze",
+      "archive_path": "_archive/uokik_news/uokik_news_0023_czysta-energia-i-brudne-praktyki-prezes-uokik-nalo__ea1d1166.html",
+      "content_type": "text/html",
+      "size_bytes": 99789,
+      "sha256": "69ee15e921f2197e312f73a3c6490519088e3af217fe2ddacdda9c95874eab8d",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0023_czysta-energia-i-brudne-praktyki-prezes-uokik-nalo"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0024_czas-na-plac-zabaw-beztroska-dzieci-tylko-razem-z__43dd29a1",
+      "source_url": "https://uokik.gov.pl/czas-na-plac-zabaw-beztroska-dzieci-tylko-razem-z-troska-doroslych",
+      "archive_path": "_archive/uokik_news/uokik_news_0024_czas-na-plac-zabaw-beztroska-dzieci-tylko-razem-z__43dd29a1.html",
+      "content_type": "text/html",
+      "size_bytes": 88023,
+      "sha256": "395875bbfcb20dfb3abafae2a78d011a1511e4475495d54da2c0c00cf55b4a39",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0024_czas-na-plac-zabaw-beztroska-dzieci-tylko-razem-z-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0025_uniwersytet-swps-i-politechnika-lubelska-kary-dla__a46e9c63",
+      "source_url": "https://uokik.gov.pl/uniwersytet-swps-i-politechnika-lubelska-kary-dla-uczelni-zwroty-dla-studentow",
+      "archive_path": "_archive/uokik_news/uokik_news_0025_uniwersytet-swps-i-politechnika-lubelska-kary-dla__a46e9c63.html",
+      "content_type": "text/html",
+      "size_bytes": 94617,
+      "sha256": "6fc79a292cc64b57fb6b2f5cddd54509e0dfffac0e3ba2636804e999eb73f071",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0025_uniwersytet-swps-i-politechnika-lubelska-kary-dla-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0026_uokik-pracuje-nad-wykorzystaniem-ai-do-walki-z-dar__547cb396",
+      "source_url": "https://uokik.gov.pl/uokik-pracuje-nad-wykorzystaniem-ai-do-walki-z-dark-patterns",
+      "archive_path": "_archive/uokik_news/uokik_news_0026_uokik-pracuje-nad-wykorzystaniem-ai-do-walki-z-dar__547cb396.html",
+      "content_type": "text/html",
+      "size_bytes": 95350,
+      "sha256": "2735b1f3f412fd9634cd2c4a6d34d613b526abbc6fc57ca1cfe54fb54cdf77f7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0026_uokik-pracuje-nad-wykorzystaniem-ai-do-walki-z-dar"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0028_nie-klikaj-w-ciemno-nie-tylko-od-swieta__6401606b",
+      "source_url": "https://uokik.gov.pl/nie-klikaj-w-ciemno-nie-tylko-od-swieta",
+      "archive_path": "_archive/uokik_news/uokik_news_0028_nie-klikaj-w-ciemno-nie-tylko-od-swieta__6401606b.html",
+      "content_type": "text/html",
+      "size_bytes": 94988,
+      "sha256": "26a6e364ea922e26ce75876542deb23f2236a5a157aeabe1e42d04ebc9bcf9de",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0028_nie-klikaj-w-ciemno-nie-tylko-od-swieta"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0029_agresywne-praktyki-rynkowe-deweloperow-prezes-uoki__5d54abac",
+      "source_url": "https://uokik.gov.pl/agresywne-praktyki-rynkowe-deweloperow-prezes-uokik-stawia-zarzuty",
+      "archive_path": "_archive/uokik_news/uokik_news_0029_agresywne-praktyki-rynkowe-deweloperow-prezes-uoki__5d54abac.html",
+      "content_type": "text/html",
+      "size_bytes": 90196,
+      "sha256": "b33c0a52ec76dcaf6e44608fa0112a0d6a67f59bc00951a27508fcf6624bcf22",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0029_agresywne-praktyki-rynkowe-deweloperow-prezes-uoki"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0030_urlop-w-niebezpiecznym-rejonie-twoje-prawa__24da0fd9",
+      "source_url": "https://uokik.gov.pl/urlop-w-niebezpiecznym-rejonie-twoje-prawa",
+      "archive_path": "_archive/uokik_news/uokik_news_0030_urlop-w-niebezpiecznym-rejonie-twoje-prawa__24da0fd9.html",
+      "content_type": "text/html",
+      "size_bytes": 82231,
+      "sha256": "49b765ee83fe4ef533df9c3f783e306b90754848a1513e53235c5a8387b68e68",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0030_urlop-w-niebezpiecznym-rejonie-twoje-prawa"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0031_swiat-konsumenckich-praw-reguly-gry-wez-udzial-w-w__498813a6",
+      "source_url": "https://uokik.gov.pl/swiat-konsumenckich-praw-reguly-gry-wez-udzial-w-webinarze",
+      "archive_path": "_archive/uokik_news/uokik_news_0031_swiat-konsumenckich-praw-reguly-gry-wez-udzial-w-w__498813a6.html",
+      "content_type": "text/html",
+      "size_bytes": 77619,
+      "sha256": "6335f7983f72f7d8b3049abc5b12dda0bdc5d48deba1844fa4c206d3cf2b5974",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0031_swiat-konsumenckich-praw-reguly-gry-wez-udzial-w-w"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0032_oznakowanie-warzyw-i-owocow-krajem-pochodzenia-efe__41e75dbd",
+      "source_url": "https://uokik.gov.pl/oznakowanie-warzyw-i-owocow-krajem-pochodzenia-efekty-dzialan-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0032_oznakowanie-warzyw-i-owocow-krajem-pochodzenia-efe__41e75dbd.html",
+      "content_type": "text/html",
+      "size_bytes": 92686,
+      "sha256": "3f003dc890ebfe6fbd3532c49ecf5e8bfa92b49f6ec2182211a0beeb97ef58a8",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0032_oznakowanie-warzyw-i-owocow-krajem-pochodzenia-efe"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0033_prezes-uokik-sprawdza-praktyki-polskich-sieci-elek__4391eda3",
+      "source_url": "https://uokik.gov.pl/prezes-uokik-sprawdza-praktyki-polskich-sieci-elektroenergetycznych",
+      "archive_path": "_archive/uokik_news/uokik_news_0033_prezes-uokik-sprawdza-praktyki-polskich-sieci-elek__4391eda3.html",
+      "content_type": "text/html",
+      "size_bytes": 87201,
+      "sha256": "673cd8be1a7ffef90076c0dfa80b1c48d1691230567c52e3aaeac311bcb85011",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0033_prezes-uokik-sprawdza-praktyki-polskich-sieci-elek"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0034_uokik-w-2025-blisko-tysiac-decyzji-ponad-miliard-z__c4d34d4d",
+      "source_url": "https://uokik.gov.pl/uokik-w-2025-blisko-tysiac-decyzji-ponad-miliard-zlotych-kar",
+      "archive_path": "_archive/uokik_news/uokik_news_0034_uokik-w-2025-blisko-tysiac-decyzji-ponad-miliard-z__c4d34d4d.html",
+      "content_type": "text/html",
+      "size_bytes": 99388,
+      "sha256": "ccfb560847b49bc1c60f90a46abcbe22d871010d57b7a838bdfd7c4c42174e79",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0034_uokik-w-2025-blisko-tysiac-decyzji-ponad-miliard-z"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0035_czy-allegro-ogranicza-konkurencje-przeszukanie-uok__e1df4469",
+      "source_url": "https://uokik.gov.pl/czy-allegro-ogranicza-konkurencje-przeszukanie-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0035_czy-allegro-ogranicza-konkurencje-przeszukanie-uok__e1df4469.html",
+      "content_type": "text/html",
+      "size_bytes": 92333,
+      "sha256": "e5daafa72a11286505b76d1acf4392edec7dbb21680f6da24f6f0d3a141f8cf5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0035_czy-allegro-ogranicza-konkurencje-przeszukanie-uok"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0037_serwis-przestal-dzialac-abonament-zostal-prezes-uo__85184138",
+      "source_url": "https://uokik.gov.pl/serwis-przestal-dzialac-abonament-zostal-prezes-uokik-stawia-zarzuty-hbo",
+      "archive_path": "_archive/uokik_news/uokik_news_0037_serwis-przestal-dzialac-abonament-zostal-prezes-uo__85184138.html",
+      "content_type": "text/html",
+      "size_bytes": 95050,
+      "sha256": "0e4074f649ed32f296c95844dc32b1572b5de8d3221c33a5f0b235e1e65c8e91",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0037_serwis-przestal-dzialac-abonament-zostal-prezes-uo"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0039_rabat-utracony-konsumenci-dostana-zwrot-decyzja-zo__bfac3c5c",
+      "source_url": "https://uokik.gov.pl/rabat-utracony-konsumenci-dostana-zwrot-decyzja-zobowiazujaca-t-mobile",
+      "archive_path": "_archive/uokik_news/uokik_news_0039_rabat-utracony-konsumenci-dostana-zwrot-decyzja-zo__bfac3c5c.html",
+      "content_type": "text/html",
+      "size_bytes": 95199,
+      "sha256": "dc431e70e0308c0c51c045a925798dc6fb70e5bb357c0fea4664176e0e1d6090",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0039_rabat-utracony-konsumenci-dostana-zwrot-decyzja-zo"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0040_nie-ma-takiego-numeru-prezes-uokik-stawia-zarzuty__e31ac6d2",
+      "source_url": "https://uokik.gov.pl/nie-ma-takiego-numeru-prezes-uokik-stawia-zarzuty-spolce-zarzadzajacej-platformami-facebook-i-instagram",
+      "archive_path": "_archive/uokik_news/uokik_news_0040_nie-ma-takiego-numeru-prezes-uokik-stawia-zarzuty__e31ac6d2.html",
+      "content_type": "text/html",
+      "size_bytes": 94743,
+      "sha256": "a84e6aba4a3b62076d49b139dae96501dec29b19ca3864c7d64215f5ca220462",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0040_nie-ma-takiego-numeru-prezes-uokik-stawia-zarzuty-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0042_wiedza-i-praktyka-za-darmo-czy-za-prenumerate-zarz__a752cdbe",
+      "source_url": "https://uokik.gov.pl/wiedza-i-praktyka-za-darmo-czy-za-prenumerate-zarzuty-prezesa-uokik-dla-wydawnictwa",
+      "archive_path": "_archive/uokik_news/uokik_news_0042_wiedza-i-praktyka-za-darmo-czy-za-prenumerate-zarz__a752cdbe.html",
+      "content_type": "text/html",
+      "size_bytes": 93662,
+      "sha256": "abca36e62c74b2494b5a8e3c0f1d4502a213e304c3c81c0f5a299cbb65c7691a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0042_wiedza-i-praktyka-za-darmo-czy-za-prenumerate-zarz"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0043_telefon-na-karte-czyli-korzystasz-wedlug-potrzeb-n__8a9031d4",
+      "source_url": "https://uokik.gov.pl/telefon-na-karte-czyli-korzystasz-wedlug-potrzeb-nie-w-orange",
+      "archive_path": "_archive/uokik_news/uokik_news_0043_telefon-na-karte-czyli-korzystasz-wedlug-potrzeb-n__8a9031d4.html",
+      "content_type": "text/html",
+      "size_bytes": 94660,
+      "sha256": "06ce6aebd2f7ee2c32b55930ad2545ffc1899abc5fea49c136cc21f9d27079d7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0043_telefon-na-karte-czyli-korzystasz-wedlug-potrzeb-n"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0045_na-tropie-zmowy-prezes-uokik-wszczyna-postepowanie__f64de005",
+      "source_url": "https://uokik.gov.pl/na-tropie-zmowy-prezes-uokik-wszczyna-postepowanie-wyjasniajace",
+      "archive_path": "_archive/uokik_news/uokik_news_0045_na-tropie-zmowy-prezes-uokik-wszczyna-postepowanie__f64de005.html",
+      "content_type": "text/html",
+      "size_bytes": 89548,
+      "sha256": "d242f982069710500ae65b4e71e8215e5affc552274ecae56e9b807303ae4a3b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0045_na-tropie-zmowy-prezes-uokik-wszczyna-postepowanie"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0046_zmiana-oprocentowania-bez-jasnych-zasad-prezes-uok__c866ef66",
+      "source_url": "https://uokik.gov.pl/zmiana-oprocentowania-bez-jasnych-zasad-prezes-uokik-mowi-nie-i-naklada-kare-na-pko-bp",
+      "archive_path": "_archive/uokik_news/uokik_news_0046_zmiana-oprocentowania-bez-jasnych-zasad-prezes-uok__c866ef66.html",
+      "content_type": "text/html",
+      "size_bytes": 96420,
+      "sha256": "0df315c26f2cf99bec2093d3b376746399ea03a25c562d37a66ccc4fec194b51",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0046_zmiana-oprocentowania-bez-jasnych-zasad-prezes-uok"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0048_karnet-na-sile-prezes-uokik-stawia-zarzuty-benefit__c5664cc5",
+      "source_url": "https://uokik.gov.pl/karnet-na-sile-prezes-uokik-stawia-zarzuty-benefit-systems",
+      "archive_path": "_archive/uokik_news/uokik_news_0048_karnet-na-sile-prezes-uokik-stawia-zarzuty-benefit__c5664cc5.html",
+      "content_type": "text/html",
+      "size_bytes": 91739,
+      "sha256": "9c6ff2795fdfdc6f0b42b4e6aa3ff5c0815a7e03dbb118a5d7f76f180ecd3d3a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0048_karnet-na-sile-prezes-uokik-stawia-zarzuty-benefit"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0049_uokik-w-icn-warsztaty-z-prawa-konkurencji__e7064e76",
+      "source_url": "https://uokik.gov.pl/uokik-w-icn-warsztaty-z-prawa-konkurencji",
+      "archive_path": "_archive/uokik_news/uokik_news_0049_uokik-w-icn-warsztaty-z-prawa-konkurencji__e7064e76.html",
+      "content_type": "text/html",
+      "size_bytes": 81147,
+      "sha256": "999e9cf7df269de724be55ff134a1960d4d0f6fcd7584cbe041335abd5a46e42",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0049_uokik-w-icn-warsztaty-z-prawa-konkurencji"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0050_gra-w-zielone-bolt-tchibo-i-zara-z-zarzutami-preze__d06dafd4",
+      "source_url": "https://uokik.gov.pl/gra-w-zielone-bolt-tchibo-i-zara-z-zarzutami-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0050_gra-w-zielone-bolt-tchibo-i-zara-z-zarzutami-preze__d06dafd4.html",
+      "content_type": "text/html",
+      "size_bytes": 96906,
+      "sha256": "722e29f4584bd5de64f28a2d4abcb18b8ec224323e6bfe730edcf3c6f4109961",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0050_gra-w-zielone-bolt-tchibo-i-zara-z-zarzutami-preze"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0052_czy-na-tych-opiniach-mozna-polegac-samsung-z-zarzu__03f0ab2b",
+      "source_url": "https://uokik.gov.pl/czy-na-tych-opiniach-mozna-polegac-samsung-z-zarzutami-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0052_czy-na-tych-opiniach-mozna-polegac-samsung-z-zarzu__03f0ab2b.html",
+      "content_type": "text/html",
+      "size_bytes": 92003,
+      "sha256": "609fa647c0999c1e07f22c3952dcb023fedfc3890cf9e52934f67ba94359de6e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0052_czy-na-tych-opiniach-mozna-polegac-samsung-z-zarzu"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0053_obnizka-jaka-jest-kazdy-widzi-niekoniecznie-najniz__ab5738e6",
+      "source_url": "https://uokik.gov.pl/obnizka-jaka-jest-kazdy-widzi-niekoniecznie-najnizsza-cena-z-30-dni-przed-obnizka-kary-dla-zalando-i-temu",
+      "archive_path": "_archive/uokik_news/uokik_news_0053_obnizka-jaka-jest-kazdy-widzi-niekoniecznie-najniz__ab5738e6.html",
+      "content_type": "text/html",
+      "size_bytes": 102766,
+      "sha256": "79b5dc4944b4e031162dcac63fb4d0ba1da01f555569e39eee0dec97b6f33756",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0053_obnizka-jaka-jest-kazdy-widzi-niekoniecznie-najniz"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0055_ani-grosza-mniej-w-e-sklepie-kara-prezesa-uokik-za__e33de444",
+      "source_url": "https://uokik.gov.pl/ani-grosza-mniej-w-e-sklepie-kara-prezesa-uokik-za-zmowe-cenowa-dotyczaca-wyposazenia-lazienek-marki-oltens",
+      "archive_path": "_archive/uokik_news/uokik_news_0055_ani-grosza-mniej-w-e-sklepie-kara-prezesa-uokik-za__e33de444.html",
+      "content_type": "text/html",
+      "size_bytes": 95642,
+      "sha256": "30f16309e77e8855177af0305c5450a32cd19244ebd80ca24863aee30087fea4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0055_ani-grosza-mniej-w-e-sklepie-kara-prezesa-uokik-za"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0056_uokik-zakonczyl-roczny-projekt-taiex-z-albania-i-c__73cc2f33",
+      "source_url": "https://uokik.gov.pl/uokik-zakonczyl-roczny-projekt-taiex-z-albania-i-czarnogora-dotyczacy-ochrony-konkurencji",
+      "archive_path": "_archive/uokik_news/uokik_news_0056_uokik-zakonczyl-roczny-projekt-taiex-z-albania-i-c__73cc2f33.html",
+      "content_type": "text/html",
+      "size_bytes": 83268,
+      "sha256": "ceb87f80737b50bbd999d7d206809ec3d73b8be8d02f08ecbb751765fec82e31",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0056_uokik-zakonczyl-roczny-projekt-taiex-z-albania-i-c"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0057_szykuj-sie-nadchodzi-polnoc-porady-uokik-i-kontrol__3ff31f9f",
+      "source_url": "https://uokik.gov.pl/szykuj-sie-nadchodzi-polnoc-porady-uokik-i-kontrola-inspekcji-handlowej",
+      "archive_path": "_archive/uokik_news/uokik_news_0057_szykuj-sie-nadchodzi-polnoc-porady-uokik-i-kontrol__3ff31f9f.html",
+      "content_type": "text/html",
+      "size_bytes": 94320,
+      "sha256": "d3a04e7c1d9a76c75ce4e334c992f09bc799f8a286667f07ed4b957e2c2ef832",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0057_szykuj-sie-nadchodzi-polnoc-porady-uokik-i-kontrol"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0058_gdy-zysk-zalezy-od-rekrutacji-kolejne-systemy-prom__86c1da0a",
+      "source_url": "https://uokik.gov.pl/gdy-zysk-zalezy-od-rekrutacji-kolejne-systemy-promocyjne-typu-piramida-zdemaskowane-i-ukarane-przez-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0058_gdy-zysk-zalezy-od-rekrutacji-kolejne-systemy-prom__86c1da0a.html",
+      "content_type": "text/html",
+      "size_bytes": 102822,
+      "sha256": "fa3aac23c06c687e72c4aa4ca714b7d70ce9a9d61db86be6c6dab9580b41633c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0058_gdy-zysk-zalezy-od-rekrutacji-kolejne-systemy-prom"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0059_odszkodowanie-za-naruszenie-prawa-antymonopolowego__4f965c42",
+      "source_url": "https://uokik.gov.pl/odszkodowanie-za-naruszenie-prawa-antymonopolowego-pomoga-decyzje-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0059_odszkodowanie-za-naruszenie-prawa-antymonopolowego__4f965c42.html",
+      "content_type": "text/html",
+      "size_bytes": 99304,
+      "sha256": "6f7119bb95ee551908b9050082b976ac5122a09b7564a739a82dcfdbd9b0bd97",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0059_odszkodowanie-za-naruszenie-prawa-antymonopolowego"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0061_wakacje-kredytowe-prezes-uokik-nalozyl-blisko-119__55035731",
+      "source_url": "https://uokik.gov.pl/wakacje-kredytowe-prezes-uokik-nalozyl-blisko-119-mln-zl-kary-na-banki",
+      "archive_path": "_archive/uokik_news/uokik_news_0061_wakacje-kredytowe-prezes-uokik-nalozyl-blisko-119__55035731.html",
+      "content_type": "text/html",
+      "size_bytes": 97717,
+      "sha256": "cc95616c3f8e5acfdd8c97024a820dcb327fda419ec1f9bc365e5feea0a60b85",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0061_wakacje-kredytowe-prezes-uokik-nalozyl-blisko-119-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0062_jak-uczyc-malych-konsumentow-zapraszamy-na-webinar__48e43cc2",
+      "source_url": "https://uokik.gov.pl/jak-uczyc-malych-konsumentow-zapraszamy-na-webinar-dla-przedszkoli-i-edukatorow",
+      "archive_path": "_archive/uokik_news/uokik_news_0062_jak-uczyc-malych-konsumentow-zapraszamy-na-webinar__48e43cc2.html",
+      "content_type": "text/html",
+      "size_bytes": 82420,
+      "sha256": "1c1eaca388c1e6b0642994bdf308a4437af21ec6cb3058c16742d9519f4f8a99",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0062_jak-uczyc-malych-konsumentow-zapraszamy-na-webinar"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0063_kolejna-zmowa-przy-sprzedazy-maszyn-rolniczych-pre__85b12586",
+      "source_url": "https://uokik.gov.pl/kolejna-zmowa-przy-sprzedazy-maszyn-rolniczych-prezes-uokik-naklada-wysokie-kary",
+      "archive_path": "_archive/uokik_news/uokik_news_0063_kolejna-zmowa-przy-sprzedazy-maszyn-rolniczych-pre__85b12586.html",
+      "content_type": "text/html",
+      "size_bytes": 100757,
+      "sha256": "96469f2c5d6d16b7ec68864216b05a4d64d2c5584577e1223b8bd15814aeabe5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0063_kolejna-zmowa-przy-sprzedazy-maszyn-rolniczych-pre"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0064_uokik-gospodarzem-wspolnej-wizyty-studyjnej-czarno__032d5841",
+      "source_url": "https://uokik.gov.pl/uokik-gospodarzem-wspolnej-wizyty-studyjnej-czarnogory-i-albanii-w-ramach-programu-taiex",
+      "archive_path": "_archive/uokik_news/uokik_news_0064_uokik-gospodarzem-wspolnej-wizyty-studyjnej-czarno__032d5841.html",
+      "content_type": "text/html",
+      "size_bytes": 80561,
+      "sha256": "8d11b16b8c983b729c91d0a872081d78bb97e6ade385c6f421d89e5c995b9e23",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0064_uokik-gospodarzem-wspolnej-wizyty-studyjnej-czarno"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0066_rabat-i-kara-play-nieslusznie-pobiera-oplaty-od-kl__797ddb12",
+      "source_url": "https://uokik.gov.pl/rabat-i-kara-play-nieslusznie-pobiera-oplaty-od-klientow-decyzja-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0066_rabat-i-kara-play-nieslusznie-pobiera-oplaty-od-kl__797ddb12.html",
+      "content_type": "text/html",
+      "size_bytes": 96116,
+      "sha256": "1577a2cff73da3f8f932c2c3193f568d13ea37a9bf5ff57416be3639925997c7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0066_rabat-i-kara-play-nieslusznie-pobiera-oplaty-od-kl"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0067_zmowa-przy-sprzedazy-maszyn-rolniczych-deyzja-prez__f5f193fd",
+      "source_url": "https://uokik.gov.pl/zmowa-przy-sprzedazy-maszyn-rolniczych-deyzja-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0067_zmowa-przy-sprzedazy-maszyn-rolniczych-deyzja-prez__f5f193fd.html",
+      "content_type": "text/html",
+      "size_bytes": 98550,
+      "sha256": "2f10834d6891207e5b5ba0023672cb9d939b18349ccae5fcd4a99ccf1a771b23",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0067_zmowa-przy-sprzedazy-maszyn-rolniczych-deyzja-prez"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0069_uokik-na-rzecz-prawa-konkurencji-w-icn__a5504848",
+      "source_url": "https://uokik.gov.pl/uokik-na-rzecz-prawa-konkurencji-w-icn",
+      "archive_path": "_archive/uokik_news/uokik_news_0069_uokik-na-rzecz-prawa-konkurencji-w-icn__a5504848.html",
+      "content_type": "text/html",
+      "size_bytes": 81974,
+      "sha256": "091bb7947219e3a36147dc4918ffa6e370fe6d5686a51d47c4c6e1a36ade1847",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0069_uokik-na-rzecz-prawa-konkurencji-w-icn"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0070_bezprawne-podwyzki-abonamentu-kolejna-kara-prezesa__ad5905e0",
+      "source_url": "https://uokik.gov.pl/bezprawne-podwyzki-abonamentu-kolejna-kara-prezesa-uokik-dla-vectry",
+      "archive_path": "_archive/uokik_news/uokik_news_0070_bezprawne-podwyzki-abonamentu-kolejna-kara-prezesa__ad5905e0.html",
+      "content_type": "text/html",
+      "size_bytes": 94470,
+      "sha256": "436d412d898b8b8cc8c000651e487e0276ae7e96219bcc32a1d460c9499e33f0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0070_bezprawne-podwyzki-abonamentu-kolejna-kara-prezesa"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0071_gdy-promocja-nie-mowi-tego-co-wazne-blisko-105-mln__2b18e79f",
+      "source_url": "https://uokik.gov.pl/gdy-promocja-nie-mowi-tego-co-wazne-blisko-105-mln-zl-kary-dla-biedronki",
+      "archive_path": "_archive/uokik_news/uokik_news_0071_gdy-promocja-nie-mowi-tego-co-wazne-blisko-105-mln__2b18e79f.html",
+      "content_type": "text/html",
+      "size_bytes": 97509,
+      "sha256": "f17a5092c175066f12e4117f5a1aa26e3d906dbbb8fc8009f148acb9ed869691",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0071_gdy-promocja-nie-mowi-tego-co-wazne-blisko-105-mln"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0072_nie-daj-sie-zrobic-na-mega-szaro-w-black-friday-po__7f0e188a",
+      "source_url": "https://uokik.gov.pl/nie-daj-sie-zrobic-na-mega-szaro-w-black-friday-porady-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0072_nie-daj-sie-zrobic-na-mega-szaro-w-black-friday-po__7f0e188a.html",
+      "content_type": "text/html",
+      "size_bytes": 95593,
+      "sha256": "f32579fc4017d25a8366306aaa8b23c27fa27e6f02a3fed72e7fee22f2163618",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0072_nie-daj-sie-zrobic-na-mega-szaro-w-black-friday-po"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0073_rekompensaty-za-subskrypcje-realizowane-tylnymi-dr__d2acdd8b",
+      "source_url": "https://uokik.gov.pl/rekompensaty-za-subskrypcje-realizowane-tylnymi-drzwiami-decyzja-prezesa-uokik-wobec-t-mobile",
+      "archive_path": "_archive/uokik_news/uokik_news_0073_rekompensaty-za-subskrypcje-realizowane-tylnymi-dr__d2acdd8b.html",
+      "content_type": "text/html",
+      "size_bytes": 97919,
+      "sha256": "abc4f17dbd8121fc0ee905ae4bae125ff87b9e51710c20b5d03be2e5c84312e9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0073_rekompensaty-za-subskrypcje-realizowane-tylnymi-dr"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0074_czy-apple-ogranicza-konkurencje-prezes-uokik-stawi__00e0ef1f",
+      "source_url": "https://uokik.gov.pl/czy-apple-ogranicza-konkurencje-prezes-uokik-stawia-zarzuty",
+      "archive_path": "_archive/uokik_news/uokik_news_0074_czy-apple-ogranicza-konkurencje-prezes-uokik-stawi__00e0ef1f.html",
+      "content_type": "text/html",
+      "size_bytes": 94687,
+      "sha256": "7955c11495afa5c51405c10f318119854ec791d66cfc1cf1b39c296ca3e6edc4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0074_czy-apple-ogranicza-konkurencje-prezes-uokik-stawi"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0075_uokik-przewodniczy-nowemu-projektowi-icpen-dotycza__7284ef63",
+      "source_url": "https://uokik.gov.pl/uokik-przewodniczy-nowemu-projektowi-icpen-dotyczacemu-wykorzystania-ai-w-ochronie-konsumentow",
+      "archive_path": "_archive/uokik_news/uokik_news_0075_uokik-przewodniczy-nowemu-projektowi-icpen-dotycza__7284ef63.html",
+      "content_type": "text/html",
+      "size_bytes": 83086,
+      "sha256": "7177e5a72fe2391526d7ed93f96cd51be76679f4d84a7a72176bfd0c580c4570",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0075_uokik-przewodniczy-nowemu-projektowi-icpen-dotycza"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0076_wazna-decyzja-prezesa-uokik-w-sprawie-reklamacji-w__2bd62e48",
+      "source_url": "https://uokik.gov.pl/wazna-decyzja-prezesa-uokik-w-sprawie-reklamacji-wysokie-rekompensaty-dla-klientow-pekao-sa",
+      "archive_path": "_archive/uokik_news/uokik_news_0076_wazna-decyzja-prezesa-uokik-w-sprawie-reklamacji-w__2bd62e48.html",
+      "content_type": "text/html",
+      "size_bytes": 97563,
+      "sha256": "bc572111a379e625016ba6302dbf859deb6314a1c56f7c7105fa84f5be494f7f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0076_wazna-decyzja-prezesa-uokik-w-sprawie-reklamacji-w"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0077_powodztwa-przedstawicielskie-pierwsza-organizacja__13f1d24c",
+      "source_url": "https://uokik.gov.pl/powodztwa-przedstawicielskie-pierwsza-organizacja-konsumencka-wpisana-do-rejestru-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0077_powodztwa-przedstawicielskie-pierwsza-organizacja__13f1d24c.html",
+      "content_type": "text/html",
+      "size_bytes": 90261,
+      "sha256": "d3c88259bd7df00415c329649af3ab57d3a8401941c05f29bb523095f8e61d72",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0077_powodztwa-przedstawicielskie-pierwsza-organizacja-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0078_jak-uniknac-kary-za-zmowe-prezes-uokik-wydal-wyjas__0fca62d4",
+      "source_url": "https://uokik.gov.pl/jak-uniknac-kary-za-zmowe-prezes-uokik-wydal-wyjasnienia",
+      "archive_path": "_archive/uokik_news/uokik_news_0078_jak-uniknac-kary-za-zmowe-prezes-uokik-wydal-wyjas__0fca62d4.html",
+      "content_type": "text/html",
+      "size_bytes": 91001,
+      "sha256": "97117baf7a6ebe81d0df365d55571116fb6b57eeebe906079fe9e8e29b2771cd",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0078_jak-uniknac-kary-za-zmowe-prezes-uokik-wydal-wyjas"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0080_uszkodzony-lub-opozniony-bagaz-prezes-uokik-stawia__a7e9e45f",
+      "source_url": "https://uokik.gov.pl/uszkodzony-lub-opozniony-bagaz-prezes-uokik-stawia-zarzuty-pll-lot",
+      "archive_path": "_archive/uokik_news/uokik_news_0080_uszkodzony-lub-opozniony-bagaz-prezes-uokik-stawia__a7e9e45f.html",
+      "content_type": "text/html",
+      "size_bytes": 92944,
+      "sha256": "2a473101963d989dbab1d50bd51186a2544cae0170fb5657f753218b8fbf27e5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0080_uszkodzony-lub-opozniony-bagaz-prezes-uokik-stawia"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0082_posnet-polska-postepowanie-wyjasniajace-i-przeszuk__83ae0309",
+      "source_url": "https://uokik.gov.pl/posnet-polska-postepowanie-wyjasniajace-i-przeszukania",
+      "archive_path": "_archive/uokik_news/uokik_news_0082_posnet-polska-postepowanie-wyjasniajace-i-przeszuk__83ae0309.html",
+      "content_type": "text/html",
+      "size_bytes": 91008,
+      "sha256": "86abfc5f43a87ddce8b7a0dae58d3f8a189769c1bb7345bd1416d2ee3067e523",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0082_posnet-polska-postepowanie-wyjasniajace-i-przeszuk"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0083_reklama-skierowana-do-dzieci-uokik-sprawdza-media__9b10a4f0",
+      "source_url": "https://uokik.gov.pl/reklama-skierowana-do-dzieci-uokik-sprawdza-media-spolecznosciowe",
+      "archive_path": "_archive/uokik_news/uokik_news_0083_reklama-skierowana-do-dzieci-uokik-sprawdza-media__9b10a4f0.html",
+      "content_type": "text/html",
+      "size_bytes": 96794,
+      "sha256": "30d399536f0ab2e6bcc02690aef4389adfa83954b46837634dc831ee42476056",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0083_reklama-skierowana-do-dzieci-uokik-sprawdza-media-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0085_oplaty-w-telefonii-na-karte-polkomtel-z-zarzutami__99184f76",
+      "source_url": "https://uokik.gov.pl/oplaty-w-telefonii-na-karte-polkomtel-z-zarzutami-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0085_oplaty-w-telefonii-na-karte-polkomtel-z-zarzutami__99184f76.html",
+      "content_type": "text/html",
+      "size_bytes": 95758,
+      "sha256": "0cb755f1c3536527c3b34830cdd50900dff875b3a1dd1decc158514a17821be6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0085_oplaty-w-telefonii-na-karte-polkomtel-z-zarzutami-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0086_uokik-rozwija-wspolprace-z-armenia-w-ramach-progra__8f65519f",
+      "source_url": "https://uokik.gov.pl/uokik-rozwija-wspolprace-z-armenia-w-ramach-programu-polska-pomoc",
+      "archive_path": "_archive/uokik_news/uokik_news_0086_uokik-rozwija-wspolprace-z-armenia-w-ramach-progra__8f65519f.html",
+      "content_type": "text/html",
+      "size_bytes": 84970,
+      "sha256": "a47792091fca01d5281c8b6de76fb7eff04efff58cc8936bee736edd15844dda",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0086_uokik-rozwija-wspolprace-z-armenia-w-ramach-progra"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0088_nieterminowe-platnosci-kolejni-przedsiebiorcy-pod__0911af1f",
+      "source_url": "https://uokik.gov.pl/nieterminowe-platnosci-kolejni-przedsiebiorcy-pod-lupa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0088_nieterminowe-platnosci-kolejni-przedsiebiorcy-pod__0911af1f.html",
+      "content_type": "text/html",
+      "size_bytes": 91389,
+      "sha256": "7d35fbbef5591a43db559095817b37d648f93b7a61768f3791eed29eec7e2c8c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0088_nieterminowe-platnosci-kolejni-przedsiebiorcy-pod-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0089_rejsy-podwyzszonego-ryzyka-prezes-uokik-nalozyl-ka__218c3047",
+      "source_url": "https://uokik.gov.pl/rejsy-podwyzszonego-ryzyka-prezes-uokik-nalozyl-kare-za-praktyki-serwisu-incruises",
+      "archive_path": "_archive/uokik_news/uokik_news_0089_rejsy-podwyzszonego-ryzyka-prezes-uokik-nalozyl-ka__218c3047.html",
+      "content_type": "text/html",
+      "size_bytes": 97539,
+      "sha256": "8cb08b2321035be617e63f8841d7b72ca252c92e2016c5df201b44e5c2d34337",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0089_rejsy-podwyzszonego-ryzyka-prezes-uokik-nalozyl-ka"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0090_pompy-ciepla-wspolne-dzialania-uokik-ih-i-kas__ac8a0c40",
+      "source_url": "https://uokik.gov.pl/pompy-ciepla-wspolne-dzialania-uokik-ih-i-kas",
+      "archive_path": "_archive/uokik_news/uokik_news_0090_pompy-ciepla-wspolne-dzialania-uokik-ih-i-kas__ac8a0c40.html",
+      "content_type": "text/html",
+      "size_bytes": 96723,
+      "sha256": "d8352d787329d28657ab9ae8624cc115d4ce8760a1e9ea2b5b37fb368c5a2222",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0090_pompy-ciepla-wspolne-dzialania-uokik-ih-i-kas"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0091_czysta-energia-na-czystych-zasadach-dzialania-prez__98a2d6bc",
+      "source_url": "https://uokik.gov.pl/czysta-energia-na-czystych-zasadach-dzialania-prezesa-uokik-w-branzy-oze",
+      "archive_path": "_archive/uokik_news/uokik_news_0091_czysta-energia-na-czystych-zasadach-dzialania-prez__98a2d6bc.html",
+      "content_type": "text/html",
+      "size_bytes": 99649,
+      "sha256": "4c30973896bc8e627ca4497b7163de853908ef9e05ecec94edc02c88fa53a3c3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0091_czysta-energia-na-czystych-zasadach-dzialania-prez"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0092_anulowane-i-opoznione-zamowienia-z-empik-rekompens__121b0c16",
+      "source_url": "https://uokik.gov.pl/anulowane-i-opoznione-zamowienia-z-empik-rekompensaty-dla-klientow",
+      "archive_path": "_archive/uokik_news/uokik_news_0092_anulowane-i-opoznione-zamowienia-z-empik-rekompens__121b0c16.html",
+      "content_type": "text/html",
+      "size_bytes": 93903,
+      "sha256": "38b5977af86131a66411e170658635015603908d09b1a8f5d956956db3344b13",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0092_anulowane-i-opoznione-zamowienia-z-empik-rekompens"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0093_dzien-edukacji-finansowej-badz-z-nami-22-pazdziern__d97dc783",
+      "source_url": "https://uokik.gov.pl/dzien-edukacji-finansowej-badz-z-nami-22-pazdziernika",
+      "archive_path": "_archive/uokik_news/uokik_news_0093_dzien-edukacji-finansowej-badz-z-nami-22-pazdziern__d97dc783.html",
+      "content_type": "text/html",
+      "size_bytes": 78793,
+      "sha256": "df45d013682791705b6169c111f585ea447a981ad84ead206e7efb242aef1eec",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0093_dzien-edukacji-finansowej-badz-z-nami-22-pazdziern"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0095_magistrze-wez-udzial-w-konkursie-prezesa-uokik-202__78b1463e",
+      "source_url": "https://uokik.gov.pl/magistrze-wez-udzial-w-konkursie-prezesa-uokik-2025",
+      "archive_path": "_archive/uokik_news/uokik_news_0095_magistrze-wez-udzial-w-konkursie-prezesa-uokik-202__78b1463e.html",
+      "content_type": "text/html",
+      "size_bytes": 89544,
+      "sha256": "e4de5ba467762d23653bb6f56c4bbe908b3993f13fc511b668d74cb59cb96610",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0095_magistrze-wez-udzial-w-konkursie-prezesa-uokik-202"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0096_konkurs-uokik-dla-ngo-na-poradnictwo-konsumenckie__d661aaad",
+      "source_url": "https://uokik.gov.pl/konkurs-uokik-dla-ngo-na-poradnictwo-konsumenckie",
+      "archive_path": "_archive/uokik_news/uokik_news_0096_konkurs-uokik-dla-ngo-na-poradnictwo-konsumenckie__d661aaad.html",
+      "content_type": "text/html",
+      "size_bytes": 78484,
+      "sha256": "0f1b7c625b8732a8a4ad43ffe3a9b01b1f0865353dcc50d8c3fa95b848095dba",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0096_konkurs-uokik-dla-ngo-na-poradnictwo-konsumenckie"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0097_kolejne-zarzuty-prezesa-uokik-w-sprawie-wykorzysta__9537a559",
+      "source_url": "https://uokik.gov.pl/kolejne-zarzuty-prezesa-uokik-w-sprawie-wykorzystania-przewagi-kontraktowej-wobec-rolnikow",
+      "archive_path": "_archive/uokik_news/uokik_news_0097_kolejne-zarzuty-prezesa-uokik-w-sprawie-wykorzysta__9537a559.html",
+      "content_type": "text/html",
+      "size_bytes": 95327,
+      "sha256": "141f26048d6b98ca1dc1c415a4cedf20dee8630402abb09b853e550db04e3dc3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0097_kolejne-zarzuty-prezesa-uokik-w-sprawie-wykorzysta"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0099_kolejna-zmowa-na-rynku-pracy-prezes-uokik-wszczyna__b0688af6",
+      "source_url": "https://uokik.gov.pl/kolejna-zmowa-na-rynku-pracy-prezes-uokik-wszczyna-postepowanie-wyjasniajace",
+      "archive_path": "_archive/uokik_news/uokik_news_0099_kolejna-zmowa-na-rynku-pracy-prezes-uokik-wszczyna__b0688af6.html",
+      "content_type": "text/html",
+      "size_bytes": 92336,
+      "sha256": "713e07a976991e5dbf689fab453b5b3ec4425597964d9b77ce76f8f1c06a7ac0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0099_kolejna-zmowa-na-rynku-pracy-prezes-uokik-wszczyna"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0100_uokik-awansuje-w-rankingu-organow-ochrony-konkuren__0121dafc",
+      "source_url": "https://uokik.gov.pl/uokik-awansuje-w-rankingu-organow-ochrony-konkurencji-na-swiecie",
+      "archive_path": "_archive/uokik_news/uokik_news_0100_uokik-awansuje-w-rankingu-organow-ochrony-konkuren__0121dafc.html",
+      "content_type": "text/html",
+      "size_bytes": 89174,
+      "sha256": "72e11160273a821aa7f5db0c2263a1e07b05c61b91339c33b5de5c894295ecd1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0100_uokik-awansuje-w-rankingu-organow-ochrony-konkuren"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0101_pelen-edukacji-swiatowy-tydzien-inwestora__ae4c201f",
+      "source_url": "https://uokik.gov.pl/pelen-edukacji-swiatowy-tydzien-inwestora",
+      "archive_path": "_archive/uokik_news/uokik_news_0101_pelen-edukacji-swiatowy-tydzien-inwestora__ae4c201f.html",
+      "content_type": "text/html",
+      "size_bytes": 76994,
+      "sha256": "c3f040d6e04210ab6a8f25abef339eb3c2c321e585ede549ec958783e9598cd9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0101_pelen-edukacji-swiatowy-tydzien-inwestora"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0103_dostawy-gazomierzy-prezes-uokik-stawia-zarzuty-czt__b774768d",
+      "source_url": "https://uokik.gov.pl/dostawy-gazomierzy-prezes-uokik-stawia-zarzuty-czterem-spolkom",
+      "archive_path": "_archive/uokik_news/uokik_news_0103_dostawy-gazomierzy-prezes-uokik-stawia-zarzuty-czt__b774768d.html",
+      "content_type": "text/html",
+      "size_bytes": 91774,
+      "sha256": "9e8e29b3ad96405a10f63711b9a92e95a65e14badf205d05703686a3e554bf1e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0103_dostawy-gazomierzy-prezes-uokik-stawia-zarzuty-czt"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0104_uokik-wspiera-armenie-w-rozwoju-ochrony-konsumento__cf5c6b8e",
+      "source_url": "https://uokik.gov.pl/uokik-wspiera-armenie-w-rozwoju-ochrony-konsumentow-i-konkurencji-w-ramach-polskiej-pomocy",
+      "archive_path": "_archive/uokik_news/uokik_news_0104_uokik-wspiera-armenie-w-rozwoju-ochrony-konsumento__cf5c6b8e.html",
+      "content_type": "text/html",
+      "size_bytes": 84305,
+      "sha256": "a15a593d375ba047be0bf6422c9a1f4ce4ba08b9a04fc867bfa2bf4a8843c3b0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0104_uokik-wspiera-armenie-w-rozwoju-ochrony-konsumento"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0105_pozytywna-ocena-nik-dla-uokik__16a6e197",
+      "source_url": "https://uokik.gov.pl/pozytywna-ocena-nik-dla-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0105_pozytywna-ocena-nik-dla-uokik__16a6e197.html",
+      "content_type": "text/html",
+      "size_bytes": 85949,
+      "sha256": "ad94865ddb4ae31dbfd620e7e0d5b551c0b406be290e56a3b50a5e9d448cd52b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0105_pozytywna-ocena-nik-dla-uokik"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0106_zmowa-przy-skupie-owocow-miekkich-prezes-uokik-sta__f8bab47d",
+      "source_url": "https://uokik.gov.pl/zmowa-przy-skupie-owocow-miekkich-prezes-uokik-stawia-zarzuty",
+      "archive_path": "_archive/uokik_news/uokik_news_0106_zmowa-przy-skupie-owocow-miekkich-prezes-uokik-sta__f8bab47d.html",
+      "content_type": "text/html",
+      "size_bytes": 93821,
+      "sha256": "427e5432a538509512be6ac3b7afafa4fb68fa278b30cf21c76feeed6a8e8312",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0106_zmowa-przy-skupie-owocow-miekkich-prezes-uokik-sta"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0108_krajowy-rynek-slodu-do-produkcji-piwa-raport-uokik__f0fb5f27",
+      "source_url": "https://uokik.gov.pl/krajowy-rynek-slodu-do-produkcji-piwa-raport-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0108_krajowy-rynek-slodu-do-produkcji-piwa-raport-uokik__f0fb5f27.html",
+      "content_type": "text/html",
+      "size_bytes": 89570,
+      "sha256": "9be3592d6b42a4c6c262b4ff0f499fcc00c180928267d066027fe35b1e575c23",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0108_krajowy-rynek-slodu-do-produkcji-piwa-raport-uokik"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0109_uokik-gospodarzem-wizyty-studyjnej-taiex-z-udziale__86de9165",
+      "source_url": "https://uokik.gov.pl/uokik-gospodarzem-wizyty-studyjnej-taiex-z-udzialem-peru",
+      "archive_path": "_archive/uokik_news/uokik_news_0109_uokik-gospodarzem-wizyty-studyjnej-taiex-z-udziale__86de9165.html",
+      "content_type": "text/html",
+      "size_bytes": 81719,
+      "sha256": "5e7c749182150a3fddd111e5d8a1981c26f68bc358160434d6be10dc47d29952",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0109_uokik-gospodarzem-wizyty-studyjnej-taiex-z-udziale"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0111_pan-paragon-edukuje-uokik-dla-najmlodszych__9742df27",
+      "source_url": "https://uokik.gov.pl/pan-paragon-edukuje-uokik-dla-najmlodszych",
+      "archive_path": "_archive/uokik_news/uokik_news_0111_pan-paragon-edukuje-uokik-dla-najmlodszych__9742df27.html",
+      "content_type": "text/html",
+      "size_bytes": 94696,
+      "sha256": "3e566fa3002b9d117a5e9b47d82b81bebe1bbeeee18ca183225d4b0afc80d754",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0111_pan-paragon-edukuje-uokik-dla-najmlodszych"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0112_rusza-summer-camp-uokik-2025-praktyczne-warsztaty__65c0bf85",
+      "source_url": "https://uokik.gov.pl/rusza-summer-camp-uokik-2025-praktyczne-warsztaty-i-spotkania-z-ekspertami",
+      "archive_path": "_archive/uokik_news/uokik_news_0112_rusza-summer-camp-uokik-2025-praktyczne-warsztaty__65c0bf85.html",
+      "content_type": "text/html",
+      "size_bytes": 88650,
+      "sha256": "8b4d721c86dd7f001cb1c926776376d3928ba7f6c33560b87938a52539de6a99",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0112_rusza-summer-camp-uokik-2025-praktyczne-warsztaty-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0114_ceny-promocyjne-biedronki-z-zarzutami-prezesa-uoki__a5e6e3f9",
+      "source_url": "https://uokik.gov.pl/ceny-promocyjne-biedronki-z-zarzutami-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0114_ceny-promocyjne-biedronki-z-zarzutami-prezesa-uoki__a5e6e3f9.html",
+      "content_type": "text/html",
+      "size_bytes": 96229,
+      "sha256": "dc6932468f43798d31f6b34c7ea2cb512f6878a410c03c3c170fa0e0af8705ea",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0114_ceny-promocyjne-biedronki-z-zarzutami-prezesa-uoki"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0116_kolej-na-zmiany-raport-uokik-o-kolejowych-przewoza__5abd4ee5",
+      "source_url": "https://uokik.gov.pl/kolej-na-zmiany-raport-uokik-o-kolejowych-przewozach-pasazerskich",
+      "archive_path": "_archive/uokik_news/uokik_news_0116_kolej-na-zmiany-raport-uokik-o-kolejowych-przewoza__5abd4ee5.html",
+      "content_type": "text/html",
+      "size_bytes": 91805,
+      "sha256": "bc6c20b1dcabae372ad1c018eb70f322684de48acb394b1ddd989894879856dc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0116_kolej-na-zmiany-raport-uokik-o-kolejowych-przewoza"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0117_czy-wiesz-ze-lekcje-dla-kazdego__80fa05cf",
+      "source_url": "https://uokik.gov.pl/czy-wiesz-ze-lekcje-dla-kazdego",
+      "archive_path": "_archive/uokik_news/uokik_news_0117_czy-wiesz-ze-lekcje-dla-kazdego__80fa05cf.html",
+      "content_type": "text/html",
+      "size_bytes": 92269,
+      "sha256": "94d5a692ae7127354156fe4e6abaacfc635ea81d3656aa55246939f822b76716",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0117_czy-wiesz-ze-lekcje-dla-kazdego"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0118_dieselgate-ugoda-i-prawomocna-decyzja-prezesa-uoki__86b47a6e",
+      "source_url": "https://uokik.gov.pl/dieselgate-ugoda-i-prawomocna-decyzja-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0118_dieselgate-ugoda-i-prawomocna-decyzja-prezesa-uoki__86b47a6e.html",
+      "content_type": "text/html",
+      "size_bytes": 94351,
+      "sha256": "214ec4d3b86be676ab15c2ab2d0e83a05ea00ff22fb1eeaba169a300c5cb2fa6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0118_dieselgate-ugoda-i-prawomocna-decyzja-prezesa-uoki"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0119_podwyzka-na-autopilocie-netflix-zmienia-ceny-bez-w__a42e666d",
+      "source_url": "https://uokik.gov.pl/podwyzka-na-autopilocie-netflix-zmienia-ceny-bez-wyraznej-zgody-subskrybentow",
+      "archive_path": "_archive/uokik_news/uokik_news_0119_podwyzka-na-autopilocie-netflix-zmienia-ceny-bez-w__a42e666d.html",
+      "content_type": "text/html",
+      "size_bytes": 95020,
+      "sha256": "df1dfe7781efefd9fc55b2d5ac6179608a50c9f3d4db7bb759c8d6ddd5e90764",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0119_podwyzka-na-autopilocie-netflix-zmienia-ceny-bez-w"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0121_zatory-platnicze-dzialania-prezesa-uokik__78a3bdeb",
+      "source_url": "https://uokik.gov.pl/zatory-platnicze-dzialania-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0121_zatory-platnicze-dzialania-prezesa-uokik__78a3bdeb.html",
+      "content_type": "text/html",
+      "size_bytes": 90546,
+      "sha256": "72f46166febd3d30302fb6e79932ee48023e630b5f34bfff7b2962482fb19742",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0121_zatory-platnicze-dzialania-prezesa-uokik"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0123_bookingcom-decyzja-prezesa-uokik__512e1e1d",
+      "source_url": "https://uokik.gov.pl/bookingcom-decyzja-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0123_bookingcom-decyzja-prezesa-uokik__512e1e1d.html",
+      "content_type": "text/html",
+      "size_bytes": 94658,
+      "sha256": "c883f68ae8512a93d31e983df40eab4d93b589da90473657fc93511fc082747a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0123_bookingcom-decyzja-prezesa-uokik"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0125_obowiazkowe-dodatki-dodatkowe-koszty-dla-pozyczaja__6a9780b5",
+      "source_url": "https://uokik.gov.pl/obowiazkowe-dodatki-dodatkowe-koszty-dla-pozyczajacych-prezes-uokik-stawia-zarzuty",
+      "archive_path": "_archive/uokik_news/uokik_news_0125_obowiazkowe-dodatki-dodatkowe-koszty-dla-pozyczaja__6a9780b5.html",
+      "content_type": "text/html",
+      "size_bytes": 97658,
+      "sha256": "aed27819c0d1f4b2909439b6d9c6d3ae0fb4c9ae3e1b285267ce4e7e75e27a14",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0125_obowiazkowe-dodatki-dodatkowe-koszty-dla-pozyczaja"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0126_prezes-uokik-zobowiazal-wodociagi-zachodniopomorsk__c9564201",
+      "source_url": "https://uokik.gov.pl/prezes-uokik-zobowiazal-wodociagi-zachodniopomorskie-do-zmiany-praktyk",
+      "archive_path": "_archive/uokik_news/uokik_news_0126_prezes-uokik-zobowiazal-wodociagi-zachodniopomorsk__c9564201.html",
+      "content_type": "text/html",
+      "size_bytes": 97339,
+      "sha256": "c58a32818937bf60a8f447582780d111eed5cd32f82b8bb47f10210a67614007",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0126_prezes-uokik-zobowiazal-wodociagi-zachodniopomorsk"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0127_ekosciema-prezes-uokik-stawia-zarzuty-allegro-dhl__9138f7f2",
+      "source_url": "https://uokik.gov.pl/ekosciema-prezes-uokik-stawia-zarzuty-allegro-dhl-dpd-i-inpost",
+      "archive_path": "_archive/uokik_news/uokik_news_0127_ekosciema-prezes-uokik-stawia-zarzuty-allegro-dhl__9138f7f2.html",
+      "content_type": "text/html",
+      "size_bytes": 106396,
+      "sha256": "80435f2e91801756cfcb62c1e590a5f3bbd60a53d53e43e14b7a859b84d6ef8a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0127_ekosciema-prezes-uokik-stawia-zarzuty-allegro-dhl-"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0128_ile-to-wlasciwie-kosztuje-bez-rabatu-orange-i-t-mo__61f5bced",
+      "source_url": "https://uokik.gov.pl/ile-to-wlasciwie-kosztuje-bez-rabatu-orange-i-t-mobile-z-zarzutami-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0128_ile-to-wlasciwie-kosztuje-bez-rabatu-orange-i-t-mo__61f5bced.html",
+      "content_type": "text/html",
+      "size_bytes": 95790,
+      "sha256": "289067744fc79e03174f0d8c625972516543d2e6b1f5fdb747a03343223015a5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0128_ile-to-wlasciwie-kosztuje-bez-rabatu-orange-i-t-mo"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0129_rower-tylko-zza-lady-kara-dla-scott-sportech-polan__6a98f788",
+      "source_url": "https://uokik.gov.pl/rower-tylko-zza-lady-kara-dla-scott-sportech-poland",
+      "archive_path": "_archive/uokik_news/uokik_news_0129_rower-tylko-zza-lady-kara-dla-scott-sportech-polan__6a98f788.html",
+      "content_type": "text/html",
+      "size_bytes": 96153,
+      "sha256": "77fb0b9287ea704c14b611dbad10870ee7e9d8a5e86af0b6bef36a4e00688b26",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0129_rower-tylko-zza-lady-kara-dla-scott-sportech-polan"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0131_infolinie-dzialania-prezesa-uokik__30864ab5",
+      "source_url": "https://uokik.gov.pl/infolinie-dzialania-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0131_infolinie-dzialania-prezesa-uokik__30864ab5.html",
+      "content_type": "text/html",
+      "size_bytes": 90870,
+      "sha256": "d06f34d80d9b1632593d0d0fcaebd6915b49f9e7e71fe1130ec6da812d921aed",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0131_infolinie-dzialania-prezesa-uokik"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0132_zmowa-na-rynku-pracy-prezes-uokik-stawia-zarzuty-b__caec4c82",
+      "source_url": "https://uokik.gov.pl/zmowa-na-rynku-pracy-prezes-uokik-stawia-zarzuty-biedronce-i-firmom-transportowym",
+      "archive_path": "_archive/uokik_news/uokik_news_0132_zmowa-na-rynku-pracy-prezes-uokik-stawia-zarzuty-b__caec4c82.html",
+      "content_type": "text/html",
+      "size_bytes": 95069,
+      "sha256": "8ebee0f8f703fb78b24a6a250a9f797846abb346e2693f74cfe6ae626bdff99b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0132_zmowa-na-rynku-pracy-prezes-uokik-stawia-zarzuty-b"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0133_niebezpieczna-chemia-w-bizuterii-dzialania-uokik-i__2c7d4626",
+      "source_url": "https://uokik.gov.pl/niebezpieczna-chemia-w-bizuterii-dzialania-uokik-ih-i-kas",
+      "archive_path": "_archive/uokik_news/uokik_news_0133_niebezpieczna-chemia-w-bizuterii-dzialania-uokik-i__2c7d4626.html",
+      "content_type": "text/html",
+      "size_bytes": 93662,
+      "sha256": "50881a6993c1679bbaa8d2aacf596b97e964357e821a87768c5b440c008f87ef",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0133_niebezpieczna-chemia-w-bizuterii-dzialania-uokik-i"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0134_niedozwolone-zmiany-w-umowie-zwroty-i-rekompensaty__a8c280a2",
+      "source_url": "https://uokik.gov.pl/niedozwolone-zmiany-w-umowie-zwroty-i-rekompensaty-od-paypal",
+      "archive_path": "_archive/uokik_news/uokik_news_0134_niedozwolone-zmiany-w-umowie-zwroty-i-rekompensaty__a8c280a2.html",
+      "content_type": "text/html",
+      "size_bytes": 97474,
+      "sha256": "ec03d5fbfdd9da939db6cf087c2805ba737d98b9476357cdcd66af6b5569b1a1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0134_niedozwolone-zmiany-w-umowie-zwroty-i-rekompensaty"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0135_kiedy-torebka-staje-sie-bagazem-koncertowe-zagrani__8118438a",
+      "source_url": "https://uokik.gov.pl/kiedy-torebka-staje-sie-bagazem-koncertowe-zagrania-live-nation",
+      "archive_path": "_archive/uokik_news/uokik_news_0135_kiedy-torebka-staje-sie-bagazem-koncertowe-zagrani__8118438a.html",
+      "content_type": "text/html",
+      "size_bytes": 94346,
+      "sha256": "284c4112b0c684723b0a4c7e2e79ddb325b19b6404397330e98595549cb49fbb",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0135_kiedy-torebka-staje-sie-bagazem-koncertowe-zagrani"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0136_scianki-dzialowe-a-wielkosc-lokali-dzialania-preze__58b1339b",
+      "source_url": "https://uokik.gov.pl/scianki-dzialowe-a-wielkosc-lokali-dzialania-prezesa-uokik",
+      "archive_path": "_archive/uokik_news/uokik_news_0136_scianki-dzialowe-a-wielkosc-lokali-dzialania-preze__58b1339b.html",
+      "content_type": "text/html",
+      "size_bytes": 105037,
+      "sha256": "051b55d09a20e26967026ff97b9735f85367cd846615ad402f244ca69113f1a4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0136_scianki-dzialowe-a-wielkosc-lokali-dzialania-preze"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0137_zakupy-wysokiego-ryzyka-falszywe-sklepy-udawane-po__144fe8d0",
+      "source_url": "https://uokik.gov.pl/zakupy-wysokiego-ryzyka-falszywe-sklepy-udawane-polskie-marki-nieuczciwi-posrednicy",
+      "archive_path": "_archive/uokik_news/uokik_news_0137_zakupy-wysokiego-ryzyka-falszywe-sklepy-udawane-po__144fe8d0.html",
+      "content_type": "text/html",
+      "size_bytes": 100467,
+      "sha256": "dffd08edc143bafbe40b2b62db2724ee25e5b7c6a0d4391a03d27412a113e6d4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0137_zakupy-wysokiego-ryzyka-falszywe-sklepy-udawane-po"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0138_wczesniejsza-splata-pozyczki-decyzja-prezesa-uokik__248d232a",
+      "source_url": "https://uokik.gov.pl/wczesniejsza-splata-pozyczki-decyzja-prezesa-uokik-wobec-profi-credit-polska",
+      "archive_path": "_archive/uokik_news/uokik_news_0138_wczesniejsza-splata-pozyczki-decyzja-prezesa-uokik__248d232a.html",
+      "content_type": "text/html",
+      "size_bytes": 96641,
+      "sha256": "900c035a0e13cacfc0fdfa4e1e437fa2b55aea67e0cc508dad7ae80eabd0a6ff",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0138_wczesniejsza-splata-pozyczki-decyzja-prezesa-uokik"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0139_studia-trwaly-oplaty-rosly-zarzuty-dla-uniwersytet__08dedccb",
+      "source_url": "https://uokik.gov.pl/studia-trwaly-oplaty-rosly-zarzuty-dla-uniwersytetu-swps-i-politechniki-lubelskiej",
+      "archive_path": "_archive/uokik_news/uokik_news_0139_studia-trwaly-oplaty-rosly-zarzuty-dla-uniwersytet__08dedccb.html",
+      "content_type": "text/html",
+      "size_bytes": 90893,
+      "sha256": "27a2022f00f6cc48d1e3ed9a1fecc9be05cac48e1a797a59f5b1b057698e1895",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0139_studia-trwaly-oplaty-rosly-zarzuty-dla-uniwersytet"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0141_kupiles-pakiet-w-play-za-korzystanie-z-niego-mozes__7b233f6e",
+      "source_url": "https://uokik.gov.pl/kupiles-pakiet-w-play-za-korzystanie-z-niego-mozesz-zaplacic-podwojnie",
+      "archive_path": "_archive/uokik_news/uokik_news_0141_kupiles-pakiet-w-play-za-korzystanie-z-niego-mozes__7b233f6e.html",
+      "content_type": "text/html",
+      "size_bytes": 93708,
+      "sha256": "5cf8f53d7120675e45b863d83f486544bdd4bd39987a253dbe44d2cc5b18c30a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0141_kupiles-pakiet-w-play-za-korzystanie-z-niego-mozes"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0142_czy-sprzedawcy-maszyn-rolniczych-podzielili-pomied__d1ee8675",
+      "source_url": "https://uokik.gov.pl/czy-sprzedawcy-maszyn-rolniczych-podzielili-pomiedzy-soba-rynek",
+      "archive_path": "_archive/uokik_news/uokik_news_0142_czy-sprzedawcy-maszyn-rolniczych-podzielili-pomied__d1ee8675.html",
+      "content_type": "text/html",
+      "size_bytes": 95195,
+      "sha256": "4b8f96daea5fcec7410435fba9ba0d07f4ceb59d39b980cc4521abf4e55197aa",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0142_czy-sprzedawcy-maszyn-rolniczych-podzielili-pomied"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "uokik_news_0144_bagaz-podreczny-czyli-jaki__849fe068",
+      "source_url": "https://uokik.gov.pl/bagaz-podreczny-czyli-jaki",
+      "archive_path": "_archive/uokik_news/uokik_news_0144_bagaz-podreczny-czyli-jaki__849fe068.html",
+      "content_type": "text/html",
+      "size_bytes": 89149,
+      "sha256": "51aabbbeaac2fe8a739d8d2e2388f0d875849a8ef127533da967a0780bad2234",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_news_0144_bagaz-podreczny-czyli-jaki"
+      ],
+      "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+      "http_status": 200
+    }
+  ],
+  "errors": []
+}

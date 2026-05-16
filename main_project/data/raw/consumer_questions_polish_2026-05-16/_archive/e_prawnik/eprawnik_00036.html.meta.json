@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00036",
+  "source_url": "https://e-prawnik.pl/forum/zmiana-szkoly-a-alimemty.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zmiana-szkoly-a-alimemty.html",
+  "archive_file": "e_prawnik/eprawnik_00036.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57371,
+  "sha256": "eebd8f72b3f60669e278628c2f0849442a0052fbdd92a06ca5a4e1f4aa08a0f0",
+  "download_date": "2026-05-16T07:23:27Z",
+  "duration_sec": 0.196,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

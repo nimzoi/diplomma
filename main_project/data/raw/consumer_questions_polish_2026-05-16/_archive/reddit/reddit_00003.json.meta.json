@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00003",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1bj82lq/młodzi_i_nieodpowiedzialni/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1bj82lq/młodzi_i_nieodpowiedzialni/.json",
+  "archive_file": "reddit/reddit_00003.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 298512,
+  "sha256": "fe732bec555f066c6ad4276709c1379a6ba7a0919833bbf881ce80707f4b0506",
+  "download_date": "2026-05-16T07:21:40Z",
+  "duration_sec": 0.739,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

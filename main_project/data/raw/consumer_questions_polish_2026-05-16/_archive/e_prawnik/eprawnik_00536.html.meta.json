@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00536",
+  "source_url": "https://e-prawnik.pl/forum/witam-mam-taki-problem-ponad-pol-roku-temu-oddalam-pile-spalinowa-do-serwisu-pan-serwisant-prze.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-mam-taki-problem-ponad-pol-roku-temu-oddalam-pile-spalinowa-do-serwisu-pan-serwisant-prze.html",
+  "archive_file": "e_prawnik/eprawnik_00536.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57892,
+  "sha256": "5d3a64651da2aab73194e6f51c269809e736a8c701351d1c0c8c13c06334b8bd",
+  "download_date": "2026-05-16T07:33:11Z",
+  "duration_sec": 0.212,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

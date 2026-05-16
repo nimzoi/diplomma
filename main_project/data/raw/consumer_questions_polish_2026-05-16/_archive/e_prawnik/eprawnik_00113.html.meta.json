@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00113",
+  "source_url": "https://e-prawnik.pl/forum/usuniecie-usterki-na-koszt-developera.html",
+  "fetch_url": "https://e-prawnik.pl/forum/usuniecie-usterki-na-koszt-developera.html",
+  "archive_file": "e_prawnik/eprawnik_00113.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57122,
+  "sha256": "7189c9ddccfb203e88303e412122a9b22cb908da3bb4705f6fde5a34117a7f43",
+  "download_date": "2026-05-16T07:24:56Z",
+  "duration_sec": 0.204,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

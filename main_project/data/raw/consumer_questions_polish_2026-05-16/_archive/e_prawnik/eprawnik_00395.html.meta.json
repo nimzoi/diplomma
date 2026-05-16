@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00395",
+  "source_url": "https://e-prawnik.pl/forum/kamerzysta-weselny-odmowa-wspolpracy-i-brak-umowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kamerzysta-weselny-odmowa-wspolpracy-i-brak-umowy.html",
+  "archive_file": "e_prawnik/eprawnik_00395.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54992,
+  "sha256": "6aa45b5669a662480cb566eab88de3b249875ff8891f98e9cbcc82a86a41bf8a",
+  "download_date": "2026-05-16T07:30:27Z",
+  "duration_sec": 0.135,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

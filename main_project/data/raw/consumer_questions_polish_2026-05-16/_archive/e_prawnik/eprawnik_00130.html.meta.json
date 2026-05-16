@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00130",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-i-zwrot.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-i-zwrot.html",
+  "archive_file": "e_prawnik/eprawnik_00130.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57621,
+  "sha256": "aa68a296785add546dfcb038518e8965fc741a69d373001320d496cafb7e051e",
+  "download_date": "2026-05-16T07:25:17Z",
+  "duration_sec": 0.231,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

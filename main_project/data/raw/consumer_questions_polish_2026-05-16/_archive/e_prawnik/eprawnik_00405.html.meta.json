@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00405",
+  "source_url": "https://e-prawnik.pl/forum/niezgodnosc-towaru-kupionego-przez-olx.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niezgodnosc-towaru-kupionego-przez-olx.html",
+  "archive_file": "e_prawnik/eprawnik_00405.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55317,
+  "sha256": "d8653754e5d86679130330985a7dd9e4810bf3eda9d4e2ec0c13da99bc3c4a4f",
+  "download_date": "2026-05-16T07:30:38Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

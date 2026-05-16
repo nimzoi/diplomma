@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00237",
+  "source_url": "https://e-prawnik.pl/forum/rekojmia-na-uzywana-rzecz.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rekojmia-na-uzywana-rzecz.html",
+  "archive_file": "e_prawnik/eprawnik_00237.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55073,
+  "sha256": "2aca5024360266cd5210dcf989323b423ff3433785df7bad7c96ac6a3c2805b8",
+  "download_date": "2026-05-16T07:27:20Z",
+  "duration_sec": 0.115,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

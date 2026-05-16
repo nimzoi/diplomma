@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00403",
+  "source_url": "https://e-prawnik.pl/forum/udokumentowanie-wydatkow-w-sprawie-cywilnej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/udokumentowanie-wydatkow-w-sprawie-cywilnej.html",
+  "archive_file": "e_prawnik/eprawnik_00403.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56737,
+  "sha256": "4b91c5fba77127f3bbe2a0c3749dac2d611b32b511a57e57c5494aa57f72a148",
+  "download_date": "2026-05-16T07:30:36Z",
+  "duration_sec": 0.165,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

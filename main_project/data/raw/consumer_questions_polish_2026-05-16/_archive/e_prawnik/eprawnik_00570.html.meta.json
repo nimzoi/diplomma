@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00570",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowania-energetyczne.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowania-energetyczne.html",
+  "archive_file": "e_prawnik/eprawnik_00570.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58953,
+  "sha256": "4e0684a81722160a08b1b1e7ea5a418df14f9a07f8e51ae4eb71af0cef8b310f",
+  "download_date": "2026-05-16T07:33:52Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

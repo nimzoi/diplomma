@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00499",
+  "source_url": "https://e-prawnik.pl/forum/allegro-sprzedaz-uzywki-a-prawo-do-rekojmi.html",
+  "fetch_url": "https://e-prawnik.pl/forum/allegro-sprzedaz-uzywki-a-prawo-do-rekojmi.html",
+  "archive_file": "e_prawnik/eprawnik_00499.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57088,
+  "sha256": "9d35f2fb3c8960c87e789557e3627bd9a313dbf03ec530bb1b52d23fa7070849",
+  "download_date": "2026-05-16T07:32:27Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

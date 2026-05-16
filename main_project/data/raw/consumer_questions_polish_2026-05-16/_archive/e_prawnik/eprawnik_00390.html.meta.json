@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00390",
+  "source_url": "https://e-prawnik.pl/forum/niewdziecznosc-pracownika-za-szanse-ktora-daje-pracodawca.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niewdziecznosc-pracownika-za-szanse-ktora-daje-pracodawca.html",
+  "archive_file": "e_prawnik/eprawnik_00390.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57438,
+  "sha256": "37c70bcdf6e933ecbf1dc07f1515074c0f8dd13a8c2f96c335609360db6c739b",
+  "download_date": "2026-05-16T07:30:21Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

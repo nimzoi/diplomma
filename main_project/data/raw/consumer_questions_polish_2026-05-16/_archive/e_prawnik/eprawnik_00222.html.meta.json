@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00222",
+  "source_url": "https://e-prawnik.pl/forum/znieslawienie-7.html",
+  "fetch_url": "https://e-prawnik.pl/forum/znieslawienie-7.html",
+  "archive_file": "e_prawnik/eprawnik_00222.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57434,
+  "sha256": "04c1a56cb21e6a00284bfcc337ae90f75ae95c2da6d2eba31f055d92815900d4",
+  "download_date": "2026-05-16T07:27:03Z",
+  "duration_sec": 0.235,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

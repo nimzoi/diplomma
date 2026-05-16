@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00513",
+  "source_url": "https://e-prawnik.pl/forum/dal-czy-pozyczyl.html",
+  "fetch_url": "https://e-prawnik.pl/forum/dal-czy-pozyczyl.html",
+  "archive_file": "e_prawnik/eprawnik_00513.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55835,
+  "sha256": "818a01bdde983085d4fb62a9dddb43a77089ab0ce6c2c4026f68c5e3963b234a",
+  "download_date": "2026-05-16T07:32:44Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

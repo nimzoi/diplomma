@@ -85,6 +85,20 @@ NEW_USTAWY: tuple[PdfTarget, ...] = (
     PdfTarget("DU/2010/44", "Ust. o dochodzeniu roszczeń w postępowaniu grupowym"),
 )
 
+# 8 extra ustaw konsumenckich (Iter. 0b ext. #2, S7 2026-05-16)
+# IDs zweryfikowane via ELI search — brief Magdy miał błędne 4 z 8 (Pr. upadlosciowe,
+# bezp. produktów, zwalcz. nieucz. konkur., sprzedaż konsumencka).
+EXTRA_USTAWY: tuple[PdfTarget, ...] = (
+    PdfTarget("DU/1964/296", "Kodeks postępowania cywilnego (KPC)"),
+    PdfTarget("DU/2003/535", "Prawo upadłościowe (z upadłością konsumencką)"),
+    PdfTarget("DU/2014/915", "Ust. o informowaniu o cenach towarów i usług"),
+    PdfTarget("DU/2003/2275", "Ust. o ogólnym bezpieczeństwie produktów (UCHYLONA, historic)"),
+    PdfTarget("DU/1993/211", "Ust. o zwalczaniu nieuczciwej konkurencji"),
+    PdfTarget("DU/2002/1176", "Ust. o szczeg. warunkach sprzedaży konsumenckiej (UCHYLONA, historic)"),
+    PdfTarget("DU/2000/271", "Ust. o ochronie niektórych praw konsumentów (UCHYLONA, historic)"),
+    PdfTarget("DU/1997/483", "Konstytucja RP"),
+)
+
 
 def http_get(url: str, *, accept: str = "*/*") -> tuple[int, bytes, str]:
     """HTTP GET. Zwraca (status, body, content_type). Raise on network errors."""
@@ -266,9 +280,9 @@ def main(argv: list[str] | None = None) -> int:
     )
     parser.add_argument(
         "--scope",
-        choices=("all", "existing", "new"),
+        choices=("all", "existing", "new", "extra"),
         default="all",
-        help="all=11 ustaw, existing=6 already scraped, new=5 z Część B briefu",
+        help="all=19 ustaw, existing=6 (Iter. 0a), new=5 (Iter. 0b Część B), extra=8 (S7 2026-05-16)",
     )
     parser.add_argument(
         "--output-dir",
@@ -283,7 +297,7 @@ def main(argv: list[str] | None = None) -> int:
 
     targets: list[PdfTarget]
     if args.ustawa:
-        all_targets = list(EXISTING_USTAWY) + list(NEW_USTAWY)
+        all_targets = list(EXISTING_USTAWY) + list(NEW_USTAWY) + list(EXTRA_USTAWY)
         targets = [t for t in all_targets if t.ustawa_id == args.ustawa]
         if not targets:
             logger.error("Nieznana ustawa: %s", args.ustawa)
@@ -292,8 +306,10 @@ def main(argv: list[str] | None = None) -> int:
         targets = list(EXISTING_USTAWY)
     elif args.scope == "new":
         targets = list(NEW_USTAWY)
+    elif args.scope == "extra":
+        targets = list(EXTRA_USTAWY)
     else:
-        targets = list(EXISTING_USTAWY) + list(NEW_USTAWY)
+        targets = list(EXISTING_USTAWY) + list(NEW_USTAWY) + list(EXTRA_USTAWY)
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
 

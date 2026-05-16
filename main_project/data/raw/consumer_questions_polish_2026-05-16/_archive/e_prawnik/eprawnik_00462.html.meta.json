@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00462",
+  "source_url": "https://e-prawnik.pl/forum/3-usterki-telewizor-gwarancja.html",
+  "fetch_url": "https://e-prawnik.pl/forum/3-usterki-telewizor-gwarancja.html",
+  "archive_file": "e_prawnik/eprawnik_00462.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56780,
+  "sha256": "72f64237413a74552dc87d553953487e1c33e144dcd0cbf3f4c303eb92b60209",
+  "download_date": "2026-05-16T07:31:45Z",
+  "duration_sec": 0.132,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

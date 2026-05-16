@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00610",
+  "source_url": "https://e-prawnik.pl/forum/umowa-z-nc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-z-nc.html",
+  "archive_file": "e_prawnik/eprawnik_00610.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55650,
+  "sha256": "ab70393298eee7519516063b8a0d2a55369ee546295197458f05e71739618b3f",
+  "download_date": "2026-05-16T07:34:40Z",
+  "duration_sec": 0.233,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

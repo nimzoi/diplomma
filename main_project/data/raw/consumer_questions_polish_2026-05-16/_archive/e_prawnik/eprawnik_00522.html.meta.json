@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00522",
+  "source_url": "https://e-prawnik.pl/forum/popisana-rozpadajaca-sie-kurtka.html",
+  "fetch_url": "https://e-prawnik.pl/forum/popisana-rozpadajaca-sie-kurtka.html",
+  "archive_file": "e_prawnik/eprawnik_00522.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57490,
+  "sha256": "e7def118e04581da4207c01d6c5adce7eefd0f35f8e1efe61075ed08fefff7a9",
+  "download_date": "2026-05-16T07:32:55Z",
+  "duration_sec": 0.221,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00563",
+  "source_url": "https://e-prawnik.pl/forum/kupno-przedmiotu-ktory-okazal-sie-niezgodny-z-opisem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kupno-przedmiotu-ktory-okazal-sie-niezgodny-z-opisem.html",
+  "archive_file": "e_prawnik/eprawnik_00563.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57866,
+  "sha256": "5597bef4303b6702da598790169accb1c5d5752a49b12ad8fdbcb72b6e2eb585",
+  "download_date": "2026-05-16T07:33:44Z",
+  "duration_sec": 0.15,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

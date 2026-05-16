@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00009",
+  "source_url": "https://e-prawnik.pl/forum/witamzakladam-sklep-internetowy-i-chcialbym-w-nazwie-domenty-uzyc-jako-jeden-czlon-slowo-dumbop.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witamzakladam-sklep-internetowy-i-chcialbym-w-nazwie-domenty-uzyc-jako-jeden-czlon-slowo-dumbop.html",
+  "archive_file": "e_prawnik/eprawnik_00009.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55791,
+  "sha256": "a98c12bc8210a0db1dce23b61357c8cf8a614da673ec22e1526cbec885ee229a",
+  "download_date": "2026-05-16T07:22:55Z",
+  "duration_sec": 0.181,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

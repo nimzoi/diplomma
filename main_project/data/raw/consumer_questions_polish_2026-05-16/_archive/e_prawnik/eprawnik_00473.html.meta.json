@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00473",
+  "source_url": "https://e-prawnik.pl/forum/regulamin-do-sklepu-internetowego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/regulamin-do-sklepu-internetowego.html",
+  "archive_file": "e_prawnik/eprawnik_00473.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57637,
+  "sha256": "dafb0abca831c2d2aa76e6b821f3104e3472478b46d5a25716fdc56e96c11b73",
+  "download_date": "2026-05-16T07:31:57Z",
+  "duration_sec": 0.098,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

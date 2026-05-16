@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00294",
+  "source_url": "https://e-prawnik.pl/forum/gdzie-zglosic-nieuczciwosc-sprzedawcy-i-niechec-allegro-do-rzetelnej-oceny-sprzedawcy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/gdzie-zglosic-nieuczciwosc-sprzedawcy-i-niechec-allegro-do-rzetelnej-oceny-sprzedawcy.html",
+  "archive_file": "e_prawnik/eprawnik_00294.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61384,
+  "sha256": "dccdb52efa4342d4bfa14926f7eba2a0f225434de52416e863f9d801d80b631d",
+  "download_date": "2026-05-16T07:28:27Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

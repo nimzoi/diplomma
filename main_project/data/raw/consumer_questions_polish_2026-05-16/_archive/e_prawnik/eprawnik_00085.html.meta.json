@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00085",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-wyplata-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-wyplata-1.html",
+  "archive_file": "e_prawnik/eprawnik_00085.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56372,
+  "sha256": "1ef6a6efb6719fca1954e24df676e7b40b580416e58585ed2f81fe23d4cab33a",
+  "download_date": "2026-05-16T07:24:24Z",
+  "duration_sec": 0.223,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,22 @@
+{
+  "case_id": "C-186/16",
+  "celex_id": "62016CJ0186",
+  "case_name": "Ruxandra Paula Andriciuc i in. v Banca Romaneasca SA",
+  "case_name_short": "Andriciuc",
+  "data_orzeczenia": "2017-09-20",
+  "sklad": "druga izba: M. Ilešič",
+  "streszczenie": "Odesłanie prejudycjalne – Ochrona konsumentów – Dyrektywa 93/13/EWG – Nieuczciwe warunki w umowach konsumenckich – Artykuł 3 ust. 1 i art. 4 ust. 2 – Ocena nieuczciwego charakteru warunków umownych – Umowa kredytowa zawarta w walucie obcej – Ryzyko kursowe w całości obciążające konsumenta – Znacząca nierównowaga wynikających z umowy praw i obowiązków stron – Moment, w którym należy oceniać znaczącą nierównowagę – Warunki „wyrażone prostym i zrozumiałym językiem” – Poziom informacji, który musi zostać zapewniony przez bank",
+  "tezy_kluczowe": [
+    "Artykuł 4 ust. 2 dyrektywy Rady 93/13/EWG z dnia 5 kwietnia 1993 r. w sprawie nieuczciwych warunków w umowach konsumenckich należy interpretować w ten sposób, że pojęcie „głównego przedmiotu umowy” w rozumieniu tego przepisu obejmuje warunek umowny, taki jak ten rozpatrywany w postępowaniu głównym, ujęty w umowie o kredyt w walucie obcej, który nie był indywidualnie negocjowany i na mocy którego kredyt należy spłacić w tej samej walucie obcej co waluta, w której został on zaciągnięty, w wypadku gdy warunek ten określa podstawowe świadczenie charakteryzujące tę umowę. W konsekwencji warunku tego nie można uznać za nieuczciwy, o ile jest on wyrażony prostym i zrozumiałym językiem. 2) Artykuł 4 ust. 2 dyrektywy 93/13 należy interpretować w ten sposób, że wymóg wyrażenia warunku umownego prostym i zrozumiałym językiem oznacza, że w wypadku umów kredytowych instytucje finansowe muszą zapewnić kredytobiorcom informacje wystarczające do podjęcia przez nich świadomych i rozważnych decyzji. W tym względzie wymóg ów oznacza, że warunek dotyczący spłaty kredytu w tej samej walucie obcej co waluta, w której kredyt został zaciągnięty, musi zostać zrozumiany przez konsumenta zarówno w aspekcie formalnym i gramatycznym, jak i w odniesieniu do jego konkretnego zakresu, tak aby właściwie poinformowany oraz dostatecznie uważny i rozsądny przeciętny konsument mógł nie tylko dowiedzieć się o możliwości wzrostu lub spadku wartości waluty obcej, w której kredyt został zaciągnięty, ale również oszacować – potencjalnie istotne – konsekwencje ekonomiczne takiego warunku dla swoich zobowiązań finansowych. Do sądu krajowego należy dokonanie niezbędnych ustaleń w tym zakresie. 3) Artykuł 3 ust. 1 dyrektywy 93/13 należy interpretować w ten sposób, że oceny nieuczciwego charakteru warunku umownego należy dokonywać w odniesieniu do momentu zawarcia danej umowy, z uwzględnieniem ogółu okoliczności, które mogły być znane przedsiębiorcy w owym momencie i mogły mieć wpływ na późniejsze jej wykonanie. Do sądu odsyłającego należy ocena istnienia ewentualnej nierównowagi w rozumieniu rzeczonego przepisu, której to oceny należy dokonać w świetle ogółu okoliczności faktycznych sprawy w postępowaniu głównym i z uwzględnieniem między innymi fachowej wiedzy przedsiębiorcy, w tym przypadku banku, w zakresie ewentualnych wahań kursów wymiany i ryzyka wiążących się z zaciągnięciem kredytu w walucie obcej."
+  ],
+  "related_directives": [
+    "93/13/EWG"
+  ],
+  "legal_topic": "ryzyko walutowe, obowiazek informacyjny banku, CHF",
+  "notes": "",
+  "citation_string": "Wyrok TSUE z dnia 20 wrzesnia 2017 r. w sprawie C-186/16 Andriciuc",
+  "pelna_tresc_length": 38587,
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+  "scrape_date": "2026-05-16",
+  "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62016CJ0186"
+}

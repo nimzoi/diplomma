@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00031",
+  "source_url": "https://e-prawnik.pl/forum/brak-odpowiedzi-na-reklmacje-z-firmy-provident.html",
+  "fetch_url": "https://e-prawnik.pl/forum/brak-odpowiedzi-na-reklmacje-z-firmy-provident.html",
+  "archive_file": "e_prawnik/eprawnik_00031.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57135,
+  "sha256": "4883fc353aed591c7a7d3ea11a7e9b302dfd764044f18dd957e68b6dc3164c32",
+  "download_date": "2026-05-16T07:23:21Z",
+  "duration_sec": 0.199,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

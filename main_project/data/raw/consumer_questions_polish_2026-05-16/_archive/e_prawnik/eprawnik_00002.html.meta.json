@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00002",
+  "source_url": "https://e-prawnik.pl/forum/prawa-autorskie-do-zdjec-produktow-w-e-sklepie-spozywczym.html",
+  "fetch_url": "https://e-prawnik.pl/forum/prawa-autorskie-do-zdjec-produktow-w-e-sklepie-spozywczym.html",
+  "archive_file": "e_prawnik/eprawnik_00002.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58562,
+  "sha256": "4c31f81b7628c03f4fb517d783d3f868424a9e3a5e4cb8e4cd20aacdf72e1ecc",
+  "download_date": "2026-05-16T07:21:31Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

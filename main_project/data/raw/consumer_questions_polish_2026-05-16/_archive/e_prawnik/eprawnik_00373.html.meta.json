@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00373",
+  "source_url": "https://e-prawnik.pl/forum/czy-sprzedawca-moze-zadac-zwrotu-towaru-lub-doplaty.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-sprzedawca-moze-zadac-zwrotu-towaru-lub-doplaty.html",
+  "archive_file": "e_prawnik/eprawnik_00373.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56040,
+  "sha256": "ff9c5371e94eaf730b3a6ca723ab843e94a99c5325ac161202f30c6ebe2554c4",
+  "download_date": "2026-05-16T07:30:01Z",
+  "duration_sec": 0.233,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

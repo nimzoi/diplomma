@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00504",
+  "source_url": "https://e-prawnik.pl/forum/allegro-problem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/allegro-problem.html",
+  "archive_file": "e_prawnik/eprawnik_00504.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59901,
+  "sha256": "8fda8641f1c2563861eb43f2ba31b07c459488b5cda6198c9248c1b974979a0b",
+  "download_date": "2026-05-16T07:32:33Z",
+  "duration_sec": 0.144,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

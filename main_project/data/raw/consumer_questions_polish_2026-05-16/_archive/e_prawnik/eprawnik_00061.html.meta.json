@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00061",
+  "source_url": "https://e-prawnik.pl/forum/bank-i-biuro-informacji-kredytowej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/bank-i-biuro-informacji-kredytowej.html",
+  "archive_file": "e_prawnik/eprawnik_00061.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66984,
+  "sha256": "b801566b47fd7549388cce9a7c05ed5ad47d9ecd1a20363da837a34b90ffa120",
+  "download_date": "2026-05-16T07:23:56Z",
+  "duration_sec": 0.167,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

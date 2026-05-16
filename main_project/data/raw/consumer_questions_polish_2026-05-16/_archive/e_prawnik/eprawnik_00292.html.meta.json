@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00292",
+  "source_url": "https://e-prawnik.pl/forum/samochod-uszkodzony-przez-przewrocony-znak-drogowy-podczas-silnego-wiatru.html",
+  "fetch_url": "https://e-prawnik.pl/forum/samochod-uszkodzony-przez-przewrocony-znak-drogowy-podczas-silnego-wiatru.html",
+  "archive_file": "e_prawnik/eprawnik_00292.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57186,
+  "sha256": "dc0b8a6edeb7687061b9b6179a098b4d1c7f8db3ca8e89f83cc22aed73b9f1e5",
+  "download_date": "2026-05-16T07:28:25Z",
+  "duration_sec": 0.146,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

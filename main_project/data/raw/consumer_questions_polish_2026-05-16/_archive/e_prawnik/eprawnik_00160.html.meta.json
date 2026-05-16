@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00160",
+  "source_url": "https://e-prawnik.pl/forum/nieslusznie-naliczona-oplata-allegro-protect-gdzie-to-zglosic.html",
+  "fetch_url": "https://e-prawnik.pl/forum/nieslusznie-naliczona-oplata-allegro-protect-gdzie-to-zglosic.html",
+  "archive_file": "e_prawnik/eprawnik_00160.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56233,
+  "sha256": "62ff25e40b6917925facb0d798f436805e45ce09216c5b97bd9a55eefdb73010",
+  "download_date": "2026-05-16T07:25:51Z",
+  "duration_sec": 0.098,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

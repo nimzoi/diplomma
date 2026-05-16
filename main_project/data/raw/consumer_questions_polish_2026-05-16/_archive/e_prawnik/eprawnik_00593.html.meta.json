@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00593",
+  "source_url": "https://e-prawnik.pl/forum/zadanie-zwrotu-pieniedzy-bez-zwrotu-zakupionego-towaru.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zadanie-zwrotu-pieniedzy-bez-zwrotu-zakupionego-towaru.html",
+  "archive_file": "e_prawnik/eprawnik_00593.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57917,
+  "sha256": "fe82611919872cff494ab3981d65e13cd6e2dd2d2fef19d74bba3b657beb9ca4",
+  "download_date": "2026-05-16T07:34:19Z",
+  "duration_sec": 0.303,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

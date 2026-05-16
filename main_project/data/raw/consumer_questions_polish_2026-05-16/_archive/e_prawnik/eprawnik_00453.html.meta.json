@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00453",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-komputera.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-komputera.html",
+  "archive_file": "e_prawnik/eprawnik_00453.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57164,
+  "sha256": "7263cd85c6f42e278cda001c36987ca033f3afa50f3423c5a822e6c19fdf87c6",
+  "download_date": "2026-05-16T07:31:34Z",
+  "duration_sec": 0.172,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

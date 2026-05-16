@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00170",
+  "source_url": "https://e-prawnik.pl/forum/pozyczka-udzielona-bratu-mieszkajacemu-za-granica.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pozyczka-udzielona-bratu-mieszkajacemu-za-granica.html",
+  "archive_file": "e_prawnik/eprawnik_00170.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56437,
+  "sha256": "39f79c46ba40c483d730d6a185a502e913516365b08915b96307f1e80425549f",
+  "download_date": "2026-05-16T07:26:03Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

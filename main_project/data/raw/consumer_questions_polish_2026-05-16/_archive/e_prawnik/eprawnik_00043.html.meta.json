@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00043",
+  "source_url": "https://e-prawnik.pl/forum/moja-mama-jakis-czas-temu-wziela-sobie-pozyczke-na-ponad-6tys-zl-i-dowiedzialem-sie-ze-wogole-j.html",
+  "fetch_url": "https://e-prawnik.pl/forum/moja-mama-jakis-czas-temu-wziela-sobie-pozyczke-na-ponad-6tys-zl-i-dowiedzialem-sie-ze-wogole-j.html",
+  "archive_file": "e_prawnik/eprawnik_00043.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56348,
+  "sha256": "91a351990ad86f0e01f8a0059e149f4b5fa96b473f5d186e179cef3c5090fb65",
+  "download_date": "2026-05-16T07:23:35Z",
+  "duration_sec": 0.139,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

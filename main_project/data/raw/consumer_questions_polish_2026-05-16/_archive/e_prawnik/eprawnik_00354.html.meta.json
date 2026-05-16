@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00354",
+  "source_url": "https://e-prawnik.pl/forum/niezgodny-towar-z-opisem-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niezgodny-towar-z-opisem-1.html",
+  "archive_file": "e_prawnik/eprawnik_00354.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55915,
+  "sha256": "6901c753e10e1310e7164c8fc426db35795c21da34d49920cf44dc57cb3d835e",
+  "download_date": "2026-05-16T07:29:38Z",
+  "duration_sec": 0.304,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

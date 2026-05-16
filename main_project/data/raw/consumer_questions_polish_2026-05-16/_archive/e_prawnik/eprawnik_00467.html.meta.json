@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00467",
+  "source_url": "https://e-prawnik.pl/forum/rozboj-w-pociagu-pkp.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rozboj-w-pociagu-pkp.html",
+  "archive_file": "e_prawnik/eprawnik_00467.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56420,
+  "sha256": "ab12fe2489b04fb130114f739536d280737cb4cfc98b5f726d3afc869f74fab2",
+  "download_date": "2026-05-16T07:31:50Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

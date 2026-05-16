@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00335",
+  "source_url": "https://e-prawnik.pl/forum/bezprawne-wywiezienie-gleby-z-dzialek.html",
+  "fetch_url": "https://e-prawnik.pl/forum/bezprawne-wywiezienie-gleby-z-dzialek.html",
+  "archive_file": "e_prawnik/eprawnik_00335.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57316,
+  "sha256": "7df6b8f8a33385f3156d5a689c8181f659e3ea37473f57e523f8466f5d70c54e",
+  "download_date": "2026-05-16T07:29:16Z",
+  "duration_sec": 0.69,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

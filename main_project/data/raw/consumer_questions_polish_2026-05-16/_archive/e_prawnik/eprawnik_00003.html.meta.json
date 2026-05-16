@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00003",
+  "source_url": "https://e-prawnik.pl/forum/plagiat-allegro.html",
+  "fetch_url": "https://e-prawnik.pl/forum/plagiat-allegro.html",
+  "archive_file": "e_prawnik/eprawnik_00003.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57442,
+  "sha256": "b9c18376d6644824cce149afa06b38fa232a7340dccdded478d525c22ff343b7",
+  "download_date": "2026-05-16T07:21:32Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

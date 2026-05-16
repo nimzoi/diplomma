@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00360",
+  "source_url": "https://e-prawnik.pl/forum/umowa-o-dzielo-a-rachunek.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-o-dzielo-a-rachunek.html",
+  "archive_file": "e_prawnik/eprawnik_00360.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55796,
+  "sha256": "e1f6dcd3a1ea0d8a00a22b65fd7919d4737319fc887eca2f4bdee20af2907fb6",
+  "download_date": "2026-05-16T07:29:46Z",
+  "duration_sec": 0.161,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

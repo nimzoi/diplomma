@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00132",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-towaru-reklamacja.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-towaru-reklamacja.html",
+  "archive_file": "e_prawnik/eprawnik_00132.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59829,
+  "sha256": "36bd3b1528e2c0a8a3847c728481edf20a4784738d48e1b5a76a2a439b8c4066",
+  "download_date": "2026-05-16T07:25:19Z",
+  "duration_sec": 0.221,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00361",
+  "source_url": "https://e-prawnik.pl/forum/droga-dojazdowa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/droga-dojazdowa.html",
+  "archive_file": "e_prawnik/eprawnik_00361.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66349,
+  "sha256": "f7723f45df6b8369b2d663f291f84ae4196b55ca442838225c52a43868c4a069",
+  "download_date": "2026-05-16T07:29:47Z",
+  "duration_sec": 0.219,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00587",
+  "source_url": "https://e-prawnik.pl/forum/witam-panstwaprzejde-od-razu-do-meritum-sprawykupilem-w-czerwcu-2010r-samochod-hyundai.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-panstwaprzejde-od-razu-do-meritum-sprawykupilem-w-czerwcu-2010r-samochod-hyundai.html",
+  "archive_file": "e_prawnik/eprawnik_00587.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56955,
+  "sha256": "5c4b6de4cf1ccfb86ec047644da7d8f0a4c53f6888d63a44d47011874e46eb9d",
+  "download_date": "2026-05-16T07:34:12Z",
+  "duration_sec": 0.127,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

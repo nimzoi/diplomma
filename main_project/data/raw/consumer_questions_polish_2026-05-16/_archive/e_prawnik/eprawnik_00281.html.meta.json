@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00281",
+  "source_url": "https://e-prawnik.pl/forum/wadliwy-produkt.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wadliwy-produkt.html",
+  "archive_file": "e_prawnik/eprawnik_00281.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56454,
+  "sha256": "b0db3df980a721628176e0b4ea19f74c590496e074a269e00f6a5f6cad20a85d",
+  "download_date": "2026-05-16T07:28:12Z",
+  "duration_sec": 0.197,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

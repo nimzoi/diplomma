@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00056",
+  "source_url": "https://e-prawnik.pl/forum/raty-0-jak-oszukuja-klientow.html",
+  "fetch_url": "https://e-prawnik.pl/forum/raty-0-jak-oszukuja-klientow.html",
+  "archive_file": "e_prawnik/eprawnik_00056.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54012,
+  "sha256": "53610403f281f382bb5ecae3006454aa361d1801b6efc7232abac7c5501f0437",
+  "download_date": "2026-05-16T07:23:50Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

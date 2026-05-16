@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00285",
+  "source_url": "https://e-prawnik.pl/forum/brak-mozliwosci-odstapienia-od-umowy-zawartej-na-odleglosc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/brak-mozliwosci-odstapienia-od-umowy-zawartej-na-odleglosc.html",
+  "archive_file": "e_prawnik/eprawnik_00285.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58187,
+  "sha256": "618f35cf5674fb7be3bb5a1fbdb73c3719e086ade879a5d5ee48147645225566",
+  "download_date": "2026-05-16T07:28:17Z",
+  "duration_sec": 0.181,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00333",
+  "source_url": "https://e-prawnik.pl/forum/klient-nie-chce-zaplacic-za-usluge-po-podpisaniu-faktury.html",
+  "fetch_url": "https://e-prawnik.pl/forum/klient-nie-chce-zaplacic-za-usluge-po-podpisaniu-faktury.html",
+  "archive_file": "e_prawnik/eprawnik_00333.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55004,
+  "sha256": "265c0d10508d7fdf32d8369aaf09f62845ebfd1cf043e9bbaef3a1b03a2185f6",
+  "download_date": "2026-05-16T07:29:13Z",
+  "duration_sec": 0.113,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

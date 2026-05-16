@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00450",
+  "source_url": "https://e-prawnik.pl/forum/kosc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kosc.html",
+  "archive_file": "e_prawnik/eprawnik_00450.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58122,
+  "sha256": "538eafe19a453c7b6015eed7e2f0367eb71baab43e50498b34ab4a24a30dcb15",
+  "download_date": "2026-05-16T07:31:31Z",
+  "duration_sec": 0.177,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

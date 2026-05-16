@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00445",
+  "source_url": "https://e-prawnik.pl/forum/przelewy-od-bylego-narzeczonego-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/przelewy-od-bylego-narzeczonego-1.html",
+  "archive_file": "e_prawnik/eprawnik_00445.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58075,
+  "sha256": "8391d9774894c69e4ff341fd480e8f9eeba3008a10670759f669a2ca1ee3b0ed",
+  "download_date": "2026-05-16T07:31:25Z",
+  "duration_sec": 0.254,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

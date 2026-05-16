@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00611",
+  "source_url": "https://e-prawnik.pl/forum/spalcenie-dlugu-i-koszty-sadowe.html",
+  "fetch_url": "https://e-prawnik.pl/forum/spalcenie-dlugu-i-koszty-sadowe.html",
+  "archive_file": "e_prawnik/eprawnik_00611.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55509,
+  "sha256": "280b5422deca5d2fe7e8b13e89f3e1fe447069a83448f45a35b928f6bc139141",
+  "download_date": "2026-05-16T07:34:41Z",
+  "duration_sec": 0.217,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

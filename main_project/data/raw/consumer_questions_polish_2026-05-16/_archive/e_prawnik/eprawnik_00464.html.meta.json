@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00464",
+  "source_url": "https://e-prawnik.pl/forum/czy-mam-prawo-odstapic-od-umowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-mam-prawo-odstapic-od-umowy.html",
+  "archive_file": "e_prawnik/eprawnik_00464.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57242,
+  "sha256": "4a58cba021b1491a4890a0965f0efc626f948a90cfb8e5fcab33fc0e802fd414",
+  "download_date": "2026-05-16T07:31:47Z",
+  "duration_sec": 0.149,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

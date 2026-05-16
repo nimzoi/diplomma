@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00350",
+  "source_url": "https://e-prawnik.pl/forum/drzwi-wewnetrzne.html",
+  "fetch_url": "https://e-prawnik.pl/forum/drzwi-wewnetrzne.html",
+  "archive_file": "e_prawnik/eprawnik_00350.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58580,
+  "sha256": "47c7ebaf66d781d84aa2816b52c78e7f3a55cfcee6e1782ed934446930f6d0a7",
+  "download_date": "2026-05-16T07:29:34Z",
+  "duration_sec": 0.166,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

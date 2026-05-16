@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00572",
+  "source_url": "https://e-prawnik.pl/forum/uszkodzony-procesor-kupiony-na-aukcji-a-mozliwosc-reklamacji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/uszkodzony-procesor-kupiony-na-aukcji-a-mozliwosc-reklamacji.html",
+  "archive_file": "e_prawnik/eprawnik_00572.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57229,
+  "sha256": "ea3919e90191942ea1143ac0ca351ed0b9d9ea4a1e139d51db03dce1fe38affa",
+  "download_date": "2026-05-16T07:33:54Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00196",
+  "source_url": "https://e-prawnik.pl/forum/firma-odmowila-mojej-tesciowej-odszkodowania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/firma-odmowila-mojej-tesciowej-odszkodowania.html",
+  "archive_file": "e_prawnik/eprawnik_00196.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56538,
+  "sha256": "6d33549c119cb740d6ecde3d0dd719eceff9356249e9fa01195ddf1875f1f0c5",
+  "download_date": "2026-05-16T07:26:33Z",
+  "duration_sec": 0.162,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00118",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-brak-towaru.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-brak-towaru.html",
+  "archive_file": "e_prawnik/eprawnik_00118.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57449,
+  "sha256": "58c29bf42ebe89583363f2c8fa2df32275394267f18d26b9ecf7ca1ec9b9e5a1",
+  "download_date": "2026-05-16T07:25:02Z",
+  "duration_sec": 0.183,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

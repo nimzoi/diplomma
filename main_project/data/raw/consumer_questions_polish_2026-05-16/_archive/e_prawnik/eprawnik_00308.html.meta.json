@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00308",
+  "source_url": "https://e-prawnik.pl/forum/rezygnacja-z-odstapienia-od-umowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rezygnacja-z-odstapienia-od-umowy.html",
+  "archive_file": "e_prawnik/eprawnik_00308.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56546,
+  "sha256": "a3132a1f62a6a64687caa2787083ed840ac347ba5e9afb3e1f12fe657c49331d",
+  "download_date": "2026-05-16T07:28:44Z",
+  "duration_sec": 0.174,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

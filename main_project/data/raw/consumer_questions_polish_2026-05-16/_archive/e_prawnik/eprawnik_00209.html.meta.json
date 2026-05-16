@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00209",
+  "source_url": "https://e-prawnik.pl/forum/brak-zwrotu-towaru-z-reklamacji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/brak-zwrotu-towaru-z-reklamacji.html",
+  "archive_file": "e_prawnik/eprawnik_00209.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57344,
+  "sha256": "bb8b6c9be02416fc86d9728a7d0dbfcd6ab6cd1c814065caddecc7d2ddc039aa",
+  "download_date": "2026-05-16T07:26:48Z",
+  "duration_sec": 0.174,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

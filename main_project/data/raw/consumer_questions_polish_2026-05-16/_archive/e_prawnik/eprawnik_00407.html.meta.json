@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00407",
+  "source_url": "https://e-prawnik.pl/forum/od-kogo-moge-ubiegac-sie-o-odszkodowanie-i-czy-w-ogolem-jest-taka-mozliwosc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/od-kogo-moge-ubiegac-sie-o-odszkodowanie-i-czy-w-ogolem-jest-taka-mozliwosc.html",
+  "archive_file": "e_prawnik/eprawnik_00407.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57246,
+  "sha256": "fb430233d49a0157077dd5767b646658649d4d117eef18f1a64b56b76bf40a94",
+  "download_date": "2026-05-16T07:30:41Z",
+  "duration_sec": 0.167,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

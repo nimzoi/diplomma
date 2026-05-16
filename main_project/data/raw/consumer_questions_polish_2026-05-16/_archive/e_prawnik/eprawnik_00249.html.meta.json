@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00249",
+  "source_url": "https://e-prawnik.pl/forum/allegro-problem-ze-zwrotem-prowizji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/allegro-problem-ze-zwrotem-prowizji.html",
+  "archive_file": "e_prawnik/eprawnik_00249.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57938,
+  "sha256": "7758d9483852be4b479a574525035d798d3218c06c57e5244829cab861c522f0",
+  "download_date": "2026-05-16T07:27:35Z",
+  "duration_sec": 0.171,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

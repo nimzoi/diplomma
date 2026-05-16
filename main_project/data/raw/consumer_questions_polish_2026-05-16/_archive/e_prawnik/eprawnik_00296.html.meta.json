@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00296",
+  "source_url": "https://e-prawnik.pl/forum/podatek-pcc3.html",
+  "fetch_url": "https://e-prawnik.pl/forum/podatek-pcc3.html",
+  "archive_file": "e_prawnik/eprawnik_00296.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56567,
+  "sha256": "084557d912d58151a20391e17eefba8e2cd2c6542f867b67f5264e6fbf803402",
+  "download_date": "2026-05-16T07:28:29Z",
+  "duration_sec": 0.141,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

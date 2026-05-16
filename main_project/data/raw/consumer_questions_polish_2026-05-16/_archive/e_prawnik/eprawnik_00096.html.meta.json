@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00096",
+  "source_url": "https://e-prawnik.pl/forum/mieszkanie-na-raty.html",
+  "fetch_url": "https://e-prawnik.pl/forum/mieszkanie-na-raty.html",
+  "archive_file": "e_prawnik/eprawnik_00096.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57825,
+  "sha256": "a2ba6cc6f4c0af01706424772f3dbdecb4f58e8587a75b6cf40f5227c414ff79",
+  "download_date": "2026-05-16T07:24:37Z",
+  "duration_sec": 0.112,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

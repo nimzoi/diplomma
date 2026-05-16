@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00047",
+  "source_url": "https://e-prawnik.pl/forum/kiedy-dane-trafia-do-bik.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kiedy-dane-trafia-do-bik.html",
+  "archive_file": "e_prawnik/eprawnik_00047.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56157,
+  "sha256": "7fb8a0c5f0659f85635d3e6f05bce4e064a782732e1c93b1e458211f85726105",
+  "download_date": "2026-05-16T07:23:40Z",
+  "duration_sec": 0.209,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

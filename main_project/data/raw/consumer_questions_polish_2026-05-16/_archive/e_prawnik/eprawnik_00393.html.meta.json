@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00393",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-wypadek-w-1999r-oraz-wypadek-w-tym-roku-a-ugoda.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-wypadek-w-1999r-oraz-wypadek-w-tym-roku-a-ugoda.html",
+  "archive_file": "e_prawnik/eprawnik_00393.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60312,
+  "sha256": "1b589a2e82bd97c99d258cb60b4d18316184fc8242f718bf46e0cb51d359783c",
+  "download_date": "2026-05-16T07:30:24Z",
+  "duration_sec": 0.199,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

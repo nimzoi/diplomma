@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00007",
+  "source_url": "https://e-prawnik.pl/forum/zdjecia-na-allegro-2012-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zdjecia-na-allegro-2012-1.html",
+  "archive_file": "e_prawnik/eprawnik_00007.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58674,
+  "sha256": "2066df67d8b724dcb133178eacab4776305ab6428fb889a623e8b6e2596aae42",
+  "download_date": "2026-05-16T07:22:53Z",
+  "duration_sec": 0.176,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

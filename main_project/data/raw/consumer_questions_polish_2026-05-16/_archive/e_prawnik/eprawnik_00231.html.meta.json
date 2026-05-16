@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00231",
+  "source_url": "https://e-prawnik.pl/forum/rekojmia-od-strony-sprzedawcy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rekojmia-od-strony-sprzedawcy.html",
+  "archive_file": "e_prawnik/eprawnik_00231.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56769,
+  "sha256": "192b5ca1e6098298bfe991cbfc23d63a40ee26125bd5be65166a4046dc7fc708",
+  "download_date": "2026-05-16T07:27:13Z",
+  "duration_sec": 0.134,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

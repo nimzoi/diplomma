@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00016",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-wekslem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-wekslem.html",
+  "archive_file": "e_prawnik/eprawnik_00016.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56371,
+  "sha256": "c5fb566157867931209e05380a38a5a504b4cb97b927116a883db84eeb837f7c",
+  "download_date": "2026-05-16T07:23:03Z",
+  "duration_sec": 0.155,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

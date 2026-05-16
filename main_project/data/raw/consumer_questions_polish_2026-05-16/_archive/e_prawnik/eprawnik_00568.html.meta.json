@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00568",
+  "source_url": "https://e-prawnik.pl/forum/umowa-przedwstepna.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-przedwstepna.html",
+  "archive_file": "e_prawnik/eprawnik_00568.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59557,
+  "sha256": "b10b93ca67a16e54ed661a9458a31e2b4890c21cc878f02fc1a948344c8ead4c",
+  "download_date": "2026-05-16T07:33:50Z",
+  "duration_sec": 0.251,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

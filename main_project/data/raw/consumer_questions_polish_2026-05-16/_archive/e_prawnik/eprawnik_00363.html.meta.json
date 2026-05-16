@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00363",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-zawartej-na-odleglosc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-zawartej-na-odleglosc.html",
+  "archive_file": "e_prawnik/eprawnik_00363.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56993,
+  "sha256": "af09ff1749de302417d88b1435636e9ccf099800056dee649a01406fb4fc0cd7",
+  "download_date": "2026-05-16T07:29:49Z",
+  "duration_sec": 0.108,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

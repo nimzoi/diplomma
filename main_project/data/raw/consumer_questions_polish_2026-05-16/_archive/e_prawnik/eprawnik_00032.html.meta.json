@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00032",
+  "source_url": "https://e-prawnik.pl/forum/odsetki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odsetki.html",
+  "archive_file": "e_prawnik/eprawnik_00032.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54524,
+  "sha256": "1288a15fbc48e9ea2cfd250c1713d5e04f5eaf9cf1aa1892750afc371086e93e",
+  "download_date": "2026-05-16T07:23:22Z",
+  "duration_sec": 0.137,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00246",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-za-zamowiony-towar-na-firme.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-za-zamowiony-towar-na-firme.html",
+  "archive_file": "e_prawnik/eprawnik_00246.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57569,
+  "sha256": "86938c06b9d06342bd2aefc29ac50ee41b17a99da24e2569ccf5f3379963a467",
+  "download_date": "2026-05-16T07:27:31Z",
+  "duration_sec": 0.165,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

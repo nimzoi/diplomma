@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00595",
+  "source_url": "https://e-prawnik.pl/forum/jakie-jest-prawo-odnosnie-rozwiazania-umowy-kupna-sprzedazy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jakie-jest-prawo-odnosnie-rozwiazania-umowy-kupna-sprzedazy.html",
+  "archive_file": "e_prawnik/eprawnik_00595.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56187,
+  "sha256": "884f8b00a0564f466d49f1d4001c64cea0941250c7f1faa536aab9b8e566ff66",
+  "download_date": "2026-05-16T07:34:21Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

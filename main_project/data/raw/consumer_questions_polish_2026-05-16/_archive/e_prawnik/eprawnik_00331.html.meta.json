@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00331",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-rekojmia-dalsze-postepowanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-rekojmia-dalsze-postepowanie.html",
+  "archive_file": "e_prawnik/eprawnik_00331.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59089,
+  "sha256": "70dc16265ab85c101b2d64c9f3308524b31150b398e8c45c821846fb180b6a95",
+  "download_date": "2026-05-16T07:29:10Z",
+  "duration_sec": 0.111,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

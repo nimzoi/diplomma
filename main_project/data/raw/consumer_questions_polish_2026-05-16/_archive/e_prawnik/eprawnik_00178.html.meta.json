@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00178",
+  "source_url": "https://e-prawnik.pl/forum/odbior-wadliwego-pojazdu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odbior-wadliwego-pojazdu.html",
+  "archive_file": "e_prawnik/eprawnik_00178.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57283,
+  "sha256": "d19a5592ff4416e9a0609d06a6895863a924341a1371efea91be62c6d9bfe3d2",
+  "download_date": "2026-05-16T07:26:12Z",
+  "duration_sec": 0.173,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

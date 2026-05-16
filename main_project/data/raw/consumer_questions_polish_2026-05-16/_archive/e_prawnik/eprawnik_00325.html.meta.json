@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00325",
+  "source_url": "https://e-prawnik.pl/forum/konik-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/konik-1.html",
+  "archive_file": "e_prawnik/eprawnik_00325.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55779,
+  "sha256": "3c3c243a77ee27da13c74189281240398f7566a3096c09d4cd4afe19f3b92ba6",
+  "download_date": "2026-05-16T07:29:03Z",
+  "duration_sec": 0.146,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

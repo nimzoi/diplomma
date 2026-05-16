@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00518",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-od-biedronki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-od-biedronki.html",
+  "archive_file": "e_prawnik/eprawnik_00518.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58330,
+  "sha256": "9c45fa171bd0763ec049fdbe5638dac152767de122aed175c619438c90a65952",
+  "download_date": "2026-05-16T07:32:50Z",
+  "duration_sec": 0.163,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

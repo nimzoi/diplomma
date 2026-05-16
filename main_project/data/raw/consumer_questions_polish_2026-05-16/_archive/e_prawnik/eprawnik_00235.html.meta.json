@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00235",
+  "source_url": "https://e-prawnik.pl/forum/wadliwy-laptop-rok-przepychanki-bez-rozwiazania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wadliwy-laptop-rok-przepychanki-bez-rozwiazania.html",
+  "archive_file": "e_prawnik/eprawnik_00235.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56061,
+  "sha256": "45ecbd2af26041024b07d34f6b42da0b1892ef2b12a54f2d4f21bc4462ff970e",
+  "download_date": "2026-05-16T07:27:18Z",
+  "duration_sec": 0.207,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

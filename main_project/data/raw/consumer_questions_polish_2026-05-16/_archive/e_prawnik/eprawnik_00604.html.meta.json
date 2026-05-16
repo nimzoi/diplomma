@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00604",
+  "source_url": "https://e-prawnik.pl/forum/paczka-brak-mozliwosci-zwrotu-paczki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/paczka-brak-mozliwosci-zwrotu-paczki.html",
+  "archive_file": "e_prawnik/eprawnik_00604.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57595,
+  "sha256": "0a7f94ea7e6a04354ecdb1c6c011daea888feb6616a7a14ec4fe94b8ecc5762a",
+  "download_date": "2026-05-16T07:34:33Z",
+  "duration_sec": 0.183,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

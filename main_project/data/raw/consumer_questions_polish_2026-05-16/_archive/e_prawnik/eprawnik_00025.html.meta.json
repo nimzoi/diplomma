@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00025",
+  "source_url": "https://e-prawnik.pl/forum/sprzeciw-sasiada.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzeciw-sasiada.html",
+  "archive_file": "e_prawnik/eprawnik_00025.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58074,
+  "sha256": "1ce652888a71355464fe28fb70fe5ea15026ee5e1546b6f89cfa1762de17a007",
+  "download_date": "2026-05-16T07:23:14Z",
+  "duration_sec": 0.212,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

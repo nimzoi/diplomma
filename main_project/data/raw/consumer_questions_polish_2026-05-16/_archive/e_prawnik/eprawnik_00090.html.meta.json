@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00090",
+  "source_url": "https://e-prawnik.pl/forum/gwarancja-na-sama-fakture.html",
+  "fetch_url": "https://e-prawnik.pl/forum/gwarancja-na-sama-fakture.html",
+  "archive_file": "e_prawnik/eprawnik_00090.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57336,
+  "sha256": "1f7c94144a206ffff7e7a7e32a4221e193c8fd1d9d7c355d20b2437005ad0d02",
+  "download_date": "2026-05-16T07:24:30Z",
+  "duration_sec": 0.214,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

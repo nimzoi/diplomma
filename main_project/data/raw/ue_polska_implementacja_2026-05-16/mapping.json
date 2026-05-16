@@ -1,0 +1,98 @@
+{
+  "32011L0083": {
+    "celex_id": "32011L0083",
+    "direktywa_id": "2011/83/UE",
+    "title_pl": "Dyrektywa Parlamentu Europejskiego i Rady 2011/83/UE z dnia 25 pazdziernika 2011 r. w sprawie praw konsumentow",
+    "data_publikacji": "2011-11-22",
+    "data_wejscia_w_zycie": "2011-12-12",
+    "transposition_deadline": "2013-12-13",
+    "polska_ustawa": "DU/2014/827",
+    "polska_ustawa_title": "Ustawa o prawach konsumenta",
+    "polska_implementation_date": "2014-12-25",
+    "notes": "CRD — Consumer Rights Directive, podstawa polskiej Ustawy o prawach konsumenta"
+  },
+  "32019L0770": {
+    "celex_id": "32019L0770",
+    "direktywa_id": "2019/770/UE",
+    "title_pl": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/770 z dnia 20 maja 2019 r. w sprawie niektorych aspektow umow o dostarczanie tresci cyfrowych i uslug cyfrowych",
+    "data_publikacji": "2019-05-22",
+    "data_wejscia_w_zycie": "2019-06-11",
+    "transposition_deadline": "2021-07-01",
+    "polska_ustawa": "DU/2022/2337",
+    "polska_ustawa_title": "Ustawa o zmianie ustawy o prawach konsumenta oraz ustawy Kodeks cywilny (towary cyfrowe + sprzedaz, DCD+SGD implementacja)",
+    "polska_implementation_date": "2023-01-01",
+    "notes": "DCD — Digital Content Directive, implementowana przez nowelizacje UPK (DU/2022/2337)"
+  },
+  "32019L0771": {
+    "celex_id": "32019L0771",
+    "direktywa_id": "2019/771/UE",
+    "title_pl": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/771 z dnia 20 maja 2019 r. w sprawie niektorych aspektow umow sprzedazy towarow",
+    "data_publikacji": "2019-05-22",
+    "data_wejscia_w_zycie": "2019-06-11",
+    "transposition_deadline": "2021-07-01",
+    "polska_ustawa": "DU/2022/2337",
+    "polska_ustawa_title": "Ustawa o zmianie ustawy o prawach konsumenta oraz ustawy Kodeks cywilny (towary cyfrowe + sprzedaz, DCD+SGD implementacja)",
+    "polska_implementation_date": "2023-01-01",
+    "notes": "SGD — Sale of Goods Directive, implementowana przez nowelizacje UPK (DU/2022/2337)"
+  },
+  "32019L2161": {
+    "celex_id": "32019L2161",
+    "direktywa_id": "2019/2161/UE",
+    "title_pl": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/2161 z dnia 27 listopada 2019 r. zmieniajaca dyrektywe Rady 93/13/EWG i dyrektywy Parlamentu Europejskiego i Rady 98/6/WE, 2005/29/WE oraz 2011/83/UE",
+    "data_publikacji": "2019-12-18",
+    "data_wejscia_w_zycie": "2020-01-07",
+    "transposition_deadline": "2021-11-28",
+    "polska_ustawa": "DU/2022/2581",
+    "polska_ustawa_title": "Ustawa o zmianie ustawy o prawach konsumenta oraz niektorych innych ustaw (Omnibus implementacja)",
+    "polska_implementation_date": "2023-01-01",
+    "notes": "Omnibus — modernization of 4 directives (93/13, 98/6, 2005/29, 2011/83); implementowana m.in. przez DU/2022/2581"
+  },
+  "31993L0013": {
+    "celex_id": "31993L0013",
+    "direktywa_id": "93/13/EWG",
+    "title_pl": "Dyrektywa Rady 93/13/EWG z dnia 5 kwietnia 1993 r. w sprawie nieuczciwych warunkow w umowach konsumenckich",
+    "data_publikacji": "1993-04-21",
+    "data_wejscia_w_zycie": "1993-04-21",
+    "transposition_deadline": "1994-12-31",
+    "polska_ustawa": "DU/1964/93",
+    "polska_ustawa_title": "Kodeks cywilny",
+    "polska_implementation_date": "1965-01-01",
+    "notes": "UCT — Unfair Contract Terms, transponowana do polskiego KC (art. 385^1 i nast.) ustawa DU/2000/443 wprowadzajaca; centralna w orzecznictwie TSUE (Dziubak, Kasler)"
+  },
+  "32005L0029": {
+    "celex_id": "32005L0029",
+    "direktywa_id": "2005/29/WE",
+    "title_pl": "Dyrektywa 2005/29/WE Parlamentu Europejskiego i Rady z dnia 11 maja 2005 r. dotyczaca nieuczciwych praktyk handlowych stosowanych przez przedsiebiorstwa wobec konsumentow na rynku wewnetrznym",
+    "data_publikacji": "2005-06-11",
+    "data_wejscia_w_zycie": "2005-06-12",
+    "transposition_deadline": "2007-06-12",
+    "polska_ustawa": "DU/2007/1206",
+    "polska_ustawa_title": "Ustawa o przeciwdzialaniu nieuczciwym praktykom rynkowym",
+    "polska_implementation_date": "2007-12-21",
+    "notes": "UCPD — Unfair Commercial Practices Directive, transponowana przez DU/2007/1206"
+  },
+  "32008L0048": {
+    "celex_id": "32008L0048",
+    "direktywa_id": "2008/48/WE",
+    "title_pl": "Dyrektywa Parlamentu Europejskiego i Rady 2008/48/WE z dnia 23 kwietnia 2008 r. w sprawie umow o kredyt konsumencki",
+    "data_publikacji": "2008-05-22",
+    "data_wejscia_w_zycie": "2008-06-11",
+    "transposition_deadline": "2010-06-11",
+    "polska_ustawa": "DU/2011/126",
+    "polska_ustawa_title": "Ustawa o kredycie konsumenckim",
+    "polska_implementation_date": "2011-12-18",
+    "notes": "CCD I — Consumer Credit Directive (zastapiona przez 2023/2225), DU/2011/126"
+  },
+  "32023L2225": {
+    "celex_id": "32023L2225",
+    "direktywa_id": "2023/2225/UE",
+    "title_pl": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2023/2225 z dnia 18 pazdziernika 2023 r. w sprawie umow o kredyt konsumencki oraz uchylajaca dyrektywe 2008/48/WE",
+    "data_publikacji": "2023-10-30",
+    "data_wejscia_w_zycie": "2023-11-19",
+    "transposition_deadline": "2025-11-20",
+    "polska_ustawa": null,
+    "polska_ustawa_title": "(brak — w trakcie transpozycji)",
+    "polska_implementation_date": null,
+    "notes": "CCD II — nowa CCD, transposition deadline 20 list. 2025, polska ustawa w toku"
+  }
+}

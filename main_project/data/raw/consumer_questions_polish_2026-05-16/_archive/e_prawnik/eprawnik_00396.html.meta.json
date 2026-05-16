@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00396",
+  "source_url": "https://e-prawnik.pl/forum/towar-niezgodny-z-opisem-kolor.html",
+  "fetch_url": "https://e-prawnik.pl/forum/towar-niezgodny-z-opisem-kolor.html",
+  "archive_file": "e_prawnik/eprawnik_00396.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56805,
+  "sha256": "8afde1e3f657b45097b2a0205fc5e03d1f03459ea005fb2c1ce84e23c04d6191",
+  "download_date": "2026-05-16T07:30:28Z",
+  "duration_sec": 0.173,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

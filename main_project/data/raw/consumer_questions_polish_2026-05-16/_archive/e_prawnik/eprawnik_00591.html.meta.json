@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00591",
+  "source_url": "https://e-prawnik.pl/forum/czy-taka-sprzedaz-to-oszustwo.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-taka-sprzedaz-to-oszustwo.html",
+  "archive_file": "e_prawnik/eprawnik_00591.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55525,
+  "sha256": "b26663fdf3690cec8242b2392ef0d659e37fca0c542485138d4be2a50ac71779",
+  "download_date": "2026-05-16T07:34:17Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

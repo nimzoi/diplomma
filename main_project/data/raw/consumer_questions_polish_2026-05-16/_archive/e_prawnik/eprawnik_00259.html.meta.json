@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00259",
+  "source_url": "https://e-prawnik.pl/forum/hydraulik-zalal-mieszkanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/hydraulik-zalal-mieszkanie.html",
+  "archive_file": "e_prawnik/eprawnik_00259.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59041,
+  "sha256": "81abb4e6d8dae49d9322b14ce2d338153a565820bb718754033c6ee8c9710ef2",
+  "download_date": "2026-05-16T07:27:46Z",
+  "duration_sec": 0.186,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

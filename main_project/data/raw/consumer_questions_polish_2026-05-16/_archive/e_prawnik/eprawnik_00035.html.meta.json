@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00035",
+  "source_url": "https://e-prawnik.pl/forum/pozeczka-6.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pozeczka-6.html",
+  "archive_file": "e_prawnik/eprawnik_00035.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56216,
+  "sha256": "ba7805b0970f8130aac7a9c5c4b2ab1d699eb98e55091e1fa9fa139bbf517140",
+  "download_date": "2026-05-16T07:23:26Z",
+  "duration_sec": 0.205,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00495",
+  "source_url": "https://e-prawnik.pl/forum/buty-go-sport.html",
+  "fetch_url": "https://e-prawnik.pl/forum/buty-go-sport.html",
+  "archive_file": "e_prawnik/eprawnik_00495.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63560,
+  "sha256": "6b5a0db1ceb02e685b590a8b136ae003b3cddbcf50e0d72ed6fc0b56ffef82cc",
+  "download_date": "2026-05-16T07:32:23Z",
+  "duration_sec": 0.161,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

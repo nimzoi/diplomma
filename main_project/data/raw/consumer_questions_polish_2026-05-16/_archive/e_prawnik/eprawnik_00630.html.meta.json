@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00630",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-udostepnienie-gruntu-pod-przesyl-pradu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-udostepnienie-gruntu-pod-przesyl-pradu.html",
+  "archive_file": "e_prawnik/eprawnik_00630.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57224,
+  "sha256": "cf9822846d8a7124204d1e55ba7a8ad302cfb11253287c1191db8c93df7835ed",
+  "download_date": "2026-05-16T07:35:04Z",
+  "duration_sec": 0.136,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

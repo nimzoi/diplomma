@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00336",
+  "source_url": "https://e-prawnik.pl/forum/umowa-kupna-sprzedazy-zwierzecia-hodowlanego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-kupna-sprzedazy-zwierzecia-hodowlanego.html",
+  "archive_file": "e_prawnik/eprawnik_00336.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57233,
+  "sha256": "51331837b845e0838f2e396fc69bf5126b92f0d4055d989e0dcc43615c3bf05f",
+  "download_date": "2026-05-16T07:29:17Z",
+  "duration_sec": 0.24,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

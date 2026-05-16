@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00206",
+  "source_url": "https://e-prawnik.pl/forum/dostalam-w-prezencie-telefon-a-teraz-chlopak-grozi-mi-policja.html",
+  "fetch_url": "https://e-prawnik.pl/forum/dostalam-w-prezencie-telefon-a-teraz-chlopak-grozi-mi-policja.html",
+  "archive_file": "e_prawnik/eprawnik_00206.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56532,
+  "sha256": "b74480bf98f2e641fb7e7e18f2dd55621c1144008dd2b7d48119c6d68a815999",
+  "download_date": "2026-05-16T07:26:44Z",
+  "duration_sec": 0.091,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

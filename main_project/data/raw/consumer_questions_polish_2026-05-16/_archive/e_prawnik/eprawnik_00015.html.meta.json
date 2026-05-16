@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00015",
+  "source_url": "https://e-prawnik.pl/forum/prawo-do-layoutu-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/prawo-do-layoutu-1.html",
+  "archive_file": "e_prawnik/eprawnik_00015.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54561,
+  "sha256": "c2e8733ef80807a3937b90589d4c4dda50055280fcfae6e360816b6994b9020f",
+  "download_date": "2026-05-16T07:23:02Z",
+  "duration_sec": 0.185,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

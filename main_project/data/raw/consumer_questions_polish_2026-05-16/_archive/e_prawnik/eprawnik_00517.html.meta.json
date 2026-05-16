@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00517",
+  "source_url": "https://e-prawnik.pl/forum/obciazenie-kosztami-za-wynajem-stancji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/obciazenie-kosztami-za-wynajem-stancji.html",
+  "archive_file": "e_prawnik/eprawnik_00517.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57426,
+  "sha256": "f2f5692c5d110901d4b72285c0e5e30226bfb31477c0579f915eba3a9cdc5a90",
+  "download_date": "2026-05-16T07:32:49Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

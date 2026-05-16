@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00490",
+  "source_url": "https://e-prawnik.pl/forum/nieslusznie-pobrana-prowizja-za-przelew-bankowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/nieslusznie-pobrana-prowizja-za-przelew-bankowy.html",
+  "archive_file": "e_prawnik/eprawnik_00490.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54615,
+  "sha256": "a28624531bdeb9871cf45926cd29e4dd740235bc52a4f8aa923bfd2ac89a6e7d",
+  "download_date": "2026-05-16T07:32:17Z",
+  "duration_sec": 0.202,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

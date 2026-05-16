@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00022",
+  "source_url": "https://e-prawnik.pl/forum/witammam-dosc-nietypowy-problem-przynajmniej-tak-mi-sie-wydaje-do-rzeczy-mieszkam-w-miescinie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witammam-dosc-nietypowy-problem-przynajmniej-tak-mi-sie-wydaje-do-rzeczy-mieszkam-w-miescinie.html",
+  "archive_file": "e_prawnik/eprawnik_00022.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60092,
+  "sha256": "cd6c7e278256e0fe4b7bef33b51c0a7832fd6b7cabb624ba9de4b6e907fa217b",
+  "download_date": "2026-05-16T07:23:10Z",
+  "duration_sec": 0.164,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

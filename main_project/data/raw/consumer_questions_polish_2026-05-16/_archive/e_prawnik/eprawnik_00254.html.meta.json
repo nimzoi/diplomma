@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00254",
+  "source_url": "https://e-prawnik.pl/forum/allegro-odmowa-reklamacji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/allegro-odmowa-reklamacji.html",
+  "archive_file": "e_prawnik/eprawnik_00254.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57884,
+  "sha256": "ec05fe29881fa88bdc69a40d13849983f0c7bb5c256773f95f200e6003c8c222",
+  "download_date": "2026-05-16T07:27:40Z",
+  "duration_sec": 0.182,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

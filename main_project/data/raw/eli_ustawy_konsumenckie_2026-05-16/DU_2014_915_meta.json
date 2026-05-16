@@ -1,0 +1,37 @@
+{
+  "ustawa_id": "DU/2014/915",
+  "short_title": "Ustawy o informowaniu o cenach towarów i usług",
+  "title": "Ustawa z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług",
+  "publisher": "DU",
+  "year": 2014,
+  "pos": 915,
+  "display_address": "Dz.U. 2014 poz. 915",
+  "type": "Ustawa",
+  "data_uchwalenia": "2014-05-09",
+  "data_promulgacji": "2014-07-10",
+  "data_wejscia_w_zycie": "2014-07-25",
+  "ostatnia_zmiana": "2024-03-14T20:19:27",
+  "obowiazujaca": true,
+  "in_force_raw": "IN_FORCE",
+  "status": "akt posiada tekst jednolity",
+  "ELI": "DU/2014/915",
+  "previous_title": [],
+  "art_filter": null,
+  "chunk_count": 46,
+  "source_metadata_url": "https://api.sejm.gov.pl/eli/acts/DU/2014/915",
+  "source_html_url": "https://api.sejm.gov.pl/eli/acts/DU/2014/915/text.html",
+  "consolidated_text_references": [
+    "DU/2023/168",
+    "DU/2019/178",
+    "DU/2017/1830"
+  ],
+  "amending_acts": [
+    "DU/2022/2581",
+    "DU/2018/650",
+    "DU/2016/1823"
+  ],
+  "directives_eu": [
+    "31998L0006"
+  ],
+  "scrape_date": "2026-05-16"
+}

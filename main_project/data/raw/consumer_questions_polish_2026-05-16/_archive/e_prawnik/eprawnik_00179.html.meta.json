@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00179",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-w-sklepie-z-elektronika.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-w-sklepie-z-elektronika.html",
+  "archive_file": "e_prawnik/eprawnik_00179.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56801,
+  "sha256": "2a88237e2a1d3ef341e1c2ee92c5b8231b4d71e7508808ed614bf11f7f945fae",
+  "download_date": "2026-05-16T07:26:13Z",
+  "duration_sec": 0.153,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

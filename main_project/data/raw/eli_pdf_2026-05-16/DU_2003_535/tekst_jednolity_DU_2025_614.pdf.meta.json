@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2003/535",
+  "ustawa_title": "Ustawa z dnia 28 lutego 2003 r. Prawo upadłościowe",
+  "kind": "tekst_jednolity",
+  "consolidated_ref": "DU/2025/614",
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2025/614/text.pdf",
+  "size_bytes": 2295999,
+  "sha256": "1adf0a0fb632aa8157c3315584f6e0f9a9e291ea8fe46a40d41e82f267870d17",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

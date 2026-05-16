@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00529",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-zeba-prosze-o-pomoc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-zeba-prosze-o-pomoc.html",
+  "archive_file": "e_prawnik/eprawnik_00529.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57171,
+  "sha256": "93e59f5af5b6b191ec55b916df5d137b1b2a9654124273d8517cd137f86df124",
+  "download_date": "2026-05-16T07:33:03Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

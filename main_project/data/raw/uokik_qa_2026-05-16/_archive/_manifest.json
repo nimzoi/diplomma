@@ -1,0 +1,138 @@
+{
+  "source": "prawakonsumenta.uokik.gov.pl",
+  "source_dir": "main_project\\data\\raw\\uokik_qa_2026-05-16",
+  "scrape_date": "2026-05-16",
+  "stats": {
+    "total_entries": 5,
+    "total_errors": 0,
+    "total_bytes": 509575
+  },
+  "entries": [
+    {
+      "doc_id": "Ogolne__5fca7d3e",
+      "source_url": "https://prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/zagadnienia-ogolne/",
+      "archive_path": "_archive/./Ogolne__5fca7d3e.html",
+      "content_type": "text/html",
+      "size_bytes": 100954,
+      "sha256": "1a4d3a04925681b57ce91885d29db9bc0bf5a41acd72a20bb6b1a8b50e7e1fb3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_zagadnienia-ogolne_001",
+        "uokik_zagadnienia-ogolne_002",
+        "uokik_zagadnienia-ogolne_003",
+        "uokik_zagadnienia-ogolne_004",
+        "uokik_zagadnienia-ogolne_005",
+        "uokik_zagadnienia-ogolne_006",
+        "uokik_zagadnienia-ogolne_007",
+        "uokik_zagadnienia-ogolne_008",
+        "uokik_zagadnienia-ogolne_009",
+        "uokik_zagadnienia-ogolne_010",
+        "uokik_zagadnienia-ogolne_011",
+        "uokik_zagadnienia-ogolne_012"
+      ],
+      "license": null,
+      "http_status": 200
+    },
+    {
+      "doc_id": "Prawo_do_informacji__f4e6b147",
+      "source_url": "https://prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/obowiazki-informacyjne/",
+      "archive_path": "_archive/./Prawo_do_informacji__f4e6b147.html",
+      "content_type": "text/html",
+      "size_bytes": 111645,
+      "sha256": "9f34155e75106214d998e7717c8777786770687bb70a985b5f04f3d2c494f302",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_obowiazki-informacyjne_001",
+        "uokik_obowiazki-informacyjne_002",
+        "uokik_obowiazki-informacyjne_003",
+        "uokik_obowiazki-informacyjne_004",
+        "uokik_obowiazki-informacyjne_005",
+        "uokik_obowiazki-informacyjne_006",
+        "uokik_obowiazki-informacyjne_007",
+        "uokik_obowiazki-informacyjne_008",
+        "uokik_obowiazki-informacyjne_009",
+        "uokik_obowiazki-informacyjne_010",
+        "uokik_obowiazki-informacyjne_011",
+        "uokik_obowiazki-informacyjne_012",
+        "uokik_obowiazki-informacyjne_013",
+        "uokik_obowiazki-informacyjne_014",
+        "uokik_obowiazki-informacyjne_015",
+        "uokik_obowiazki-informacyjne_016",
+        "uokik_obowiazki-informacyjne_017",
+        "uokik_obowiazki-informacyjne_018",
+        "uokik_obowiazki-informacyjne_019",
+        "uokik_obowiazki-informacyjne_020"
+      ],
+      "license": null,
+      "http_status": 200
+    },
+    {
+      "doc_id": "Odstapienie_od_umowy__25208266",
+      "source_url": "https://prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/odstapienie-od-umowy/",
+      "archive_path": "_archive/./Odstapienie_od_umowy__25208266.html",
+      "content_type": "text/html",
+      "size_bytes": 112380,
+      "sha256": "d7fae69e59c60657b69dfae3bafaa01a94343638c5ed92f566e3efb1979169d6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_odstapienie-od-umowy_001",
+        "uokik_odstapienie-od-umowy_002",
+        "uokik_odstapienie-od-umowy_003",
+        "uokik_odstapienie-od-umowy_004",
+        "uokik_odstapienie-od-umowy_005",
+        "uokik_odstapienie-od-umowy_006",
+        "uokik_odstapienie-od-umowy_007",
+        "uokik_odstapienie-od-umowy_008",
+        "uokik_odstapienie-od-umowy_009",
+        "uokik_odstapienie-od-umowy_010",
+        "uokik_odstapienie-od-umowy_011",
+        "uokik_odstapienie-od-umowy_012",
+        "uokik_odstapienie-od-umowy_013",
+        "uokik_odstapienie-od-umowy_014",
+        "uokik_odstapienie-od-umowy_015",
+        "uokik_odstapienie-od-umowy_016",
+        "uokik_odstapienie-od-umowy_017",
+        "uokik_odstapienie-od-umowy_018",
+        "uokik_odstapienie-od-umowy_019"
+      ],
+      "license": null,
+      "http_status": 200
+    },
+    {
+      "doc_id": "Reklamacja__8f1e7f59",
+      "source_url": "https://prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/reklamacje/",
+      "archive_path": "_archive/./Reklamacja__8f1e7f59.html",
+      "content_type": "text/html",
+      "size_bytes": 92333,
+      "sha256": "91185502dcaeb5e16db680dc7fe8e5ca78a7da204275a49bf0c252ff2a851a03",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_reklamacje_001",
+        "uokik_reklamacje_002",
+        "uokik_reklamacje_003",
+        "uokik_reklamacje_004",
+        "uokik_reklamacje_005",
+        "uokik_reklamacje_006"
+      ],
+      "license": null,
+      "http_status": 200
+    },
+    {
+      "doc_id": "Telemarketing__f26ed84f",
+      "source_url": "https://prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/telemarketing/",
+      "archive_path": "_archive/./Telemarketing__f26ed84f.html",
+      "content_type": "text/html",
+      "size_bytes": 92263,
+      "sha256": "9e664bd3ba096a2401490874ce589a5f502c4311994ca7e8077ea693148adb69",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "uokik_telemarketing_001",
+        "uokik_telemarketing_002",
+        "uokik_telemarketing_003"
+      ],
+      "license": null,
+      "http_status": 200
+    }
+  ],
+  "errors": []
+}

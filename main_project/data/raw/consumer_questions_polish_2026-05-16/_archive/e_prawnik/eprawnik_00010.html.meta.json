@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00010",
+  "source_url": "https://e-prawnik.pl/forum/witamzajmuje-sie-tworzeniem-sklepow-internetowych-z-grafika-w-trakcie-jednego-zlecenia-klient.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witamzajmuje-sie-tworzeniem-sklepow-internetowych-z-grafika-w-trakcie-jednego-zlecenia-klient.html",
+  "archive_file": "e_prawnik/eprawnik_00010.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58044,
+  "sha256": "4a711f96042e7bb996895ceb52416eba7beed62b9cb870a06084ecb7a15a2b11",
+  "download_date": "2026-05-16T07:22:56Z",
+  "duration_sec": 0.234,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

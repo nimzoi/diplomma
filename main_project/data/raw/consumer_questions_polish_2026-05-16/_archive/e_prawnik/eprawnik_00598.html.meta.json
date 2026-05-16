@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00598",
+  "source_url": "https://e-prawnik.pl/forum/po-jakim-czasie-nastepuje-przedawnienie-sprawy-chodzi-o-odszkodowanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/po-jakim-czasie-nastepuje-przedawnienie-sprawy-chodzi-o-odszkodowanie.html",
+  "archive_file": "e_prawnik/eprawnik_00598.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52666,
+  "sha256": "63b893674df384721c156a1973c6ec823cdf29ca3fce3c2bbf44fbfe376f308f",
+  "download_date": "2026-05-16T07:34:25Z",
+  "duration_sec": 0.173,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

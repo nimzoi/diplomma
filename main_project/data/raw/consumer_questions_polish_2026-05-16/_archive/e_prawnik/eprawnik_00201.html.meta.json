@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00201",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-do-sklepu-internetowego-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-do-sklepu-internetowego-1.html",
+  "archive_file": "e_prawnik/eprawnik_00201.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56930,
+  "sha256": "a8922dc27db7fbe05852bdd59af18c4ae2ca38abe0e9c75c0ff43eba6f4de32e",
+  "download_date": "2026-05-16T07:26:39Z",
+  "duration_sec": 0.218,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

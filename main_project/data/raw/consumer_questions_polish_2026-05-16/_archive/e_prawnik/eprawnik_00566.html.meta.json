@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00566",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaz-mieszkania-przez-wspolwlascicieli.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaz-mieszkania-przez-wspolwlascicieli.html",
+  "archive_file": "e_prawnik/eprawnik_00566.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56435,
+  "sha256": "193d31ae23b9a379e1a634ead96e0dfbf5810926050dbfe9c378d0b4940fa9b3",
+  "download_date": "2026-05-16T07:33:47Z",
+  "duration_sec": 0.252,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

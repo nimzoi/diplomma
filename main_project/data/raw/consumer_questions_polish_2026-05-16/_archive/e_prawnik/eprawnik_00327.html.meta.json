@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00327",
+  "source_url": "https://e-prawnik.pl/forum/allegro-nie-chce-zwrocic-prowizji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/allegro-nie-chce-zwrocic-prowizji.html",
+  "archive_file": "e_prawnik/eprawnik_00327.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56744,
+  "sha256": "b02c0d4cb60b5b5c94cc98c23e1e48533e1edc47ef2f32eb4de202a2dfc9a576",
+  "download_date": "2026-05-16T07:29:06Z",
+  "duration_sec": 0.135,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00176",
+  "source_url": "https://e-prawnik.pl/forum/oszustwo-przy-zakupie-rzeczy-od-osoby-prywatnej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/oszustwo-przy-zakupie-rzeczy-od-osoby-prywatnej.html",
+  "archive_file": "e_prawnik/eprawnik_00176.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56945,
+  "sha256": "ed7fbedad1ae4ca814e8acb33193fe41433529e344fed8ffb6914316691f7986",
+  "download_date": "2026-05-16T07:26:09Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

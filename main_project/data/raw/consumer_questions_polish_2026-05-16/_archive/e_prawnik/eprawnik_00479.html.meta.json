@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00479",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-od-warszawskiego-metra.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-od-warszawskiego-metra.html",
+  "archive_file": "e_prawnik/eprawnik_00479.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59304,
+  "sha256": "d1e9d607013c5dd04f0ef600e17192e4f917c9fd6a4972220ac23a4682d4c4b8",
+  "download_date": "2026-05-16T07:32:04Z",
+  "duration_sec": 0.153,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

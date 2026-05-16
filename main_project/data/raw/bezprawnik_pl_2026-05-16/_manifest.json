@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 3,
+  "entries": [
+    {
+      "article_id": "bezprawnik_0001_nawet_i_100_tys_zotych_kary_za_czerpanie_wody_z_wa",
+      "url": "https://bezprawnik.pl/100-tys-zlotych-kary-za-czerpanie-wody-z-wlasnej-studni/",
+      "status": 200,
+      "title": "Nawet i 100 tys. złotych kary za czerpanie wody z własnej studni. Inspektorzy są bezlitośni",
+      "char_count": 9334
+    },
+    {
+      "article_id": "bezprawnik_0002_14_dni_na_zwrot_elektroniki_to_kiepski_pomys_godzi",
+      "url": "https://bezprawnik.pl/14-dni-na-zwrot-elektroniki-to-kiepski-pomysl/",
+      "status": 200,
+      "title": "14 dni na zwrot elektroniki to kiepski pomysł, godzi w interesy sklepów i interesy konsumentów",
+      "char_count": 10208
+    },
+    {
+      "article_id": "bezprawnik_0003_36_miesiecy_urlopu_przy_zachowaniu_etatu_takiego_r",
+      "url": "https://bezprawnik.pl/36-miesieczny-urlop-przedsiebiorczy/",
+      "status": 200,
+      "title": "36 miesięcy urlopu przy zachowaniu etatu. Takiego rozwiązania jeszcze nie było",
+      "char_count": 7489
+    }
+  ]
+}

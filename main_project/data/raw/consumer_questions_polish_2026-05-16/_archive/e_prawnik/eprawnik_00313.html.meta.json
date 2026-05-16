@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00313",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-naroznika-allegro.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-naroznika-allegro.html",
+  "archive_file": "e_prawnik/eprawnik_00313.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56357,
+  "sha256": "bebd14e79573c71014c767deb5aec639d7477c5b1efb28b8ffabb48203b6d3f6",
+  "download_date": "2026-05-16T07:28:49Z",
+  "duration_sec": 0.175,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

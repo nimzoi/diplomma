@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00538",
+  "source_url": "https://e-prawnik.pl/forum/odzyskanie-pozyczki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odzyskanie-pozyczki.html",
+  "archive_file": "e_prawnik/eprawnik_00538.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56624,
+  "sha256": "8c23cbe03de9ad1464f5e5147dd770cc03898534a27471191d49ee12fb3d51f2",
+  "download_date": "2026-05-16T07:33:14Z",
+  "duration_sec": 0.219,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

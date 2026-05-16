@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00087",
+  "source_url": "https://e-prawnik.pl/forum/rekojmia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rekojmia.html",
+  "archive_file": "e_prawnik/eprawnik_00087.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60290,
+  "sha256": "fe53bb542600c9708cc0f486a9d063e39f105a52a40a66e52e1709d36ff54da0",
+  "download_date": "2026-05-16T07:24:27Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

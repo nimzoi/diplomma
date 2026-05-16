@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00412",
+  "source_url": "https://e-prawnik.pl/forum/artykul-415-kc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/artykul-415-kc.html",
+  "archive_file": "e_prawnik/eprawnik_00412.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56912,
+  "sha256": "f9241ac6e029187c452905a0dd354906dca4e2137f67adc41d66c143a3d1333c",
+  "download_date": "2026-05-16T07:30:47Z",
+  "duration_sec": 0.14,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

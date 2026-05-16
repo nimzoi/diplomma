@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00370",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-zakupu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-zakupu.html",
+  "archive_file": "e_prawnik/eprawnik_00370.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60454,
+  "sha256": "1d7012d654a3e7010533f7455dac7c1cc706d955632db1011298baf24ec72ffa",
+  "download_date": "2026-05-16T07:29:57Z",
+  "duration_sec": 0.192,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

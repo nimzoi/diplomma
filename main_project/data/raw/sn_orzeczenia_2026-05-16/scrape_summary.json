@@ -1,0 +1,14 @@
+{
+  "source": "sn.pl",
+  "scrape_date": "2026-05-16",
+  "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+  "attempted": 25,
+  "succeeded": 25,
+  "failed": 0,
+  "skipped": 0,
+  "waf_blocks": 0,
+  "parse_errors": 0,
+  "total_words": 97726,
+  "skip_reasons": {},
+  "notes": "jsonl_total_records=121; new_this_run=25; "
+}

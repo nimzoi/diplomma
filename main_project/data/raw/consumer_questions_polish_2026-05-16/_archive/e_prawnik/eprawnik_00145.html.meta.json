@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00145",
+  "source_url": "https://e-prawnik.pl/forum/umorzenie-sprawy-o-pobicie-mimo-przyznania-sie-do-winy-podejrzanego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umorzenie-sprawy-o-pobicie-mimo-przyznania-sie-do-winy-podejrzanego.html",
+  "archive_file": "e_prawnik/eprawnik_00145.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68210,
+  "sha256": "e69e06527d19cc9d4750a83405f1f2e53526507b0a97dd770cc4df186f921a33",
+  "download_date": "2026-05-16T07:25:34Z",
+  "duration_sec": 0.19,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

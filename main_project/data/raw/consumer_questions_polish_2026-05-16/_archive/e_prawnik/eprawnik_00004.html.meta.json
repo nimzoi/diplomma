@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00004",
+  "source_url": "https://e-prawnik.pl/forum/przeniesienie-praw-autorskich-i-majatkowych-a-gwarancja.html",
+  "fetch_url": "https://e-prawnik.pl/forum/przeniesienie-praw-autorskich-i-majatkowych-a-gwarancja.html",
+  "archive_file": "e_prawnik/eprawnik_00004.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54698,
+  "sha256": "4e8ebfa6b439e3842484b1b85448e8823901c9fb4c949253c38003ad4817fed7",
+  "download_date": "2026-05-16T07:22:49Z",
+  "duration_sec": 0.29,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

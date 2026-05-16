@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00250",
+  "source_url": "https://e-prawnik.pl/forum/oszukany-przez-olx-i-prokurator.html",
+  "fetch_url": "https://e-prawnik.pl/forum/oszukany-przez-olx-i-prokurator.html",
+  "archive_file": "e_prawnik/eprawnik_00250.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57129,
+  "sha256": "d579cfbf7cbf3ce974d0e2baaf16dd19f99f113ae70d3a4c3926d3133976708d",
+  "download_date": "2026-05-16T07:27:36Z",
+  "duration_sec": 0.156,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

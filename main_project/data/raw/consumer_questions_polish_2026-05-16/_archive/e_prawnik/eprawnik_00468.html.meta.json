@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00468",
+  "source_url": "https://e-prawnik.pl/forum/poparzenie-twarzy-kwasem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/poparzenie-twarzy-kwasem.html",
+  "archive_file": "e_prawnik/eprawnik_00468.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57092,
+  "sha256": "ecd57f177b0b13fbbb03d8a066cdcf2558064add934ec73f6182ad4fa967282c",
+  "download_date": "2026-05-16T07:31:52Z",
+  "duration_sec": 0.132,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

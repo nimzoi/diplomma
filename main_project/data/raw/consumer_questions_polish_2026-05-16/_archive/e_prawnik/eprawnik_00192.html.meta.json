@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00192",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-towaru-przez-inernet.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-towaru-przez-inernet.html",
+  "archive_file": "e_prawnik/eprawnik_00192.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56488,
+  "sha256": "88ec80e341ee9b55eee6515b9d4f1f531d630eb068c3e5e62916cf723df20c6b",
+  "download_date": "2026-05-16T07:26:28Z",
+  "duration_sec": 0.24,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

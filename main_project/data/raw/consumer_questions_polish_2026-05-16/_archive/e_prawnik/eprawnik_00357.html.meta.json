@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00357",
+  "source_url": "https://e-prawnik.pl/forum/zakup-spawarki-allegro.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakup-spawarki-allegro.html",
+  "archive_file": "e_prawnik/eprawnik_00357.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56289,
+  "sha256": "a5adb0d66f76f6e8fa980ce2d96261824ec5c2e2d96b3bd0837e43a829605c73",
+  "download_date": "2026-05-16T07:29:42Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

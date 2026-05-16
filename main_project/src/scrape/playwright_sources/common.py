@@ -136,7 +136,12 @@ def extract_citations(text: str) -> list[str]:
 
 
 _KARA_RE = re.compile(
-    r"(?:kara|kwota|grzywna)[a-zż\s]*?(\d[\d\s.,]*)\s*(?:zł|PLN|złotych)", re.IGNORECASE
+    # "karę pieniężną w wysokości 1 234 567,89 zł", "kwota 500000 zł",
+    # "grzywna 10 000,00 PLN" — pochwytujemy phrase z liczbą + zł/PLN.
+    r"(?:kar[ęaęy]|grzywn[aęy]|kwot[aęy]|w\s+wysokości|wysokoś[cć][ąi])"
+    r"[\w\s,;.()-]{0,80}?"
+    r"(\d[\d\s .,]*?)\s*(?:zł|PLN|złotych)",
+    re.IGNORECASE,
 )
 
 

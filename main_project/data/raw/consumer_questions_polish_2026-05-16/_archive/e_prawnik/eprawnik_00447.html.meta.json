@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00447",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-a-wysylka-do-serwisu-bez-mojej-zgody.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-a-wysylka-do-serwisu-bez-mojej-zgody.html",
+  "archive_file": "e_prawnik/eprawnik_00447.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57825,
+  "sha256": "1b13a79674ea044aa8a6b568ed6f7c74164ef30064b0f0b345be7f700cbc054b",
+  "download_date": "2026-05-16T07:31:27Z",
+  "duration_sec": 0.114,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

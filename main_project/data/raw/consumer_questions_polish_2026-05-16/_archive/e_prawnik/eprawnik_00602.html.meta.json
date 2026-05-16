@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00602",
+  "source_url": "https://e-prawnik.pl/forum/uszkodzony-laptop.html",
+  "fetch_url": "https://e-prawnik.pl/forum/uszkodzony-laptop.html",
+  "archive_file": "e_prawnik/eprawnik_00602.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58054,
+  "sha256": "29533a4ac4a540ff95d427727663ee412cd5cf49cb1fa7f674bc212dec903a39",
+  "download_date": "2026-05-16T07:34:30Z",
+  "duration_sec": 0.249,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

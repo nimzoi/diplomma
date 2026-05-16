@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00240",
+  "source_url": "https://e-prawnik.pl/forum/wada-produktu-nie-z-winy-sprzedajacego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wada-produktu-nie-z-winy-sprzedajacego.html",
+  "archive_file": "e_prawnik/eprawnik_00240.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56988,
+  "sha256": "cfccbfe8f84b62dfd0aba8b6c4616223c45eff44d3a277169a0a2f5af0f5d55c",
+  "download_date": "2026-05-16T07:27:24Z",
+  "duration_sec": 0.223,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

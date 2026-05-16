@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00232",
+  "source_url": "https://e-prawnik.pl/forum/rodo-a-analiza-zachowan-uzytkownikow-w-obiekcie-handlowym.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rodo-a-analiza-zachowan-uzytkownikow-w-obiekcie-handlowym.html",
+  "archive_file": "e_prawnik/eprawnik_00232.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56719,
+  "sha256": "8e75c7d73bcfc8df476c724fff784fffabf40004aff82f06bd05c20abd599052",
+  "download_date": "2026-05-16T07:27:15Z",
+  "duration_sec": 0.097,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

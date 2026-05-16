@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00306",
+  "source_url": "https://e-prawnik.pl/forum/problem-spor-na-allegro.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-spor-na-allegro.html",
+  "archive_file": "e_prawnik/eprawnik_00306.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56073,
+  "sha256": "eb6c448fad8b1ddc83828f7d1cf00c1431dc72abf3059d6593137a3660926a6b",
+  "download_date": "2026-05-16T07:28:41Z",
+  "duration_sec": 0.156,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

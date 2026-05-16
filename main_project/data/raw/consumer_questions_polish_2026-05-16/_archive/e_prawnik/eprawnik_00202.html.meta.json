@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00202",
+  "source_url": "https://e-prawnik.pl/forum/parafka-w-umowie-kupno-sprzedaz.html",
+  "fetch_url": "https://e-prawnik.pl/forum/parafka-w-umowie-kupno-sprzedaz.html",
+  "archive_file": "e_prawnik/eprawnik_00202.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56801,
+  "sha256": "7dfab29dabb49e46d29fff7fcda0ea3f0644e3deafa9ac99ca2dab35bf29c3a4",
+  "download_date": "2026-05-16T07:26:40Z",
+  "duration_sec": 0.159,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

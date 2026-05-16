@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00505",
+  "source_url": "https://e-prawnik.pl/forum/nieprawidlowy-montaz-mebli-powodem-uszkodzenia-agd.html",
+  "fetch_url": "https://e-prawnik.pl/forum/nieprawidlowy-montaz-mebli-powodem-uszkodzenia-agd.html",
+  "archive_file": "e_prawnik/eprawnik_00505.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57701,
+  "sha256": "a4fb882cd743fd1ef8cbbd2c91e2efba41c383e02ed1f81a73252328ebd18bec",
+  "download_date": "2026-05-16T07:32:34Z",
+  "duration_sec": 0.146,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00632",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowania-za-slupy-energetyczne.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowania-za-slupy-energetyczne.html",
+  "archive_file": "e_prawnik/eprawnik_00632.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59272,
+  "sha256": "785c613b858d5a0afdcd5f2f39cf0c8c0c49eb8001626e35060b13b62b6c0db0",
+  "download_date": "2026-05-16T07:35:06Z",
+  "duration_sec": 0.135,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

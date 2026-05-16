@@ -1,0 +1,22 @@
+{
+  "case_id": "C-565/12",
+  "celex_id": "62012CJ0565",
+  "case_name": "LCL Le Credit Lyonnais SA v Fesih Kalhan",
+  "case_name_short": "LCL",
+  "data_orzeczenia": "2014-03-27",
+  "sklad": "czwarta izba: L. Bay Larsen",
+  "streszczenie": "„Ochrona konsumentów — Umowy o kredyt konsumencki — Dyrektywa 2008/48/WE — Artykuły 8 i 23 — Przedkontraktowy obowiązek oceny zdolności kredytowej kredytobiorcy ciążący na kredytodawcy — Przepis krajowy nakładający obowiązek sprawdzenia bazy danych — Pozbawienie prawa do odsetek umownych w wypadku naruszenia takiego obowiązku — Skuteczny, proporcjonalny i odstraszający charakter sankcji”",
+  "tezy_kluczowe": [
+    "Artykuł 23 dyrektywy 2008/48/WE Parlamentu Europejskiego i Rady z dnia 23 kwietnia 2008 r. w sprawie umów o kredyt konsumencki oraz uchylającej dyrektywę Rady 87/102/EWG należy dokonywać w ten sposób, że stoi on na przeszkodzie stosowaniu krajowych przepisów dotyczących sankcji, na mocy których w wypadku naruszenia przez kredytodawcę przedkontraktowego obowiązku oceny zdolności kredytowej kredytobiorcy poprzez sprawdzenie odpowiedniej bazy danych ów kredytodawca jest pozbawiany prawa do odsetek umownych, lecz z mocy prawa przysługują mu odsetki ustawowe wymagalne od daty ogłoszenia wyroku sądowego nakazującego kredytobiorcy zapłatę kwot pozostałych do spłacenia, których stawka jest ponadto podwyższona o 5 punktów, jeżeli po upływie dwóch miesięcy tego ogłoszenia kredytobiorca nie spłacił długu, o ile sąd odsyłający stwierdzi, że w wypadku takim jak w sprawie głównej, powodującym natychmiastową wymagalność pozostałego do spłaty kapitału kredytu ze względu na zaleganie kredytobiorcy ze spłatą, kwoty, jakie faktycznie może otrzymać kredytodawca w wyniku zastosowania sankcji pozbawienia prawa do odsetek, nie są znacząco niższe od tych, jakie mógłby on otrzymać, gdyby dochował obowiązku oceny zdolności kredytowej kredytobiorcy."
+  ],
+  "related_directives": [
+    "2008/48/WE"
+  ],
+  "legal_topic": "sankcje za naruszenie obowiazku oceny zdolnosci kredytowej",
+  "notes": "",
+  "citation_string": "Wyrok TSUE z dnia 27 marca 2014 r. w sprawie C-565/12 LCL",
+  "pelna_tresc_length": 32338,
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+  "scrape_date": "2026-05-16",
+  "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62012CJ0565"
+}

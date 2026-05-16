@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00627",
+  "source_url": "https://e-prawnik.pl/forum/aneks-do-umowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/aneks-do-umowy.html",
+  "archive_file": "e_prawnik/eprawnik_00627.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61813,
+  "sha256": "5bf242f965c1ffadd879d71434ed4701d609b9a4b0262cefca67b078116832d3",
+  "download_date": "2026-05-16T07:35:00Z",
+  "duration_sec": 0.166,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

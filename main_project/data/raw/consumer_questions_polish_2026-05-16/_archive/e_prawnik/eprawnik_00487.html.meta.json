@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00487",
+  "source_url": "https://e-prawnik.pl/forum/odmowa-reklamacji-nowe-uszkodzenia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odmowa-reklamacji-nowe-uszkodzenia.html",
+  "archive_file": "e_prawnik/eprawnik_00487.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56312,
+  "sha256": "6af3650870a72a891b6736726cdd0d90b5057b93b7906b08d097ab4bfaa217b8",
+  "download_date": "2026-05-16T07:32:14Z",
+  "duration_sec": 0.141,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

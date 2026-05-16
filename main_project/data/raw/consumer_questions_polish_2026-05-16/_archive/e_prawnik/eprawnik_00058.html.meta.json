@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00058",
+  "source_url": "https://e-prawnik.pl/forum/szybka-pozyczka-przez-internet-czy-to-jest-bezpieczne.html",
+  "fetch_url": "https://e-prawnik.pl/forum/szybka-pozyczka-przez-internet-czy-to-jest-bezpieczne.html",
+  "archive_file": "e_prawnik/eprawnik_00058.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58324,
+  "sha256": "16c5656479799517f6da24e5c9f9403ba93acb6312500b02e8ad5d95a1b6df34",
+  "download_date": "2026-05-16T07:23:53Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

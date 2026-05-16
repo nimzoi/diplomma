@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00051",
+  "source_url": "https://e-prawnik.pl/forum/warto-brac-pozyczke-w-providencie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/warto-brac-pozyczke-w-providencie.html",
+  "archive_file": "e_prawnik/eprawnik_00051.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58046,
+  "sha256": "153bfe9d13c9a91a5215705e62531b14dc5255dd5a6f339bcabe712f2de67161",
+  "download_date": "2026-05-16T07:23:44Z",
+  "duration_sec": 0.14,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

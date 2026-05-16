@@ -1,0 +1,45 @@
+{
+  "ustawa_id": "DU/2003/2275",
+  "short_title": "Ustawy o ogólnym bezpieczeństwie produktów",
+  "title": "Ustawa z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów",
+  "publisher": "DU",
+  "year": 2003,
+  "pos": 2275,
+  "display_address": "Dz.U. 2003 nr 229 poz. 2275",
+  "type": "Ustawa",
+  "data_uchwalenia": "2003-12-12",
+  "data_promulgacji": "2003-12-31",
+  "data_wejscia_w_zycie": "2004-01-31",
+  "ostatnia_zmiana": "2026-01-05T08:59:50",
+  "obowiazujaca": false,
+  "in_force_raw": "NOT_IN_FORCE",
+  "status": "uchylony",
+  "ELI": "DU/2003/2275",
+  "previous_title": [],
+  "art_filter": null,
+  "chunk_count": 189,
+  "source_metadata_url": "https://api.sejm.gov.pl/eli/acts/DU/2003/2275",
+  "source_html_url": "https://api.sejm.gov.pl/eli/acts/DU/2003/2275/text.html",
+  "consolidated_text_references": [
+    "DU/2021/222",
+    "DU/2016/2047",
+    "DU/2015/322"
+  ],
+  "amending_acts": [
+    "DU/2020/1337",
+    "DU/2016/542",
+    "DU/2016/1228",
+    "DU/2014/1662",
+    "DU/2011/586",
+    "DU/2011/322",
+    "DU/2009/97",
+    "DU/2009/106",
+    "DU/2008/976",
+    "DU/2007/215"
+  ],
+  "directives_eu": [
+    "32001L0095",
+    "32008R0765"
+  ],
+  "scrape_date": "2026-05-16"
+}

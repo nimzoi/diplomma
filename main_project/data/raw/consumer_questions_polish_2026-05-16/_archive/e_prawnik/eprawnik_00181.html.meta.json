@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00181",
+  "source_url": "https://e-prawnik.pl/forum/dyskryminacja-i-naruszenie-dobr-osobistych-w-rozmowie-telefonicznej-dotyczacej-udzielenia-porad.html",
+  "fetch_url": "https://e-prawnik.pl/forum/dyskryminacja-i-naruszenie-dobr-osobistych-w-rozmowie-telefonicznej-dotyczacej-udzielenia-porad.html",
+  "archive_file": "e_prawnik/eprawnik_00181.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59197,
+  "sha256": "bf7a795e3a6604bb59699a3f8b14a8dbf3da19d8eac92754e3803eb31491efd4",
+  "download_date": "2026-05-16T07:26:15Z",
+  "duration_sec": 0.108,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

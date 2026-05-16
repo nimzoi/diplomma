@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00287",
+  "source_url": "https://e-prawnik.pl/forum/umowa-najmu-okazjonalnego-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-najmu-okazjonalnego-1.html",
+  "archive_file": "e_prawnik/eprawnik_00287.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60804,
+  "sha256": "9c2f6466776ab49a8b1f2e7c2a23125b11b19bec245d44389551f424633f2248",
+  "download_date": "2026-05-16T07:28:19Z",
+  "duration_sec": 0.153,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

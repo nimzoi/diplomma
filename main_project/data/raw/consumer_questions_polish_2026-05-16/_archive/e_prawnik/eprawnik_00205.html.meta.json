@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00205",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-dom-ze-szkod-gorniczych.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-dom-ze-szkod-gorniczych.html",
+  "archive_file": "e_prawnik/eprawnik_00205.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60694,
+  "sha256": "ad24efc6fe7d363a6af7b850ee55651e556dc792392bc2f1b438e59bb3787d10",
+  "download_date": "2026-05-16T07:26:43Z",
+  "duration_sec": 0.135,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

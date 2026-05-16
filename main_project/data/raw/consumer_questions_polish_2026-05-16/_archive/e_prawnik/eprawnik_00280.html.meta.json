@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00280",
+  "source_url": "https://e-prawnik.pl/forum/mechanik-nie-poczuwa-sie-do-odpowiedzialnosci.html",
+  "fetch_url": "https://e-prawnik.pl/forum/mechanik-nie-poczuwa-sie-do-odpowiedzialnosci.html",
+  "archive_file": "e_prawnik/eprawnik_00280.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59390,
+  "sha256": "2e3cd2860d8b1434af5a34b811465490d1b17252da03d283189dabd495a51453",
+  "download_date": "2026-05-16T07:28:11Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00600",
+  "source_url": "https://e-prawnik.pl/forum/zaginiona-przesylka-kurierska.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zaginiona-przesylka-kurierska.html",
+  "archive_file": "e_prawnik/eprawnik_00600.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56037,
+  "sha256": "a0384fb4c5a6b80157aeb1f5ea2847df398c2d3b019ba00382f5e76ee212e672",
+  "download_date": "2026-05-16T07:34:28Z",
+  "duration_sec": 0.215,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

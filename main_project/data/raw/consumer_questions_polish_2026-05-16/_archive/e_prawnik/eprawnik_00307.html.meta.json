@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00307",
+  "source_url": "https://e-prawnik.pl/forum/zajecie-odszkodowania-nnw-przyznanego-dziecku-przez-komornika.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zajecie-odszkodowania-nnw-przyznanego-dziecku-przez-komornika.html",
+  "archive_file": "e_prawnik/eprawnik_00307.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57910,
+  "sha256": "98c4b1844304e7f8a76860f26f22713d3cc79f21205ebe9a42d959efd64cb511",
+  "download_date": "2026-05-16T07:28:42Z",
+  "duration_sec": 0.179,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00454",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-zle-zlozona-reke.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-zle-zlozona-reke.html",
+  "archive_file": "e_prawnik/eprawnik_00454.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58927,
+  "sha256": "d7822db30bf33a5352d49e7b32f9948b1d3b6dfb42a95891efdb8dafa8d935d8",
+  "download_date": "2026-05-16T07:31:35Z",
+  "duration_sec": 0.146,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

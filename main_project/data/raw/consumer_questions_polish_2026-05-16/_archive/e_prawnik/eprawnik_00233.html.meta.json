@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00233",
+  "source_url": "https://e-prawnik.pl/forum/rodo-a-analiza-zachowan-uzytkownikow-w-obiekcie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rodo-a-analiza-zachowan-uzytkownikow-w-obiekcie.html",
+  "archive_file": "e_prawnik/eprawnik_00233.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56662,
+  "sha256": "59c64c38c6b009401d1d615ad2e9155370e0af6d4bf03c313c05600a2dfaba20",
+  "download_date": "2026-05-16T07:27:16Z",
+  "duration_sec": 0.122,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

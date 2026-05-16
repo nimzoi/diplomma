@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00117",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-od-bylego-najemcy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-od-bylego-najemcy.html",
+  "archive_file": "e_prawnik/eprawnik_00117.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58656,
+  "sha256": "f6bf1d81cc81e28fdc2251e533fa052190f0e4a7455518799fb8ccbcddf362f8",
+  "download_date": "2026-05-16T07:25:01Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00223",
+  "source_url": "https://e-prawnik.pl/forum/umowa-o-dzielo-strona-internetowa-brak-uslugi.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-o-dzielo-strona-internetowa-brak-uslugi.html",
+  "archive_file": "e_prawnik/eprawnik_00223.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55919,
+  "sha256": "03740f04051c7271a18a8404fe627a93965fded00541fbc5c467743e086100f1",
+  "download_date": "2026-05-16T07:27:04Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

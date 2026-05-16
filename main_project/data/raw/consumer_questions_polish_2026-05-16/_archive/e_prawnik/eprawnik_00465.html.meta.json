@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00465",
+  "source_url": "https://e-prawnik.pl/forum/odrzucona-reklamacja-butow-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odrzucona-reklamacja-butow-1.html",
+  "archive_file": "e_prawnik/eprawnik_00465.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58868,
+  "sha256": "ecdb91fde4afac183074bef60aacdb0310452ba91d307e0faf5556845de8ca0d",
+  "download_date": "2026-05-16T07:31:48Z",
+  "duration_sec": 0.139,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

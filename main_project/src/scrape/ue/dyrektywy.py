@@ -257,9 +257,7 @@ LIT_LEAD_RE = re.compile(r"^\(?([a-z]{1,3})\)\s*(.*)$", re.DOTALL)
 PKT_LEAD_RE = re.compile(r"^(\d+|i{1,3}v?|iv|v|vi{1,3}|ix|x)\)\s*(.*)$", re.DOTALL)
 
 
-def parse_directive_html_legacy(
-    html: str, cfg: DyrektywaConfig, source_url: str
-) -> list[UEChunk]:
+def parse_directive_html_legacy(html: str, cfg: DyrektywaConfig, source_url: str) -> list[UEChunk]:
     """Fallback parser dla starych dyrektyw (pre-2004) z TXT_TE flat <p> structure.
 
     Algorytm:
@@ -386,9 +384,7 @@ def parse_directive_html(
 
     # Extract observed title from <p class="doc-ti"> if present
     title_tag = soup.find("p", class_="doc-ti")
-    observed_title = (
-        normalize_inline(title_tag.get_text(" ", strip=True)) if title_tag else None
-    )
+    observed_title = normalize_inline(title_tag.get_text(" ", strip=True)) if title_tag else None
 
     # === Legacy detection — for old directives (pre-2004) ===
     # If no oj-ti-art class exists, fall back to flat <p> parser.
@@ -408,7 +404,11 @@ def parse_directive_html(
         # Find all tables that precede the first art header in document order
         for table in soup.find_all("table"):
             # Check ordering using sourceline (or by appearance)
-            if first_art.sourceline and table.sourceline and table.sourceline >= first_art.sourceline:
+            if (
+                first_art.sourceline
+                and table.sourceline
+                and table.sourceline >= first_art.sourceline
+            ):
                 break
             for row in table.find_all("tr"):
                 cells = row.find_all("td")
@@ -445,20 +445,14 @@ def parse_directive_html(
 
         # Article title (sub-title)
         sti = art_container.find("p", class_="oj-sti-art")
-        art_subtitle = (
-            normalize_inline(sti.get_text(" ", strip=True)) if sti else None
-        )
+        art_subtitle = normalize_inline(sti.get_text(" ", strip=True)) if sti else None
 
         # Find all <div id="NNN.MMM"> = ustep containers
-        ust_containers = art_container.find_all(
-            "div", id=re.compile(r"^\d{3}\.\d{3}$")
-        )
+        ust_containers = art_container.find_all("div", id=re.compile(r"^\d{3}\.\d{3}$"))
 
         if ust_containers:
             for ust_div in ust_containers:
-                _parse_ustep(
-                    ust_div, art_num, cfg, source_url, art_subtitle, chunks
-                )
+                _parse_ustep(ust_div, art_num, cfg, source_url, art_subtitle, chunks)
         else:
             # Article without numbered ustep — extract single text chunk
             paragraphs = art_container.find_all("p", class_="oj-normal")
@@ -582,9 +576,7 @@ def _build_motyw_chunk(
     motyw_num: str, motyw_text: str, cfg: DyrektywaConfig, source_url: str
 ) -> UEChunk:
     """Construct a UEChunk for preambula motyw."""
-    safe_id = (
-        f"celex_{cfg.celex_id}_motyw_{motyw_num}"
-    )
+    safe_id = f"celex_{cfg.celex_id}_motyw_{motyw_num}"
     citation = build_citation_directive(cfg.direktywa_id, motyw=motyw_num)
     return UEChunk(
         chunk_id=safe_id,
@@ -698,9 +690,7 @@ def validate_chunks(chunks: list[UEChunk]) -> list[UEChunk]:
 # === Main ===
 
 
-def scrape_directive(
-    cfg: DyrektywaConfig, fetcher: Fetcher, output_dir: Path
-) -> ScrapeStats:
+def scrape_directive(cfg: DyrektywaConfig, fetcher: Fetcher, output_dir: Path) -> ScrapeStats:
     """Pobierz pojedyncza dyrektywe + zapisz JSONL + meta."""
     fmt = EurLexFormats(cfg.celex_id)
     logger.info("=== %s — %s ===", cfg.direktywa_id, cfg.title_pl[:80])
@@ -730,7 +720,9 @@ def scrape_directive(
 
     motyw_count = sum(1 for c in chunks if c.motyw is not None)
     art_count = sum(1 for c in chunks if c.art is not None)
-    distinct_arts = sorted({c.art for c in chunks if c.art is not None}, key=lambda x: int(re.sub(r"\D", "", x) or "0"))
+    distinct_arts = sorted(
+        {c.art for c in chunks if c.art is not None}, key=lambda x: int(re.sub(r"\D", "", x) or "0")
+    )
     meta = {
         "celex_id": cfg.celex_id,
         "direktywa_id": cfg.direktywa_id,

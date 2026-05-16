@@ -1,0 +1,47 @@
+{
+  "ustawa_id": "DU/2000/271",
+  "short_title": "Ustawy o ochronie niektórych praw konsumentów",
+  "title": "Ustawa z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny.",
+  "publisher": "DU",
+  "year": 2000,
+  "pos": 271,
+  "display_address": "Dz.U. 2000 nr 22 poz. 271",
+  "type": "Ustawa",
+  "data_uchwalenia": "2000-03-02",
+  "data_promulgacji": "2000-03-31",
+  "data_wejscia_w_zycie": "2000-07-01",
+  "ostatnia_zmiana": "2024-03-15T09:49:43",
+  "obowiazujaca": false,
+  "in_force_raw": "NOT_IN_FORCE",
+  "status": "uchylony",
+  "ELI": "DU/2000/271",
+  "previous_title": [],
+  "art_filter": null,
+  "chunk_count": 86,
+  "source_metadata_url": "https://api.sejm.gov.pl/eli/acts/DU/2000/271",
+  "source_html_url": "https://api.sejm.gov.pl/eli/acts/DU/2000/271/text.html",
+  "consolidated_text_references": [
+    "DU/2012/1225"
+  ],
+  "amending_acts": [
+    "DU/2011/715",
+    "DU/2011/432",
+    "DU/2011/1175",
+    "DU/2009/1540",
+    "DU/2008/1056",
+    "DU/2005/1021",
+    "DU/2004/959",
+    "DU/2004/1204",
+    "DU/2003/774",
+    "DU/2003/1837",
+    "DU/2002/1204"
+  ],
+  "directives_eu": [
+    "31985L0374",
+    "31985L0577",
+    "31993L0013",
+    "31997L0007",
+    "31999L0034"
+  ],
+  "scrape_date": "2026-05-16"
+}

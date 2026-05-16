@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00531",
+  "source_url": "https://e-prawnik.pl/forum/regulamin-sauny.html",
+  "fetch_url": "https://e-prawnik.pl/forum/regulamin-sauny.html",
+  "archive_file": "e_prawnik/eprawnik_00531.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57346,
+  "sha256": "e31f5bb6275c911a9a520a5b3449f5472584ef33cb0cf9892e5a9bcbb628beb3",
+  "download_date": "2026-05-16T07:33:05Z",
+  "duration_sec": 0.191,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00224",
+  "source_url": "https://e-prawnik.pl/forum/bezprawne-wpisanie-do-krd.html",
+  "fetch_url": "https://e-prawnik.pl/forum/bezprawne-wpisanie-do-krd.html",
+  "archive_file": "e_prawnik/eprawnik_00224.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56458,
+  "sha256": "a61d58a002d69a93b0d2f0661c5f581fc9709c1b3b1369fc96da995931668569",
+  "download_date": "2026-05-16T07:27:05Z",
+  "duration_sec": 0.206,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

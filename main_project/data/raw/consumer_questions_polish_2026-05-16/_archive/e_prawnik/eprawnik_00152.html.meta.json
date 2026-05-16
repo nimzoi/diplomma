@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00152",
+  "source_url": "https://e-prawnik.pl/forum/kradziez-w-miejscu-uzytecznosci-publicznej-chronionym-monitorowanym.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kradziez-w-miejscu-uzytecznosci-publicznej-chronionym-monitorowanym.html",
+  "archive_file": "e_prawnik/eprawnik_00152.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57453,
+  "sha256": "1737187c4c227d9a28c031a1681195ceb5d20690a8b3178e8c65a0d78944b6a3",
+  "download_date": "2026-05-16T07:25:42Z",
+  "duration_sec": 0.168,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

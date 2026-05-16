@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00558",
+  "source_url": "https://e-prawnik.pl/forum/transakcje-zblizeniowe-niedozwolony-debet.html",
+  "fetch_url": "https://e-prawnik.pl/forum/transakcje-zblizeniowe-niedozwolony-debet.html",
+  "archive_file": "e_prawnik/eprawnik_00558.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56372,
+  "sha256": "e7a735ae7560f73542c3fd7e8d63b394fce54adf4f17f5836706a87b993db4bc",
+  "download_date": "2026-05-16T07:33:38Z",
+  "duration_sec": 0.208,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00555",
+  "source_url": "https://e-prawnik.pl/forum/czy-moge-zalozyc-sprawe.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-moge-zalozyc-sprawe.html",
+  "archive_file": "e_prawnik/eprawnik_00555.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54165,
+  "sha256": "b94a07c32c8ea2049dd6448ab1ca767dc6a875768127194063dd32d17979ee02",
+  "download_date": "2026-05-16T07:33:34Z",
+  "duration_sec": 0.207,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,2701 @@
+{
+  "source": "federacja-konsumentow.org.pl (E1)",
+  "source_dir": "main_project\\data\\raw\\extended_consumer_2026-05-16/federacja",
+  "scrape_date": "2026-05-16",
+  "stats": {
+    "total_entries": 192,
+    "total_errors": 0,
+    "total_bytes": 1944905
+  },
+  "entries": [
+    {
+      "doc_id": "fed_kons_0001_co_w_a_ciwie_oznacza_poj_cie_wzorca_umownego__ec1e91b0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,173,1216,100,1,co-wlasciwie-oznacza-pojecie-wzorca-umownego.html",
+      "archive_path": "_archive/federacja/fed_kons_0001_co_w_a_ciwie_oznacza_poj_cie_wzorca_umownego__ec1e91b0.html",
+      "content_type": "text/html",
+      "size_bytes": 9962,
+      "sha256": "4841b85fec56a56f3f97af76db7f5b7a54234908ff5c7431da6a87198251d15d",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0001_co_właściwie_oznacza_pojęcie_wzorca_umownego"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0002_idzie_nowe_zmiany_w_ustawie_o_ochronie_konkurencji_i_konsume__3df919f4",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,173,1283,100,1,idzie-nowe--zmiany-w-ustawie-o-ochronie-konkurencji-i-konsumentow.html",
+      "archive_path": "_archive/federacja/fed_kons_0002_idzie_nowe_zmiany_w_ustawie_o_ochronie_konkurencji_i_konsume__3df919f4.html",
+      "content_type": "text/html",
+      "size_bytes": 8804,
+      "sha256": "e9d00758b2b7098d1937d28dfd7248ab93312fd06e4fe0e86dfd62683bb5c698",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0002_idzie_nowe_zmiany_w_ustawie_o_ochronie_konkurencji_i_konsume"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0003_klauzule_niedozwolone__e20b95c4",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,173,1215,100,1,klauzule-niedozwolone.html",
+      "archive_path": "_archive/federacja/fed_kons_0003_klauzule_niedozwolone__e20b95c4.html",
+      "content_type": "text/html",
+      "size_bytes": 10200,
+      "sha256": "d9eeb7c713ce8ff584ac3eae1bef985baa8fc4e3ce7cfe89b5e5e539f0d318fc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0003_klauzule_niedozwolone"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0004_nieoczekiwana_zmiana_regulaminu__226f5638",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,173,1214,100,1,nieoczekiwana-zmiana-regulaminu.html",
+      "archive_path": "_archive/federacja/fed_kons_0004_nieoczekiwana_zmiana_regulaminu__226f5638.html",
+      "content_type": "text/html",
+      "size_bytes": 13694,
+      "sha256": "7721994ae1bafb7bae31d3ba3f88a701c390abba3fd245a8711e62a7844ef536",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0004_nieoczekiwana_zmiana_regulaminu"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0005_rachunek_bankowy_podstawowe_prawa_i_obowi_zki__35916712",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,169,1316,98,1,rachunek-bankowy-podstawowe-prawa-i-obowiazki.html",
+      "archive_path": "_archive/federacja/fed_kons_0005_rachunek_bankowy_podstawowe_prawa_i_obowi_zki__35916712.html",
+      "content_type": "text/html",
+      "size_bytes": 8980,
+      "sha256": "c877db2a8597d7d968267b86e716c3e3f40cc3a8408a8190c2c2e69453a56c33",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0005_rachunek_bankowy_podstawowe_prawa_i_obowiązki"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0006_czy_zdarzy_a_ci_si_sytuacja_e_bankomat_nie_wyp_aci_pieni__678273c0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,169,1295,98,1,czy-zdarzyla-ci-sie-sytuacja-ze-bankomat-nie-wyplacil-pieniedzy-badz-wyplacil--mniej.html",
+      "archive_path": "_archive/federacja/fed_kons_0006_czy_zdarzy_a_ci_si_sytuacja_e_bankomat_nie_wyp_aci_pieni__678273c0.html",
+      "content_type": "text/html",
+      "size_bytes": 8229,
+      "sha256": "a5e4a717732f3d1f8e4a610dd8a6094708d0135717efcbc305d0f8fa32c549e5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0006_czy_zdarzyła_ci_się_sytuacja_że_bankomat_nie_wypłacił_pienię"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0007_konto_dla_dziecka__69fcc4c6",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,169,1189,98,1,konto-dla-dziecka.html",
+      "archive_path": "_archive/federacja/fed_kons_0007_konto_dla_dziecka__69fcc4c6.html",
+      "content_type": "text/html",
+      "size_bytes": 10211,
+      "sha256": "7618665872314911fd3cc1f118e606a8c1f90afc5ced7f0f8614f26a0abc5a77",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0007_konto_dla_dziecka"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0008_polisolokaty_co_to_jest__de0dd609",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,165,1174,95,1,polisolokaty--co-to-jest.html",
+      "archive_path": "_archive/federacja/fed_kons_0008_polisolokaty_co_to_jest__de0dd609.html",
+      "content_type": "text/html",
+      "size_bytes": 11090,
+      "sha256": "b128db66f92bbdf047b823dd43656800527e99c316a50914388afae96c64a375",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0008_polisolokaty_co_to_jest"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0009_ryzykowne_czy_bezpieczne__d541fa99",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,165,1175,95,1,ryzykowne-czy-bezpieczne.html",
+      "archive_path": "_archive/federacja/fed_kons_0009_ryzykowne_czy_bezpieczne__d541fa99.html",
+      "content_type": "text/html",
+      "size_bytes": 11416,
+      "sha256": "5c0843c1de66d9d0c07fe36097f0f03ca66a58d88f65fa60c74ed3e022e6994e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0009_ryzykowne_czy_bezpieczne"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0010_op_ata_likwidacyjna_ukryta_pu_apka_polisolokat__92c005b2",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,165,1296,95,1,oplata-likwidacyjna--ukryta-pulapka-polisolokat.html",
+      "archive_path": "_archive/federacja/fed_kons_0010_op_ata_likwidacyjna_ukryta_pu_apka_polisolokat__92c005b2.html",
+      "content_type": "text/html",
+      "size_bytes": 8284,
+      "sha256": "7dfcb89868bf360b6e0aa8893f0265a81c39bb555269d5c159ca67383e93c099",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0010_opłata_likwidacyjna_ukryta_pułapka_polisolokat"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0011_kto_mo_e_skorzysta_z_szansy_og_oszenia_upad_o_ci_konsumenck__c06edc1b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,167,1179,96,1,kto-moze-skorzystac-z-szansy-ogloszenia-upadlosci-konsumenckiej.html",
+      "archive_path": "_archive/federacja/fed_kons_0011_kto_mo_e_skorzysta_z_szansy_og_oszenia_upad_o_ci_konsumenck__c06edc1b.html",
+      "content_type": "text/html",
+      "size_bytes": 10592,
+      "sha256": "0c6abdd27cc88ac8daae3c324678f6189e1f8c75822afa67293d911af60fd573",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0011_kto_może_skorzystać_z_szansy_ogłoszenia_upadłości_konsumenck"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0012_etapy_konsumenckiego_post_powania_upad_o_ciowego_w_s_dzie__6e931a47",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,167,1180,96,1,etapy-konsumenckiego-postepowania-upadlosciowego-w-sadzie.html",
+      "archive_path": "_archive/federacja/fed_kons_0012_etapy_konsumenckiego_post_powania_upad_o_ciowego_w_s_dzie__6e931a47.html",
+      "content_type": "text/html",
+      "size_bytes": 11152,
+      "sha256": "e19a8f6643d2f1f1237b4a58f839b653567e4eed831b9cf656a77e4e93d2aef0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0012_etapy_konsumenckiego_postępowania_upadłościowego_w_sądzie"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0013_koszty_konsumenckiego_post_powania_upad_o_ciowego__177fcbbf",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,167,1181,96,1,koszty-konsumenckiego-postepowania-upadlosciowego.html",
+      "archive_path": "_archive/federacja/fed_kons_0013_koszty_konsumenckiego_post_powania_upad_o_ciowego__177fcbbf.html",
+      "content_type": "text/html",
+      "size_bytes": 7100,
+      "sha256": "d8c599668ca8dc266ca001cd1044619e0a6e7eb6c7cc71e6a387c0b844573774",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0013_koszty_konsumenckiego_postępowania_upadłościowego"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0014_czy_skorzysta_z_upad_o_ci_konsumenckiej__cb058e29",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,167,1182,96,1,czy-skorzystac-z-upadlosci-konsumenckiej.html",
+      "archive_path": "_archive/federacja/fed_kons_0014_czy_skorzysta_z_upad_o_ci_konsumenckiej__cb058e29.html",
+      "content_type": "text/html",
+      "size_bytes": 8735,
+      "sha256": "cb507f0837dc82ae8785ee35ed18ea9fa5ae53be01cb5afcdfa0eb25a0d40132",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0014_czy_skorzystać_z_upadłości_konsumenckiej"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0015_co_to_jest_windykacja__71f644ec",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1193,97,1,co-to-jest-windykacja.html",
+      "archive_path": "_archive/federacja/fed_kons_0015_co_to_jest_windykacja__71f644ec.html",
+      "content_type": "text/html",
+      "size_bytes": 7512,
+      "sha256": "4d43cb4dcbf2500e5e158e5c96a1ebbb3b8fc7b71f88b907ec9e7a47dc1127f8",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0015_co_to_jest_windykacja"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0016_co_to_jest_firma_windykacyjna__089cb6d0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1194,97,1,co-to-jest-firma-windykacyjna.html",
+      "archive_path": "_archive/federacja/fed_kons_0016_co_to_jest_firma_windykacyjna__089cb6d0.html",
+      "content_type": "text/html",
+      "size_bytes": 7188,
+      "sha256": "bebc16ec919fb783cb78b68dd6f800fce67b8406350fd48c9fb37142f388cb9a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0016_co_to_jest_firma_windykacyjna"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0017_czy_windykacja_jest_potrzebna__c5457132",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1196,97,1,czy-windykacja-jest-potrzebna.html",
+      "archive_path": "_archive/federacja/fed_kons_0017_czy_windykacja_jest_potrzebna__c5457132.html",
+      "content_type": "text/html",
+      "size_bytes": 7040,
+      "sha256": "1e57f3726bf94af85bff4ab3b5eca0b7dccd71ba5f94616b42d451327686b43a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0017_czy_windykacja_jest_potrzebna"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0018_jakie_prawa_ma_firma_windykacyjna__2495ab23",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1197,97,1,jakie-prawa-ma-firma-windykacyjna.html",
+      "archive_path": "_archive/federacja/fed_kons_0018_jakie_prawa_ma_firma_windykacyjna__2495ab23.html",
+      "content_type": "text/html",
+      "size_bytes": 7468,
+      "sha256": "81ba505dce64d429fc6a76df5b1659443be734e47c305b86958970ce10f666b6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0018_jakie_prawa_ma_firma_windykacyjna"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0019_jak_firma_windykacyjna_powinna_prawid_owo_wezwa_do_zap_aty__4ce37b58",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1198,97,1,jak-firma-windykacyjna-powinna-prawidlowo-wezwac-do-zaplaty.html",
+      "archive_path": "_archive/federacja/fed_kons_0019_jak_firma_windykacyjna_powinna_prawid_owo_wezwa_do_zap_aty__4ce37b58.html",
+      "content_type": "text/html",
+      "size_bytes": 7509,
+      "sha256": "ca275e16e9d05fd8115b231ab0adce37bc8319b2b15b2936d105ae05b22b4600",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0019_jak_firma_windykacyjna_powinna_prawidłowo_wezwać_do_zapłaty"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0020_czy_firma_windykacyjna_mo_e_zapyta_bank_o_moje_rachunki_ban__23284e8f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1205,97,1,czy-firma-windykacyjna-moze-zapytac-bank-o-moje-rachunki-bankowe.html",
+      "archive_path": "_archive/federacja/fed_kons_0020_czy_firma_windykacyjna_mo_e_zapyta_bank_o_moje_rachunki_ban__23284e8f.html",
+      "content_type": "text/html",
+      "size_bytes": 7048,
+      "sha256": "19bc3f2844f4de6bf6e2d0c9071e5a656decde7b9f25fb57bd2a5cc290ab4b2e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0020_czy_firma_windykacyjna_może_zapytać_bank_o_moje_rachunki_ban"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0021_firma_windykacyjna_za_czy_a_do_pisma_pozew_czy_ma_to_moc_pr__2a0831a3",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1201,97,1,firma-windykacyjna-zalaczyla-do-pisma-pozew-czy-ma-to-moc-prawna.html",
+      "archive_path": "_archive/federacja/fed_kons_0021_firma_windykacyjna_za_czy_a_do_pisma_pozew_czy_ma_to_moc_pr__2a0831a3.html",
+      "content_type": "text/html",
+      "size_bytes": 7330,
+      "sha256": "2e3d7b4cfabccc021bf0372c99c7229e197280dce6c21c73d362b27cccdf12ff",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0021_firma_windykacyjna_załączyła_do_pisma_pozew_czy_ma_to_moc_pr"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0022_firma_windykacyjna_straszy_mnie_prokuratur_czy_to_jest_zgod__c7753b8b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1200,97,1,firma-windykacyjna-straszy-mnie-prokuratura-czy-to-jest-zgodne-z-prawem.html",
+      "archive_path": "_archive/federacja/fed_kons_0022_firma_windykacyjna_straszy_mnie_prokuratur_czy_to_jest_zgod__c7753b8b.html",
+      "content_type": "text/html",
+      "size_bytes": 7626,
+      "sha256": "0eb016329c6e8112d51620fbdbf137c90a385230189497518fa793ae80f2a5dc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0022_firma_windykacyjna_straszy_mnie_prokuraturą_czy_to_jest_zgod"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0023_czy_firma_windykacyjna_ma_prawo_nalicza_odsetki_i_dodatkowo__0a19eee8",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1202,97,1,czy-firma-windykacyjna-ma-prawo-naliczac-odsetki-i-dodatkowo-koszty-windykacyjne.html",
+      "archive_path": "_archive/federacja/fed_kons_0023_czy_firma_windykacyjna_ma_prawo_nalicza_odsetki_i_dodatkowo__0a19eee8.html",
+      "content_type": "text/html",
+      "size_bytes": 7515,
+      "sha256": "ba5f365c4ed623267229fec7a8367498e6dba381822d21089a77bb4fc70fd1c5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0023_czy_firma_windykacyjna_ma_prawo_naliczać_odsetki_i_dodatkowo"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0024_czy_firma_windykacyjna_mo_e_straszy_mnie_e_zamie_ci_moje_d__2852e3a9",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1203,97,1,czy-firma-windykacyjna-moze-straszyc-mnie-ze-zamiesci-moje-dane-osobowe-w-bik.html",
+      "archive_path": "_archive/federacja/fed_kons_0024_czy_firma_windykacyjna_mo_e_straszy_mnie_e_zamie_ci_moje_d__2852e3a9.html",
+      "content_type": "text/html",
+      "size_bytes": 8200,
+      "sha256": "70387a0686a3c72f5a89d4e68042709ea7239e3d32fc1e6ea4d18565bc443fd7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0024_czy_firma_windykacyjna_może_straszyć_mnie_że_zamieści_moje_d"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0025_czy_na_wezwanie_firmy_windykacyjnej_mam_obowi_zek_ujawni_mo__9ec9413b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1204,97,1,czy-na-wezwanie-firmy-windykacyjnej-mam-obowiazek-ujawnic-moje-konto-bankowe.html",
+      "archive_path": "_archive/federacja/fed_kons_0025_czy_na_wezwanie_firmy_windykacyjnej_mam_obowi_zek_ujawni_mo__9ec9413b.html",
+      "content_type": "text/html",
+      "size_bytes": 7991,
+      "sha256": "04b4473be7e09f274ad4a385c65c5f9bcf45d0bdb08d0c930ed9858b25d7616e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0025_czy_na_wezwanie_firmy_windykacyjnej_mam_obowiązek_ujawnić_mo"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0026_czy_firma_windykacyjna_mo_e_da_ode_mnie_od_razu_zap_aceni__cbe7c88d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1199,97,1,czy-firma-windykacyjna-moze-zadac-ode-mnie-od-razu-zaplacenia-kosztow-sadowych.html",
+      "archive_path": "_archive/federacja/fed_kons_0026_czy_firma_windykacyjna_mo_e_da_ode_mnie_od_razu_zap_aceni__cbe7c88d.html",
+      "content_type": "text/html",
+      "size_bytes": 7607,
+      "sha256": "b8262fd86aac4b69e61501731339fbad24e9afda0d5a8500b8e0e9def52997c9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0026_czy_firma_windykacyjna_może_żądać_ode_mnie_od_razu_zapłaceni"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0027_m_j_d_ug_jest_przedawniony_poinformowa_em_o_tym_firm_windyk__eec9920e",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1206,97,1,moj-dlug-jest-przedawniony-poinformowalem-o-tym-firme-windykacyjna-a-mimo-tego-ciagle-drecza-mnie-pismami-i-telefonami-twierdza-dodatkowo-ze-odsetki-sie-nie-przedawniaja--czy-maja-prawo.html",
+      "archive_path": "_archive/federacja/fed_kons_0027_m_j_d_ug_jest_przedawniony_poinformowa_em_o_tym_firm_windyk__eec9920e.html",
+      "content_type": "text/html",
+      "size_bytes": 7440,
+      "sha256": "db02961e65fffdc60edeeadd39e49f4ae4f23efea097301c38adcf0b9a31ea4e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0027_mój_dług_jest_przedawniony_poinformowałem_o_tym_firmę_windyk"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0028_co_zrobi_kiedy_otrzymamy_wezwanie_do_zap_aty_od_firmy_windy__00729cb3",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1207,97,1,co-zrobic-kiedy-otrzymamy-wezwanie-do-zaplaty-od-firmy-windykacyjnej.html",
+      "archive_path": "_archive/federacja/fed_kons_0028_co_zrobi_kiedy_otrzymamy_wezwanie_do_zap_aty_od_firmy_windy__00729cb3.html",
+      "content_type": "text/html",
+      "size_bytes": 9826,
+      "sha256": "3dc939612be2d64b5a33f66f0eb0096a2d11d35743dcb7eb0318868844a4bb95",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0028_co_zrobić_kiedy_otrzymamy_wezwanie_do_zapłaty_od_firmy_windy"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0029_nieetyczne_a_czasem_wr_cz_bezprawne_dzia_ania_firm_windykacy__e88fb4f1",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,168,1184,97,1,nieetyczne-a-czasem-wrecz-bezprawne-dzialania-firm-windykacyjnych.html",
+      "archive_path": "_archive/federacja/fed_kons_0029_nieetyczne_a_czasem_wr_cz_bezprawne_dzia_ania_firm_windykacy__e88fb4f1.html",
+      "content_type": "text/html",
+      "size_bytes": 8927,
+      "sha256": "c8b62155f648af9003919139387979e6123ae6f4691c07cb335f01a6a2c9854a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0029_nieetyczne_a_czasem_wręcz_bezprawne_działania_firm_windykacy"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0030_ubezpieczenie_maj_tkowe_na_przyk_adach_spraw_konsumenckich__3fa7ac58",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,199,1319,116,1,ubezpieczenie-majatkowe--na-przykladach-spraw-konsumenckich.html",
+      "archive_path": "_archive/federacja/fed_kons_0030_ubezpieczenie_maj_tkowe_na_przyk_adach_spraw_konsumenckich__3fa7ac58.html",
+      "content_type": "text/html",
+      "size_bytes": 8539,
+      "sha256": "0d3abaaad6475383127c066b9caa586d6dd84863e08b5d406b43d848a7ff7da2",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0030_ubezpieczenie_majątkowe_na_przykładach_spraw_konsumenckich"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0031_ile_zap_acimy_za_ubezpieczenie_to_nie_powinno_by_jedyne_kry__f08f5e10",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,199,1311,116,1,ile-zaplacimy-za-ubezpieczenie-to-nie-powinno-byc-jedyne-kryterium-wyboru-ubezpieczyciela.html",
+      "archive_path": "_archive/federacja/fed_kons_0031_ile_zap_acimy_za_ubezpieczenie_to_nie_powinno_by_jedyne_kry__f08f5e10.html",
+      "content_type": "text/html",
+      "size_bytes": 8630,
+      "sha256": "927e745565e886204b2e120599f91abbbe1822118256547b0b013fc2230dbeb6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0031_ile_zapłacimy_za_ubezpieczenie_to_nie_powinno_być_jedyne_kry"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0032_amortyzacja_cz_ci_samochodowych__3d1fd3fc",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,199,1318,116,1,amortyzacja-czesci-samochodowych.html",
+      "archive_path": "_archive/federacja/fed_kons_0032_amortyzacja_cz_ci_samochodowych__3d1fd3fc.html",
+      "content_type": "text/html",
+      "size_bytes": 8705,
+      "sha256": "e16b5d90de1eb87d559b5baa20211452ff25dafc375ce44becfb353c2b146a57",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0032_amortyzacja_części_samochodowych"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0033_zakupy_na_raty__e354bcce",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,195,1304,112,1,zakupy-na-raty.html",
+      "archive_path": "_archive/federacja/fed_kons_0033_zakupy_na_raty__e354bcce.html",
+      "content_type": "text/html",
+      "size_bytes": 10114,
+      "sha256": "33e3196076b313d6ef5c9581b82950bf1b6480b0ce51089990c672043bf05c4c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0033_zakupy_na_raty"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0034_zwrot_towaru__f47e9d64",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,195,1301,112,1,zwrot-towaru.html",
+      "archive_path": "_archive/federacja/fed_kons_0034_zwrot_towaru__f47e9d64.html",
+      "content_type": "text/html",
+      "size_bytes": 8056,
+      "sha256": "8d97aa0626043e9f3d511f9fb92b3efedc37ae57bec6ed7db68262503eccd95b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0034_zwrot_towaru"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0035_wyprzeda_promocja_towar_przeceniony__e027de7f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,195,1300,112,1,wyprzedaz-promocja-towar-przeceniony.html",
+      "archive_path": "_archive/federacja/fed_kons_0035_wyprzeda_promocja_towar_przeceniony__e027de7f.html",
+      "content_type": "text/html",
+      "size_bytes": 7950,
+      "sha256": "5911a79bd629a68b777ce403e095a5448dc4fa03d5b9c38344927d34175768ae",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0035_wyprzedaż_promocja_towar_przeceniony"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0036_cena__44af4c55",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,195,1298,112,1,cena.html",
+      "archive_path": "_archive/federacja/fed_kons_0036_cena__44af4c55.html",
+      "content_type": "text/html",
+      "size_bytes": 7935,
+      "sha256": "2b87d22d46a57b1dd8bb5eb86267732a6e6d41f44a5b7d8785c1b6811c29bdf3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0036_cena"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0037_zwrot_zakupionego_towaru__025ed2c2",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,195,1129,112,1,zwrot-zakupionego-towaru.html",
+      "archive_path": "_archive/federacja/fed_kons_0037_zwrot_zakupionego_towaru__025ed2c2.html",
+      "content_type": "text/html",
+      "size_bytes": 9929,
+      "sha256": "6fea9605352fd67f9ecc4ff9e10ed56c5a57d1519b968970b48ab64edcbe4f7a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0037_zwrot_zakupionego_towaru"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0038_abc_konsumenta_zawieranie_umowy_zakup_but_w_to_tez_umowa__0c078c9c",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,195,393,112,1,abc-konsumenta---zawieranie-umowy-zakup-butow-to-tez-umowa.html",
+      "archive_path": "_archive/federacja/fed_kons_0038_abc_konsumenta_zawieranie_umowy_zakup_but_w_to_tez_umowa__0c078c9c.html",
+      "content_type": "text/html",
+      "size_bytes": 12033,
+      "sha256": "ef78093e62cf4cec1692f9bddbb74796bd1b0afc2fa0ccdb4fbe115617f25d6b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0038_abc_konsumenta_zawieranie_umowy_zakup_butów_to_tez_umowa"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0039_abc_konsumenta_reklama_i_promocja_dzisiaj_tylko_9_99_z__65274031",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,195,392,112,1,abc-konsumenta--reklama-i-promocja-dzisiaj-tylko-999-zl.html",
+      "archive_path": "_archive/federacja/fed_kons_0039_abc_konsumenta_reklama_i_promocja_dzisiaj_tylko_9_99_z__65274031.html",
+      "content_type": "text/html",
+      "size_bytes": 11843,
+      "sha256": "2c8ceadad7568c0200207e66ec2e5c43acf3e56754afd57c6e308aa7eca66c73",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0039_abc_konsumenta_reklama_i_promocja_dzisiaj_tylko_9_99_zł"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0040_jak_z_o_y_reklamacj__72c94b46",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,196,1299,113,1,jak-zlozyc-reklamacje.html",
+      "archive_path": "_archive/federacja/fed_kons_0040_jak_z_o_y_reklamacj__72c94b46.html",
+      "content_type": "text/html",
+      "size_bytes": 7239,
+      "sha256": "ea3a6a41c2f375f9a3180d52f38ad02b423d401c5efcb8466bf07b446cb3a528",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0040_jak_złożyć_reklamację"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0041_r_kojmia_kiedy_nale_y_z_o_y_reklamacj__376df074",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,196,1257,113,1,rekojmia--kiedy-nalezy-zlozyc-reklamacje.html",
+      "archive_path": "_archive/federacja/fed_kons_0041_r_kojmia_kiedy_nale_y_z_o_y_reklamacj__376df074.html",
+      "content_type": "text/html",
+      "size_bytes": 9085,
+      "sha256": "b5b343d9edfb1e0968de1a60384776b90f58f6aa6921f1e4b0a88ba4ee2d402f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0041_rękojmia_kiedy_należy_złożyć_reklamację"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0042_r_kojmia_czego_mo_e_da_konsument__8b2a7eab",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,196,1256,113,1,rekojmia--czego-moze-zadac-konsument.html",
+      "archive_path": "_archive/federacja/fed_kons_0042_r_kojmia_czego_mo_e_da_konsument__8b2a7eab.html",
+      "content_type": "text/html",
+      "size_bytes": 8622,
+      "sha256": "b7b0e7c3df3a873c4984efaa9e111018ae471bd85a7e515f2eb090b71ee36a85",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0042_rękojmia_czego_może_żądać_konsument"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0043_co_to_jest_r_kojmia_czym_jest_wada__5a2e3853",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,196,1255,113,1,co-to-jest-rekojmia--czym-jest-wada.html",
+      "archive_path": "_archive/federacja/fed_kons_0043_co_to_jest_r_kojmia_czym_jest_wada__5a2e3853.html",
+      "content_type": "text/html",
+      "size_bytes": 8793,
+      "sha256": "63d87a141ec9ea2b6a839c2f00d07d8d09196f1aac7776993ff59e5f3c082617",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0043_co_to_jest_rękojmia_czym_jest_wada"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0044_reklamacja_czy_zwrot__b97640a8",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,196,1127,113,1,reklamacja-czy-zwrot.html",
+      "archive_path": "_archive/federacja/fed_kons_0044_reklamacja_czy_zwrot__b97640a8.html",
+      "content_type": "text/html",
+      "size_bytes": 8980,
+      "sha256": "4667431eebde6d41a6a94da7966a607547b3fb039a2f71cdd1966ea6ee7e48d8",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0044_reklamacja_czy_zwrot"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0045_r_kojmia_co_z_produktem__d1a14f73",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,197,1260,114,1,rekojmia---co-z-produktem.html",
+      "archive_path": "_archive/federacja/fed_kons_0045_r_kojmia_co_z_produktem__d1a14f73.html",
+      "content_type": "text/html",
+      "size_bytes": 7381,
+      "sha256": "8696331b5ae8c803ad86221f2aa2fa787a101148c41c4f0a788ace06b4e01f42",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0045_rękojmia_co_z_produktem"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0046_obowi_zki_sprzedawcy_po_z_o_eniu_reklamacji_z_r_kojmi__37ac3aca",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,197,1259,114,1,obowiazki-sprzedawcy-po-zlozeniu-reklamacji-z-rekojmi.html",
+      "archive_path": "_archive/federacja/fed_kons_0046_obowi_zki_sprzedawcy_po_z_o_eniu_reklamacji_z_r_kojmi__37ac3aca.html",
+      "content_type": "text/html",
+      "size_bytes": 8296,
+      "sha256": "c903fcb16d8b5aa9dde00d540fdc2f250cb8f2c26d2bb586582009b14bd9ce0a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0046_obowiązki_sprzedawcy_po_złożeniu_reklamacji_z_rękojmi"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0047_z_reklamacj_do_sprzedawcy_czy_gwaranta__385d387d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,198,1130,115,1,z-reklamacja-do-sprzedawcy-czy-gwaranta.html",
+      "archive_path": "_archive/federacja/fed_kons_0047_z_reklamacj_do_sprzedawcy_czy_gwaranta__385d387d.html",
+      "content_type": "text/html",
+      "size_bytes": 8619,
+      "sha256": "ee792cefa26b4dc64ad38ebb8be9dc08204bd305ae925e2d1711c7d70ccc7dde",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0047_z_reklamacją_do_sprzedawcy_czy_gwaranta"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0048_studia_wy_sze_na_prywatnej_uczelni_sprawd_warunki_umowy_zan__9922d8e0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,41,1313,8,1,studia-wyzsze-na-prywatnej-uczelni-sprawdz-warunki-umowy-zanim-ja-podpiszesz.html",
+      "archive_path": "_archive/federacja/fed_kons_0048_studia_wy_sze_na_prywatnej_uczelni_sprawd_warunki_umowy_zan__9922d8e0.html",
+      "content_type": "text/html",
+      "size_bytes": 8153,
+      "sha256": "5e650f074daf4c55d434194a341ecb065702fb5a88656771ff3a8ca8c0d504d7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0048_studia_wyższe_na_prywatnej_uczelni_sprawdź_warunki_umowy_zan"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0049_us_ugi_po_nowemu__0f6fe006",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,41,1128,8,1,uslugi-po-nowemu.html",
+      "archive_path": "_archive/federacja/fed_kons_0049_us_ugi_po_nowemu__0f6fe006.html",
+      "content_type": "text/html",
+      "size_bytes": 7575,
+      "sha256": "9b37fd4a3a825c46c719cb0a80c4ef745e4c480c4bcfcaf6fee58181b6682fd5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0049_usługi_po_nowemu"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0050_kazus_dotycz_cy_nienale_ytego_wykonania_us_ugi_pralniczej__df8f66ef",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,41,298,8,1,kazus-dotyczacy-nienalezytego-wykonania-uslugi-pralniczej.html",
+      "archive_path": "_archive/federacja/fed_kons_0050_kazus_dotycz_cy_nienale_ytego_wykonania_us_ugi_pralniczej__df8f66ef.html",
+      "content_type": "text/html",
+      "size_bytes": 10779,
+      "sha256": "6b7101b6aa3d5f081d2d3f49b288de527c1d5689e5a690d41d72b86dd4d92a0a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0050_kazus_dotyczący_nienależytego_wykonania_usługi_pralniczej"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0051_czy_mo_emy_nie_p_aci_za_us_ug_kosmetyczn__683a8b9c",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,41,230,8,1,czy-mozemy-nie-placic-za-usluge-kosmetyczna.html",
+      "archive_path": "_archive/federacja/fed_kons_0051_czy_mo_emy_nie_p_aci_za_us_ug_kosmetyczn__683a8b9c.html",
+      "content_type": "text/html",
+      "size_bytes": 9002,
+      "sha256": "73b84af35c1d5ae457ffce4f8fa58315bfd77e755e787f1503bf74ae8565c46b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0051_czy_możemy_nie_płacić_za_usługę_kosmetyczną"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0052_nowe_przepisy_przedawnienie_roszcze_co_to_jest_jak_z_niego__204ab560",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,40,1401,7,1,nowe-przepisy--przedawnienie-roszczen--co-to-jest-jak-z-niego-korzystac-jakie-sa-terminy.html",
+      "archive_path": "_archive/federacja/fed_kons_0052_nowe_przepisy_przedawnienie_roszcze_co_to_jest_jak_z_niego__204ab560.html",
+      "content_type": "text/html",
+      "size_bytes": 10350,
+      "sha256": "9cc1514b4a81448af171b28b591d8fcff37bfdaf87b92b817b3aef22bdb01e65",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0052_nowe_przepisy_przedawnienie_roszczeń_co_to_jest_jak_z_niego_"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0054_konsument_na_drodze_post_powania_upad_o_ciowego__03ae6ad2",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,40,900,7,1,konsument-na-drodze-postepowania-upadlosciowego.html",
+      "archive_path": "_archive/federacja/fed_kons_0054_konsument_na_drodze_post_powania_upad_o_ciowego__03ae6ad2.html",
+      "content_type": "text/html",
+      "size_bytes": 10059,
+      "sha256": "b9b6b478988d61a071b9f7a0abfbb812f975b475263237c638d449cc961bcf44",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0054_konsument_na_drodze_postępowania_upadłościowego"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0055_s_downictwo_polubowne__09e82bc3",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,40,16,7,1,sadownictwo-polubowne.html",
+      "archive_path": "_archive/federacja/fed_kons_0055_s_downictwo_polubowne__09e82bc3.html",
+      "content_type": "text/html",
+      "size_bytes": 8444,
+      "sha256": "a0bfdda8a24b8086e82c3a5b59f4afcd7872dafd269cefda9073c5a165fde957",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0055_sądownictwo_polubowne"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0056_kiedy_komornik_puka_do_drzwi__f9e953a7",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1390,5,1,kiedy-komornik-puka-do-drzwi.html",
+      "archive_path": "_archive/federacja/fed_kons_0056_kiedy_komornik_puka_do_drzwi__f9e953a7.html",
+      "content_type": "text/html",
+      "size_bytes": 10154,
+      "sha256": "2500bc869d77e0ea794e7552f9900f1a1e40019ed14efe7926c5b8f80dec0210",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0056_kiedy_komornik_puka_do_drzwi"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0057_uwaga_wa_ne_informacje_dla_konsument_w_kt_rzy_zawarli_umow__e2a24b31",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1090,5,1,uwaga-wazne-informacje-dla-konsumentow-ktorzy-zawarli-umowe-pozyczki-z-firma-pkf-skarbiec-sp-z-oo-obecnie-pomocna-pozyczka-sp-z-oo.html",
+      "archive_path": "_archive/federacja/fed_kons_0057_uwaga_wa_ne_informacje_dla_konsument_w_kt_rzy_zawarli_umow__e2a24b31.html",
+      "content_type": "text/html",
+      "size_bytes": 8176,
+      "sha256": "dbfd2ad69b9fbda5ca9aa0408c2b347130d3150470e57d51c0ed92dd8d1fc889",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0057_uwaga_ważne_informacje_dla_konsumentów_którzy_zawarli_umowę_"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0058_niepomocna_po_yczka__013eb880",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1085,5,1,niepomocna-pozyczka.html",
+      "archive_path": "_archive/federacja/fed_kons_0058_niepomocna_po_yczka__013eb880.html",
+      "content_type": "text/html",
+      "size_bytes": 7927,
+      "sha256": "cda4396f86c72fa198169fbe7d9b894b3beb9300a88fa59f959c1543acb9f788",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0058_niepomocna_pożyczka"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0059_rzecznik_finansowy__37a71c92",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1210,5,1,rzecznik-finansowy.html",
+      "archive_path": "_archive/federacja/fed_kons_0059_rzecznik_finansowy__37a71c92.html",
+      "content_type": "text/html",
+      "size_bytes": 11620,
+      "sha256": "227144ee3e4e1c235c0c5051055205fc48e0fdc7e7b98b0f037160056af2f7c3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0059_rzecznik_finansowy"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0060_bankowy_tytu_egzekucyjny_niezgodny_z_konstytucj__91b9f3e0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1143,5,1,bankowy-tytul-egzekucyjny-niezgodny-z-konstytucja.html",
+      "archive_path": "_archive/federacja/fed_kons_0060_bankowy_tytu_egzekucyjny_niezgodny_z_konstytucj__91b9f3e0.html",
+      "content_type": "text/html",
+      "size_bytes": 13205,
+      "sha256": "65229461f9c7089c887cd696b3a6988af68e3bec179e8426ac2b19b04cdc172b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0060_bankowy_tytuł_egzekucyjny_niezgodny_z_konstytucją"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0061_federacja_konsument_w_adnego_z_badanych_produkt_w_typu_chwi__a388d849",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1142,5,1,federacja-konsumentow-zadnego-z-badanych-produktow-typu-chwilowka-nie-ocenila-pozytywnie.html",
+      "archive_path": "_archive/federacja/fed_kons_0061_federacja_konsument_w_adnego_z_badanych_produkt_w_typu_chwi__a388d849.html",
+      "content_type": "text/html",
+      "size_bytes": 8523,
+      "sha256": "393f46ed2fafe5ec927e9ebb2d0a77259bcab383b25e56c2fc703f217f0a3eb9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0061_federacja_konsumentów_żadnego_z_badanych_produktów_typu_chwi"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0062_po_yczki_kr_tkoterminowe_prawdziwe_oblicze_chwil_wek__177049fe",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1140,5,1,pozyczki-krotkoterminowe--prawdziwe-oblicze-chwilowek.html",
+      "archive_path": "_archive/federacja/fed_kons_0062_po_yczki_kr_tkoterminowe_prawdziwe_oblicze_chwil_wek__177049fe.html",
+      "content_type": "text/html",
+      "size_bytes": 14599,
+      "sha256": "a10ed457a8ff8f33b2ef77cec8a712e2d6a1c80ddc9a1d17345b3fdead604dc2",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0062_pożyczki_krótkoterminowe_prawdziwe_oblicze_chwilówek"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0063_ostrzegamy_przed_firm_nobel_credit_sp_z_o_o_dawniej_dzia_aj__24dd8615",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1104,5,1,ostrzegamy-przed-firma-nobel-credit-sp-z-oo-dawniej-dzialajaca-pod-nazwa-mintan-sp-z-oo-nr-krs-457780.html",
+      "archive_path": "_archive/federacja/fed_kons_0063_ostrzegamy_przed_firm_nobel_credit_sp_z_o_o_dawniej_dzia_aj__24dd8615.html",
+      "content_type": "text/html",
+      "size_bytes": 8610,
+      "sha256": "598261d72d5ed9366fc5ead1a9feb985e6c7d41e63f11a45327b6a018a7798a1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0063_ostrzegamy_przed_firmą_nobel_credit_sp_z_o_o_dawniej_działaj"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0064_czy_to_aby_na_pewno_lokata_bankowa__ec0b3816",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1079,5,1,czy-to-aby-na-pewno-lokata-bankowa.html",
+      "archive_path": "_archive/federacja/fed_kons_0064_czy_to_aby_na_pewno_lokata_bankowa__ec0b3816.html",
+      "content_type": "text/html",
+      "size_bytes": 10392,
+      "sha256": "5e31369be13fc8baf591d11464c33c895fc4ee45144713476d31f1872f5abc3c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0064_czy_to_aby_na_pewno_lokata_bankowa"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0065_prezes_uokik_ukara_getin_noble_bank_s_a__dd0c73d5",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1078,5,1,prezes-uokik-ukaral-getin-noble-bank-sa.html",
+      "archive_path": "_archive/federacja/fed_kons_0065_prezes_uokik_ukara_getin_noble_bank_s_a__dd0c73d5.html",
+      "content_type": "text/html",
+      "size_bytes": 8850,
+      "sha256": "fece8670ed76bf446ae45802df6d7220c8718e6cfc98e1fdaa665648898dce1b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0065_prezes_uokik_ukarał_getin_noble_bank_s_a"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0066_ustawa_o_kredycie_konsumenckim_om_wienie__052b6796",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1003,5,1,ustawa-o-kredycie-konsumenckim--omowienie.html",
+      "archive_path": "_archive/federacja/fed_kons_0066_ustawa_o_kredycie_konsumenckim_om_wienie__052b6796.html",
+      "content_type": "text/html",
+      "size_bytes": 37107,
+      "sha256": "074600dc8e0a2051a119b37f3ec6b763a647ba12edfa0261246a39649cd5bf64",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0066_ustawa_o_kredycie_konsumenckim_omówienie"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0067_podstawowe_informacje_o_kredycie_konsumenckim__7fcd9fb0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1022,5,1,podstawowe-informacje-o-kredycie-konsumenckim.html",
+      "archive_path": "_archive/federacja/fed_kons_0067_podstawowe_informacje_o_kredycie_konsumenckim__7fcd9fb0.html",
+      "content_type": "text/html",
+      "size_bytes": 15951,
+      "sha256": "2dcb1b23dc74e5e990c373b0dca9d7a350a5fded0b62e7d59e01e1414c473144",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0067_podstawowe_informacje_o_kredycie_konsumenckim"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0068_kredyt_0__91824fb5",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,292,5,1,kredyt-0.html",
+      "archive_path": "_archive/federacja/fed_kons_0068_kredyt_0__91824fb5.html",
+      "content_type": "text/html",
+      "size_bytes": 9546,
+      "sha256": "912d086300ae362e2beadbb8ecd86e6444ee207ef67ef38fecb774d67be6541e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0068_kredyt_0"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0069_sze_krok_w_do_dobrego_kredytu_lub_po_yczki__2be03f42",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1014,5,1,szesc-krokow-do-dobrego-kredytu-lub-pozyczki.html",
+      "archive_path": "_archive/federacja/fed_kons_0069_sze_krok_w_do_dobrego_kredytu_lub_po_yczki__2be03f42.html",
+      "content_type": "text/html",
+      "size_bytes": 13741,
+      "sha256": "0735be4182e6bb86b78581f6717c65a171cca2ec5fd28eb537f6122736742e93",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0069_sześć_kroków_do_dobrego_kredytu_lub_pożyczki"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0070_chargeback_dodatkowe_zabezpieczenie_dla_os_b_p_ac_cych_kart__2e1f4b72",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,901,5,1,chargeback--dodatkowe-zabezpieczenie-dla-osob-placacych-karta-platnicza.html",
+      "archive_path": "_archive/federacja/fed_kons_0070_chargeback_dodatkowe_zabezpieczenie_dla_os_b_p_ac_cych_kart__2e1f4b72.html",
+      "content_type": "text/html",
+      "size_bytes": 7460,
+      "sha256": "aa452b3a7d1f18141b13a5c82ae54a84f461de619b90e73f860322ef5682b3f5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0070_chargeback_dodatkowe_zabezpieczenie_dla_osób_płacących_kartą"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0071_jak_banki_oceniaj_nasz_zdolno_kredytow__63f8156b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,921,5,1,jak-banki-oceniaja-nasza-zdolnosc-kredytowa.html",
+      "archive_path": "_archive/federacja/fed_kons_0071_jak_banki_oceniaj_nasz_zdolno_kredytow__63f8156b.html",
+      "content_type": "text/html",
+      "size_bytes": 7268,
+      "sha256": "6076adfeab6ef439b731b29d53e5a17e6cc4a9f429a152bef1cdc8c51d8f8252",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0071_jak_banki_oceniają_naszą_zdolność_kredytową"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0072_przewodnik_po_praktykach_windykacyjnych__3f8877d4",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,38,1004,5,1,przewodnik-po-praktykach-windykacyjnych.html",
+      "archive_path": "_archive/federacja/fed_kons_0072_przewodnik_po_praktykach_windykacyjnych__3f8877d4.html",
+      "content_type": "text/html",
+      "size_bytes": 21242,
+      "sha256": "c5fccfd562477457a5d48d1844dd0356cd6c371c6663cc02e2a0020fcaa18214",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0072_przewodnik_po_praktykach_windykacyjnych"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0073_niedozwolone_praktyki_ubezpieczycieli__ffdd97f0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,50,1083,17,1,niedozwolone-praktyki-ubezpieczycieli.html",
+      "archive_path": "_archive/federacja/fed_kons_0073_niedozwolone_praktyki_ubezpieczycieli__ffdd97f0.html",
+      "content_type": "text/html",
+      "size_bytes": 8159,
+      "sha256": "26d3f03c5345fc4e3d26295c6d2137a48916005306fdd6e98aeb212d5b440161",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0073_niedozwolone_praktyki_ubezpieczycieli"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0074_ubezpieczenia_na_ycie_abc_konsumenta__380d930a",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,50,1042,17,1,ubezpieczenia-na-zycie--abc-konsumenta.html",
+      "archive_path": "_archive/federacja/fed_kons_0074_ubezpieczenia_na_ycie_abc_konsumenta__380d930a.html",
+      "content_type": "text/html",
+      "size_bytes": 18370,
+      "sha256": "bac5d645d172902f746421a685b2a66be4401e49483c931a4afad532a16a205e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0074_ubezpieczenia_na_życie_abc_konsumenta"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0075_abc_konsumenta_ubezpieczenia__bd81e8b0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,50,398,17,1,abc-konsumenta--ubezpieczenia.html",
+      "archive_path": "_archive/federacja/fed_kons_0075_abc_konsumenta_ubezpieczenia__bd81e8b0.html",
+      "content_type": "text/html",
+      "size_bytes": 12121,
+      "sha256": "a9142eb67e9868481c7ffc0c90c917164f996078fa4a22641019d921ac43d57c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0075_abc_konsumenta_ubezpieczenia"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0076_ubezpieczenia_komunikacyjne_zakres_ochrony_ubezpieczeniowej__4f944eeb",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,50,244,17,1,ubezpieczenia-komunikacyjne--zakres-ochrony-ubezpieczeniowej.html",
+      "archive_path": "_archive/federacja/fed_kons_0076_ubezpieczenia_komunikacyjne_zakres_ochrony_ubezpieczeniowej__4f944eeb.html",
+      "content_type": "text/html",
+      "size_bytes": 15384,
+      "sha256": "06f93590052662caa4cd10879c91fc64e2163d0afc34c57930dfe0368d66eb96",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0076_ubezpieczenia_komunikacyjne_zakres_ochrony_ubezpieczeniowej"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0077_ubezpieczenia_komunikacyjne_prawa_i_obowi_zki_stron_umowy_ub__0f5e8d1a",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,50,245,17,1,ubezpieczenia-komunikacyjne--prawa-i-obowiazki-stron-umowy-ubezpieczenia.html",
+      "archive_path": "_archive/federacja/fed_kons_0077_ubezpieczenia_komunikacyjne_prawa_i_obowi_zki_stron_umowy_ub__0f5e8d1a.html",
+      "content_type": "text/html",
+      "size_bytes": 9096,
+      "sha256": "bd882de85ed7693f50db781e4b1beb4d8d201e4dca3a3849d9d0125369c3dd22",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0077_ubezpieczenia_komunikacyjne_prawa_i_obowiązki_stron_umowy_ub"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0078_ubezpieczenia_na_ycie_z_funduszem_kapita_owym_abc_konsument__1ffef1a6",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,50,274,17,1,ubezpieczenia-na-zycie-z-funduszem-kapitalowymabc-konsumenta.html",
+      "archive_path": "_archive/federacja/fed_kons_0078_ubezpieczenia_na_ycie_z_funduszem_kapita_owym_abc_konsument__1ffef1a6.html",
+      "content_type": "text/html",
+      "size_bytes": 20234,
+      "sha256": "29973a78548ee738571c1d61d02c7ed6e7dc20953b919d108547fbfd4f152746",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0078_ubezpieczenia_na_życie_z_funduszem_kapitałowym_abc_konsument"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0079_bezpieczne_ferie_z_ubezpieczeniem__c19a02f0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,50,708,17,1,bezpieczne-ferie-z-ubezpieczeniem.html",
+      "archive_path": "_archive/federacja/fed_kons_0079_bezpieczne_ferie_z_ubezpieczeniem__c19a02f0.html",
+      "content_type": "text/html",
+      "size_bytes": 9845,
+      "sha256": "e4f87876994a855474019b01122008d58eae65ae90bebf047fce75c512e024f6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0079_bezpieczne_ferie_z_ubezpieczeniem"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0080_abc_konsumenta_sp_r_z_ubezpieczycielem__9abbf2d5",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,50,399,17,1,abc-konsumenta--spor-z-ubezpieczycielem.html",
+      "archive_path": "_archive/federacja/fed_kons_0080_abc_konsumenta_sp_r_z_ubezpieczycielem__9abbf2d5.html",
+      "content_type": "text/html",
+      "size_bytes": 10900,
+      "sha256": "56040a3d07e0b8dfa390db17b0b54b374ea24de21e8f7d3cc8d50c68e37b1da1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0080_abc_konsumenta_spór_z_ubezpieczycielem"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0081_s_d_polubowny_przy_rzeczniku_ubezpieczonych__c84c3e9c",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,50,260,17,1,sad-polubowny-przy-rzeczniku-ubezpieczonych.html",
+      "archive_path": "_archive/federacja/fed_kons_0081_s_d_polubowny_przy_rzeczniku_ubezpieczonych__c84c3e9c.html",
+      "content_type": "text/html",
+      "size_bytes": 9552,
+      "sha256": "c607273a055d51ccf461e162deef6d760d4854d30528df66b403b44559d4b7ad",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0081_sąd_polubowny_przy_rzeczniku_ubezpieczonych"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0082_zmiana_pakietu_program_w__543df8cf",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,1315,13,1,zmiana-pakietu-programow.html",
+      "archive_path": "_archive/federacja/fed_kons_0082_zmiana_pakietu_program_w__543df8cf.html",
+      "content_type": "text/html",
+      "size_bytes": 9271,
+      "sha256": "dd47b999e0d09716d3a89618cbc2b83899844e6838655d57f43d2f54248ac24c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0082_zmiana_pakietu_programów"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0083_federacja_konsument_w_apeluje_o_zachowanie_zdrowego_rozs_dku__0f4223c6",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,1213,13,1,federacja-konsumentow-apeluje-o-zachowanie-zdrowego-rozsadku.html",
+      "archive_path": "_archive/federacja/fed_kons_0083_federacja_konsument_w_apeluje_o_zachowanie_zdrowego_rozs_dku__0f4223c6.html",
+      "content_type": "text/html",
+      "size_bytes": 10305,
+      "sha256": "ee57420e753df6c181bd3791214570a7c0fcb9f2a0a68cec768d53c6ed443071",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0083_federacja_konsumentów_apeluje_o_zachowanie_zdrowego_rozsądku"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0084_op_ata_reprograficzna__a6494125",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,1125,13,1,oplata-reprograficzna.html",
+      "archive_path": "_archive/federacja/fed_kons_0084_op_ata_reprograficzna__a6494125.html",
+      "content_type": "text/html",
+      "size_bytes": 10485,
+      "sha256": "8e7b0f1fd150948eaeed686cca666b02b50f0317e8bef382ba4f4417775237c1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0084_opłata_reprograficzna"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0085_uokik_wszcz_post_powanie_przeciwko_operatorowi_telekomunik__3388645d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,1183,13,1,uokik-wszczal-postepowanie-przeciwko-operatorowi-telekomunikacyjnemu-telekomunikacja-dla-domu-sp-z-oo.html",
+      "archive_path": "_archive/federacja/fed_kons_0085_uokik_wszcz_post_powanie_przeciwko_operatorowi_telekomunik__3388645d.html",
+      "content_type": "text/html",
+      "size_bytes": 9598,
+      "sha256": "0cc2e5d7e1d82ce88e0ce30a8ced425ad8d68eb6828e3d3b39305a5df43435e1",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0085_uokik_wszczął_postępowanie_przeciwko_operatorowi_telekomunik"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0086_uwaga_na_propozycj_zmian_abonamentu_na_telefon_stacjonarny__2eb102e1",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,1150,13,1,uwaga-na-propozycje-zmian-abonamentu-na-telefon-stacjonarny.html",
+      "archive_path": "_archive/federacja/fed_kons_0086_uwaga_na_propozycj_zmian_abonamentu_na_telefon_stacjonarny__2eb102e1.html",
+      "content_type": "text/html",
+      "size_bytes": 8371,
+      "sha256": "7932b17126cc8d60095a3a2f36889e5181e0f3c7b312210b680d0c9f3e28880d",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0086_uwaga_na_propozycję_zmian_abonamentu_na_telefon_stacjonarny"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0087_przede_wszystkim_przeczytaj__35210e93",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,1071,13,1,przede-wszystkim-przeczytaj.html",
+      "archive_path": "_archive/federacja/fed_kons_0087_przede_wszystkim_przeczytaj__35210e93.html",
+      "content_type": "text/html",
+      "size_bytes": 7707,
+      "sha256": "b48f750d2258b2190ef7223660f5e10b00b1f41412febfb8ebc51af4fff4179b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0087_przede_wszystkim_przeczytaj"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0088_urz_d_komunikacji_elektronicznej_zako_czy_kontrol_operator__bb7a5dac",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,1080,13,1,urzad-komunikacji-elektronicznej-zakonczyl-kontrole-operatorow-telekomunikacyjnych.html",
+      "archive_path": "_archive/federacja/fed_kons_0088_urz_d_komunikacji_elektronicznej_zako_czy_kontrol_operator__bb7a5dac.html",
+      "content_type": "text/html",
+      "size_bytes": 9977,
+      "sha256": "423c3c90a96fdc2f4b8967cb161839464db32bb323ae71a6a30f42bc96663148",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0088_urząd_komunikacji_elektronicznej_zakończył_kontrolę_operator"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0089_od_1_lipca_2014r_taniej_po_czenia_smsy_mmsy_i_transmisja_d__1741732d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,1106,13,1,od-1-lipca-2014r-tanieja-polaczenia-smsy-mmsy-i-transmisja-danych-w-roamingu-sprawdz-ile-zaplacisz-po-powrocie-z-zagranicy.html",
+      "archive_path": "_archive/federacja/fed_kons_0089_od_1_lipca_2014r_taniej_po_czenia_smsy_mmsy_i_transmisja_d__1741732d.html",
+      "content_type": "text/html",
+      "size_bytes": 8290,
+      "sha256": "79eace926cdb9a71e68a59f35b255466b895cb042e667029f7a26ac6084433ba",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0089_od_1_lipca_2014r_tanieją_połączenia_smsy_mmsy_i_transmisja_d"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0090_uwaga_na_nieuczciwego_operatora_uke_ju_go_ukara__b3b93dd5",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,1108,13,1,uwaga-na-nieuczciwego-operatora-uke-juz-go-ukaral.html",
+      "archive_path": "_archive/federacja/fed_kons_0090_uwaga_na_nieuczciwego_operatora_uke_ju_go_ukara__b3b93dd5.html",
+      "content_type": "text/html",
+      "size_bytes": 8772,
+      "sha256": "3ee512e9aec8e71ff1e35a1077755607e03d36a8f68fea3ce986635f5511e525",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0090_uwaga_na_nieuczciwego_operatora_uke_już_go_ukarał"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0091_regulamin_us_ug_i_promocji__05409f4d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,854,13,1,regulamin-uslug-i-promocji.html",
+      "archive_path": "_archive/federacja/fed_kons_0091_regulamin_us_ug_i_promocji__05409f4d.html",
+      "content_type": "text/html",
+      "size_bytes": 10051,
+      "sha256": "7e7cf266a51be225499543b6c02751d510d38d9a7c4b412b69d89348ab8dd69f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0091_regulamin_usług_i_promocji"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0092_zakup_telefonu_w_promocji__e22cd5ed",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,847,13,1,zakup-telefonu-w-promocji.html",
+      "archive_path": "_archive/federacja/fed_kons_0092_zakup_telefonu_w_promocji__e22cd5ed.html",
+      "content_type": "text/html",
+      "size_bytes": 7974,
+      "sha256": "9144357a1dd52f0d66b1df73f78f2249e2d8f575e11f5f1bf2503bd62f13f4f4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0092_zakup_telefonu_w_promocji"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0093_internet_mobilny__195f2957",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,848,13,1,internet-mobilny.html",
+      "archive_path": "_archive/federacja/fed_kons_0093_internet_mobilny__195f2957.html",
+      "content_type": "text/html",
+      "size_bytes": 8824,
+      "sha256": "6ba9569aee58ce2bd8ac6fc96e9827d35a1c699db3774423637a5fd0d21cfe88",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0093_internet_mobilny"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0094_czym_s_sms_o_podwy_szonej_op_acie__c89148c4",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,846,13,1,czym-sa-sms-o-podwyzszonej-oplacie.html",
+      "archive_path": "_archive/federacja/fed_kons_0094_czym_s_sms_o_podwy_szonej_op_acie__c89148c4.html",
+      "content_type": "text/html",
+      "size_bytes": 13079,
+      "sha256": "9e6013b81d815d78ad64a889dce64de1d7f2a340828702a839d261352b093927",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0094_czym_są_sms_o_podwyższonej_opłacie"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0095_przeniesienie_us_ugi_zmiana_miejsca_zamieszkania__c59c7b7c",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,850,13,1,przeniesienie-uslugi--zmiana-miejsca-zamieszkania.html",
+      "archive_path": "_archive/federacja/fed_kons_0095_przeniesienie_us_ugi_zmiana_miejsca_zamieszkania__c59c7b7c.html",
+      "content_type": "text/html",
+      "size_bytes": 7448,
+      "sha256": "33557b1c1759980660f8c84dc58beb7f20d2ac74d489bb8bdf77c967269c3789",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0095_przeniesienie_usługi_zmiana_miejsca_zamieszkania"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0096_rozwi_zanie_umowy_w_okresie_promocyjnym__278688a4",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,859,13,1,rozwiazanie-umowy-w-okresie-promocyjnym.html",
+      "archive_path": "_archive/federacja/fed_kons_0096_rozwi_zanie_umowy_w_okresie_promocyjnym__278688a4.html",
+      "content_type": "text/html",
+      "size_bytes": 7293,
+      "sha256": "c901bd478dc3fcafbe5c292f67410ec905e88f2a2aff817c34bab5987ea1062b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0096_rozwiązanie_umowy_w_okresie_promocyjnym"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0097_reklamacja__fe69a918",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,858,13,1,reklamacja.html",
+      "archive_path": "_archive/federacja/fed_kons_0097_reklamacja__fe69a918.html",
+      "content_type": "text/html",
+      "size_bytes": 9335,
+      "sha256": "bb68836d777e0b10c190681ac63e0d07654ecf7817fe078163afe25dadc6d314",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0097_reklamacja"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0098_faktury__5b4988d2",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,856,13,1,faktury.html",
+      "archive_path": "_archive/federacja/fed_kons_0098_faktury__5b4988d2.html",
+      "content_type": "text/html",
+      "size_bytes": 8955,
+      "sha256": "33d067cd105b764184e23e5d98d639c0faabcc105d473b4dee5228a7ebffeb32",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0098_faktury"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0099_zbli_aj_cy_si_koniec_okresu_promocyjnego__d2af5d50",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,843,13,1,zblizajacy-sie-koniec-okresu-promocyjnego.html",
+      "archive_path": "_archive/federacja/fed_kons_0099_zbli_aj_cy_si_koniec_okresu_promocyjnego__d2af5d50.html",
+      "content_type": "text/html",
+      "size_bytes": 10827,
+      "sha256": "9f4248da2eb6bc06d6813e74e56c770d8c65082aeef8038e669e6fe1ca275ff4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0099_zbliżający_się_koniec_okresu_promocyjnego"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0100_termin_wa_no_ci_kart_telefonicznych__a084cf27",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,862,13,1,termin-waznosci-kart-telefonicznych.html",
+      "archive_path": "_archive/federacja/fed_kons_0100_termin_wa_no_ci_kart_telefonicznych__a084cf27.html",
+      "content_type": "text/html",
+      "size_bytes": 7104,
+      "sha256": "7f8ad7294bd2dbb3b3aa3dea2fbb49b04170d23bfa9ca699ba9d8fbdde74cb77",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0100_termin_ważności_kart_telefonicznych"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0101_telewizory_do_odbioru_naziemnej_telewizji_cyfrowej__71403a58",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,851,13,1,telewizory-do-odbioru-naziemnej-telewizji-cyfrowej.html",
+      "archive_path": "_archive/federacja/fed_kons_0101_telewizory_do_odbioru_naziemnej_telewizji_cyfrowej__71403a58.html",
+      "content_type": "text/html",
+      "size_bytes": 7549,
+      "sha256": "40ad0283a726fdd04e1f3dabeb1c9aab69ef2604bb2a8c376881184c4bcb8bc3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0101_telewizory_do_odbioru_naziemnej_telewizji_cyfrowej"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0102_dzia_alno_firmy_windykacyjnej_na_podstawie_cesji_wierzytel__0156043b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,852,13,1,dzialalnosc-firmy-windykacyjnej-na-podstawie-cesji-wierzytelnosci.html",
+      "archive_path": "_archive/federacja/fed_kons_0102_dzia_alno_firmy_windykacyjnej_na_podstawie_cesji_wierzytel__0156043b.html",
+      "content_type": "text/html",
+      "size_bytes": 9259,
+      "sha256": "63a9229b36f2a72a244216d73fd1e3d817c2f9fafaf3be2b7461f52f40513ade",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0102_działalność_firmy_windykacyjnej_na_podstawie_cesji_wierzytel"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0103_mediacja_prowadzona_przez_prezesa_urz_du_komunikacji_elektro__55a74def",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,46,849,13,1,mediacja-prowadzona-przez-prezesa-urzedu-komunikacji-elektronicznej.html",
+      "archive_path": "_archive/federacja/fed_kons_0103_mediacja_prowadzona_przez_prezesa_urz_du_komunikacji_elektro__55a74def.html",
+      "content_type": "text/html",
+      "size_bytes": 7759,
+      "sha256": "a7838a56c2a7aa84f01290901b23ce345363e58a3d2f148c6fc86412fb19e5e6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0103_mediacja_prowadzona_przez_prezesa_urzędu_komunikacji_elektro"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0104_telefoniczne_zaproszenie_na_bezp_atne_badanie_nim_p_jdziesz__624a4875",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,42,1332,9,1,telefoniczne-zaproszenie-na-bezplatne-badanie--nim-pojdziesz-przeczytaj.html",
+      "archive_path": "_archive/federacja/fed_kons_0104_telefoniczne_zaproszenie_na_bezp_atne_badanie_nim_p_jdziesz__624a4875.html",
+      "content_type": "text/html",
+      "size_bytes": 11860,
+      "sha256": "b4249f203c60ea3f28d2323b6a8f00567ce34ef9d92bd3a6776270a81817a99e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0104_telefoniczne_zaproszenie_na_bezpłatne_badanie_nim_pójdziesz_"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0105_praktyki_akwizytor_w_poznaj_swoje_prawa__142f9545",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,42,1211,9,1,praktyki-akwizytorow--poznaj-swoje-prawa.html",
+      "archive_path": "_archive/federacja/fed_kons_0105_praktyki_akwizytor_w_poznaj_swoje_prawa__142f9545.html",
+      "content_type": "text/html",
+      "size_bytes": 16426,
+      "sha256": "371477239ab8fa227f98ae2de6095e99fef6c79b2779729d3ad47914a28e5f35",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0105_praktyki_akwizytorów_poznaj_swoje_prawa"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0106_balia_pe_na_wody_pokazy_i_prezentacje_oszustwa_kt_rych_nie_m__7121351b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,42,1212,9,1,balia-pelna-wody--pokazy-i-prezentacje--oszustwa-ktorych-nie-mozna-udowodnic.html",
+      "archive_path": "_archive/federacja/fed_kons_0106_balia_pe_na_wody_pokazy_i_prezentacje_oszustwa_kt_rych_nie_m__7121351b.html",
+      "content_type": "text/html",
+      "size_bytes": 12216,
+      "sha256": "e09685c8fbfa8646c07495d8289ae3e5ec599a50c7f0c7ba897314bccd930b36",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0106_balia_pełna_wody_pokazy_i_prezentacje_oszustwa_których_nie_m"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0107_uwaga_na__fdac98c8",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,42,711,9,1,uwaga-na-.html",
+      "archive_path": "_archive/federacja/fed_kons_0107_uwaga_na__fdac98c8.html",
+      "content_type": "text/html",
+      "size_bytes": 10779,
+      "sha256": "0d731046f32c9a5ce8170a553b4bf6caca15f16932a8874556d42ce5a634178c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0107_uwaga_na"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0108_my_z_gazownictwa__e5d7467b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,42,836,9,1,my-z-gazownictwa.html",
+      "archive_path": "_archive/federacja/fed_kons_0108_my_z_gazownictwa__e5d7467b.html",
+      "content_type": "text/html",
+      "size_bytes": 8381,
+      "sha256": "342e050338db509110c136ab578b4405d9496222635437d7e7fa3c842bc4b544",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0108_my_z_gazownictwa"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0109_odst_pienie_od_umowy_z_wyj_tkami__1484c60f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,1282,12,1,odstapienie-od-umowy--z-wyjatkami.html",
+      "archive_path": "_archive/federacja/fed_kons_0109_odst_pienie_od_umowy_z_wyj_tkami__1484c60f.html",
+      "content_type": "text/html",
+      "size_bytes": 7797,
+      "sha256": "8b51e47a8f6c5be6bccfba9ea16cde602af9971e873bbd38a4d61eb06c2eb698",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0109_odstąpienie_od_umowy_z_wyjątkami"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0110_zwrot_pieni_dzy_przez_przedsi_biorc__853373e0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,1270,12,1,zwrot-pieniedzy-przez-przedsiebiorce.html",
+      "archive_path": "_archive/federacja/fed_kons_0110_zwrot_pieni_dzy_przez_przedsi_biorc__853373e0.html",
+      "content_type": "text/html",
+      "size_bytes": 7635,
+      "sha256": "ed1d3cfb39cff9b9475ac23c64726664caec53b1ae7af58314eb1af4803b5691",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0110_zwrot_pieniędzy_przez_przedsiębiorcę"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0111_jak_zwr_ci_towar_po_odst_pieniu_od_umowy__40de5eab",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,1269,12,1,jak-zwrocic-towar-po-odstapieniu-od-umowy.html",
+      "archive_path": "_archive/federacja/fed_kons_0111_jak_zwr_ci_towar_po_odst_pieniu_od_umowy__40de5eab.html",
+      "content_type": "text/html",
+      "size_bytes": 7752,
+      "sha256": "5f412129a60b2f58f85f81c36e16b70179cac361c40512aa2b8be3b1cf86ba36",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0111_jak_zwrócić_towar_po_odstąpieniu_od_umowy"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0112_odst_pienie_od_umowy_jak_to_zrobi__9b62ff4d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,1268,12,1,odstapienie-od-umowy--jak-to-zrobic.html",
+      "archive_path": "_archive/federacja/fed_kons_0112_odst_pienie_od_umowy_jak_to_zrobi__9b62ff4d.html",
+      "content_type": "text/html",
+      "size_bytes": 8087,
+      "sha256": "3e876f0a72fb326280c96e2f8ec448381c52d397f6b86d28cbb5515bdc4d5c31",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0112_odstąpienie_od_umowy_jak_to_zrobić"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0113_jak_kupi_w_sklepie_internetowym__cdf0dd71",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,1266,12,1,jak-kupic-w-sklepie-internetowym.html",
+      "archive_path": "_archive/federacja/fed_kons_0113_jak_kupi_w_sklepie_internetowym__cdf0dd71.html",
+      "content_type": "text/html",
+      "size_bytes": 8228,
+      "sha256": "bf672d988027aeaa75c2e4a3c769b9fd457cc1f6cd71b4684da65428d2bc8874",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0113_jak_kupić_w_sklepie_internetowym"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0114_jak_wybra_sklep__8890e7c8",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,1265,12,1,jak-wybrac-sklep.html",
+      "archive_path": "_archive/federacja/fed_kons_0114_jak_wybra_sklep__8890e7c8.html",
+      "content_type": "text/html",
+      "size_bytes": 8514,
+      "sha256": "4bbea882400aa22e06deff5e2621010b852756b1b88b4242f0e67f04b80c7a4c",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0114_jak_wybrać_sklep"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0115_co_to_jest_umowa_na_odleg_o__99e31f1f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,1264,12,1,co-to-jest-umowa-na-odleglosc.html",
+      "archive_path": "_archive/federacja/fed_kons_0115_co_to_jest_umowa_na_odleg_o__99e31f1f.html",
+      "content_type": "text/html",
+      "size_bytes": 7969,
+      "sha256": "e59b7e09c6670ee582084f5a486fd99489ff845ead86b61db9827f8e9ae6a93a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0115_co_to_jest_umowa_na_odległość"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0116_jak_liczy_termin_na_odst_pienie_od_umowy__382f03d7",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,1119,12,1,jak-liczyc-termin-na-odstapienie-od-umowy.html",
+      "archive_path": "_archive/federacja/fed_kons_0116_jak_liczy_termin_na_odst_pienie_od_umowy__382f03d7.html",
+      "content_type": "text/html",
+      "size_bytes": 9421,
+      "sha256": "69ec884951c9fa5246ed6cb868e6975ac73ff62c960401a5789ada4f1ccb18c5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0116_jak_liczyć_termin_na_odstąpienie_od_umowy"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0117_nowe_przepisy_moment_zawarcia_umowy__a8acc8ae",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,1116,12,1,nowe-przepisy--moment-zawarcia-umowy.html",
+      "archive_path": "_archive/federacja/fed_kons_0117_nowe_przepisy_moment_zawarcia_umowy__a8acc8ae.html",
+      "content_type": "text/html",
+      "size_bytes": 8813,
+      "sha256": "b3949603999b3e2ee3421538ffc1216289801bd9dcf68b57b80a43a4f71713a9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0117_nowe_przepisy_moment_zawarcia_umowy"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0118_wz_r_o_wiadczenia_o_odst_pieniu_od_umowy_zawartej_na_odleg_o__e46271c3",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,45,865,12,1,wzor-oswiadczenia-o-odstapieniu-od-umowy-zawartej-na-odleglosc.html",
+      "archive_path": "_archive/federacja/fed_kons_0118_wz_r_o_wiadczenia_o_odst_pieniu_od_umowy_zawartej_na_odleg_o__e46271c3.html",
+      "content_type": "text/html",
+      "size_bytes": 6833,
+      "sha256": "cbd2181d2cbf7cc555f0498c29fd565756c9312375943fed5361710ea9516268",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0118_wzór_oświadczenia_o_odstąpieniu_od_umowy_zawartej_na_odległo"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0119_pu_apki_w_sprzeda_y_wysy_kowej__98fdc1d5",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,44,36,11,1,pulapki-w-sprzedazy-wysylkowej.html",
+      "archive_path": "_archive/federacja/fed_kons_0119_pu_apki_w_sprzeda_y_wysy_kowej__98fdc1d5.html",
+      "content_type": "text/html",
+      "size_bytes": 13556,
+      "sha256": "9a535fa00511b90db880c645b9f81ede78ed1d856c53788e10d9eb0fe5aa1b8b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0119_pułapki_w_sprzedaży_wysyłkowej"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0120_loty_czone_konsument_zachowuje_prawo_do_odszkodowania__b1d6db18",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,1520,16,1,loty-laczone--konsument-zachowuje-prawo-do-odszkodowania.html",
+      "archive_path": "_archive/federacja/fed_kons_0120_loty_czone_konsument_zachowuje_prawo_do_odszkodowania__b1d6db18.html",
+      "content_type": "text/html",
+      "size_bytes": 8978,
+      "sha256": "fd0d84505dcbde64d6361a7925878ac23eee065b571aa2cf5a0193b194a1f848",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0120_loty_łączone_konsument_zachowuje_prawo_do_odszkodowania"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0121_nie_dotar_e_na_czas_a_wina_le_y_po_stronie_linii_lotniczych__e8fbaa6b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,1370,16,1,nie-dotarles-na-czas-a-wina-lezy-po-stronie-linii-lotniczych-sprawdz-jakie-prawa-ci-przysluguja.html",
+      "archive_path": "_archive/federacja/fed_kons_0121_nie_dotar_e_na_czas_a_wina_le_y_po_stronie_linii_lotniczych__e8fbaa6b.html",
+      "content_type": "text/html",
+      "size_bytes": 8785,
+      "sha256": "8898bb88814c22da2039a500200bf0c0d69947299ec853769b3169e97d647511",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0121_nie_dotarłeś_na_czas_a_wina_leży_po_stronie_linii_lotniczych"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0122_nieudane_ferie__24f1d6ff",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,1312,16,1,nieudane-ferie.html",
+      "archive_path": "_archive/federacja/fed_kons_0122_nieudane_ferie__24f1d6ff.html",
+      "content_type": "text/html",
+      "size_bytes": 8400,
+      "sha256": "3ed48b7c08eac85c3d6edca3d2ed368f00e5c9b1346c323df6b5ad4efa11d9d0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0122_nieudane_ferie"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0123_op_ata_transakcyjna_bilety_lotnicze__da2cb9fa",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,1306,16,1,oplata-transakcyjna--bilety-lotnicze.html",
+      "archive_path": "_archive/federacja/fed_kons_0123_op_ata_transakcyjna_bilety_lotnicze__da2cb9fa.html",
+      "content_type": "text/html",
+      "size_bytes": 8361,
+      "sha256": "6c2326e717cb8b9a8c423ab965db7af37649c248bc80ef0d5dfc3c08f69ab904",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0123_opłata_transakcyjna_bilety_lotnicze"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0124_polscy_tury_ci_sprowadzani_do_kraju_biuro_podr_y_alfa_star__791d5fd1",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,1172,16,1,polscy-turysci-sprowadzani-do-kraju--biuro-podrozy-alfa-star-zaprzestaje-dzialalnosci.html",
+      "archive_path": "_archive/federacja/fed_kons_0124_polscy_tury_ci_sprowadzani_do_kraju_biuro_podr_y_alfa_star__791d5fd1.html",
+      "content_type": "text/html",
+      "size_bytes": 7626,
+      "sha256": "cb5f22e51153eaab3d8ff9621f4bd2deb2def11979a032b1ecba35942cf17543",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0124_polscy_turyści_sprowadzani_do_kraju_biuro_podróży_alfa_star_"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0125_abc_konsumenta_us_ugi_turystyczne__5e868395",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,402,16,1,abc-konsumenta--uslugi-turystyczne.html",
+      "archive_path": "_archive/federacja/fed_kons_0125_abc_konsumenta_us_ugi_turystyczne__5e868395.html",
+      "content_type": "text/html",
+      "size_bytes": 11912,
+      "sha256": "3d696339efa8f913707506c6255c6c5de43b26b7d78f69572407ebdbb9995b31",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0125_abc_konsumenta_usługi_turystyczne"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0126_podstawowe_poj_cia_w_turystyce__b3ebdc5e",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,238,16,1,podstawowe-pojecia-w-turystyce.html",
+      "archive_path": "_archive/federacja/fed_kons_0126_podstawowe_poj_cia_w_turystyce__b3ebdc5e.html",
+      "content_type": "text/html",
+      "size_bytes": 8276,
+      "sha256": "4637ef87f1265827ab03adcb28886b9714ca3f4f9ee421fb9221abef83ebfd74",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0126_podstawowe_pojęcia_w_turystyce"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0127_udany_urlop__69045b09",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,21,16,1,udany-urlop.html",
+      "archive_path": "_archive/federacja/fed_kons_0127_udany_urlop__69045b09.html",
+      "content_type": "text/html",
+      "size_bytes": 16699,
+      "sha256": "08a750685bba11d6e28e90cda7379d8c2dbe87a90512e119d3bf66c68a77e494",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0127_udany_urlop"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0128_umowa_o_wiadczeniu_us_ug_turystycznych_cena_reklamacja__07d5d3cb",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,239,16,1,umowa-o-swiadczeniu-uslug-turystycznych-cena-reklamacja.html",
+      "archive_path": "_archive/federacja/fed_kons_0128_umowa_o_wiadczeniu_us_ug_turystycznych_cena_reklamacja__07d5d3cb.html",
+      "content_type": "text/html",
+      "size_bytes": 22472,
+      "sha256": "bfed3fb32c576e52f1143dc9c0648c639d1d4e637cef37f0a02fcdc0ba3fe3b2",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0128_umowa_o_świadczeniu_usług_turystycznych_cena_reklamacja"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0129_jak_post_powa_w_przypadku_og_oszenia_upad_o_ci_przez_biuro__0ca5703d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,899,16,1,jak-postepowac-w-przypadku-ogloszenia-upadlosci-przez-biuro-podrozy-.html",
+      "archive_path": "_archive/federacja/fed_kons_0129_jak_post_powa_w_przypadku_og_oszenia_upad_o_ci_przez_biuro__0ca5703d.html",
+      "content_type": "text/html",
+      "size_bytes": 9962,
+      "sha256": "dc81d7e716050d64e7499ee013de0ec29398e93ba7f56dbd30e46272a5b6ffbe",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0129_jak_postępować_w_przypadku_ogłoszenia_upadłości_przez_biuro_"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0130_czy_syndyk_mo_e_da_zap_aty_za_wycieczk_kt_ra_nie_odb_dzi__f8f62322",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,902,16,1,czy-syndyk-moze-zadac-zaplaty-za-wycieczke-ktora-nie-odbedzie-sie-z-powodu-upadlosci-biura-podrozy-.html",
+      "archive_path": "_archive/federacja/fed_kons_0130_czy_syndyk_mo_e_da_zap_aty_za_wycieczk_kt_ra_nie_odb_dzi__f8f62322.html",
+      "content_type": "text/html",
+      "size_bytes": 8100,
+      "sha256": "c3e6e292f0308fcb2fc1ccbed3950d37128f349d8283e690e66cffec2de2fa2a",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0130_czy_syndyk_może_żądać_zapłaty_za_wycieczkę_która_nie_odbędzi"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0131_pasa_er_w_poci_gu_podstawowe_prawa__66cf7ec9",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,1077,16,1,pasazer-w-pociagu--podstawowe-prawa.html",
+      "archive_path": "_archive/federacja/fed_kons_0131_pasa_er_w_poci_gu_podstawowe_prawa__66cf7ec9.html",
+      "content_type": "text/html",
+      "size_bytes": 11282,
+      "sha256": "b0892b0663c2503a38f3a4623c86b0cbf9aec0345375d1db71da190e46dda976",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0131_pasażer_w_pociągu_podstawowe_prawa"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0132_us_ugi_hotelarskie__707232cd",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,153,16,1,uslugi-hotelarskie.html",
+      "archive_path": "_archive/federacja/fed_kons_0132_us_ugi_hotelarskie__707232cd.html",
+      "content_type": "text/html",
+      "size_bytes": 9409,
+      "sha256": "208962e6c4a60ba7729bc476092f1213c6cd6a9aac3ea7072426eda6f2fcf714",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0132_usługi_hotelarskie"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0133_karta_frankfurcka__dae91f8f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,241,16,1,karta-frankfurcka.html",
+      "archive_path": "_archive/federacja/fed_kons_0133_karta_frankfurcka__dae91f8f.html",
+      "content_type": "text/html",
+      "size_bytes": 10006,
+      "sha256": "d10cf11be515e92fc2b8d707319c796b1bba06931d61a7f4afaa5a9092e5980e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0133_karta_frankfurcka"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0134_odpowiedzialno_hotelarza_organizatora_turystyki_za_rzeczy__c673a577",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,240,16,1,odpowiedzialnosc-hotelarza-organizatora-turystyki-za-rzeczy-wniesione-do-hotelu.html",
+      "archive_path": "_archive/federacja/fed_kons_0134_odpowiedzialno_hotelarza_organizatora_turystyki_za_rzeczy__c673a577.html",
+      "content_type": "text/html",
+      "size_bytes": 9798,
+      "sha256": "b42cd41e39749af5f864c1342f27b92141f85c81a80994c7a224879dc210414e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0134_odpowiedzialność_hotelarza_organizatora_turystyki_za_rzeczy_"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0135_problemy_z_liniami_lotniczymi__5f1770b0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,445,16,1,problemy-z-liniami-lotniczymi.html",
+      "archive_path": "_archive/federacja/fed_kons_0135_problemy_z_liniami_lotniczymi__5f1770b0.html",
+      "content_type": "text/html",
+      "size_bytes": 9662,
+      "sha256": "e0cfd9c74c626bcf3ce4a40f5a444cdc6c03a64dd8c1da8aa32cc4ace7d8755b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0135_problemy_z_liniami_lotniczymi"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0136_ochrona_pasa_er_w_linii_lotniczych__d1b1810c",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,222,16,1,ochrona-pasazerow-linii-lotniczych.html",
+      "archive_path": "_archive/federacja/fed_kons_0136_ochrona_pasa_er_w_linii_lotniczych__d1b1810c.html",
+      "content_type": "text/html",
+      "size_bytes": 13123,
+      "sha256": "8f678bc78f46af2acb0ac5360e741addf120d59a5a582db87811639a0a1441b8",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0136_ochrona_pasażerów_linii_lotniczych"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0137_jak_post_powa_w_przypadku_zaprzestania_dzia_alno_ci_przez_l__621d75ce",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,49,904,16,1,jak-postepowac-w-przypadku-zaprzestania-dzialalnosci-przez-linie-lotnicza-.html",
+      "archive_path": "_archive/federacja/fed_kons_0137_jak_post_powa_w_przypadku_zaprzestania_dzia_alno_ci_przez_l__621d75ce.html",
+      "content_type": "text/html",
+      "size_bytes": 10874,
+      "sha256": "aeae51bcf85934e50d7a22e6546c342cc388d54ee607b9988c619bb364545b89",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0137_jak_postępować_w_przypadku_zaprzestania_działalności_przez_l"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0138_efektywno_energetyczna_nowe_podw_jne_etykiety__101f9545",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1473,107,1,efektywnosc-energetyczna-nowe--podwojne--etykiety.html",
+      "archive_path": "_archive/federacja/fed_kons_0138_efektywno_energetyczna_nowe_podw_jne_etykiety__101f9545.html",
+      "content_type": "text/html",
+      "size_bytes": 10946,
+      "sha256": "947fca6a31dd24a8fcd922e399986d485b9e33ca86810b42118e789c1186c304",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0138_efektywność_energetyczna_nowe_podwójne_etykiety"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0139_etykiety_energooszcz_dne_w_sklepie_internetowym_znak_c_na_op__115a9d6b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1497,107,1,etykiety-energooszczedne--w-sklepie-internetowym-znak-c-na-opakowaniu-a--i-komu-tu-wierzyc.html",
+      "archive_path": "_archive/federacja/fed_kons_0139_etykiety_energooszcz_dne_w_sklepie_internetowym_znak_c_na_op__115a9d6b.html",
+      "content_type": "text/html",
+      "size_bytes": 9993,
+      "sha256": "1ce997b648dc0659d3f45726f628976e27f388f283b2c25d6598e1cda27794e4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0139_etykiety_energooszczędne_w_sklepie_internetowym_znak_c_na_op"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0140_europejski_zwi_zek_organizacji_konsumenckich_beuc_wobec_podw__074bf26a",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1499,107,1,europejski-zwiazek-organizacji-konsumenckich-beuc-wobec-podwyzek-cen-energii.html",
+      "archive_path": "_archive/federacja/fed_kons_0140_europejski_zwi_zek_organizacji_konsumenckich_beuc_wobec_podw__074bf26a.html",
+      "content_type": "text/html",
+      "size_bytes": 12211,
+      "sha256": "4a997f5e92f28d2c22fc19f333656d3ddd578070179e080443bcb6098d3045dc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0140_europejski_związek_organizacji_konsumenckich_beuc_wobec_podw"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0141_jak_zmniejszy_zu_ycie_energii__38e3eb7e",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1407,107,1,jak-zmniejszyc-zuzycie-energii.html",
+      "archive_path": "_archive/federacja/fed_kons_0141_jak_zmniejszy_zu_ycie_energii__38e3eb7e.html",
+      "content_type": "text/html",
+      "size_bytes": 14517,
+      "sha256": "e067f263bb6659877f6008f035de00904936f2ca2015827c3dd4c6b112ed737e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0141_jak_zmniejszyć_zużycie_energii"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0142_liczymy_procenty_do_cz_do_akcji__6b7b737f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1508,107,1,liczymy-procenty-dolacz-do-akcji.html",
+      "archive_path": "_archive/federacja/fed_kons_0142_liczymy_procenty_do_cz_do_akcji__6b7b737f.html",
+      "content_type": "text/html",
+      "size_bytes": 8431,
+      "sha256": "70061217a405288bab7d3b6de0cc753077030c6915937a986e9c2df736929b80",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0142_liczymy_procenty_dołącz_do_akcji"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0143_nieuczciwe_dzia_ania_przedsi_biorstwa_energetycznego_polski__1a815706",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1389,107,1,nieuczciwe-dzialania-przedsiebiorstwa-energetycznego-polski-prad-i-gaz-sp-z-oo.html",
+      "archive_path": "_archive/federacja/fed_kons_0143_nieuczciwe_dzia_ania_przedsi_biorstwa_energetycznego_polski__1a815706.html",
+      "content_type": "text/html",
+      "size_bytes": 12957,
+      "sha256": "025aae343c4b2b30bbff6ffb375f0d42b3d1048c3327e9a27fd30f6de625938f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0143_nieuczciwe_działania_przedsiębiorstwa_energetycznego_polski_"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0144_rachunki_za_pr_d_i_gaz_za_co_faktycznie_p_acimy__32fc265d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1396,107,1,rachunki-za-prad-i-gaz--za-co-faktycznie-placimy.html",
+      "archive_path": "_archive/federacja/fed_kons_0144_rachunki_za_pr_d_i_gaz_za_co_faktycznie_p_acimy__32fc265d.html",
+      "content_type": "text/html",
+      "size_bytes": 12813,
+      "sha256": "e99f5656eca8a331cd6ca40f09c637d7bdf906ed7d6f8fcfff55577ae522adc3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0144_rachunki_za_prąd_i_gaz_za_co_faktycznie_płacimy"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0145_egnamy_si_z_gazem_pompy_ciep_a_b_d_dla_konsument_w_najta__6992bdca",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1507,107,1,zegnamy-sie-z-gazem-pompy-ciepla-beda-dla-konsumentow-najtansza-opcja-ekologicznego-ogrzewania.html",
+      "archive_path": "_archive/federacja/fed_kons_0145_egnamy_si_z_gazem_pompy_ciep_a_b_d_dla_konsument_w_najta__6992bdca.html",
+      "content_type": "text/html",
+      "size_bytes": 10969,
+      "sha256": "1879bed81a4f49c8cf3a71945c21dfbb708607063ba335a14ac9a656f14c8a83",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0145_żegnamy_się_z_gazem_pompy_ciepła_będą_dla_konsumentów_najtań"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0146_uwaga_na_nieuczciwych_akwizytor_w_firm_energetycznych__dc76eaa3",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1293,107,1,uwaga-na-nieuczciwych-akwizytorow-firm-energetycznych.html",
+      "archive_path": "_archive/federacja/fed_kons_0146_uwaga_na_nieuczciwych_akwizytor_w_firm_energetycznych__dc76eaa3.html",
+      "content_type": "text/html",
+      "size_bytes": 9731,
+      "sha256": "25d760ea0b80af6919517a5ca1a9b45237c55867bfd7e5c9146fb8e3e20ef512",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0146_uwaga_na_nieuczciwych_akwizytorów_firm_energetycznych"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0147_sprzeda_i_dostawa_energii_elektrycznej_i_paliw_gazowych_naj__41311e51",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1097,107,1,sprzedaz-i-dostawa-energii-elektrycznej-i-paliw-gazowych--najnowsze-poradniki.html",
+      "archive_path": "_archive/federacja/fed_kons_0147_sprzeda_i_dostawa_energii_elektrycznej_i_paliw_gazowych_naj__41311e51.html",
+      "content_type": "text/html",
+      "size_bytes": 7083,
+      "sha256": "8110af9d6ec39616347f249d87361816ebf84e14057f84f7994f7c90bfbaa583",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0147_sprzedaż_i_dostawa_energii_elektrycznej_i_paliw_gazowych_naj"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0148_wiadomy_konsument_energii_elektrycznej_zapraszamy_do_lektur__0674a01b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,186,1091,107,1,swiadomy-konsument-energii-elektrycznej-zapraszamy-do-lektury-naszej-nowej-publikacji.html",
+      "archive_path": "_archive/federacja/fed_kons_0148_wiadomy_konsument_energii_elektrycznej_zapraszamy_do_lektur__0674a01b.html",
+      "content_type": "text/html",
+      "size_bytes": 8179,
+      "sha256": "2530bb5c9fdab6928f1ab2125cabdc7287429d369191cc43e89c1a3b2b2ccd53",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0148_świadomy_konsument_energii_elektrycznej_zapraszamy_do_lektur"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0149_znam_tw_j_ka_dy_krok__7d1114d2",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,226,1411,122,1,znam-twoj-kazdy-krok.html",
+      "archive_path": "_archive/federacja/fed_kons_0149_znam_tw_j_ka_dy_krok__7d1114d2.html",
+      "content_type": "text/html",
+      "size_bytes": 11533,
+      "sha256": "eb35bf3242f8899ab7144dc4b2356d19a2c4366ed37a8e38ea49a9f983a715fe",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0149_znam_twój_każdy_krok"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0150_5_krok_w_wiadomego_konsumenta_dodatki_do_ywno_ci__58a49121",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1480,18,1,5-krokow-swiadomego-konsumenta--dodatki-do-zywnosci.html",
+      "archive_path": "_archive/federacja/fed_kons_0150_5_krok_w_wiadomego_konsumenta_dodatki_do_ywno_ci__58a49121.html",
+      "content_type": "text/html",
+      "size_bytes": 8096,
+      "sha256": "d68df9d08fe72a25a782f0e98815f6cf82a22d4294889797166520a22b39966b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0150_5_kroków_świadomego_konsumenta_dodatki_do_żywności"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0151_aplikacja_e_food_uwa_aj_co_jesz_uwa_aj_co_dzieje_si_z_twoim__68e7373a",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1109,18,1,aplikacja-efood-uwazaj-co-jesz-uwazaj-co-dzieje-sie-z-twoimi-danymi.html",
+      "archive_path": "_archive/federacja/fed_kons_0151_aplikacja_e_food_uwa_aj_co_jesz_uwa_aj_co_dzieje_si_z_twoim__68e7373a.html",
+      "content_type": "text/html",
+      "size_bytes": 8382,
+      "sha256": "5ea94c49f2364440ee0385dc853853e28c035cac9aea8f61a8bcdc6a8b30a1c2",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0151_aplikacja_e_food_uważaj_co_jesz_uważaj_co_dzieje_się_z_twoim"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0152_chcemy_by_w_dziale_dotycz_cym_ywno_ci_sta_e_miejsce_znalaz__16063976",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1440,18,1,chcemy-by-w-dziale-dotyczacym-zywnosci-stale-miejsce-znalazlo-sie-dla-tematu-niemarnowania-zywnosci.html",
+      "archive_path": "_archive/federacja/fed_kons_0152_chcemy_by_w_dziale_dotycz_cym_ywno_ci_sta_e_miejsce_znalaz__16063976.html",
+      "content_type": "text/html",
+      "size_bytes": 10519,
+      "sha256": "27018ee488ffdf03b21fbcffd337c3e671215200ed1913f85e04d059a5049ba3",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0152_chcemy_by_w_dziale_dotyczącym_żywności_stałe_miejsce_znalazł"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0153_czy_w_dobie_pandemii_ywno_jest_bezpieczna__c1e47b0c",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1435,18,1,czy-w-dobie-pandemii-zywnosc-jest-bezpieczna.html",
+      "archive_path": "_archive/federacja/fed_kons_0153_czy_w_dobie_pandemii_ywno_jest_bezpieczna__c1e47b0c.html",
+      "content_type": "text/html",
+      "size_bytes": 8317,
+      "sha256": "c1287ec7783044095c9846e5c9490537be1628ba86cad62d22eb701f6398b091",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0153_czy_w_dobie_pandemii_żywność_jest_bezpieczna"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0154_dobrowolne_systemy_znakowania_ywno_ci__52fca32f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1488,18,1,dobrowolne-systemy-znakowania-zywnosci.html",
+      "archive_path": "_archive/federacja/fed_kons_0154_dobrowolne_systemy_znakowania_ywno_ci__52fca32f.html",
+      "content_type": "text/html",
+      "size_bytes": 10900,
+      "sha256": "a326e5a63a6807d6fc492e0f25bdf3be45af3cfd6d035a4d443dd6d13d79839d",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0154_dobrowolne_systemy_znakowania_żywności"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0155_dzi_chcemy_ci_zapyta_co_s_dzisz_o_samotnym_bananie__8952ea90",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1442,18,1,dzis-chcemy-cie-zapytac-co-sadzisz-o-samotnym-bananie.html",
+      "archive_path": "_archive/federacja/fed_kons_0155_dzi_chcemy_ci_zapyta_co_s_dzisz_o_samotnym_bananie__8952ea90.html",
+      "content_type": "text/html",
+      "size_bytes": 8168,
+      "sha256": "ccc1b2d901e6e9ee1352bcb2e3aadaed13da3bb784a3abe9a280aa37c08b8bdd",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0155_dziś_chcemy_cię_zapytać_co_sądzisz_o_samotnym_bananie"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0156_mi_dzynarodowy_dzie_bezpiecze_stwa_ywno_ci_2021__defefc0c",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1492,18,1,miedzynarodowy-dzien-bezpieczenstwa-zywnosci-2021.html",
+      "archive_path": "_archive/federacja/fed_kons_0156_mi_dzynarodowy_dzie_bezpiecze_stwa_ywno_ci_2021__defefc0c.html",
+      "content_type": "text/html",
+      "size_bytes": 8959,
+      "sha256": "725a72400c3c5e7ff845ef08d3c770fe337c709ecd4e0628a6dec5e641280ec4",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0156_międzynarodowy_dzień_bezpieczeństwa_żywności_2021"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0157_niska_temperatura_nie_dla_pomidora__2ce95deb",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1439,18,1,niska-temperatura-nie-dla-pomidora.html",
+      "archive_path": "_archive/federacja/fed_kons_0157_niska_temperatura_nie_dla_pomidora__2ce95deb.html",
+      "content_type": "text/html",
+      "size_bytes": 8557,
+      "sha256": "e482dcbaa8156464a6a07206ee8e99feb8224864dda16be88c77e677e58ab81f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0157_niska_temperatura_nie_dla_pomidora"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0158_nowe_przepisy_dotycz_ce_znakowania_mi_sa_flag_kraju_pochodz__38464c3d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1461,18,1,nowe-przepisy-dotyczace-znakowania-miesa-flaga-kraju-pochodzenia.html",
+      "archive_path": "_archive/federacja/fed_kons_0158_nowe_przepisy_dotycz_ce_znakowania_mi_sa_flag_kraju_pochodz__38464c3d.html",
+      "content_type": "text/html",
+      "size_bytes": 8280,
+      "sha256": "8fd3c9fa35e54887529180d7cc47e88419559e239354d1f81befd0e62a1f2ff5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0158_nowe_przepisy_dotyczące_znakowania_mięsa_flagą_kraju_pochodz"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0159_o_wiadczenia_zdrowotne_rozszyfrowane__e9240221",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1486,18,1,oswiadczenia-zdrowotne-rozszyfrowane.html",
+      "archive_path": "_archive/federacja/fed_kons_0159_o_wiadczenia_zdrowotne_rozszyfrowane__e9240221.html",
+      "content_type": "text/html",
+      "size_bytes": 9146,
+      "sha256": "df86b9af3d51f1ecc3fab84105e65fd420ea31bf65a1059e464984dcc03f2422",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0159_oświadczenia_zdrowotne_rozszyfrowane"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0160_pi_krok_w_wiadomego_konsumenta_produkt_polski_a_kod_590__06ebc75d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1482,18,1,piec-krokow-swiadomego-konsumenta--produkt-polski-a-kod-590.html",
+      "archive_path": "_archive/federacja/fed_kons_0160_pi_krok_w_wiadomego_konsumenta_produkt_polski_a_kod_590__06ebc75d.html",
+      "content_type": "text/html",
+      "size_bytes": 7454,
+      "sha256": "6adf398b830cccde3e6eda46558afdfd1766f1d9c333666d30585a9697e85ddc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0160_pięć_kroków_świadomego_konsumenta_produkt_polski_a_kod_590"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0161_pi_krok_w_wiadomego_konsumenta_racjonalne_zakupy_i_niemar__6718fc9f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1484,18,1,piec-krokow-swiadomego-konsumenta--racjonalne-zakupy-i-niemarnowanie-zywnosci.html",
+      "archive_path": "_archive/federacja/fed_kons_0161_pi_krok_w_wiadomego_konsumenta_racjonalne_zakupy_i_niemar__6718fc9f.html",
+      "content_type": "text/html",
+      "size_bytes": 7028,
+      "sha256": "3380264fd3884cd66162148089965dbeb0370c6383347a0fc0628b19a0f14850",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0161_pięć_kroków_świadomego_konsumenta_racjonalne_zakupy_i_niemar"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0162_pi_krok_w_wiadomego_konsumenta_suplementy_diety__921d2e6a",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1481,18,1,piec-krokow-swiadomego-konsumenta--suplementy-diety.html",
+      "archive_path": "_archive/federacja/fed_kons_0162_pi_krok_w_wiadomego_konsumenta_suplementy_diety__921d2e6a.html",
+      "content_type": "text/html",
+      "size_bytes": 7010,
+      "sha256": "26f53ab136cffbd56e6f02cab715b39aa02cf918e91b94ab04418dac2f9b30bd",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0162_pięć_kroków_świadomego_konsumenta_suplementy_diety"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0163_pi_krok_w_wiadomego_konsumenta_termin_przydatno_ci_do_spo__ccc1759f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1483,18,1,piec-krokow-swiadomego-konsumenta--termin-przydatnosci-do-spozycia-a-data-minimalnej-trwalosci.html",
+      "archive_path": "_archive/federacja/fed_kons_0163_pi_krok_w_wiadomego_konsumenta_termin_przydatno_ci_do_spo__ccc1759f.html",
+      "content_type": "text/html",
+      "size_bytes": 7095,
+      "sha256": "f844a3b7d78a74e92b7919d57a5810b50b60a23144afed7594cab465ffa8774b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0163_pięć_kroków_świadomego_konsumenta_termin_przydatności_do_spo"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0164_produkty_eko_bio_organic_to_to_samo__a96e7131",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1441,18,1,produkty-eko-bio-organic-to-to-samo.html",
+      "archive_path": "_archive/federacja/fed_kons_0164_produkty_eko_bio_organic_to_to_samo__a96e7131.html",
+      "content_type": "text/html",
+      "size_bytes": 12419,
+      "sha256": "6111680630795296d8642a47dbe8716f727fb2a026da06123e9aea9cde32e031",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0164_produkty_eko_bio_organic_to_to_samo"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0165_przed_wi_teczny_poradnik_zakupowy__3d29bc3b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1477,18,1,przedswiateczny-poradnik-zakupowy.html",
+      "archive_path": "_archive/federacja/fed_kons_0165_przed_wi_teczny_poradnik_zakupowy__3d29bc3b.html",
+      "content_type": "text/html",
+      "size_bytes": 12710,
+      "sha256": "fca15594cb9b8eadf020c97d821a93e0a2c6ead087d690a39841ea0650902be6",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0165_przedświąteczny_poradnik_zakupowy"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0166_ro_linne_hamburgery_steki_i_kie_baski__c42018b0",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1469,18,1,roslinne-hamburgery-steki-i-kielbaski.html",
+      "archive_path": "_archive/federacja/fed_kons_0166_ro_linne_hamburgery_steki_i_kie_baski__c42018b0.html",
+      "content_type": "text/html",
+      "size_bytes": 9126,
+      "sha256": "f29b47bc92d309c022b08a521cd3bb0d71013181122763d208b38222c6adb7c0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0166_roślinne_hamburgery_steki_i_kiełbaski"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0167_wiatowy_dzie_walki_z_marnowaniem_jedzenia__46e7c591",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1463,18,1,swiatowy-dzien-walki-z-marnowaniem-jedzenia.html",
+      "archive_path": "_archive/federacja/fed_kons_0167_wiatowy_dzie_walki_z_marnowaniem_jedzenia__46e7c591.html",
+      "content_type": "text/html",
+      "size_bytes": 9227,
+      "sha256": "ab22c08e63550f019db3aa5669c3306f92f16831238c86340f7390db718b0ee9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0167_światowy_dzień_walki_z_marnowaniem_jedzenia"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0168_world_food_safety_day_2020__e2c343e3",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1446,18,1,world-food-safety-day-2020.html",
+      "archive_path": "_archive/federacja/fed_kons_0168_world_food_safety_day_2020__e2c343e3.html",
+      "content_type": "text/html",
+      "size_bytes": 10841,
+      "sha256": "32f3a4f061c7795f5d9d7bc90f85a5dae847784188405f06f82e8a334ac80f5b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0168_world_food_safety_day_2020"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0169_zachowania_polskich_konsument_w_na_rynku_produkt_w_spo_ywczy__bda65d80",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1472,18,1,zachowania-polskich-konsumentow-na-rynku-produktow-spozywczych--raport-z-badania.html",
+      "archive_path": "_archive/federacja/fed_kons_0169_zachowania_polskich_konsument_w_na_rynku_produkt_w_spo_ywczy__bda65d80.html",
+      "content_type": "text/html",
+      "size_bytes": 8365,
+      "sha256": "9eddbe18175090c565fd163b2c24bc28cead231a74ba501ac0ea578d53a972e5",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0169_zachowania_polskich_konsumentów_na_rynku_produktów_spożywczy"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0170_zakupy_spo_ywcze_przez_internet__1ac4d3d8",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1450,18,1,zakupy-spozywcze-przez-internet.html",
+      "archive_path": "_archive/federacja/fed_kons_0170_zakupy_spo_ywcze_przez_internet__1ac4d3d8.html",
+      "content_type": "text/html",
+      "size_bytes": 12899,
+      "sha256": "ecef70a9585b2ff6db95b25cd8851e5c160475750f80ddef0750c039ba90e444",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0170_zakupy_spożywcze_przez_internet"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0171_zje_czy_nie_zje_oto_jest_pytanie__8c36ef84",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1468,18,1,zjesc-czy-nie-zjesc--oto-jest-pytanie.html",
+      "archive_path": "_archive/federacja/fed_kons_0171_zje_czy_nie_zje_oto_jest_pytanie__8c36ef84.html",
+      "content_type": "text/html",
+      "size_bytes": 10074,
+      "sha256": "4b3ad6e78b40a2d670079cf8cc91359d960d67bffa656a83765237351ded8b66",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0171_zjeść_czy_nie_zjeść_oto_jest_pytanie"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0172_suplementy_diety__e952b01f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1219,18,1,suplementy-diety.html",
+      "archive_path": "_archive/federacja/fed_kons_0172_suplementy_diety__e952b01f.html",
+      "content_type": "text/html",
+      "size_bytes": 6873,
+      "sha256": "7a7dbdc21fbdef599b5cd6e0f77cc4c2897ace5978cfd9995a1d51123ed48eb0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0172_suplementy_diety"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0173_nowe_zasady_etykietowania_ywno_ci__4bca474c",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,1131,18,1,nowe-zasady-etykietowania-zywnosci.html",
+      "archive_path": "_archive/federacja/fed_kons_0173_nowe_zasady_etykietowania_ywno_ci__4bca474c.html",
+      "content_type": "text/html",
+      "size_bytes": 9026,
+      "sha256": "2dfc8ff35b59d864b7ca1bbb4549f77049bc4a9c9363b239df9c78dd4f6981e9",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0173_nowe_zasady_etykietowania_żywności"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0174_konsumenci_chc_wiedzie_sk_d_pochodzi_kupowana_przez_nich__bc67cfa1",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,968,18,1,konsumenci-chca-wiedziec-skad-pochodzi-kupowana-przez-nich-zywnosc.html",
+      "archive_path": "_archive/federacja/fed_kons_0174_konsumenci_chc_wiedzie_sk_d_pochodzi_kupowana_przez_nich__bc67cfa1.html",
+      "content_type": "text/html",
+      "size_bytes": 9893,
+      "sha256": "6e1012c84c6b7840ddf73376493b5761ef9bc54b3dfe57948a528fdee3f08221",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0174_konsumenci_chcą_wiedzieć_skąd_pochodzi_kupowana_przez_nich_ż"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0175_ywno_ekologiczna__dfe292b6",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,424,18,1,zywnosc-ekologiczna.html",
+      "archive_path": "_archive/federacja/fed_kons_0175_ywno_ekologiczna__dfe292b6.html",
+      "content_type": "text/html",
+      "size_bytes": 8275,
+      "sha256": "f4e52d965bf19e22ad20f96d496bdde00c34460d08f5e7ecc80db509b2730197",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0175_żywność_ekologiczna"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0176_co_to_s_probiotyki__26d71a8f",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,51,147,18,1,co-to-sa-probiotyki.html",
+      "archive_path": "_archive/federacja/fed_kons_0176_co_to_s_probiotyki__26d71a8f.html",
+      "content_type": "text/html",
+      "size_bytes": 9335,
+      "sha256": "4040b782f67d9b87012ab232dc792e93309be8502d0fb435d252b2ca46092a6f",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0176_co_to_są_probiotyki"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0177_linki_od_zas_on_okiennych_mog_by_niebezpieczne_dla_dzieci__fcfd845c",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,48,1329,15,1,linki-od-zaslon-okiennych-moga-byc-niebezpieczne-dla-dzieci.html",
+      "archive_path": "_archive/federacja/fed_kons_0177_linki_od_zas_on_okiennych_mog_by_niebezpieczne_dla_dzieci__fcfd845c.html",
+      "content_type": "text/html",
+      "size_bytes": 7689,
+      "sha256": "a069e92ee21ee003a1ba9b1fc48d3ab550bb7cf05614e7ebb65f24bf4a1af2bc",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0177_linki_od_zasłon_okiennych_mogą_być_niebezpieczne_dla_dzieci"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0178_nadz_r_nad_bezpiecze_stwem_produktu__580ab761",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,48,38,15,1,nadzor-nad-bezpieczenstwem-produktu.html",
+      "archive_path": "_archive/federacja/fed_kons_0178_nadz_r_nad_bezpiecze_stwem_produktu__580ab761.html",
+      "content_type": "text/html",
+      "size_bytes": 12581,
+      "sha256": "3c3e502b1a5d027613f2bd28afc6efb112ab426fe36de42c6d33ece29f40bd60",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0178_nadzór_nad_bezpieczeństwem_produktu"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0179_abc_konsumenta_bezpiecze_stwo_produktu__dc51fdab",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,48,407,15,1,abc-konsumenta--bezpieczenstwo-produktu.html",
+      "archive_path": "_archive/federacja/fed_kons_0179_abc_konsumenta_bezpiecze_stwo_produktu__dc51fdab.html",
+      "content_type": "text/html",
+      "size_bytes": 10411,
+      "sha256": "b6e0a5b82257d550c7cbb87b4b7ccfd2fedd18d9c308a80049762d50e2eb80ea",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0179_abc_konsumenta_bezpieczeństwo_produktu"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0180_bezpieczny_produkt__5919e113",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,48,458,15,1,bezpieczny-produkt.html",
+      "archive_path": "_archive/federacja/fed_kons_0180_bezpieczny_produkt__5919e113.html",
+      "content_type": "text/html",
+      "size_bytes": 10525,
+      "sha256": "39aaae3de0539dabb24ac4790187c98cd86dd5e30e2c1fe1404072739bc43c92",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0180_bezpieczny_produkt"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0181_rapex_unijny_system_szybkiego_powiadamiania_o_produktach_nie__a63f54c7",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,48,412,15,1,rapex--unijny-system-szybkiego-powiadamiania-o-produktach-niebezpiecznych.html",
+      "archive_path": "_archive/federacja/fed_kons_0181_rapex_unijny_system_szybkiego_powiadamiania_o_produktach_nie__a63f54c7.html",
+      "content_type": "text/html",
+      "size_bytes": 8903,
+      "sha256": "ef8360e08ac71c1331ecac50f41078dad3d7b9b0712bee81d0eb4f7a9c043f73",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0181_rapex_unijny_system_szybkiego_powiadamiania_o_produktach_nie"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0182_jak_post_powa_gdy_produkt_oka_e_si_niebezpieczny__5849b435",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,48,443,15,1,jak-postepowac-gdy-produkt-okaze-sie-niebezpieczny-.html",
+      "archive_path": "_archive/federacja/fed_kons_0182_jak_post_powa_gdy_produkt_oka_e_si_niebezpieczny__5849b435.html",
+      "content_type": "text/html",
+      "size_bytes": 9411,
+      "sha256": "8e7d46cb38bb4910c91e89298bfe7e99af2cd133a0f5001a931962a8bbce7423",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0182_jak_postępować_gdy_produkt_okaże_się_niebezpieczny"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0183_formularz_zg_oszenia_produktu_niebezpiecznego__5dd25e41",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,48,461,15,1,formularz-zgloszenia-produktu-niebezpiecznego.html",
+      "archive_path": "_archive/federacja/fed_kons_0183_formularz_zg_oszenia_produktu_niebezpiecznego__5dd25e41.html",
+      "content_type": "text/html",
+      "size_bytes": 6933,
+      "sha256": "c66e1dbaccd3701b53982cad4710ca3e591eb1f31c4f31317921a28df345e926",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0183_formularz_zgłoszenia_produktu_niebezpiecznego"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0184_co_to_jest_znak_ce__760fa303",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,48,431,15,1,co-to-jest-znak-ce.html",
+      "archive_path": "_archive/federacja/fed_kons_0184_co_to_jest_znak_ce__760fa303.html",
+      "content_type": "text/html",
+      "size_bytes": 13145,
+      "sha256": "f6c630e72d5f5580da18b381215a09e20a207fb9163d079a4963b2d756c6737b",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0184_co_to_jest_znak_ce"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0185_co_to_jest_wypadek_konsumencki__40a6de45",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,48,436,15,1,co-to-jest-wypadek-konsumencki-.html",
+      "archive_path": "_archive/federacja/fed_kons_0185_co_to_jest_wypadek_konsumencki__40a6de45.html",
+      "content_type": "text/html",
+      "size_bytes": 11365,
+      "sha256": "49444f90b0c7403a1a036a51c9cf2e027736891ef33fbc0664cf791202bb072d",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0185_co_to_jest_wypadek_konsumencki"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0186_abc_konsumenta_zabawki_radosna_i_bezpieczna_zabawa__4056886d",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,47,408,14,1,abc-konsumenta--zabawki-radosna-i-bezpieczna-zabawa.html",
+      "archive_path": "_archive/federacja/fed_kons_0186_abc_konsumenta_zabawki_radosna_i_bezpieczna_zabawa__4056886d.html",
+      "content_type": "text/html",
+      "size_bytes": 12266,
+      "sha256": "2effe26bc1580d160cd828adbc386e3f1388b1dd1e86d8434da7258edda386d0",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0186_abc_konsumenta_zabawki_radosna_i_bezpieczna_zabawa"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0187_dwana_cie_rad_jak_kupowa_zabawki__c4dcc81e",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,47,806,14,1,dwanascie-rad-jak-kupowac-zabawki.html",
+      "archive_path": "_archive/federacja/fed_kons_0187_dwana_cie_rad_jak_kupowa_zabawki__c4dcc81e.html",
+      "content_type": "text/html",
+      "size_bytes": 8953,
+      "sha256": "30bcb10e3783b4d4214ce9c956918657a28c04e516ef52d29923d0ee2978a335",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0187_dwanaście_rad_jak_kupować_zabawki"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0188_czym_si_bawi__b0024576",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,47,44,14,1,czym-sie-bawic.html",
+      "archive_path": "_archive/federacja/fed_kons_0188_czym_si_bawi__b0024576.html",
+      "content_type": "text/html",
+      "size_bytes": 26199,
+      "sha256": "7ee751028593b76f65fd54e0533c1f0a6387696749a55b2d1b09ba3421732972",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0188_czym_się_bawić"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0189_samodzielne_zakupy_dzieci__fde29a2b",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,47,57,14,1,samodzielne-zakupy-dzieci.html",
+      "archive_path": "_archive/federacja/fed_kons_0189_samodzielne_zakupy_dzieci__fde29a2b.html",
+      "content_type": "text/html",
+      "size_bytes": 9665,
+      "sha256": "96dbede53381ebad72dab4dad3d39f4005b8be03dc3400cd877c68d5ee14258e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0189_samodzielne_zakupy_dzieci"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0190_zapalniczki_musz_by_zabezpieczone_przed_dzie_mi__ff124522",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,47,699,14,1,zapalniczki-musza-byc-zabezpieczone-przed-dziecmi.html",
+      "archive_path": "_archive/federacja/fed_kons_0190_zapalniczki_musz_by_zabezpieczone_przed_dzie_mi__ff124522.html",
+      "content_type": "text/html",
+      "size_bytes": 7905,
+      "sha256": "9d4158678a00e5f4a067e78205a7be1aeb161b4b04ee6832e610abe5b2f95b1e",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0190_zapalniczki_muszą_być_zabezpieczone_przed_dziećmi"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0191_dyrektywy_ue_dotycz_ce_marketingu_produkt_w_zast_puj_cych_ml__badd24f1",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,47,40,14,1,dyrektywy-ue-dotyczace-marketingu-produktow-zastepujacych-mleko-kobiece.html",
+      "archive_path": "_archive/federacja/fed_kons_0191_dyrektywy_ue_dotycz_ce_marketingu_produkt_w_zast_puj_cych_ml__badd24f1.html",
+      "content_type": "text/html",
+      "size_bytes": 22350,
+      "sha256": "06f7d50fa4a1607c5e3103d4c1d54bfbe740f25b9bd1cf952b0eea50c0ae75f7",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0191_dyrektywy_ue_dotyczące_marketingu_produktów_zastępujących_ml"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0192_mi_dzynarodowy_kodeks_marketingu_produkt_w_zast_puj_cych_mle__42e0bb75",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,47,39,14,1,miedzynarodowy-kodeks-marketingu-produktow-zastepujacych-mleko-kobiece.html",
+      "archive_path": "_archive/federacja/fed_kons_0192_mi_dzynarodowy_kodeks_marketingu_produkt_w_zast_puj_cych_mle__42e0bb75.html",
+      "content_type": "text/html",
+      "size_bytes": 21146,
+      "sha256": "b0a53f3f9e60f9746ff88c05aafe8c0cc09ee3fa6a75a0b549f4644cd9079569",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0192_międzynarodowy_kodeks_marketingu_produktów_zastępujących_mle"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    },
+    {
+      "doc_id": "fed_kons_0193_dlaczego_fk_promuje_miedzynarodowy_kodeks_marketingu_produkt__2b92afd5",
+      "source_url": "https://www.federacja-konsumentow.org.pl/n,47,92,14,1,dlaczego-fk-promuje-miedzynarodowy-kodeks-marketingu-produktow-zastepujacych-mleko-kobiece.html",
+      "archive_path": "_archive/federacja/fed_kons_0193_dlaczego_fk_promuje_miedzynarodowy_kodeks_marketingu_produkt__2b92afd5.html",
+      "content_type": "text/html",
+      "size_bytes": 15077,
+      "sha256": "7ac36328e57c2d1878d055f78a0647855d6eb9b234f47d91a2da1b39efa22d44",
+      "download_date": "2026-05-16",
+      "chunk_ids": [
+        "fed_kons_0193_dlaczego_fk_promuje_miedzynarodowy_kodeks_marketingu_produkt"
+      ],
+      "license": "fair-use research (Federacja Konsumentów porady — NGO, attribution preserved)",
+      "http_status": 200
+    }
+  ],
+  "errors": []
+}

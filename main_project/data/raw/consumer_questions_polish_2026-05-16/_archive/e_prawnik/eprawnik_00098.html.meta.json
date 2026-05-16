@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00098",
+  "source_url": "https://e-prawnik.pl/forum/klient-nie-wie-czego-chce-jak-zerwac-umowe.html",
+  "fetch_url": "https://e-prawnik.pl/forum/klient-nie-wie-czego-chce-jak-zerwac-umowe.html",
+  "archive_file": "e_prawnik/eprawnik_00098.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57287,
+  "sha256": "8776e632ac237d2be74ab1d8f2e8cc20b2431f52aae682c48f7d628fc73954f2",
+  "download_date": "2026-05-16T07:24:39Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

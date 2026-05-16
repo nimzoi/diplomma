@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00573",
+  "source_url": "https://e-prawnik.pl/forum/witam-mam-pytanie-zlorzylem-zaliczke-na-samochod-nowy-z-roku-2013-mieli-takie-po-opisie-tego-au.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-mam-pytanie-zlorzylem-zaliczke-na-samochod-nowy-z-roku-2013-mieli-takie-po-opisie-tego-au.html",
+  "archive_file": "e_prawnik/eprawnik_00573.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56321,
+  "sha256": "eb3faa8a3f6ff7133e31722dfffcd07ce441b8212fdbb22173f23f848ec754f2",
+  "download_date": "2026-05-16T07:33:55Z",
+  "duration_sec": 0.177,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

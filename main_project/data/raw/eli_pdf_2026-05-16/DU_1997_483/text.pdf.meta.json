@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/1997/483",
+  "ustawa_title": "Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.",
+  "kind": "announcement",
+  "consolidated_ref": null,
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/1997/483/text.pdf",
+  "size_bytes": 13232489,
+  "sha256": "014b25f1d5690f11f58fafdd505650b36fc8835530b20f16c08b2577a928877f",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00219",
+  "source_url": "https://e-prawnik.pl/forum/niejednoznaczna-odpowiedz-reklamacyjna.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niejednoznaczna-odpowiedz-reklamacyjna.html",
+  "archive_file": "e_prawnik/eprawnik_00219.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55014,
+  "sha256": "684832a75ed7901da1a4ca65b784c770beac3a770e51aed9131548fee8c14faf",
+  "download_date": "2026-05-16T07:26:59Z",
+  "duration_sec": 0.141,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

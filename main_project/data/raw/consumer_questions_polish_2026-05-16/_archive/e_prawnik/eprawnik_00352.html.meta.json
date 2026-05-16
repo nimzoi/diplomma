@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00352",
+  "source_url": "https://e-prawnik.pl/forum/obuwie-skorzane-nie-odprowadza-wilgoci-zwrot.html",
+  "fetch_url": "https://e-prawnik.pl/forum/obuwie-skorzane-nie-odprowadza-wilgoci-zwrot.html",
+  "archive_file": "e_prawnik/eprawnik_00352.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54874,
+  "sha256": "b7d9a0d6b720aeaaa8fc8d331682f886d0760447c0f3376fec913fbe75dd3416",
+  "download_date": "2026-05-16T07:29:36Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

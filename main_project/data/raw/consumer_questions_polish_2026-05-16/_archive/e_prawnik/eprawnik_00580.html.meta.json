@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00580",
+  "source_url": "https://e-prawnik.pl/forum/kupilam-kurtke-ddziecku-z-kapturemnatomiast-kaptur-ten-jest-znacznie-za-maly-w-stosunku-do-kurt.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kupilam-kurtke-ddziecku-z-kapturemnatomiast-kaptur-ten-jest-znacznie-za-maly-w-stosunku-do-kurt.html",
+  "archive_file": "e_prawnik/eprawnik_00580.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57324,
+  "sha256": "f0d182add0f49baf99e2e5684c9d707e4e7496a8529f08f000cdd4dda34c9090",
+  "download_date": "2026-05-16T07:34:04Z",
+  "duration_sec": 0.179,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

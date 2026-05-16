@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00115",
+  "source_url": "https://e-prawnik.pl/forum/zadatek-czy-zaliczka.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zadatek-czy-zaliczka.html",
+  "archive_file": "e_prawnik/eprawnik_00115.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56059,
+  "sha256": "32f3f11cb0446c46dc681ae4b85a300c3dd2d52a2e9dd0bfbb36fd42a51c3254",
+  "download_date": "2026-05-16T07:24:59Z",
+  "duration_sec": 0.166,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00514",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-wadliwy-towar.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-wadliwy-towar.html",
+  "archive_file": "e_prawnik/eprawnik_00514.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58592,
+  "sha256": "bad47eff43cddbd53610dea3c4c2cc176f100918489fd8423b0b586d3d2f99f3",
+  "download_date": "2026-05-16T07:32:45Z",
+  "duration_sec": 0.175,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

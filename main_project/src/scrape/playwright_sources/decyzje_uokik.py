@@ -211,15 +211,26 @@ def _harvest_listing_page(page: Page, start: int) -> list[_DecyzjaListEntry]:
     """Otwiera ``decyzje?OpenView&Start=N`` i zwraca listę wpisów."""
     url = f"{BASE_URL}?OpenView&Start={start}"
     logger.info("listing GET start=%d", start)
-    if not page.goto(url, timeout=60_000):
+    if not page.goto(url, timeout=90_000):
         logger.warning("  listing failed at start=%d", start)
         return []
     # Networkidle nie zawsze działa (WAF JS spins forever); użyj timeout.
     try:
-        page.wait_for_load_state("networkidle", timeout=15_000)
+        page.wait_for_load_state("networkidle", timeout=20_000)
     except Exception:
         pass
-    page.wait_for_timeout(2_000)
+    page.wait_for_timeout(4_000)
+    # Czekaj na pojawienie się linków (do 15s).
+    try:
+        page.wait_for_selector("tr a[href*='OpenDocument']", timeout=15_000)
+    except Exception:
+        # Spróbuj refresh — czasem WAF JS nie zakończył.
+        try:
+            page.reload(timeout=60_000, wait_until="domcontentloaded")
+            page.wait_for_timeout(4_000)
+            page.wait_for_selector("tr a[href*='OpenDocument']", timeout=10_000)
+        except Exception:
+            pass
     # Wszystkie OpenDocument linki w TR.
     items: list[dict[str, str]] = page.eval_on_selector_all(
         "tr a[href*='OpenDocument']",
@@ -340,16 +351,22 @@ def scrape_decyzje_uokik(
 
         # Step 1 — odkrywamy entries z listingu.
         entries: list[_DecyzjaListEntry] = []
+        empty_streak = 0
         for page_idx in range(max_pages):
             start = 1 + page_idx * rows_per_page
             sess.throttle()
             page_entries = _harvest_listing_page(page, start)
             if not page_entries:
-                logger.info("empty page at start=%d, stopping listing", start)
-                break
+                empty_streak += 1
+                logger.info("empty page at start=%d (streak=%d)", start, empty_streak)
+                if empty_streak >= 3:
+                    logger.info("3 empty pages in row, stopping listing")
+                    break
+                continue
+            empty_streak = 0
             entries.extend(page_entries)
             stats.attempted += len(page_entries)
-            if len(entries) >= max_records * 2:  # buffer dla consumer filter
+            if len(entries) >= max_records * 3:  # buffer dla consumer filter
                 logger.info("collected enough entries (%d), stopping listing", len(entries))
                 break
 
@@ -433,10 +450,48 @@ def scrape_decyzje_uokik(
                 f"{kara:,.0f} PLN" if kara else "n/a",
             )
 
-    # Append-write głównego JSONL (replace if existed).
+    # JSONL: deduped merge z istniejącym (nie nadpisuj jeśli scrape był pusty).
     jsonl_path = output_dir / "decyzje.jsonl"
-    n = write_jsonl(decyzje_records, jsonl_path)
-    logger.info("wrote %d records → %s", n, jsonl_path)
+    existing_records: dict[str, dict[str, Any]] = {}
+    if jsonl_path.exists():
+        import json as _json
+
+        with jsonl_path.open(encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    d = _json.loads(line)
+                    existing_records[d["decyzja_id"]] = d
+                except Exception:
+                    continue
+    # Merge with new. Dodatkowo: czytaj meta.json sidecars (dataset-of-truth).
+    import dataclasses as _dc
+    import json as _json
+
+    for rec in decyzje_records:
+        existing_records[rec.decyzja_id] = _dc.asdict(rec)
+    for meta_file in output_dir.glob("uokik_dec_*.meta.json"):
+        with meta_file.open(encoding="utf-8") as f:
+            try:
+                d = _json.load(f)
+                existing_records.setdefault(d["decyzja_id"], d)
+            except Exception:
+                continue
+    merged = list(existing_records.values())
+    # Write all.
+    with jsonl_path.open("w", encoding="utf-8") as f:
+        for d in merged:
+            f.write(_json.dumps(d, ensure_ascii=False, default=str) + "\n")
+    logger.info(
+        "wrote %d records → %s (new this run: %d, total inc existing: %d)",
+        len(merged),
+        jsonl_path,
+        len(decyzje_records),
+        len(merged),
+    )
+    stats.notes += f"jsonl_total_records={len(merged)}; new_this_run={len(decyzje_records)}; "
     return stats
 
 

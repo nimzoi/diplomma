@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00497",
+  "source_url": "https://e-prawnik.pl/forum/szkoda-z-oc-przegrana-w-sadzie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/szkoda-z-oc-przegrana-w-sadzie.html",
+  "archive_file": "e_prawnik/eprawnik_00497.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60417,
+  "sha256": "8a4e952c5ec05c891700fbad76f3ea2f22b7f0b142a331449e33e472d12ecb6b",
+  "download_date": "2026-05-16T07:32:25Z",
+  "duration_sec": 0.158,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

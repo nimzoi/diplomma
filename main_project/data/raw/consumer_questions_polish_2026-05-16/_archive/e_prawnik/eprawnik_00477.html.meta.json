@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00477",
+  "source_url": "https://e-prawnik.pl/forum/wady-wrodzone-u-psa-adopcja-od-hodowcy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wady-wrodzone-u-psa-adopcja-od-hodowcy.html",
+  "archive_file": "e_prawnik/eprawnik_00477.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57236,
+  "sha256": "4500665b30234c159883c1e28d5f89feb08c6f1ceacfcae91d21d5ac89c4d273",
+  "download_date": "2026-05-16T07:32:02Z",
+  "duration_sec": 0.142,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

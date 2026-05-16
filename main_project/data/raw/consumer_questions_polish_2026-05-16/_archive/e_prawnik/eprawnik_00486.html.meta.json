@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00486",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-naroznika-slabej-jakosci-material.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-naroznika-slabej-jakosci-material.html",
+  "archive_file": "e_prawnik/eprawnik_00486.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58489,
+  "sha256": "65494a10ea63cda2c2069df53c8d4b5ba7e7f5f1ed389a38475d9b68538dbde8",
+  "download_date": "2026-05-16T07:32:12Z",
+  "duration_sec": 0.197,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

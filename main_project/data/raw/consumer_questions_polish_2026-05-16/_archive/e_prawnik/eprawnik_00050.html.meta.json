@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00050",
+  "source_url": "https://e-prawnik.pl/forum/bre-bank-klauzule-niedozwolone.html",
+  "fetch_url": "https://e-prawnik.pl/forum/bre-bank-klauzule-niedozwolone.html",
+  "archive_file": "e_prawnik/eprawnik_00050.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55752,
+  "sha256": "155a0fe648326caa17ed08494bf894abe7cadb82b683e7e477ed38ac45300b3c",
+  "download_date": "2026-05-16T07:23:43Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00448",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-a-komornik.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-a-komornik.html",
+  "archive_file": "e_prawnik/eprawnik_00448.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56557,
+  "sha256": "908356b537512e67210725ffad200c5d3db9ba42e99d0acf13b81614f76ea02c",
+  "download_date": "2026-05-16T07:31:28Z",
+  "duration_sec": 0.252,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

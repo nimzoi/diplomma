@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00020",
+  "source_url": "https://e-prawnik.pl/forum/prosba-o-podare.html",
+  "fetch_url": "https://e-prawnik.pl/forum/prosba-o-podare.html",
+  "archive_file": "e_prawnik/eprawnik_00020.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55221,
+  "sha256": "13391c9658737482bb4d4e3450f67a53867ddc2754cac1498ee63aadecee25df",
+  "download_date": "2026-05-16T07:23:08Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

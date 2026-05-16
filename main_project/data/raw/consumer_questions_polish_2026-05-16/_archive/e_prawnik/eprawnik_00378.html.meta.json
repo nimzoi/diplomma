@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00378",
+  "source_url": "https://e-prawnik.pl/forum/czy-mozna-starac-sie-o-odszkodowanie-za-opoznienie-w-budowie-i-oddaniu-mieszkania-przez-dewelop.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-mozna-starac-sie-o-odszkodowanie-za-opoznienie-w-budowie-i-oddaniu-mieszkania-przez-dewelop.html",
+  "archive_file": "e_prawnik/eprawnik_00378.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58179,
+  "sha256": "ec6a057b8b35cc56826b55289052193d3adbf3ea594fbf8a1f25e4614dfd8eb7",
+  "download_date": "2026-05-16T07:30:07Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

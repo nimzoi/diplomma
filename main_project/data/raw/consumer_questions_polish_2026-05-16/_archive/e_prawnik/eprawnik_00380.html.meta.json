@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00380",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-samochodu-po-zakupie-pomocy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-samochodu-po-zakupie-pomocy.html",
+  "archive_file": "e_prawnik/eprawnik_00380.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56109,
+  "sha256": "247617de2b73e05180d2a8a2a02f9b2c3703b949ba418a790be30a09398ee8b8",
+  "download_date": "2026-05-16T07:30:09Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

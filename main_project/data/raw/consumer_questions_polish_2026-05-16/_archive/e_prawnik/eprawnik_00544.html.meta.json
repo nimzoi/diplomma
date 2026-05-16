@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00544",
+  "source_url": "https://e-prawnik.pl/forum/naprawa-zepsutych-portow-usb-w-komputerze.html",
+  "fetch_url": "https://e-prawnik.pl/forum/naprawa-zepsutych-portow-usb-w-komputerze.html",
+  "archive_file": "e_prawnik/eprawnik_00544.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57565,
+  "sha256": "3cabfd9286629495952d8be41cb6d7c0d31d235dd915b01bfccde7236b2d3cab",
+  "download_date": "2026-05-16T07:33:21Z",
+  "duration_sec": 0.14,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

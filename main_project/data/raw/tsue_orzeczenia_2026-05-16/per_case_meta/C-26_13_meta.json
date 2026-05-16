@@ -1,0 +1,22 @@
+{
+  "case_id": "C-26/13",
+  "celex_id": "62013CJ0026",
+  "case_name": "Arpad Kasler, Hajnalka Kaslerne Rabai v OTP Jelzalogbank Zrt",
+  "case_name_short": "Kasler",
+  "data_orzeczenia": "2014-04-30",
+  "sklad": "czwarta izba: L. Bay Larsen",
+  "streszczenie": "„Dyrektywa 93/13/EWG — Nieuczciwe warunki w umowach zawieranych między przedsiębiorcą a konsumentem — Artykuł 4 ust. 2 i art. 6 ust. 1 — Ocena nieuczciwego charakteru warunków umownych — Wyłączenie warunków dotyczących określenia głównego przedmiotu umowy lub stosowności ceny albo wynagrodzenia, pod warunkiem że warunki te zostały wyrażone prostym i zrozumiałym językiem — Umowy o kredyt konsumencki denominowany w walucie obcej — Warunki dotyczące kursów wymiany walut — Różnica między kursem kupna, stosowanym do uruchomienia kredytu, a kursem sprzedaży, stosowanym do jego spłaty — Uprawnienia sądu krajowego w przypadku warunku zakwalifikowanego jako „nieuczciwy” — Zastąpienie nieuczciwego warunku przepisem prawa krajowego o charakterze dyspozytywnym — Dopuszczalność”",
+  "tezy_kluczowe": [
+    "Artykuł 4 ust. 2 dyrektywy Rady 93/13/EWG z dnia 5 kwietnia 1993 r. w sprawie nieuczciwych warunków w umowach konsumenckich należy interpretować w ten sposób, że: — wyrażenie „określenie głównego przedmiotu umowy” obejmuje wprowadzony do zawartej między przedsiębiorcą a konsumentem umowy kredytu denominowanego w walucie obcej warunek, który nie był przedmiotem indywidualnych negocjacji, taki jak ten rozpatrywany w postępowaniu głównym, zgodnie z którym to warunkiem do celów obliczenia rat kredytu stosowany jest kurs sprzedaży wspomnianej waluty, jedynie pod warunkiem, że zostanie ustalone, iż wspomniany warunek określa podstawowe świadczenie w ramach danej umowy, które jako takie charakteryzuje tę umowę, przy czym ustalenia tego powinien dokonać sąd odsyłający, biorąc pod uwagę charakter, ogólną systematykę i postanowienia rozpatrywanej umowy, a także jej kontekst prawny i faktyczny; — tego rodzaju warunku – w zakresie, w jakim przewiduje on po stronie konsumenta zobowiązanie pieniężne w postaci obowiązku zapłaty w ramach rat kredytu kwot wynikających z różnicy między kursem sprzedaży a kursem kupna danej waluty obcej – nie można uznać za określający „wynagrodzenie”, którego stosunek jako świadczenia wzajemnego do dostarczonej przez kredytodawcę usługi nie może być przedmiotem oceny nieuczciwego charakteru na podstawie art. 4 ust. 2 dyrektywy 93/13. 2) Artykuł 4 ust. 2 dyrektywy 93/13 należy interpretować w ten sposób, że w przypadku warunku umownego takiego jak ten rozpatrywany w postępowaniu głównym wymóg, zgodnie z którym warunek umowny musi być wyrażony prostym i zrozumiałym językiem, powinien być rozumiany jako nakazujący nie tylko, by dany warunek był zrozumiały dla konsumenta z gramatycznego punktu widzenia, ale także, by umowa przedstawiała w sposób przejrzysty konkretne działanie mechanizmu wymiany waluty obcej, do którego odnosi się ów warunek, a także związek między tym mechanizmem a mechanizmem przewidzianym w innych warunkach dotyczących uruchomienia kredytu, tak by rzeczony konsument był w stanie oszacować, w oparciu o jednoznaczne i zrozumiałe kryteria, wypływające dla niego z tej umowy konsekwencje ekonomiczne. 3) Artykuł 6 ust. 1 dyrektywy 93/13 należy interpretować w ten sposób, że w sytuacji takiej jak rozpatrywana w postępowaniu głównym, w której umowa zawarta między przedsiębiorcą a konsumentem nie może dalej obowiązywać po wyłączeniu z niej nieuczciwego warunku, przepis ten nie sprzeciwia się uregulowaniu krajowemu, które pozwala sądowi krajowemu zaradzić skutkom nieważności tego warunku poprzez zastąpienie go przepisem prawa krajowego o charakterze dyspozytywnym."
+  ],
+  "related_directives": [
+    "93/13/EWG"
+  ],
+  "legal_topic": "przejrzystosc klauzul walutowych, CHF",
+  "notes": "prejudycjalny standard transparentnosci",
+  "citation_string": "Wyrok TSUE z dnia 30 kwietnia 2014 r. w sprawie C-26/13 Kasler",
+  "pelna_tresc_length": 48935,
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+  "scrape_date": "2026-05-16",
+  "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62013CJ0026"
+}

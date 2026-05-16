@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00431",
+  "source_url": "https://e-prawnik.pl/forum/rekojmia-saturn.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rekojmia-saturn.html",
+  "archive_file": "e_prawnik/eprawnik_00431.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56832,
+  "sha256": "e0abad3dc559b760475dc4652a3f29093cea49a13aaf32f4cd6a71f4a63006bc",
+  "download_date": "2026-05-16T07:31:09Z",
+  "duration_sec": 0.211,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

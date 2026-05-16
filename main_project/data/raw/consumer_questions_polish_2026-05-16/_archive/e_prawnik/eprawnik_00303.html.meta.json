@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00303",
+  "source_url": "https://e-prawnik.pl/forum/kupilem-aparat-z-podmienionym-obiektywem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kupilem-aparat-z-podmienionym-obiektywem.html",
+  "archive_file": "e_prawnik/eprawnik_00303.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57301,
+  "sha256": "905f4111cd0cd12b968345c670f8fd530f48804f77330140375322224f7c0607",
+  "download_date": "2026-05-16T07:28:38Z",
+  "duration_sec": 0.134,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

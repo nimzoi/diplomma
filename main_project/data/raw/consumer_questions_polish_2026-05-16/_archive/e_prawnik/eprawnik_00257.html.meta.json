@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00257",
+  "source_url": "https://e-prawnik.pl/forum/uszkodzenie-mienia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/uszkodzenie-mienia.html",
+  "archive_file": "e_prawnik/eprawnik_00257.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57863,
+  "sha256": "becb5b9bc748cb2ce5dfd9efef695c6ba9006524fe3c4c377d69d9856e95df8d",
+  "download_date": "2026-05-16T07:27:44Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00458",
+  "source_url": "https://e-prawnik.pl/forum/wypadek-na-terenie-restauracji-polisa-oc-nie-obejmuje-zlamania-reki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wypadek-na-terenie-restauracji-polisa-oc-nie-obejmuje-zlamania-reki.html",
+  "archive_file": "e_prawnik/eprawnik_00458.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60363,
+  "sha256": "35e911ade2408b0413fcf3909e604b5b7120cfc9403194e75d7ca87ee907d611",
+  "download_date": "2026-05-16T07:31:40Z",
+  "duration_sec": 0.092,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

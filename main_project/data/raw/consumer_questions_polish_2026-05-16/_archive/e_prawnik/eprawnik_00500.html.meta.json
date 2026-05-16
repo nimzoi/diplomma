@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00500",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-wadliwych-butow-z-metka-ccc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-wadliwych-butow-z-metka-ccc.html",
+  "archive_file": "e_prawnik/eprawnik_00500.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57281,
+  "sha256": "073129aacfabd6c9a34a84bd523426add0cfaf8ca11b2ff6f46f3682839bc5de",
+  "download_date": "2026-05-16T07:32:29Z",
+  "duration_sec": 0.148,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

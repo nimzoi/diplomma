@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00366",
+  "source_url": "https://e-prawnik.pl/forum/przedawnienie-dlugow-z-uk-20112012.html",
+  "fetch_url": "https://e-prawnik.pl/forum/przedawnienie-dlugow-z-uk-20112012.html",
+  "archive_file": "e_prawnik/eprawnik_00366.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55912,
+  "sha256": "7c075cb137c7b78c86385f56fa45de10b593032205980742c777124646ec8bfb",
+  "download_date": "2026-05-16T07:29:53Z",
+  "duration_sec": 0.152,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

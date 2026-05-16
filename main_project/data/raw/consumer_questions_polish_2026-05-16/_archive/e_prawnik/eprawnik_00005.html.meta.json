@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00005",
+  "source_url": "https://e-prawnik.pl/forum/ebook-na-allegro.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ebook-na-allegro.html",
+  "archive_file": "e_prawnik/eprawnik_00005.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55585,
+  "sha256": "a1d10b2fec46dd19a1c0f792e91d1d53b0b60b5cbd2a2e83b0102336b06197cf",
+  "download_date": "2026-05-16T07:22:50Z",
+  "duration_sec": 0.168,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

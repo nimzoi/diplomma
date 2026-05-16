@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00471",
+  "source_url": "https://e-prawnik.pl/forum/zakup-przez-interniet-i-nieprzyjecie-przesylki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakup-przez-interniet-i-nieprzyjecie-przesylki.html",
+  "archive_file": "e_prawnik/eprawnik_00471.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59379,
+  "sha256": "10f979c7bb231b2bc748ec567f45f681fe74007b76ff0a5e9b7d64c1897a7239",
+  "download_date": "2026-05-16T07:31:55Z",
+  "duration_sec": 0.163,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

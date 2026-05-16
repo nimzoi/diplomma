@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00520",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-tv.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-tv.html",
+  "archive_file": "e_prawnik/eprawnik_00520.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57345,
+  "sha256": "a415b76f619fb8a1577ca4a3ed7467adc33f8b7953f1b8e20fa2e5062a81a766",
+  "download_date": "2026-05-16T07:32:52Z",
+  "duration_sec": 0.174,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

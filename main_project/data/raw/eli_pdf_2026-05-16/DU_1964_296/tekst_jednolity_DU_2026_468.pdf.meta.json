@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/1964/296",
+  "ustawa_title": "Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.",
+  "kind": "tekst_jednolity",
+  "consolidated_ref": "DU/2026/468",
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2026/468/text.pdf",
+  "size_bytes": 2879328,
+  "sha256": "97db38e9635dc6db23e46aa618a52fc7089790b6592858ddc5f5e521d6692003",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

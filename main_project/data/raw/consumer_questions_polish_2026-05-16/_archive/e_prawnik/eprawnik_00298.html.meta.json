@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00298",
+  "source_url": "https://e-prawnik.pl/forum/zle-wykonana-usluga-firmy-tynkarskiej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zle-wykonana-usluga-firmy-tynkarskiej.html",
+  "archive_file": "e_prawnik/eprawnik_00298.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61247,
+  "sha256": "4b23ff218e1e6f5c7e43572bfe669629674d73559fdc5dbdefe84d48cb14b4d2",
+  "download_date": "2026-05-16T07:28:32Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

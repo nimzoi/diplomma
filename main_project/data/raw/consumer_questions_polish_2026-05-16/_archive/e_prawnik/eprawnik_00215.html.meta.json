@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00215",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-3.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-3.html",
+  "archive_file": "e_prawnik/eprawnik_00215.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59778,
+  "sha256": "00a81b5541018eff36f6dce35ea5fe73cf964f6d26a6246ef60af53fa65c2a79",
+  "download_date": "2026-05-16T07:26:55Z",
+  "duration_sec": 0.215,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

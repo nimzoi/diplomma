@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00290",
+  "source_url": "https://e-prawnik.pl/forum/nieszczelnosc-instalacji-pod-uchwytem-metalowo-gumowym.html",
+  "fetch_url": "https://e-prawnik.pl/forum/nieszczelnosc-instalacji-pod-uchwytem-metalowo-gumowym.html",
+  "archive_file": "e_prawnik/eprawnik_00290.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57089,
+  "sha256": "1e08f4c5c5c39782c463a64a15485654d7c35f0e4822bf3be405bdc4f43ab725",
+  "download_date": "2026-05-16T07:28:23Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

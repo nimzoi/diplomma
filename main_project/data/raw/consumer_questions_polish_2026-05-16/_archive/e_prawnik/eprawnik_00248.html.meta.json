@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00248",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaz-przez-olx-bez-umowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaz-przez-olx-bez-umowy.html",
+  "archive_file": "e_prawnik/eprawnik_00248.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56456,
+  "sha256": "09b83718091218dbb8345a49ec62e6d622a5cc54cc17d80c2ee986c18ccf6bbc",
+  "download_date": "2026-05-16T07:27:33Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

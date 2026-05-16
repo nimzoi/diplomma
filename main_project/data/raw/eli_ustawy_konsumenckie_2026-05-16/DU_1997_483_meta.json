@@ -1,0 +1,33 @@
+{
+  "ustawa_id": "DU/1997/483",
+  "short_title": "Konstytucji Rzeczypospolitej Polskiej",
+  "title": "Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.",
+  "publisher": "DU",
+  "year": 1997,
+  "pos": 483,
+  "display_address": "Dz.U. 1997 nr 78 poz. 483",
+  "type": "Ustawa",
+  "data_uchwalenia": "1997-04-02",
+  "data_promulgacji": null,
+  "data_wejscia_w_zycie": "1997-10-17",
+  "ostatnia_zmiana": "2026-03-18T00:00:00",
+  "obowiazujaca": true,
+  "in_force_raw": "IN_FORCE",
+  "status": "obowiązujący",
+  "ELI": "DU/1997/483",
+  "previous_title": [],
+  "art_filter": null,
+  "chunk_count": 1,
+  "source_metadata_url": "https://api.sejm.gov.pl/eli/acts/DU/1997/483",
+  "source_html_url": "https://api.sejm.gov.pl/eli/acts/DU/1997/483/text.html",
+  "consolidated_text_references": [],
+  "amending_acts": [
+    "DU/2009/946",
+    "DU/2006/1471"
+  ],
+  "directives_eu": [],
+  "scrape_date": "2026-05-16",
+  "pdf_only": true,
+  "pdf_only_reason": "ELI textHTML=False — akt ma tylko skanowany/oryginalny PDF, brak HTML structured representation. Chunki muszą być ekstraktowane z PDF (OCR lub manual) — typowe dla starszych aktów (Konstytucja 1997, ustaw promulgowanych przed wdrożeniem ELI Lex Digital ~2012).",
+  "extraction_note": "PDF-only akt: 1 manually-curated chunk (art. 76 — konstytucyjna podstawa ochrony konsumenta). Reszta art. 1-243 NIE jest konsumencko-relewantna i nie została zaextraktowana — by-design scope decision."
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00476",
+  "source_url": "https://e-prawnik.pl/forum/gwarancja-kursu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/gwarancja-kursu.html",
+  "archive_file": "e_prawnik/eprawnik_00476.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57033,
+  "sha256": "b0e4e9bf788b2420aee1a8129645a3a03157c032ac8cb4b462c9da96860b13a7",
+  "download_date": "2026-05-16T07:32:01Z",
+  "duration_sec": 0.179,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

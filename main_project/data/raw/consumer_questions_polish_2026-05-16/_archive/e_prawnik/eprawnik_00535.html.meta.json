@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00535",
+  "source_url": "https://e-prawnik.pl/forum/wada-fabryczna-samochodu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wada-fabryczna-samochodu.html",
+  "archive_file": "e_prawnik/eprawnik_00535.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56687,
+  "sha256": "d6a9f6bcf6b54b5a03de06839b872a093d098ccc97c6d3a36993627a1f71a05b",
+  "download_date": "2026-05-16T07:33:10Z",
+  "duration_sec": 0.221,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

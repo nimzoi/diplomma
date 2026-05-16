@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00260",
+  "source_url": "https://e-prawnik.pl/forum/wyciek-danych-osobowych.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wyciek-danych-osobowych.html",
+  "archive_file": "e_prawnik/eprawnik_00260.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56683,
+  "sha256": "9178da3004c3ef6b2eb38a3ad399e2fc0d50d4e73402501b15712a86cb9fe1c0",
+  "download_date": "2026-05-16T07:27:47Z",
+  "duration_sec": 0.138,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

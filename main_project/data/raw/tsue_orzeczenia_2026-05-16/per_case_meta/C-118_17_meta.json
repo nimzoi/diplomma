@@ -1,0 +1,22 @@
+{
+  "case_id": "C-118/17",
+  "celex_id": "62017CJ0118",
+  "case_name": "Zsuzsanna Dunai v ERSTE Bank Hungary Zrt",
+  "case_name_short": "Dunai",
+  "data_orzeczenia": "2019-03-14",
+  "sklad": "trzecia izba: A. Prechal (sprawozdawca)",
+  "streszczenie": "Odesłanie prejudycjalne – Ochrona konsumentów – Nieuczciwe warunki w umowach konsumenckich – Dyrektywa 93/13/EWG – Artykuł 1 ust. 2 – Artykuł 6 ust. 1 – Umowa kredytu denominowanego w walucie obcej – Różnice kursowe – Zastąpienie przepisu ustawowego nieuczciwym warunkiem umowy uznanym za nieważny – Ryzyko kursowe – Dalsze obowiązywanie umowy po usunięciu nieuczciwego warunku – Krajowy system jednolitej wykładni prawa",
+  "tezy_kluczowe": [
+    "Artykuł 6 ust. 1 dyrektywy Rady 93/13/EWG z dnia 5 kwietnia 1993 r. w sprawie nieuczciwych warunków w umowach konsumenckich należy interpretować w ten sposób, że: – nie stoi on na przeszkodzie istnieniu przepisów krajowych, uniemożlwiających sądowi, do którego wniesiono sprawę, uwzględnienie żądania stwierdzenia nieważności umowy kredytu opartego na nieuczciwym charakterze warunku dotyczącego spreadów walutowych, takiego jak rozpatrywany w postępowaniu głównym, o ile stwierdzenie nieuczciwego charakteru takiego warunku umożliwia przywrócenie sytuacji prawnej i faktycznej, w jakiej znajdowałby się konsument w przypadku braku istnienia tego nieuczciwego warunku; – stoi na przeszkodzie przepisom krajowym, uniemożlwiającym, w okolicznościach takich jak te rozpatrywane w postępowaniu głównym, sądowi, do którego wniesiono sprawę, uwzględnienie żądania stwierdzenia nieważności umowy kredytu opartego na nieuczciwym charakterze warunku dotyczącego ryzyka kursowego, jeżeli zostanie stwierdzone, że warunek ten jest nieuczciwy i że umowa bez tej klauzuli nie może dalej istnieć. 2) Dyrektywa 93/13 analizowana w świetle art. 47 Karty praw podstawowych Unii Europejskiej nie stoi na przeszkodzie temu, aby sąd najwyższy państwa członkowskiego przyjął, w interesie jednolitej wykładni prawa, wiążące orzeczenia w przedmiocie zasad wykonania tej dyrektywy, pod warunkiem że nie uniemożliwiają one właściwemu sądowi ani zapewnienia pełnej skuteczności norm przewidzianych w tej dyrektywie i zaoferowania konsumentowi skutecznego środka odwoławczego w zakresie ochrony praw, jakie może on z nich wywieść, ani też zwrócenia się do Trybunału z wnioskiem o wydanie orzeczenia w trybie prejudycjalnym w tym zakresie, co jednak powinien zbadać sąd odsyłający."
+  ],
+  "related_directives": [
+    "93/13/EWG"
+  ],
+  "legal_topic": "CHF kredyty, skutek dla umowy ze stwierdzonej abuzywnosci",
+  "notes": "",
+  "citation_string": "Wyrok TSUE z dnia 14 marca 2019 r. w sprawie C-118/17 Dunai",
+  "pelna_tresc_length": 46085,
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+  "scrape_date": "2026-05-16",
+  "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62017CJ0118"
+}

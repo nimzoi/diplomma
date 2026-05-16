@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00008",
+  "source_url": "https://e-prawnik.pl/forum/kradziez-zdjec-przez-allegro.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kradziez-zdjec-przez-allegro.html",
+  "archive_file": "e_prawnik/eprawnik_00008.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60202,
+  "sha256": "fd6d977dbf7aed3d9cec05194da9c8e4602da5252c2d0623f706e80b149168d2",
+  "download_date": "2026-05-16T07:22:54Z",
+  "duration_sec": 0.136,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00297",
+  "source_url": "https://e-prawnik.pl/forum/zakup-przez-internet-reklamacja-uszkodzenie-sprzetu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakup-przez-internet-reklamacja-uszkodzenie-sprzetu.html",
+  "archive_file": "e_prawnik/eprawnik_00297.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60629,
+  "sha256": "2308af44fc9e3ea3d71418d2857f1f009d57f2f1cd2a43fc90050c8f2ffbc53a",
+  "download_date": "2026-05-16T07:28:31Z",
+  "duration_sec": 0.224,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

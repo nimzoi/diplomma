@@ -1,0 +1,15 @@
+{
+  "question_id": "reddit_00001",
+  "source_url": "https://www.reddit.com/r/Polska/comments/1hwe6fg/ludzie_są_po_prostu_bez_serca/",
+  "fetch_url": "https://www.reddit.com/r/Polska/comments/1hwe6fg/ludzie_są_po_prostu_bez_serca/.json",
+  "archive_file": "reddit/reddit_00001.json",
+  "http_status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "size_bytes": 509203,
+  "sha256": "578d57f121e93eeb6b7ac0f6c70e7e495a0f7a4b822974768e55596334f42918",
+  "download_date": "2026-05-16T07:21:37Z",
+  "duration_sec": 1.292,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00475",
+  "source_url": "https://e-prawnik.pl/forum/czy-moge-starac-sie-o-odszkodowanie-jezeli-ktos-podrobil-moj-podpis-na-umowie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-moge-starac-sie-o-odszkodowanie-jezeli-ktos-podrobil-moj-podpis-na-umowie.html",
+  "archive_file": "e_prawnik/eprawnik_00475.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56088,
+  "sha256": "2c4947bcb78b1ba45c24c51df9dc860a00ccb9b2cf0998602568a83c99214afc",
+  "download_date": "2026-05-16T07:32:00Z",
+  "duration_sec": 0.195,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

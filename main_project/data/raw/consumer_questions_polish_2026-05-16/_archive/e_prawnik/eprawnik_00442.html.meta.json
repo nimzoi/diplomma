@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00442",
+  "source_url": "https://e-prawnik.pl/forum/transakcja-pozorowana-a-blokada-srodkow-na-allegro.html",
+  "fetch_url": "https://e-prawnik.pl/forum/transakcja-pozorowana-a-blokada-srodkow-na-allegro.html",
+  "archive_file": "e_prawnik/eprawnik_00442.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59078,
+  "sha256": "b57e7c882d17a5829b75fa716a9daec52b97ac7a4c92f49683c7e9955a5d6b9d",
+  "download_date": "2026-05-16T07:31:21Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

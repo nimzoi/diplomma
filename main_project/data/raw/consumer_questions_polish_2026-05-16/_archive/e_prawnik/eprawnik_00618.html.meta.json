@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00618",
+  "source_url": "https://e-prawnik.pl/forum/allegro-potwierdzenie-opisu-aukcji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/allegro-potwierdzenie-opisu-aukcji.html",
+  "archive_file": "e_prawnik/eprawnik_00618.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56302,
+  "sha256": "8affa5326306ab51d671b177b527c4ce4bff7b3693d6defe8758bdd37b348d26",
+  "download_date": "2026-05-16T07:34:50Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

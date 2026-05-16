@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/1993/211",
+  "ustawa_title": "Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.",
+  "kind": "tekst_jednolity",
+  "consolidated_ref": "DU/2026/85",
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2026/85/text.pdf",
+  "size_bytes": 378091,
+  "sha256": "a34a37247c4d8ea5d93fb9ec37b937e28280876ca287f745d788b132be3285a9",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "IN_FORCE",
+  "error": false
+}

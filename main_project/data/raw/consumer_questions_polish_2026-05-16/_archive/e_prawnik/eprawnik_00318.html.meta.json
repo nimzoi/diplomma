@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00318",
+  "source_url": "https://e-prawnik.pl/forum/auto-uszkodzone-przez-brame-na-fotokomorke-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/auto-uszkodzone-przez-brame-na-fotokomorke-1.html",
+  "archive_file": "e_prawnik/eprawnik_00318.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58318,
+  "sha256": "911c4dc2a1817d7cab1d28426a000fae6ce79d702345133e9de896e1047d3661",
+  "download_date": "2026-05-16T07:28:55Z",
+  "duration_sec": 0.136,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

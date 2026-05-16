@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00623",
+  "source_url": "https://e-prawnik.pl/forum/podpisana-umowa-a-przedmiotu-najmu-nie-przekazano.html",
+  "fetch_url": "https://e-prawnik.pl/forum/podpisana-umowa-a-przedmiotu-najmu-nie-przekazano.html",
+  "archive_file": "e_prawnik/eprawnik_00623.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58292,
+  "sha256": "e5839426092d7c318b0507cd6928e91cf50d5426425c337c5a2fd967f8125b63",
+  "download_date": "2026-05-16T07:34:56Z",
+  "duration_sec": 0.241,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

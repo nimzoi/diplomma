@@ -1,0 +1,22 @@
+{
+  "case_id": "C-125/18",
+  "celex_id": "62018CJ0125",
+  "case_name": "Marc Gomez del Moral Guasch v Bankia SA",
+  "case_name_short": "Gomez del Moral Guasch",
+  "data_orzeczenia": "2020-03-03",
+  "sklad": "wielka izba: K. Lenaerts",
+  "streszczenie": "Odesłanie prejudycjalne – Ochrona konsumentów – Dyrektywa 93/13/EWG – Nieuczciwe warunki w umowach konsumenckich – Umowa o kredyt hipoteczny – Zmienna stopa procentowa – Wskaźnik referencyjny dla kredytów hipotecznych oferowanych przez kasy oszczędnościowe – Wskaźnik wynikający z przepisu wykonawczego lub administracyjnego – Jednostronne wprowadzenie takiego warunku przez przedsiębiorcę – Przeprowadzana przez sąd krajowy kontrola wymogu przejrzystości – Konsekwencje stwierdzenia nieuczciwego charakteru warunku",
+  "tezy_kluczowe": [
+    "Artykuł 1 ust. 2 dyrektywy Rady 93/13/EWG z dnia 5 kwietnia 1993 r. w sprawie nieuczciwych warunków w umowach konsumenckich należy interpretować w ten sposób, że warunek umowy o kredyt hipoteczny zawartej między konsumentem a przedsiębiorcą, przewidujący, że stopa procentowa mająca zastosowanie do kredytu jest oparta na jednym z oficjalnych i przewidzianych w uregulowaniach krajowych wskaźników referencyjnych, jakie mogą być stosowane przez instytucje kredytowe do kredytów hipotecznych, wchodzi w zakres stosowania tej dyrektywy, jeżeli uregulowania te nie przewidują ani obowiązkowego stosowania owego wskaźnika niezależnie od wyboru dokonanego przez te strony, ani jego uzasadnionego dyspozytywnym charakterem stosowania w braku odmiennych ustaleń między tymi samymi stronami. 2) Dyrektywę 93/13, a w szczególności jej art. 4 ust. 2 i art. 8, należy interpretować w ten sposób, że sąd państwa członkowskiego jest zobowiązany do zbadania, czy warunek umowny dotyczący głównego przedmiotu umowy jest wyrażony w sposób prosty i zrozumiały, i to niezależnie od kwestii transpozycji art. 4 ust. 2 tej dyrektywy do porządku prawnego tego państwa członkowskiego. 3) Dyrektywę 93/13, a w szczególności jej art. 4 ust. 2 i art. 5, należy interpretować w ten sposób, że w celu spełnienia wymogu przejrzystości warunku umownego ustalającego zmienną stopę procentową w ramach umowy o kredyt hipoteczny warunek ten powinien nie tylko być zrozumiały pod względem formalnym i gramatycznym, ale również umożliwiać, by właściwie poinformowany oraz dostatecznie uważny i rozsądny przeciętny konsument był w stanie zrozumieć konkretne działanie metody obliczania tej stopy procentowej i oszacować tym samym w oparciu o jednoznaczne i zrozumiałe kryteria potencjalnie istotne konsekwencje gospodarcze takiego warunku dla swoich zobowiązań finansowych. Na elementy szczególnie istotne dla oceny, jakiej powinien dokonać sąd krajowy w tym względzie, składają się z jednej strony okoliczność, czy ze względu na publikację sposobu obliczania wspomnianej stopy procentowej główne elementy dotyczące obliczania tej stopy są łatwo dostępne dla każdej osoby zamierzającej zawrzeć umowę o kredyt hipoteczny, oraz z drugiej strony dostarczenie informacji na temat zmian w przeszłości wskaźnika, na podstawie którego obliczana jest ta stopa procentowa. 4) Artykuł 6 ust. 1 i art. 7 ust. 1 dyrektywy 93/13 należy interpretować w ten sposób, że nie stoją one na przeszkodzie temu, by w przypadku stwierdzenia nieważności nieuczciwego warunku umownego określającego wskaźnik referencyjny dla obliczania zmiennych odsetek od kredytu sąd krajowy zastąpił ten wskaźnik przewidzianym prawem wskaźnikiem mającym zastosowanie w braku odmiennego porozumienia między stronami umowy, pod warunkiem że umowa o dany kredyt hipoteczny nie może dalej obowiązywać w przypadku usunięcia rzeczonego nieuczciwego warunku, a unieważnienie całej umowy naraziłoby konsumenta na szczególnie niekorzystne konsekwencje."
+  ],
+  "related_directives": [
+    "93/13/EWG"
+  ],
+  "legal_topic": "klauzula stopy IRPH, indeks oprocentowania, przejrzystosc",
+  "notes": "korekta numeracji 2026-05-16: C-125/18 (nie C-126/18)",
+  "citation_string": "Wyrok TSUE z dnia 3 marca 2020 r. w sprawie C-125/18 Gomez del Moral Guasch",
+  "pelna_tresc_length": 52480,
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+  "scrape_date": "2026-05-16",
+  "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62018CJ0125"
+}

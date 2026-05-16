@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00211",
+  "source_url": "https://e-prawnik.pl/forum/rekojmia-brak-odpowiedzi-po-14-dniach-wysylka-towaru.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rekojmia-brak-odpowiedzi-po-14-dniach-wysylka-towaru.html",
+  "archive_file": "e_prawnik/eprawnik_00211.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57255,
+  "sha256": "622313cca8aba5350156bca07ceba356ec7c76b3f6cefe400f02f5a7f41b35a8",
+  "download_date": "2026-05-16T07:26:50Z",
+  "duration_sec": 0.126,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00493",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-w-sieci-t-mobile-niedopatrzenie-konsultanta-przy-podpisywaniu-aneksu-do-umowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-w-sieci-t-mobile-niedopatrzenie-konsultanta-przy-podpisywaniu-aneksu-do-umowy.html",
+  "archive_file": "e_prawnik/eprawnik_00493.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56276,
+  "sha256": "09f491ee169bb90761ee0f360f120f4bdac39d13e88a51f72b20d82ec0522e3e",
+  "download_date": "2026-05-16T07:32:21Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

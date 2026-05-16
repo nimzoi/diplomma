@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00140",
+  "source_url": "https://e-prawnik.pl/forum/wprowadzanie-klienta-w-blad.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wprowadzanie-klienta-w-blad.html",
+  "archive_file": "e_prawnik/eprawnik_00140.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56326,
+  "sha256": "d32ca4e8ef64565689be70619eaa8bd7c4629989fb02c7ffcaff2b184b28ce39",
+  "download_date": "2026-05-16T07:25:28Z",
+  "duration_sec": 0.163,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

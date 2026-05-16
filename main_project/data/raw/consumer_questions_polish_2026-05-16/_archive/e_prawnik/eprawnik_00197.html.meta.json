@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00197",
+  "source_url": "https://e-prawnik.pl/forum/pozyczka-bez-umowy-powyzej-1000zl.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pozyczka-bez-umowy-powyzej-1000zl.html",
+  "archive_file": "e_prawnik/eprawnik_00197.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55492,
+  "sha256": "8122f4aed60329f360aff82961ccc46191e5b08c69e6907283e4ce0db58fda94",
+  "download_date": "2026-05-16T07:26:34Z",
+  "duration_sec": 0.144,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

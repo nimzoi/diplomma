@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00161",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-zwrot-pieniedzy-po-dluzszym-okresie-od-zakupu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-zwrot-pieniedzy-po-dluzszym-okresie-od-zakupu.html",
+  "archive_file": "e_prawnik/eprawnik_00161.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56540,
+  "sha256": "83a4e5eb538cb2f1dda6de1b7769c9dcbc529f1687457fb7cf7f7d7b65d01992",
+  "download_date": "2026-05-16T07:25:53Z",
+  "duration_sec": 0.092,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

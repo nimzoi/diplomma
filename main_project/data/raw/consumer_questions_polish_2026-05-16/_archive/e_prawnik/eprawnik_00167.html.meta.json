@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00167",
+  "source_url": "https://e-prawnik.pl/forum/szlaban-na-parkingu-opadl-na-samochod.html",
+  "fetch_url": "https://e-prawnik.pl/forum/szlaban-na-parkingu-opadl-na-samochod.html",
+  "archive_file": "e_prawnik/eprawnik_00167.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58788,
+  "sha256": "31b26565d4cef501b71c5b3e6deb525e106e59238e5b94dfb4fcb7f072f4e94a",
+  "download_date": "2026-05-16T07:25:59Z",
+  "duration_sec": 0.155,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00527",
+  "source_url": "https://e-prawnik.pl/forum/pomoc-w-sprawie-egzekwowania-rekojmi.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pomoc-w-sprawie-egzekwowania-rekojmi.html",
+  "archive_file": "e_prawnik/eprawnik_00527.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58849,
+  "sha256": "6e2e317e9d95e5d4a4ee3476f4a93dc3bf8be407ea8d5a56bb834d7b9c40ebc5",
+  "download_date": "2026-05-16T07:33:00Z",
+  "duration_sec": 0.207,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

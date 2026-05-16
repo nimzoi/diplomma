@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00191",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-pieniedzy-2.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-pieniedzy-2.html",
+  "archive_file": "e_prawnik/eprawnik_00191.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56360,
+  "sha256": "34fd0ca6919bac696e6e1e5d64609265e5243356352cc015c4942ce8a1f679f0",
+  "download_date": "2026-05-16T07:26:27Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

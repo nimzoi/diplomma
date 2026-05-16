@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00399",
+  "source_url": "https://e-prawnik.pl/forum/nie-podpisana-umowa-a-zadatek-fotograf.html",
+  "fetch_url": "https://e-prawnik.pl/forum/nie-podpisana-umowa-a-zadatek-fotograf.html",
+  "archive_file": "e_prawnik/eprawnik_00399.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57220,
+  "sha256": "d2846b2c44a7be89f8c6d467247e0dfd80410953057fa25ab57d3b224828ae8a",
+  "download_date": "2026-05-16T07:30:31Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

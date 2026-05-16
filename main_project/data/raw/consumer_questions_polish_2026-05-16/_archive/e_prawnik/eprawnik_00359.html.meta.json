@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00359",
+  "source_url": "https://e-prawnik.pl/forum/witam-chce-zakupic-mieszkanie-ktore-zostalo-odziedziczone-przez-osobe-sprzedajaca-wraz-z-siostr.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-chce-zakupic-mieszkanie-ktore-zostalo-odziedziczone-przez-osobe-sprzedajaca-wraz-z-siostr.html",
+  "archive_file": "e_prawnik/eprawnik_00359.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59694,
+  "sha256": "210461a9528f4d43c376fb120fb1b801a07d5e3d619af9c4246aafd1685a93dd",
+  "download_date": "2026-05-16T07:29:45Z",
+  "duration_sec": 0.156,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

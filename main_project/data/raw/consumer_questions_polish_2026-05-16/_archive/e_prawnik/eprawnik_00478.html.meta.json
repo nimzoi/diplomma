@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00478",
+  "source_url": "https://e-prawnik.pl/forum/czy-zeby-dostac-odszkodowanie-trzeba-bycnal4-czy-mozna-na-uropie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-zeby-dostac-odszkodowanie-trzeba-bycnal4-czy-mozna-na-uropie.html",
+  "archive_file": "e_prawnik/eprawnik_00478.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55577,
+  "sha256": "a47b96f8e65446fcab3293b1b4e77b3cc3a5df4c33e72aaefcc92aa69504b58d",
+  "download_date": "2026-05-16T07:32:03Z",
+  "duration_sec": 0.197,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

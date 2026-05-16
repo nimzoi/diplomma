@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00221",
+  "source_url": "https://e-prawnik.pl/forum/wspolny-smietnik-na-osiedlu-deweloperskim.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wspolny-smietnik-na-osiedlu-deweloperskim.html",
+  "archive_file": "e_prawnik/eprawnik_00221.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59768,
+  "sha256": "1fcc673b805cedd0797de0384ddbd81796f0a2a728bd6af4562d238ab2b6ae24",
+  "download_date": "2026-05-16T07:27:02Z",
+  "duration_sec": 0.174,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

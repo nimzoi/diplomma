@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00184",
+  "source_url": "https://e-prawnik.pl/forum/medycznestomatologiczne-kiedy-mam-prawo-do-oc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/medycznestomatologiczne-kiedy-mam-prawo-do-oc.html",
+  "archive_file": "e_prawnik/eprawnik_00184.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56631,
+  "sha256": "d2c4f7b342998f27debcb6de770e71142419f51116620311d8de0d31cb782553",
+  "download_date": "2026-05-16T07:26:19Z",
+  "duration_sec": 0.116,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00484",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-telefonu-w-stanie-gorszym-niz-pierwotny.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-telefonu-w-stanie-gorszym-niz-pierwotny.html",
+  "archive_file": "e_prawnik/eprawnik_00484.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58321,
+  "sha256": "0036f2b12e7d76f2572eb216f78c8f95e9d6af282e0dc58f078dd8ea37cbe934",
+  "download_date": "2026-05-16T07:32:10Z",
+  "duration_sec": 0.137,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

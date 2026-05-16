@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00605",
+  "source_url": "https://e-prawnik.pl/forum/czy-jest-jakis-wzor-pisma-do-szpitala-odnosnie-bledu-lekarskiego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-jest-jakis-wzor-pisma-do-szpitala-odnosnie-bledu-lekarskiego.html",
+  "archive_file": "e_prawnik/eprawnik_00605.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57701,
+  "sha256": "080c5cb9aeee10056c5c75ee25087c7b42a1e302e86591fe9cce1ae1955a0c2b",
+  "download_date": "2026-05-16T07:34:34Z",
+  "duration_sec": 0.286,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

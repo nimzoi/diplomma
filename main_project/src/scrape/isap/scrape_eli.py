@@ -159,6 +159,59 @@ USTAWY: tuple[UstawaConfig, ...] = (
         ustawa_id="DU/2010/44",
         short_title="Ustawy o dochodzeniu roszczeń w postępowaniu grupowym",
     ),
+    # === Dodane w Iter. 0b extension #2 (2026-05-16, S7) — extra ustaw konsumenckich
+    # Procedury egzekwowania roszczeń + szczegółowe ustawy konsumenckie + Konstytucja.
+    # IDs zweryfikowane via ELI search (kilka pozycji w briefie Magdy miało błędne nr/poz):
+    #   brief DU/1997/88   → faktycznie Rozporządzenie Min. Transportu (NOT_IN_FORCE), poprawne: DU/2003/535
+    #   brief DU/2002/1023 → faktycznie Rozp. Min. Finansów (NOT_IN_FORCE), poprawne: DU/2003/2275 (uchylona ust.)
+    #   brief DU/2012/1225 → faktycznie Obwieszczenie (NOT_IN_FORCE), poprawne: DU/1993/211 (in force)
+    #   brief DU/2003/1148 → faktycznie Rozp. Min. Rolnictwa (NOT_IN_FORCE), poprawne: DU/2002/1176 (uchylona ust.)
+    #   brief DU/2002/1183 → faktycznie ust. zmieniająca o zryczałtowanym... (NIE consumer-related) — SKIP
+    UstawaConfig(
+        ustawa_id="DU/1964/296",
+        short_title="Ustawy Kodeks postępowania cywilnego",
+        # KPC — pełen scrape (rozdziały consumer-relevant: nakazowe, upominawcze,
+        # klauzula wykonalności, postępowanie grupowe). Analiza filtrów post-hoc.
+    ),
+    UstawaConfig(
+        ustawa_id="DU/2003/535",
+        short_title="Ustawy Prawo upadłościowe",
+        # Pr. upadłościowe z 28 lutego 2003 — focus na upadłość konsumencką
+        # (po nowelizacji 2014). Pełen scrape, filtr post-hoc.
+    ),
+    UstawaConfig(
+        ustawa_id="DU/2014/915",
+        short_title="Ustawy o informowaniu o cenach towarów i usług",
+        # Informowanie konsumenta o cenach, oznakowanie — full scrape.
+    ),
+    UstawaConfig(
+        ustawa_id="DU/2003/2275",
+        short_title="Ustawy o ogólnym bezpieczeństwie produktów",
+        # UCHYLONA (zastąpiona EU regulation 2023/988 + krajowa transpozycja
+        # w przygotowaniu). Historic reference dla starszych orzeczeń.
+    ),
+    UstawaConfig(
+        ustawa_id="DU/1993/211",
+        short_title="Ustawy o zwalczaniu nieuczciwej konkurencji",
+        # IN_FORCE. Pełen scrape — relevant dla unfair commercial practices.
+    ),
+    UstawaConfig(
+        ustawa_id="DU/2002/1176",
+        short_title="Ustawy o szczególnych warunkach sprzedaży konsumenckiej",
+        # UCHYLONA (zastąpiona przez UPK 2014). Historic reference dla legacy
+        # citations w orzeczeniach SN/SA pre-2014.
+    ),
+    UstawaConfig(
+        ustawa_id="DU/2000/271",
+        short_title="Ustawy o ochronie niektórych praw konsumentów",
+        # UCHYLONA (zastąpiona przez UPK 2014). Historic.
+    ),
+    UstawaConfig(
+        ustawa_id="DU/1997/483",
+        short_title="Konstytucji Rzeczypospolitej Polskiej",
+        # Konstytucja RP — art. 76 = konstytucyjna podstawa ochrony konsumenta.
+        # Pełen scrape (~243 art.) PRIORITY.
+    ),
 )
 
 
@@ -838,7 +891,12 @@ def write_meta(
 
 
 def scrape_one(ustawa: UstawaConfig, output_dir: Path) -> tuple[int, str]:
-    """Scrape jednej ustawy. Zwróć (chunk_count, status_msg)."""
+    """Scrape jednej ustawy. Zwróć (chunk_count, status_msg).
+
+    Jeśli ustawa nie ma `textHTML=True` w ELI (np. Konstytucja RP — tylko skanowany
+    PDF), pomijamy chunki HTML i piszemy tylko meta sidecar z markerem
+    `pdf_only=True`. PDF jest pobierany przez `download_pdf.py`.
+    """
     safe_id = ustawa.ustawa_id.replace("/", "_")
     jsonl_path = output_dir / f"{safe_id}.jsonl"
     meta_path = output_dir / f"{safe_id}_meta.json"
@@ -846,11 +904,39 @@ def scrape_one(ustawa: UstawaConfig, output_dir: Path) -> tuple[int, str]:
     try:
         meta = fetch_act_metadata(ustawa.ustawa_id)
         time.sleep(INTER_REQUEST_DELAY_SEC)
+    except RuntimeError as exc:
+        logger.error("Failed to fetch metadata %s: %s", ustawa.ustawa_id, exc)
+        return 0, f"FAILED: {exc}"
+
+    # PDF-only akty (Konstytucja RP, stare ustawy bez digital HTML w ELI):
+    # zapisz tylko meta z markerem, bez .jsonl.
+    if not meta.get("textHTML"):
+        logger.warning(
+            "Akt %s ma textHTML=False (PDF-only). Skip HTML scrape, write meta only.",
+            ustawa.ustawa_id,
+        )
+        write_meta(meta, ustawa, 0, meta_path)
+        # Dodaj marker pdf_only do meta (post-hoc enrichment)
+        enriched = json.loads(meta_path.read_text(encoding="utf-8"))
+        enriched["pdf_only"] = True
+        enriched["pdf_only_reason"] = (
+            "ELI textHTML=False — akt ma tylko skanowany/oryginalny PDF, brak HTML "
+            "structured representation. Chunki muszą być ekstraktowane z PDF (OCR "
+            "lub manual) — typowe dla starszych aktów (Konstytucja 1997, ustaw "
+            "promulgowanych przed wdrożeniem ELI Lex Digital ~2012)."
+        )
+        meta_path.write_text(
+            json.dumps(enriched, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        logger.info("Wrote meta-only %s (pdf_only=True)", meta_path)
+        return 0, "OK_PDF_ONLY"
+
+    try:
         struct = fetch_act_struct(ustawa.ustawa_id)
         time.sleep(INTER_REQUEST_DELAY_SEC)
         html_content, _ = fetch_act_html(ustawa.ustawa_id)
     except RuntimeError as exc:
-        logger.error("Failed to fetch %s: %s", ustawa.ustawa_id, exc)
+        logger.error("Failed to fetch struct/html %s: %s", ustawa.ustawa_id, exc)
         return 0, f"FAILED: {exc}"
 
     logger.info("Parsing HTML (%d bytes)...", len(html_content))
@@ -933,14 +1019,21 @@ def main(argv: list[str] | None = None) -> int:
             try:
                 meta = fetch_act_metadata(ustawa.ustawa_id)
                 time.sleep(INTER_REQUEST_DELAY_SEC)
-                struct = fetch_act_struct(ustawa.ustawa_id)
-                time.sleep(INTER_REQUEST_DELAY_SEC)
-                html_content, _ = fetch_act_html(ustawa.ustawa_id)
-                units = parse_act_html(html_content)
-                valid_paths = collect_valid_legal_paths(struct)
-                chunks = flatten_to_chunks(units, ustawa, meta, valid_paths=valid_paths)
-                summary.append((ustawa.ustawa_id, len(chunks), "DRY-RUN-OK"))
-                logger.info("DRY-RUN: would write %d chunks", len(chunks))
+                if not meta.get("textHTML"):
+                    summary.append((ustawa.ustawa_id, 0, "DRY-RUN-PDF-ONLY"))
+                    logger.warning(
+                        "DRY-RUN: %s is PDF-only (textHTML=False) — would write meta-only.",
+                        ustawa.ustawa_id,
+                    )
+                else:
+                    struct = fetch_act_struct(ustawa.ustawa_id)
+                    time.sleep(INTER_REQUEST_DELAY_SEC)
+                    html_content, _ = fetch_act_html(ustawa.ustawa_id)
+                    units = parse_act_html(html_content)
+                    valid_paths = collect_valid_legal_paths(struct)
+                    chunks = flatten_to_chunks(units, ustawa, meta, valid_paths=valid_paths)
+                    summary.append((ustawa.ustawa_id, len(chunks), "DRY-RUN-OK"))
+                    logger.info("DRY-RUN: would write %d chunks", len(chunks))
             except Exception as exc:
                 summary.append((ustawa.ustawa_id, 0, f"DRY-RUN-FAIL: {exc}"))
                 logger.error("DRY-RUN failed: %s", exc)
@@ -959,7 +1052,14 @@ def main(argv: list[str] | None = None) -> int:
     print("-" * 60)
     print(f"{'TOTAL':<20} {total:>8}")
     print(f"\nOutput: {output_dir.resolve()}")
-    return 0 if all(s.startswith(("OK", "DRY-RUN-OK")) for _, _, s in summary) else 1
+    return (
+        0
+        if all(
+            s.startswith(("OK", "DRY-RUN-OK", "DRY-RUN-PDF-ONLY"))
+            for _, _, s in summary
+        )
+        else 1
+    )
 
 
 if __name__ == "__main__":

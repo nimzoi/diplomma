@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00344",
+  "source_url": "https://e-prawnik.pl/forum/blad-lekarza-sprawa-w-sadzie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/blad-lekarza-sprawa-w-sadzie.html",
+  "archive_file": "e_prawnik/eprawnik_00344.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56982,
+  "sha256": "433ddaa6ba13c12c2307bafecb5fc8fa820265a97642e2cd434ab0ad1161948b",
+  "download_date": "2026-05-16T07:29:26Z",
+  "duration_sec": 0.175,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

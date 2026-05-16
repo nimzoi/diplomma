@@ -1,0 +1,16 @@
+{
+  "source": "orzeczenia.ms.gov.pl-expansion",
+  "scrape_date": "2026-05-16",
+  "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+  "attempted": 84,
+  "succeeded": 26,
+  "failed": 0,
+  "skipped": 58,
+  "waf_blocks": 0,
+  "parse_errors": 0,
+  "total_words": 57261,
+  "skip_reasons": {
+    "too_short": 58
+  },
+  "notes": "jsonl_records_total=479; new_added=266"
+}

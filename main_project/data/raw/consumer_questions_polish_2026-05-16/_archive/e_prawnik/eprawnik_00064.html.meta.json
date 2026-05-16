@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00064",
+  "source_url": "https://e-prawnik.pl/forum/pytanie-o-pozyczke-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pytanie-o-pozyczke-1.html",
+  "archive_file": "e_prawnik/eprawnik_00064.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57599,
+  "sha256": "de58110ac27598156516c229524f9b5b268a728a65459b822dd5ce052df506a9",
+  "download_date": "2026-05-16T07:24:00Z",
+  "duration_sec": 0.163,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

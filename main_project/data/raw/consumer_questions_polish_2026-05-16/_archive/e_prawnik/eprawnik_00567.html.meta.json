@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00567",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-towaru.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-towaru.html",
+  "archive_file": "e_prawnik/eprawnik_00567.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68469,
+  "sha256": "0938b2fdde1681b8b71f52f095faa0248fbbfbf2811a97a33e93f38215eea7f5",
+  "download_date": "2026-05-16T07:33:48Z",
+  "duration_sec": 0.211,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

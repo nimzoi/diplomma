@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00543",
+  "source_url": "https://e-prawnik.pl/forum/wymiana-kurier-przywiozl-towar-a-nie-zabral-poprzedniego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wymiana-kurier-przywiozl-towar-a-nie-zabral-poprzedniego.html",
+  "archive_file": "e_prawnik/eprawnik_00543.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55940,
+  "sha256": "6ec8c83a088f63a60ad0be1b84c790be42703d99dd5c4928f00b06082166556f",
+  "download_date": "2026-05-16T07:33:20Z",
+  "duration_sec": 0.273,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

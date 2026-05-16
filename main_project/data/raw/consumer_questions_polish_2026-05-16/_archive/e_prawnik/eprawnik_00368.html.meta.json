@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00368",
+  "source_url": "https://e-prawnik.pl/forum/wynajem-pokoju-bez-umowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wynajem-pokoju-bez-umowy.html",
+  "archive_file": "e_prawnik/eprawnik_00368.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57012,
+  "sha256": "e93aa57eaaabff59b6f2a30bda05a4baf76ff046cc21556f7467799362ef9888",
+  "download_date": "2026-05-16T07:29:55Z",
+  "duration_sec": 0.183,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

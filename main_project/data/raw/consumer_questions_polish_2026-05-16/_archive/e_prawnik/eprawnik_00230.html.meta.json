@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00230",
+  "source_url": "https://e-prawnik.pl/forum/umowa-o-projekt-budowlany.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-o-projekt-budowlany.html",
+  "archive_file": "e_prawnik/eprawnik_00230.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55699,
+  "sha256": "ebf270155e91576749d47db449d4d4756e6083a152775e2cf9b73dedcdd567fb",
+  "download_date": "2026-05-16T07:27:12Z",
+  "duration_sec": 0.199,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

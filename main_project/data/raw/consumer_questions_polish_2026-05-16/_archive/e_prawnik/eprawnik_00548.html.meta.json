@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00548",
+  "source_url": "https://e-prawnik.pl/forum/powodztwo-cywilne-w-postepowaniu-karnym-o-gwalt.html",
+  "fetch_url": "https://e-prawnik.pl/forum/powodztwo-cywilne-w-postepowaniu-karnym-o-gwalt.html",
+  "archive_file": "e_prawnik/eprawnik_00548.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59700,
+  "sha256": "4efdc8d22570d65a7cd59c651ff6b9803dcf09ef046e4a6cf42ab9514f436c69",
+  "download_date": "2026-05-16T07:33:26Z",
+  "duration_sec": 0.197,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

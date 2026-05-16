@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00241",
+  "source_url": "https://e-prawnik.pl/forum/przelozone-koncerty-a-zwroty-biletow.html",
+  "fetch_url": "https://e-prawnik.pl/forum/przelozone-koncerty-a-zwroty-biletow.html",
+  "archive_file": "e_prawnik/eprawnik_00241.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55970,
+  "sha256": "dbfaf2c962dd25474c21eaf027909671e4935271debb295c79af3471593e2e50",
+  "download_date": "2026-05-16T07:27:25Z",
+  "duration_sec": 0.224,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00083",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-krukiem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-krukiem.html",
+  "archive_file": "e_prawnik/eprawnik_00083.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56320,
+  "sha256": "dd5211dd6f49a2bd5dbb7452d79e2fc5dfa54b528175fcf92deae8dcd3dcdaf0",
+  "download_date": "2026-05-16T07:24:22Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

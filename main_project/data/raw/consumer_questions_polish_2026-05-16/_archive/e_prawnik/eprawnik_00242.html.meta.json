@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00242",
+  "source_url": "https://e-prawnik.pl/forum/zakup-auta-a-odstapienie-od-umowy-nietypowy-przypadek.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakup-auta-a-odstapienie-od-umowy-nietypowy-przypadek.html",
+  "archive_file": "e_prawnik/eprawnik_00242.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57507,
+  "sha256": "b2121bfbd680c221589389f82d67ea2221e36606adc0499af0e58528b6ccded0",
+  "download_date": "2026-05-16T07:27:26Z",
+  "duration_sec": 0.139,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00398",
+  "source_url": "https://e-prawnik.pl/forum/niepodpisana-umowa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niepodpisana-umowa.html",
+  "archive_file": "e_prawnik/eprawnik_00398.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57128,
+  "sha256": "208a53c639287fcbd54aff4d6e6050148edb887d427cd26b51cd1c1ba05889aa",
+  "download_date": "2026-05-16T07:30:30Z",
+  "duration_sec": 0.175,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

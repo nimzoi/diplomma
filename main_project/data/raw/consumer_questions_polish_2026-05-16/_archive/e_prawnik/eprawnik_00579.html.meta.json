@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00579",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaz-artykulu-przez-portal-tablicapl.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaz-artykulu-przez-portal-tablicapl.html",
+  "archive_file": "e_prawnik/eprawnik_00579.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58603,
+  "sha256": "8d9e5afc2d99d6b872d9e1ff84cf33c4ad7bd2cfe268c520be66efcf84d83eee",
+  "download_date": "2026-05-16T07:34:03Z",
+  "duration_sec": 0.232,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

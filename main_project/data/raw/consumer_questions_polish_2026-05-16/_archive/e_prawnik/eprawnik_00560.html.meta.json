@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00560",
+  "source_url": "https://e-prawnik.pl/forum/potracenie-przez-samochod.html",
+  "fetch_url": "https://e-prawnik.pl/forum/potracenie-przez-samochod.html",
+  "archive_file": "e_prawnik/eprawnik_00560.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60904,
+  "sha256": "1036e22b888f44b2db778b267bb0eaec54ad4addc37100996e28df6279fb96be",
+  "download_date": "2026-05-16T07:33:40Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

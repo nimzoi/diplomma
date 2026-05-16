@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00530",
+  "source_url": "https://e-prawnik.pl/forum/lekarze-co-robic.html",
+  "fetch_url": "https://e-prawnik.pl/forum/lekarze-co-robic.html",
+  "archive_file": "e_prawnik/eprawnik_00530.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58294,
+  "sha256": "0c43b86d988cbe2aedb494d6dba7aa4aa106cca4a4a5265d22d167a4cee402bb",
+  "download_date": "2026-05-16T07:33:04Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

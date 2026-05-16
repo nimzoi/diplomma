@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00402",
+  "source_url": "https://e-prawnik.pl/forum/radca-prawny-na-allegro.html",
+  "fetch_url": "https://e-prawnik.pl/forum/radca-prawny-na-allegro.html",
+  "archive_file": "e_prawnik/eprawnik_00402.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58922,
+  "sha256": "bc1c8eb15404d1e869c425771ea663c24b13023a62a098882250718d5004e0ad",
+  "download_date": "2026-05-16T07:30:35Z",
+  "duration_sec": 0.112,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

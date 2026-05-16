@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00026",
+  "source_url": "https://e-prawnik.pl/forum/czy-starostwo-powiatowe-moze-wydac-pozwolenie-na-budowe-na-podstawie-warunkow-zabudowy-ktore-sa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-starostwo-powiatowe-moze-wydac-pozwolenie-na-budowe-na-podstawie-warunkow-zabudowy-ktore-sa.html",
+  "archive_file": "e_prawnik/eprawnik_00026.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57846,
+  "sha256": "62cde310cd58f3ed3fa7fca57715692cd5932d9609ae1360a7a7e4ba7085f80e",
+  "download_date": "2026-05-16T07:23:15Z",
+  "duration_sec": 0.167,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

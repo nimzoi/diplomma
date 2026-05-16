@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00116",
+  "source_url": "https://e-prawnik.pl/forum/czy-moge-wniesc-sprawe-przeciw-hydraulikowiktory-wykonal-mi-instalacje-cow-calym-domuale-namowi.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-moge-wniesc-sprawe-przeciw-hydraulikowiktory-wykonal-mi-instalacje-cow-calym-domuale-namowi.html",
+  "archive_file": "e_prawnik/eprawnik_00116.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57330,
+  "sha256": "7efbd0b8161a8aac1cbe1bc53a68a583d20a2f4ef52e5e114003d67dda9b6692",
+  "download_date": "2026-05-16T07:25:00Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

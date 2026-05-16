@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00564",
+  "source_url": "https://e-prawnik.pl/forum/skarga-na-poczte.html",
+  "fetch_url": "https://e-prawnik.pl/forum/skarga-na-poczte.html",
+  "archive_file": "e_prawnik/eprawnik_00564.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55875,
+  "sha256": "acb9f463f4b92f2a93be80932107ae432d436deed6d5e48dbb9d9fc2ca40fa83",
+  "download_date": "2026-05-16T07:33:45Z",
+  "duration_sec": 0.281,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

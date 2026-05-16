@@ -399,7 +399,10 @@ def normalize_ue_directive(record: dict[str, Any]) -> Chunk:
 
 def normalize_tsue_judgment(record: dict[str, Any]) -> Chunk:
     """TSUE orzeczenie → Chunk (S3 output)."""
-    tresc = _ensure_nfc(record.get("pełna_treść") or record.get("tresc", ""))
+    # S3 uses ASCII field names: pelna_tresc (NIE pełna_treść)
+    tresc = _ensure_nfc(
+        record.get("pelna_tresc") or record.get("pełna_treść") or record.get("tresc", "")
+    )
     title = record.get("case_name") or record.get("title", "untitled")
     case_id = record.get("case_id", "unknown")
 

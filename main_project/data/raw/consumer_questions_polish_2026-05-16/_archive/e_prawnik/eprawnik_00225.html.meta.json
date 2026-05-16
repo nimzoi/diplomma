@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00225",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-towaru-zamowionego-przez-klienta.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-towaru-zamowionego-przez-klienta.html",
+  "archive_file": "e_prawnik/eprawnik_00225.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56435,
+  "sha256": "2ad87684dcfc8db72a0c2209337eb8a9a86cec0464943b355778241fb29262fc",
+  "download_date": "2026-05-16T07:27:07Z",
+  "duration_sec": 0.144,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00323",
+  "source_url": "https://e-prawnik.pl/forum/zaliczka-na-zakup-dzialki-a-zmiany-w-umowie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zaliczka-na-zakup-dzialki-a-zmiany-w-umowie.html",
+  "archive_file": "e_prawnik/eprawnik_00323.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57930,
+  "sha256": "8454fdf9310cf78c0e78e2282a336366fbb0609261c91f80a690e685d82a9b39",
+  "download_date": "2026-05-16T07:29:01Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

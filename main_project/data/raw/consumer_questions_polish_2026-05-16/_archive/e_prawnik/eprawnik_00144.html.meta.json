@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00144",
+  "source_url": "https://e-prawnik.pl/forum/wypadek-samochodowy-potracenie-na-przejsciu-dla-pieszych.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wypadek-samochodowy-potracenie-na-przejsciu-dla-pieszych.html",
+  "archive_file": "e_prawnik/eprawnik_00144.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60035,
+  "sha256": "0fd45df6099e7c6184ca3d31169c34a10c63c76f52d66a6b85251b41c36f7942",
+  "download_date": "2026-05-16T07:25:33Z",
+  "duration_sec": 0.144,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

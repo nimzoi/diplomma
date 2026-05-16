@@ -1,0 +1,22 @@
+{
+  "case_id": "C-249/21",
+  "celex_id": "62021CJ0249",
+  "case_name": "Fuhrmann-2-GmbH v B.",
+  "case_name_short": "Fuhrmann-2",
+  "data_orzeczenia": "2022-04-07",
+  "sklad": "ósma izba: N. Jääskinen",
+  "streszczenie": "Odesłanie prejudycjalne – Ochrona konsumentów – Dyrektywa 2011/83/UE – Artykuł 8 ust. 2 – Umowy zawierane na odległość przy użyciu środków elektronicznych – Ciążące na przedsiębiorcy obowiązki w zakresie informowania – Aktywacja przycisku lub podobnej funkcji w celu złożenia zamówienia z obowiązkiem zapłaty – Jednoznaczne sformułowanie równoważne z wyrażeniem „zamówienie z obowiązkiem zapłaty” – Uwzględnienie wyłącznie tekstu umieszczonego na przycisku lub podobnej funkcji w celu dokonania oceny równoważności takiego sformułowania",
+  "tezy_kluczowe": [
+    "Artykuł 8 ust. 2 akapit drugi dyrektywy Parlamentu Europejskiego i Rady 2011/83/UE z dnia 25 października 2011 r. w sprawie praw konsumentów, zmieniającej dyrektywę Rady 93/13/EWG i dyrektywę 1999/44/WE Parlamentu Europejskiego i Rady oraz uchylającej dyrektywę Rady 85/577/EWG i dyrektywę 97/7/WE Parlamentu Europejskiego i Rady, należy interpretować w ten sposób, że w celu ustalenia – w kontekście procesu składania zamówienia dotyczącego zawarcia umowy na odległość przy użyciu środków elektronicznych – czy sformułowanie umieszczone na przycisku zamówienia lub podobnej funkcji, takie jak sformułowanie „Sfinalizuj rezerwację”, jest „równoważne” z wyrażeniem „zlecenie z obowiązkiem zapłaty” w rozumieniu tego przepisu, należy oprzeć się wyłącznie na treści sformułowania umieszczonego na tym przycisku lub podobnej funkcji."
+  ],
+  "related_directives": [
+    "2011/83/UE"
+  ],
+  "legal_topic": "przycisk 'zamow z obowiazkiem zaplaty', wymogi informacyjne",
+  "notes": "",
+  "citation_string": "Wyrok TSUE z dnia 7 kwietnia 2022 r. w sprawie C-249/21 Fuhrmann-2",
+  "pelna_tresc_length": 26937,
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+  "scrape_date": "2026-05-16",
+  "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:62021CJ0249"
+}

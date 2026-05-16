@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00320",
+  "source_url": "https://e-prawnik.pl/forum/towar-nie-zgodny-z-zamowienien.html",
+  "fetch_url": "https://e-prawnik.pl/forum/towar-nie-zgodny-z-zamowienien.html",
+  "archive_file": "e_prawnik/eprawnik_00320.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56125,
+  "sha256": "2f0fcc83f064253d7ed7b98bdf0053fe5a02f838ad3c061003393f40644a9c77",
+  "download_date": "2026-05-16T07:28:58Z",
+  "duration_sec": 0.191,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

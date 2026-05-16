@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00501",
+  "source_url": "https://e-prawnik.pl/forum/zakupione-auto-okazalo-sie-powypadkowe-prosze-o-pomoc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakupione-auto-okazalo-sie-powypadkowe-prosze-o-pomoc.html",
+  "archive_file": "e_prawnik/eprawnik_00501.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57383,
+  "sha256": "d336e7875c32059aba2ff5421bc589eb4e7df7c5accd3b75db144d7c379a484d",
+  "download_date": "2026-05-16T07:32:30Z",
+  "duration_sec": 0.095,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

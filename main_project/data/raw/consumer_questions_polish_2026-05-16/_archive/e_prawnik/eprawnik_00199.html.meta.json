@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00199",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-blad-medyczny-poznan.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-blad-medyczny-poznan.html",
+  "archive_file": "e_prawnik/eprawnik_00199.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 68868,
+  "sha256": "939886b39e3ec660710db05a5f27189d114abe119d33e18d44e0a307e285d563",
+  "download_date": "2026-05-16T07:26:36Z",
+  "duration_sec": 0.142,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

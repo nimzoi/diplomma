@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00071",
+  "source_url": "https://e-prawnik.pl/forum/egb-propozycja-ugody-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/egb-propozycja-ugody-1.html",
+  "archive_file": "e_prawnik/eprawnik_00071.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 77917,
+  "sha256": "4f520fdbbb1bb100ebba9f816d30016ef3f269e92be4a82201f65be14155a38a",
+  "download_date": "2026-05-16T07:24:08Z",
+  "duration_sec": 0.166,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

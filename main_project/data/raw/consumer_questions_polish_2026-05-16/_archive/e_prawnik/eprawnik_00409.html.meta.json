@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00409",
+  "source_url": "https://e-prawnik.pl/forum/szewc-zniszczyl-buty.html",
+  "fetch_url": "https://e-prawnik.pl/forum/szewc-zniszczyl-buty.html",
+  "archive_file": "e_prawnik/eprawnik_00409.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59343,
+  "sha256": "45570bc69b83bb32868ffc7373025fd7c23670ba34df490825d4421e2f88118a",
+  "download_date": "2026-05-16T07:30:43Z",
+  "duration_sec": 0.152,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

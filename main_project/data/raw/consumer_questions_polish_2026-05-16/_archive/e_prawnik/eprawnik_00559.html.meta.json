@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00559",
+  "source_url": "https://e-prawnik.pl/forum/zastaw-na-rzeczy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zastaw-na-rzeczy.html",
+  "archive_file": "e_prawnik/eprawnik_00559.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57154,
+  "sha256": "0fd33bc6547441e7d64dec11423e04ff4de95d050bebbeaa4643ac8a612a1574",
+  "download_date": "2026-05-16T07:33:39Z",
+  "duration_sec": 0.191,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

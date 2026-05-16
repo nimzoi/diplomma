@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00137",
+  "source_url": "https://e-prawnik.pl/forum/zwroty.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwroty.html",
+  "archive_file": "e_prawnik/eprawnik_00137.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56193,
+  "sha256": "21e4f11a1d4d8e5f051b979170f484a1849393a3d0dfeb8168d7f80e9e0c32b2",
+  "download_date": "2026-05-16T07:25:25Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

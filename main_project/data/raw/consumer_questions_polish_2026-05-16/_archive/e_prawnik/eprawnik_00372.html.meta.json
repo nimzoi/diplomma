@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00372",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-realizacja-gwarancji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-realizacja-gwarancji.html",
+  "archive_file": "e_prawnik/eprawnik_00372.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57527,
+  "sha256": "c5bf73f814ab93b254c42bbe64774e0844c139f26da08306b66f1658bc8958dd",
+  "download_date": "2026-05-16T07:30:00Z",
+  "duration_sec": 0.165,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

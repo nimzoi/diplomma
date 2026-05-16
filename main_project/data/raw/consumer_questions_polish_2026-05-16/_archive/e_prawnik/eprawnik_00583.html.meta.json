@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00583",
+  "source_url": "https://e-prawnik.pl/forum/kupno-z-allegro-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kupno-z-allegro-1.html",
+  "archive_file": "e_prawnik/eprawnik_00583.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55868,
+  "sha256": "ed682ea77f5c3d34b555d58142e8ad8f572ee9252e7fbb3987b66eb458823e34",
+  "download_date": "2026-05-16T07:34:07Z",
+  "duration_sec": 0.212,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

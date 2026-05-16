@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00432",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-zaliczki-z-najmu-mieszkania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-zaliczki-z-najmu-mieszkania.html",
+  "archive_file": "e_prawnik/eprawnik_00432.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56004,
+  "sha256": "808ab72fc7e1d7b0442c08e96120fbe7e69a243697962f5f1ed8b53692215af6",
+  "download_date": "2026-05-16T07:31:10Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

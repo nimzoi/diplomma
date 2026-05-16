@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00186",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-kancelaria.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-kancelaria.html",
+  "archive_file": "e_prawnik/eprawnik_00186.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58198,
+  "sha256": "628b16a382b725b9553dbc9db6522f1f1029a301f2400a38e90e18859a87204f",
+  "download_date": "2026-05-16T07:26:21Z",
+  "duration_sec": 0.128,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

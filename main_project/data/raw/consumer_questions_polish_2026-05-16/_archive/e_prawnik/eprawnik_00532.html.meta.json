@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00532",
+  "source_url": "https://e-prawnik.pl/forum/zakup-za-niska-cene-kaski.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakup-za-niska-cene-kaski.html",
+  "archive_file": "e_prawnik/eprawnik_00532.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55331,
+  "sha256": "ac39ee2dc2ac362d6ff18ba37568c5e81e1ffc6ea3d06fcf64deaa800b582891",
+  "download_date": "2026-05-16T07:33:06Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

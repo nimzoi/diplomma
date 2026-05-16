@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00365",
+  "source_url": "https://e-prawnik.pl/forum/gwarancja-od-sprzedajacego-nie-prowadzacego-dzialalnosci-gospodarczej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/gwarancja-od-sprzedajacego-nie-prowadzacego-dzialalnosci-gospodarczej.html",
+  "archive_file": "e_prawnik/eprawnik_00365.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56099,
+  "sha256": "d3c72e3e5bba9ecdb6324beedc8e4c4e43848c988530dbdc8b2cf800cdd3e906",
+  "download_date": "2026-05-16T07:29:52Z",
+  "duration_sec": 0.108,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

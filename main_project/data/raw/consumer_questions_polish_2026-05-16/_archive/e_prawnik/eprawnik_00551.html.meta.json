@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00551",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-plecaka.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-plecaka.html",
+  "archive_file": "e_prawnik/eprawnik_00551.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56733,
+  "sha256": "42cfa2b217252f7da18080adecadd96fda778e4353a50127a1951b2eb0e9b6bc",
+  "download_date": "2026-05-16T07:33:29Z",
+  "duration_sec": 0.174,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

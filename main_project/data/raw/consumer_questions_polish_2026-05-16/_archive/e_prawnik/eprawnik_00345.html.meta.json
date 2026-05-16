@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00345",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaz-allegro-kupujacy-odmawia-przyjecia-paczki-a-umowa-kupna-sprzedazy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaz-allegro-kupujacy-odmawia-przyjecia-paczki-a-umowa-kupna-sprzedazy.html",
+  "archive_file": "e_prawnik/eprawnik_00345.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55507,
+  "sha256": "a1375a5bd14b853c10ba82365c7501618e4df814ccb9da957c6c99495d6aeda1",
+  "download_date": "2026-05-16T07:29:28Z",
+  "duration_sec": 0.142,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

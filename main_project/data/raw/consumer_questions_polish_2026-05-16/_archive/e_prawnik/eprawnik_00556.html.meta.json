@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00556",
+  "source_url": "https://e-prawnik.pl/forum/witam-kupilam-buty-zimowe-ktore-zaczely-sie-pozklejac-w-wilgotny-dzien-mialam-je-ok-2-mies-pocz.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-kupilam-buty-zimowe-ktore-zaczely-sie-pozklejac-w-wilgotny-dzien-mialam-je-ok-2-mies-pocz.html",
+  "archive_file": "e_prawnik/eprawnik_00556.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55574,
+  "sha256": "59a90a1adb64c49ba57099438ec78e48f17937b47c0a30379ab7d959bdfbf3b0",
+  "download_date": "2026-05-16T07:33:35Z",
+  "duration_sec": 0.18,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

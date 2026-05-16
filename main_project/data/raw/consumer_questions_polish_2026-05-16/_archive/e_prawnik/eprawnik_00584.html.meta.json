@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00584",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-zwierzaka.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-zwierzaka.html",
+  "archive_file": "e_prawnik/eprawnik_00584.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56511,
+  "sha256": "a5f2865b015937a192f7fcc624fd29685a6b6e4707a686cb4d0c83d631be0ab4",
+  "download_date": "2026-05-16T07:34:09Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

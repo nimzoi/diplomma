@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00521",
+  "source_url": "https://e-prawnik.pl/forum/zalegla-zaplata-za-telefon.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zalegla-zaplata-za-telefon.html",
+  "archive_file": "e_prawnik/eprawnik_00521.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55927,
+  "sha256": "b4515c486cc99a7635e67fb403c0e7e8d85855cdccbe0584cd6ce16b09d24771",
+  "download_date": "2026-05-16T07:32:53Z",
+  "duration_sec": 0.136,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

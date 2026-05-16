@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00037",
+  "source_url": "https://e-prawnik.pl/forum/bardzo-nieelastyczny-kurier-nie-ma-jak-dostarczyc-umowy-kogo-to-wina.html",
+  "fetch_url": "https://e-prawnik.pl/forum/bardzo-nieelastyczny-kurier-nie-ma-jak-dostarczyc-umowy-kogo-to-wina.html",
+  "archive_file": "e_prawnik/eprawnik_00037.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57136,
+  "sha256": "fd68d433b0074e69c8cff91b990054b200f809a70a16cf756836dad31cc88ade",
+  "download_date": "2026-05-16T07:23:28Z",
+  "duration_sec": 0.22,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

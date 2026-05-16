@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00080",
+  "source_url": "https://e-prawnik.pl/forum/witam-pracuje-w-niewielkim-sklepie-spozywczym-w-grudniu-2011-wraz-z-kolezanka-dalysmy-pewnej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-pracuje-w-niewielkim-sklepie-spozywczym-w-grudniu-2011-wraz-z-kolezanka-dalysmy-pewnej.html",
+  "archive_file": "e_prawnik/eprawnik_00080.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57294,
+  "sha256": "dc5e816522673142a4201c0f9a5c20637e6ede30cac45e22a6e6dfbd4a4804c3",
+  "download_date": "2026-05-16T07:24:18Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

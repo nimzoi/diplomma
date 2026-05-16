@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00619",
+  "source_url": "https://e-prawnik.pl/forum/rezerwacja.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rezerwacja.html",
+  "archive_file": "e_prawnik/eprawnik_00619.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57143,
+  "sha256": "935658313def2523f63c3cf587b3c625847f8ad43066b3687425b593be6dfdb4",
+  "download_date": "2026-05-16T07:34:51Z",
+  "duration_sec": 0.155,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00588",
+  "source_url": "https://e-prawnik.pl/forum/telefon-z-gwarancja-a-defakto-jej-brak.html",
+  "fetch_url": "https://e-prawnik.pl/forum/telefon-z-gwarancja-a-defakto-jej-brak.html",
+  "archive_file": "e_prawnik/eprawnik_00588.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56450,
+  "sha256": "9e9b2b9601414ff6dbb9954132a1e78cc22cafa1e29e1ea9701c85c779564299",
+  "download_date": "2026-05-16T07:34:13Z",
+  "duration_sec": 0.211,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

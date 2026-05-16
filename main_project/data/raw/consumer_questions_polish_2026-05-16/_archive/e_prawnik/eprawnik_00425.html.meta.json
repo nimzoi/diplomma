@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00425",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-kupujacym.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-kupujacym.html",
+  "archive_file": "e_prawnik/eprawnik_00425.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56869,
+  "sha256": "eb21b4a34b2e2d4e686db9b52f007898ea85d83df48658bacb4b0a30458fec76",
+  "download_date": "2026-05-16T07:31:01Z",
+  "duration_sec": 0.15,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

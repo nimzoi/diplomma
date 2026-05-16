@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00081",
+  "source_url": "https://e-prawnik.pl/forum/ultimo-i-komornik-sadowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ultimo-i-komornik-sadowy.html",
+  "archive_file": "e_prawnik/eprawnik_00081.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59973,
+  "sha256": "524f9d62e21c046037bde07149734f969f04d466b7d7cef175295dc915171d76",
+  "download_date": "2026-05-16T07:24:20Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

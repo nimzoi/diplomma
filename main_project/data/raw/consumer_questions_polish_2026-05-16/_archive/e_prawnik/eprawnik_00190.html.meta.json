@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00190",
+  "source_url": "https://e-prawnik.pl/forum/skradziona-zawartosc-przesylki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/skradziona-zawartosc-przesylki.html",
+  "archive_file": "e_prawnik/eprawnik_00190.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58540,
+  "sha256": "8fb74d1f6f29262e656ad55de7dd2f55cfe0ad9a73e82d7f8a57e9b0f032cde7",
+  "download_date": "2026-05-16T07:26:26Z",
+  "duration_sec": 0.185,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

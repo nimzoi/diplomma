@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00177",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-18.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-18.html",
+  "archive_file": "e_prawnik/eprawnik_00177.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56470,
+  "sha256": "4f4dac5a5b0dd1aaa705f05185a6b52d104e5c3166bfbb5992147f5f61781f14",
+  "download_date": "2026-05-16T07:26:11Z",
+  "duration_sec": 0.181,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

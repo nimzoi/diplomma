@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00480",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaz-poprzez-olx-rekojmia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaz-poprzez-olx-rekojmia.html",
+  "archive_file": "e_prawnik/eprawnik_00480.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57012,
+  "sha256": "643f500b8be41356d150ddc73b926f2e9bfef5f6b8785dc7a6d41fc74ae78e12",
+  "download_date": "2026-05-16T07:32:06Z",
+  "duration_sec": 0.184,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

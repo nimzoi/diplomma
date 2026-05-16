@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00086",
+  "source_url": "https://e-prawnik.pl/forum/wykonawca-nie-wywiazuje-sie-z-terminu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wykonawca-nie-wywiazuje-sie-z-terminu.html",
+  "archive_file": "e_prawnik/eprawnik_00086.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57569,
+  "sha256": "2854d79a629860b27e20b2a639f26dd50785df39d666970b3226a340e502b62b",
+  "download_date": "2026-05-16T07:24:25Z",
+  "duration_sec": 0.166,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

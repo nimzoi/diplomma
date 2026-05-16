@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00609",
+  "source_url": "https://e-prawnik.pl/forum/jak-zlozyc-reklamacje-do-zabiegu-plastycznego-jak-moge-domagac-sie-swoich-praw-w-sprawie-reklam.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jak-zlozyc-reklamacje-do-zabiegu-plastycznego-jak-moge-domagac-sie-swoich-praw-w-sprawie-reklam.html",
+  "archive_file": "e_prawnik/eprawnik_00609.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57253,
+  "sha256": "dc157bea9abf3839fd38bdd9ff4685bc6dc3f024bd388fc0af7f88d92c82dfef",
+  "download_date": "2026-05-16T07:34:39Z",
+  "duration_sec": 0.163,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

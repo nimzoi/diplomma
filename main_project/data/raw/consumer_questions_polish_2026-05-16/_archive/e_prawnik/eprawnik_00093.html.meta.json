@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00093",
+  "source_url": "https://e-prawnik.pl/forum/rozliczenie-umowy-zwrotem-zaliczki-za-inna-rozwiazana-umowe.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rozliczenie-umowy-zwrotem-zaliczki-za-inna-rozwiazana-umowe.html",
+  "archive_file": "e_prawnik/eprawnik_00093.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55547,
+  "sha256": "fe9eb9b129b66a1230c5467660449245e47257c67b53e0ea54160e7c7b04bc7a",
+  "download_date": "2026-05-16T07:24:33Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

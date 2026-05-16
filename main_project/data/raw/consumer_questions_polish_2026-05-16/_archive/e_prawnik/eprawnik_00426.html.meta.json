@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00426",
+  "source_url": "https://e-prawnik.pl/forum/tatuaz.html",
+  "fetch_url": "https://e-prawnik.pl/forum/tatuaz.html",
+  "archive_file": "e_prawnik/eprawnik_00426.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56512,
+  "sha256": "2850feafeccb3ba5cfbe776001162d6c172c32af8158858aa5bc8758e2d9f98b",
+  "download_date": "2026-05-16T07:31:03Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

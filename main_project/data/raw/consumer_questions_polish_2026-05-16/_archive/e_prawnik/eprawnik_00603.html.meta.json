@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00603",
+  "source_url": "https://e-prawnik.pl/forum/niebezpieczne-zabawki-dla-dzieci.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niebezpieczne-zabawki-dla-dzieci.html",
+  "archive_file": "e_prawnik/eprawnik_00603.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57806,
+  "sha256": "11c8b67e797479adbc485d2d3ebbc63c105cc2c1d8d65e194fd3b0215c77c70a",
+  "download_date": "2026-05-16T07:34:31Z",
+  "duration_sec": 0.196,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

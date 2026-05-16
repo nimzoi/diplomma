@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00039",
+  "source_url": "https://e-prawnik.pl/forum/windykacja-komornicza-jak-zawiesic-usluga-telekomunikacyjna.html",
+  "fetch_url": "https://e-prawnik.pl/forum/windykacja-komornicza-jak-zawiesic-usluga-telekomunikacyjna.html",
+  "archive_file": "e_prawnik/eprawnik_00039.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58950,
+  "sha256": "d06b4fd5340596ac9dd2aadf45d19cae1eaaab1caccc76ccccd8003f8752b567",
+  "download_date": "2026-05-16T07:23:30Z",
+  "duration_sec": 0.211,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

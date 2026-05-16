@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00386",
+  "source_url": "https://e-prawnik.pl/forum/zadoscuczynienie-za-pomowienie-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zadoscuczynienie-za-pomowienie-1.html",
+  "archive_file": "e_prawnik/eprawnik_00386.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 80261,
+  "sha256": "5d6ef2e7ec9583de4d33d5a177fd55a5a0081e98539d8e8e5a52efc4852e9577",
+  "download_date": "2026-05-16T07:30:16Z",
+  "duration_sec": 0.169,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

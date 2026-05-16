@@ -1,0 +1,10 @@
+{
+  "source": "TSUE_consumer_priority",
+  "scrape_date": "2026-05-16",
+  "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+  "total_records": 29,
+  "skipped_no_pl": [
+    "C-269/95"
+  ],
+  "notes": "fetch_failures=[] | total_candidates=30 | ok=29 | skipped_no_pl=1"
+}

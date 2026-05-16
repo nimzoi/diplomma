@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00509",
+  "source_url": "https://e-prawnik.pl/forum/zwrot-zaliczki-za-samochod-niezgodny-z-ogloszeniem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwrot-zaliczki-za-samochod-niezgodny-z-ogloszeniem.html",
+  "archive_file": "e_prawnik/eprawnik_00509.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56447,
+  "sha256": "95c65d3027dac0e1dd793e8ee508075aa8ff9e8a53888459b825640ee294cc0b",
+  "download_date": "2026-05-16T07:32:39Z",
+  "duration_sec": 0.381,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

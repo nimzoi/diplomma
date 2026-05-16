@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00261",
+  "source_url": "https://e-prawnik.pl/forum/pozew-przeciwko-wiodacemu-operatorowi-telefonii-komorkowej-udostepnil-moj-pesel-przestepcy-i-po.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pozew-przeciwko-wiodacemu-operatorowi-telefonii-komorkowej-udostepnil-moj-pesel-przestepcy-i-po.html",
+  "archive_file": "e_prawnik/eprawnik_00261.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57105,
+  "sha256": "d09fa6efe59a2d3218bd3ef0e67ae57e9c3377279af6b21dc94f30e8faf62e92",
+  "download_date": "2026-05-16T07:27:49Z",
+  "duration_sec": 0.141,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

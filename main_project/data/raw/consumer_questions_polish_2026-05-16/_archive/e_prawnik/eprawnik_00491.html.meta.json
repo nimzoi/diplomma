@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00491",
+  "source_url": "https://e-prawnik.pl/forum/nieslusznie-pobrana-prowizja.html",
+  "fetch_url": "https://e-prawnik.pl/forum/nieslusznie-pobrana-prowizja.html",
+  "archive_file": "e_prawnik/eprawnik_00491.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54418,
+  "sha256": "7bd7cac824782841caf6b086fad85cfe37cb8f7b67cae2a5e40fa9fcacb0ebd4",
+  "download_date": "2026-05-16T07:32:18Z",
+  "duration_sec": 0.132,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

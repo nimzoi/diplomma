@@ -3,13 +3,69 @@
   "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
   "directives": [
     {
+      "source": "2011/83/UE",
+      "scrape_date": "2026-05-16",
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "total_records": 204,
+      "skipped_no_pl": [],
+      "notes": "motyw=67 art=137 arts=35"
+    },
+    {
+      "source": "2019/770/UE",
+      "scrape_date": "2026-05-16",
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "total_records": 187,
+      "skipped_no_pl": [],
+      "notes": "motyw=87 art=100 arts=27"
+    },
+    {
+      "source": "2019/771/UE",
+      "scrape_date": "2026-05-16",
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "total_records": 157,
+      "skipped_no_pl": [],
+      "notes": "motyw=72 art=85 arts=27"
+    },
+    {
+      "source": "2019/2161/UE",
+      "scrape_date": "2026-05-16",
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "total_records": 115,
+      "skipped_no_pl": [],
+      "notes": "motyw=60 art=55 arts=9"
+    },
+    {
       "source": "93/13/EWG",
       "scrape_date": "2026-05-16",
       "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
       "total_records": 22,
       "skipped_no_pl": [],
       "notes": "motyw=0 art=22 arts=11"
+    },
+    {
+      "source": "2005/29/WE",
+      "scrape_date": "2026-05-16",
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "total_records": 89,
+      "skipped_no_pl": [],
+      "notes": "motyw=25 art=64 arts=21"
+    },
+    {
+      "source": "2008/48/WE",
+      "scrape_date": "2026-05-16",
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "total_records": 235,
+      "skipped_no_pl": [],
+      "notes": "motyw=51 art=184 arts=32"
+    },
+    {
+      "source": "2023/2225/UE",
+      "scrape_date": "2026-05-16",
+      "license": "(c) European Union, https://eur-lex.europa.eu/ — free reuse per Decyzja 2011/833/UE (attribution required: link to EUR-Lex source)",
+      "total_records": 471,
+      "skipped_no_pl": [],
+      "notes": "motyw=98 art=373 arts=50"
     }
   ],
-  "total_chunks": 22
+  "total_chunks": 1480
 }

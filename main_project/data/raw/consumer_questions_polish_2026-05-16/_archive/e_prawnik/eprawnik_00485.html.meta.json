@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00485",
+  "source_url": "https://e-prawnik.pl/forum/czy-moge-sie-ubiegac-o-odszkodowanie-za-podrobiony-podpis-przez-listonosza-i-w-jakiej-wysokosci.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-moge-sie-ubiegac-o-odszkodowanie-za-podrobiony-podpis-przez-listonosza-i-w-jakiej-wysokosci.html",
+  "archive_file": "e_prawnik/eprawnik_00485.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56006,
+  "sha256": "9562ebc9d7d52888ea235d5ff51c47624337c12e77d95a78c54c280d5ef015ee",
+  "download_date": "2026-05-16T07:32:11Z",
+  "duration_sec": 0.097,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

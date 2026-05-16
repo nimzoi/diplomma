@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00067",
+  "source_url": "https://e-prawnik.pl/forum/wyrok-sadu-brak-odzyskania-szkody.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wyrok-sadu-brak-odzyskania-szkody.html",
+  "archive_file": "e_prawnik/eprawnik_00067.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58249,
+  "sha256": "2c4e3c2249389a0950eb82d22fb13a0f5689537c9d76184685a08e813b6bbf7a",
+  "download_date": "2026-05-16T07:24:03Z",
+  "duration_sec": 0.126,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00420",
+  "source_url": "https://e-prawnik.pl/forum/rezygnacja-z-umowy-posrednictwa-sprzedazy-domu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rezygnacja-z-umowy-posrednictwa-sprzedazy-domu.html",
+  "archive_file": "e_prawnik/eprawnik_00420.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54757,
+  "sha256": "157184389d5431a5cad46db491b36cb955431841926719c426d1513727770cd4",
+  "download_date": "2026-05-16T07:30:56Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00133",
+  "source_url": "https://e-prawnik.pl/forum/szukam-prawnika-zajmujacego-sie-odszkodowaniami-za-blad-lekarski-z-wawy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/szukam-prawnika-zajmujacego-sie-odszkodowaniami-za-blad-lekarski-z-wawy.html",
+  "archive_file": "e_prawnik/eprawnik_00133.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 101457,
+  "sha256": "bb4c3667105d4adc99e49029e5a7c2e77b72e962a645fa350283e06493314d45",
+  "download_date": "2026-05-16T07:25:20Z",
+  "duration_sec": 0.145,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

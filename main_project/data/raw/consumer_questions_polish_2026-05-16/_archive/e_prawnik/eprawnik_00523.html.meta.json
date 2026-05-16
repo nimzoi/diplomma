@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00523",
+  "source_url": "https://e-prawnik.pl/forum/gwarancja-dostawy-przed-swietami-brak-towaru.html",
+  "fetch_url": "https://e-prawnik.pl/forum/gwarancja-dostawy-przed-swietami-brak-towaru.html",
+  "archive_file": "e_prawnik/eprawnik_00523.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56970,
+  "sha256": "a9d7f23a3de783506e416c5a058c7d0d178418ad094bd26690e4f64253416a50",
+  "download_date": "2026-05-16T07:32:56Z",
+  "duration_sec": 0.179,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

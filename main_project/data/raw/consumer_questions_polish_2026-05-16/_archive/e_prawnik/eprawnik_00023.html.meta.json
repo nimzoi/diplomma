@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00023",
+  "source_url": "https://e-prawnik.pl/forum/witammam-pytanie-posiadam-decyzje-w-ktorej-zapisano-niezgodnosc-stanu-faktycznego-ze-stanem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witammam-pytanie-posiadam-decyzje-w-ktorej-zapisano-niezgodnosc-stanu-faktycznego-ze-stanem.html",
+  "archive_file": "e_prawnik/eprawnik_00023.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57573,
+  "sha256": "c28fd16b312141526039131f0075a82644e79c63eea60187c81c93e681e82516",
+  "download_date": "2026-05-16T07:23:12Z",
+  "duration_sec": 0.223,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

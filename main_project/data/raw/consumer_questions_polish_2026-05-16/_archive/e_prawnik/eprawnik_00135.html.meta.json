@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00135",
+  "source_url": "https://e-prawnik.pl/forum/niezgodnosc-towaru-z-umowa-sprzedawca-przekroczyl-czas-ale-nie-uznaje-rozszczenia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niezgodnosc-towaru-z-umowa-sprzedawca-przekroczyl-czas-ale-nie-uznaje-rozszczenia.html",
+  "archive_file": "e_prawnik/eprawnik_00135.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56852,
+  "sha256": "7b6d81d4c6cd907524706e156de24b58b419d6ea757c1ee5b2b15fb626bfec3d",
+  "download_date": "2026-05-16T07:25:22Z",
+  "duration_sec": 0.097,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -208,9 +208,7 @@ class Fetcher:
             time.sleep(wait)
         for attempt in range(retries + 1):
             try:
-                resp = self.session.get(
-                    url, timeout=REQUEST_TIMEOUT_SEC, allow_redirects=True
-                )
+                resp = self.session.get(url, timeout=REQUEST_TIMEOUT_SEC, allow_redirects=True)
                 self._last_fetch = time.monotonic()
                 if resp.status_code == 200:
                     if not resp.encoding or resp.encoding.lower() in (
@@ -219,13 +217,9 @@ class Fetcher:
                     ):
                         resp.encoding = "utf-8"
                     return resp
-                logger.warning(
-                    "GET %s -> HTTP %d (attempt %d)", url, resp.status_code, attempt + 1
-                )
+                logger.warning("GET %s -> HTTP %d (attempt %d)", url, resp.status_code, attempt + 1)
             except requests.RequestException as exc:
-                logger.warning(
-                    "GET %s ERR %s (attempt %d)", url, exc, attempt + 1
-                )
+                logger.warning("GET %s ERR %s (attempt %d)", url, exc, attempt + 1)
             time.sleep(2.0 * (attempt + 1))
         return None
 

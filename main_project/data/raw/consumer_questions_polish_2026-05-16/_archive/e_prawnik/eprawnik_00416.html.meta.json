@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00416",
+  "source_url": "https://e-prawnik.pl/forum/niezaplacenie-za-towar.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niezaplacenie-za-towar.html",
+  "archive_file": "e_prawnik/eprawnik_00416.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55859,
+  "sha256": "a8f53e566c16bb6dfcae441f080db21cc3659824e6f65839b32a6ff4540b2859",
+  "download_date": "2026-05-16T07:30:51Z",
+  "duration_sec": 0.146,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

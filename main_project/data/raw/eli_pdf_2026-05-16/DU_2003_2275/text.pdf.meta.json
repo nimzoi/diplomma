@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2003/2275",
+  "ustawa_title": "Ustawa z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów",
+  "kind": "announcement",
+  "consolidated_ref": null,
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2003/2275/text.pdf",
+  "size_bytes": 94397,
+  "sha256": "a5a7f3d3bbd1fa39ff9873af09313667f3a166f6782a21bc9a15ecddd525292a",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "NOT_IN_FORCE",
+  "error": false
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00255",
+  "source_url": "https://e-prawnik.pl/forum/umowa-kupna-auta-przez-kogos.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-kupna-auta-przez-kogos.html",
+  "archive_file": "e_prawnik/eprawnik_00255.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56595,
+  "sha256": "617e4a922843738aad3f7741e0e6e68e457060705cc0a7223560fb8988ffe876",
+  "download_date": "2026-05-16T07:27:42Z",
+  "duration_sec": 0.205,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

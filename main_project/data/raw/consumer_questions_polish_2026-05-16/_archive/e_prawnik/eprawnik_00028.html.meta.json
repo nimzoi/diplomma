@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00028",
+  "source_url": "https://e-prawnik.pl/forum/zawalenie-sciany-domu-na-robotnika.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zawalenie-sciany-domu-na-robotnika.html",
+  "archive_file": "e_prawnik/eprawnik_00028.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56453,
+  "sha256": "5b5abbe4d671700f041281ff3ae34d62da716436c0bc9db75d00f6e5bc2d4568",
+  "download_date": "2026-05-16T07:23:17Z",
+  "duration_sec": 0.167,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

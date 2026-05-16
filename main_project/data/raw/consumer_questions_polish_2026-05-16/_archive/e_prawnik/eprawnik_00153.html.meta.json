@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00153",
+  "source_url": "https://e-prawnik.pl/forum/pobicie-przez-ochrone-pubu-a-odszkodowanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pobicie-przez-ochrone-pubu-a-odszkodowanie.html",
+  "archive_file": "e_prawnik/eprawnik_00153.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61662,
+  "sha256": "40ecbe785f7039cb690a7e2a17d18469c2992a18603a81b1a40e26dddb851606",
+  "download_date": "2026-05-16T07:25:43Z",
+  "duration_sec": 0.22,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

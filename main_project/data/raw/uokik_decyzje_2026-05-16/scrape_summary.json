@@ -1,0 +1,16 @@
+{
+  "source": "decyzje.uokik.gov.pl",
+  "scrape_date": "2026-05-16",
+  "license": "urzędowe (Art. 4 ust. 2 PrAut)",
+  "attempted": 612,
+  "succeeded": 6,
+  "failed": 54,
+  "skipped": 21,
+  "waf_blocks": 0,
+  "parse_errors": 0,
+  "total_words": 96719,
+  "skip_reasons": {
+    "already_exists": 21,
+    "pdf_download_failed": 1,
+    "no_pdf_link": 53
+  

@@ -1,0 +1,14 @@
+{
+  "ustawa_id": "DU/2000/271",
+  "ustawa_title": "Ustawa z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny.",
+  "kind": "tekst_jednolity",
+  "consolidated_ref": "DU/2012/1225",
+  "source_url": "https://api.sejm.gov.pl/eli/acts/DU/2012/1225/text.pdf",
+  "size_bytes": 1068186,
+  "sha256": "5a003c7f6b339eca4eead3712a86e0422a9c2103abd06db3513a0ed9498dc053",
+  "download_date": "2026-05-16",
+  "user_agent": "ELI corpus collector - MgSochacka PJATK thesis (citation-grounded RAG)",
+  "license": "Art. 4 ust. 1 ustawy o prawie autorskim (DU/1994/83) — akty normatywne public domain",
+  "in_force_at_download": "NOT_IN_FORCE",
+  "error": false
+}

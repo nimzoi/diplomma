@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00105",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-przed-terminem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-przed-terminem.html",
+  "archive_file": "e_prawnik/eprawnik_00105.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57754,
+  "sha256": "c7d6cd323b7bb0f12188fc38cd1cf6a8d35f1bf44f76fe574c88a8877a2f9b5c",
+  "download_date": "2026-05-16T07:24:47Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

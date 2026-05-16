@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00262",
+  "source_url": "https://e-prawnik.pl/forum/niedochowanie-terminu-reklamacji-brak-zadan.html",
+  "fetch_url": "https://e-prawnik.pl/forum/niedochowanie-terminu-reklamacji-brak-zadan.html",
+  "archive_file": "e_prawnik/eprawnik_00262.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56575,
+  "sha256": "2294bc55ec584adff9dcd4a6cd172e6a34878c894075607ac62bc9461087019b",
+  "download_date": "2026-05-16T07:27:50Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

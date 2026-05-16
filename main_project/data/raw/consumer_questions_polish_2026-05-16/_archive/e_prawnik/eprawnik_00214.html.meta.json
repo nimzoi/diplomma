@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00214",
+  "source_url": "https://e-prawnik.pl/forum/linia-telekomunikacyjna-na-dzialce-budowlanej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/linia-telekomunikacyjna-na-dzialce-budowlanej.html",
+  "archive_file": "e_prawnik/eprawnik_00214.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59492,
+  "sha256": "01500511b385b00daf8274f9d01b4aa9d8297548b5a57ac115e46bc6abae3345",
+  "download_date": "2026-05-16T07:26:54Z",
+  "duration_sec": 0.185,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

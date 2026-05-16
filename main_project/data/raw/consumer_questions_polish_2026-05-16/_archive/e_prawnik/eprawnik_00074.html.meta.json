@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00074",
+  "source_url": "https://e-prawnik.pl/forum/powaga-rzeczy-osadzonej-wygralem-w-sadzie-a-nadal-mnie-windykuja.html",
+  "fetch_url": "https://e-prawnik.pl/forum/powaga-rzeczy-osadzonej-wygralem-w-sadzie-a-nadal-mnie-windykuja.html",
+  "archive_file": "e_prawnik/eprawnik_00074.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60704,
+  "sha256": "88e5b3412b917be61fdabb5280f63e43303d3344d75df083defa4cbd6acc627e",
+  "download_date": "2026-05-16T07:24:11Z",
+  "duration_sec": 0.307,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

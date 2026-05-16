@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00299",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-w-sklepie-neonet-z-tytulu-rekojmi-juz-minely-2-miesiace-bez-sprzetu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-w-sklepie-neonet-z-tytulu-rekojmi-juz-minely-2-miesiace-bez-sprzetu.html",
+  "archive_file": "e_prawnik/eprawnik_00299.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61590,
+  "sha256": "c9fc0d6c5380052628d34f6cf6bb4df68b4f50e0435f6a6331e6aa3779360565",
+  "download_date": "2026-05-16T07:28:33Z",
+  "duration_sec": 0.174,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

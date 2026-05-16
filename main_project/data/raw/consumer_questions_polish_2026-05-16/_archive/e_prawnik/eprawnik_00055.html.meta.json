@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00055",
+  "source_url": "https://e-prawnik.pl/forum/bank-pkobp-a-blokada-konta-na-ktorym-jest-kredyt.html",
+  "fetch_url": "https://e-prawnik.pl/forum/bank-pkobp-a-blokada-konta-na-ktorym-jest-kredyt.html",
+  "archive_file": "e_prawnik/eprawnik_00055.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56681,
+  "sha256": "95e4c11e8fd608e989961085dca6ab8530aedaa4b1ed3bc055b642827a0b8caa",
+  "download_date": "2026-05-16T07:23:49Z",
+  "duration_sec": 0.267,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

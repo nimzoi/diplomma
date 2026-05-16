@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00258",
+  "source_url": "https://e-prawnik.pl/forum/usluga-internetowa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/usluga-internetowa.html",
+  "archive_file": "e_prawnik/eprawnik_00258.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57069,
+  "sha256": "e93b19f7890d396a6eabbbc8839a582565b4e3b83e6b703dbe5f3cb10f8cb919",
+  "download_date": "2026-05-16T07:27:45Z",
+  "duration_sec": 0.148,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

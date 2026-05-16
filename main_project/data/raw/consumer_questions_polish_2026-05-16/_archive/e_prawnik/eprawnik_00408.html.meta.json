@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00408",
+  "source_url": "https://e-prawnik.pl/forum/gwarancja-kc-art-581-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/gwarancja-kc-art-581-1.html",
+  "archive_file": "e_prawnik/eprawnik_00408.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56080,
+  "sha256": "e8f30188aa0983012a46982b60bdc9bbb5449b0dc2a57120f1d68780a482607d",
+  "download_date": "2026-05-16T07:30:42Z",
+  "duration_sec": 0.192,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

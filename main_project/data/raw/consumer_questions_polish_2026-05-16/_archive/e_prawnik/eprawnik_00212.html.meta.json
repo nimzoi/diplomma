@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00212",
+  "source_url": "https://e-prawnik.pl/forum/rekojmia-za-wady-jak-skorzystac.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rekojmia-za-wady-jak-skorzystac.html",
+  "archive_file": "e_prawnik/eprawnik_00212.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56607,
+  "sha256": "3caf1a997c08f3d52ed47680b683892e79d13f066fc23bee6b08073a74dff69c",
+  "download_date": "2026-05-16T07:26:51Z",
+  "duration_sec": 0.165,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00404",
+  "source_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-przedwstepnej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odstapienie-od-umowy-przedwstepnej.html",
+  "archive_file": "e_prawnik/eprawnik_00404.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56212,
+  "sha256": "16969e86ab40cfb31a10952bf5924a8ad0ccdc2adc2bcc02f7b599fdc718e786",
+  "download_date": "2026-05-16T07:30:37Z",
+  "duration_sec": 0.209,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

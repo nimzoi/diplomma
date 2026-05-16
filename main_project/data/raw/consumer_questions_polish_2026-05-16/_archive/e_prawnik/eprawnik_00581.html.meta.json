@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00581",
+  "source_url": "https://e-prawnik.pl/forum/zniszczenie-dysku-przez-serwisanta.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zniszczenie-dysku-przez-serwisanta.html",
+  "archive_file": "e_prawnik/eprawnik_00581.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58938,
+  "sha256": "264d8c031cbddbc5064763d9e4bbbf914f7cb7f6ce9a59ddd0edcc391c89e0dd",
+  "download_date": "2026-05-16T07:34:05Z",
+  "duration_sec": 0.18,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00343",
+  "source_url": "https://e-prawnik.pl/forum/ponowna-reklamacja-laptopa-sprzedajacy-nie-odpowiada.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ponowna-reklamacja-laptopa-sprzedajacy-nie-odpowiada.html",
+  "archive_file": "e_prawnik/eprawnik_00343.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56338,
+  "sha256": "4122bc5da476996ee3c4ecea2c7b124e36e3ca9a08340f33e8f90720de394583",
+  "download_date": "2026-05-16T07:29:25Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

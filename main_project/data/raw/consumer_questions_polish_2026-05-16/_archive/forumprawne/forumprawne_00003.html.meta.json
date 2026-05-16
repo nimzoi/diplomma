@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00003",
+  "source_url": "https://forumprawne.org/watek/readers-digest.44396/",
+  "fetch_url": "https://forumprawne.org/watek/readers-digest.44396/",
+  "archive_file": "forumprawne/forumprawne_00003.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 170445,
+  "sha256": "97725947c8163b437b220e59871d815505133a4d39c00a85c3fc5c201a72bdf1",
+  "download_date": "2026-05-16T07:21:35Z",
+  "duration_sec": 0.091,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

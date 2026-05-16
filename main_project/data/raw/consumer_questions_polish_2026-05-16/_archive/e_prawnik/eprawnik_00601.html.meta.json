@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00601",
+  "source_url": "https://e-prawnik.pl/forum/umowa-z-operatorem-telefonii-komorkowej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-z-operatorem-telefonii-komorkowej.html",
+  "archive_file": "e_prawnik/eprawnik_00601.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59867,
+  "sha256": "19484e35298c9a489f1e5fc20ba61919e5c30d1addf3557e96df3a2b390aeac3",
+  "download_date": "2026-05-16T07:34:29Z",
+  "duration_sec": 0.22,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,34 @@
+{
+  "ustawa_id": "DU/2002/1176",
+  "short_title": "Ustawy o szczególnych warunkach sprzedaży konsumenckiej",
+  "title": "Ustawa z dnia 27 lipca 2002 r. o szczególnych warunkach sprzedaży konsumenckiej oraz o zmianie Kodeksu cywilnego.",
+  "publisher": "DU",
+  "year": 2002,
+  "pos": 1176,
+  "display_address": "Dz.U. 2002 nr 141 poz. 1176",
+  "type": "Ustawa",
+  "data_uchwalenia": "2002-07-27",
+  "data_promulgacji": "2002-09-05",
+  "data_wejscia_w_zycie": "2003-01-01",
+  "ostatnia_zmiana": "2024-03-15T10:06:36",
+  "obowiazujaca": false,
+  "in_force_raw": "NOT_IN_FORCE",
+  "status": "uchylony",
+  "ELI": "DU/2002/1176",
+  "previous_title": [],
+  "art_filter": null,
+  "chunk_count": 42,
+  "source_metadata_url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1176",
+  "source_html_url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1176/text.html",
+  "consolidated_text_references": [],
+  "amending_acts": [
+    "DU/2011/432",
+    "DU/2011/169",
+    "DU/2009/960",
+    "DU/2004/959"
+  ],
+  "directives_eu": [
+    "31999L0044"
+  ],
+  "scrape_date": "2026-05-16"
+}

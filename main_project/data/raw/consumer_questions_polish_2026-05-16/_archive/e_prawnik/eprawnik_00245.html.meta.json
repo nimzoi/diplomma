@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00245",
+  "source_url": "https://e-prawnik.pl/forum/roszczenie-odszkodowania-z-tytulu-zmiany-prawa-prowadzacego-do-upadku-firmy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/roszczenie-odszkodowania-z-tytulu-zmiany-prawa-prowadzacego-do-upadku-firmy.html",
+  "archive_file": "e_prawnik/eprawnik_00245.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57523,
+  "sha256": "28a859a237d482e365b3766e080d9d8cb0321c579a48a69f9a1534b655ff90bd",
+  "download_date": "2026-05-16T07:27:30Z",
+  "duration_sec": 0.121,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

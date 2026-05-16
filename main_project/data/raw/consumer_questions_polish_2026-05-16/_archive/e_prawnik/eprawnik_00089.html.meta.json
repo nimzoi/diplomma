@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00089",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-wykonanej-strony-internetowej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-wykonanej-strony-internetowej.html",
+  "archive_file": "e_prawnik/eprawnik_00089.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59441,
+  "sha256": "f2a0377da7cda6490011579fbb4d93e1ed049130dca306a8948929d3ebdce6d0",
+  "download_date": "2026-05-16T07:24:29Z",
+  "duration_sec": 0.117,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

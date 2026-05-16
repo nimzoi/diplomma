@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00585",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-z-tytulu-2-letniej-odpowiedzialnosci-sprzedawcy-za-niezgodnosc-towaru-konsumpcyjnego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-z-tytulu-2-letniej-odpowiedzialnosci-sprzedawcy-za-niezgodnosc-towaru-konsumpcyjnego.html",
+  "archive_file": "e_prawnik/eprawnik_00585.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55720,
+  "sha256": "7cb8e83e9a73cc63495e8d912d708e5948204a771c7266ce40434d00b485231b",
+  "download_date": "2026-05-16T07:34:10Z",
+  "duration_sec": 0.164,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

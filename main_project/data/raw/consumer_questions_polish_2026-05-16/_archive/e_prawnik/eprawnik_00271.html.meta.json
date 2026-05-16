@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00271",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-paypal-2.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-paypal-2.html",
+  "archive_file": "e_prawnik/eprawnik_00271.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58797,
+  "sha256": "a1cf2a5667f99b803c47336dcc6504d9a3354feb06b9f1061a1b974dbfbe24f7",
+  "download_date": "2026-05-16T07:28:00Z",
+  "duration_sec": 0.153,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

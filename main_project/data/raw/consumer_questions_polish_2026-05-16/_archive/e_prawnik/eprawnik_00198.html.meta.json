@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00198",
+  "source_url": "https://e-prawnik.pl/forum/prawnik-do-sporzadzeni9a-skargi-kasacyjnej-potrzebny.html",
+  "fetch_url": "https://e-prawnik.pl/forum/prawnik-do-sporzadzeni9a-skargi-kasacyjnej-potrzebny.html",
+  "archive_file": "e_prawnik/eprawnik_00198.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56164,
+  "sha256": "1fe53bbd71a0249fc329d8c1f14745081027eed48276f3bee85baa9ae2f7a121",
+  "download_date": "2026-05-16T07:26:35Z",
+  "duration_sec": 0.142,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

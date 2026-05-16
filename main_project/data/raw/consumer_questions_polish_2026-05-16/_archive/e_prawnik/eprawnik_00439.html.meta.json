@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00439",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-wlaacicielem-mieszknia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-wlaacicielem-mieszknia.html",
+  "archive_file": "e_prawnik/eprawnik_00439.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58505,
+  "sha256": "e145c8e847bd3c05d1d779b14dc2cb04ff83758b0be0570928959c2d4c9e67f7",
+  "download_date": "2026-05-16T07:31:18Z",
+  "duration_sec": 0.185,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}
