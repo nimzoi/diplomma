@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00647",
+  "source_url": "https://e-prawnik.pl/forum/uszkodzenie-ciala.html",
+  "fetch_url": "https://e-prawnik.pl/forum/uszkodzenie-ciala.html",
+  "archive_file": "e_prawnik/eprawnik_00647.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57839,
+  "sha256": "0a468cc81525e0e192a9449245eced9d91effebf73d222947bf2aa99fd9e2310",
+  "download_date": "2026-05-16T07:35:24Z",
+  "duration_sec": 0.161,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

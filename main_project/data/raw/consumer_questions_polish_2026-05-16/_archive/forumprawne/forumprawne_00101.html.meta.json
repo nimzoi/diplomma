@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00101",
+  "source_url": "https://forumprawne.org/watek/nieuznana-reklamacja-warunki-umowy-netia.882797/",
+  "fetch_url": "https://forumprawne.org/watek/nieuznana-reklamacja-warunki-umowy-netia.882797/",
+  "archive_file": "forumprawne/forumprawne_00101.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 127211,
+  "sha256": "97906a1bf2af476ec3ff4b27645c7caf4346249d064e4f771e97175b1425d9cc",
+  "download_date": "2026-05-16T07:43:29Z",
+  "duration_sec": 0.236,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

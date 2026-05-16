@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00696",
+  "source_url": "https://e-prawnik.pl/forum/odpowiedz-na-reklamacje-poza-obszarem-reklamacji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odpowiedz-na-reklamacje-poza-obszarem-reklamacji.html",
+  "archive_file": "e_prawnik/eprawnik_00696.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59192,
+  "sha256": "3e8c5e9d0d7eadf2c6bf29520cb3c8e0d578998665ed02089b5e27023784bca5",
+  "download_date": "2026-05-16T07:36:22Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

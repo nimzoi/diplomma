@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00723",
+  "source_url": "https://e-prawnik.pl/forum/ochrona-prawna-warto.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ochrona-prawna-warto.html",
+  "archive_file": "e_prawnik/eprawnik_00723.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55598,
+  "sha256": "ee7875e7a5501e566d02eb4ca83f1d1b887068c33f531de4d739c0339e6748c8",
+  "download_date": "2026-05-16T07:36:58Z",
+  "duration_sec": 0.311,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

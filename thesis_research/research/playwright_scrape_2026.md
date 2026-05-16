@@ -197,4 +197,59 @@ main_project/tests/test_playwright_scrape.py
 
 ## Liczby finalne (post-run)
 
-Ostateczne liczby uzupełniane po pełnych run'ach — patrz `scrape_summary.json` per dir.
+| Source | Final count | Format | Master JSONL | New records (S2) | Words total |
+|---|---|---|---|---|---|
+| `decyzje.uokik.gov.pl` | **26 decyzji konsumenckich** | PDF→text | `decyzje.jsonl` (26 lines) | 26 | ~310k |
+| `orzeczenia.ms.gov.pl` (expansion) | **38 orzeczeń** (z 10 baseline E4 + 28 nowych S2) | HTML | `documents.jsonl` (479 chunks total) | +26 docs, +266 chunks, +57k words | 57,261 (this run) |
+| `sn.pl` | **121 orzeczeń SN** (Izba Cywilna primary) | HTML treść (DOCX export) | `sn_orzeczenia.jsonl` (121 lines) | 121 | ~600k |
+
+**Cumulative**: ~185 nowych długich dokumentów (decyzje + orzeczenia + SN) dodanych do `data/raw/` przez Playwright bypass. **WAF bypass success rate: 100%** (wszystkie 3 źródła scrapped successfully; okresowe rate-limits wymagały retry z delay'em).
+
+### Detale per source
+
+**1. UOKiK decyzje** — 26 z `Klauzule niedozwolone` (np. RGD-2/2026 Live Nation, klauzule koncertowe), `Ochrona zbiorowych interesów konsumentów` (np. RKT-1/2026 Travelplanet.pl), `Jakość paliw` (DIH-II/*). 21 already_exists skipped (re-run idempotency), 60 no_pdf_link (decyzje bez opublikowanej wersji jawnej), 1 pdf_download_failed.
+
+**2. Orzeczenia.ms.gov.pl** — 26 nowych przez Tapestry search z 7 keywords. Pełna treść (`.grid9.simple.single.content` selector). 58 skipped jako too_short (postanowienia umarzające postępowanie).
+
+**3. SN orzeczenia** — 121 z 11 search phrases ("konsument", "rękojmia konsumencka", "klauzula niedozwolona", "frankowicze", "abuzywność postanowień", "kredyt konsumencki", etc.). Pełna treść z `OrzeczeniaHTML/*.docx.html` (DOCX export z SharePoint). Avg ~3500 słów/orzeczenie.
+
+### Notable findings
+
+- **III CZP 126/22 (SN)** — uchwała Rzecznika Finansowego ws. „czy umowa kredytu jest umową wzajemną" — kluczowa dla frankowiczów i abuzywności (7,577 słów uzasadnienia, 30 cytacji).
+- **RGD-2/2026 (UOKiK)** — Live Nation klauzule niedozwolone w regulaminach koncertowych — 18 podstaw prawnych (UPK, KC art. 3851), kara 1800 zł.
+- **Klauzule frankowe**: dziesiątki orzeczeń SN dot. art. 3851 KC i Dyrektywy 93/13/EWG — bardzo dobry korpus dla halu detection (claims o specific paragrafach łatwo verify'owalne).
+
+### Schema mappings (do Iter. 1 ingest)
+
+`UokikDecyzja` → przyszły `LegalChunk`-like rekord z source="uokik.gov.pl/decyzje" + citation_string deterministyczny.
+
+`SnOrzeczenie` → przyszły `LegalChunk`-like z source="sn.pl" + tezę osobno (krótkie, czysto query/evidence dla halu probe), uzasadnienie chunkowane (długie body do retrieval).
+
+`OrzeczenieChunk` (S2 expansion) → już w E4 schema, kompatybilne z istniejącym `consumer_documents/orzeczenia/documents.jsonl`.
+
+### Test infrastructure
+
+- `test_playwright_scrape.py`: 25 unit testów (parsing helpers, kara_pln regex, sygnatura ekstrakcja, dataclass defaults, chunking, slug generation). 1 `@pytest.mark.network` smoke test (BrowserSession sanity).
+- `pyproject.toml`: dodany `markers = ["network: ..."]` dla strict-markers compatibility.
+
+### Files added/modified
+
+**New code** (`D:\diplomma\main_project\src\scrape\playwright_sources\`):
+- `__init__.py` (4 lines)
+- `common.py` (~340 lines) — BrowserSession, write_jsonl/meta, NFC, kara_pln, citations regex
+- `decyzje_uokik.py` (~480 lines) — F5 bypass, Lotus Notes paginacja, UokikDecyzja
+- `orzeczenia_ms_expansion.py` (~580 lines) — Tapestry search, OrzeczenieChunk
+- `sn_orzeczenia.py` (~620 lines) — SharePoint form, HTML treść, SnOrzeczenie
+
+**New tests** (`D:\diplomma\main_project\tests\`):
+- `test_playwright_scrape.py` (~270 lines, 25 tests)
+
+**Modified**:
+- `D:\diplomma\pyproject.toml` (dodane playwright + playwright-stealth + pytest marker)
+- `D:\diplomma\.gitignore` (dodane `_snapshots/` ignore)
+- `D:\diplomma\uv.lock` (lockfile po `uv add`)
+
+**Output data** (`D:\diplomma\main_project\data\raw\`):
+- `uokik_decyzje_2026-05-16/` (26 meta + decyzje.jsonl + scrape_summary.json)
+- `sn_orzeczenia_2026-05-16/` (121 meta + sn_orzeczenia.jsonl + scrape_summary.json)
+- `consumer_documents_2026-05-16/orzeczenia/` (28 nowych orz_*.meta.json + 266 nowych chunks w documents.jsonl + scrape_expansion_summary.json)

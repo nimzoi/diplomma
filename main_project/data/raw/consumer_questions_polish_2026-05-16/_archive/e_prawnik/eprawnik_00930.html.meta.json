@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00930",
+  "source_url": "https://e-prawnik.pl/forum/wypadek-samochodow-i-zwrot-odszkodowania-warcie-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wypadek-samochodow-i-zwrot-odszkodowania-warcie-1.html",
+  "archive_file": "e_prawnik/eprawnik_00930.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57506,
+  "sha256": "0005855c7435a8647d1fdd7d210ed8f9fe228f01332cf94e296e10b1ab0e505a",
+  "download_date": "2026-05-16T07:41:07Z",
+  "duration_sec": 0.153,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

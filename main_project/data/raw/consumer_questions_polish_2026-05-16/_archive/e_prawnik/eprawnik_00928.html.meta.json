@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00928",
+  "source_url": "https://e-prawnik.pl/forum/szkoda-osobowa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/szkoda-osobowa.html",
+  "archive_file": "e_prawnik/eprawnik_00928.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58138,
+  "sha256": "49084cc4ca46849d082189c537e05dacc72bc304c117a5f69a777eb669ace46d",
+  "download_date": "2026-05-16T07:41:05Z",
+  "duration_sec": 0.252,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

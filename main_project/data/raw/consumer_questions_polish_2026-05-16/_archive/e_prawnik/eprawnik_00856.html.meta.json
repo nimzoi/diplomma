@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00856",
+  "source_url": "https://e-prawnik.pl/forum/oc-ac-samopomoc-sa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/oc-ac-samopomoc-sa.html",
+  "archive_file": "e_prawnik/eprawnik_00856.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 63118,
+  "sha256": "ecdd7f4c23d6319b06c8eee597a89a6ba5c675d94d385a7f4a3274b2289ecd99",
+  "download_date": "2026-05-16T07:39:38Z",
+  "duration_sec": 0.199,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

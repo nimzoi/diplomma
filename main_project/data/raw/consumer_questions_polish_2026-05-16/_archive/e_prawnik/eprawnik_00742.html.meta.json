@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00742",
+  "source_url": "https://e-prawnik.pl/forum/ubezpieczenie-kredytu-a-smierc-kredytobiorcy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubezpieczenie-kredytu-a-smierc-kredytobiorcy.html",
+  "archive_file": "e_prawnik/eprawnik_00742.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58240,
+  "sha256": "c2e87e74c370bdc10675ad06816e4e093dd1058ee936bbec5d60441cfef9e746",
+  "download_date": "2026-05-16T07:37:21Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

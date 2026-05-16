@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00697",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-z-oc-sprawcy-zanizona-wycena-pzu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-z-oc-sprawcy-zanizona-wycena-pzu.html",
+  "archive_file": "e_prawnik/eprawnik_00697.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 73016,
+  "sha256": "3da829911ec7021d9f1abeb596807f9c7a4302cf7e1814e5d6f0f25ad7f94c7a",
+  "download_date": "2026-05-16T07:36:23Z",
+  "duration_sec": 0.173,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00952",
+  "source_url": "https://e-prawnik.pl/forum/smierc-w-pracy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/smierc-w-pracy.html",
+  "archive_file": "e_prawnik/eprawnik_00952.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59161,
+  "sha256": "56fd53388d805dcc43f0ecb21d8f8f147df92de106e3290dad16336aab9695a6",
+  "download_date": "2026-05-16T07:41:34Z",
+  "duration_sec": 0.214,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

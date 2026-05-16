@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00933",
+  "source_url": "https://e-prawnik.pl/forum/szkoda-z-tytulu-ac.html",
+  "fetch_url": "https://e-prawnik.pl/forum/szkoda-z-tytulu-ac.html",
+  "archive_file": "e_prawnik/eprawnik_00933.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58097,
+  "sha256": "61d27a284c6a596f2c9f0466d9d4279cf6b3510d18cbb474e401a1fa90058976",
+  "download_date": "2026-05-16T07:41:11Z",
+  "duration_sec": 0.208,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

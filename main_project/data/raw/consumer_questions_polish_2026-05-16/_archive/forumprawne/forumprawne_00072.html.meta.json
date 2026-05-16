@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00072",
+  "source_url": "https://forumprawne.org/watek/uszkodzona-bateria-trakcyjna-w-samochodzie-po-zakupie.883500/",
+  "fetch_url": "https://forumprawne.org/watek/uszkodzona-bateria-trakcyjna-w-samochodzie-po-zakupie.883500/",
+  "archive_file": "forumprawne/forumprawne_00072.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 73715,
+  "sha256": "1c271e9a3b79a10e8b874bf0e53890c6717f52bef601acddb2ea7533de4885e6",
+  "download_date": "2026-05-16T07:42:55Z",
+  "duration_sec": 0.08,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

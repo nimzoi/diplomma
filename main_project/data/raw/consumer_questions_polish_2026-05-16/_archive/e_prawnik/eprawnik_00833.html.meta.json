@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00833",
+  "source_url": "https://e-prawnik.pl/forum/getin-bank-wykupil-polise-bez-wiedzy-klienta.html",
+  "fetch_url": "https://e-prawnik.pl/forum/getin-bank-wykupil-polise-bez-wiedzy-klienta.html",
+  "archive_file": "e_prawnik/eprawnik_00833.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54744,
+  "sha256": "1c47ff5d304b6b5f57f0bf7d818ce2855a99a0475bb28a937597a390b2f27584",
+  "download_date": "2026-05-16T07:39:10Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

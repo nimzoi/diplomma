@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00910",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-po-pozarze-a-cesja-praw-ubezpieczenia-na-bank.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-po-pozarze-a-cesja-praw-ubezpieczenia-na-bank.html",
+  "archive_file": "e_prawnik/eprawnik_00910.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57037,
+  "sha256": "229ae296783f45512cb7824dd44342b1ec5b7a248aad4b8e9aabba4159b17c74",
+  "download_date": "2026-05-16T07:40:43Z",
+  "duration_sec": 0.212,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

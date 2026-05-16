@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00092",
+  "source_url": "https://forumprawne.org/watek/lewe-faktury-imienne.883044/",
+  "fetch_url": "https://forumprawne.org/watek/lewe-faktury-imienne.883044/",
+  "archive_file": "forumprawne/forumprawne_00092.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59161,
+  "sha256": "9b56e8225c2554fe6d160bdc8db15b38d47f8a0d58f9ff1b633219763ca7eab3",
+  "download_date": "2026-05-16T07:43:18Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

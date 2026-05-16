@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00711",
+  "source_url": "https://e-prawnik.pl/forum/zasadnosc-dlugoterminowego-najmu-pojazdu-zastepczego-z-oc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zasadnosc-dlugoterminowego-najmu-pojazdu-zastepczego-z-oc.html",
+  "archive_file": "e_prawnik/eprawnik_00711.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58245,
+  "sha256": "1fa0b71dbc47e15b658e0bf42b52bb9253df337f0e04dc83d7b44ece33516656",
+  "download_date": "2026-05-16T07:36:42Z",
+  "duration_sec": 0.878,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00079",
+  "source_url": "https://forumprawne.org/watek/czy-przysluguje-mi-gwarancja.883343/",
+  "fetch_url": "https://forumprawne.org/watek/czy-przysluguje-mi-gwarancja.883343/",
+  "archive_file": "forumprawne/forumprawne_00079.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60121,
+  "sha256": "c8221e2422e5cd00fc1a75897289d12f2ebc6890a1caf0eae0cd14371b48d850",
+  "download_date": "2026-05-16T07:43:03Z",
+  "duration_sec": 0.176,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

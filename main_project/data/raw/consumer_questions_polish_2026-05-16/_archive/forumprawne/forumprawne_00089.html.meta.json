@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00089",
+  "source_url": "https://forumprawne.org/watek/zakupy-na-pokazie-reklamowym.883114/",
+  "fetch_url": "https://forumprawne.org/watek/zakupy-na-pokazie-reklamowym.883114/",
+  "archive_file": "forumprawne/forumprawne_00089.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54171,
+  "sha256": "91a9e214b533dbc614a346deb86ce6446a97b6ff1b3ff2624655763109cd115a",
+  "download_date": "2026-05-16T07:43:15Z",
+  "duration_sec": 0.229,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

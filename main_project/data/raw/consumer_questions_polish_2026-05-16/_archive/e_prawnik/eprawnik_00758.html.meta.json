@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00758",
+  "source_url": "https://e-prawnik.pl/forum/witam-oplacam-indywidualne-ubezpieczenie-w-pzu-niedawno-zmarla-mi-tesciowa-wiec-nalezy-mi-sie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-oplacam-indywidualne-ubezpieczenie-w-pzu-niedawno-zmarla-mi-tesciowa-wiec-nalezy-mi-sie.html",
+  "archive_file": "e_prawnik/eprawnik_00758.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57490,
+  "sha256": "0213a7b6f7e1c132498b31912dfed88ddf9dbbb180250537568679060e64c474",
+  "download_date": "2026-05-16T07:37:40Z",
+  "duration_sec": 0.237,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

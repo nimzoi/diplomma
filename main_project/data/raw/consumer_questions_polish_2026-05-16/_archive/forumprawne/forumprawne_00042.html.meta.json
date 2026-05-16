@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00042",
+  "source_url": "https://forumprawne.org/watek/zakup-wybrakowanego-towaru.884123/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-wybrakowanego-towaru.884123/",
+  "archive_file": "forumprawne/forumprawne_00042.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 86933,
+  "sha256": "f46f8d4492415b18580b2abad2dbf86925d1b4d2e579ea0414ee2e8205f4d833",
+  "download_date": "2026-05-16T07:42:21Z",
+  "duration_sec": 0.094,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

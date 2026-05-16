@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00818",
+  "source_url": "https://e-prawnik.pl/forum/potracenie-na-pasach-odszkodowanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/potracenie-na-pasach-odszkodowanie.html",
+  "archive_file": "e_prawnik/eprawnik_00818.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58699,
+  "sha256": "666f8d43854204dc98e88e9bb1f42779b5fa3f1840758d9bba7b57aa236cb510",
+  "download_date": "2026-05-16T07:38:52Z",
+  "duration_sec": 0.255,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

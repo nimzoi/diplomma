@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00041",
+  "source_url": "https://forumprawne.org/watek/sprawa-rozdzielenia-rekompesat.884319/",
+  "fetch_url": "https://forumprawne.org/watek/sprawa-rozdzielenia-rekompesat.884319/",
+  "archive_file": "forumprawne/forumprawne_00041.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61180,
+  "sha256": "2ebdc068049067626d3188d545700c34917493136772fdeb1b7d73d18fc808bc",
+  "download_date": "2026-05-16T07:42:20Z",
+  "duration_sec": 0.124,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

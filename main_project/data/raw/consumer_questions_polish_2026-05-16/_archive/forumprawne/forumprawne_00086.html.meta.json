@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00086",
+  "source_url": "https://forumprawne.org/watek/bank-a-odpytania-w-bazie-bik-o-historie-kredytowa.883223/",
+  "fetch_url": "https://forumprawne.org/watek/bank-a-odpytania-w-bazie-bik-o-historie-kredytowa.883223/",
+  "archive_file": "forumprawne/forumprawne_00086.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53535,
+  "sha256": "0a33951fd947c97a900cfefb8fe6471f51a85d23f359743cdf63f7f810166b8f",
+  "download_date": "2026-05-16T07:43:11Z",
+  "duration_sec": 0.218,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

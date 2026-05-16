@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00103",
+  "source_url": "https://forumprawne.org/watek/bledne-prognozy-a-w-efekcie-horrendalne-faktury.882777/",
+  "fetch_url": "https://forumprawne.org/watek/bledne-prognozy-a-w-efekcie-horrendalne-faktury.882777/",
+  "archive_file": "forumprawne/forumprawne_00103.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 112945,
+  "sha256": "af83b379b2a05cf9d2f67eabbb78c0ee3e7bb3dc94ad36a58502565d5f4f16a8",
+  "download_date": "2026-05-16T07:43:31Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

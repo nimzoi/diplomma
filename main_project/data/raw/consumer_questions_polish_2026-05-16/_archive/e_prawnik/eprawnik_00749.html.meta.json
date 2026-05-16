@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00749",
+  "source_url": "https://e-prawnik.pl/forum/wlamanaie-do-samochodu-na-parkingu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wlamanaie-do-samochodu-na-parkingu.html",
+  "archive_file": "e_prawnik/eprawnik_00749.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57622,
+  "sha256": "875c519cf520ee303a2054d7d5c9950de41cf7e3f83bb1b8d20f2f4289cf3032",
+  "download_date": "2026-05-16T07:37:29Z",
+  "duration_sec": 0.248,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00837",
+  "source_url": "https://e-prawnik.pl/forum/cesja-polisy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/cesja-polisy.html",
+  "archive_file": "e_prawnik/eprawnik_00837.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55802,
+  "sha256": "dc4f25e8cfd88e98d055a894d91ebc9a87d8f3ed0e3a216f67bf2803868e613d",
+  "download_date": "2026-05-16T07:39:15Z",
+  "duration_sec": 0.143,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

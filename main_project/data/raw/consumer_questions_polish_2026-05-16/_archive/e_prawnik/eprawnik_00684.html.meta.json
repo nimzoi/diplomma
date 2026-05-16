@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00684",
+  "source_url": "https://e-prawnik.pl/forum/zakup-auta-bez-waznej-polisy-oc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zakup-auta-bez-waznej-polisy-oc.html",
+  "archive_file": "e_prawnik/eprawnik_00684.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56629,
+  "sha256": "dc1b2b7b82b67b9a3dcb30fbc1f980a9715cbeab9438a806be5a86f04218ba9e",
+  "download_date": "2026-05-16T07:36:07Z",
+  "duration_sec": 0.159,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

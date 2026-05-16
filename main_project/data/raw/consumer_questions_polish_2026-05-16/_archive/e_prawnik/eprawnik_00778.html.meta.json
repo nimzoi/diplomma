@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00778",
+  "source_url": "https://e-prawnik.pl/forum/czy-pozyczka-w-providencie-jest-ubezpieczona-na-wypadek-smierci-kredytobiorcy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-pozyczka-w-providencie-jest-ubezpieczona-na-wypadek-smierci-kredytobiorcy.html",
+  "archive_file": "e_prawnik/eprawnik_00778.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55159,
+  "sha256": "e5ed4cd929bb4683a0cda6e19598ebdb631412deaba483401fd11e455f232455",
+  "download_date": "2026-05-16T07:38:04Z",
+  "duration_sec": 0.227,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

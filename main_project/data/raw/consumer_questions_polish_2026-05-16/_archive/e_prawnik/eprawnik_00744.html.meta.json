@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00744",
+  "source_url": "https://e-prawnik.pl/forum/wypadek-komunikacyjny-awaria-sygnalizacji-swietlnej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wypadek-komunikacyjny-awaria-sygnalizacji-swietlnej.html",
+  "archive_file": "e_prawnik/eprawnik_00744.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56194,
+  "sha256": "a9c5acd374e8a3f42d262979de7914d83a3ed36cddf22e9ca21d83e8baa483b2",
+  "download_date": "2026-05-16T07:37:23Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

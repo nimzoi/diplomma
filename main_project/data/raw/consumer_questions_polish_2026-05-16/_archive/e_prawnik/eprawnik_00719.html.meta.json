@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00719",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-powypadkowe.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-powypadkowe.html",
+  "archive_file": "e_prawnik/eprawnik_00719.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59858,
+  "sha256": "b7531f5edc8692e6226950c73d8809f2d9beca39aef181d6290e50d6225bef3c",
+  "download_date": "2026-05-16T07:36:53Z",
+  "duration_sec": 0.229,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

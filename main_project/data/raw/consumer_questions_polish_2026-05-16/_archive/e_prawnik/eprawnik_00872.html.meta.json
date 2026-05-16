@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00872",
+  "source_url": "https://e-prawnik.pl/forum/jak-dostac-odszkodowanie-przy-obopolnej-winie-kierowcow.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jak-dostac-odszkodowanie-przy-obopolnej-winie-kierowcow.html",
+  "archive_file": "e_prawnik/eprawnik_00872.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54438,
+  "sha256": "1cf94c69c425a3412eabcbe9d65cb3fba3d05c90dcf20d5716a2996b292fca83",
+  "download_date": "2026-05-16T07:39:57Z",
+  "duration_sec": 0.186,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

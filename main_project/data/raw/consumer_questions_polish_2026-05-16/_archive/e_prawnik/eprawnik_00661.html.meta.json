@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00661",
+  "source_url": "https://e-prawnik.pl/forum/sprawa-sadowa-dot-odszkodowania-zakazenie-hcv.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprawa-sadowa-dot-odszkodowania-zakazenie-hcv.html",
+  "archive_file": "e_prawnik/eprawnik_00661.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58289,
+  "sha256": "3cf192028ac601db5f63c0d7db7695b0375f4c1ce9058ee2394a770e3e8f7bc1",
+  "download_date": "2026-05-16T07:35:40Z",
+  "duration_sec": 0.221,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

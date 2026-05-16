@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00915",
+  "source_url": "https://e-prawnik.pl/forum/cesja-z-ubezpieczenia-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/cesja-z-ubezpieczenia-1.html",
+  "archive_file": "e_prawnik/eprawnik_00915.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56839,
+  "sha256": "b0e15d65180f74161fdbbb2667acbbec811a654a549a8cef6e2c630cc0bae625",
+  "download_date": "2026-05-16T07:40:49Z",
+  "duration_sec": 0.14,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

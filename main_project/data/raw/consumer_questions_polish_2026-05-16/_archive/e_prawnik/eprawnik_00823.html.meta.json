@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00823",
+  "source_url": "https://e-prawnik.pl/forum/brak-odszkodowania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/brak-odszkodowania.html",
+  "archive_file": "e_prawnik/eprawnik_00823.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57863,
+  "sha256": "90bf17da016e5b97c37b1ea7dd47d50df6d08232804f0fba67c8dbe51af07d50",
+  "download_date": "2026-05-16T07:38:58Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

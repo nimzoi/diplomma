@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00100",
+  "source_url": "https://forumprawne.org/watek/zatarty-silnik-po-wymianie-czesci.882831/",
+  "fetch_url": "https://forumprawne.org/watek/zatarty-silnik-po-wymianie-czesci.882831/",
+  "archive_file": "forumprawne/forumprawne_00100.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59213,
+  "sha256": "ed2f7791d241dd2fa7ec237a5bb49cffe053d63fcda169b1e5e1393728cf641c",
+  "download_date": "2026-05-16T07:43:28Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

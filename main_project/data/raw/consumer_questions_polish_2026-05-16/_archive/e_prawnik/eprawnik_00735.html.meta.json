@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00735",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-a-alkohol.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-a-alkohol.html",
+  "archive_file": "e_prawnik/eprawnik_00735.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57590,
+  "sha256": "c230df88026bbc219e374809b3b86627678916d7ddb25dc4d50d3c1e9a4b5d6d",
+  "download_date": "2026-05-16T07:37:12Z",
+  "duration_sec": 0.206,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

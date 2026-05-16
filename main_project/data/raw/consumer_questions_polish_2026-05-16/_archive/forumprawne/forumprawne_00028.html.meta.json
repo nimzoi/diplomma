@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00028",
+  "source_url": "https://forumprawne.org/watek/nowe-mieszkanie-z-wada-ukryta-co-moge-zrobic.627916/",
+  "fetch_url": "https://forumprawne.org/watek/nowe-mieszkanie-z-wada-ukryta-co-moge-zrobic.627916/",
+  "archive_file": "forumprawne/forumprawne_00028.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70019,
+  "sha256": "f7f4a3acd74af2ece2fc8a2371a2e71352afdec12e9d3f5a9fe2505f9cd70320",
+  "download_date": "2026-05-16T07:42:05Z",
+  "duration_sec": 0.191,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

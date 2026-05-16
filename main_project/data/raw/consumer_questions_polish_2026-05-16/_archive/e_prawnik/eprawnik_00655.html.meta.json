@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00655",
+  "source_url": "https://e-prawnik.pl/forum/klauzule-zakazane-sprawdzenie-regulaminu-sklepu-internetowego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/klauzule-zakazane-sprawdzenie-regulaminu-sklepu-internetowego.html",
+  "archive_file": "e_prawnik/eprawnik_00655.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 73337,
+  "sha256": "7b6d04404eab1c44467f46f1b79847af0efbb3d8b25e26b4085cabd4861f0021",
+  "download_date": "2026-05-16T07:35:33Z",
+  "duration_sec": 0.256,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

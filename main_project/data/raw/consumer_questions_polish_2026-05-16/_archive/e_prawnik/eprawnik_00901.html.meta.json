@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00901",
+  "source_url": "https://e-prawnik.pl/forum/kwota-odszkodowania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kwota-odszkodowania.html",
+  "archive_file": "e_prawnik/eprawnik_00901.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56651,
+  "sha256": "c8f3d7de2d158124b9d4296629f2aa4b5410a5e3063344d5c0eac1f58128c335",
+  "download_date": "2026-05-16T07:40:31Z",
+  "duration_sec": 0.192,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

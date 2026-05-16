@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00714",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-z-tytulu-urodzenia-martwego-dziecka.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-z-tytulu-urodzenia-martwego-dziecka.html",
+  "archive_file": "e_prawnik/eprawnik_00714.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58875,
+  "sha256": "7b19c2cb58e167e175376eab658f0d8185549c6465f66f8d15715c3622e6d9ee",
+  "download_date": "2026-05-16T07:36:47Z",
+  "duration_sec": 0.479,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

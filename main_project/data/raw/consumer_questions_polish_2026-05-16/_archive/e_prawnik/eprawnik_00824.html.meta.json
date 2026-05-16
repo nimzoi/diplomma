@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00824",
+  "source_url": "https://e-prawnik.pl/forum/ubespieczenie-kredytu-miezkaniowiowegolikwidacja.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubespieczenie-kredytu-miezkaniowiowegolikwidacja.html",
+  "archive_file": "e_prawnik/eprawnik_00824.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54693,
+  "sha256": "32f7fce9debee2665aa36208a98f6a085a37fb95d5cbcdcc4dd40aa6d9d94e1a",
+  "download_date": "2026-05-16T07:38:59Z",
+  "duration_sec": 0.323,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -221,3 +221,6 @@ thesis_research/iter0_feasibility/
 # main_project/data/raw/
 # main_project/data/processed/
 
+# Playwright scrape debug snapshots (HTML/PDF dumps — regenerable)
+main_project/data/raw/**/_snapshots/
+

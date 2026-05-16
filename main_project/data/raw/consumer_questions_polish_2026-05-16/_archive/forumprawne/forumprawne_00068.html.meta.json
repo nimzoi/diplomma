@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00068",
+  "source_url": "https://forumprawne.org/watek/spor-z-allegro-prosze-o-opinie.883345/",
+  "fetch_url": "https://forumprawne.org/watek/spor-z-allegro-prosze-o-opinie.883345/",
+  "archive_file": "forumprawne/forumprawne_00068.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 134317,
+  "sha256": "03bfc9836a3fc81178662013762cfb0e28424781bcc8eab30a2bce2dd43af9d6",
+  "download_date": "2026-05-16T07:42:51Z",
+  "duration_sec": 0.134,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

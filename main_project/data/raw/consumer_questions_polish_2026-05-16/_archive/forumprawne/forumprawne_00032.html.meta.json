@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00032",
+  "source_url": "https://forumprawne.org/watek/czy-mam-obowiazek-udzielac-informacji-ze-nie-udzielam-reklamacji.884490/",
+  "fetch_url": "https://forumprawne.org/watek/czy-mam-obowiazek-udzielac-informacji-ze-nie-udzielam-reklamacji.884490/",
+  "archive_file": "forumprawne/forumprawne_00032.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65225,
+  "sha256": "a84bfac17999cd85899e41b14af2ff2528f2317309175b8fe2421a4dc7d3057d",
+  "download_date": "2026-05-16T07:42:10Z",
+  "duration_sec": 0.115,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

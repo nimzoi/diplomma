@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00673",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-od-lekarza.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-od-lekarza.html",
+  "archive_file": "e_prawnik/eprawnik_00673.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55933,
+  "sha256": "2bf5a50a353244c67101ad07876d9c71bf3e47d43921c8e865f01e05cc0f1feb",
+  "download_date": "2026-05-16T07:35:54Z",
+  "duration_sec": 0.209,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

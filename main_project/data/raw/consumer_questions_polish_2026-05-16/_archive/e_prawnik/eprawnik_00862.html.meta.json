@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00862",
+  "source_url": "https://e-prawnik.pl/forum/ile-dostane-za-spalenie-samochodu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ile-dostane-za-spalenie-samochodu.html",
+  "archive_file": "e_prawnik/eprawnik_00862.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56247,
+  "sha256": "ba31180b262e6fc6109ee6db7b0e3ab81088a3c356ef9feedf4b2a7f9d9cd0ad",
+  "download_date": "2026-05-16T07:39:45Z",
+  "duration_sec": 0.258,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

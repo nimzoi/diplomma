@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00680",
+  "source_url": "https://e-prawnik.pl/forum/warta-oszukuje.html",
+  "fetch_url": "https://e-prawnik.pl/forum/warta-oszukuje.html",
+  "archive_file": "e_prawnik/eprawnik_00680.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61086,
+  "sha256": "0b2bd49171928423f9af49d5c859a3a9e26662dce6b7e6ed662bdc8f2068d3e8",
+  "download_date": "2026-05-16T07:36:02Z",
+  "duration_sec": 0.112,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

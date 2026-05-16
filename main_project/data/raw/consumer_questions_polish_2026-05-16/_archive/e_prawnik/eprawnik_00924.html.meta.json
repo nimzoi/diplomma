@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00924",
+  "source_url": "https://e-prawnik.pl/forum/sylwestrowy-wypadek-z-petarda.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sylwestrowy-wypadek-z-petarda.html",
+  "archive_file": "e_prawnik/eprawnik_00924.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58419,
+  "sha256": "a48601d9a135653a6e320aed20f4a06758d8874313f9305c9ac4e0c7e32c832d",
+  "download_date": "2026-05-16T07:41:00Z",
+  "duration_sec": 0.17,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

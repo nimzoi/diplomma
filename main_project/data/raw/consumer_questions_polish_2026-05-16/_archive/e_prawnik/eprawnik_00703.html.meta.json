@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00703",
+  "source_url": "https://e-prawnik.pl/forum/ubezpieczenie-dla-lekarza.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubezpieczenie-dla-lekarza.html",
+  "archive_file": "e_prawnik/eprawnik_00703.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57256,
+  "sha256": "95e7cc04d89f1ddb08ab30fc1835863e65b81090cdca70da3d214a42ee3c606e",
+  "download_date": "2026-05-16T07:36:30Z",
+  "duration_sec": 0.313,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00634",
+  "source_url": "https://e-prawnik.pl/forum/zalanie-posesji-i-gruntu-przez-niedrozny-row-na-drodze-gminnej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zalanie-posesji-i-gruntu-przez-niedrozny-row-na-drodze-gminnej.html",
+  "archive_file": "e_prawnik/eprawnik_00634.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59895,
+  "sha256": "314abeeb92fb5dd804fe2264027fca5262e1df5f006cb57e11514d7a6dc6623e",
+  "download_date": "2026-05-16T07:35:08Z",
+  "duration_sec": 0.114,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

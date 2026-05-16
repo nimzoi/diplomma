@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00049",
+  "source_url": "https://forumprawne.org/watek/reklamacja-uslugi.884116/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-uslugi.884116/",
+  "archive_file": "forumprawne/forumprawne_00049.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 85927,
+  "sha256": "c6ebc76e746156a80247a2d2a8da209b1cfac7625833c557643ae139efb17c26",
+  "download_date": "2026-05-16T07:42:29Z",
+  "duration_sec": 0.217,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

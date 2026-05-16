@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00075",
+  "source_url": "https://forumprawne.org/watek/odwolane-wakacje-wakacje-pl.883423/",
+  "fetch_url": "https://forumprawne.org/watek/odwolane-wakacje-wakacje-pl.883423/",
+  "archive_file": "forumprawne/forumprawne_00075.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66389,
+  "sha256": "b54373734fd7241dbe2bd0353d75bb46ef92421339c4d9230a341a6da8802d4e",
+  "download_date": "2026-05-16T07:42:59Z",
+  "duration_sec": 0.115,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

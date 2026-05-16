@@ -2,13 +2,13 @@
   "sweep_date": "2026-05-16",
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36 (PJATK thesis citation-grounded polish RAG - consumer-rights-academic-research@pjwstk.edu.pl)",
   "sources": {
-    "federacja_e1": {
-      "entries": 192,
-      "errors": 0,
-      "total_bytes": 1944905
+    "rf_faq": {
+      "entries": 0,
+      "errors": 25,
+      "total_bytes": 0
     }
   },
-  "total_bytes": 1944905,
-  "total_entries": 192,
-  "total_errors": 0
+  "total_bytes": 0,
+  "total_entries": 0,
+  "total_errors": 25
 }

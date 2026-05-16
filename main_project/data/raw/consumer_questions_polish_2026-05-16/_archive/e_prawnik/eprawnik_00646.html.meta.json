@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00646",
+  "source_url": "https://e-prawnik.pl/forum/linia-wysokiego-napiecia-nad-dzialka.html",
+  "fetch_url": "https://e-prawnik.pl/forum/linia-wysokiego-napiecia-nad-dzialka.html",
+  "archive_file": "e_prawnik/eprawnik_00646.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59138,
+  "sha256": "43ac7bd282afc7a97602cebf9afb87aba14578e0fab60dbab693668793938a85",
+  "download_date": "2026-05-16T07:35:22Z",
+  "duration_sec": 0.197,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00675",
+  "source_url": "https://e-prawnik.pl/forum/blad-podczas-operacji-jakie-mam-prawa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/blad-podczas-operacji-jakie-mam-prawa.html",
+  "archive_file": "e_prawnik/eprawnik_00675.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55981,
+  "sha256": "32f4fe0030adc8d035098aa08570926148de4343f8be91acb3edf3dc0c4b2f00",
+  "download_date": "2026-05-16T07:35:56Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

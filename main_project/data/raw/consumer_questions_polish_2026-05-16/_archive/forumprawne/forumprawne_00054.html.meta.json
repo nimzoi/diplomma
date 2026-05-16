@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00054",
+  "source_url": "https://forumprawne.org/watek/duzy-wyciek-danych-z-serwisu-supergrosz-pl.883945/",
+  "fetch_url": "https://forumprawne.org/watek/duzy-wyciek-danych-z-serwisu-supergrosz-pl.883945/",
+  "archive_file": "forumprawne/forumprawne_00054.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58376,
+  "sha256": "d601a5da34ea5de53324621bc2d62760c565c704936a0a6c6108c5cd0bf42626",
+  "download_date": "2026-05-16T07:42:35Z",
+  "duration_sec": 0.156,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

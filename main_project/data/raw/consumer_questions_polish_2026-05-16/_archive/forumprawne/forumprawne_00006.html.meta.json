@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00006",
+  "source_url": "https://forumprawne.org/watek/przeczytaj-zanim-zadasz-pytanie.188637/",
+  "fetch_url": "https://forumprawne.org/watek/przeczytaj-zanim-zadasz-pytanie.188637/",
+  "archive_file": "forumprawne/forumprawne_00006.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61185,
+  "sha256": "2e266d137f87f2cbab64c6f90ca36bc14c86bd02bbe31dd6ec6904a7eaacd6df",
+  "download_date": "2026-05-16T07:41:39Z",
+  "duration_sec": 0.231,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

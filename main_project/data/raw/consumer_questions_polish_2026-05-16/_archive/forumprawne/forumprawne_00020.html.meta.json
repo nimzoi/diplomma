@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00020",
+  "source_url": "https://forumprawne.org/watek/nowa-lodowka-z-wadami-wymiana-na-nowa.884818/",
+  "fetch_url": "https://forumprawne.org/watek/nowa-lodowka-z-wadami-wymiana-na-nowa.884818/",
+  "archive_file": "forumprawne/forumprawne_00020.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 67693,
+  "sha256": "3756d1c4d48f71ce60f97444e79a80c6464dec868d431ca7a7d4e0366a21384d",
+  "download_date": "2026-05-16T07:41:56Z",
+  "duration_sec": 0.09,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

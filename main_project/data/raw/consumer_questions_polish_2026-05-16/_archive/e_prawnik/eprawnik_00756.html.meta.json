@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00756",
+  "source_url": "https://e-prawnik.pl/forum/dzien-dobry-mam-zalane-mieszkanie-zarzadzca-budynku-poinformowal-mnie-ze-usterka-nastapila-w.html",
+  "fetch_url": "https://e-prawnik.pl/forum/dzien-dobry-mam-zalane-mieszkanie-zarzadzca-budynku-poinformowal-mnie-ze-usterka-nastapila-w.html",
+  "archive_file": "e_prawnik/eprawnik_00756.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57445,
+  "sha256": "9713005aa8e3311f1cce50a07e862f07452c754e2ebafb83cc432fdc6efe7edf",
+  "download_date": "2026-05-16T07:37:38Z",
+  "duration_sec": 0.204,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00797",
+  "source_url": "https://e-prawnik.pl/forum/jak-napisac-odwolanie-od-decyzji-ubezpieczyciela-uszczerbek-na-zdrowiu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jak-napisac-odwolanie-od-decyzji-ubezpieczyciela-uszczerbek-na-zdrowiu.html",
+  "archive_file": "e_prawnik/eprawnik_00797.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53709,
+  "sha256": "aebbae9aa353e5886136b0caefe8396679016916139af5dd37498cd01462c6e6",
+  "download_date": "2026-05-16T07:38:27Z",
+  "duration_sec": 0.155,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

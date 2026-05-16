@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00710",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-z-powodu-smierci-ojca.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-z-powodu-smierci-ojca.html",
+  "archive_file": "e_prawnik/eprawnik_00710.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57731,
+  "sha256": "669196b94b92eb5098f2e96e5ac8ec7e97c0a37e9675fd04de76b12e610a1182",
+  "download_date": "2026-05-16T07:36:40Z",
+  "duration_sec": 0.563,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

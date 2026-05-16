@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00727",
+  "source_url": "https://e-prawnik.pl/forum/oszkodowanie-z-oc-sprawcy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/oszkodowanie-z-oc-sprawcy.html",
+  "archive_file": "e_prawnik/eprawnik_00727.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58795,
+  "sha256": "67b053d4b0661856f70dc8beda2488f3854b44ea7b3ed35b8082022a64b82d87",
+  "download_date": "2026-05-16T07:37:03Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

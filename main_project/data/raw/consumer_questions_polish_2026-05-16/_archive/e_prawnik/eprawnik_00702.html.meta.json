@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00702",
+  "source_url": "https://e-prawnik.pl/forum/potracony-przez-pijanego-kierowce-pozornie-latwa-sprawa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/potracony-przez-pijanego-kierowce-pozornie-latwa-sprawa.html",
+  "archive_file": "e_prawnik/eprawnik_00702.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57710,
+  "sha256": "5ed32874380ab03cf778343e6b3ac5a52ed334c642968b4f22c6d345c50c417c",
+  "download_date": "2026-05-16T07:36:29Z",
+  "duration_sec": 0.211,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

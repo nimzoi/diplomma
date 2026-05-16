@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00853",
+  "source_url": "https://e-prawnik.pl/forum/czy-pzu-ma-prawo-potracic-poszkodowanemu-koszt-franszyzna-od-odszkodowania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-pzu-ma-prawo-potracic-poszkodowanemu-koszt-franszyzna-od-odszkodowania.html",
+  "archive_file": "e_prawnik/eprawnik_00853.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58223,
+  "sha256": "d2e866015a40ef162e970ca80bb1d72a695e0c67bded09e3751d4d813763b6cb",
+  "download_date": "2026-05-16T07:39:34Z",
+  "duration_sec": 0.257,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

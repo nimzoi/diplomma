@@ -1,0 +1,111 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 15,
+  "entries": [
+    {
+      "article_id": "ure_0003_konsument",
+      "url": "https://www.ure.gov.pl/pl/konsumenci",
+      "status": 200,
+      "title": "Konsument",
+      "char_count": 617
+    },
+    {
+      "article_id": "ure_0004_pytania_i_odpowiedzi",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/faq-czesto-zadawane-py",
+      "status": 200,
+      "title": "Pytania i odpowiedzi",
+      "char_count": 309
+    },
+    {
+      "article_id": "ure_0005_no_title",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/faq-czesto-zadawane-py/4862,Pytania-i-odpowiedzi.pdf",
+      "status": 200,
+      "title": "(no title)",
+      "char_count": 11958
+    },
+    {
+      "article_id": "ure_0007_do_czego_zobowiazane_jest_przedsiebiorstwo_energet",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/faq-czesto-zadawane-py/cieplo",
+      "status": 200,
+      "title": "Do czego zobowiązane jest przedsiębiorstwo energetyczne w ramach standardów jakościowych obsługi odbiorców",
+      "char_count": 900
+    },
+    {
+      "article_id": "ure_0008_energia_elektryczna",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/faq-czesto-zadawane-py/energia-elektryczna",
+      "status": 200,
+      "title": "Energia elektryczna",
+      "char_count": 4575
+    },
+    {
+      "article_id": "ure_0009_gaz_ziemny",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/faq-czesto-zadawane-py/gaz-ziemny",
+      "status": 200,
+      "title": "Gaz ziemny",
+      "char_count": 1577
+    },
+    {
+      "article_id": "ure_0010_koordynator_ds_negocjacji_przy_prezesie_ure",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/koordynator",
+      "status": 200,
+      "title": "Koordynator ds. Negocjacji przy Prezesie URE",
+      "char_count": 1342
+    },
+    {
+      "article_id": "ure_0012_materia_informacyjny_urzedu_regulacji_energetyki_d",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/nieetyczne-praktyki-spr",
+      "status": 200,
+      "title": "Materiał informacyjny Urzędu Regulacji Energetyki dotyczący nieuczciwych działań niektórych przedstawicieli handlowych s",
+      "char_count": 4580
+    },
+    {
+      "article_id": "ure_0013_ostrzezenia_konsumenckie",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/ostrzezenia-konsumencki",
+      "status": 200,
+      "title": "Ostrzeżenia konsumenckie",
+      "char_count": 4208
+    },
+    {
+      "article_id": "ure_0014_poradnik_dla_odbiorcow_energii_i_paliw_gazowych",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/poradnik-odbiorcy",
+      "status": 200,
+      "title": "Poradnik dla Odbiorców Energii i Paliw Gazowych",
+      "char_count": 2072
+    },
+    {
+      "article_id": "ure_0015_punkt_informacyjny_dla_odbiorcow_energii_i_paliw_g",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/punkt-informacyjny-dla",
+      "status": 200,
+      "title": "Punkt Informacyjny dla Odbiorców Energii i Paliw Gazowych",
+      "char_count": 1809
+    },
+    {
+      "article_id": "ure_0016_rachunki_pod_kontrola_konsumenta",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/rachunki-pod-kontrola-konsumen",
+      "status": 200,
+      "title": "Rachunki pod kontrolą konsumenta",
+      "char_count": 1440
+    },
+    {
+      "article_id": "ure_0017_spory_i_skargi_informacje_dla_konsumentow",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/spory-i-skargi-informacje-dla",
+      "status": 200,
+      "title": "Spory i skargi - informacje dla konsumentów",
+      "char_count": 1845
+    },
+    {
+      "article_id": "ure_0018_warto_wiedziec_poradniki",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/warto-wiedziec-poradnik",
+      "status": 200,
+      "title": "Warto wiedzieć - poradniki",
+      "char_count": 332
+    },
+    {
+      "article_id": "ure_0019_zbior_praw_konsumenta",
+      "url": "https://www.ure.gov.pl/pl/konsumenci/zbior-praw-konsumenta",
+      "status": 200,
+      "title": "Zbiór praw konsumenta",
+      "char_count": 1421
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00662",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-obuwia-porady.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-obuwia-porady.html",
+  "archive_file": "e_prawnik/eprawnik_00662.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58474,
+  "sha256": "55f422ce918c5f20c79a5052d340bb834010deec529fc59a47834f4fab6b8337",
+  "download_date": "2026-05-16T07:35:41Z",
+  "duration_sec": 0.153,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

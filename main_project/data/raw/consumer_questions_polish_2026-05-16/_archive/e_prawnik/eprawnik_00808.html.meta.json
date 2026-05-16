@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00808",
+  "source_url": "https://e-prawnik.pl/forum/odmowa-wyplaty-swiadczenia-z-tytulu-zgonu-ubezpieczonego.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odmowa-wyplaty-swiadczenia-z-tytulu-zgonu-ubezpieczonego.html",
+  "archive_file": "e_prawnik/eprawnik_00808.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57059,
+  "sha256": "5547db9857c798bc004923e2e67e93a32fb6e35c49c9005264db3393d8c26a7e",
+  "download_date": "2026-05-16T07:38:40Z",
+  "duration_sec": 0.195,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

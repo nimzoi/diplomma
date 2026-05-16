@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00737",
+  "source_url": "https://e-prawnik.pl/forum/jakie-sa-obowiazki-ubezpieczyciela-tu-warta-chodzi-o-mieszkanie-dotzalania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jakie-sa-obowiazki-ubezpieczyciela-tu-warta-chodzi-o-mieszkanie-dotzalania.html",
+  "archive_file": "e_prawnik/eprawnik_00737.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62924,
+  "sha256": "e50e9f520b7ac8d70ea560ded2e3c70544c084f849d2e9db878acf9bbade5878",
+  "download_date": "2026-05-16T07:37:15Z",
+  "duration_sec": 0.205,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

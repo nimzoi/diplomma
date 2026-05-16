@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00844",
+  "source_url": "https://e-prawnik.pl/forum/jak-wyegzekwowac-wyplate-odszkodowania-z-ac-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jak-wyegzekwowac-wyplate-odszkodowania-z-ac-1.html",
+  "archive_file": "e_prawnik/eprawnik_00844.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57847,
+  "sha256": "9bab2db905c3318e478be28b03361eda6b701b0799dbe4dd84a8344c0cf8be6b",
+  "download_date": "2026-05-16T07:39:23Z",
+  "duration_sec": 0.141,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

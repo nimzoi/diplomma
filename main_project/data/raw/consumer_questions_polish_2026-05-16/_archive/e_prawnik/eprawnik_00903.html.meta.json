@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00903",
+  "source_url": "https://e-prawnik.pl/forum/tuw-pocztowe.html",
+  "fetch_url": "https://e-prawnik.pl/forum/tuw-pocztowe.html",
+  "archive_file": "e_prawnik/eprawnik_00903.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57967,
+  "sha256": "0d310741709d1f09cd2c92d07525bbd12d304c133c9019b888de7ed3e7c50f7a",
+  "download_date": "2026-05-16T07:40:34Z",
+  "duration_sec": 0.215,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

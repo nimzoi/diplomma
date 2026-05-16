@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00934",
+  "source_url": "https://e-prawnik.pl/forum/trudny-przypadek-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/trudny-przypadek-1.html",
+  "archive_file": "e_prawnik/eprawnik_00934.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57064,
+  "sha256": "3aed6af3e90ccd08a9eeaadfe6acdbf12bfa3c197ea43871199cc31494694029",
+  "download_date": "2026-05-16T07:41:12Z",
+  "duration_sec": 0.247,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

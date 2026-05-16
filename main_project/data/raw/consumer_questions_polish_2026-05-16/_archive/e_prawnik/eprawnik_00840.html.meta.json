@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00840",
+  "source_url": "https://e-prawnik.pl/forum/zmarly-maz-zlozyl-wniosek-o-zmiane-ubezpieczyciela.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zmarly-maz-zlozyl-wniosek-o-zmiane-ubezpieczyciela.html",
+  "archive_file": "e_prawnik/eprawnik_00840.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57643,
+  "sha256": "41e60cb8de6cad07f7901dcfa8befe74fc9bd0b110aaa8822d5ac4a63455e420",
+  "download_date": "2026-05-16T07:39:18Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

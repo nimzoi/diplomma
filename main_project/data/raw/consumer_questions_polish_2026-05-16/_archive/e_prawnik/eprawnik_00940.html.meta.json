@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00940",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-wypadek-z-dzikim-zwierzeciem-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-wypadek-z-dzikim-zwierzeciem-1.html",
+  "archive_file": "e_prawnik/eprawnik_00940.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57598,
+  "sha256": "5a0287b76a4b6930541d0663d3b56ba3fae40063b135ff3f5e0985fe3cf30975",
+  "download_date": "2026-05-16T07:41:19Z",
+  "duration_sec": 0.146,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

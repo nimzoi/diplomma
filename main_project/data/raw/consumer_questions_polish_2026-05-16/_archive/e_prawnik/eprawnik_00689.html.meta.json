@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00689",
+  "source_url": "https://e-prawnik.pl/forum/ubezpieczyciel-zwleka-z-wyplata.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubezpieczyciel-zwleka-z-wyplata.html",
+  "archive_file": "e_prawnik/eprawnik_00689.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58735,
+  "sha256": "e80bf556756fdefed218a9f682382e4a31a9bb9629e1d358cb6ac7e388be3391",
+  "download_date": "2026-05-16T07:36:13Z",
+  "duration_sec": 0.186,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

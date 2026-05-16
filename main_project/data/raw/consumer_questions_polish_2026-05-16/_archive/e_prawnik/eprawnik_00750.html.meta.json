@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00750",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-z-oc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-z-oc.html",
+  "archive_file": "e_prawnik/eprawnik_00750.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62884,
+  "sha256": "17ccfbb8cd6ea5a2ab5e521b32044aed534456c19589ec5df5fed48c44cf177a",
+  "download_date": "2026-05-16T07:37:31Z",
+  "duration_sec": 0.123,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00088",
+  "source_url": "https://forumprawne.org/watek/logowanie-sie-do-portali.883103/",
+  "fetch_url": "https://forumprawne.org/watek/logowanie-sie-do-portali.883103/",
+  "archive_file": "forumprawne/forumprawne_00088.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64512,
+  "sha256": "047683837e3f8f209ec95b858f2f027fb19c1eec3bfa0ea8dcb44d6cd0e09291",
+  "download_date": "2026-05-16T07:43:13Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00639",
+  "source_url": "https://e-prawnik.pl/forum/modernizacja-linii-energetycznej-a-odszkodowanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/modernizacja-linii-energetycznej-a-odszkodowanie.html",
+  "archive_file": "e_prawnik/eprawnik_00639.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56586,
+  "sha256": "b862b65f7404eb3eb9f3497d459ae98374b1b24792632fde6dba238490c0adae",
+  "download_date": "2026-05-16T07:35:14Z",
+  "duration_sec": 0.224,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

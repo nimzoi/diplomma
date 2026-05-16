@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00914",
+  "source_url": "https://e-prawnik.pl/forum/czy-ktos-wygral-z-pzu-proces-o-waloryzacje-polisy-posagowej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-ktos-wygral-z-pzu-proces-o-waloryzacje-polisy-posagowej.html",
+  "archive_file": "e_prawnik/eprawnik_00914.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58072,
+  "sha256": "e323d06bcefa491a4c02f050dba10a691f0ebe223a32d1c8421277acead0be81",
+  "download_date": "2026-05-16T07:40:48Z",
+  "duration_sec": 0.194,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

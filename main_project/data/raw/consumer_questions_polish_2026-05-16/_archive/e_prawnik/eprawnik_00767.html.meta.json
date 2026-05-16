@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00767",
+  "source_url": "https://e-prawnik.pl/forum/jakie-dokumenty-do-odszkodowania-z-pzu-po-smierci-macochy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jakie-dokumenty-do-odszkodowania-z-pzu-po-smierci-macochy.html",
+  "archive_file": "e_prawnik/eprawnik_00767.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54515,
+  "sha256": "3056a68ebddaacc2e083396c4242f612aaac04bf0409d6767e9b665a1d3d6bd3",
+  "download_date": "2026-05-16T07:37:51Z",
+  "duration_sec": 0.251,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

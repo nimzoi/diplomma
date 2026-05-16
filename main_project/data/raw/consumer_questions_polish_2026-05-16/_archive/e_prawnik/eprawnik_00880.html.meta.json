@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00880",
+  "source_url": "https://e-prawnik.pl/forum/zapalenie-samochodu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zapalenie-samochodu.html",
+  "archive_file": "e_prawnik/eprawnik_00880.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54624,
+  "sha256": "cf10d3ac10b71e27d0eb469853d3bd7f7dfc4b87afca3bce8cb0a2cba4aa280e",
+  "download_date": "2026-05-16T07:40:06Z",
+  "duration_sec": 0.14,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

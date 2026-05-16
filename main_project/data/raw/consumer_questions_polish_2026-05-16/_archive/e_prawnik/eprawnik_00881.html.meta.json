@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00881",
+  "source_url": "https://e-prawnik.pl/forum/utara-wartosci-samochodu-czy-moge-dostac-odszkodowanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/utara-wartosci-samochodu-czy-moge-dostac-odszkodowanie.html",
+  "archive_file": "e_prawnik/eprawnik_00881.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56987,
+  "sha256": "fa6b973b69c244b23123a3bc924cb4dc39679fb94d9cfa89e0f140ecdbb2b785",
+  "download_date": "2026-05-16T07:40:07Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

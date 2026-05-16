@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00884",
+  "source_url": "https://e-prawnik.pl/forum/zwlekanie-z-zaplata-za-odszkodowanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zwlekanie-z-zaplata-za-odszkodowanie.html",
+  "archive_file": "e_prawnik/eprawnik_00884.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57163,
+  "sha256": "e767b3541dbd8c83c18156a8f7adc3b7a6ce2319f46bb56e00f01d9a9a92779c",
+  "download_date": "2026-05-16T07:40:11Z",
+  "duration_sec": 0.228,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

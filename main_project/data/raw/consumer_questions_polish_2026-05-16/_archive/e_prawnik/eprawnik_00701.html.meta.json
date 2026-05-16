@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00701",
+  "source_url": "https://e-prawnik.pl/forum/karygodne-orzeczenie-sadu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/karygodne-orzeczenie-sadu.html",
+  "archive_file": "e_prawnik/eprawnik_00701.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60149,
+  "sha256": "ef5cde14e31070f5b99628f67aaec92153aeaefb1df7d3ad69669c53f68bef9e",
+  "download_date": "2026-05-16T07:36:28Z",
+  "duration_sec": 0.178,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

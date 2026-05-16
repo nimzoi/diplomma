@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00686",
+  "source_url": "https://e-prawnik.pl/forum/otrzymanie-doplaty-do-odszkodowania-po-sprzedazy-szkody.html",
+  "fetch_url": "https://e-prawnik.pl/forum/otrzymanie-doplaty-do-odszkodowania-po-sprzedazy-szkody.html",
+  "archive_file": "e_prawnik/eprawnik_00686.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55758,
+  "sha256": "8680f904373c0b43c9c18110e083885f807d25b4723a066556b0f3ab66e07a32",
+  "download_date": "2026-05-16T07:36:10Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

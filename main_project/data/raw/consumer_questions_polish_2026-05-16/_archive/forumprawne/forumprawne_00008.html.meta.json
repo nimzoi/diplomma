@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00008",
+  "source_url": "https://forumprawne.org/watek/ustawa-o-ochronie-niektorych-praw-konsumentow-oraz-o-odpowiedzialnosci-za-szkode.160736/",
+  "fetch_url": "https://forumprawne.org/watek/ustawa-o-ochronie-niektorych-praw-konsumentow-oraz-o-odpowiedzialnosci-za-szkode.160736/",
+  "archive_file": "forumprawne/forumprawne_00008.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 140804,
+  "sha256": "7c0587f37642f547ae672d870ba1722d2526e019a3e9abcaecf1a49b91b060fc",
+  "download_date": "2026-05-16T07:41:42Z",
+  "duration_sec": 0.283,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

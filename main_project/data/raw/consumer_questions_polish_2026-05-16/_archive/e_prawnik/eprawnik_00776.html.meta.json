@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00776",
+  "source_url": "https://e-prawnik.pl/forum/czy-wdowa-otrzyma-z-pzu-odszkodowanie-za-tescia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-wdowa-otrzyma-z-pzu-odszkodowanie-za-tescia.html",
+  "archive_file": "e_prawnik/eprawnik_00776.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55923,
+  "sha256": "03269bc09c1f5a198e005b845ba1287f500bd64f151ec901ee9d9e32e7b33caa",
+  "download_date": "2026-05-16T07:38:02Z",
+  "duration_sec": 0.135,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

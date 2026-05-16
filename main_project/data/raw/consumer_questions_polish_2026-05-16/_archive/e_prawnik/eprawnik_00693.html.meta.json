@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00693",
+  "source_url": "https://e-prawnik.pl/forum/ubezpieczenie-ac.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubezpieczenie-ac.html",
+  "archive_file": "e_prawnik/eprawnik_00693.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59275,
+  "sha256": "6c309b99e3757c103bd839e1c54b5bd3f41994098eb2f1ee1e73fa859fc3c2e2",
+  "download_date": "2026-05-16T07:36:18Z",
+  "duration_sec": 0.218,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

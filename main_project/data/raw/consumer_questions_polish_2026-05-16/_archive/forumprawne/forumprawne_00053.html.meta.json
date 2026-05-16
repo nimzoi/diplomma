@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00053",
+  "source_url": "https://forumprawne.org/watek/odmowa-odebrania-przesylki.883973/",
+  "fetch_url": "https://forumprawne.org/watek/odmowa-odebrania-przesylki.883973/",
+  "archive_file": "forumprawne/forumprawne_00053.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 87646,
+  "sha256": "2872d71d88b3f0ba080c7a7bf0b769c309b33ccada87b886e77417085b5aa83d",
+  "download_date": "2026-05-16T07:42:34Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

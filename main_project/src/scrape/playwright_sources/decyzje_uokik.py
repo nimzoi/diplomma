@@ -37,11 +37,12 @@ Usage::
 from __future__ import annotations
 
 import argparse
+import contextlib
 import logging
 import re
 import sys
 from dataclasses import dataclass, field
-from datetime import date, datetime
+from datetime import datetime
 from io import BytesIO
 from pathlib import Path
 from typing import Any
@@ -59,8 +60,6 @@ from .common import (
     extract_citations,
     extract_kara_pln,
     normalize_pl,
-    save_snapshot,
-    write_jsonl,
     write_meta,
 )
 
@@ -215,10 +214,8 @@ def _harvest_listing_page(page: Page, start: int) -> list[_DecyzjaListEntry]:
         logger.warning("  listing failed at start=%d", start)
         return []
     # Networkidle nie zawsze działa (WAF JS spins forever); użyj timeout.
-    try:
+    with contextlib.suppress(Exception):
         page.wait_for_load_state("networkidle", timeout=20_000)
-    except Exception:
-        pass
     page.wait_for_timeout(4_000)
     # Czekaj na pojawienie się linków (do 15s).
     try:
@@ -375,8 +372,9 @@ def scrape_decyzje_uokik(
         # Step 2 — filter consumer + download.
         if consumer_filter:
             filtered = [e for e in entries if _is_consumer_category(e.kategoria)]
+            pct = 100 * len(filtered) / max(len(entries), 1)
             stats.notes += (
-                f"consumer filter: {len(entries)} → {len(filtered)} ({100*len(filtered)/max(len(entries),1):.1f}%); "
+                f"consumer filter: {len(entries)} → {len(filtered)} ({pct:.1f}%); "
             )
             entries = filtered
         # Hard cap.
@@ -387,7 +385,9 @@ def scrape_decyzje_uokik(
             if skip_existing and meta_path.exists():
                 logger.info("skip existing %s", entry.decyzja_id)
                 stats.skipped += 1
-                stats.skip_reasons["already_exists"] = stats.skip_reasons.get("already_exists", 0) + 1
+                stats.skip_reasons["already_exists"] = (
+                    stats.skip_reasons.get("already_exists", 0) + 1
+                )
                 continue
 
             sess.throttle()

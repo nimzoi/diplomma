@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00892",
+  "source_url": "https://e-prawnik.pl/forum/potracenie-pieszego-lusterkiem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/potracenie-pieszego-lusterkiem.html",
+  "archive_file": "e_prawnik/eprawnik_00892.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57092,
+  "sha256": "94ed6c5117916d7371d36a353f3e4d851fb4a4f648b29e7c1c83dbdc8cd25e79",
+  "download_date": "2026-05-16T07:40:21Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

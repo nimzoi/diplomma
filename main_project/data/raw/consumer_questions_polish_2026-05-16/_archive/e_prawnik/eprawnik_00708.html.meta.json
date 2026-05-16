@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00708",
+  "source_url": "https://e-prawnik.pl/forum/pomoc-z-ubezpieczeniem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pomoc-z-ubezpieczeniem.html",
+  "archive_file": "e_prawnik/eprawnik_00708.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57880,
+  "sha256": "33d506bf1f4ff235ba68b7c13f3f43b87d3800116238749c6814198f66b84554",
+  "download_date": "2026-05-16T07:36:37Z",
+  "duration_sec": 0.454,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

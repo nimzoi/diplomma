@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00056",
+  "source_url": "https://forumprawne.org/watek/zle-podpiete-mieszkanie-do-licznika-energii.883920/",
+  "fetch_url": "https://forumprawne.org/watek/zle-podpiete-mieszkanie-do-licznika-energii.883920/",
+  "archive_file": "forumprawne/forumprawne_00056.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55468,
+  "sha256": "bb890b4386ff5d189f0fd54168f17817a0b9c9557b33f4cb040bf57b78f5f64b",
+  "download_date": "2026-05-16T07:42:37Z",
+  "duration_sec": 0.196,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

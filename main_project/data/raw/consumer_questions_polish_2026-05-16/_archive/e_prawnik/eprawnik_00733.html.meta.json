@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00733",
+  "source_url": "https://e-prawnik.pl/forum/blad-lekarzy-w-leczeniu-zlamanej-nogi.html",
+  "fetch_url": "https://e-prawnik.pl/forum/blad-lekarzy-w-leczeniu-zlamanej-nogi.html",
+  "archive_file": "e_prawnik/eprawnik_00733.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59990,
+  "sha256": "d988befa85e5850f2cfe451406c94f5f887055de14ed85d95b76e1da0a8fd10e",
+  "download_date": "2026-05-16T07:37:10Z",
+  "duration_sec": 0.305,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

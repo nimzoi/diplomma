@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00096",
+  "source_url": "https://forumprawne.org/watek/zwrot-kosztow-przesylki-reklamacyjnej.882908/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-kosztow-przesylki-reklamacyjnej.882908/",
+  "archive_file": "forumprawne/forumprawne_00096.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 110385,
+  "sha256": "2fc83623269f33801afaca6ad71c7ef47830ea16049fa1b0aa1ff7c81e4c4db6",
+  "download_date": "2026-05-16T07:43:23Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

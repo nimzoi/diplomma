@@ -20,7 +20,6 @@ import json
 from pathlib import Path
 
 import pytest
-
 from src.scrape.playwright_sources.common import (
     count_words,
     extract_citations,
@@ -42,7 +41,6 @@ from src.scrape.playwright_sources.sn_orzeczenia import (
     _parse_polish_date_to_iso,
     _sn_id,
 )
-
 
 # ---------------------------------------------------------------------------
 # common.py — pure helpers
@@ -149,8 +147,11 @@ class TestDecyzjeUokikParser:
 
 class TestOrzeczeniaExpansion:
     def test_doc_id_from_url(self) -> None:
-        url = "https://orzeczenia.ms.gov.pl/content/$N/153505100000503_I_C_000448_2020_Uz_2021-09-16_001"
-        assert _doc_id_from_url(url).startswith("orz_153505100000503_I_C_000448_2020_Uz_2021_09_16_001")
+        base = "https://orzeczenia.ms.gov.pl/content/$N/"
+        suffix = "153505100000503_I_C_000448_2020_Uz_2021-09-16_001"
+        url = base + suffix
+        expected_prefix = "orz_153505100000503_I_C_000448_2020_Uz_2021_09_16_001"
+        assert _doc_id_from_url(url).startswith(expected_prefix)
 
     def test_chunk_long_text_no_headings(self) -> None:
         body = "ala ma kota " * 200  # ~2400 chars
@@ -175,7 +176,7 @@ class TestOrzeczeniaExpansion:
         ch = OrzeczenieChunk(
             chunk_id="orz_X_chunk_001",
             document_id="orz_X",
-            document_title="I C 1/24 – wyrok",
+            document_title="I C 1/24 – wyrok",  # noqa: RUF001 -- compat z E4 schema
             document_type="orzeczenie",
             source="orzeczenia.ms.gov.pl",
             source_url="https://example.com",

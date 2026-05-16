@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00791",
+  "source_url": "https://e-prawnik.pl/forum/jakie-dokumenty-do-pzu-za-smierc-tescia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jakie-dokumenty-do-pzu-za-smierc-tescia.html",
+  "archive_file": "e_prawnik/eprawnik_00791.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56273,
+  "sha256": "526ef5fd75b0c1b847d2ce3ded43c81a05431e7bf9c6b87dc379dd093b3e6a54",
+  "download_date": "2026-05-16T07:38:20Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

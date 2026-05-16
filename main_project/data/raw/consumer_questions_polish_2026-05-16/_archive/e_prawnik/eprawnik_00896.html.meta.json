@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00896",
+  "source_url": "https://e-prawnik.pl/forum/pijany-rowerzysta-i-brak-odszkodowania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pijany-rowerzysta-i-brak-odszkodowania.html",
+  "archive_file": "e_prawnik/eprawnik_00896.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57703,
+  "sha256": "087c843f69296625be46e3ef4513b5abec586c0f38200fc0d03e67b2845a7911",
+  "download_date": "2026-05-16T07:40:25Z",
+  "duration_sec": 0.173,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

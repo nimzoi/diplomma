@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00943",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-od-ubezpieczyciela-administracji-3.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-od-ubezpieczyciela-administracji-3.html",
+  "archive_file": "e_prawnik/eprawnik_00943.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58645,
+  "sha256": "2e47ff71a3975e0b51bfd8aee4d98525427c9a207aed2e59ae05710006ef7a6e",
+  "download_date": "2026-05-16T07:41:23Z",
+  "duration_sec": 0.209,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

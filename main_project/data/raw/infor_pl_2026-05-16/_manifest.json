@@ -1,0 +1,678 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 96,
+  "entries": [
+    {
+      "article_id": "infor_0001_mandat_za_brak_gwarancji_po_polsku",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/101489,Mandat-za-brak-gwarancji-po-polsku.html",
+      "status": 200,
+      "title": "Mandat za brak gwarancji po polsku",
+      "char_count": 2266
+    },
+    {
+      "article_id": "infor_0002_gwarancja_a_odpowiedzialnosc_ustawowa_sprzedawcy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/217707,Gwarancja-a-odpowiedzialnosc-ustawowa-sprzedawcy.html",
+      "status": 200,
+      "title": "Gwarancja a odpowiedzialność ustawowa sprzedawcy",
+      "char_count": 2826
+    },
+    {
+      "article_id": "infor_0003_gwarancja_a_uprawnienia_z_tytuu_niezgodnosci_towar",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/231400,Gwarancja-a-uprawnienia-z-tytulu-niezgodnosci-towaru-z-umowa.html",
+      "status": 200,
+      "title": "Gwarancja a uprawnienia z tytułu niezgodności towaru z umową",
+      "char_count": 9287
+    },
+    {
+      "article_id": "infor_0004_czym_sie_wyroznia_gwarancja_konsumencka",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/231743,Czym-sie-wyroznia-gwarancja-konsumencka.html",
+      "status": 200,
+      "title": "Czym się wyróżnia gwarancja konsumencka?",
+      "char_count": 2449
+    },
+    {
+      "article_id": "infor_0005_czy_sprzedawca_musi_wydac_gwarancje",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/251480,Czy-sprzedawca-musi-wydac-gwarancje.html",
+      "status": 200,
+      "title": "Czy sprzedawca musi wydać gwarancję?",
+      "char_count": 2409
+    },
+    {
+      "article_id": "infor_0006_czy_gwarancja_rzeczywiscie_opaca_sie_konsumentowi_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/254094,Czy-gwarancja-rzeczywiscie-oplaca-sie-konsumentowi-cz-1.html",
+      "status": 200,
+      "title": "Czy gwarancja rzeczywiście opłaca się konsumentowi? - cz. 1",
+      "char_count": 2828
+    },
+    {
+      "article_id": "infor_0007_czy_gwarancja_rzeczywiscie_opaca_sie_konsumentowi_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/254097,Czy-gwarancja-rzeczywiscie-oplaca-sie-konsumentowi-cz-2.html",
+      "status": 200,
+      "title": "Czy gwarancja rzeczywiście opłaca się konsumentowi? – cz. 2",
+      "char_count": 2683
+    },
+    {
+      "article_id": "infor_0008_rekojmia_niezgodnosc_towaru_z_umowa_a_gwarancja_ja",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/278696,Rekojmia-niezgodnosc-towaru-z-umowa-a-gwarancja-jakosci.html",
+      "status": 200,
+      "title": "Rękojmia, niezgodność towaru z umową a gwarancja jakości",
+      "char_count": 5351
+    },
+    {
+      "article_id": "infor_0009_co_zrobic_gdy_skonczy_sie_gwarancja",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/280309,Co-zrobic-gdy-skonczy-sie-gwarancja.html",
+      "status": 200,
+      "title": "Co zrobić, gdy skończy się gwarancja?",
+      "char_count": 2377
+    },
+    {
+      "article_id": "infor_0010_prawa_konsumentow_gwarancja_cz_1",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/286402,Prawa-konsumentow-Gwarancja-cz-1.html",
+      "status": 200,
+      "title": "Prawa konsumentów. Gwarancja – cz. 1",
+      "char_count": 2515
+    },
+    {
+      "article_id": "infor_0011_prawa_konsumentow_gwarancja_cz_2",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/286408,Prawa-konsumentow-Gwarancja-cz-2.html",
+      "status": 200,
+      "title": "Prawa konsumentów. Gwarancja – cz. 2",
+      "char_count": 2569
+    },
+    {
+      "article_id": "infor_0012_gwarancja_czy_reklamacja",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289301,Gwarancja-czy-reklamacja.html",
+      "status": 200,
+      "title": "Gwarancja czy reklamacja?",
+      "char_count": 4539
+    },
+    {
+      "article_id": "infor_0013_przeduzajaca_sie_naprawa_gwarancyjna_co_zrobic",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289302,Przedluzajaca-sie-naprawa-gwarancyjna-co-zrobic.html",
+      "status": 200,
+      "title": "Przedłużająca się naprawa gwarancyjna – co zrobić?",
+      "char_count": 4063
+    },
+    {
+      "article_id": "infor_0014_reklamacja_tylko_na_podstawie_gwarancji",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289308,Reklamacja-tylko-na-podstawie-gwarancji.html",
+      "status": 200,
+      "title": "„Reklamacja tylko na podstawie gwarancji”",
+      "char_count": 3737
+    },
+    {
+      "article_id": "infor_0015_zgubiona_gwarancja_co_zrobic",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289674,Zgubiona-gwarancja-co-zrobic.html",
+      "status": 200,
+      "title": "Zgubiona gwarancja – co zrobić?",
+      "char_count": 2581
+    },
+    {
+      "article_id": "infor_0016_gwarancja_konsumencka_kompendium",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/289991,Gwarancja-konsumencka-kompendium.html",
+      "status": 200,
+      "title": "Gwarancja konsumencka – kompendium",
+      "char_count": 2744
+    },
+    {
+      "article_id": "infor_0017_co_polacy_wiedza_o_gwarancji_i_rekojmi",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/5701960,co-polacy-wiedza-o-gwarancji-i-rekojmi.html",
+      "status": 200,
+      "title": "Co Polacy wiedzą o gwarancji i rękojmi",
+      "char_count": 2936
+    },
+    {
+      "article_id": "infor_0018_czy_na_podstawie_wyblakego_paragonu_mozna_podbic_k",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/686668,Czy-na-podstawie-wyblaklego-paragonu-mozna-podbic-karte-gwarancyjna.html",
+      "status": 200,
+      "title": "Czy na podstawie wyblakłego paragonu można podbić kartę gwarancyjną?",
+      "char_count": 3771
+    },
+    {
+      "article_id": "infor_0019_czy_gwarancja_wyacza_reklamacje",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/84591,Czy-gwarancja-wylacza-reklamacje.html",
+      "status": 200,
+      "title": "Czy gwarancja wyłącza reklamację?",
+      "char_count": 1098
+    },
+    {
+      "article_id": "infor_0020_reklamacja_do_sprzedawcy_czy_do_gwaranta",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/84787,Reklamacja-do-sprzedawcy-czy-do-gwaranta.html",
+      "status": 200,
+      "title": "Reklamacja do sprzedawcy czy do gwaranta",
+      "char_count": 12294
+    },
+    {
+      "article_id": "infor_0021_gwarancja_nie_obejmuje_wszystkiego",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/91832,Gwarancja-nie-obejmuje-wszystkiego.html",
+      "status": 200,
+      "title": "Gwarancja nie obejmuje wszystkiego",
+      "char_count": 1212
+    },
+    {
+      "article_id": "infor_0022_naprawa_gwarancyjna",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/92990,Naprawa-gwarancyjna.html",
+      "status": 200,
+      "title": "Naprawa gwarancyjna",
+      "char_count": 1140
+    },
+    {
+      "article_id": "infor_0023_gwarancja_europejska",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/gwarancja/94489,Gwarancja-europejska.html",
+      "status": 200,
+      "title": "Gwarancja europejska",
+      "char_count": 1403
+    },
+    {
+      "article_id": "infor_0024_szkoda_wyrzadzona_przez_produkt_niebezpieczny",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/100533,Szkoda-wyrzadzona-przez-produkt-niebezpieczny.html",
+      "status": 200,
+      "title": "Szkoda wyrządzona przez produkt niebezpieczny",
+      "char_count": 2204
+    },
+    {
+      "article_id": "infor_0025_gdzie_zozyc_reklamacje_niedziaajacej_komorki",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/101484,Gdzie-zlozyc-reklamacje-niedzialajacej-komorki.html",
+      "status": 200,
+      "title": "Gdzie złożyć reklamacje niedziałającej komórki",
+      "char_count": 2337
+    },
+    {
+      "article_id": "infor_0026_czy_sprzedawca_moze_odesac_do_producenta",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/217238,Czy-sprzedawca-moze-odeslac-do-producenta.html",
+      "status": 200,
+      "title": "Czy sprzedawca może odesłać do producenta",
+      "char_count": 2268
+    },
+    {
+      "article_id": "infor_0027_gdy_wady_ujawnia_sie_w_krotkim_czasie_po_zakupie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/217666,Gdy-wady-ujawnia-sie-w-krotkim-czasie-po-zakupie.html",
+      "status": 200,
+      "title": "Gdy wady ujawnią się w krótkim czasie po zakupie",
+      "char_count": 3747
+    },
+    {
+      "article_id": "infor_0028_jaka_forma_oswiadczenia_o_odstapieniu_od_umowy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/220049,Jaka-forma-oswiadczenia-o-odstapieniu-od-umowy.html",
+      "status": 200,
+      "title": "Jaka forma oświadczenia o odstąpieniu od umowy",
+      "char_count": 2785
+    },
+    {
+      "article_id": "infor_0029_czy_sprzedawca_ma_prawo_domagac_sie_paragonu_przy_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/220066,Czy-sprzedawca-ma-prawo-domagac-sie-paragonu-przy-reklamacji.html",
+      "status": 200,
+      "title": "Czy sprzedawca ma prawo domagać się paragonu przy reklamacji",
+      "char_count": 1984
+    },
+    {
+      "article_id": "infor_0030_po_co_konsumentowi_opinia_rzeczoznawcy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/226128,Po-co-konsumentowi-opinia-rzeczoznawcy.html",
+      "status": 200,
+      "title": "Po co konsumentowi opinia rzeczoznawcy",
+      "char_count": 3624
+    },
+    {
+      "article_id": "infor_0031_czy_zwlekajac_z_reklamacja_konsument_moze_stracic_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/228920,Czy-zwlekajac-z-reklamacja-konsument-moze-stracic-uprawnienia.html",
+      "status": 200,
+      "title": "Czy zwlekając z reklamacją konsument może stracić uprawnienia",
+      "char_count": 2916
+    },
+    {
+      "article_id": "infor_0032_po_nieudanej_naprawie_mozna_odstapic_od_umowy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/235265,Po-nieudanej-naprawie-mozna-odstapic-od-umowy.html",
+      "status": 200,
+      "title": "Po nieudanej naprawie można odstąpić od umowy",
+      "char_count": 2390
+    },
+    {
+      "article_id": "infor_0033_co_zrobic_gdy_sprzedawca_nie_odpowiedzia_na_reklam",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/246005,Co-zrobic-gdy-sprzedawca-nie-odpowiedzial-na-reklamacje.html",
+      "status": 200,
+      "title": "Co zrobić, gdy sprzedawca nie odpowiedział na reklamację?",
+      "char_count": 2203
+    },
+    {
+      "article_id": "infor_0034_jak_wyegzekwowac_swoje_prawa_przy_reklamacji",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/250299,Jak-wyegzekwowac-swoje-prawa-przy-reklamacji.html",
+      "status": 200,
+      "title": "Jak wyegzekwować swoje prawa przy reklamacji?",
+      "char_count": 3023
+    },
+    {
+      "article_id": "infor_0035_czy_informacja_o_istniejacych_wadach_wyklucza_rekl",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/250496,Czy-informacja-o-istniejacych-wadach-wyklucza-reklamacje.html",
+      "status": 200,
+      "title": "Czy informacja o istniejących wadach wyklucza reklamację?",
+      "char_count": 2482
+    },
+    {
+      "article_id": "infor_0036_jak_reklamowac_zywnosc",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/250703,Jak-reklamowac-zywnosc.html",
+      "status": 200,
+      "title": "Jak reklamować żywność?",
+      "char_count": 2120
+    },
+    {
+      "article_id": "infor_0037_nie_rozpatrujemy_reklamacji_czyli_jak_nie_dac_sie_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/256086,Nie-rozpatrujemy-reklamacji-czyli-jak-nie-dac-sie-oszukac-sprzedawcy.html",
+      "status": 200,
+      "title": "„Nie rozpatrujemy reklamacji” – czyli jak nie dać się oszukać sprzedawcy?",
+      "char_count": 2171
+    },
+    {
+      "article_id": "infor_0038_rekojmia_a_gwarancja_uprawnienia_konsumenta_przy_u",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/262671,Rekojmia-a-gwarancja-uprawnienia-konsumenta-przy-umowie-sprzedazy.html",
+      "status": 200,
+      "title": "Rękojmia a gwarancja - uprawnienia konsumenta przy umowie sprzedaży",
+      "char_count": 3988
+    },
+    {
+      "article_id": "infor_0039_czy_zy_rozmiar_ubrania_uprawnia_do_reklamacji",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/268163,Czy-zly-rozmiar-ubrania-uprawnia-do-reklamacji.html",
+      "status": 200,
+      "title": "Czy zły rozmiar ubrania uprawnia do reklamacji?",
+      "char_count": 1664
+    },
+    {
+      "article_id": "infor_0040_kto_ponosi_koszty_transportu_przy_reklamacji",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/268455,Kto-ponosi-koszty-transportu-przy-reklamacji.html",
+      "status": 200,
+      "title": "Kto ponosi koszty transportu przy reklamacji?",
+      "char_count": 2444
+    },
+    {
+      "article_id": "infor_0041_jak_czytac_odpowiedz_sprzedawcy_na_reklamacje",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/271344,Jak-czytac-odpowiedz-sprzedawcy-na-reklamacje.html",
+      "status": 200,
+      "title": "Jak czytać odpowiedź sprzedawcy na reklamację?",
+      "char_count": 4617
+    },
+    {
+      "article_id": "infor_0042_gdzie_reklamowac_zepsuta_komorke",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/272999,Gdzie-reklamowac-zepsuta-komorke.html",
+      "status": 200,
+      "title": "Gdzie reklamować zepsutą komórkę?",
+      "char_count": 3454
+    },
+    {
+      "article_id": "infor_0043_czy_mozna_skadac_reklamacje_w_innym_sklepie",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/273992,Czy-mozna-skladac-reklamacje-w-innym-sklepie.html",
+      "status": 200,
+      "title": "Czy można składać reklamację w innym sklepie?",
+      "char_count": 3284
+    },
+    {
+      "article_id": "infor_0044_wieszjak_radzi_co_musisz_wiedziec_o_reklamacji_tow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274298,WieszJak-radzi-Co-musisz-wiedziec-o-reklamacji-towarow.html",
+      "status": 200,
+      "title": "WieszJak radzi: Co musisz wiedzieć o reklamacji towarów?",
+      "char_count": 2231
+    },
+    {
+      "article_id": "infor_0045_co_musisz_wiedziec_o_reklamacji_towarow_cz_1",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274301,Co-musisz-wiedziec-o-reklamacji-towarow-cz-1.html",
+      "status": 200,
+      "title": "Co musisz wiedzieć o reklamacji towarów? - cz. 1",
+      "char_count": 2922
+    },
+    {
+      "article_id": "infor_0046_co_musisz_wiedziec_o_reklamacji_towarow_cz_2",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274414,Co-musisz-wiedziec-o-reklamacji-towarow-cz-2.html",
+      "status": 200,
+      "title": "Co musisz wiedzieć o reklamacji towarów? – cz. 2",
+      "char_count": 3256
+    },
+    {
+      "article_id": "infor_0047_co_musisz_wiedziec_o_reklamacji_towarow_cz_3",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274489,Co-musisz-wiedziec-o-reklamacji-towarow-cz-3.html",
+      "status": 200,
+      "title": "Co musisz wiedzieć o reklamacji towarów? - cz. 3",
+      "char_count": 3322
+    },
+    {
+      "article_id": "infor_0048_co_warto_wiedziec_zanim_zozysz_reklamacje",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/274493,Co-warto-wiedziec-zanim-zlozysz-reklamacje.html",
+      "status": 200,
+      "title": "Co warto wiedzieć, zanim złożysz reklamację?",
+      "char_count": 2662
+    },
+    {
+      "article_id": "infor_0049_czego_mozna_zadac_przy_reklamacji_towaru",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/279338,Czego-mozna-zadac-przy-reklamacji-towaru.html",
+      "status": 200,
+      "title": "Czego można żądać przy reklamacji towaru?",
+      "char_count": 2452
+    },
+    {
+      "article_id": "infor_0050_nie_opaca_sie_zwlekac_z_reklamacja",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/279937,Nie-oplaca-sie-zwlekac-z-reklamacja.html",
+      "status": 200,
+      "title": "Nie opłaca się zwlekać z reklamacją",
+      "char_count": 2774
+    },
+    {
+      "article_id": "infor_0051_czy_konsument_musi_pacic_za_nieuznana_reklamacje",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/280654,Czy-konsument-musi-placic-za-nieuznana-reklamacje.html",
+      "status": 200,
+      "title": "Czy konsument musi płacić za nieuznaną reklamację?",
+      "char_count": 2439
+    },
+    {
+      "article_id": "infor_0052_ile_czasu_powinna_trwac_reklamacja",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/285011,Ile-czasu-powinna-trwac-reklamacja.html",
+      "status": 200,
+      "title": "Ile czasu powinna trwać reklamacja?",
+      "char_count": 2934
+    },
+    {
+      "article_id": "infor_0053_czy_reklamacja_przecenionego_towaru_jest_mozliwa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/285087,Czy-reklamacja-przecenionego-towaru-jest-mozliwa.html",
+      "status": 200,
+      "title": "Czy reklamacja przecenionego towaru jest możliwa?",
+      "char_count": 2802
+    },
+    {
+      "article_id": "infor_0054_czy_reklamacja_bez_gwarancja_jest_mozliwa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/285090,Czy-reklamacja-bez-gwarancja-jest-mozliwa.html",
+      "status": 200,
+      "title": "Czy reklamacja bez gwarancja jest możliwa?",
+      "char_count": 2803
+    },
+    {
+      "article_id": "infor_0055_reklamacja_leasingowanego_samochodu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/289676,Reklamacja-leasingowanego-samochodu.html",
+      "status": 200,
+      "title": "Reklamacja leasingowanego samochodu",
+      "char_count": 3299
+    },
+    {
+      "article_id": "infor_0056_czy_sprzedawca_moze_zatrzymac_reklamowany_towar",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/289905,Czy-sprzedawca-moze-zatrzymac-reklamowany-towar.html",
+      "status": 200,
+      "title": "Czy sprzedawca może zatrzymać reklamowany towar?",
+      "char_count": 3334
+    },
+    {
+      "article_id": "infor_0057_reklamacja_przeterminowanej_zywnosci",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/292901,Reklamacja-przeterminowanej-zywnosci.html",
+      "status": 200,
+      "title": "Reklamacja przeterminowanej żywności",
+      "char_count": 2866
+    },
+    {
+      "article_id": "infor_0058_oswiadczenie_konsumenta_o_odstapieniu_od_umowy_wzo",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/293245,Oswiadczenie-konsumenta-o-odstapieniu-od-umowy-WZOR-PISMA.html",
+      "status": 200,
+      "title": "Oświadczenie konsumenta o odstąpieniu od umowy - WZÓR PISMA",
+      "char_count": 1144
+    },
+    {
+      "article_id": "infor_0059_w_jaki_sposob_reklamowac_artykuy_spozywcze",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/321314,W-jaki-sposob-reklamowac-artykuly-spozywcze.html",
+      "status": 200,
+      "title": "W jaki sposób reklamować artykuły spożywcze?",
+      "char_count": 4187
+    },
+    {
+      "article_id": "infor_0060_reklamacje_po_powrocie_z_wycieczki",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/322680,Reklamacje-po-powrocie-z-wycieczki.html",
+      "status": 200,
+      "title": "Reklamacje po powrocie z wycieczki",
+      "char_count": 7531
+    },
+    {
+      "article_id": "infor_0061_rekojmia_zmiany_w_projekcie_ustawy_o_prawach_konsu",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5168154,Rekojmia-zmiany-w-projekcie-ustawy-o-prawach-konsumenta.html",
+      "status": 200,
+      "title": "Rękojmia - zmiany w projekcie ustawy o prawach konsumenta",
+      "char_count": 3583
+    },
+    {
+      "article_id": "infor_0062_jak_zozyc_reklamacje_na_problemy_z_ustawowymi_waka",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5561315,Jak-zlozyc-reklamacje-na-ustawowe-wakacje-kredytowe.html",
+      "status": 200,
+      "title": "Jak złożyć reklamację na problemy z ustawowymi wakacjami kredytowymi?",
+      "char_count": 3206
+    },
+    {
+      "article_id": "infor_0063_wakacyjna_reklamacja_jak_egzekwowac_swoje_prawa",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5569788,Wakacje-reklamacja-prawa.html",
+      "status": 200,
+      "title": "Wakacyjna reklamacja - jak egzekwować swoje prawa?",
+      "char_count": 4291
+    },
+    {
+      "article_id": "infor_0064_prawa_konsumenta_oczami_polakow_czy_znamy_je_bardz",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5701461,prawa-konsumenta-czy-znasz-badanie.html",
+      "status": 200,
+      "title": "Prawa konsumenta oczami Polaków. Czy znamy je bardzo dobrze?",
+      "char_count": 2434
+    },
+    {
+      "article_id": "infor_0065_sztuczne_promocje_i_zawyzanie_cen_pamietaj_o_tej_w",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/5838407,czy-polscy-konsumenci-slyszeli-o-dyrektywie-omnibus.html",
+      "status": 200,
+      "title": "Sztuczne promocje i zawyżanie cen? Pamiętaj o tej ważnej dyrektywie!",
+      "char_count": 3495
+    },
+    {
+      "article_id": "infor_0066_o_zgode_na_przetwarzanie_danych_reklamujacego_trze",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/685532,O-zgode-na-przetwarzanie-danych-reklamujacego-trzeba-sie-zapytac.html",
+      "status": 200,
+      "title": "O zgodę na przetwarzanie danych reklamującego trzeba się zapytać",
+      "char_count": 3218
+    },
+    {
+      "article_id": "infor_0067_rzecznik_konsumentow_pomoze_w_reklamacji",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/685743,Rzecznik-konsumentow-pomoze-w-reklamacji.html",
+      "status": 200,
+      "title": "Rzecznik konsumentów pomoże w reklamacji",
+      "char_count": 4860
+    },
+    {
+      "article_id": "infor_0068_importer_takze_odpowiada_za_szkody_wyrzadzone_prze",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/685771,Importer-takze-odpowiada-za-szkody-wyrzadzone-przez-produkt-niebezpieczny.html",
+      "status": 200,
+      "title": "Importer także odpowiada za szkody wyrządzone przez produkt niebezpieczny",
+      "char_count": 2565
+    },
+    {
+      "article_id": "infor_0069_jak_wyegzekwowac_przesanie_karty_gwarancyjnej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/686127,Jak-wyegzekwowac-przeslanie-karty-gwarancyjnej.html",
+      "status": 200,
+      "title": "Jak wyegzekwować przesłanie karty gwarancyjnej",
+      "char_count": 1659
+    },
+    {
+      "article_id": "infor_0070_co_zrobic_gdy_zaginie_bagaz_na_lotnisku",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/694839,Co-zrobic-gdy-zaginie-bagaz-na-lotnisku.html",
+      "status": 200,
+      "title": "Co zrobić, gdy zaginie bagaż na lotnisku?",
+      "char_count": 2796
+    },
+    {
+      "article_id": "infor_0071_reklamacja_imprezy_turystycznej",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/760605,Reklamacja-imprezy-turystycznej.html",
+      "status": 200,
+      "title": "Reklamacja imprezy turystycznej",
+      "char_count": 5303
+    },
+    {
+      "article_id": "infor_0072_czy_mozna_zareklamowac_usuge_fryzjerska",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/763112,Czy-mozna-zareklamowac-usluge-fryzjerska.html",
+      "status": 200,
+      "title": "Czy można zareklamować usługę fryzjerską?",
+      "char_count": 4150
+    },
+    {
+      "article_id": "infor_0073_czy_mozna_zareklamowac_towar_kupiony_na_promocji",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/767616,Czy-mozna-zareklamowac-towar-kupiony-na-promocji.html",
+      "status": 200,
+      "title": "Czy można zareklamować towar kupiony na promocji?",
+      "char_count": 2583
+    },
+    {
+      "article_id": "infor_0074_kiedy_sprzedawca_nie_odpowiada_za_wady_z_tytuu_rek",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/768310,Kiedy-sprzedawca-nie-odpowiada-za-wady-z-tytulu-rekojmi.html",
+      "status": 200,
+      "title": "Kiedy sprzedawca nie odpowiada za wady z tytułu rękojmi?",
+      "char_count": 2637
+    },
+    {
+      "article_id": "infor_0075_zaginiona_przesyka_co_robic",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/784870,Zaginiona-przesylka-co-robic.html",
+      "status": 200,
+      "title": "Zaginiona przesyłka – co robić?",
+      "char_count": 5260
+    },
+    {
+      "article_id": "infor_0076_czy_mozna_reklamowac_artykuy_zywnosciowe",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/84572,Czy-mozna-reklamowac-artykuly-zywnosciowe.html",
+      "status": 200,
+      "title": "Czy można reklamować artykuły żywnościowe",
+      "char_count": 1810
+    },
+    {
+      "article_id": "infor_0077_reklamacja_u_sprzedawcy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/84597,Reklamacja-u-sprzedawcy.html",
+      "status": 200,
+      "title": "Reklamacja u sprzedawcy",
+      "char_count": 1454
+    },
+    {
+      "article_id": "infor_0078_czy_brak_odpowiedzi_oznacza_uznanie_reklamacji",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/84609,Czy-brak-odpowiedzi-oznacza-uznanie-reklamacji.html",
+      "status": 200,
+      "title": "Czy brak odpowiedzi oznacza uznanie reklamacji",
+      "char_count": 1204
+    },
+    {
+      "article_id": "infor_0079_jakie_obowiazki_ma_przedsiebiorstwo_energetyczne",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86129,Jakie-obowiazki-ma-przedsiebiorstwo-energetyczne.html",
+      "status": 200,
+      "title": "Jakie obowiązki ma przedsiębiorstwo energetyczne",
+      "char_count": 6753
+    },
+    {
+      "article_id": "infor_0080_towar_promocyjny_tez_mozna_reklamowac",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86187,Towar-promocyjny-tez-mozna-reklamowac.html",
+      "status": 200,
+      "title": "Towar promocyjny też można reklamować",
+      "char_count": 2782
+    },
+    {
+      "article_id": "infor_0081_gdzie_szukac_pomocy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86215,Gdzie-szukac-pomocy.html",
+      "status": 200,
+      "title": "Gdzie szukać pomocy?",
+      "char_count": 3479
+    },
+    {
+      "article_id": "infor_0082_najczestsze_problemy_na_rynku_energii",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86221,Najczestsze-problemy-na-rynku-energii.html",
+      "status": 200,
+      "title": "Najczęstsze problemy na rynku energii",
+      "char_count": 7906
+    },
+    {
+      "article_id": "infor_0083_rynek_telekomunikacyjny",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86239,Rynek-telekomunikacyjny.html",
+      "status": 200,
+      "title": "Rynek telekomunikacyjny",
+      "char_count": 11997
+    },
+    {
+      "article_id": "infor_0084_czy_do_reklamacji_trzeba_zaaczyc_uszkodzone_opakow",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86785,Czy-do-reklamacji-trzeba-zalaczyc-uszkodzone-opakowanie.html",
+      "status": 200,
+      "title": "Czy do reklamacji trzeba załączyć uszkodzone opakowanie",
+      "char_count": 1153
+    },
+    {
+      "article_id": "infor_0085_do_kogo_po_ekspertyze",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86851,Do-kogo-po-ekspertyze.html",
+      "status": 200,
+      "title": "Do kogo po ekspertyzę",
+      "char_count": 1784
+    },
+    {
+      "article_id": "infor_0086_gdzie_zozyc_reklamacje_jezeli_producent_juz_nie_is",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/86857,Gdzie-zlozyc-reklamacje-jezeli-producent-juz-nie-istnieje.html",
+      "status": 200,
+      "title": "Gdzie złożyć reklamacje jeżeli producent już nie istnieje",
+      "char_count": 1239
+    },
+    {
+      "article_id": "infor_0087_przemyslane_zakupy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/87120,Przemyslane-zakupy.html",
+      "status": 200,
+      "title": "Przemyślane zakupy",
+      "char_count": 2779
+    },
+    {
+      "article_id": "infor_0088_co_i_jak_reklamujemy",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/88167,Co-i-jak-reklamujemy.html",
+      "status": 200,
+      "title": "Co i jak reklamujemy",
+      "char_count": 6762
+    },
+    {
+      "article_id": "infor_0089_najczestsze_problemy_przy_korzystaniu_z_uprawnien_",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/88325,Najczestsze-problemy-przy-korzystaniu-z-uprawnien-gwarancyjnych.html",
+      "status": 200,
+      "title": "Najczęstsze problemy przy korzystaniu z uprawnień gwarancyjnych",
+      "char_count": 2726
+    },
+    {
+      "article_id": "infor_0090_atwiejsze_reklamacje_w_sklepach_internetowych",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/89299,Latwiejsze-reklamacje-w-sklepach-internetowych.html",
+      "status": 200,
+      "title": "Łatwiejsze reklamacje w sklepach internetowych",
+      "char_count": 2582
+    },
+    {
+      "article_id": "infor_0091_kto_udziela_odpowiedzi_na_reklamacje",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/92991,Kto-udziela-odpowiedzi-na-reklamacje.html",
+      "status": 200,
+      "title": "Kto udziela odpowiedzi na reklamacje",
+      "char_count": 1223
+    },
+    {
+      "article_id": "infor_0092_po_co_drzec_koty_czyli_kampania_na_rzecz_sadow_kon",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/93240,Po-co-drzec-koty-czyli-kampania-na-rzecz-sadow-konsumenckich.html",
+      "status": 200,
+      "title": "'Po co drzeć koty?', czyli kampania na rzecz sądów konsumenckich",
+      "char_count": 3238
+    },
+    {
+      "article_id": "infor_0093_usugi_gastronomiczne_sa_coraz_gorsze",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/96174,Uslugi-gastronomiczne-sa-coraz-gorsze.html",
+      "status": 200,
+      "title": "Usługi gastronomiczne są coraz gorsze",
+      "char_count": 2923
+    },
+    {
+      "article_id": "infor_0094_co_pijemy_czyli_wyniki_kontroli_kawy_i_herbaty",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/96365,Co-pijemy-czyli-wyniki-kontroli-kawy-i-herbaty.html",
+      "status": 200,
+      "title": "Co pijemy, czyli wyniki kontroli kawy i herbaty",
+      "char_count": 4631
+    },
+    {
+      "article_id": "infor_0095_reklamacja_towaru",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/98022,Reklamacja-towaru.html",
+      "status": 200,
+      "title": "Reklamacja towaru",
+      "char_count": 4447
+    },
+    {
+      "article_id": "infor_0096_jak_dziaaja_placowki_pocztowe",
+      "url": "https://www.infor.pl/prawo/prawa-konsumenta/reklamacja/98529,Jak-dzialaja-placowki-pocztowe.html",
+      "status": 200,
+      "title": "Jak działają placówki pocztowe",
+      "char_count": 4805
+    }
+  ]
+}

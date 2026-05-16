@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00817",
+  "source_url": "https://e-prawnik.pl/forum/link-4-ac.html",
+  "fetch_url": "https://e-prawnik.pl/forum/link-4-ac.html",
+  "archive_file": "e_prawnik/eprawnik_00817.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57106,
+  "sha256": "326a1fd28f8a8df708d5d4365eb70f461f9369e2e21313f21bafdc84404e9461",
+  "download_date": "2026-05-16T07:38:51Z",
+  "duration_sec": 0.224,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

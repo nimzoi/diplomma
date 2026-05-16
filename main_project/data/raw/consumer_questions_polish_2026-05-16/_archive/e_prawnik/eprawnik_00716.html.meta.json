@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00716",
+  "source_url": "https://e-prawnik.pl/forum/cd.html",
+  "fetch_url": "https://e-prawnik.pl/forum/cd.html",
+  "archive_file": "e_prawnik/eprawnik_00716.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57419,
+  "sha256": "f58b8bfdc2c134a32da2affd33da8caea0a4661f97329c8eb69bf3176e829ab8",
+  "download_date": "2026-05-16T07:36:49Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

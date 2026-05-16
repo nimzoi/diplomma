@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00076",
+  "source_url": "https://forumprawne.org/watek/rekojmia-brak-zwrotu-towaru.883412/",
+  "fetch_url": "https://forumprawne.org/watek/rekojmia-brak-zwrotu-towaru.883412/",
+  "archive_file": "forumprawne/forumprawne_00076.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52685,
+  "sha256": "3cc9fe642824b22f810efbe26d3848f74c6801d997a3fe76dec078ba57518e4c",
+  "download_date": "2026-05-16T07:43:00Z",
+  "duration_sec": 0.086,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

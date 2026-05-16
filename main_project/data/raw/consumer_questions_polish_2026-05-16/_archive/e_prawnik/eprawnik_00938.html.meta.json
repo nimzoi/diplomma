@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00938",
+  "source_url": "https://e-prawnik.pl/forum/czy-musze-placic-rate-za-oc-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-musze-placic-rate-za-oc-1.html",
+  "archive_file": "e_prawnik/eprawnik_00938.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54860,
+  "sha256": "374e82d52e8f55047a0781ed816a99d1eb5118554fe24bf18d832001646081a8",
+  "download_date": "2026-05-16T07:41:17Z",
+  "duration_sec": 0.257,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

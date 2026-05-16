@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00672",
+  "source_url": "https://e-prawnik.pl/forum/w-szpitalu-zle-zlozyli-reke.html",
+  "fetch_url": "https://e-prawnik.pl/forum/w-szpitalu-zle-zlozyli-reke.html",
+  "archive_file": "e_prawnik/eprawnik_00672.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54984,
+  "sha256": "2ed4865a546ea3a55d2f4f56aa9375c5a044a8b70d51bc9401987dae0765a20d",
+  "download_date": "2026-05-16T07:35:53Z",
+  "duration_sec": 0.138,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

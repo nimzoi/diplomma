@@ -35,10 +35,10 @@ License: urzędowe (Art. 4 ust. 2 PrAut).
 from __future__ import annotations
 
 import argparse
+import contextlib
 import logging
 import re
 import sys
-import unicodedata
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import Any
@@ -52,7 +52,6 @@ from .common import (
     ScrapeStats,
     count_words,
     normalize_pl,
-    save_snapshot,
     write_jsonl,
     write_meta,
 )
@@ -199,10 +198,8 @@ def _search_for_phrase(page: Page, phrase: str, max_pages: int = 5) -> list[dict
     logger.info("search phrase=%r", phrase)
     if not page.goto(SEARCH_URL, timeout=60_000):
         return []
-    try:
+    with contextlib.suppress(Exception):
         page.wait_for_load_state("networkidle", timeout=15_000)
-    except Exception:
-        pass
     page.wait_for_timeout(2_000)
 
     # Fill phrase input.
@@ -246,10 +243,8 @@ def _search_for_phrase(page: Page, phrase: str, max_pages: int = 5) -> list[dict
             btn = page.query_selector(sel)
             if btn:
                 btn.click(timeout=10_000)
-                try:
+                with contextlib.suppress(Exception):
                     page.wait_for_load_state("networkidle", timeout=15_000)
-                except Exception:
-                    pass
                 page.wait_for_timeout(1_500)
                 nav_clicked = True
         except Exception:
@@ -313,10 +308,8 @@ def _scrape_orzeczenie_page(page: Page, url: str) -> dict[str, Any] | None:
     fetch_url = _details_to_content_url(url)
     if not page.goto(fetch_url, timeout=60_000):
         return None
-    try:
+    with contextlib.suppress(Exception):
         page.wait_for_load_state("networkidle", timeout=15_000)
-    except Exception:
-        pass
     page.wait_for_timeout(1_500)
 
     # Title — z H1/H2.
@@ -346,10 +339,8 @@ def _scrape_orzeczenie_page(page: Page, url: str) -> dict[str, Any] | None:
     except Exception as exc:
         logger.warning("  body extract failed: %s", exc)
     if not body or len(body) < 300:
-        try:
+        with contextlib.suppress(Exception):
             body = normalize_pl(page.locator("body").inner_text())
-        except Exception:
-            pass
 
     # Sygnatura, court, date z tytułu i body.
     syg_match = _SYG_PARSE_RE.match(title)
@@ -394,7 +385,12 @@ def _build_chunks_for_orzeczenie(
 
     sections = _chunk_long_text(body, headings=headings or None)
     total = len(sections)
-    doc_title = f"{parsed['sygnatura']} – wyrok" if parsed["sygnatura"] else parsed["title"][:120]
+    # EN DASH dla compat z E4 baseline schema (orzeczenia/documents.jsonl).
+    doc_title = (
+        f"{parsed['sygnatura']} – wyrok"  # noqa: RUF001
+        if parsed["sygnatura"]
+        else parsed["title"][:120]
+    )
     chunks: list[OrzeczenieChunk] = []
     for j, (sec_title, sec_body) in enumerate(sections, start=1):
         chunks.append(
@@ -475,7 +471,11 @@ def scrape_orzeczenia_ms_expansion(
                     seen_urls.add(r["url"])
                     url_pool.append(r)
         stats.attempted = len(url_pool)
-        logger.info("URL pool: %d unique orzeczenia URLs across %d keywords", len(url_pool), len(keywords))
+        logger.info(
+            "URL pool: %d unique orzeczenia URLs across %d keywords",
+            len(url_pool),
+            len(keywords),
+        )
 
         # Phase 2 — scrape per-orzeczenie.
         for item in url_pool:
@@ -484,7 +484,9 @@ def scrape_orzeczenia_ms_expansion(
             if doc_id in existing_doc_ids:
                 logger.info("skip existing %s", doc_id)
                 stats.skipped += 1
-                stats.skip_reasons["already_exists"] = stats.skip_reasons.get("already_exists", 0) + 1
+                stats.skip_reasons["already_exists"] = (
+                    stats.skip_reasons.get("already_exists", 0) + 1
+                )
                 continue
             sess.throttle()
             try:

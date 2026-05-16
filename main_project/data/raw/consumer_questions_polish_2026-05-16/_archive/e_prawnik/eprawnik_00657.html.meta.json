@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00657",
+  "source_url": "https://e-prawnik.pl/forum/odpowiedzialnosc-w-umowie-o-dzielo-prosze-o-wskazowki-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odpowiedzialnosc-w-umowie-o-dzielo-prosze-o-wskazowki-1.html",
+  "archive_file": "e_prawnik/eprawnik_00657.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55658,
+  "sha256": "ac0960e38c82015dc1327cd734c7fe12d45d77a6b6d83b8aeb5bdeb5d31a6250",
+  "download_date": "2026-05-16T07:35:35Z",
+  "duration_sec": 0.249,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

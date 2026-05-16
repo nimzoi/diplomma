@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00953",
+  "source_url": "https://e-prawnik.pl/forum/r-e-g-r-e-s.html",
+  "fetch_url": "https://e-prawnik.pl/forum/r-e-g-r-e-s.html",
+  "archive_file": "e_prawnik/eprawnik_00953.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58415,
+  "sha256": "a18545c5f6d5d8af1247caf04a8b79896b92d7d5d5e0254c82de3d24a2c647c0",
+  "download_date": "2026-05-16T07:41:35Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

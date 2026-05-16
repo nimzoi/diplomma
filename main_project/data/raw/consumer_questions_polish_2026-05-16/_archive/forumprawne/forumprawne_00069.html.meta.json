@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00069",
+  "source_url": "https://forumprawne.org/watek/termin-na-zlozenie-reklamacji.883536/",
+  "fetch_url": "https://forumprawne.org/watek/termin-na-zlozenie-reklamacji.883536/",
+  "archive_file": "forumprawne/forumprawne_00069.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52834,
+  "sha256": "e62a3fb1a2a10ddc23f19c265e9dc7c5e4281a207d28d82880276d6fa148ed65",
+  "download_date": "2026-05-16T07:42:52Z",
+  "duration_sec": 0.177,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

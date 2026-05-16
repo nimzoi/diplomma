@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00918",
+  "source_url": "https://e-prawnik.pl/forum/wezwanie-do-splaty-oc-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wezwanie-do-splaty-oc-1.html",
+  "archive_file": "e_prawnik/eprawnik_00918.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55349,
+  "sha256": "f5a04ad046d30937f97e8a60bfad824a6160588bd35877e2c84dadc34dd332e1",
+  "download_date": "2026-05-16T07:40:52Z",
+  "duration_sec": 0.304,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

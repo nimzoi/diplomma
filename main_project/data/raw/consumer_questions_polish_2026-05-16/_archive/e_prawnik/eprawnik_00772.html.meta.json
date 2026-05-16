@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00772",
+  "source_url": "https://e-prawnik.pl/forum/odwolanie-od-decyzji-zakladu-ubezpieczen-2012.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odwolanie-od-decyzji-zakladu-ubezpieczen-2012.html",
+  "archive_file": "e_prawnik/eprawnik_00772.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57622,
+  "sha256": "d088ab540cfabe5ae1e1783ab661867dbb6cb39af7c3ab2b2d76cc25a8d8f56e",
+  "download_date": "2026-05-16T07:37:57Z",
+  "duration_sec": 0.223,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

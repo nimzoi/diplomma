@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00779",
+  "source_url": "https://e-prawnik.pl/forum/witam-pzu-odmowilo-mojemu-mezowi-wyplatyodszkodowania-z-polisy-dodatkowego-ubezp-grupowego-na.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-pzu-odmowilo-mojemu-mezowi-wyplatyodszkodowania-z-polisy-dodatkowego-ubezp-grupowego-na.html",
+  "archive_file": "e_prawnik/eprawnik_00779.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58653,
+  "sha256": "3fcd35500da5ba1d8affdbcdfd49f7e4b232fc00629dc32012796b0584db1141",
+  "download_date": "2026-05-16T07:38:05Z",
+  "duration_sec": 0.132,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

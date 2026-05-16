@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00815",
+  "source_url": "https://e-prawnik.pl/forum/likwidacja-szkody.html",
+  "fetch_url": "https://e-prawnik.pl/forum/likwidacja-szkody.html",
+  "archive_file": "e_prawnik/eprawnik_00815.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59079,
+  "sha256": "b294e7b9fe6eaca2e628ea475cb41a8b3bf5bec625b778ecb5febd7b33884518",
+  "download_date": "2026-05-16T07:38:48Z",
+  "duration_sec": 0.182,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

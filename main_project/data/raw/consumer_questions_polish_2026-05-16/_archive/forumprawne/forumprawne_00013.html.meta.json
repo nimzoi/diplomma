@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00013",
+  "source_url": "https://forumprawne.org/watek/zakup-nowego-auta-a-ok-20-wad-lakierniczych.885078/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-nowego-auta-a-ok-20-wad-lakierniczych.885078/",
+  "archive_file": "forumprawne/forumprawne_00013.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 168446,
+  "sha256": "5ebab563d25b61649c1e03ae9104af4de45d07e060eadc0544de3a93e1afa8b3",
+  "download_date": "2026-05-16T07:41:48Z",
+  "duration_sec": 0.096,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

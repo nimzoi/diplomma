@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00846",
+  "source_url": "https://e-prawnik.pl/forum/odwolanie-od-decyzji-ubezpieczyciela.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odwolanie-od-decyzji-ubezpieczyciela.html",
+  "archive_file": "e_prawnik/eprawnik_00846.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56018,
+  "sha256": "264278e6d3bb5fb3712f7c985bb511b074f98e7404b8a53ebf107b90daa5b3c9",
+  "download_date": "2026-05-16T07:39:26Z",
+  "duration_sec": 0.162,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

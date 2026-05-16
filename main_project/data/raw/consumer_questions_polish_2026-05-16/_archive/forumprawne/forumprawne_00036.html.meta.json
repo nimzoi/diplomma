@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00036",
+  "source_url": "https://forumprawne.org/watek/przesylka-kurierska.884372/",
+  "fetch_url": "https://forumprawne.org/watek/przesylka-kurierska.884372/",
+  "archive_file": "forumprawne/forumprawne_00036.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60537,
+  "sha256": "4f0600fffd37d688126121932b163ba51b691264f3178131ea26a6d3e4a6a508",
+  "download_date": "2026-05-16T07:42:14Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

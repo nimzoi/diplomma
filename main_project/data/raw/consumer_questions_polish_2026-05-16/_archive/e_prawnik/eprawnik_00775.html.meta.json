@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00775",
+  "source_url": "https://e-prawnik.pl/forum/czy-z-krus-nalezy-odszkodowanie-po-smierci-brata.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-z-krus-nalezy-odszkodowanie-po-smierci-brata.html",
+  "archive_file": "e_prawnik/eprawnik_00775.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56121,
+  "sha256": "ed8e1209b7bfdbb361e2f13ed4dfce234ec020842a569cf56411c0fc36dca20d",
+  "download_date": "2026-05-16T07:38:01Z",
+  "duration_sec": 0.293,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

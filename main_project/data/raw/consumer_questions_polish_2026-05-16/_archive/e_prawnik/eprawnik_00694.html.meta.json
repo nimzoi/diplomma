@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00694",
+  "source_url": "https://e-prawnik.pl/forum/polska-ubezpieczeniowa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/polska-ubezpieczeniowa.html",
+  "archive_file": "e_prawnik/eprawnik_00694.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56671,
+  "sha256": "751c1bc87ba4347b1edc2ebf83aa60a7669dd70fedaa392d6aaac1781c2523cb",
+  "download_date": "2026-05-16T07:36:19Z",
+  "duration_sec": 0.102,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

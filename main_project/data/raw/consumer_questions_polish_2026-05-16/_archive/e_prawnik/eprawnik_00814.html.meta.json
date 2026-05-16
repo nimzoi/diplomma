@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00814",
+  "source_url": "https://e-prawnik.pl/forum/kolizja-drogowa-pozew-pzu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kolizja-drogowa-pozew-pzu.html",
+  "archive_file": "e_prawnik/eprawnik_00814.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57408,
+  "sha256": "f83c0d3ae48deee811edd293e238db0d45264531e713cdab23ac88fa00606c75",
+  "download_date": "2026-05-16T07:38:47Z",
+  "duration_sec": 0.168,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

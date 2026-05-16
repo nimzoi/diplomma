@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00854",
+  "source_url": "https://e-prawnik.pl/forum/pokrycie-szkod-po-wypadku.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pokrycie-szkod-po-wypadku.html",
+  "archive_file": "e_prawnik/eprawnik_00854.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57671,
+  "sha256": "28ba9f9f7148a6a724c9601921c3b8c4630264acf8a042a9253e443f6504ee82",
+  "download_date": "2026-05-16T07:39:35Z",
+  "duration_sec": 0.217,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

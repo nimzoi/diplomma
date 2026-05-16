@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00755",
+  "source_url": "https://e-prawnik.pl/forum/kilka-miesiecy-temu-moj-ojciec-mial-wypadek-jadac-rowerem-zostal-potracony-przez-samochod-wina.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kilka-miesiecy-temu-moj-ojciec-mial-wypadek-jadac-rowerem-zostal-potracony-przez-samochod-wina.html",
+  "archive_file": "e_prawnik/eprawnik_00755.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56375,
+  "sha256": "97d98079436aa4d64bc57f39dcb1261d4662cb6902db850bb9cf485fdcf6182e",
+  "download_date": "2026-05-16T07:37:36Z",
+  "duration_sec": 0.179,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

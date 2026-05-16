@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00868",
+  "source_url": "https://e-prawnik.pl/forum/wyplata-z-polisy-po-bylej-tesciowej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wyplata-z-polisy-po-bylej-tesciowej.html",
+  "archive_file": "e_prawnik/eprawnik_00868.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54167,
+  "sha256": "e7c60efe23fc33427a97b8a9c656d4d9e6d856a8d2eead64daeabd971551460e",
+  "download_date": "2026-05-16T07:39:52Z",
+  "duration_sec": 0.171,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

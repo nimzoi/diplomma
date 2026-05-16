@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00785",
+  "source_url": "https://e-prawnik.pl/forum/czy-ilosc-dni-zwolnienia-lekarskiego-po-wypadku-w-pracy-ma-wplyw-na-wysokosc-odszkodowania-z-pz.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-ilosc-dni-zwolnienia-lekarskiego-po-wypadku-w-pracy-ma-wplyw-na-wysokosc-odszkodowania-z-pz.html",
+  "archive_file": "e_prawnik/eprawnik_00785.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56830,
+  "sha256": "03186f4b561eb24283f589ebfe3265f4be2ede407f99d82965dde7cfdb0960c3",
+  "download_date": "2026-05-16T07:38:12Z",
+  "duration_sec": 0.174,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

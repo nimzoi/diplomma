@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00633",
+  "source_url": "https://e-prawnik.pl/forum/umowa-na-wykonanie-uslugi-skan-z-podpisem-i-pieczatka.html",
+  "fetch_url": "https://e-prawnik.pl/forum/umowa-na-wykonanie-uslugi-skan-z-podpisem-i-pieczatka.html",
+  "archive_file": "e_prawnik/eprawnik_00633.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56889,
+  "sha256": "0fab799f2dbad0dd280b3ffc2f75a0b260bddb2d4ea71e4bea6bfceb2b29d8e0",
+  "download_date": "2026-05-16T07:35:07Z",
+  "duration_sec": 0.324,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

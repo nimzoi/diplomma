@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00869",
+  "source_url": "https://e-prawnik.pl/forum/czy-odzyskam-pieniadze-z-oc-jesli-zlomuje-samochod.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-odzyskam-pieniadze-z-oc-jesli-zlomuje-samochod.html",
+  "archive_file": "e_prawnik/eprawnik_00869.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53668,
+  "sha256": "0069b7b8c744dbbd8bd08598e871797dee9d8da386cb5b2fffdfbad5b90e3db6",
+  "download_date": "2026-05-16T07:39:53Z",
+  "duration_sec": 0.162,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -15,6 +15,7 @@ runtime, etc.).
 
 from __future__ import annotations
 
+import contextlib
 import json
 import logging
 import re
@@ -138,9 +139,10 @@ def extract_citations(text: str) -> list[str]:
 _KARA_RE = re.compile(
     # "karę pieniężną w wysokości 1 234 567,89 zł", "kwota 500000 zł",
     # "grzywna 10 000,00 PLN" — pochwytujemy phrase z liczbą + zł/PLN.
+    # Note: \xa0 = NBSP (banki używają NBSP separator dla tysięcy).
     r"(?:kar[ęaęy]|grzywn[aęy]|kwot[aęy]|w\s+wysokości|wysokoś[cć][ąi])"
     r"[\w\s,;.()-]{0,80}?"
-    r"(\d[\d\s .,]*?)\s*(?:zł|PLN|złotych)",
+    r"(\d[\d\s\xa0�.,]*?)\s*(?:zł|PLN|złotych)",
     re.IGNORECASE,
 )
 
@@ -325,10 +327,8 @@ class BrowserSession:
                 page.wait_for_timeout(post_wait_ms)
                 status = resp.status if resp else 0
                 title = ""
-                try:
+                with contextlib.suppress(Exception):
                     title = page.title() or ""
-                except Exception:
-                    pass
                 # F5 WAF reject signals.
                 if (
                     "Request Rejected" in title

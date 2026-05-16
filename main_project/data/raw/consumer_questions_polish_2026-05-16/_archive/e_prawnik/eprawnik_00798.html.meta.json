@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00798",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-compensa-za-uszkodzenia-na-myjni-samochodowej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-compensa-za-uszkodzenia-na-myjni-samochodowej.html",
+  "archive_file": "e_prawnik/eprawnik_00798.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56017,
+  "sha256": "f4fbfdcafb9ac26832081e93ea9b82fbc8f37efc1572cdd99408be672ab20f39",
+  "download_date": "2026-05-16T07:38:28Z",
+  "duration_sec": 0.239,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00907",
+  "source_url": "https://e-prawnik.pl/forum/jak-uniknac-zaplacenia-pzu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jak-uniknac-zaplacenia-pzu.html",
+  "archive_file": "e_prawnik/eprawnik_00907.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55288,
+  "sha256": "b602f5213a1eddf79839f768abbf610b97991d91d0dc501a51b204a72ff08f45",
+  "download_date": "2026-05-16T07:40:39Z",
+  "duration_sec": 0.225,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

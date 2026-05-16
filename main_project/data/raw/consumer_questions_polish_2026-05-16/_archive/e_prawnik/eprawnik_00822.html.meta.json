@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00822",
+  "source_url": "https://e-prawnik.pl/forum/witam-mam-pytanie-odnoszace-sie-do-waznosci-ubezpieczenia-zdrowotnego-26-lutego-2009-roku-miale.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-mam-pytanie-odnoszace-sie-do-waznosci-ubezpieczenia-zdrowotnego-26-lutego-2009-roku-miale.html",
+  "archive_file": "e_prawnik/eprawnik_00822.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57734,
+  "sha256": "1f9f38f1f1d257c8f28250460e78ab89d4f4ab422aac4b8c5a193df7e3799f8e",
+  "download_date": "2026-05-16T07:38:57Z",
+  "duration_sec": 0.134,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

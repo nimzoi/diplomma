@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00664",
+  "source_url": "https://e-prawnik.pl/forum/allegro-odstapienie-od-umowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/allegro-odstapienie-od-umowy.html",
+  "archive_file": "e_prawnik/eprawnik_00664.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56737,
+  "sha256": "43c14c53c740d6324557499596bfc7e7cbdf63ec1811268b3a26248229afe0cd",
+  "download_date": "2026-05-16T07:35:44Z",
+  "duration_sec": 0.217,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

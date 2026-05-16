@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00894",
+  "source_url": "https://e-prawnik.pl/forum/brak-ubezpiecznia-i-wypadek-drogowy-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/brak-ubezpiecznia-i-wypadek-drogowy-1.html",
+  "archive_file": "e_prawnik/eprawnik_00894.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56682,
+  "sha256": "c2181d11d4c038390823865357506f404cb1d2eb64983be2d9a70688124c7df8",
+  "download_date": "2026-05-16T07:40:23Z",
+  "duration_sec": 0.203,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

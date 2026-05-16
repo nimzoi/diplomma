@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00709",
+  "source_url": "https://e-prawnik.pl/forum/warta-zaniza-wyplate-odszkodowanie-z-oc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/warta-zaniza-wyplate-odszkodowanie-z-oc.html",
+  "archive_file": "e_prawnik/eprawnik_00709.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 94962,
+  "sha256": "5e78d107b2b58e45f8ce2e7b0eec22d3b044a5013a763c9b973487a3b74a7724",
+  "download_date": "2026-05-16T07:36:39Z",
+  "duration_sec": 0.774,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

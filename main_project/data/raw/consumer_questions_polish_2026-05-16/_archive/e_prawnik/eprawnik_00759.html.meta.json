@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00759",
+  "source_url": "https://e-prawnik.pl/forum/jestem-po-rozwodzie-i-mam-pytaniezmarl-mi-tesciu-czy-moge-sie-ubiegac-pzu-o-odszkodowanie-ponie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jestem-po-rozwodzie-i-mam-pytaniezmarl-mi-tesciu-czy-moge-sie-ubiegac-pzu-o-odszkodowanie-ponie.html",
+  "archive_file": "e_prawnik/eprawnik_00759.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57018,
+  "sha256": "31f4941d8047551bd003083cab2ca5ddf6bd0c76f93fb2ba6e25cc5f830cd645",
+  "download_date": "2026-05-16T07:37:41Z",
+  "duration_sec": 0.205,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00787",
+  "source_url": "https://e-prawnik.pl/forum/czy-emerytowi-krus-nalezy-sie-odszkodowanie-za-zlamanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-emerytowi-krus-nalezy-sie-odszkodowanie-za-zlamanie.html",
+  "archive_file": "e_prawnik/eprawnik_00787.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55253,
+  "sha256": "3e6418e294e3bd9c112f33166ef41d6827d3b251f70d7702596961b14699ff4a",
+  "download_date": "2026-05-16T07:38:15Z",
+  "duration_sec": 0.314,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

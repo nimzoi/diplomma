@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00835",
+  "source_url": "https://e-prawnik.pl/forum/banki-oszukuja-swoich-klientow.html",
+  "fetch_url": "https://e-prawnik.pl/forum/banki-oszukuja-swoich-klientow.html",
+  "archive_file": "e_prawnik/eprawnik_00835.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53473,
+  "sha256": "f81cbf098e1d53ce761dc0007270667b08245d04c191a18597b6c9cfd51e1b0b",
+  "download_date": "2026-05-16T07:39:13Z",
+  "duration_sec": 0.1,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

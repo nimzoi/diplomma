@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00866",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-od-kierowcy-autobusu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-od-kierowcy-autobusu.html",
+  "archive_file": "e_prawnik/eprawnik_00866.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53246,
+  "sha256": "af970750851904832f090d0da8bab3940a984ab264b7c5bcb226cf717c0c4cea",
+  "download_date": "2026-05-16T07:39:50Z",
+  "duration_sec": 0.132,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

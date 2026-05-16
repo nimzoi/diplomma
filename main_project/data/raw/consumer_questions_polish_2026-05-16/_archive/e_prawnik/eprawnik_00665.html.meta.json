@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00665",
+  "source_url": "https://e-prawnik.pl/forum/chce-sprzedac-dzialke-rolna-niestety-numer-dzialki-w-rejestrze-gruntow-nie-zgadza-sie-z-numerem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/chce-sprzedac-dzialke-rolna-niestety-numer-dzialki-w-rejestrze-gruntow-nie-zgadza-sie-z-numerem.html",
+  "archive_file": "e_prawnik/eprawnik_00665.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58091,
+  "sha256": "8281a991ef75d25af58948c5845802e635499eb7d2517796daf047004599ad46",
+  "download_date": "2026-05-16T07:35:45Z",
+  "duration_sec": 0.135,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

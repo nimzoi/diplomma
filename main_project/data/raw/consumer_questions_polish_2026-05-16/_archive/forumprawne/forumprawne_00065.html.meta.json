@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00065",
+  "source_url": "https://forumprawne.org/watek/ubezpieczenie-ac-samochodu.883622/",
+  "fetch_url": "https://forumprawne.org/watek/ubezpieczenie-ac-samochodu.883622/",
+  "archive_file": "forumprawne/forumprawne_00065.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 81486,
+  "sha256": "8839eca110d042e038b1527cdad7d0d568c51e531b106153dd78ef8bd9a57929",
+  "download_date": "2026-05-16T07:42:47Z",
+  "duration_sec": 0.131,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00796",
+  "source_url": "https://e-prawnik.pl/forum/czy-nalezy-sie-odszkodowanie-z-pzu-za-smierc-babci.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-nalezy-sie-odszkodowanie-z-pzu-za-smierc-babci.html",
+  "archive_file": "e_prawnik/eprawnik_00796.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56770,
+  "sha256": "51fcbc70d30921967cde3a7578f37db523d869a48ada085be30010dbcb20a16a",
+  "download_date": "2026-05-16T07:38:26Z",
+  "duration_sec": 0.2,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

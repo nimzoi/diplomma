@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00061",
+  "source_url": "https://forumprawne.org/watek/przywlaszczenie.883448/",
+  "fetch_url": "https://forumprawne.org/watek/przywlaszczenie.883448/",
+  "archive_file": "forumprawne/forumprawne_00061.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 92959,
+  "sha256": "4e8eb20d45eeab1619a1ae7dddbd5f8ca501fbe539179ec325a3aef3e141dadb",
+  "download_date": "2026-05-16T07:42:43Z",
+  "duration_sec": 0.089,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

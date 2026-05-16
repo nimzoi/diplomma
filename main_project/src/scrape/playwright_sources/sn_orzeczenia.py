@@ -31,6 +31,7 @@ Usage::
 from __future__ import annotations
 
 import argparse
+import contextlib
 import logging
 import re
 import sys
@@ -48,7 +49,6 @@ from .common import (
     count_words,
     extract_citations,
     normalize_pl,
-    write_jsonl,
     write_meta,
 )
 
@@ -118,10 +118,8 @@ def _search_sn(
     logger.info("SN search phrase=%r izba=%r", phrase, izba)
     if not page.goto(SEARCH_URL, timeout=60_000):
         return []
-    try:
+    with contextlib.suppress(Exception):
         page.wait_for_load_state("networkidle", timeout=15_000)
-    except Exception:
-        pass
     page.wait_for_timeout(2_000)
 
     # Fill phrase.
@@ -146,10 +144,8 @@ def _search_sn(
     except Exception as exc:
         logger.warning("  submit failed: %s", exc)
         return []
-    try:
+    with contextlib.suppress(Exception):
         page.wait_for_load_state("networkidle", timeout=30_000)
-    except Exception:
-        pass
     page.wait_for_timeout(3_000)
 
     urls: set[str] = set()
@@ -176,10 +172,8 @@ def _search_sn(
                 btn = page.query_selector(sel)
                 if btn:
                     btn.click(timeout=10_000)
-                    try:
+                    with contextlib.suppress(Exception):
                         page.wait_for_load_state("networkidle", timeout=15_000)
-                    except Exception:
-                        pass
                     page.wait_for_timeout(2_000)
                     clicked = True
                     break
@@ -203,10 +197,8 @@ def _harvest_najnowsze(page: Page, izba: str = "Cywilna", max_items: int = 200) 
     logger.info("SN najnowsze GET %s", url)
     if not page.goto(url, timeout=60_000):
         return []
-    try:
+    with contextlib.suppress(Exception):
         page.wait_for_load_state("networkidle", timeout=15_000)
-    except Exception:
-        pass
     page.wait_for_timeout(3_000)
     items = page.eval_on_selector_all(
         "a[href*='ItemSID']",
@@ -226,10 +218,8 @@ def _scrape_sn_orzeczenie_page(page: Page, url: str) -> SnOrzeczenie | None:
     """
     if not page.goto(url, timeout=60_000):
         return None
-    try:
+    with contextlib.suppress(Exception):
         page.wait_for_load_state("networkidle", timeout=15_000)
-    except Exception:
-        pass
     page.wait_for_timeout(2_000)
 
     # Metadata text z aktualnej strony (przyda się na sygnaturę/datę/etc.).
@@ -293,10 +283,8 @@ def _scrape_sn_orzeczenie_page(page: Page, url: str) -> SnOrzeczenie | None:
 
     # Sygnatura — szukamy w h1/h2/title/meta i body.
     title = ""
-    try:
+    with contextlib.suppress(Exception):
         title = normalize_pl(page.title())
-    except Exception:
-        pass
     sygnatura = ""
     for sel in ("h1", "h2", "h3"):
         h_node = page.query_selector(sel)
@@ -351,10 +339,15 @@ def _scrape_sn_orzeczenie_page(page: Page, url: str) -> SnOrzeczenie | None:
         re.IGNORECASE,
     )
     forma = forma_match.group(0) if forma_match else None
-    izba_match = re.search(r"Izba\s+(Cywilna|Karna|Pracy|Wojskowa|Administracyjna|Dyscyplinarna|Kontroli\s+Nadzwyczajnej|Odpowiedzialności\s+Zawodowej)", body_text[:2000])
+    izba_match = re.search(
+        r"Izba\s+(Cywilna|Karna|Pracy|Wojskowa|Administracyjna|Dyscyplinarna"
+        r"|Kontroli\s+Nadzwyczajnej|Odpowiedzialności\s+Zawodowej)",
+        body_text[:2000],
+    )
     izba = ("Izba " + izba_match.group(1)) if izba_match else None
     date_match = re.search(
-        r"\b(\d{1,2}\s+(?:stycznia|lutego|marca|kwietnia|maja|czerwca|lipca|sierpnia|września|października|listopada|grudnia)\s+\d{4})",
+        r"\b(\d{1,2}\s+(?:stycznia|lutego|marca|kwietnia|maja|czerwca|lipca"
+        r"|sierpnia|września|października|listopada|grudnia)\s+\d{4})",
         body_text[:2000],
     )
     data_wydania: str | None = None
@@ -367,15 +360,23 @@ def _scrape_sn_orzeczenie_page(page: Page, url: str) -> SnOrzeczenie | None:
             data_wydania = date_match2.group(1)
 
     # Skład / przewodniczący / sprawozdawca — opcjonalne pattern matche.
+    name_chars = r"A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż\s.-"
     sklad: list[str] = []
     for label in ("Przewodniczący", "Sprawozdawca", "Sędziowie", "SSN"):
-        for m in re.finditer(rf"{label}[:\s]+([A-ZĄĆĘŁŃÓŚŹŻ][A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż\s.-]+?)(?:[\n,;]|\s{{2,}})", body_text[:3000]):
+        regex = rf"{label}[:\s]+([A-ZĄĆĘŁŃÓŚŹŻ][{name_chars}]+?)(?:[\n,;]|\s{{2,}})"
+        for m in re.finditer(regex, body_text[:3000]):
             name = m.group(1).strip()
             if 5 < len(name) < 60 and name not in sklad:
                 sklad.append(name)
-    przewodniczacy_m = re.search(r"Przewodnicz[aą]cy[:\s]+([A-ZĄĆĘŁŃÓŚŹŻ][A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż\s.-]{4,40})", body_text[:2000])
+    przewodniczacy_m = re.search(
+        rf"Przewodnicz[aą]cy[:\s]+([A-ZĄĆĘŁŃÓŚŹŻ][{name_chars}]{{4,40}})",
+        body_text[:2000],
+    )
     przewodniczacy = przewodniczacy_m.group(1).strip() if przewodniczacy_m else None
-    sprawozdawca_m = re.search(r"Sprawozdawca[:\s]+([A-ZĄĆĘŁŃÓŚŹŻ][A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż\s.-]{4,40})", body_text[:2000])
+    sprawozdawca_m = re.search(
+        rf"Sprawozdawca[:\s]+([A-ZĄĆĘŁŃÓŚŹŻ][{name_chars}]{{4,40}})",
+        body_text[:2000],
+    )
     sprawozdawca = sprawozdawca_m.group(1).strip() if sprawozdawca_m else None
 
     # Teza vs uzasadnienie — szukamy headerów.
@@ -401,7 +402,10 @@ def _scrape_sn_orzeczenie_page(page: Page, url: str) -> SnOrzeczenie | None:
     podstawy = extract_citations(body_text)
 
     sn_id = _sn_id(sygnatura)
-    citation_str = f"Sąd Najwyższy, {forma or 'orzeczenie'} z dnia {data_wydania or 'n.d.'}, sygn. {sygnatura}. {url}"
+    citation_str = (
+        f"Sąd Najwyższy, {forma or 'orzeczenie'} z dnia "
+        f"{data_wydania or 'n.d.'}, sygn. {sygnatura}. {url}"
+    )
 
     return SnOrzeczenie(
         sn_id=sn_id,
@@ -531,7 +535,9 @@ def scrape_sn_orzeczenia(
                 continue
             if rec.sn_id in existing_ids:
                 stats.skipped += 1
-                stats.skip_reasons["already_exists"] = stats.skip_reasons.get("already_exists", 0) + 1
+                stats.skip_reasons["already_exists"] = (
+                    stats.skip_reasons.get("already_exists", 0) + 1
+                )
                 continue
             words = count_words(rec.uzasadnienie + " " + rec.teza)
             if words < MIN_DOCUMENT_WORDS:

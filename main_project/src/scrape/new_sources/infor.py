@@ -47,42 +47,28 @@ logger = logging.getLogger("scrape.new_sources.infor")
 BASE = "https://www.infor.pl"
 SOURCE_NAME = "infor.pl"
 
-# Sub-categories pod /prawo/prawa-konsumenta/. Wszystkie z faktycznej struktury site.
+# Sub-sections — real subcats jakie istnieją (z faktycznej struktury site).
+# Plus paginacja /N/ na każdym (do ~49 stron głównego prawa-konsumenta).
 SUBCATS = [
-    "reklamacja",
+    "",  # główna prawa-konsumenta — najwięcej i paginacja do 49
+    "reklamacja",  # ma swoją paginację z articles
     "gwarancja",
-    "rekojmia",
-    "umowa-sprzedazy",
-    "umowa-konsumencka",
-    "odpowiedzialnosc-sprzedawcy",
-    "zwrot-towaru",
-    "praktyki-rynkowe",
-    "kredyt-konsumencki",
-    "uslugi-finansowe",
-    "ochrona-konsumentow",
-    "sprzedaz-internetowa",
-    "telefon-internet",
-    "uslugi-bankowe",
-    "energia",
-    "ubezpieczenia",
-    "uslugi-turystyczne",
-    "sprzedaz-poza-lokalem",
-    "klauzule-niedozwolone",
-    "umowy-konsumenckie",
 ]
-MAX_PAGES = 8
+MAX_PAGES = 50
 
 # Article URL pattern: /prawo/prawa-konsumenta/<sub>/<id>,<slug>.html
+# Lub /prawo/prawa-konsumenta/<id>,<slug>.html (główna sekcja)
 ARTICLE_RE = re.compile(
-    r"/prawo/prawa-konsumenta/[\w-]+/\d+,[\w-]+\.html"
+    r"/prawo/prawa-konsumenta(?:/[\w-]+)?/\d+,[\w-]+\.html"
 )
 
 
 def discover_article_urls(fetcher: Fetcher) -> list[str]:
     seen: set[str] = set()
     for sub in SUBCATS:
+        sub_path = f"/{sub}" if sub else ""
         for pg in range(1, MAX_PAGES + 1):
-            url = f"{BASE}/prawo/prawa-konsumenta/{sub}/" if pg == 1 else f"{BASE}/prawo/prawa-konsumenta/{sub}/{pg}/"
+            url = f"{BASE}/prawo/prawa-konsumenta{sub_path}/" if pg == 1 else f"{BASE}/prawo/prawa-konsumenta{sub_path}/{pg}/"
             resp = fetcher.get(url)
             if resp is None or resp.status_code != 200:
                 break
@@ -94,7 +80,7 @@ def discover_article_urls(fetcher: Fetcher) -> list[str]:
                 if full not in seen:
                     seen.add(full)
                     new += 1
-            logger.info("sub=%s page=%d: +%d (total %d)", sub, pg, new, len(seen))
+            logger.info("sub=%s page=%d: +%d (total %d)", sub or "(main)", pg, new, len(seen))
             if new == 0 and pg > 1:
                 break
     return sorted(seen)

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00084",
+  "source_url": "https://forumprawne.org/watek/osoba-prywatna-chce-zwrotu-pojazdu.883230/",
+  "fetch_url": "https://forumprawne.org/watek/osoba-prywatna-chce-zwrotu-pojazdu.883230/",
+  "archive_file": "forumprawne/forumprawne_00084.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64691,
+  "sha256": "67c3ef320f467337c1c3e746272057040afc50c915b272fd34fe64d4997d2139",
+  "download_date": "2026-05-16T07:43:09Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

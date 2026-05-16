@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00016",
+  "source_url": "https://forumprawne.org/watek/calkowita-splata-kredytu.884950/",
+  "fetch_url": "https://forumprawne.org/watek/calkowita-splata-kredytu.884950/",
+  "archive_file": "forumprawne/forumprawne_00016.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 80960,
+  "sha256": "9d0313c8f3821158e4bd9d9e1929777b9c073cd5d5198c63f80cca483870d33a",
+  "download_date": "2026-05-16T07:41:51Z",
+  "duration_sec": 0.118,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

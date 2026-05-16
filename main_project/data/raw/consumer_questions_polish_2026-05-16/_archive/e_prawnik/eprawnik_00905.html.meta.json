@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00905",
+  "source_url": "https://e-prawnik.pl/forum/ubezpieczenie-a-szkoda-calkowita.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubezpieczenie-a-szkoda-calkowita.html",
+  "archive_file": "e_prawnik/eprawnik_00905.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58673,
+  "sha256": "0962cbd284e4a4112e07c11ccf7dde2da7ef2f7b3d59215b99dc8b25900b3195",
+  "download_date": "2026-05-16T07:40:36Z",
+  "duration_sec": 0.216,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

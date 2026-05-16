@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00045",
+  "source_url": "https://forumprawne.org/watek/zle-wykonana-usluga-lakierowania.883964/",
+  "fetch_url": "https://forumprawne.org/watek/zle-wykonana-usluga-lakierowania.883964/",
+  "archive_file": "forumprawne/forumprawne_00045.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 61745,
+  "sha256": "34610a221a7d44fbb6b749e4f136fc731c3ee34220d1fe277a822eed04c47b35",
+  "download_date": "2026-05-16T07:42:24Z",
+  "duration_sec": 0.083,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

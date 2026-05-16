@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00819",
+  "source_url": "https://e-prawnik.pl/forum/pzu-niechce-wyplacic-odszkodowania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pzu-niechce-wyplacic-odszkodowania.html",
+  "archive_file": "e_prawnik/eprawnik_00819.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57136,
+  "sha256": "09442b29be20476f2da227b6e64f719b6b54d7ed5c6ecb7a30611a9bc20f0a90",
+  "download_date": "2026-05-16T07:38:53Z",
+  "duration_sec": 0.175,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

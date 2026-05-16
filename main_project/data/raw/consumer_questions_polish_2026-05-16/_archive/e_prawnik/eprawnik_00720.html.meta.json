@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00720",
+  "source_url": "https://e-prawnik.pl/forum/babcia-ma-rente-i-upadla-swichnela-palec-ma-otwarte-zwichniecie-i-pozrywane-sciegna-i-nerwy-czy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/babcia-ma-rente-i-upadla-swichnela-palec-ma-otwarte-zwichniecie-i-pozrywane-sciegna-i-nerwy-czy.html",
+  "archive_file": "e_prawnik/eprawnik_00720.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55627,
+  "sha256": "84d3b93751e4257c3edba607e48164fdd96d485d76edf36c61a8bb60f965a71e",
+  "download_date": "2026-05-16T07:36:54Z",
+  "duration_sec": 0.22,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

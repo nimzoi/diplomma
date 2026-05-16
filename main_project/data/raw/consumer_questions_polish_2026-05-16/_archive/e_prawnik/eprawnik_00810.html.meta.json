@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00810",
+  "source_url": "https://e-prawnik.pl/forum/odmowa-przyznania-swiadczenia-przez-pzu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odmowa-przyznania-swiadczenia-przez-pzu.html",
+  "archive_file": "e_prawnik/eprawnik_00810.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55672,
+  "sha256": "680c933b07b9d607333628b4f6a2c53dd41fa511407cfd3ca0805062dde55775",
+  "download_date": "2026-05-16T07:38:43Z",
+  "duration_sec": 0.135,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

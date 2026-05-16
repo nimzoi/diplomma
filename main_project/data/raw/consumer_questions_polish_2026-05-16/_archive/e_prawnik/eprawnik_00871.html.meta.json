@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00871",
+  "source_url": "https://e-prawnik.pl/forum/czy-musze-zwrocic-pieniadze.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-musze-zwrocic-pieniadze.html",
+  "archive_file": "e_prawnik/eprawnik_00871.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54676,
+  "sha256": "97a2ae65f6f3c6a2dc7e63dec2d8a4a2c7cc2c4bba8bbf07e232a5eed325cfc7",
+  "download_date": "2026-05-16T07:39:56Z",
+  "duration_sec": 0.189,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

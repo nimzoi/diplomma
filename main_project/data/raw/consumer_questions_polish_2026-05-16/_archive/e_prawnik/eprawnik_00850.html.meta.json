@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00850",
+  "source_url": "https://e-prawnik.pl/forum/ubezpieczyciel-ma-prawo-odebrac-mi-nizsze-skladki-jakie-place-za-oc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubezpieczyciel-ma-prawo-odebrac-mi-nizsze-skladki-jakie-place-za-oc.html",
+  "archive_file": "e_prawnik/eprawnik_00850.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55443,
+  "sha256": "bcac3c01b1b37ea2469d65b37a7c69345b1d72cb10cce8f3ef11446d6af0bbba",
+  "download_date": "2026-05-16T07:39:30Z",
+  "duration_sec": 0.209,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

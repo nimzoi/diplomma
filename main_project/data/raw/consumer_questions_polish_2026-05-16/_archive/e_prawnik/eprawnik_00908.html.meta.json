@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00908",
+  "source_url": "https://e-prawnik.pl/forum/oskarzenie-z-art-177.html",
+  "fetch_url": "https://e-prawnik.pl/forum/oskarzenie-z-art-177.html",
+  "archive_file": "e_prawnik/eprawnik_00908.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57487,
+  "sha256": "0037d9a9fce5af762304c4d73d75c5042d8548e7470a641a8a4a5efce5f5d8e7",
+  "download_date": "2026-05-16T07:40:40Z",
+  "duration_sec": 0.265,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00805",
+  "source_url": "https://e-prawnik.pl/forum/ubezpieczyciel-powinien-zwracac-vat.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubezpieczyciel-powinien-zwracac-vat.html",
+  "archive_file": "e_prawnik/eprawnik_00805.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55606,
+  "sha256": "5a50c949cf75ebe3b80c58a17746705a5d11da9ec80e510768f14d0bfc667dee",
+  "download_date": "2026-05-16T07:38:37Z",
+  "duration_sec": 0.18,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

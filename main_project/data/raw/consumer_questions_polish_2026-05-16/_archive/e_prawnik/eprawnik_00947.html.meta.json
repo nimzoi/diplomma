@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00947",
+  "source_url": "https://e-prawnik.pl/forum/moje-dlugi-moje-dzieci-moja-smierc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/moje-dlugi-moje-dzieci-moja-smierc.html",
+  "archive_file": "e_prawnik/eprawnik_00947.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57616,
+  "sha256": "ce6d4e328384161a8f215bd118896f82edb7a71c74466df08a6a7da730edebfe",
+  "download_date": "2026-05-16T07:41:28Z",
+  "duration_sec": 0.276,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

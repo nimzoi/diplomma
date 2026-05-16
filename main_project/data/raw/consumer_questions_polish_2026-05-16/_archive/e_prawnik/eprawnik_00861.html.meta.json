@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00861",
+  "source_url": "https://e-prawnik.pl/forum/zabieg-na-oddziale-ginekoloicznym.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zabieg-na-oddziale-ginekoloicznym.html",
+  "archive_file": "e_prawnik/eprawnik_00861.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56465,
+  "sha256": "8a6b62e25e6838bccf041edf2b00d84050de75bbbc290e726de6a6133cef72c2",
+  "download_date": "2026-05-16T07:39:44Z",
+  "duration_sec": 0.225,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

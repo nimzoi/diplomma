@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00788",
+  "source_url": "https://e-prawnik.pl/forum/czy-dziadka-nalezy-sie-odszkodowanie-z-pzu-za-smierc-wnuczki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-dziadka-nalezy-sie-odszkodowanie-z-pzu-za-smierc-wnuczki.html",
+  "archive_file": "e_prawnik/eprawnik_00788.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55390,
+  "sha256": "00fc554204fb36ddd632c7e8ad25994a23656ad9bb1b3c8c944981b900c9ef26",
+  "download_date": "2026-05-16T07:38:16Z",
+  "duration_sec": 0.182,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

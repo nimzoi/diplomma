@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00637",
+  "source_url": "https://e-prawnik.pl/forum/reklamacja-towaru-u-wlasciciela-sklepu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/reklamacja-towaru-u-wlasciciela-sklepu.html",
+  "archive_file": "e_prawnik/eprawnik_00637.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56437,
+  "sha256": "7cc07e03dc31a320038139c55af0661c21762caee6e2cbec7bd6651dd88e9058",
+  "download_date": "2026-05-16T07:35:12Z",
+  "duration_sec": 0.167,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

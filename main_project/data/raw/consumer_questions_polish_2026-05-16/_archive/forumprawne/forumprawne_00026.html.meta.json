@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00026",
+  "source_url": "https://forumprawne.org/watek/paczka-dostarczona-pod-niewlasciwego-odbiorcy.884640/",
+  "fetch_url": "https://forumprawne.org/watek/paczka-dostarczona-pod-niewlasciwego-odbiorcy.884640/",
+  "archive_file": "forumprawne/forumprawne_00026.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 95100,
+  "sha256": "2fc9d3de8189db92086cbb2ff03b7a7a59da434ea6f4a8ac6525849a0dff73e1",
+  "download_date": "2026-05-16T07:42:02Z",
+  "duration_sec": 0.106,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

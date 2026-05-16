@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00813",
+  "source_url": "https://e-prawnik.pl/forum/pzu-chce-mnie-wykiwac.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pzu-chce-mnie-wykiwac.html",
+  "archive_file": "e_prawnik/eprawnik_00813.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58539,
+  "sha256": "fa71b7ccdff78c3368e1adaf96e87e6263843d44c28f9bd3d1b55e58481f47dc",
+  "download_date": "2026-05-16T07:38:46Z",
+  "duration_sec": 0.235,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

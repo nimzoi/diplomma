@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00849",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-ubazpieczeniem-warta-w-wyniku-przepiecia.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-ubazpieczeniem-warta-w-wyniku-przepiecia.html",
+  "archive_file": "e_prawnik/eprawnik_00849.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58250,
+  "sha256": "6df56e6f64c362afd00a7308a1ee54d3402b7557b7c8877d2396e86fdc165948",
+  "download_date": "2026-05-16T07:39:29Z",
+  "duration_sec": 0.225,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

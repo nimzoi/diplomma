@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00769",
+  "source_url": "https://e-prawnik.pl/forum/jak-napisac-zgloszenie-o-odszkodowanie-w-wyniku-zlamania-reki.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jak-napisac-zgloszenie-o-odszkodowanie-w-wyniku-zlamania-reki.html",
+  "archive_file": "e_prawnik/eprawnik_00769.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55800,
+  "sha256": "e4da38a0d25b44701c308b5951a0aefc86b9145851d9716a8e00a5b179a5eadc",
+  "download_date": "2026-05-16T07:37:53Z",
+  "duration_sec": 0.18,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

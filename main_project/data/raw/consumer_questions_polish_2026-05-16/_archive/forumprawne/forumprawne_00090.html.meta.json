@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00090",
+  "source_url": "https://forumprawne.org/watek/reklamacja-stomatolog.883112/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-stomatolog.883112/",
+  "archive_file": "forumprawne/forumprawne_00090.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53286,
+  "sha256": "fadaf86eb0400598005f16c7221e9eb6a2bf08542133430446bfb690f1388beb",
+  "download_date": "2026-05-16T07:43:16Z",
+  "duration_sec": 0.194,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

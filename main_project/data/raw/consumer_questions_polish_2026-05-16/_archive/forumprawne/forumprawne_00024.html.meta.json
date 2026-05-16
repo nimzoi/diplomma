@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00024",
+  "source_url": "https://forumprawne.org/watek/kurs-na-strzyzenie-psow.884669/",
+  "fetch_url": "https://forumprawne.org/watek/kurs-na-strzyzenie-psow.884669/",
+  "archive_file": "forumprawne/forumprawne_00024.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 65324,
+  "sha256": "296842a057c573b40e0a7d19fd8b4300a1f507c1b94222b69dc85d00985150e5",
+  "download_date": "2026-05-16T07:42:00Z",
+  "duration_sec": 0.126,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

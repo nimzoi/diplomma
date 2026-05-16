@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00047",
+  "source_url": "https://forumprawne.org/watek/oszustwo-internetowe.884187/",
+  "fetch_url": "https://forumprawne.org/watek/oszustwo-internetowe.884187/",
+  "archive_file": "forumprawne/forumprawne_00047.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 90385,
+  "sha256": "bfd13830bf58eb27f4989f23c04ca147cdd19506f2913dae2a9f8b06eaef6133",
+  "download_date": "2026-05-16T07:42:26Z",
+  "duration_sec": 0.091,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

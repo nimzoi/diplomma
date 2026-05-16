@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00698",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-1.html",
+  "archive_file": "e_prawnik/eprawnik_00698.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 85865,
+  "sha256": "84edc1f8fdcada17beb94daca41d2cd1d40a4d8da87300f2dad3a000e75b19dc",
+  "download_date": "2026-05-16T07:36:24Z",
+  "duration_sec": 0.247,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

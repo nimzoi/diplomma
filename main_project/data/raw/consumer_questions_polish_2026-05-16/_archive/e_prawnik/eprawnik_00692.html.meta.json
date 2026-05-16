@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00692",
+  "source_url": "https://e-prawnik.pl/forum/problem-ze-znalezieniem-sprawcy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-ze-znalezieniem-sprawcy.html",
+  "archive_file": "e_prawnik/eprawnik_00692.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59496,
+  "sha256": "ae713c65c3b93978be04643b283288a1b4982b29c88ce1990dbd5de71780ea58",
+  "download_date": "2026-05-16T07:36:17Z",
+  "duration_sec": 0.224,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

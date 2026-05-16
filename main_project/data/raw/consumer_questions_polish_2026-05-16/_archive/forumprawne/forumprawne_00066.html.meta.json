@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00066",
+  "source_url": "https://forumprawne.org/watek/zwrot-kurtki-kupionej-przez-internet.883572/",
+  "fetch_url": "https://forumprawne.org/watek/zwrot-kurtki-kupionej-przez-internet.883572/",
+  "archive_file": "forumprawne/forumprawne_00066.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 116706,
+  "sha256": "f5196f3a839143bdc7b0d355dd1947726fce4adb25bf437788a60b8f592434fb",
+  "download_date": "2026-05-16T07:42:48Z",
+  "duration_sec": 0.112,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

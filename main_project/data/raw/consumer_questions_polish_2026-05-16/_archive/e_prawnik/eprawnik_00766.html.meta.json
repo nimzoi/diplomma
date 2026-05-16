@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00766",
+  "source_url": "https://e-prawnik.pl/forum/jakie-dokumenty-sa-potrzebne-do-pzu-aby-otrzymac-odszkodowanie-z-tytulu-zgonu-tesciowej-z-mojej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jakie-dokumenty-sa-potrzebne-do-pzu-aby-otrzymac-odszkodowanie-z-tytulu-zgonu-tesciowej-z-mojej.html",
+  "archive_file": "e_prawnik/eprawnik_00766.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57604,
+  "sha256": "8e35d4af143b42a79cb6cc7d452940473208207266602b80bc5ced00e8105854",
+  "download_date": "2026-05-16T07:37:50Z",
+  "duration_sec": 0.194,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

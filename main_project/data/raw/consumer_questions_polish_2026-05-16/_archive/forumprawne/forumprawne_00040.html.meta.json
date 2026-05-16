@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00040",
+  "source_url": "https://forumprawne.org/watek/zaginiona-paczka-vinted.884322/",
+  "fetch_url": "https://forumprawne.org/watek/zaginiona-paczka-vinted.884322/",
+  "archive_file": "forumprawne/forumprawne_00040.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 105542,
+  "sha256": "77bf17a30e3a0017fe57b439d72de40315bff49d56c925fefd267ebb20f0bae2",
+  "download_date": "2026-05-16T07:42:19Z",
+  "duration_sec": 0.159,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

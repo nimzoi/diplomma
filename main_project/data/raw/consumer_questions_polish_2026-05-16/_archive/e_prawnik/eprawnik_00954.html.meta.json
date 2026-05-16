@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00954",
+  "source_url": "https://e-prawnik.pl/forum/warta-vs-amortyzacja.html",
+  "fetch_url": "https://e-prawnik.pl/forum/warta-vs-amortyzacja.html",
+  "archive_file": "e_prawnik/eprawnik_00954.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58945,
+  "sha256": "f550916bcfd8d05fe09deb26acb9a59ec1fbe29a0cf014c25100ef397f288af5",
+  "download_date": "2026-05-16T07:41:36Z",
+  "duration_sec": 0.207,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

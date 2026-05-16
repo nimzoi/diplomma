@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00052",
+  "source_url": "https://forumprawne.org/watek/karty-podarunkowe-w-galerii-handlowej-platnosc.883965/",
+  "fetch_url": "https://forumprawne.org/watek/karty-podarunkowe-w-galerii-handlowej-platnosc.883965/",
+  "archive_file": "forumprawne/forumprawne_00052.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 70259,
+  "sha256": "89537ad320a0bdeabf48b9caef655e4c0e183b4316037f12ed7ae84c9da66ad8",
+  "download_date": "2026-05-16T07:42:32Z",
+  "duration_sec": 0.274,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

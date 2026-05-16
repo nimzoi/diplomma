@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00713",
+  "source_url": "https://e-prawnik.pl/forum/odmowa-wyplaty-odszkodowania-pzu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odmowa-wyplaty-odszkodowania-pzu.html",
+  "archive_file": "e_prawnik/eprawnik_00713.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59641,
+  "sha256": "fe741cdc8d3586b7efdd33c251d9df82621fc8c004ebbc8ca0e2271023494ea8",
+  "download_date": "2026-05-16T07:36:45Z",
+  "duration_sec": 0.32,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

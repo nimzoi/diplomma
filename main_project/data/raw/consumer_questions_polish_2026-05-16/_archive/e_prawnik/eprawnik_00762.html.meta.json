@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00762",
+  "source_url": "https://e-prawnik.pl/forum/czy-nalezy-sie-odszkodowanie-osobie-ktora-pod-wplywem-wypadku-byla-pijana.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-nalezy-sie-odszkodowanie-osobie-ktora-pod-wplywem-wypadku-byla-pijana.html",
+  "archive_file": "e_prawnik/eprawnik_00762.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57464,
+  "sha256": "e36aaf64cbedbcd0c7394ffe3a84f52e07854d4b0057ad1b9137201712c537e4",
+  "download_date": "2026-05-16T07:37:45Z",
+  "duration_sec": 0.1,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

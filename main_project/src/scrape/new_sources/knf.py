@@ -1,7 +1,7 @@
 """KNF — Komisja Nadzoru Finansowego, sekcja konsument finansowy.
 
-Discovery: sitemap (sitemap.xml index 380KB+). Filter na URLs zawierające
-``/dla_konsumenta`` lub ``/konsument`` lub ``/dla_rynku/...`` slot consumer-relevant.
+Discovery: BFS walk od /dla_konsumenta + /co_robimy/edukacja_finansowa.
+(Note: KNF nie ma standard sitemap.xml — endpoint zwraca search HTML.)
 
 License: urzędowe (Art. 4 ust. 2 PrAut — KNF organ państwowy).
 """
@@ -18,6 +18,8 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
+from urllib.parse import urljoin
+
 from scrape.new_sources.common import (  # noqa: E402
     LICENSE_URZEDOWE,
     SCRAPE_DATE,
@@ -31,7 +33,6 @@ from scrape.new_sources.common import (  # noqa: E402
     extract_main_text,
     extract_subtitle,
     extract_title,
-    fetch_sitemap_urls,
     persist_raw_html,
     slug_from_title,
     write_failed_log,
@@ -45,36 +46,48 @@ logger = logging.getLogger("scrape.new_sources.knf")
 
 BASE = "https://www.knf.gov.pl"
 SOURCE_NAME = "knf.gov.pl"
-SITEMAP = f"{BASE}/sitemap.xml"
 
-CONSUMER_PATH_PREFIXES = (
+ENTRY_PATHS = [
     "/dla_konsumenta",
-    "/dla_rynku/przeciwdzialanie_naduzyciom_na_rynku_finansowym",
-    "/dla_rynku/edukacja",
-    "/knf/edukacja",
-    "/aktualnosci",
-)
+    "/dla_konsumenta/Ochrona_klienta_na_rynku_uslug_finansowych",
+    "/dla_konsumenta/gdzie_szukac_pomocy_w_przypadku_sporu_z_instytucja_finansowa",
+    "/dla_konsumenta/Informacja_dotyczaca_otwartych_funduszy_emerytalnych",
+    "/dla_konsumenta/kampanie_informacyjne",
+    "/co_robimy/edukacja_finansowa",
+    "/co_robimy/edukacja_finansowa/Global_Money_Week",
+    "/co_robimy/edukacja_finansowa/WIW",
+    "/co_robimy/edukacja_finansowa/seminaria_cedur",
+    "/dla_konsumenta/Lista_ostrzezen_publicznych_KNF",
+    "/dla_konsumenta/Ochrona_klienta_na_rynku_uslug_finansowych/Reklamacje",
+]
+MAX_DEPTH = 4
 
 
 def discover_article_urls(fetcher: Fetcher) -> list[str]:
-    urls = fetch_sitemap_urls(fetcher, SITEMAP)
-    keep = []
-    seen = set()
-    for u in urls:
-        if not u.startswith(BASE):
+    """BFS walk od /dla_konsumenta + edukacja paths."""
+    seen: set[str] = set()
+    queue: list[tuple[str, int]] = [(urljoin(BASE, p), 0) for p in ENTRY_PATHS]
+    while queue:
+        url, depth = queue.pop(0)
+        if url in seen or depth >= MAX_DEPTH:
             continue
-        # Keep all KNF pages — KNF is small enough that filtering może być zbyt
-        # restrictive. Ale skip clearly non-consumer (np. /publikacje/biuletyn-statystyczny).
-        if u in seen:
+        seen.add(url)
+        resp = fetcher.get(url)
+        if resp is None or resp.status_code != 200:
             continue
-        seen.add(u)
-        path = u[len(BASE):]
-        # Prefer consumer-prefixed paths
-        if any(path.startswith(p) for p in CONSUMER_PATH_PREFIXES):
-            keep.append(u)
-        elif any(kw in path.lower() for kw in ("konsument", "edukac", "ostrzezen", "lista_ostrzezen")):
-            keep.append(u)
-    return keep
+        text = resp.content.decode("utf-8", "replace")
+        for href in re.findall(r'href="(/[^"#?]+)"', text):
+            # KNF internal consumer-relevant paths
+            if not (
+                href.startswith("/dla_konsumenta")
+                or href.startswith("/co_robimy/edukacja_finansowa")
+                or href.startswith("/aktualnosci")
+            ):
+                continue
+            full = urljoin(BASE, href)
+            if full not in seen:
+                queue.append((full, depth + 1))
+    return sorted(seen)
 
 
 def parse_article(html: str, url: str, idx: int) -> ArticleRecord | None:

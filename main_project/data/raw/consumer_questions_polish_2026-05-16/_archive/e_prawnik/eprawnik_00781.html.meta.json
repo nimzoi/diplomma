@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00781",
+  "source_url": "https://e-prawnik.pl/forum/czy-nalezy-sie-odszkodowanie-z-tytulu-smierci-tesciowej-z-pzu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-nalezy-sie-odszkodowanie-z-tytulu-smierci-tesciowej-z-pzu.html",
+  "archive_file": "e_prawnik/eprawnik_00781.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56066,
+  "sha256": "23cf7faa3c2cdf14837aea06e6b4dafc9eb672da859574a6b28195d7b39390a6",
+  "download_date": "2026-05-16T07:38:08Z",
+  "duration_sec": 0.242,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

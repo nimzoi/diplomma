@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00082",
+  "source_url": "https://forumprawne.org/watek/gwarancja-czy-niezgodnosc-towaru-z-umowa.883282/",
+  "fetch_url": "https://forumprawne.org/watek/gwarancja-czy-niezgodnosc-towaru-z-umowa.883282/",
+  "archive_file": "forumprawne/forumprawne_00082.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55892,
+  "sha256": "07ac415084614ce779e6470eac84098a2826f6dbca945b3163d4ff4848f96eca",
+  "download_date": "2026-05-16T07:43:06Z",
+  "duration_sec": 0.099,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

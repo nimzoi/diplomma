@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00029",
+  "source_url": "https://forumprawne.org/watek/problemy-z-operatorem-play.884561/",
+  "fetch_url": "https://forumprawne.org/watek/problemy-z-operatorem-play.884561/",
+  "archive_file": "forumprawne/forumprawne_00029.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55276,
+  "sha256": "a5eabc1a8b7e617484fa619cc1df263d1732c2ad968f37abc9af94f3129a5c0f",
+  "download_date": "2026-05-16T07:42:06Z",
+  "duration_sec": 0.148,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

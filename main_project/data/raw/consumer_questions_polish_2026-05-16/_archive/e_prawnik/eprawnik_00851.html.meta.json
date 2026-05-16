@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00851",
+  "source_url": "https://e-prawnik.pl/forum/czy-dostanie-odszkodowanie-z-pracy-jesli-zostal-pobity.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-dostanie-odszkodowanie-z-pracy-jesli-zostal-pobity.html",
+  "archive_file": "e_prawnik/eprawnik_00851.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56844,
+  "sha256": "7b42137605c4dff8b659edf739946c8871ada40e402b2f6b48b2544b7a54731d",
+  "download_date": "2026-05-16T07:39:32Z",
+  "duration_sec": 0.264,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00883",
+  "source_url": "https://e-prawnik.pl/forum/jakie-potrzebuje-dokumenty-od-okszkodowania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jakie-potrzebuje-dokumenty-od-okszkodowania.html",
+  "archive_file": "e_prawnik/eprawnik_00883.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56597,
+  "sha256": "3cfef8a790043bb29d03853e578d2ada20f05824c44a19c48011dd1004afd636",
+  "download_date": "2026-05-16T07:40:10Z",
+  "duration_sec": 0.259,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

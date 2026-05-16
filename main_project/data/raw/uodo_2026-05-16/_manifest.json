@@ -1,0 +1,1392 @@
+{
+  "scrape_date": "2026-05-16",
+  "count": 198,
+  "entries": [
+    {
+      "article_id": "uodo_0001_polityka_prywatnosci",
+      "url": "https://uodo.gov.pl/pl/1/255",
+      "status": 200,
+      "title": "Polityka prywatności",
+      "char_count": 2996
+    },
+    {
+      "article_id": "uodo_0002_ochrona_danych_osobowych_w_nbsp_kampanii_wyborczej",
+      "url": "https://uodo.gov.pl/pl/138/2813",
+      "status": 200,
+      "title": "Ochrona danych osobowych w&nbsp;kampanii wyborczej – poradnik UODO",
+      "char_count": 1558
+    },
+    {
+      "article_id": "uodo_0003_uwaga_oszusci_podszywaja_sie_pod_uodo",
+      "url": "https://uodo.gov.pl/pl/138/2814",
+      "status": 200,
+      "title": "Uwaga! Oszuści podszywają się pod UODO.",
+      "char_count": 443
+    },
+    {
+      "article_id": "uodo_0004_procedura_weryfikacji_pasazerow_linii_ryanair_uodo",
+      "url": "https://uodo.gov.pl/pl/138/2815",
+      "status": 200,
+      "title": "Procedura weryfikacji pasażerów linii Ryanair. UODO reaguje",
+      "char_count": 1999
+    },
+    {
+      "article_id": "uodo_0005_forum_nowych_technologii_2023_jaka_przyszosc_czeka",
+      "url": "https://uodo.gov.pl/pl/138/2819",
+      "status": 200,
+      "title": "Forum Nowych Technologii 2023. Jaka przyszłość czeka dane osobowe?",
+      "char_count": 1904
+    },
+    {
+      "article_id": "uodo_0006_letnia_akademia_liderow_rodo_dobiega_konca",
+      "url": "https://uodo.gov.pl/pl/138/2822",
+      "status": 200,
+      "title": "Letnia Akademia Liderów RODO dobiegła końca",
+      "char_count": 2835
+    },
+    {
+      "article_id": "uodo_0007_technologia_musi_byc_zgodna_z_nbsp_rodo",
+      "url": "https://uodo.gov.pl/pl/138/2823",
+      "status": 200,
+      "title": "Technologia musi być zgodna z&nbsp;RODO",
+      "char_count": 3669
+    },
+    {
+      "article_id": "uodo_0008_nsa_przyzna_racje_uodo_ws_decyzji_dotyczacej_pierw",
+      "url": "https://uodo.gov.pl/pl/138/2827",
+      "status": 200,
+      "title": "NSA przyznał rację UODO ws. decyzji dotyczącej pierwszej kary nałożonej przez organ nadzorczy",
+      "char_count": 4624
+    },
+    {
+      "article_id": "uodo_0009_erod_i_nbsp_eiod_o_nbsp_propozycji_ke_dotyczacej_e",
+      "url": "https://uodo.gov.pl/pl/138/2849",
+      "status": 200,
+      "title": "EROD i&nbsp;EIOD o&nbsp;propozycji KE dotyczącej egzekwowania RODO",
+      "char_count": 4635
+    },
+    {
+      "article_id": "uodo_0010_forum_nowych_technologii_2023_fotorelacja",
+      "url": "https://uodo.gov.pl/pl/138/2855",
+      "status": 200,
+      "title": "Forum Nowych Technologii 2023 - fotorelacja",
+      "char_count": 482
+    },
+    {
+      "article_id": "uodo_0011_opinia_erod_i_nbsp_eiod_nt_projektu_rozporzadzenia",
+      "url": "https://uodo.gov.pl/pl/138/2865",
+      "status": 200,
+      "title": "Opinia EROD i&nbsp;EIOD nt. projektu rozporządzenia w&nbsp;sprawie ustanowienia cyfrowego euro",
+      "char_count": 6422
+    },
+    {
+      "article_id": "uodo_0012_wsa_uzna_kare_finansowa_naozona_na_virgin_mobile",
+      "url": "https://uodo.gov.pl/pl/138/2869",
+      "status": 200,
+      "title": "WSA uznał karę finansową nałożoną na Virgin Mobile",
+      "char_count": 3456
+    },
+    {
+      "article_id": "uodo_0013_pilna_wiazaca_decyzja_erod_w_nbsp_spr_przetwarzani",
+      "url": "https://uodo.gov.pl/pl/138/2879",
+      "status": 200,
+      "title": "Pilna wiążąca decyzja EROD w&nbsp;spr. przetwarzania danych przez Meta do celów reklamy behawioralnej",
+      "char_count": 2315
+    },
+    {
+      "article_id": "uodo_0014_nowe_technologie_a_nbsp_ochrona_danych_osobowych_k",
+      "url": "https://uodo.gov.pl/pl/138/2880",
+      "status": 200,
+      "title": "Nowe technologie a&nbsp;ochrona danych osobowych – konferencja UODO i&nbsp;ZUS",
+      "char_count": 1229
+    },
+    {
+      "article_id": "uodo_0015_pesel_lepiej_chroniony_ale_nie_mozna_na_tym_poprze",
+      "url": "https://uodo.gov.pl/pl/138/2911",
+      "status": 200,
+      "title": "PESEL lepiej chroniony, ale nie można na tym poprzestać",
+      "char_count": 3893
+    },
+    {
+      "article_id": "uodo_0016_wyjasnienia_erod_dot_technik_sledzenia_podlegajacy",
+      "url": "https://uodo.gov.pl/pl/138/2914",
+      "status": 200,
+      "title": "Wyjaśnienia EROD dot. technik śledzenia, podlegających dyrektywie o&nbsp;prywatności i&nbsp;łączności",
+      "char_count": 2168
+    },
+    {
+      "article_id": "uodo_0017_kolejna_administracyjna_kara_pieniezna_za_niezgosz",
+      "url": "https://uodo.gov.pl/pl/138/2916",
+      "status": 200,
+      "title": "Kolejna administracyjna kara pieniężna za niezgłoszenie naruszenia ochrony danych osobowych",
+      "char_count": 3990
+    },
+    {
+      "article_id": "uodo_0018_wspopraca_na_rzecz_bezpieczenstwa_danych_pacjentow",
+      "url": "https://uodo.gov.pl/pl/138/2920",
+      "status": 200,
+      "title": "Współpraca na rzecz bezpieczeństwa danych pacjentów",
+      "char_count": 2062
+    },
+    {
+      "article_id": "uodo_0019_dane_osobowe_w_nbsp_prywatnym_komputerze_pracownik",
+      "url": "https://uodo.gov.pl/pl/138/2925",
+      "status": 200,
+      "title": "Dane osobowe w&nbsp;prywatnym komputerze pracownika też trzeba chronić",
+      "char_count": 4645
+    },
+    {
+      "article_id": "uodo_0020_lepsza_ochrona_danych_w_nbsp_aptekach",
+      "url": "https://uodo.gov.pl/pl/138/2926",
+      "status": 200,
+      "title": "Lepsza ochrona danych w&nbsp;aptekach",
+      "char_count": 2921
+    },
+    {
+      "article_id": "uodo_0021_firmy_beda_mogy_uzyskac_branzowe_certyfikaty_zgodn",
+      "url": "https://uodo.gov.pl/pl/138/2927",
+      "status": 200,
+      "title": "Firmy będą mogły uzyskać branżowe certyfikaty zgodności przetwarzania danach osobowych z&nbsp;RODO",
+      "char_count": 4642
+    },
+    {
+      "article_id": "uodo_0022_prezes_uodo_zatwierdzi_kodeks_postepowania_dla_sek",
+      "url": "https://uodo.gov.pl/pl/138/2929",
+      "status": 200,
+      "title": "Prezes UODO zatwierdził Kodeks postępowania dla sektora ochrony zdrowia",
+      "char_count": 3923
+    },
+    {
+      "article_id": "uodo_0023_erod_umocnia_swoja_pozycje_jako_organ_ue_odpowiedz",
+      "url": "https://uodo.gov.pl/pl/138/2937",
+      "status": 200,
+      "title": "EROD umocniła swoją pozycję jako organ UE odpowiedzialny za zapewnienie spójnego stosowania RODO",
+      "char_count": 5508
+    },
+    {
+      "article_id": "uodo_0024_wspolne_dziaania_na_rzecz_lepszej_ochrony_danych",
+      "url": "https://uodo.gov.pl/pl/138/2938",
+      "status": 200,
+      "title": "Wspólne działania na rzecz lepszej ochrony danych",
+      "char_count": 1918
+    },
+    {
+      "article_id": "uodo_0025_100_tys_z_kary_za_ujawnienie_danych_na_temat_zdrow",
+      "url": "https://uodo.gov.pl/pl/138/2941",
+      "status": 200,
+      "title": "100 tys. zł kary za ujawnienie danych na temat zdrowia",
+      "char_count": 3801
+    },
+    {
+      "article_id": "uodo_0026_wyznaczanie_i_pozycja_inspektorow_ochrony_danych_s",
+      "url": "https://uodo.gov.pl/pl/138/2960",
+      "status": 200,
+      "title": "Wyznaczanie i pozycja inspektorów ochrony danych - sprawozdanie EROD z badań CEF",
+      "char_count": 6039
+    },
+    {
+      "article_id": "uodo_0027_naruszenia_ochrony_danych_osobowych_nalezy_zgaszac",
+      "url": "https://uodo.gov.pl/pl/138/2965",
+      "status": 200,
+      "title": "Naruszenia ochrony danych osobowych należy zgłaszać Prezesowi UODO bez zbędnej zwłoki",
+      "char_count": 5683
+    },
+    {
+      "article_id": "uodo_0028_drugie_webinarium_z_nbsp_cyklu_certyfikacja_w_nbsp",
+      "url": "https://uodo.gov.pl/pl/138/2967",
+      "status": 200,
+      "title": "Drugie webinarium z&nbsp;cyklu „Certyfikacja w&nbsp;ochronie danych”",
+      "char_count": 838
+    },
+    {
+      "article_id": "uodo_0029_mirosaw_wroblewski_zozy_slubowanie_na_stanowisko_p",
+      "url": "https://uodo.gov.pl/pl/138/2973",
+      "status": 200,
+      "title": "Mirosław Wróblewski złożył ślubowanie na stanowisko Prezesa UODO",
+      "char_count": 1480
+    },
+    {
+      "article_id": "uodo_0030_erod_publikuje_przeglad_spraw_dot_bezpieczenstwa_p",
+      "url": "https://uodo.gov.pl/pl/138/2974",
+      "status": 200,
+      "title": "EROD publikuje przegląd spraw dot. bezpieczeństwa przetwarzania i zgłaszania naruszeń ochrony danych",
+      "char_count": 1420
+    },
+    {
+      "article_id": "uodo_0031_konsultacje_dla_iod_oraz_porady_dla_obywateli_w_ra",
+      "url": "https://uodo.gov.pl/pl/138/2975",
+      "status": 200,
+      "title": "Konsultacje dla IOD oraz porady dla obywateli w ramach 18. Dnia Ochrony Danych Osobowych",
+      "char_count": 1196
+    },
+    {
+      "article_id": "uodo_0032_wspopraca_urzedow_uodo_i_nbsp_rpo",
+      "url": "https://uodo.gov.pl/pl/138/2977",
+      "status": 200,
+      "title": "Współpraca urzędów UODO i&nbsp;RPO",
+      "char_count": 2543
+    },
+    {
+      "article_id": "uodo_0033_zastepczyni_prezesa_urzedu_ochrony_danych_osobowyc",
+      "url": "https://uodo.gov.pl/pl/138/2980",
+      "status": 200,
+      "title": "Zastępczyni Prezesa Urzędu Ochrony Danych Osobowych",
+      "char_count": 1071
+    },
+    {
+      "article_id": "uodo_0034_x_dzien_otwarty_urzedu_ochrony_danych_osobowych_w_",
+      "url": "https://uodo.gov.pl/pl/138/2982",
+      "status": 200,
+      "title": "X Dzień Otwarty Urzędu Ochrony Danych Osobowych w&nbsp;Akademii WSB w&nbsp;Dąbrowie Górniczej",
+      "char_count": 2680
+    },
+    {
+      "article_id": "uodo_0035_prezes_uodo_ponownie_ukara_spoke_morele_net",
+      "url": "https://uodo.gov.pl/pl/138/2983",
+      "status": 200,
+      "title": "Prezes UODO ponownie ukarał spółkę Morele.net",
+      "char_count": 3676
+    },
+    {
+      "article_id": "uodo_0036_wsa_potwierdza_ze_nie_mozna_bagatelizowac_naruszen",
+      "url": "https://uodo.gov.pl/pl/138/2984",
+      "status": 200,
+      "title": "WSA potwierdza, że nie można bagatelizować naruszeń ochrony danych",
+      "char_count": 2611
+    },
+    {
+      "article_id": "uodo_0037_erod_uruchamia_narzedzia_do_audytu_stron_interneto",
+      "url": "https://uodo.gov.pl/pl/138/2985",
+      "status": 200,
+      "title": "EROD uruchamia narzędzia do audytu stron internetowych",
+      "char_count": 2087
+    },
+    {
+      "article_id": "uodo_0038_plan_kontroli_sektorowych_uodo_na_2024_rok",
+      "url": "https://uodo.gov.pl/pl/138/2986",
+      "status": 200,
+      "title": "Plan kontroli sektorowych UODO na 2024 rok",
+      "char_count": 598
+    },
+    {
+      "article_id": "uodo_0039_rola_danych_medycznych_wymaga_wiekszej_uwagi",
+      "url": "https://uodo.gov.pl/pl/138/2988",
+      "status": 200,
+      "title": "Rola danych medycznych wymaga większej uwagi",
+      "char_count": 1813
+    },
+    {
+      "article_id": "uodo_0040_prezes_uodo_postanowi_zbadac_przypadki_ujawnienia_",
+      "url": "https://uodo.gov.pl/pl/138/2994",
+      "status": 200,
+      "title": "Prezes UODO postanowił zbadać przypadki ujawnienia danych, które doprowadziły do tragedii",
+      "char_count": 1578
+    },
+    {
+      "article_id": "uodo_0041_trzecie_webinarium_z_nbsp_cyklu_certyfikacja_w_nbs",
+      "url": "https://uodo.gov.pl/pl/138/2999",
+      "status": 200,
+      "title": "Trzecie webinarium z&nbsp;cyklu „Certyfikacja w&nbsp;ochronie danych”",
+      "char_count": 876
+    },
+    {
+      "article_id": "uodo_0042_transparentnosc_funkcjonariuszy_publicznych_nie_uz",
+      "url": "https://uodo.gov.pl/pl/138/3001",
+      "status": 200,
+      "title": "Transparentność funkcjonariuszy publicznych nie uzasadnia ingerencji w prywatność ich małżonków",
+      "char_count": 1845
+    },
+    {
+      "article_id": "uodo_0043_skarga_burmistrza_miasta_i_gminy_zostaa_oddalona_p",
+      "url": "https://uodo.gov.pl/pl/138/3007",
+      "status": 200,
+      "title": "Skarga Burmistrza Miasta i Gminy została oddalona przez WSA",
+      "char_count": 1792
+    },
+    {
+      "article_id": "uodo_0044_jakub_groszkowski_zosta_odwoany_ze_stanowiska_zast",
+      "url": "https://uodo.gov.pl/pl/138/3008",
+      "status": 200,
+      "title": "Jakub Groszkowski został odwołany ze stanowiska Zastępcy Prezesa Urzędu Ochrony Danych Osobowych",
+      "char_count": 902
+    },
+    {
+      "article_id": "uodo_0045_22_spotkanie_grupy_urzedow_ochrony_danych_osobowyc",
+      "url": "https://uodo.gov.pl/pl/138/3009",
+      "status": 200,
+      "title": "22. Spotkanie Grupy Urzędów Ochrony Danych Osobowych Państw Europy Środkowej i&nbsp;Wschodniej",
+      "char_count": 2829
+    },
+    {
+      "article_id": "uodo_0046_wieksza_obecnosc_uodo_w_nbsp_mediach_spoecznosciow",
+      "url": "https://uodo.gov.pl/pl/138/3010",
+      "status": 200,
+      "title": "Większa obecność UODO w&nbsp;mediach społecznościowych",
+      "char_count": 2118
+    },
+    {
+      "article_id": "uodo_0047_zastepca_prezesa_urzedu_ochrony_danych_osobowych",
+      "url": "https://uodo.gov.pl/pl/138/3012",
+      "status": 200,
+      "title": "Zastępca Prezesa Urzędu Ochrony Danych Osobowych",
+      "char_count": 955
+    },
+    {
+      "article_id": "uodo_0048_aktualizacja_nsa_potwierdzi_ze_przetwarzanie_danyc",
+      "url": "https://uodo.gov.pl/pl/138/3013",
+      "status": 200,
+      "title": "[AKTUALIZACJA] NSA potwierdził, że przetwarzanie danych osobowych w ramach BIP podlega RODO",
+      "char_count": 3480
+    },
+    {
+      "article_id": "uodo_0049_collegium_humanum_zgosio_naruszenie_ochrony_danych",
+      "url": "https://uodo.gov.pl/pl/138/3014",
+      "status": 200,
+      "title": "Collegium Humanum zgłosiło naruszenie ochrony danych osobowych Prezesowi UODO",
+      "char_count": 908
+    },
+    {
+      "article_id": "uodo_0050_uodo_pogebia_wspoprace_z_nbsp_ministerstwem_cyfryz",
+      "url": "https://uodo.gov.pl/pl/138/3015",
+      "status": 200,
+      "title": "UODO pogłębia współpracę z&nbsp;Ministerstwem Cyfryzacji",
+      "char_count": 1104
+    },
+    {
+      "article_id": "uodo_0051_prezes_uodo_spotyka_sie_z_organizacjami_reprezentu",
+      "url": "https://uodo.gov.pl/pl/138/3016",
+      "status": 200,
+      "title": "Prezes UODO spotyka się z organizacjami reprezentującymi inspektorów ochrony danych",
+      "char_count": 1589
+    },
+    {
+      "article_id": "uodo_0052_prezes_uodo_spotka_sie_z_nbsp_prezesem_krajowej_ra",
+      "url": "https://uodo.gov.pl/pl/138/3017",
+      "status": 200,
+      "title": "Prezes UODO spotkał się z&nbsp;Prezesem Krajowej Rady Radców Prawnych",
+      "char_count": 1053
+    },
+    {
+      "article_id": "uodo_0053_prezes_uodo_moze_rozpatrywac_skargi_na_sejmowe_kom",
+      "url": "https://uodo.gov.pl/pl/138/3018",
+      "status": 200,
+      "title": "Prezes UODO może rozpatrywać skargi na sejmowe komisje śledcze",
+      "char_count": 1314
+    },
+    {
+      "article_id": "uodo_0054_propozycje_zmiany_przepisow_o_sygnalistach_wymagaj",
+      "url": "https://uodo.gov.pl/pl/138/3019",
+      "status": 200,
+      "title": "Propozycje zmiany przepisów o sygnalistach wymagają poprawek",
+      "char_count": 2389
+    },
+    {
+      "article_id": "uodo_0055_przepisy_projektu_ustawy_o_cudzoziemcach_wymagaja_",
+      "url": "https://uodo.gov.pl/pl/138/3021",
+      "status": 200,
+      "title": "Przepisy projektu ustawy o cudzoziemcach wymagają doprecyzowania",
+      "char_count": 2832
+    },
+    {
+      "article_id": "uodo_0056_przetwarzanie_danych_przez_podmioty_lecznicze_wyst",
+      "url": "https://uodo.gov.pl/pl/138/3022",
+      "status": 200,
+      "title": "Przetwarzanie danych przez podmioty lecznicze występujące w podwójnej roli",
+      "char_count": 2398
+    },
+    {
+      "article_id": "uodo_0057_swiatowy_dzien_konsumenta",
+      "url": "https://uodo.gov.pl/pl/138/3023",
+      "status": 200,
+      "title": "Światowy Dzień Konsumenta",
+      "char_count": 796
+    },
+    {
+      "article_id": "uodo_0058_prezes_uodo_spotka_sie_z_nbsp_przedstawicielami_st",
+      "url": "https://uodo.gov.pl/pl/138/3026",
+      "status": 200,
+      "title": "Prezes UODO spotkał się z&nbsp;przedstawicielami Stowarzyszenia Praktyków Ochrony Danych",
+      "char_count": 1625
+    },
+    {
+      "article_id": "uodo_0059_prezes_uodo_spotka_sie_z_nbsp_prezesem_siodo",
+      "url": "https://uodo.gov.pl/pl/138/3027",
+      "status": 200,
+      "title": "Prezes UODO spotkał się z&nbsp;prezesem SIODO",
+      "char_count": 1541
+    },
+    {
+      "article_id": "uodo_0060_prezes_uodo_spotka_sie_z_nbsp_eiod",
+      "url": "https://uodo.gov.pl/pl/138/3028",
+      "status": 200,
+      "title": "Prezes UODO spotkał się z&nbsp;EIOD",
+      "char_count": 701
+    },
+    {
+      "article_id": "uodo_0061_spotkanie_o_niezaleznosci_iod",
+      "url": "https://uodo.gov.pl/pl/138/3029",
+      "status": 200,
+      "title": "Spotkanie o niezależności IOD",
+      "char_count": 2372
+    },
+    {
+      "article_id": "uodo_0062_prezes_uodo_spotka_sie_z_nbsp_organizatorem_projek",
+      "url": "https://uodo.gov.pl/pl/138/3032",
+      "status": 200,
+      "title": "Prezes UODO spotkał się z&nbsp;organizatorem projektu Tour de Konstytucja",
+      "char_count": 1432
+    },
+    {
+      "article_id": "uodo_0063_czwarte_webinarium_z_nbsp_cyklu_certyfikacja_w_nbs",
+      "url": "https://uodo.gov.pl/pl/138/3034",
+      "status": 200,
+      "title": "Czwarte webinarium z&nbsp;cyklu „Certyfikacja w&nbsp;ochronie danych”",
+      "char_count": 983
+    },
+    {
+      "article_id": "uodo_0064_spotkanie_uodo_z_nbsp_konfederacja_lewiatan",
+      "url": "https://uodo.gov.pl/pl/138/3035",
+      "status": 200,
+      "title": "Spotkanie UODO z&nbsp;Konfederacją Lewiatan",
+      "char_count": 1318
+    },
+    {
+      "article_id": "uodo_0065_prezes_uodo_spotka_sie_z_nbsp_przedstawicielami_zw",
+      "url": "https://uodo.gov.pl/pl/138/3036",
+      "status": 200,
+      "title": "Prezes UODO spotkał się z&nbsp;przedstawicielami Związku Firm Ochrony Danych Osobowych",
+      "char_count": 1477
+    },
+    {
+      "article_id": "uodo_0066_o_ochronie_danych_w_nbsp_czasie_zagrozenia",
+      "url": "https://uodo.gov.pl/pl/138/3039",
+      "status": 200,
+      "title": "O ochronie danych w&nbsp;czasie zagrożenia",
+      "char_count": 1776
+    },
+    {
+      "article_id": "uodo_0067_uodo_na_warsztatach_tour_de_konstytucja",
+      "url": "https://uodo.gov.pl/pl/138/3040",
+      "status": 200,
+      "title": "UODO na warsztatach Tour de Konstytucja",
+      "char_count": 1692
+    },
+    {
+      "article_id": "uodo_0068_spotkanie_uodo_z_nbsp_izba_gospodarki_elektroniczn",
+      "url": "https://uodo.gov.pl/pl/138/3041",
+      "status": 200,
+      "title": "Spotkanie UODO z&nbsp;Izbą Gospodarki Elektronicznej",
+      "char_count": 1438
+    },
+    {
+      "article_id": "uodo_0070_prezes_uodo_monitoruje_sprawe_wycieku_danych_pacje",
+      "url": "https://uodo.gov.pl/pl/138/3047",
+      "status": 200,
+      "title": "Prezes UODO monitoruje sprawę wycieku danych pacjentów DCG Centrum Medyczne",
+      "char_count": 1702
+    },
+    {
+      "article_id": "uodo_0071_prezes_uodo_wycofuje_skarge_kasacyjna_wniesiona_do",
+      "url": "https://uodo.gov.pl/pl/138/3048",
+      "status": 200,
+      "title": "Prezes UODO wycofuje skargę kasacyjną wniesioną do NSA [Aktualizacja]",
+      "char_count": 3003
+    },
+    {
+      "article_id": "uodo_0072_troska_o_nbsp_dane_osob_wazniejsza_niz_interes_adm",
+      "url": "https://uodo.gov.pl/pl/138/3049",
+      "status": 200,
+      "title": "Troska o&nbsp;dane osób ważniejsza niż interes administratora",
+      "char_count": 4626
+    },
+    {
+      "article_id": "uodo_0073_spotkanie_z_ogolnopolskim_stowarzyszeniem_ochrony_",
+      "url": "https://uodo.gov.pl/pl/138/3050",
+      "status": 200,
+      "title": "Spotkanie z Ogólnopolskim Stowarzyszeniem Ochrony Danych Osobowych w Sektorze Medycznym",
+      "char_count": 1415
+    },
+    {
+      "article_id": "uodo_0074_spotkanie_uodo_ze_zwiazkiem_bankow_polskich",
+      "url": "https://uodo.gov.pl/pl/138/3052",
+      "status": 200,
+      "title": "Spotkanie UODO ze Związkiem Banków Polskich",
+      "char_count": 1581
+    },
+    {
+      "article_id": "uodo_0075_w_projekcie_ustawy_o_kryptoaktywach_trzeba_doprecy",
+      "url": "https://uodo.gov.pl/pl/138/3053",
+      "status": 200,
+      "title": "W projekcie ustawy o kryptoaktywach trzeba doprecyzować zasady ochrony danych osobowych [AKTUAL.]",
+      "char_count": 3308
+    },
+    {
+      "article_id": "uodo_0076_ponad_600_osob_na_spotkaniu_w_nbsp_uodo_dziekujemy",
+      "url": "https://uodo.gov.pl/pl/138/3054",
+      "status": 200,
+      "title": "Ponad 600 osób na spotkaniu w&nbsp;UODO. Dziękujemy za udział w&nbsp;dyskusji o&nbsp;niezależności IOD",
+      "char_count": 1488
+    },
+    {
+      "article_id": "uodo_0077_projekt_ustawy_o_adzie_korporacyjnym_w_spokach_z_u",
+      "url": "https://uodo.gov.pl/pl/138/3055",
+      "status": 200,
+      "title": "Projekt ustawy o ładzie korporacyjnym w spółkach z udziałem Skarbu Państwa - opinia Prezesa UODO",
+      "char_count": 2696
+    },
+    {
+      "article_id": "uodo_0078_administrator_musi_dysponowac_podstawa_do_przetwar",
+      "url": "https://uodo.gov.pl/pl/138/3056",
+      "status": 200,
+      "title": "Administrator musi dysponować podstawą do przetwarzania danych",
+      "char_count": 2995
+    },
+    {
+      "article_id": "uodo_0079_uodo_ponownie_na_warsztatach_o_nbsp_konstytucji",
+      "url": "https://uodo.gov.pl/pl/138/3057",
+      "status": 200,
+      "title": "UODO ponownie na warsztatach o&nbsp;Konstytucji",
+      "char_count": 1417
+    },
+    {
+      "article_id": "uodo_0080_rozmowy_o_nbsp_ochronie_danych_w_nbsp_zawodzie_rad",
+      "url": "https://uodo.gov.pl/pl/138/3059",
+      "status": 200,
+      "title": "Rozmowy o&nbsp;ochronie danych w&nbsp;zawodzie radcy prawnego",
+      "char_count": 1129
+    },
+    {
+      "article_id": "uodo_0081_misja_ewaluacyjna_schengen_w_nbsp_uodo",
+      "url": "https://uodo.gov.pl/pl/138/3061",
+      "status": 200,
+      "title": "Misja Ewaluacyjna Schengen w&nbsp;UODO",
+      "char_count": 2311
+    },
+    {
+      "article_id": "uodo_0082_jak_skoordynowac_dziaania_jednostek_by_efektywnie_",
+      "url": "https://uodo.gov.pl/pl/138/3062",
+      "status": 200,
+      "title": "Jak skoordynować działania jednostek, by efektywnie pomagać dzieciom",
+      "char_count": 2135
+    },
+    {
+      "article_id": "uodo_0083_dzisiaj_zapraszamy_na_konferencje_wyzwania_dla_och",
+      "url": "https://uodo.gov.pl/pl/138/3063",
+      "status": 200,
+      "title": "Dzisiaj zapraszamy na konferencję „Wyzwania dla ochrony danych osobowych dzieci”",
+      "char_count": 1718
+    },
+    {
+      "article_id": "uodo_0084_piate_webinarium_z_nbsp_cyklu_certyfikacja_w_nbsp_",
+      "url": "https://uodo.gov.pl/pl/138/3068",
+      "status": 200,
+      "title": "Piąte webinarium z&nbsp;cyklu „Certyfikacja w&nbsp;ochronie danych”",
+      "char_count": 816
+    },
+    {
+      "article_id": "uodo_0085_wsa_oddali_skarge_rzecznika_dyscyplinarnego_izby_a",
+      "url": "https://uodo.gov.pl/pl/138/3069",
+      "status": 200,
+      "title": "WSA oddalił skargę Rzecznika Dyscyplinarnego Izby Adwokackiej na decyzję Prezesa UODO",
+      "char_count": 1117
+    },
+    {
+      "article_id": "uodo_0086_erod_modele_zgoda_lub_zapata_powinny_oferowac_praw",
+      "url": "https://uodo.gov.pl/pl/138/3070",
+      "status": 200,
+      "title": "EROD: Modele \"zgoda lub zapłata\" powinny oferować prawdziwy wybór",
+      "char_count": 4478
+    },
+    {
+      "article_id": "uodo_0087_prezes_uodo_interweniuje_u_prezesa_poczty_polskiej",
+      "url": "https://uodo.gov.pl/pl/138/3071",
+      "status": 200,
+      "title": "Prezes UODO interweniuje u Prezesa Poczty Polskiej w sprawie zgubionych przesyłek z danymi",
+      "char_count": 1788
+    },
+    {
+      "article_id": "uodo_0088_prezes_uodo_spotka_sie_z_nbsp_koscielnym_inspektor",
+      "url": "https://uodo.gov.pl/pl/138/3072",
+      "status": 200,
+      "title": "Prezes UODO spotkał się z&nbsp;Kościelnym Inspektorem Ochrony Danych",
+      "char_count": 705
+    },
+    {
+      "article_id": "uodo_0089_prezes_uodo_ma_powazne_zastrzezenia_wobec_rejestru",
+      "url": "https://uodo.gov.pl/pl/138/3073",
+      "status": 200,
+      "title": "Prezes UODO ma poważne zastrzeżenia wobec rejestru osób publicznych",
+      "char_count": 2816
+    },
+    {
+      "article_id": "uodo_0090_internetowy_identyfikator_do_personalizacji_reklam",
+      "url": "https://uodo.gov.pl/pl/138/3074",
+      "status": 200,
+      "title": "Internetowy identyfikator do personalizacji reklam jest daną osobową",
+      "char_count": 2795
+    },
+    {
+      "article_id": "uodo_0091_juz_tylko_tydzien_zosta_na_przesanie_eseju_w_nbsp_",
+      "url": "https://uodo.gov.pl/pl/138/3075",
+      "status": 200,
+      "title": "Już tylko tydzień został na przesłanie eseju w&nbsp;XII edycji konkursu UODO dla studentów",
+      "char_count": 2111
+    },
+    {
+      "article_id": "uodo_0092_erod_okresla_priorytety_na_lata_2024_2027",
+      "url": "https://uodo.gov.pl/pl/138/3076",
+      "status": 200,
+      "title": "EROD określa priorytety na lata 2024-2027",
+      "char_count": 2528
+    },
+    {
+      "article_id": "uodo_0093_nagroda_im_michaa_serzyckiego_2024_przyznana",
+      "url": "https://uodo.gov.pl/pl/138/3077",
+      "status": 200,
+      "title": "Nagroda im. Michała Serzyckiego 2024 przyznana",
+      "char_count": 2600
+    },
+    {
+      "article_id": "uodo_0094_jak_zbierac_podpisy_pod_inicjatywa_ustawodawcza_ka",
+      "url": "https://uodo.gov.pl/pl/138/3078",
+      "status": 200,
+      "title": "Jak zbierać podpisy pod inicjatywą ustawodawczą. Kara dla Komitetu Inicjatywy \"Stop LGBT\"",
+      "char_count": 5639
+    },
+    {
+      "article_id": "uodo_0095_spotkanie_prezesa_uodo_z_nbsp_przedstawicielami_st",
+      "url": "https://uodo.gov.pl/pl/138/3080",
+      "status": 200,
+      "title": "Spotkanie Prezesa UODO z&nbsp;przedstawicielami Stowarzyszenia Marketingu Bezpośredniego",
+      "char_count": 1103
+    },
+    {
+      "article_id": "uodo_0096_problematyka_przetwarzania_danych_dzieci_we_wspocz",
+      "url": "https://uodo.gov.pl/pl/138/3081",
+      "status": 200,
+      "title": "Problematyka przetwarzania danych dzieci we współczesnym świecie",
+      "char_count": 4861
+    },
+    {
+      "article_id": "uodo_0097_prezes_uodo_zawiadomi_prokurature_o_wycieku_danych",
+      "url": "https://uodo.gov.pl/pl/138/3082",
+      "status": 200,
+      "title": "Prezes UODO zawiadomił prokuraturę o wycieku danych osobowych klientów portalu pandabuy.com",
+      "char_count": 2402
+    },
+    {
+      "article_id": "uodo_0098_prezes_uodo_zajmie_sie_wyciekiem_z_sanepidu_danych",
+      "url": "https://uodo.gov.pl/pl/138/3083",
+      "status": 200,
+      "title": "Prezes UODO zajmie się wyciekiem, z Sanepidu, danych aktywistki. Cofa skargę kasacyjną poprzednika.",
+      "char_count": 2609
+    },
+    {
+      "article_id": "uodo_0099_komunikaty_prasowe_policji_to_nie_miejsce_na_ujawn",
+      "url": "https://uodo.gov.pl/pl/138/3084",
+      "status": 200,
+      "title": "Komunikaty prasowe policji to nie miejsce na ujawnianie danych osobowych",
+      "char_count": 806
+    },
+    {
+      "article_id": "uodo_0100_spotkanie_zespou_ds_badan_rownosciowych_instytutu_",
+      "url": "https://uodo.gov.pl/pl/138/3085",
+      "status": 200,
+      "title": "Spotkanie zespołu ds. badań równościowych Instytutu Miast Praw Człowieka",
+      "char_count": 1735
+    },
+    {
+      "article_id": "uodo_0101_szoste_webinarium_z_nbsp_cyklu_certyfikacja_w_nbsp",
+      "url": "https://uodo.gov.pl/pl/138/3091",
+      "status": 200,
+      "title": "Szóste webinarium z&nbsp;cyklu „Certyfikacja w&nbsp;ochronie danych”",
+      "char_count": 837
+    },
+    {
+      "article_id": "uodo_0102_kara_dla_stowarzyszenia_sportowego_za_brak_wasciwe",
+      "url": "https://uodo.gov.pl/pl/138/3092",
+      "status": 200,
+      "title": "Kara dla stowarzyszenia sportowego za brak właściwej reakcji na ujawnienie danych osobowych",
+      "char_count": 3865
+    },
+    {
+      "article_id": "uodo_0103_prawie_240_tys_z_kary_dla_firmy_ktorej_pracownik_z",
+      "url": "https://uodo.gov.pl/pl/138/3095",
+      "status": 200,
+      "title": "Prawie 240 tys. zł kary dla firmy, której pracownik zgubił pendrive z danymi osobowymi",
+      "char_count": 1727
+    },
+    {
+      "article_id": "uodo_0104_koscielny_inspektor_ochrony_danych_razem_z_nbsp_uo",
+      "url": "https://uodo.gov.pl/pl/138/3096",
+      "status": 200,
+      "title": "Kościelny Inspektor Ochrony Danych razem z&nbsp;UODO szkolą inspektorów w&nbsp;jednostkach kościelnych",
+      "char_count": 1340
+    },
+    {
+      "article_id": "uodo_0105_czas_na_rewizje_poradnikow_uodo_czekamy_na_was",
+      "url": "https://uodo.gov.pl/pl/138/3098",
+      "status": 200,
+      "title": "Czas na rewizję poradników UODO – czekamy na Was",
+      "char_count": 4493
+    },
+    {
+      "article_id": "uodo_0106_nowoczesne_systemy_biletowe_nie_moga_naruszac_pryw",
+      "url": "https://uodo.gov.pl/pl/138/3100",
+      "status": 200,
+      "title": "Nowoczesne systemy biletowe nie mogą naruszać prywatności",
+      "char_count": 1818
+    },
+    {
+      "article_id": "uodo_0107_prezes_uodo_wzia_udzia_w_nbsp_dyskusji_zorganizowa",
+      "url": "https://uodo.gov.pl/pl/138/3101",
+      "status": 200,
+      "title": "Prezes UODO wziął udział w&nbsp;dyskusji zorganizowanej w&nbsp;ramach Europejskiego Szczytu e-Commerce",
+      "char_count": 1170
+    },
+    {
+      "article_id": "uodo_0108_konsultacje_spoeczne_w_procesie_legislacyjnym_tema",
+      "url": "https://uodo.gov.pl/pl/138/3102",
+      "status": 200,
+      "title": "Konsultacje społeczne w procesie legislacyjnym tematem rozmów UODO i Sejmu",
+      "char_count": 1400
+    },
+    {
+      "article_id": "uodo_0109_erod_o_technologii_rozpoznawania_twarzy_na_lotnisk",
+      "url": "https://uodo.gov.pl/pl/138/3103",
+      "status": 200,
+      "title": "EROD o technologii rozpoznawania twarzy na lotniskach",
+      "char_count": 8263
+    },
+    {
+      "article_id": "uodo_0110_konferencja_ochrona_danych_osobowych_w_nbsp_ue_dok",
+      "url": "https://uodo.gov.pl/pl/138/3105",
+      "status": 200,
+      "title": "Konferencja „Ochrona danych osobowych w&nbsp;UE. Dokąd zmierzamy w&nbsp;przededniu wyborów europejskich?”",
+      "char_count": 1412
+    },
+    {
+      "article_id": "uodo_0111_wyrok_etpc_w_sprawie_inwigilacji_w_polsce",
+      "url": "https://uodo.gov.pl/pl/138/3108",
+      "status": 200,
+      "title": "Wyrok ETPC w sprawie inwigilacji w Polsce",
+      "char_count": 3700
+    },
+    {
+      "article_id": "uodo_0112_bezpieczenstwo_dzieci_w_obliczu_nowych_technologii",
+      "url": "https://uodo.gov.pl/pl/138/3110",
+      "status": 200,
+      "title": "Bezpieczeństwo dzieci w obliczu nowych technologii",
+      "char_count": 5598
+    },
+    {
+      "article_id": "uodo_0113_ruszya_iv_edycja_obywatelskiego_projektu_tour_de_k",
+      "url": "https://uodo.gov.pl/pl/138/3111",
+      "status": 200,
+      "title": "Ruszyła IV edycja obywatelskiego projektu Tour de Konstytucja",
+      "char_count": 934
+    },
+    {
+      "article_id": "uodo_0114_wyzwania_przyszosci_ochrony_danych_osobowych_konfe",
+      "url": "https://uodo.gov.pl/pl/138/3113",
+      "status": 200,
+      "title": "Wyzwania przyszłości ochrony danych osobowych – konferencja UODO [AKTUALIZACJA]",
+      "char_count": 5428
+    },
+    {
+      "article_id": "uodo_0115_prezes_uodo_powoa_spoeczny_zespo_ekspertow",
+      "url": "https://uodo.gov.pl/pl/138/3114",
+      "status": 200,
+      "title": "Prezes UODO powołał Społeczny Zespół Ekspertów",
+      "char_count": 2597
+    },
+    {
+      "article_id": "uodo_0116_odpowiedzialnosc_odszkodowawcza_za_ujawnianie_dany",
+      "url": "https://uodo.gov.pl/pl/138/3116",
+      "status": 200,
+      "title": "Odpowiedzialność odszkodowawcza za ujawnianie danych - po wyroku TSUE C-741/21",
+      "char_count": 3217
+    },
+    {
+      "article_id": "uodo_0117_po_wyroku_tsue_nalezy_zmienic_przepisy_o_krajowym_",
+      "url": "https://uodo.gov.pl/pl/138/3117",
+      "status": 200,
+      "title": "Po wyroku TSUE należy zmienić przepisy o Krajowym Systemie Informacyjnym Policji",
+      "char_count": 2038
+    },
+    {
+      "article_id": "uodo_0118_niezaleznosc_iod_musi_byc_standardem_podsumowanie_",
+      "url": "https://uodo.gov.pl/pl/138/3118",
+      "status": 200,
+      "title": "Niezależność IOD musi być standardem – podsumowanie efektów spotkania w UODO",
+      "char_count": 10662
+    },
+    {
+      "article_id": "uodo_0119_seminarium_organizowane_przez_zus_we_wspopracy_z_n",
+      "url": "https://uodo.gov.pl/pl/138/3119",
+      "status": 200,
+      "title": "Seminarium organizowane przez ZUS we współpracy z&nbsp;UODO",
+      "char_count": 1383
+    },
+    {
+      "article_id": "uodo_0120_uwagi_puodo_do_projektu_ustawy_o_wsparciu_rodzicow",
+      "url": "https://uodo.gov.pl/pl/138/3120",
+      "status": 200,
+      "title": "Uwagi PUODO do projektu ustawy o wsparciu rodziców w aktywności zawodowej",
+      "char_count": 4285
+    },
+    {
+      "article_id": "uodo_0121_interaktywne_materiay_edukacyjne",
+      "url": "https://uodo.gov.pl/pl/138/3123",
+      "status": 200,
+      "title": "Interaktywne Materiały Edukacyjne",
+      "char_count": 1715
+    },
+    {
+      "article_id": "uodo_0122_projekt_ustawy_prawo_o_komunikacji_elektronicznej_",
+      "url": "https://uodo.gov.pl/pl/138/3126",
+      "status": 200,
+      "title": "Projekt ustawy Prawo o komunikacji elektronicznej wymaga zmian",
+      "char_count": 2767
+    },
+    {
+      "article_id": "uodo_0123_uodo_rozpoczyna_krajowe_badanie_dotyczace_wykonywa",
+      "url": "https://uodo.gov.pl/pl/138/3127",
+      "status": 200,
+      "title": "UODO rozpoczyna krajowe badanie dotyczące wykonywania przez administratorów prawa dostępu do danych",
+      "char_count": 3460
+    },
+    {
+      "article_id": "uodo_0124_uwagi_prezesa_uodo_do_prezydenckiego_projektu_usta",
+      "url": "https://uodo.gov.pl/pl/138/3128",
+      "status": 200,
+      "title": "Uwagi Prezesa UODO do prezydenckiego projektu ustawy o asystencji osobistej",
+      "char_count": 1690
+    },
+    {
+      "article_id": "uodo_0125_meta_wstrzymuje_wykorzystywanie_danych_uzytkowniko",
+      "url": "https://uodo.gov.pl/pl/138/3129",
+      "status": 200,
+      "title": "Meta wstrzymuje wykorzystywanie danych użytkowników do trenowania sztucznej inteligencji",
+      "char_count": 1876
+    },
+    {
+      "article_id": "uodo_0126_prezes_uodo_spotka_sie_z_nbsp_inspektorami_ochrony",
+      "url": "https://uodo.gov.pl/pl/138/3130",
+      "status": 200,
+      "title": "Prezes UODO spotkał się z&nbsp;inspektorami ochrony danych instytucji kościelnych",
+      "char_count": 3384
+    },
+    {
+      "article_id": "uodo_0127_webinarium_ochrona_danych_osobowych_pracownikow_se",
+      "url": "https://uodo.gov.pl/pl/138/3131",
+      "status": 200,
+      "title": "Webinarium „Ochrona danych osobowych pracowników sektora MMŚP”. Wyniki badania",
+      "char_count": 2330
+    },
+    {
+      "article_id": "uodo_0128_na_administratorze_spoczywa_obowiazek_wspopracy_z_",
+      "url": "https://uodo.gov.pl/pl/138/3132",
+      "status": 200,
+      "title": "Na administratorze spoczywa obowiązek współpracy \r\nz Prezesem UODO - WSA potwierdza",
+      "char_count": 1312
+    },
+    {
+      "article_id": "uodo_0129_seminarium_organizowane_przez_zus_we_wspopracy_z_n",
+      "url": "https://uodo.gov.pl/pl/138/3133",
+      "status": 200,
+      "title": "Seminarium organizowane przez ZUS we współpracy z&nbsp;UODO",
+      "char_count": 1965
+    },
+    {
+      "article_id": "uodo_0130_przepisy_o_danych_biometrycznych_w_centralnym_reje",
+      "url": "https://uodo.gov.pl/pl/138/3134",
+      "status": 200,
+      "title": "Przepisy o danych biometrycznych w centralnym rejestrze dowodów osobistych do poprawy",
+      "char_count": 3583
+    },
+    {
+      "article_id": "uodo_0131_ustawa_o_ochronie_sygnalistow_przyjeta_bez_uwzgled",
+      "url": "https://uodo.gov.pl/pl/138/3136",
+      "status": 200,
+      "title": "Ustawa o ochronie sygnalistów przyjęta bez uwzględnienia uwag Prezesa UODO",
+      "char_count": 2006
+    },
+    {
+      "article_id": "uodo_0132_zdravko_vukic_nowym_wiceprzewodniczacym_europejski",
+      "url": "https://uodo.gov.pl/pl/138/3138",
+      "status": 200,
+      "title": "Zdravko Vukić nowym Wiceprzewodniczącym Europejskiej Rady Ochrony Danych",
+      "char_count": 4732
+    },
+    {
+      "article_id": "uodo_0133_uwagi_uodo_do_rzadowego_projektu_ustawy_dotyczacej",
+      "url": "https://uodo.gov.pl/pl/138/3139",
+      "status": 200,
+      "title": "Uwagi UODO do rządowego projektu ustawy dotyczącej przewodnictwa Polski w Radzie UE w 2025 r.",
+      "char_count": 2542
+    },
+    {
+      "article_id": "uodo_0134_rosnace_wyzwania_dla_samorzadow_zwiazane_z_ochrona",
+      "url": "https://uodo.gov.pl/pl/138/3140",
+      "status": 200,
+      "title": "Rosnące wyzwania dla samorządów związane z ochroną danych wymagają współpracy z UODO",
+      "char_count": 1898
+    },
+    {
+      "article_id": "uodo_0135_konsultacje_spoeczne_dotyczace_stosowania_ustawy_o",
+      "url": "https://uodo.gov.pl/pl/138/3162",
+      "status": 200,
+      "title": "Konsultacje społeczne dotyczące stosowania ustawy o&nbsp;ochronie sygnalistów",
+      "char_count": 3273
+    },
+    {
+      "article_id": "uodo_0136_puodo_przypomina_o_uwzglednieniu_standardow_ochron",
+      "url": "https://uodo.gov.pl/pl/138/3212",
+      "status": 200,
+      "title": "PUODO przypomina o uwzględnieniu standardów ochrony danych w Prawie komunikacji elektronicznej",
+      "char_count": 2118
+    },
+    {
+      "article_id": "uodo_0137_mozna_juz_zapoznac_sie_z_uwagami_do_poradnikow_uod",
+      "url": "https://uodo.gov.pl/pl/138/3214",
+      "status": 200,
+      "title": "Można już zapoznać się z uwagami do poradników UODO",
+      "char_count": 1705
+    },
+    {
+      "article_id": "uodo_0138_prawo_do_prywatnosci_a_wizerunki_dzieci_w_internec",
+      "url": "https://uodo.gov.pl/pl/138/3215",
+      "status": 200,
+      "title": "Prawo do prywatności a wizerunki dzieci w internecie. Poradnik.",
+      "char_count": 5939
+    },
+    {
+      "article_id": "uodo_0139_kara_dla_platformy_sprzedazowej_vinted",
+      "url": "https://uodo.gov.pl/pl/138/3216",
+      "status": 200,
+      "title": "Kara dla platformy sprzedażowej Vinted",
+      "char_count": 2502
+    },
+    {
+      "article_id": "uodo_0140_aktualizacja_konieczne_jest_wyodrebnienie_stanowis",
+      "url": "https://uodo.gov.pl/pl/138/3217",
+      "status": 200,
+      "title": "[AKTUALIZACJA] Konieczne jest wyodrębnienie stanowiska IOD w służbie cywilnej",
+      "char_count": 4851
+    },
+    {
+      "article_id": "uodo_0141_nowe_stanowisko_w_sprawie_ustawy_kagancowej_nalezy",
+      "url": "https://uodo.gov.pl/pl/138/3218",
+      "status": 200,
+      "title": "Nowe stanowisko w sprawie ustawy kagańcowej – należy chronić prywatność sędziów i prokuratorów",
+      "char_count": 4266
+    },
+    {
+      "article_id": "uodo_0142_nalezy_ograniczyc_dostep_do_danych_uzytkownikow_am",
+      "url": "https://uodo.gov.pl/pl/138/3219",
+      "status": 200,
+      "title": "Należy ograniczyć dostęp do danych użytkowników łamiących prawa autorskie",
+      "char_count": 2420
+    },
+    {
+      "article_id": "uodo_0143_uodo_prowadzi_rozmowy_na_temat_kodeksu_postepowani",
+      "url": "https://uodo.gov.pl/pl/138/3223",
+      "status": 200,
+      "title": "UODO prowadzi rozmowy na temat kodeksu postępowania dla jednostek samorządu terytorialnego",
+      "char_count": 1949
+    },
+    {
+      "article_id": "uodo_0144_na_co_nalezy_zwrocic_uwage_przy_wdrazaniu_aktu_w_s",
+      "url": "https://uodo.gov.pl/pl/138/3224",
+      "status": 200,
+      "title": "Na co należy zwrócić uwagę przy wdrażaniu Aktu w sprawie sztucznej inteligencji?",
+      "char_count": 1799
+    },
+    {
+      "article_id": "uodo_0145_opinia_puodo_do_poselskiego_projektu_ustawy_o_nbsp",
+      "url": "https://uodo.gov.pl/pl/138/3226",
+      "status": 200,
+      "title": "Opinia PUODO do poselskiego projektu ustawy o&nbsp;ochronie ludności w&nbsp;czasie klęski żywiołowej",
+      "char_count": 4310
+    },
+    {
+      "article_id": "uodo_0146_analizujemy_uwagi_do_poradnikow_uodo",
+      "url": "https://uodo.gov.pl/pl/138/3227",
+      "status": 200,
+      "title": "Analizujemy uwagi do poradników UODO",
+      "char_count": 1604
+    },
+    {
+      "article_id": "uodo_0147_nie_kazda_przerwa_w_nbsp_dostepie_do_danych_stanow",
+      "url": "https://uodo.gov.pl/pl/138/3231",
+      "status": 200,
+      "title": "Nie każda przerwa w&nbsp;dostępie do danych stanowi naruszenie",
+      "char_count": 1433
+    },
+    {
+      "article_id": "uodo_0148_dostep_policji_i_prokuratury_do_danych_telekomunik",
+      "url": "https://uodo.gov.pl/pl/138/3232",
+      "status": 200,
+      "title": "Dostęp policji i prokuratury do danych telekomunikacyjnych. Prezes UODO o wyroku TSUE",
+      "char_count": 3151
+    },
+    {
+      "article_id": "uodo_0149_dane_pasazerow_wymagaja_wszechstronnej_ochrony_spo",
+      "url": "https://uodo.gov.pl/pl/138/3234",
+      "status": 200,
+      "title": "Dane pasażerów wymagają wszechstronnej ochrony - Spotkanie PUODO z&nbsp;PPL",
+      "char_count": 1785
+    },
+    {
+      "article_id": "uodo_0150_siodme_webinarium_z_nbsp_cyklu_certyfikacja_w_nbsp",
+      "url": "https://uodo.gov.pl/pl/138/3242",
+      "status": 200,
+      "title": "Siódme webinarium z&nbsp;cyklu „Certyfikacja w&nbsp;ochronie danych”",
+      "char_count": 1294
+    },
+    {
+      "article_id": "uodo_0151_polacy_maja_duza_swiadomosc_funkcjonowania_urzedu_",
+      "url": "https://uodo.gov.pl/pl/138/3248",
+      "status": 200,
+      "title": "Polacy mają dużą świadomość funkcjonowania Urzędu Ochrony Danych Osobowych",
+      "char_count": 2074
+    },
+    {
+      "article_id": "uodo_0152_ustawa_o_krajowej_administracji_skarbowej_wymaga_z",
+      "url": "https://uodo.gov.pl/pl/138/3250",
+      "status": 200,
+      "title": "Ustawa o Krajowej Administracji Skarbowej wymaga zmian",
+      "char_count": 5319
+    },
+    {
+      "article_id": "uodo_0153_kolejny_wyrok_sadu_europejskiego_potwierdza_ze_nad",
+      "url": "https://uodo.gov.pl/pl/138/3252",
+      "status": 200,
+      "title": "Kolejny wyrok sądu europejskiego potwierdza, że nadzór nad działaniami służb wymaga poprawy",
+      "char_count": 1463
+    },
+    {
+      "article_id": "uodo_0154_powstanie_poradnik_uodo_dotyczacy_przetwarzania_da",
+      "url": "https://uodo.gov.pl/pl/138/3257",
+      "status": 200,
+      "title": "Powstanie poradnik UODO dotyczący przetwarzania danych osobowych przez związki zawodowe",
+      "char_count": 3034
+    },
+    {
+      "article_id": "uodo_0155_ponad_7_nbsp_milionow_pracownikow_na_celowniku_hak",
+      "url": "https://uodo.gov.pl/pl/138/3258",
+      "status": 200,
+      "title": "Ponad 7&nbsp;milionów pracowników na celowniku hakerów",
+      "char_count": 5467
+    },
+    {
+      "article_id": "uodo_0156_ustawa_o_nbsp_sygnalistach_prezes_uodo_zaprasza_na",
+      "url": "https://uodo.gov.pl/pl/138/3260",
+      "status": 200,
+      "title": "Ustawa o&nbsp;sygnalistach. Prezes UODO zaprasza na seminarium",
+      "char_count": 2367
+    },
+    {
+      "article_id": "uodo_0157_prezes_uodo_zajmie_sie_skargami_obywateli_w_sprawi",
+      "url": "https://uodo.gov.pl/pl/138/3261",
+      "status": 200,
+      "title": "Prezes UODO zajmie się skargami obywateli w sprawie tzw. wyborów kopertowych",
+      "char_count": 3190
+    },
+    {
+      "article_id": "uodo_0158_uodo_na_kolejnym_przystanku_tour_de_konstytucja",
+      "url": "https://uodo.gov.pl/pl/138/3263",
+      "status": 200,
+      "title": "UODO na kolejnym przystanku Tour de Konstytucja",
+      "char_count": 1115
+    },
+    {
+      "article_id": "uodo_0159_prezes_uodo_zakaza_spoce_meta_publikacji_reklam_z_",
+      "url": "https://uodo.gov.pl/pl/138/3266",
+      "status": 200,
+      "title": "Prezes UODO zakazał spółce Meta publikacji reklam z użyciem danych Omeny Mensah na terenie Polski",
+      "char_count": 2253
+    },
+    {
+      "article_id": "uodo_0160_meta_nie_moze_publikowac_na_terenie_polski_reklam_",
+      "url": "https://uodo.gov.pl/pl/138/3268",
+      "status": 200,
+      "title": "Meta nie może publikować na terenie Polski reklam z użyciem danych prezesa InPostu",
+      "char_count": 1943
+    },
+    {
+      "article_id": "uodo_0161_jak_chronic_dane_sygnalistow_podsumowanie_seminari",
+      "url": "https://uodo.gov.pl/pl/138/3271",
+      "status": 200,
+      "title": "Jak chronić dane sygnalistów – podsumowanie seminarium",
+      "char_count": 7166
+    },
+    {
+      "article_id": "uodo_0162_kara_prawie_1_5_mln_zotych_dla_spoki_medycznej_po_",
+      "url": "https://uodo.gov.pl/pl/138/3273",
+      "status": 200,
+      "title": "Kara prawie 1,5 mln złotych dla spółki medycznej po ataku hakerskim",
+      "char_count": 3375
+    },
+    {
+      "article_id": "uodo_0163_jak_stosowac_ustawe_kamilka_w_zgodzie_ze_standarda",
+      "url": "https://uodo.gov.pl/pl/138/3278",
+      "status": 200,
+      "title": "Jak stosować „ustawę Kamilka” w zgodzie ze standardami ochrony danych osobowych",
+      "char_count": 3653
+    },
+    {
+      "article_id": "uodo_0164_kolejne_materiay_dotyczace_publikacji_wizerunku_dz",
+      "url": "https://uodo.gov.pl/pl/138/3312",
+      "status": 200,
+      "title": "Kolejne materiały dotyczące publikacji wizerunku dzieci w internecie",
+      "char_count": 535
+    },
+    {
+      "article_id": "uodo_0165_uodo_rozmawia_z_nbsp_utk_o_nbsp_przetwarzaniu_dany",
+      "url": "https://uodo.gov.pl/pl/138/3313",
+      "status": 200,
+      "title": "UODO rozmawia z&nbsp;UTK o&nbsp;przetwarzaniu danych osobowych na kolei",
+      "char_count": 1466
+    },
+    {
+      "article_id": "uodo_0167_podawanie_imienia_ojca_do_celow_identyfikacji_osob",
+      "url": "https://uodo.gov.pl/pl/138/3317",
+      "status": 200,
+      "title": "Podawanie imienia ojca do celów identyfikacji osoby jest nadmiarowe",
+      "char_count": 1506
+    },
+    {
+      "article_id": "uodo_0168_co_osma_firma_msp_podaje_hakerom_dane_pracownikow_",
+      "url": "https://uodo.gov.pl/pl/138/3319",
+      "status": 200,
+      "title": "Co ósma firma MŚP podaje hakerom dane pracowników na tacy",
+      "char_count": 6289
+    },
+    {
+      "article_id": "uodo_0169_administracyjna_kara_pieniezna_dla_spzoz_w_pajeczn",
+      "url": "https://uodo.gov.pl/pl/138/3320",
+      "status": 200,
+      "title": "Administracyjna kara pieniężna dla SPZOZ w Pajęcznie po utracie danych osób",
+      "char_count": 2501
+    },
+    {
+      "article_id": "uodo_0170_spotkanie_uodo_z_kpmg",
+      "url": "https://uodo.gov.pl/pl/138/3326",
+      "status": 200,
+      "title": "Spotkanie UODO z KPMG",
+      "char_count": 2905
+    },
+    {
+      "article_id": "uodo_0171_kara_dla_prokuratury_krajowej_za_ujawnienie_danych",
+      "url": "https://uodo.gov.pl/pl/138/3330",
+      "status": 200,
+      "title": "Kara dla Prokuratury Krajowej za ujawnienie danych osoby pokrzywdzonej przestępstwem",
+      "char_count": 4838
+    },
+    {
+      "article_id": "uodo_0172_ochrona_danych_osobowych_w_nbsp_trzecim_sektorze",
+      "url": "https://uodo.gov.pl/pl/138/3337",
+      "status": 200,
+      "title": "Ochrona danych osobowych w&nbsp;trzecim sektorze",
+      "char_count": 1411
+    },
+    {
+      "article_id": "uodo_0173_zastepca_prezesa_uodo_na_xxxiii_forum_ekonomicznym",
+      "url": "https://uodo.gov.pl/pl/138/3338",
+      "status": 200,
+      "title": "Zastępca prezesa UODO na XXXIII Forum Ekonomicznym w&nbsp;Karpaczu",
+      "char_count": 1835
+    },
+    {
+      "article_id": "uodo_0174_puodo_prosi_o_wyjasnienia_dotyczace_m_in_pozyskiwa",
+      "url": "https://uodo.gov.pl/pl/138/3342",
+      "status": 200,
+      "title": "PUODO prosi o wyjaśnienia dotyczące m.in. pozyskiwania numerów PESEL w związku z wpłatami na partię",
+      "char_count": 1333
+    },
+    {
+      "article_id": "uodo_0175_kara_dla_mbanku_za_niezawiadomienie_osob_poszkodow",
+      "url": "https://uodo.gov.pl/pl/138/3343",
+      "status": 200,
+      "title": "Kara dla mBanku za niezawiadomienie osób poszkodowanych wyciekiem danych",
+      "char_count": 4265
+    },
+    {
+      "article_id": "uodo_0176_przyszosc_technologii_kwantowej_prezes_uodo_na_kon",
+      "url": "https://uodo.gov.pl/pl/138/3344",
+      "status": 200,
+      "title": "Przyszłość technologii kwantowej – Prezes UODO na konferencji w Gdańsku",
+      "char_count": 1827
+    },
+    {
+      "article_id": "uodo_0177_studenci_poznali_prace_uodo",
+      "url": "https://uodo.gov.pl/pl/138/3345",
+      "status": 200,
+      "title": "Studenci poznali pracę UODO",
+      "char_count": 1989
+    },
+    {
+      "article_id": "uodo_0178_puodo_spotka_sie_z_inspektorami_ochrony_danych_w_s",
+      "url": "https://uodo.gov.pl/pl/138/3346",
+      "status": 200,
+      "title": "PUODO spotkał się z inspektorami ochrony danych w sądach",
+      "char_count": 3793
+    },
+    {
+      "article_id": "uodo_0179_forum_wymiany_doswiadczen_organow_ochrony_danych_u",
+      "url": "https://uodo.gov.pl/pl/138/3347",
+      "status": 200,
+      "title": "Forum Wymiany Doświadczeń Organów Ochrony Danych – ukraińska i hiszpańska delegacja w UODO",
+      "char_count": 3736
+    },
+    {
+      "article_id": "uodo_0180_erod_chce_poznac_opinie_na_temat_przyszych_wytyczn",
+      "url": "https://uodo.gov.pl/pl/138/3348",
+      "status": 200,
+      "title": "EROD chce poznać opinie na temat przyszłych wytycznych w sprawie modeli „zgoda lub zapłata”.",
+      "char_count": 1977
+    },
+    {
+      "article_id": "uodo_0181_spotkanie_prezesa_uodo_z_agencja_praw_podstawowych",
+      "url": "https://uodo.gov.pl/pl/138/3349",
+      "status": 200,
+      "title": "Spotkanie Prezesa UODO z Agencją Praw Podstawowych",
+      "char_count": 1569
+    },
+    {
+      "article_id": "uodo_0182_dane_osobowe_a_1_5_dla_organizacji_pozytku_publicz",
+      "url": "https://uodo.gov.pl/pl/138/3350",
+      "status": 200,
+      "title": "Dane osobowe a 1,5% dla organizacji pożytku publicznego",
+      "char_count": 2236
+    },
+    {
+      "article_id": "uodo_0183_kolejne_seminarium_organizowane_przez_zus_we_wspop",
+      "url": "https://uodo.gov.pl/pl/138/3351",
+      "status": 200,
+      "title": "Kolejne seminarium organizowane przez ZUS we współpracy z UODO",
+      "char_count": 1368
+    },
+    {
+      "article_id": "uodo_0184_samorzady_i_ochrona_danych_osobowych_spotkanie_z_p",
+      "url": "https://uodo.gov.pl/pl/138/3353",
+      "status": 200,
+      "title": "Samorządy i ochrona danych osobowych. Spotkanie z przedstawicielami Związku Miast Polskich",
+      "char_count": 2380
+    },
+    {
+      "article_id": "uodo_0185_erod_wspolnie_z_komisja_europejska_opracuja_wytycz",
+      "url": "https://uodo.gov.pl/pl/138/3354",
+      "status": 200,
+      "title": "EROD wspólnie z Komisją Europejską opracują wytyczne o wzajemnych powiązaniach między DMA i RODO",
+      "char_count": 1568
+    },
+    {
+      "article_id": "uodo_0186_uodo_nie_pozostaje_obojetny_na_los_mieszkancow_zal",
+      "url": "https://uodo.gov.pl/pl/138/3355",
+      "status": 200,
+      "title": "UODO nie pozostaje obojętny na los mieszkańców zalanych terenów",
+      "char_count": 906
+    },
+    {
+      "article_id": "uodo_0187_prezes_uodo_odda_hod_pomordowanym_na_wschodzie",
+      "url": "https://uodo.gov.pl/pl/138/3356",
+      "status": 200,
+      "title": "Prezes UODO oddał hołd pomordowanym na Wschodzie",
+      "char_count": 973
+    },
+    {
+      "article_id": "uodo_0188_naruszenia_ochrony_danych_osobowych_wywoane_sytuac",
+      "url": "https://uodo.gov.pl/pl/138/3359",
+      "status": 200,
+      "title": "Naruszenia ochrony danych osobowych wywołane sytuacją powodziową",
+      "char_count": 1276
+    },
+    {
+      "article_id": "uodo_0189_wsa_oddali_skarge_morele_net_na_decyzje_prezesa_uo",
+      "url": "https://uodo.gov.pl/pl/138/3362",
+      "status": 200,
+      "title": "WSA oddalił skargę Morele.net na decyzję Prezesa UODO",
+      "char_count": 1485
+    },
+    {
+      "article_id": "uodo_0190_spotkanie_z_przedstawicielami_inspektorow_ochrony_",
+      "url": "https://uodo.gov.pl/pl/138/3365",
+      "status": 200,
+      "title": "Spotkanie z przedstawicielami inspektorów ochrony danych osobowych i bezpieczeństwa informacji",
+      "char_count": 1470
+    },
+    {
+      "article_id": "uodo_0191_seminarium_ochrona_danych_jako_element_odpornosci_",
+      "url": "https://uodo.gov.pl/pl/138/3367",
+      "status": 200,
+      "title": "Seminarium „Ochrona danych jako element odporności społeczeństwa i państwa”",
+      "char_count": 994
+    },
+    {
+      "article_id": "uodo_0192_administrator_nie_moze_wyreczac_sie_pracownikiem_w",
+      "url": "https://uodo.gov.pl/pl/138/3368",
+      "status": 200,
+      "title": "Administrator nie może wyręczać się pracownikiem w ustalaniu sposobów zabezpieczenia danych",
+      "char_count": 3762
+    },
+    {
+      "article_id": "uodo_0193_uodo_na_olimpiadzie_dla_przedszkolakow",
+      "url": "https://uodo.gov.pl/pl/138/3371",
+      "status": 200,
+      "title": "UODO na Olimpiadzie dla Przedszkolaków",
+      "char_count": 1281
+    },
+    {
+      "article_id": "uodo_0194_certyfikat_kwalifikowanego_podpisu_elektronicznego",
+      "url": "https://uodo.gov.pl/pl/138/3373",
+      "status": 200,
+      "title": "Certyfikat kwalifikowanego podpisu elektronicznego nie powinien ujawniać numeru PESEL [Aktualizacja]",
+      "char_count": 3009
+    },
+    {
+      "article_id": "uodo_0195_ustawa_kamilka_wymaga_korekt_wystapienie_puodo_do_",
+      "url": "https://uodo.gov.pl/pl/138/3377",
+      "status": 200,
+      "title": "Ustawa Kamilka wymaga korekt. Wystąpienie PUODO do Ministra Sprawiedliwości",
+      "char_count": 10006
+    },
+    {
+      "article_id": "uodo_0196_warsztaty_edukacyjne_w_uodo_dla_dzieci_w_ramach_pr",
+      "url": "https://uodo.gov.pl/pl/138/3383",
+      "status": 200,
+      "title": "Warsztaty edukacyjne w UODO dla dzieci w ramach programu „Lekcje o finansach”",
+      "char_count": 1485
+    },
+    {
+      "article_id": "uodo_0197_korzystanie_z_kamer_nasobnych_przez_kontrolerow_bi",
+      "url": "https://uodo.gov.pl/pl/138/3384",
+      "status": 200,
+      "title": "Korzystanie z kamer nasobnych przez kontrolerów biletów a obowiązek informacyjny",
+      "char_count": 2101
+    },
+    {
+      "article_id": "uodo_0198_uwagi_do_projektu_nowelizacji_ustawy_o_udostepnian",
+      "url": "https://uodo.gov.pl/pl/138/3385",
+      "status": 200,
+      "title": "Uwagi do projektu nowelizacji ustawy o udostępnianiu informacji o środowisku",
+      "char_count": 2773
+    },
+    {
+      "article_id": "uodo_0199_co_piata_firma_nie_dba_o_szkolenia_z_ochrony_danyc",
+      "url": "https://uodo.gov.pl/pl/138/3395",
+      "status": 200,
+      "title": "Co piąta firma nie dba o szkolenia z ochrony danych osobowych",
+      "char_count": 8238
+    },
+    {
+      "article_id": "uodo_0200_ochrona_danych_osobowych_a_bezpieczenstwo_panstwa_",
+      "url": "https://uodo.gov.pl/pl/138/3396",
+      "status": 200,
+      "title": "Ochrona danych osobowych a bezpieczeństwo państwa – wnioski po seminarium UODO i ZUS",
+      "char_count": 8469
+    }
+  ]
+}

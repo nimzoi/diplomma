@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00830",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-wlamanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-wlamanie.html",
+  "archive_file": "e_prawnik/eprawnik_00830.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56221,
+  "sha256": "40960afe063dc0c27186e3afb1b9e655dc03f1b9ba48425da850bcb0c13bab9e",
+  "download_date": "2026-05-16T07:39:07Z",
+  "duration_sec": 0.188,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00836",
+  "source_url": "https://e-prawnik.pl/forum/bycie-pod-polisa-ojca-a-odszkodowanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/bycie-pod-polisa-ojca-a-odszkodowanie.html",
+  "archive_file": "e_prawnik/eprawnik_00836.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57008,
+  "sha256": "b17b4f85431f87c04f5ab05006be5e08e1659462b716ffbcd58aec9973ef354b",
+  "download_date": "2026-05-16T07:39:14Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

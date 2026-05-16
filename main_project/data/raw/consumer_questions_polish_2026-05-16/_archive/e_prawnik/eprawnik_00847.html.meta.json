@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00847",
+  "source_url": "https://e-prawnik.pl/forum/rozliczenie-szkody-calkowitej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/rozliczenie-szkody-calkowitej.html",
+  "archive_file": "e_prawnik/eprawnik_00847.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58121,
+  "sha256": "bcf6b724b21b6bf09248dceeef42f5bf3ac73231aa4933b6e1a96ba463b0aeaa",
+  "download_date": "2026-05-16T07:39:27Z",
+  "duration_sec": 0.092,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

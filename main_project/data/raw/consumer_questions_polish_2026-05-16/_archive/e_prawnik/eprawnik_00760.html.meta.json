@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00760",
+  "source_url": "https://e-prawnik.pl/forum/stluczka-w-rodzinie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/stluczka-w-rodzinie.html",
+  "archive_file": "e_prawnik/eprawnik_00760.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56918,
+  "sha256": "56db16a3dc6e28f664030e7cb22ce4b22c3f6273085f423ad5386c974a7251e8",
+  "download_date": "2026-05-16T07:37:42Z",
+  "duration_sec": 0.213,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00038",
+  "source_url": "https://forumprawne.org/watek/reklamacja-tableta-mediaexpert.884341/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-tableta-mediaexpert.884341/",
+  "archive_file": "forumprawne/forumprawne_00038.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 76748,
+  "sha256": "03bea38849d3916afbf85a01af47e11563fe856b36c24977509fbdbac0f13852",
+  "download_date": "2026-05-16T07:42:16Z",
+  "duration_sec": 0.084,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

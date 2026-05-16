@@ -47,15 +47,13 @@ logger = logging.getLogger("scrape.new_sources.bankier")
 BASE = "https://www.bankier.pl"
 SOURCE_NAME = "bankier.pl"
 
-# Listing pages — pagination via /N suffix (Bankier conventionally uses /1, /2, ...).
+# Listing pages — pagination via /N suffix. Bankier redirectsa /wiadomosci/prawo
+# to /wiadomosc/ (główna), więc używamy paginacji /wiadomosc/N i filtrujemy
+# heurystycznie po keywordach. Plus dedykowane tematyczne sekcje.
 LISTING_PAGES = [
-    "/wiadomosci/prawo",
-    "/wiadomosci/prawo-i-podatki",
-    "/wiadomosci/podatki",
-    "/wiadomosci/kategoria/prawo-i-podatki",
-    "/wiadomosci/kredyty-konsumenckie",
+    "/wiadomosc",  # ogólna lista — paginacja /wiadomosc/N
 ]
-MAX_PAGES_PER_LISTING = 10
+MAX_PAGES_PER_LISTING = 50  # przy ~70-80 article URL/strona daje 3500-4000 candidates
 
 ARTICLE_RE = re.compile(r"/wiadomosc/[\w\-%]+-\d+\.html")
 

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00864",
+  "source_url": "https://e-prawnik.pl/forum/ile-moge-dostac-od-ubezpieczyciela.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ile-moge-dostac-od-ubezpieczyciela.html",
+  "archive_file": "e_prawnik/eprawnik_00864.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53431,
+  "sha256": "d9263e557d7f04694c135c3202ad64ff44ab23ab09fe5ef9edf66a95e4fe4b2c",
+  "download_date": "2026-05-16T07:39:47Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

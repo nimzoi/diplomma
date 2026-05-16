@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00736",
+  "source_url": "https://e-prawnik.pl/forum/witam-jak-napisacodwoloanie-do-compensy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-jak-napisacodwoloanie-do-compensy.html",
+  "archive_file": "e_prawnik/eprawnik_00736.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57955,
+  "sha256": "10754180c8e5985ac54f6347d2aaa6acdae91fc6b92cb141272e719f33289cef",
+  "download_date": "2026-05-16T07:37:14Z",
+  "duration_sec": 0.204,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

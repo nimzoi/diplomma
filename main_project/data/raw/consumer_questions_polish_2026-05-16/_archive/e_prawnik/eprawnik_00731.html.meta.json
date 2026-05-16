@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00731",
+  "source_url": "https://e-prawnik.pl/forum/polisa-miniac-kradziez-problem-z-wycena.html",
+  "fetch_url": "https://e-prawnik.pl/forum/polisa-miniac-kradziez-problem-z-wycena.html",
+  "archive_file": "e_prawnik/eprawnik_00731.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58865,
+  "sha256": "3473e51ae4d242a4c52294f987c0804889977c325b8af83089517ee7a37fe265",
+  "download_date": "2026-05-16T07:37:07Z",
+  "duration_sec": 0.251,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

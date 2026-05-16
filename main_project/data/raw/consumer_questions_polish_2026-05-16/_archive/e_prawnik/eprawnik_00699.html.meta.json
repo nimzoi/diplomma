@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00699",
+  "source_url": "https://e-prawnik.pl/forum/decyzja-odmowy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/decyzja-odmowy.html",
+  "archive_file": "e_prawnik/eprawnik_00699.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59021,
+  "sha256": "1574b3245b01930ba292c1a0d96216b23e7398ba37f2f736e7d7ff4eaa9dcbc1",
+  "download_date": "2026-05-16T07:36:25Z",
+  "duration_sec": 0.331,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

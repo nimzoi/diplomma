@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00732",
+  "source_url": "https://e-prawnik.pl/forum/ubezpieczenie-turystycze-signal-iduna.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubezpieczenie-turystycze-signal-iduna.html",
+  "archive_file": "e_prawnik/eprawnik_00732.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58329,
+  "sha256": "d0846cba0e7475669e531f80b2c80902572bf713dd1793d1af55b22ff7ccb4d8",
+  "download_date": "2026-05-16T07:37:09Z",
+  "duration_sec": 0.26,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

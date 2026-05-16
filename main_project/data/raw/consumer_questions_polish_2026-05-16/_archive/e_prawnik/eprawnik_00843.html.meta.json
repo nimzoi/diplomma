@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00843",
+  "source_url": "https://e-prawnik.pl/forum/waloryzacja-polisy-pzu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/waloryzacja-polisy-pzu.html",
+  "archive_file": "e_prawnik/eprawnik_00843.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 99142,
+  "sha256": "22f034973f6bf544e845c4b7215333ef3facfc7dfdd45d8a812e989c08877ff2",
+  "download_date": "2026-05-16T07:39:22Z",
+  "duration_sec": 0.322,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

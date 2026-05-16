@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00839",
+  "source_url": "https://e-prawnik.pl/forum/nie-moge-udokumentowac-naprawy-poprzedniej-szkody.html",
+  "fetch_url": "https://e-prawnik.pl/forum/nie-moge-udokumentowac-naprawy-poprzedniej-szkody.html",
+  "archive_file": "e_prawnik/eprawnik_00839.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59562,
+  "sha256": "fac0b32b75a4ffefdbf5325f7d23eedf4af8adefc3bd3c18af477db99a515740",
+  "download_date": "2026-05-16T07:39:17Z",
+  "duration_sec": 0.206,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

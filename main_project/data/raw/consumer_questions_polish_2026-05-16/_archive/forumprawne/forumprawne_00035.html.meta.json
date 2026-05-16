@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00035",
+  "source_url": "https://forumprawne.org/watek/pierscionek-zareczynowy.884442/",
+  "fetch_url": "https://forumprawne.org/watek/pierscionek-zareczynowy.884442/",
+  "archive_file": "forumprawne/forumprawne_00035.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 92950,
+  "sha256": "d862b83de6fa68148392c5720817d05b99678f1b15f88251e7030e77921c6069",
+  "download_date": "2026-05-16T07:42:13Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00848",
+  "source_url": "https://e-prawnik.pl/forum/ubezpieczenia-zaopatrzenia-dzieci-polisa-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/ubezpieczenia-zaopatrzenia-dzieci-polisa-1.html",
+  "archive_file": "e_prawnik/eprawnik_00848.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 69350,
+  "sha256": "dead72daf67aaed0e2e0b4655b83a61a6a448eced302089340a366720effb456",
+  "download_date": "2026-05-16T07:39:28Z",
+  "duration_sec": 0.208,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

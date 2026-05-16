@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00718",
+  "source_url": "https://e-prawnik.pl/forum/podwojne-odszkodowanie-za-zalanie-mieszkania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/podwojne-odszkodowanie-za-zalanie-mieszkania.html",
+  "archive_file": "e_prawnik/eprawnik_00718.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57260,
+  "sha256": "65735593f7b745a866e25340d2947c3cd415b1e78ccb000856334f2e79adee91",
+  "download_date": "2026-05-16T07:36:52Z",
+  "duration_sec": 0.292,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00931",
+  "source_url": "https://e-prawnik.pl/forum/co-mi-sie-nalezyczyli-odszkodowanie-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/co-mi-sie-nalezyczyli-odszkodowanie-1.html",
+  "archive_file": "e_prawnik/eprawnik_00931.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57885,
+  "sha256": "1b2fdd56356b60cc384ff92538398e34d7bd78ce7b7e0f64e0306da0a87ea7e4",
+  "download_date": "2026-05-16T07:41:08Z",
+  "duration_sec": 0.3,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

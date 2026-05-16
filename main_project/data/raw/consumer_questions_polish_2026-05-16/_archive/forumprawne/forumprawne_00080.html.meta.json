@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00080",
+  "source_url": "https://forumprawne.org/watek/niezgodnosc-towaru-z-umowa-rekojmia-laptop-modyfikowana-ladowarka.883339/",
+  "fetch_url": "https://forumprawne.org/watek/niezgodnosc-towaru-z-umowa-rekojmia-laptop-modyfikowana-ladowarka.883339/",
+  "archive_file": "forumprawne/forumprawne_00080.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55409,
+  "sha256": "dbe1800e08ec397bb5824be5ce369fbb0aba7414b131c43c00d0cf6e3c08eec3",
+  "download_date": "2026-05-16T07:43:04Z",
+  "duration_sec": 0.152,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

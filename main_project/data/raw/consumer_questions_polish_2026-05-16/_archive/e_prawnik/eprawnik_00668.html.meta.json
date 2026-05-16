@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00668",
+  "source_url": "https://e-prawnik.pl/forum/zlecilem-wykonanie-strony-internetowejak-odzyskac-zaliczke.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zlecilem-wykonanie-strony-internetowejak-odzyskac-zaliczke.html",
+  "archive_file": "e_prawnik/eprawnik_00668.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60201,
+  "sha256": "3a5eb94c1b6877e38238357593eacd5cd6856e3f89e25e0d5724ef3ab1ee3209",
+  "download_date": "2026-05-16T07:35:48Z",
+  "duration_sec": 0.107,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

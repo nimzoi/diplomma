@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00659",
+  "source_url": "https://e-prawnik.pl/forum/prosze-o-pomoc-56.html",
+  "fetch_url": "https://e-prawnik.pl/forum/prosze-o-pomoc-56.html",
+  "archive_file": "e_prawnik/eprawnik_00659.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59863,
+  "sha256": "534401d557d315662b3da87470f3220e6a3bae51b8e321a3f664c5f0ddce3628",
+  "download_date": "2026-05-16T07:35:38Z",
+  "duration_sec": 0.215,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

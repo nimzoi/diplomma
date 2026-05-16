@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00874",
+  "source_url": "https://e-prawnik.pl/forum/czy-mozna-dostac-odszkodowanie-jesli-poszkodowany-byl-pijany.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-mozna-dostac-odszkodowanie-jesli-poszkodowany-byl-pijany.html",
+  "archive_file": "e_prawnik/eprawnik_00874.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 53475,
+  "sha256": "b55846000ccdfe8bee57c7f4c25d73bf5f65a62ce3489605c235860960cf685e",
+  "download_date": "2026-05-16T07:39:59Z",
+  "duration_sec": 0.147,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

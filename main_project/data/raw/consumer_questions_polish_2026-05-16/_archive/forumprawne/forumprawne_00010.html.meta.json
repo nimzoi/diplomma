@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00010",
+  "source_url": "https://forumprawne.org/watek/rzecznicy-konsumentow.134/",
+  "fetch_url": "https://forumprawne.org/watek/rzecznicy-konsumentow.134/",
+  "archive_file": "forumprawne/forumprawne_00010.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 52171,
+  "sha256": "3757394ba122a2ec26eb0fb8783bad118d57915be38456654b9a972f8b264849",
+  "download_date": "2026-05-16T07:41:44Z",
+  "duration_sec": 0.129,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00917",
+  "source_url": "https://e-prawnik.pl/forum/wybity-bark.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wybity-bark.html",
+  "archive_file": "e_prawnik/eprawnik_00917.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66548,
+  "sha256": "1eb6a3736d340a8c66df89bb791814023137ee277bee1f5acc99cd96090cd817",
+  "download_date": "2026-05-16T07:40:51Z",
+  "duration_sec": 0.251,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

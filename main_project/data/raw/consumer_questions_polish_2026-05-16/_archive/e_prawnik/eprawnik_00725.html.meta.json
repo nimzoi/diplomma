@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00725",
+  "source_url": "https://e-prawnik.pl/forum/wypadek-samochodowy-nie-z-mojej-winy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wypadek-samochodowy-nie-z-mojej-winy.html",
+  "archive_file": "e_prawnik/eprawnik_00725.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59069,
+  "sha256": "322fb2c88f43bc782631e01682b1f79fc622f47d1ad91adf0dc31406df3a21fb",
+  "download_date": "2026-05-16T07:37:00Z",
+  "duration_sec": 0.211,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

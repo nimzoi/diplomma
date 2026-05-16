@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00909",
+  "source_url": "https://e-prawnik.pl/forum/wypadek-nie-z-mojej-winy.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wypadek-nie-z-mojej-winy.html",
+  "archive_file": "e_prawnik/eprawnik_00909.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59010,
+  "sha256": "1e721334e3a9f42300b257282d8be740ff04c0898b28972b19a9e46d99dfed10",
+  "download_date": "2026-05-16T07:40:41Z",
+  "duration_sec": 0.227,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

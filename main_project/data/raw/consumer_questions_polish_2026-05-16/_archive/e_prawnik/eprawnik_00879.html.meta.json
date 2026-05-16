@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00879",
+  "source_url": "https://e-prawnik.pl/forum/co-obejmuje-polisa-budynku.html",
+  "fetch_url": "https://e-prawnik.pl/forum/co-obejmuje-polisa-budynku.html",
+  "archive_file": "e_prawnik/eprawnik_00879.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56898,
+  "sha256": "f5939ebe299ef7409cdbccbbb4d93e757e070ff9a2a67ea6df624c4593a05958",
+  "download_date": "2026-05-16T07:40:05Z",
+  "duration_sec": 0.138,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

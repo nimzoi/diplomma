@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00916",
+  "source_url": "https://e-prawnik.pl/forum/polisa-pzu-po-dewaluacji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/polisa-pzu-po-dewaluacji.html",
+  "archive_file": "e_prawnik/eprawnik_00916.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64642,
+  "sha256": "41b7576035bb08a1e4a8c67d1762739c25814ae923ef0daf00a684edec245a5f",
+  "download_date": "2026-05-16T07:40:50Z",
+  "duration_sec": 0.16,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

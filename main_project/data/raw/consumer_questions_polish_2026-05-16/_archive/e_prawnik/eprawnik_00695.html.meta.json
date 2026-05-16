@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00695",
+  "source_url": "https://e-prawnik.pl/forum/firma-ubezp-odmowila-wyplacenia-odszkodowania-za-smierc-meza.html",
+  "fetch_url": "https://e-prawnik.pl/forum/firma-ubezp-odmowila-wyplacenia-odszkodowania-za-smierc-meza.html",
+  "archive_file": "e_prawnik/eprawnik_00695.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57438,
+  "sha256": "e3367cc0ad563348d991c676491b39ae4c7c7fe595925cbda5a89b99a1dc62e9",
+  "download_date": "2026-05-16T07:36:20Z",
+  "duration_sec": 0.159,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

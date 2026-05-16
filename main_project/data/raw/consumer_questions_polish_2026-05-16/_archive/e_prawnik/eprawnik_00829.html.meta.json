@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00829",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-spalony-samochod.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-spalony-samochod.html",
+  "archive_file": "e_prawnik/eprawnik_00829.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58606,
+  "sha256": "b7ac425f14d34e600d92991bc1f665355668343629e204b3e2f15158c72ccffd",
+  "download_date": "2026-05-16T07:39:05Z",
+  "duration_sec": 0.178,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

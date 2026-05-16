@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00660",
+  "source_url": "https://e-prawnik.pl/forum/uszkodzona-myszka-zwrot.html",
+  "fetch_url": "https://e-prawnik.pl/forum/uszkodzona-myszka-zwrot.html",
+  "archive_file": "e_prawnik/eprawnik_00660.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56410,
+  "sha256": "f522312257ab0ac9db81e0a4355cc48d94d8ab3b91df0d875c4f119546e24652",
+  "download_date": "2026-05-16T07:35:39Z",
+  "duration_sec": 0.214,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

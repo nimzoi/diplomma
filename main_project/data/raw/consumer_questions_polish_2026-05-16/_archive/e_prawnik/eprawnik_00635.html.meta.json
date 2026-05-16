@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00635",
+  "source_url": "https://e-prawnik.pl/forum/morelenet-towar-3-razy-na-gwarancji.html",
+  "fetch_url": "https://e-prawnik.pl/forum/morelenet-towar-3-razy-na-gwarancji.html",
+  "archive_file": "e_prawnik/eprawnik_00635.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55661,
+  "sha256": "317c227d0aa34eb010393c6352e55cb052516dd7811247838acc221d4b34a897",
+  "download_date": "2026-05-16T07:35:10Z",
+  "duration_sec": 0.151,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

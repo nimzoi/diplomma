@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00043",
+  "source_url": "https://forumprawne.org/watek/brak-naprawy-samochodu.883838/",
+  "fetch_url": "https://forumprawne.org/watek/brak-naprawy-samochodu.883838/",
+  "archive_file": "forumprawne/forumprawne_00043.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64159,
+  "sha256": "2abe5dd135052951598b2f8fb76c5fc816cfcd40a1014b157365e4b7bd12f4e5",
+  "download_date": "2026-05-16T07:42:22Z",
+  "duration_sec": 0.085,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

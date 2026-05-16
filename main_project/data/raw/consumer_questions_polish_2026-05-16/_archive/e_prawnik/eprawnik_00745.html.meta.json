@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00745",
+  "source_url": "https://e-prawnik.pl/forum/witam-podaczas-wychodzenia-z-auta-skrecilem-kostke-czy-moge-ubiegac-sie-o-odszkodowanie-z-oc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-podaczas-wychodzenia-z-auta-skrecilem-kostke-czy-moge-ubiegac-sie-o-odszkodowanie-z-oc.html",
+  "archive_file": "e_prawnik/eprawnik_00745.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56252,
+  "sha256": "e1a8a1c92c46feaaf367591d0e68ea43d90ef36cbaa0124366f50f8534fd6e88",
+  "download_date": "2026-05-16T07:37:25Z",
+  "duration_sec": 0.222,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

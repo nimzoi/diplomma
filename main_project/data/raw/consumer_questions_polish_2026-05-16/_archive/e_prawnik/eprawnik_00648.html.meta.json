@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00648",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-za-dreczenie-psychiczne.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-za-dreczenie-psychiczne.html",
+  "archive_file": "e_prawnik/eprawnik_00648.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57982,
+  "sha256": "6637760f19e7439367ee0c5cfbffc561737242c4aca6387c9f8f8294c3b0c538",
+  "download_date": "2026-05-16T07:35:25Z",
+  "duration_sec": 0.211,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

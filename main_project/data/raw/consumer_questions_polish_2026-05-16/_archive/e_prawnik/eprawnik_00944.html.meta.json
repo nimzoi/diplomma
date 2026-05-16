@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00944",
+  "source_url": "https://e-prawnik.pl/forum/pzu-pokrycie-kosztow-naprawy-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pzu-pokrycie-kosztow-naprawy-1.html",
+  "archive_file": "e_prawnik/eprawnik_00944.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56951,
+  "sha256": "d45d7914a7188c3c15aa7eb7f2737603f47f84f3595d0b3c97a40f596a4f1201",
+  "download_date": "2026-05-16T07:41:24Z",
+  "duration_sec": 0.171,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

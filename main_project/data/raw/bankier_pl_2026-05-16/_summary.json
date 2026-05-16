@@ -1,0 +1,16 @@
+{
+  "source": "bankier.pl",
+  "scrape_date": "2026-05-16",
+  "license": "fair-use Art. 29 PrAut (academic research, attribution preserved)",
+  "discovered_urls": 0,
+  "successful_articles": 0,
+  "failed_urls": 0,
+  "skipped_too_short": 0,
+  "skipped_duplicate": 0,
+  "waf_blocks": 0,
+  "total_chars": 0,
+  "avg_chars_per_article": 0.0,
+  "archive_mb": 0.0,
+  "notes": "Walk 5 kategorii × 10 stron paginacji. Article URL pattern: /wiadomosc/SLUG-NNNNNN.html. Tagging heurystyczny: consumer-relevant vs general-law.",
+  "categories": {}
+}

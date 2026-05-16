@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00783",
+  "source_url": "https://e-prawnik.pl/forum/czy-nalezy-sie-odszkodowanie-z-pzu-za-poronienie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-nalezy-sie-odszkodowanie-z-pzu-za-poronienie.html",
+  "archive_file": "e_prawnik/eprawnik_00783.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56341,
+  "sha256": "d8365d9b485b5568a752ab6f619b608c6d535718e9209a74c8ad23274de95ab7",
+  "download_date": "2026-05-16T07:38:10Z",
+  "duration_sec": 0.184,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00740",
+  "source_url": "https://e-prawnik.pl/forum/pobyt-w-szpitalu-przez-prace.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pobyt-w-szpitalu-przez-prace.html",
+  "archive_file": "e_prawnik/eprawnik_00740.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57026,
+  "sha256": "cd04762dd613e1111acd3588b714559f3982155138268b7496bdc2020da9093a",
+  "download_date": "2026-05-16T07:37:18Z",
+  "duration_sec": 0.249,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

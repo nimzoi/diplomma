@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00911",
+  "source_url": "https://e-prawnik.pl/forum/czy-rzeczoznawca-w-sadzie-moze-wycenic-skradzione-mienie-ponizej-wyplaconej-przez-ubezpieczyciela-.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-rzeczoznawca-w-sadzie-moze-wycenic-skradzione-mienie-ponizej-wyplaconej-przez-ubezpieczyciela-.html",
+  "archive_file": "e_prawnik/eprawnik_00911.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57598,
+  "sha256": "ca6e4360533116c342d0085391741a800d0bd969e9f418ae186825390d2afc9f",
+  "download_date": "2026-05-16T07:40:44Z",
+  "duration_sec": 0.214,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

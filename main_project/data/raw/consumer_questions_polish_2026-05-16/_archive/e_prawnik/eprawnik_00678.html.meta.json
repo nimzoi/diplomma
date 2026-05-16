@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00678",
+  "source_url": "https://e-prawnik.pl/forum/pomocy-49.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pomocy-49.html",
+  "archive_file": "e_prawnik/eprawnik_00678.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62642,
+  "sha256": "d11e86c3742733e9752b905673fedf0e4e945d501e5f92b27619f548b32cf857",
+  "download_date": "2026-05-16T07:36:00Z",
+  "duration_sec": 0.15,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

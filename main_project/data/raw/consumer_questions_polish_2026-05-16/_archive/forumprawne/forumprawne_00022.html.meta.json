@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00022",
+  "source_url": "https://forumprawne.org/watek/reklamacja-pralki-z-tytulu-niezgodnosci.884678/",
+  "fetch_url": "https://forumprawne.org/watek/reklamacja-pralki-z-tytulu-niezgodnosci.884678/",
+  "archive_file": "forumprawne/forumprawne_00022.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 66679,
+  "sha256": "7a9a096ded0e9122a3fb851ea8c9f9d78294969b91a8dd3b24ef37be2251ed31",
+  "download_date": "2026-05-16T07:41:58Z",
+  "duration_sec": 0.171,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

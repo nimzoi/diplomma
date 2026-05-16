@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00669",
+  "source_url": "https://e-prawnik.pl/forum/odmowa-wyplaty-odszkodowania-za-uszczerbek-na-zdrowiu-pzu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odmowa-wyplaty-odszkodowania-za-uszczerbek-na-zdrowiu-pzu.html",
+  "archive_file": "e_prawnik/eprawnik_00669.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60224,
+  "sha256": "7d128378c18bdc863e89c35428f762d95dbe1bbaead9742323bb4d84fd935fb7",
+  "download_date": "2026-05-16T07:35:49Z",
+  "duration_sec": 0.148,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

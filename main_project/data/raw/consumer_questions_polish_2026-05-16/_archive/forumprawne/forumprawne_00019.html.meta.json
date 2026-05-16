@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00019",
+  "source_url": "https://forumprawne.org/watek/wymiana-i-zwrot-towaru.884830/",
+  "fetch_url": "https://forumprawne.org/watek/wymiana-i-zwrot-towaru.884830/",
+  "archive_file": "forumprawne/forumprawne_00019.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 79872,
+  "sha256": "1838c041c5736965234cac552feb373f9ea4de9aa507162ef78ea1c328b92e05",
+  "download_date": "2026-05-16T07:41:54Z",
+  "duration_sec": 0.126,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

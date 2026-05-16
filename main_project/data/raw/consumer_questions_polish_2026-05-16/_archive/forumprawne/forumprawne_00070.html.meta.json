@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00070",
+  "source_url": "https://forumprawne.org/watek/czy-oferta-byla-zgodna-z-rzeczywistoscia.883519/",
+  "fetch_url": "https://forumprawne.org/watek/czy-oferta-byla-zgodna-z-rzeczywistoscia.883519/",
+  "archive_file": "forumprawne/forumprawne_00070.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56400,
+  "sha256": "68a350d6d8a54299e4930d010b746b1692bc9745c2bf82fc26cc1debb175f296",
+  "download_date": "2026-05-16T07:42:53Z",
+  "duration_sec": 0.222,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

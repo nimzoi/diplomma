@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00780",
+  "source_url": "https://e-prawnik.pl/forum/czy-pasierbowi-nalezy-sie-odszkodowanie-za-smierc-ojczyma-z-pzu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-pasierbowi-nalezy-sie-odszkodowanie-za-smierc-ojczyma-z-pzu.html",
+  "archive_file": "e_prawnik/eprawnik_00780.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56186,
+  "sha256": "50d32ed07f8d96a9daf710d815ac99254c3bb03049fd35b1dc259ba53df61ea3",
+  "download_date": "2026-05-16T07:38:07Z",
+  "duration_sec": 0.198,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

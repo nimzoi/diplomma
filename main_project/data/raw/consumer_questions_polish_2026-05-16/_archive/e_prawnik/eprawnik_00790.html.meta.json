@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00790",
+  "source_url": "https://e-prawnik.pl/forum/czy-bylej-synowej-przysluguje-odszkodowanie-z-pzu-w-razie-smierci-tesciowej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-bylej-synowej-przysluguje-odszkodowanie-z-pzu-w-razie-smierci-tesciowej.html",
+  "archive_file": "e_prawnik/eprawnik_00790.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56477,
+  "sha256": "2aa24e8caed842bc69ced7ffd076d898ef4ba1431cb1aa719585ee0bc7485f3a",
+  "download_date": "2026-05-16T07:38:19Z",
+  "duration_sec": 0.247,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

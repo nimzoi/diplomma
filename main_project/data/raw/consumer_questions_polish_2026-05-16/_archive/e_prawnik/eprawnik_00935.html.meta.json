@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00935",
+  "source_url": "https://e-prawnik.pl/forum/polisa-posagowa-pzu-sprawa-w-sadzie-1.html",
+  "fetch_url": "https://e-prawnik.pl/forum/polisa-posagowa-pzu-sprawa-w-sadzie-1.html",
+  "archive_file": "e_prawnik/eprawnik_00935.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56972,
+  "sha256": "16c6eabf9a3590c691af15b5687ef9700e43192b0081508619f96fff84682ac1",
+  "download_date": "2026-05-16T07:41:13Z",
+  "duration_sec": 0.154,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

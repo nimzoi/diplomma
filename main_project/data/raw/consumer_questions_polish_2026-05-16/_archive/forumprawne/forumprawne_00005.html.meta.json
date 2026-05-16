@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00005",
+  "source_url": "https://forumprawne.org/watek/zanim-zapytasz-w-sprawie-wysokich-rachunkow-za-telefon-przeczytaj.253047/",
+  "fetch_url": "https://forumprawne.org/watek/zanim-zapytasz-w-sprawie-wysokich-rachunkow-za-telefon-przeczytaj.253047/",
+  "archive_file": "forumprawne/forumprawne_00005.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 180142,
+  "sha256": "e9dd04808d3e12a989483f5990b0f44e67e2b1dd3d613c9e92115e2c5f050852",
+  "download_date": "2026-05-16T07:41:38Z",
+  "duration_sec": 0.247,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

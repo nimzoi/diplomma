@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00007",
+  "source_url": "https://forumprawne.org/watek/ustawa-o-szczegolnych-warunkach-sprzedazy-konsumenckiej-oraz-o-zmianie-kc.160753/",
+  "fetch_url": "https://forumprawne.org/watek/ustawa-o-szczegolnych-warunkach-sprzedazy-konsumenckiej-oraz-o-zmianie-kc.160753/",
+  "archive_file": "forumprawne/forumprawne_00007.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 85898,
+  "sha256": "db2d9c6278361717e77f116cdac0b42a97861ae2346d1a4f280703bb63a492ed",
+  "download_date": "2026-05-16T07:41:41Z",
+  "duration_sec": 0.219,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

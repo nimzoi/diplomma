@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00855",
+  "source_url": "https://e-prawnik.pl/forum/wypadek-drogowy-po-spozyciu-alkoholu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wypadek-drogowy-po-spozyciu-alkoholu.html",
+  "archive_file": "e_prawnik/eprawnik_00855.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56417,
+  "sha256": "af73d8bd0a339aa2868435a4a9059fd53fb3f6292545662f23f0a247402dd960",
+  "download_date": "2026-05-16T07:39:36Z",
+  "duration_sec": 0.191,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00685",
+  "source_url": "https://e-prawnik.pl/forum/mialem-wypadek-mianowicie-ktos-mi-zajechal-droge-aby-go-nie-udezyc-ratowalem-sie-na-prawa-stron.html",
+  "fetch_url": "https://e-prawnik.pl/forum/mialem-wypadek-mianowicie-ktos-mi-zajechal-droge-aby-go-nie-udezyc-ratowalem-sie-na-prawa-stron.html",
+  "archive_file": "e_prawnik/eprawnik_00685.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58425,
+  "sha256": "dedc8de2eee38478f051c23f14984e61b0c6f1c4a7e7a90343d104786ff8d41b",
+  "download_date": "2026-05-16T07:36:09Z",
+  "duration_sec": 0.093,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

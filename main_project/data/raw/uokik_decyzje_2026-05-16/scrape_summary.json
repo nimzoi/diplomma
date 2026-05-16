@@ -13,4 +13,6 @@
     "already_exists": 21,
     "pdf_download_failed": 1,
     "no_pdf_link": 53
-  
+  },
+  "notes": "consumer filter: 612 → 81 (13.2%); jsonl_total_records=26; new_this_run=6; "
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00784",
+  "source_url": "https://e-prawnik.pl/forum/wlamanie-do-mieszkania-odszkodowanie.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wlamanie-do-mieszkania-odszkodowanie.html",
+  "archive_file": "e_prawnik/eprawnik_00784.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59087,
+  "sha256": "233b857aff79333f69b75676bc4c5ddc42abbfe969e03f2d88ad5c2ea287f120",
+  "download_date": "2026-05-16T07:38:11Z",
+  "duration_sec": 0.144,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

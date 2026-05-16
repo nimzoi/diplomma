@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00786",
+  "source_url": "https://e-prawnik.pl/forum/czy-emeryt-z-zus-moze-otrzymac-odszkodowanie-za-zlamanie-nogi.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-emeryt-z-zus-moze-otrzymac-odszkodowanie-za-zlamanie-nogi.html",
+  "archive_file": "e_prawnik/eprawnik_00786.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56069,
+  "sha256": "8f97c879551e275ce9f4c11ca94c381b79e59cbf9e8f5c0403c154b5919dceb3",
+  "download_date": "2026-05-16T07:38:14Z",
+  "duration_sec": 0.242,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

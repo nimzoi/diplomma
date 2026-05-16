@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00704",
+  "source_url": "https://e-prawnik.pl/forum/zderzenie-rowerzysty-z-samochodem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zderzenie-rowerzysty-z-samochodem.html",
+  "archive_file": "e_prawnik/eprawnik_00704.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58969,
+  "sha256": "8f1cf64eaace80eeb7fb574149396691a170beb611072022a632594219b715b3",
+  "download_date": "2026-05-16T07:36:32Z",
+  "duration_sec": 0.248,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

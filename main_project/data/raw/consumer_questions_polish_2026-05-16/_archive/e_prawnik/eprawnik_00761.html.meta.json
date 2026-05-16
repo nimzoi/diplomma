@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00761",
+  "source_url": "https://e-prawnik.pl/forum/czy-nalezy-mi-sie-odszkodawnie-jezeli-zlamalem-reke-w-pracy-a-jestem-zatrudnionyn-na-nie-pelny-.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-nalezy-mi-sie-odszkodawnie-jezeli-zlamalem-reke-w-pracy-a-jestem-zatrudnionyn-na-nie-pelny-.html",
+  "archive_file": "e_prawnik/eprawnik_00761.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56585,
+  "sha256": "2d2edcca78496bf0a70f66a39cb0423ed75935de08b9307e24e289274c479388",
+  "download_date": "2026-05-16T07:37:44Z",
+  "duration_sec": 0.22,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

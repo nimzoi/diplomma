@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00927",
+  "source_url": "https://e-prawnik.pl/forum/zanizenie-wysokosci-odszkodowania-z-oc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zanizenie-wysokosci-odszkodowania-z-oc.html",
+  "archive_file": "e_prawnik/eprawnik_00927.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 62155,
+  "sha256": "c8c0fd08f907a14452738e499f03b02c551ff351deab325f0f70018516a616c8",
+  "download_date": "2026-05-16T07:41:03Z",
+  "duration_sec": 0.229,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

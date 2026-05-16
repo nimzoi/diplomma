@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00746",
+  "source_url": "https://e-prawnik.pl/forum/karencja-w-pzu-a-smierc-rodzica-prosze-o-pomoc.html",
+  "fetch_url": "https://e-prawnik.pl/forum/karencja-w-pzu-a-smierc-rodzica-prosze-o-pomoc.html",
+  "archive_file": "e_prawnik/eprawnik_00746.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 59169,
+  "sha256": "7214c58bdf14975866d71e79876ec3c83d596429ae41dd15194140befb999fdf",
+  "download_date": "2026-05-16T07:37:26Z",
+  "duration_sec": 0.215,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

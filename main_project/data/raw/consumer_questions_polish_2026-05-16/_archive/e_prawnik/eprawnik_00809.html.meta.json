@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00809",
+  "source_url": "https://e-prawnik.pl/forum/wypadek-na-asp.html",
+  "fetch_url": "https://e-prawnik.pl/forum/wypadek-na-asp.html",
+  "archive_file": "e_prawnik/eprawnik_00809.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56699,
+  "sha256": "4179dff9531d928cdb878668b0ca684bdf3d3899a89c1ae178f19a1e1477557b",
+  "download_date": "2026-05-16T07:38:41Z",
+  "duration_sec": 0.139,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00739",
+  "source_url": "https://e-prawnik.pl/forum/jestem-ubezpieczona-w-pzuod-10-lat-jestem-po-rozwodzieczy-za-smierc-bylej-tesciowej-nalezy-mi.html",
+  "fetch_url": "https://e-prawnik.pl/forum/jestem-ubezpieczona-w-pzuod-10-lat-jestem-po-rozwodzieczy-za-smierc-bylej-tesciowej-nalezy-mi.html",
+  "archive_file": "e_prawnik/eprawnik_00739.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56381,
+  "sha256": "e0b8d56be76d6b9a05b63d161cade72ada9edb9a93dbc9d319d6ecd05a2c2d5d",
+  "download_date": "2026-05-16T07:37:17Z",
+  "duration_sec": 0.217,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

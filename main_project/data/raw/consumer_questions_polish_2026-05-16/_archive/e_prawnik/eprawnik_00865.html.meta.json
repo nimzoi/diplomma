@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00865",
+  "source_url": "https://e-prawnik.pl/forum/czy-moge-sie-ubiegac-o-odszkodowanie-jesli-bylem-wplywem-alkoholu.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-moge-sie-ubiegac-o-odszkodowanie-jesli-bylem-wplywem-alkoholu.html",
+  "archive_file": "e_prawnik/eprawnik_00865.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 54660,
+  "sha256": "eaf0d2801d5e2b2a2fb80dc276ab182dd6c71afb3668c11309d585bff38dc183",
+  "download_date": "2026-05-16T07:39:48Z",
+  "duration_sec": 0.132,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

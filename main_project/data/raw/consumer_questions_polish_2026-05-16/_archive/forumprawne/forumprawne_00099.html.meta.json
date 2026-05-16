@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00099",
+  "source_url": "https://forumprawne.org/watek/czy-mozna-ujac-taki-zapis-na-fakturze.882843/",
+  "fetch_url": "https://forumprawne.org/watek/czy-mozna-ujac-taki-zapis-na-fakturze.882843/",
+  "archive_file": "forumprawne/forumprawne_00099.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 101652,
+  "sha256": "03b9b8183ee934402100f7f8280c4cc3e63fe5f6a379b342b6328d55d4b4961c",
+  "download_date": "2026-05-16T07:43:27Z",
+  "duration_sec": 0.571,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

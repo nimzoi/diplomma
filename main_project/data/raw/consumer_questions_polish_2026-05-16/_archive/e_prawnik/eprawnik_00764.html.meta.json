@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00764",
+  "source_url": "https://e-prawnik.pl/forum/3-lata-temu-zgubilam-dowod-osobisty-ktos-go-znalazl-i-wzial-2-telefony-z-sieci-play-zostal-podr.html",
+  "fetch_url": "https://e-prawnik.pl/forum/3-lata-temu-zgubilam-dowod-osobisty-ktos-go-znalazl-i-wzial-2-telefony-z-sieci-play-zostal-podr.html",
+  "archive_file": "e_prawnik/eprawnik_00764.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 56806,
+  "sha256": "efc41fb6b71dc342cfa646b0fdced786c75989aefdc169b5d63e85080a43d47e",
+  "download_date": "2026-05-16T07:37:47Z",
+  "duration_sec": 0.226,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

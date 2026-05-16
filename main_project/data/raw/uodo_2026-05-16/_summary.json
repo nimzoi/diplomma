@@ -1,0 +1,16 @@
+{
+  "source": "uodo.gov.pl",
+  "scrape_date": "2026-05-16",
+  "license": "urzędowe (Art. 4 ust. 2 PrAut, public domain)",
+  "discovered_urls": 200,
+  "successful_articles": 198,
+  "failed_urls": 0,
+  "skipped_too_short": 2,
+  "skipped_duplicate": 0,
+  "waf_blocks": 0,
+  "total_chars": 519119,
+  "avg_chars_per_article": 2621.8,
+  "archive_mb": 29.24,
+  "notes": "Listing walks: 4 entries. UODO porady + aktualnosci.",
+  "categories": {}
+}

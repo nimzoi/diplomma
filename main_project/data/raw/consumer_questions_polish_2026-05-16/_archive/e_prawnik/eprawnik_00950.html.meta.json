@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00950",
+  "source_url": "https://e-prawnik.pl/forum/odszkodowanie-od-wspolnoty-mieszkaniowej.html",
+  "fetch_url": "https://e-prawnik.pl/forum/odszkodowanie-od-wspolnoty-mieszkaniowej.html",
+  "archive_file": "e_prawnik/eprawnik_00950.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57566,
+  "sha256": "1cf280216cf2ac92793dcf43b4c1f7f0fadce4be0d1111c9a0441bd2e662d9a9",
+  "download_date": "2026-05-16T07:41:31Z",
+  "duration_sec": 0.212,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

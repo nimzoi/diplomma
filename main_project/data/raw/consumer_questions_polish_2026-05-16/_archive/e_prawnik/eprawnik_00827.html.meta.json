@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00827",
+  "source_url": "https://e-prawnik.pl/forum/czy-dostane-ubezpieczene-za-wypadek-w-niedziele.html",
+  "fetch_url": "https://e-prawnik.pl/forum/czy-dostane-ubezpieczene-za-wypadek-w-niedziele.html",
+  "archive_file": "e_prawnik/eprawnik_00827.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57630,
+  "sha256": "12dbe59e29ea47e0b82277494ab9c066c0e8f5cff4044e05293669beaef57069",
+  "download_date": "2026-05-16T07:39:03Z",
+  "duration_sec": 0.284,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00074",
+  "source_url": "https://forumprawne.org/watek/ramka-do-rejestracji-pojazdu-bubel.883461/",
+  "fetch_url": "https://forumprawne.org/watek/ramka-do-rejestracji-pojazdu-bubel.883461/",
+  "archive_file": "forumprawne/forumprawne_00074.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 87812,
+  "sha256": "412b810325ae19bc317b093afa7d9869ca98cc31d90e401f483bf44e671536de",
+  "download_date": "2026-05-16T07:42:57Z",
+  "duration_sec": 0.162,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

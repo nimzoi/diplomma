@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00942",
+  "source_url": "https://e-prawnik.pl/forum/pzu-oc-i-ac.html",
+  "fetch_url": "https://e-prawnik.pl/forum/pzu-oc-i-ac.html",
+  "archive_file": "e_prawnik/eprawnik_00942.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58505,
+  "sha256": "03046de601ebf28a775380f860b2e51995a7d4b831a5d086fdf50fb973bf1298",
+  "download_date": "2026-05-16T07:41:22Z",
+  "duration_sec": 0.21,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

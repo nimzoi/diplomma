@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00763",
+  "source_url": "https://e-prawnik.pl/forum/kolizja-z-ubezpieczonym-psem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kolizja-z-ubezpieczonym-psem.html",
+  "archive_file": "e_prawnik/eprawnik_00763.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57759,
+  "sha256": "d916192539cd5c17a60e1a61cf2446ada4552b7117d3fdf267a2687c9687cd44",
+  "download_date": "2026-05-16T07:37:46Z",
+  "duration_sec": 0.283,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

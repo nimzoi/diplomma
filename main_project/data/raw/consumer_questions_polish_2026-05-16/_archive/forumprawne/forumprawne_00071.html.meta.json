@@ -1,0 +1,15 @@
+{
+  "question_id": "forumprawne_00071",
+  "source_url": "https://forumprawne.org/watek/zakup-okien.883502/",
+  "fetch_url": "https://forumprawne.org/watek/zakup-okien.883502/",
+  "archive_file": "forumprawne/forumprawne_00071.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55790,
+  "sha256": "cce924a8156f20443986c12dabcd2d9b65678f2ea1cc32369a4be64506bccdd1",
+  "download_date": "2026-05-16T07:42:54Z",
+  "duration_sec": 0.079,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00738",
+  "source_url": "https://e-prawnik.pl/forum/zmarl-moj-oczym-byl-w-zwiazku-maleznskim-z-moja-mama-w-roku-2005-oni-sie-rozwiedli-a-ojczym-zma.html",
+  "fetch_url": "https://e-prawnik.pl/forum/zmarl-moj-oczym-byl-w-zwiazku-maleznskim-z-moja-mama-w-roku-2005-oni-sie-rozwiedli-a-ojczym-zma.html",
+  "archive_file": "e_prawnik/eprawnik_00738.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57432,
+  "sha256": "0cdd51d135e1751fe041abfc997e6e39579b7454cc7a58cbbb23c25fa61f966a",
+  "download_date": "2026-05-16T07:37:16Z",
+  "duration_sec": 0.218,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

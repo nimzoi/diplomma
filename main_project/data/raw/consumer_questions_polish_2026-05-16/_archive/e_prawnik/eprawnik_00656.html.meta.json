@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00656",
+  "source_url": "https://e-prawnik.pl/forum/po-obejzeniu-samochodu-w-komisie-dalem-zaliczke-1000zl-za-przetrzymanie-auta-kilka-dni-przy-odb.html",
+  "fetch_url": "https://e-prawnik.pl/forum/po-obejzeniu-samochodu-w-komisie-dalem-zaliczke-1000zl-za-przetrzymanie-auta-kilka-dni-przy-odb.html",
+  "archive_file": "e_prawnik/eprawnik_00656.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 57174,
+  "sha256": "7fcdb91d944ab51c8c145507852715bd459587b4e736aca6db6dd7a3b9232c55",
+  "download_date": "2026-05-16T07:35:34Z",
+  "duration_sec": 0.129,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

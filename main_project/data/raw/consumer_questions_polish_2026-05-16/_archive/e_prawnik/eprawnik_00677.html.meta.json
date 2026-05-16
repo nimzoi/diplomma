@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00677",
+  "source_url": "https://e-prawnik.pl/forum/kolizja-samochodem-oc-jako-pracownik.html",
+  "fetch_url": "https://e-prawnik.pl/forum/kolizja-samochodem-oc-jako-pracownik.html",
+  "archive_file": "e_prawnik/eprawnik_00677.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58254,
+  "sha256": "8c296174c6055434ad1deb4f1712562e137de825d58b27b6ca514e6397d2e75d",
+  "download_date": "2026-05-16T07:35:59Z",
+  "duration_sec": 0.157,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

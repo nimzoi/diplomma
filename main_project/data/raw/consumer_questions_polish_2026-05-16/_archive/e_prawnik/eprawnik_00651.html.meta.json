@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00651",
+  "source_url": "https://e-prawnik.pl/forum/sprzedaz-przez-allegro-i-problem.html",
+  "fetch_url": "https://e-prawnik.pl/forum/sprzedaz-przez-allegro-i-problem.html",
+  "archive_file": "e_prawnik/eprawnik_00651.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 58430,
+  "sha256": "7b768f8b7b809b90e12450352771ed2024e05af5d106e1fa02a4a6643b6280fc",
+  "download_date": "2026-05-16T07:35:28Z",
+  "duration_sec": 0.133,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

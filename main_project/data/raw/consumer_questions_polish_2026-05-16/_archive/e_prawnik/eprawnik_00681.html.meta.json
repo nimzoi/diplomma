@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00681",
+  "source_url": "https://e-prawnik.pl/forum/problem-z-wyplata-odszkodowania.html",
+  "fetch_url": "https://e-prawnik.pl/forum/problem-z-wyplata-odszkodowania.html",
+  "archive_file": "e_prawnik/eprawnik_00681.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 64092,
+  "sha256": "3834f99bc7c5347e07ede09a89b8f97929ce81220552d98f458ea42a8af487f6",
+  "download_date": "2026-05-16T07:36:04Z",
+  "duration_sec": 0.221,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

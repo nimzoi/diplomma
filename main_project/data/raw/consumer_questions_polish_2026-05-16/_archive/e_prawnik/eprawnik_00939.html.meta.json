@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00939",
+  "source_url": "https://e-prawnik.pl/forum/warta.html",
+  "fetch_url": "https://e-prawnik.pl/forum/warta.html",
+  "archive_file": "e_prawnik/eprawnik_00939.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 60583,
+  "sha256": "b25bf528ce54d7dadb31b5e5631ebef981a732756b69238d5b0b016302e1093c",
+  "download_date": "2026-05-16T07:41:18Z",
+  "duration_sec": 0.229,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}

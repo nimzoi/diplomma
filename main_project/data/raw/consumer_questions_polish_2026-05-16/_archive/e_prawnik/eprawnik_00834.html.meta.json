@@ -1,0 +1,15 @@
+{
+  "question_id": "eprawnik_00834",
+  "source_url": "https://e-prawnik.pl/forum/witam-skradziono-mi-auto-mialem-polise-ac-i-zglosilem-szkodejednak-ciekawi-mnie-jedna-sprawa.html",
+  "fetch_url": "https://e-prawnik.pl/forum/witam-skradziono-mi-auto-mialem-polise-ac-i-zglosilem-szkodejednak-ciekawi-mnie-jedna-sprawa.html",
+  "archive_file": "e_prawnik/eprawnik_00834.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "size_bytes": 55310,
+  "sha256": "0e8b4bdb00f4f1bc67554ade4090fc45f05a1b59323697c7b979e074e220d2a2",
+  "download_date": "2026-05-16T07:39:11Z",
+  "duration_sec": 0.18,
+  "attempt": 1,
+  "error": false,
+  "error_reason": null
+}
