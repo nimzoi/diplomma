@@ -2,40 +2,32 @@
 
 Source-of-truth dokumenty projektu.
 
-## ⚠ Status (2026-05-15)
+## ⚠ Status (2026-05-16, post-DEC-003 pivot)
 
-**Domena projektu zrotowana:** psychiatria → farmakologia szeroka (psych jako eval subset). Konsekwencje dla dokumentów:
+**Trzeci pivot zakończony:** v3.1 farma + reranker → **v3.2 hallucination detection + citation grounding + consumer rights**.
 
-- `02_konspekt_v3_FINAL.docx` — niektóre sekcje **superseded**:
-  - II.1 (streszczenie wykonawcze) → patrz `02b_konspekt_v3_updates.md`
-  - II.2.1 (domena specjalistyczna jako testbed)
-  - II.3.3 (pytania badawcze — dodano RQ5)
-  - II.3.4 (scope IN/OUT — drobne modyfikacje)
-  - II.4 (cała strategia danych — Plan A całkiem nowy, Plan B deactivated)
-  - II.7 (LLM-as-judge — dodano 4. protokół cross-register)
-  - II.13 (out of scope — dodano cross-language register transfer)
-  - II.15 (strategia rozmowy z promotorem — nowe argumenty)
-  - II.16 (next steps — nowy Tydzień 0 dla URPL feasibility)
-- **Sekcje aktywne v3 FINAL bez zmian:** II.2.2, II.3.1, II.3.2, II.5, II.6, II.8, II.9, II.10, II.11, II.12, II.14
+**Konsekwencje dla dokumentów:**
 
-**Single source of truth:** `02b_konspekt_v3_updates.md` (delta) nadrzędne nad odpowiednimi sekcjami .docx.
+- **Cały materiał v3.1** (farma + reranker drafts, sources_catalog, training_dataset_spec, iter0 evidence) zarchiwizowany w `_archive/v3-pharma-reranker/` jako historical record + audit trail evidence dla DEC-003.
+- **Nowy konspekt v3.2** w `02_konspekt_v3.2_skeleton.md`.
+- **DEC-003** w `decisions/DEC-003_pivot-na-halu-detection.md`.
+- **Stack docs (`04_dev_environment.docx`, `05_stack_techniczny.docx`) zostają** — większość stacku reusable (Bielik, Qdrant, Prefect, MLflow, Langfuse, Evidently). Halu-specific dodatki dokumentowane w nowym konspekcie.
+- DEC-001 + DEC-002 zostają jako historical record (audit trail), NIE są aktywne — superseded przez DEC-003.
 
-Pełen audit trail decyzji w `decisions/DEC-001_wybor-domeny.md` i `DEC-002_chpl-ulotka-pairing.md`.
-
-## Co czytać i w jakiej kolejności
+## Co czytać i w jakiej kolejności (post-DEC-003)
 
 | File | Kiedy | Priorytet |
 |------|---|---|
-| `01_agent_brief.docx` | ZAWSZE first w nowej sesji | 🔴 P0 |
-| **`02b_konspekt_v3_updates.md`** | ZAWSZE second w nowej sesji — delta nadrzędna nad .docx | 🔴 P0 |
-| `02_konspekt_v3_FINAL.docx` | Dla NIE-zmienionych sekcji (II.5/II.6/II.8/II.9/II.10/II.11/II.12/II.14) | 🟠 P1 |
-| `sources_catalog.md` | Praca nad R3 (dane), R4 (EDA), scrape pipeline | 🟠 P1 |
-| `decisions/DEC-001_*.md` | Gdy pytanie "dlaczego farmakologia a nie psychiatria" | 🟡 P2 |
-| `decisions/DEC-002_*.md` | Gdy pytanie "skąd cross-register angle" | 🟡 P2 |
+| `D:\diplomma\CLAUDE.md` | ZAWSZE first w nowej sesji | 🔴 P0 |
+| **`02_konspekt_v3.2_skeleton.md`** | ZAWSZE second — aktualny konspekt v3.2 | 🔴 P0 |
+| **`decisions/DEC-003_pivot-na-halu-detection.md`** | Gdy potrzebny defense argument dla pivot lub pełny rationale | 🔴 P0 |
+| `research/halu_detection_sota_2024_2026.md` | Praca nad R2 (literatura), R6 (modele methodology) | 🟠 P1 |
+| `research/domain_A_feasibility.md` | Praca nad R3 (dane), scrape pipeline ISAP+UOKiK+Reddit | 🟠 P1 |
 | `05_stack_techniczny.docx` | Decyzje technologiczne, uzasadnienia, alternatywy | 🟡 P2 |
-| `03_diagrams_architektury.docx` | Praca nad R5 (architektura IT) | 🟡 P2 |
 | `04_dev_environment.docx` | Setup kodu, CI/CD, reproducibility | 🟡 P2 |
-| `06_raport_feasibility_psychiatria.docx` | Historical context; psych pozostaje jako eval subset | 🟢 P3 |
+| `01_agent_brief.docx` | Historical context (psych framing pre-pivots) | 🟢 P3 |
+| `_archive/v3-pharma-reranker/*` | Tylko jeśli explicit audit trail / pivot rationale | 🟢 P3 historical |
+| `decisions/DEC-001_*.md`, `DEC-002_*.md` | Historical pivots — gdy promotor pyta „dlaczego tyle pivotów" | 🟢 P3 historical |
 
 ## Jak czytać .docx
 
@@ -54,22 +46,35 @@ Alternatywa dla prostego tekstu (bez struktury): `pypdf` lub `PDF_Tools.read_pdf
 
 `thesis_research/drafts/` — workspace dla pre-rozdziałowych szkiców, brainstormów, draft sekcji.
 
+**Status drafts (2026-05-16):** **PUSTY** po pivot DEC-003. Stare drafty v3.1 (R1_wprowadzenie, R2_literatura, R3_dane, R4_eda, R5_outline, R6_modele, R7_wyniki, R8_podsumowanie) zarchiwizowane w `_archive/v3-pharma-reranker/drafts/`.
+
+**Nowe drafty v3.2** będą tworzone w Iteracji 7 (writing phase) per build-first-finalize-last principle (patrz `D:\diplomma\CLAUDE.md` Wzorce pracy pkt 8).
+
+## Research
+
+`research/` — agent research outputs, single-source-of-truth dla literature + feasibility.
+
+- **`halu_detection_sota_2024_2026.md`** — SOTA hallucination detection 2024-2026 (Mu-SHROOM polish gap, hidden-states probes lineage Farquhar→SEP→Semantic Energy→real-time, „Mirage of Halu Detection" critique EMNLP 2025, polish landscape audit, ~22 papierów + 10+ tools)
+- **`domain_A_feasibility.md`** — feasibility ISAP + UOKiK + Reddit + polish NLI models + hidden-states probe implementation refs + dataset numbers estimate (in progress, agent-spawned)
+
 ## Decisions log
 
-`thesis_research/decisions/` — ADR (Architecture Decision Records) generowane przez `/decision`.
+`decisions/` — ADR (Architecture Decision Records) generowane przez `/decision`.
 
-**Active decisions:**
-- **DEC-001** (2026-05-15): domena psychiatria → farmakologia szeroka
-- **DEC-002** (2026-05-15): ChPL+Ulotka pairing jako 5. RQ
+**Active:**
+- **DEC-003** (2026-05-16): Pivot na hallucination detection + citation grounding + consumer rights
 
-## Sources catalog
-
-`sources_catalog.md` — **single source of truth dla R3 (Dane)**. Pełna tabela źródeł korpusu farmakologicznego z URL-ami, licencjami, scrape methods, mapping na training data dla rerankera. Synchronizuj z `02b_konspekt_v3_updates.md` sekcja II.4.
+**Historical (audit trail, NIE aktywne):**
+- **DEC-001** (2026-05-15): rotacja psych → farma — superseded przez DEC-003
+- **DEC-002** (2026-05-15): ChPL+Ulotka cross-register — superseded; explicit NIE używane w v3.2 („już tej ulotki nie mieszajmy", Magda 2026-05-16)
 
 ## Anti-patterns
 
-- **Nie edytuj** istniejących .docx-ów (01-06) bez explicit zgody autorki — to są zatwierdzone source-of-truth artefakty.
+- **Nie edytuj** istniejących .docx-ów (01, 04, 05) bez explicit zgody autorki — to są zatwierdzone source-of-truth artefakty.
 - **Nie re-eksportuj** do .docx via Claude bez prośby (formatowanie się rozjedzie).
-- **Nie traktuj** żadnego pojedynczego docx jako kanonicznego — zawsze cross-check z `02b_konspekt_v3_updates.md` + DEC log.
-- **Nie scrapuj URPL RPL XML równolegle z dane.gov.pl dataset 397** — ten sam content, dedup overhead.
-- **Nie zatwierdzaj rotacji domeny ponownie** — DEC-001 to ostateczna decyzja. Jeśli ktoś (Ty, Claude, promotor) sugeruje 4. pivot, najpierw przeczytaj DEC-001 kill criteria.
+- **Nie traktuj** żadnego pojedynczego docx jako kanonicznego — zawsze cross-check z `02_konspekt_v3.2_skeleton.md` + DEC log.
+- **Nie scrapuj jednocześnie ISAP w wielu różnych formatach** (XML + HTML) — wybierz jedno źródło, dedup.
+- **Nie zatwierdzaj 4. rotacji domeny** — DEC-003 to ostateczna decyzja po trzech pivotach. Jeśli ktoś sugeruje kolejny pivot, najpierw przeczytaj DEC-003 kill criteria.
+- **Nie wracaj do reranker fine-tuning ani farma jako central** — patrz DEC-003 anti-patterns + supersession logic.
+- **Nie usuwaj `_archive/`** — historical record ma value dla audit trail w obronie („kiedy i dlaczego pivot").
+- **Nie pisz codemix English-Polish w drafcie pracy** (CLAUDE.md + spec docs OK, R1-R8 NIE — czysty akademicki polski).

@@ -1,0 +1,11 @@
+product_id,first_atc,atc_level1,all_atc_codes,is_psych_N05_N06,name,dci_name,numer_pozwolenia,chpl_url,ulotka_url
+100237897,N06AB10,N,N06AB10,yes,Escipram,Escitalopramum,17638,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/23789/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/23789/leaflet
+100325970,N06DX01,N,N06DX01,yes,Memantine Vipharm,Memantini hydrochloridum,22079,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/32597/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/32597/leaflet
+100412596,N05BA06,N,N05BA06,yes,Lorabex,Lorazepamum,25881,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/41259/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/41259/leaflet
+100005632,N06AA04,N,N06AA04,yes,Anafranil,Clomipramini hydrochloridum,02949,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/563/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/563/leaflet
+100076589,N05AD01,N,N05AD01,yes,Haloperidol WZF,Haloperidolum,07226,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/7658/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/7658/leaflet
+100444700,N05AH04,N,N05AH04,yes,Kwetina,Quetiapinum,27461,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/44470/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/44470/leaflet
+100459640,N05AA02,N,N05AA02,yes,Levomentis,Levomepromazinum,27038,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/45964/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/45964/leaflet
+100028225,N05AD01,N,N05AD01,yes,Haloperidol WZF,Haloperidolum,01040,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/2822/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/2822/leaflet
+100092418,N05CM09,N,N05CM09,yes,Hova,Valerianae radicis extractum siccum + Lupuli floris extractum siccum,04709,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/9241/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/9241/leaflet
+100206543,N05AH04,N,N05AH04,yes,Kwetaplex,Quetiapinum,15239,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20654/characteristic,https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/20654/leaflet

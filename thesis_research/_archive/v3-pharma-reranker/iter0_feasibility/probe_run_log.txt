@@ -1,0 +1,147 @@
+2026-05-16 01:33:58,600 [INFO] Reusing existing snapshot: ..\thesis_research\iter0_feasibility\rpl-snapshot-2026-05-16.xml
+2026-05-16 01:33:59,877 [INFO] Parsed 22750 product entries from XML (snapshot date: 2026-05-15)
+2026-05-16 01:33:59,960 [INFO] Parse OK: True; entries: 22750; snapshot date: 2026-05-15
+2026-05-16 01:33:59,966 [INFO] Filter: 22750 total -> 12973 complete pairs (excluded: 9469 no-URL, 1148 no-ATC; overlap possible)
+2026-05-16 01:33:59,969 [INFO] Wrote ..\thesis_research\iter0_feasibility\sample-list-2026-05-16.csv (100 entries) + ..\thesis_research\iter0_feasibility\spot-check-psych-N05N06-2026-05-16.csv (10 psych spot-check entries)
+2026-05-16 01:33:59,969 [INFO] [1/100] Probing productID=100445963 ATC=R05CB06 name=Ambroxol Aflofarm
+2026-05-16 01:34:01,004 [INFO] [2/100] Probing productID=100103932 ATC=N02CC01 name=Sumamigren
+2026-05-16 01:34:02,201 [INFO] [3/100] Probing productID=100021016 ATC=C02CA06 name=Ebrantil 25
+2026-05-16 01:34:03,285 [INFO] [4/100] Probing productID=100485893 ATC=B01AF02 name=Apixaban Olpha
+2026-05-16 01:34:04,930 [INFO] [5/100] Probing productID=100228450 ATC=C05CA03 name=Procto-Hemolan control
+2026-05-16 01:34:05,788 [INFO] [6/100] Probing productID=100206543 ATC=N05AH04 name=Kwetaplex
+2026-05-16 01:34:06,867 [INFO] [7/100] Probing productID=100196224 ATC=A02BC02 name=Gastrostad
+2026-05-16 01:34:07,944 [INFO] [8/100] Probing productID=100123290 ATC=V01AA name=Staloral 300
+2026-05-16 01:34:08,991 [INFO] [9/100] Probing productID=100483934 ATC=M01AE17 name=Delprofex
+2026-05-16 01:34:10,385 [INFO] [10/100] Probing productID=100098183 ATC=J05AB01 name=Heviran
+2026-05-16 01:34:11,411 [INFO] [11/100] Probing productID=100459640 ATC=N05AA02 name=Levomentis
+2026-05-16 01:34:12,528 [INFO] [12/100] Probing productID=100485731 ATC=G04BE08 name=Tadalafil Medreg
+2026-05-16 01:34:13,839 [INFO] [13/100] Probing productID=100412685 ATC=J05AH02 name=Segosana
+2026-05-16 01:34:15,091 [INFO] [14/100] Probing productID=100087334 ATC=D07AC01 name=Betnovate
+2026-05-16 01:34:16,426 [INFO] [15/100] Probing productID=100430602 ATC=C09BB07 name=Sumilar
+2026-05-16 01:34:17,487 [INFO] [16/100] Probing productID=100352380 ATC=A06AD11 name=Lactulosum Orifarm Forte
+2026-05-16 01:34:18,579 [INFO] [17/100] Probing productID=100028225 ATC=N05AD01 name=Haloperidol WZF
+2026-05-16 01:34:19,799 [INFO] [18/100] Probing productID=100025994 ATC=V08AA01 name=Gastrografin
+2026-05-16 01:34:20,994 [INFO] [19/100] Probing productID=100092418 ATC=N05CM09 name=Hova
+2026-05-16 01:34:21,926 [INFO] [20/100] Probing productID=100193869 ATC=A01AB09 name=Daktarin-oral
+2026-05-16 01:34:22,393 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:34:22,739 [INFO] [21/100] Probing productID=100201089 ATC=QP53AC54 name=Duowin Contact dla dużego psa
+2026-05-16 01:34:23,525 [INFO] [22/100] Probing productID=100395952 ATC=C10AA07 name=Aporoza
+2026-05-16 01:34:24,679 [INFO] [23/100] Probing productID=100434089 ATC=A10BD07 name=Metformax Combi
+2026-05-16 01:34:25,972 [INFO] [24/100] Probing productID=100022151 ATC=L01AA01 name=Endoxan
+2026-05-16 01:34:26,906 [INFO] [25/100] Probing productID=100420220 ATC=B01AF01 name=Mantreda
+2026-05-16 01:34:27,644 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:34:28,021 [INFO] [26/100] Probing productID=100184280 ATC=QI01AD03 name=Bio-Marek HVT
+2026-05-16 01:34:29,066 [INFO] [27/100] Probing productID=100476640 ATC=L01BC06 name=Capecitabinum Glenmark
+2026-05-16 01:34:30,491 [INFO] [28/100] Probing productID=100449790 ATC=B01AF01 name=Rivaroxaban Reddy
+2026-05-16 01:34:31,206 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:34:31,616 [INFO] [29/100] Probing productID=100470467 ATC=V03AB21 name=Jodek potasu SERB
+2026-05-16 01:34:32,701 [INFO] [30/100] Probing productID=100412596 ATC=N05BA06 name=Lorabex
+2026-05-16 01:34:33,846 [INFO] [31/100] Probing productID=100350889 ATC=G02CX01 name=Atosiban Accord
+2026-05-16 01:34:35,013 [INFO] [32/100] Probing productID=100194722 ATC=V01AA name=Staloral
+2026-05-16 01:34:36,396 [INFO] [33/100] Probing productID=100369937 ATC=A10BA02 name=Metcrean XR
+2026-05-16 01:34:37,448 [INFO] [34/100] Probing productID=100430252 ATC=N02BF02 name=Pregabalin Aurovitas
+2026-05-16 01:34:38,268 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:34:39,073 [INFO] [35/100] Probing productID=100230257 ATC=A02BC02 name=Pantoprazole Bluefish
+2026-05-16 01:34:41,143 [INFO] [36/100] Probing productID=100005632 ATC=N06AA04 name=Anafranil
+2026-05-16 01:34:42,470 [INFO] [37/100] Probing productID=100495395 ATC=QN02AX02 name=Tramcoat
+2026-05-16 01:34:43,045 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:34:43,484 [INFO] [38/100] Probing productID=100154119 ATC=A02BC05 name=Texibax
+2026-05-16 01:34:44,080 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:34:44,552 [INFO] [39/100] Probing productID=100469492 ATC=V09X name=V-Ga68
+2026-05-16 01:34:44,925 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:34:45,341 [INFO] [40/100] Probing productID=100352753 ATC=QN01AX03 name=Nimatek
+2026-05-16 01:34:46,153 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:34:46,864 [INFO] [41/100] Probing productID=100284690 ATC=R06AX27 name=Desloratadine Genepharm
+2026-05-16 01:34:47,808 [INFO] [42/100] Probing productID=100230122 ATC=G04CA name=Duodart
+2026-05-16 01:34:49,101 [INFO] [43/100] Probing productID=100142004 ATC=R03BA02 name=Ribuspir
+2026-05-16 01:34:50,168 [INFO] [44/100] Probing productID=100192195 ATC=QN05CM92 name=Sedazin
+2026-05-16 01:34:51,254 [INFO] [45/100] Probing productID=100498442 ATC=C02KX04 name=Macitentan Olpha
+2026-05-16 01:34:52,530 [INFO] [46/100] Probing productID=100281935 ATC=J02AA01 name=Fungizone
+2026-05-16 01:34:53,616 [INFO] [47/100] Probing productID=100098059 ATC=R06AX13 name=Loratan
+2026-05-16 01:34:54,951 [INFO] [48/100] Probing productID=100091867 ATC=B05BA10 name=Nutriflex Peri
+2026-05-16 01:34:56,211 [INFO] [49/100] Probing productID=100325970 ATC=N06DX01 name=Memantine Vipharm
+2026-05-16 01:34:57,341 [INFO] [50/100] Probing productID=100094400 ATC=L02AE04 name=Diphereline SR 3,75
+2026-05-16 01:34:58,544 [INFO] [51/100] Probing productID=100302206 ATC=R03AK06 name=Symflusal
+2026-05-16 01:34:59,656 [INFO] [52/100] Probing productID=100288140 ATC=B05BB01 name=Potassium Chloride 0,3% + Sodium Chlorid
+2026-05-16 01:35:00,620 [INFO] [53/100] Probing productID=100434422 ATC=L04AX04 name=Lenalidomide Glenmark
+2026-05-16 01:35:01,628 [INFO] [54/100] Probing productID=100222306 ATC=B01AC04 name=Plavocorin
+2026-05-16 01:35:02,952 [INFO] [55/100] Probing productID=100045070 ATC=M03BX04 name=Mydocalm forte
+2026-05-16 01:35:04,245 [INFO] [56/100] Probing productID=100481090 ATC=R03BA08 name=Cyxezon
+2026-05-16 01:35:05,469 [INFO] [57/100] Probing productID=100374772 ATC=C10BA06 name=Rosulip Plus
+2026-05-16 01:35:06,120 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:35:06,526 [INFO] [58/100] Probing productID=100409163 ATC=L01EX01 name=Sunitinib Stada
+2026-05-16 01:35:08,018 [INFO] [59/100] Probing productID=100111239 ATC=C02CA04 name=Apo-Doxan 4
+2026-05-16 01:35:09,160 [INFO] [60/100] Probing productID=100325058 ATC=N02BE51 name=Gripblocker Express
+2026-05-16 01:35:10,289 [INFO] [61/100] Probing productID=100081573 ATC=C04AD03 name=Polfilin
+2026-05-16 01:35:11,389 [INFO] [62/100] Probing productID=100415488 ATC=A06AD15 name=Pegorion Junior
+2026-05-16 01:35:12,556 [INFO] [63/100] Probing productID=100240149 ATC=N02AA05 name=Oxydolor
+2026-05-16 01:35:13,819 [INFO] [64/100] Probing productID=100442628 ATC=L04AX04 name=Polalid
+2026-05-16 01:35:15,304 [INFO] [65/100] Probing productID=100438667 ATC=L04AX03 name=Tullex
+2026-05-16 01:35:16,507 [INFO] [66/100] Probing productID=100303795 ATC=C09DA07 name=Telmisartan/Hydrochlorothiazide Krka
+2026-05-16 01:35:17,701 [INFO] [67/100] Probing productID=100426530 ATC=L02BX03 name=Abiraterone Fresenius Kabi
+2026-05-16 01:35:19,177 [INFO] [68/100] Probing productID=100179409 ATC=A02BC01 name=Agastin 20 mg
+2026-05-16 01:35:20,344 [INFO] [69/100] Probing productID=100471626 ATC=L04AX07 name=Dimethyl fumarate Teva
+2026-05-16 01:35:21,634 [INFO] [70/100] Probing productID=100074892 ATC=C09AA06 name=Accupro 20
+2026-05-16 01:35:22,787 [INFO] [71/100] Probing productID=100047790 ATC=D01AC08 name=Nizoral
+2026-05-16 01:35:23,315 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:35:23,754 [INFO] [72/100] Probing productID=100453786 ATC=L02BA03 name=Fulvestrant Eugia
+2026-05-16 01:35:24,944 [INFO] [73/100] Probing productID=100198690 ATC=M01AB05 name=Olfen 50
+2026-05-16 01:35:26,161 [INFO] [74/100] Probing productID=100503747 ATC=R02AA03 name=Inovox Junior smak truskawkowy bez cukru
+2026-05-16 01:35:27,400 [INFO] [75/100] Probing productID=100237897 ATC=N06AB10 name=Escipram
+2026-05-16 01:35:28,501 [INFO] [76/100] Probing productID=100082029 ATC=N02AJ06 name=Talvosilen
+2026-05-16 01:35:29,589 [INFO] [77/100] Probing productID=100201238 ATC=R03DC03 name=Promonta 5 mg
+2026-05-16 01:35:30,768 [INFO] [78/100] Probing productID=100097373 ATC=N02BE01 name=Paracetamol Hasco
+2026-05-16 01:35:31,910 [INFO] [79/100] Probing productID=100326253 ATC=V09IX04 name=FDGtomosil
+2026-05-16 01:35:32,982 [INFO] [80/100] Probing productID=100230197 ATC=B01AC04 name=Pegorel
+2026-05-16 01:35:34,062 [INFO] [81/100] Probing productID=100371851 ATC=G04CA02 name=Tamiron
+2026-05-16 01:35:35,142 [INFO] [82/100] Probing productID=100444892 ATC=D06BB03 name=Heviran Comfort
+2026-05-16 01:35:36,457 [INFO] [83/100] Probing productID=100305587 ATC=C09AA05 name=Ramicor
+2026-05-16 01:35:37,054 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:35:37,430 [INFO] [84/100] Probing productID=100159401 ATC=A10BB12 name=Symglic
+2026-05-16 01:35:38,527 [INFO] [85/100] Probing productID=100313428 ATC=G04BD08 name=Solifenacin PMCS
+2026-05-16 01:35:39,643 [INFO] [86/100] Probing productID=100299728 ATC=QN05CM92 name=Nerfasin vet.
+2026-05-16 01:35:40,739 [INFO] [87/100] Probing productID=100189299 ATC=QM01AE91 name=Dolocarp flavour
+2026-05-16 01:35:41,776 [INFO] [88/100] Probing productID=100457587 ATC=J01DB04 name=Cefazolin Phagecon
+2026-05-16 01:35:42,440 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:35:42,864 [INFO] [89/100] Probing productID=100223599 ATC=J01GB03 name=Gentamicin B.Braun
+2026-05-16 01:35:43,523 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:35:43,977 [INFO] [90/100] Probing productID=100470793 ATC=A10BK03 name=Empelic
+2026-05-16 01:35:45,552 [INFO] [91/100] Probing productID=100462033 ATC=B03AA01 name=Obsidan
+2026-05-16 01:35:46,629 [INFO] [92/100] Probing productID=100449398 ATC=N02AX06 name=Binatta
+2026-05-16 01:35:47,154 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:35:47,562 [INFO] [93/100] Probing productID=100076589 ATC=N05AD01 name=Haloperidol WZF
+2026-05-16 01:35:48,736 [INFO] [94/100] Probing productID=100436020 ATC=N03AF04 name=Eslibon
+2026-05-16 01:35:49,104 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:35:49,498 [INFO] [95/100] Probing productID=100444700 ATC=N05AH04 name=Kwetina
+2026-05-16 01:35:50,833 [INFO] [96/100] Probing productID=100165650 ATC=QP52AF02 name=Pyrantel Vet Planet
+2026-05-16 01:35:51,772 [INFO] [97/100] Probing productID=100408258 ATC=H03AA01 name=Levothyroxine Accord
+2026-05-16 01:35:52,808 [INFO] [98/100] Probing productID=100480855 ATC=B01AF02 name=Apixaban Medical Valley
+2026-05-16 01:35:54,190 [INFO] [99/100] Probing productID=100206448 ATC=QP54AB51 name=Milbemax tabletki powlekane dla małych k
+2026-05-16 01:35:54,646 [WARNING] pdfplumber failed: No /Root object! - Is this really a PDF?
+2026-05-16 01:35:55,052 [INFO] [100/100] Probing productID=100159750 ATC=C09AA05 name=Ampril 2,5 mg tabletki
+2026-05-16 01:35:56,008 [INFO] Wrote ..\thesis_research\iter0_feasibility\results.json
+
+=== Iteracja 0a phase 1 - Feasibility probe results ===
+URPL snapshot date (stanNaDzien): 2026-05-15
+Parsed entries: 22750
+Sample size: 100 (+ 10 psych spot-check)
+
+Pre-conditions:
+  pre_2_xml_parse: PASS  (threshold 100% valid, got True)
+  pre_3_chpl_p95: PASS  (threshold <2s p95 (warn band 2-5s), got 0.687s)
+  pre_4_ulotka_p95: PASS  (threshold <2s p95 (warn band 2-5s), got 0.528s)
+  pre_5_alignment: PASS  (threshold >=90% (warn band 80-89%, kill <80%), got 100.0%)
+  pre_6_ocr_overhead: WARN  (threshold <15% (warn band 15-24%, kill >25%), got 17.0%)
+
+Kill criteria activated: False
+
+Artefakty:
+  results.json:   ..\thesis_research\iter0_feasibility\results.json
+  sample list:    ..\thesis_research\iter0_feasibility\sample-list-2026-05-16.csv
+  spot-check:     ..\thesis_research\iter0_feasibility\spot-check-psych-N05N06-2026-05-16.csv  (manual review)
+
+Następne kroki:
+  1. Przejrzyj results.json + sample-list CSV (atc distribution sanity)
+  2. Manualnie spot-check 10 par z psych subset (ChPL sekcja 4.1 vs Ulotka sekcja 1)
+  3. Uruchom `iter0_uptime_probe.py` w background dla 24h SLA (pre-condition #1)
+  4. Wypełnij iteration-0-feasibility-report.md template

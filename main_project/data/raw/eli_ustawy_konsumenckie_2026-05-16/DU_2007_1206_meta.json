@@ -1,0 +1,38 @@
+{
+  "ustawa_id": "DU/2007/1206",
+  "short_title": "Ustawy o przeciwdziałaniu nieuczciwym praktykom rynkowym",
+  "title": "Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym",
+  "publisher": "DU",
+  "year": 2007,
+  "pos": 1206,
+  "display_address": "Dz.U. 2007 nr 171 poz. 1206",
+  "type": "Ustawa",
+  "data_uchwalenia": "2007-08-23",
+  "data_promulgacji": "2007-09-20",
+  "data_wejscia_w_zycie": "2007-12-21",
+  "ostatnia_zmiana": "2024-03-15T09:51:35",
+  "obowiazujaca": true,
+  "in_force_raw": "IN_FORCE",
+  "status": "akt posiada tekst jednolity",
+  "ELI": "DU/2007/1206",
+  "previous_title": [],
+  "art_filter": null,
+  "chunk_count": 113,
+  "source_metadata_url": "https://api.sejm.gov.pl/eli/acts/DU/2007/1206",
+  "source_html_url": "https://api.sejm.gov.pl/eli/acts/DU/2007/1206/text.html",
+  "consolidated_text_references": [
+    "DU/2023/845",
+    "DU/2017/2070",
+    "DU/2016/3"
+  ],
+  "amending_acts": [
+    "DU/2022/2581",
+    "DU/2016/1823",
+    "DU/2015/1348",
+    "DU/2014/827"
+  ],
+  "directives_eu": [
+    "32005L0029"
+  ],
+  "scrape_date": "2026-05-16"
+}

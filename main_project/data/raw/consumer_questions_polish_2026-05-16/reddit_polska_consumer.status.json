@@ -1,0 +1,9 @@
+{
+  "scrape_date": "2026-05-16",
+  "subreddits": ["Polska", "Polska_wpz", "Polish"],
+  "queries_used": 30,
+  "records_collected": 509,
+  "blocked_mid_scrape": false,
+  "killed_mid_scrape": true,
+  "kill_reason": "Script reached r/Polska_wpz mid-scan at query 'operator komórkowy umowa' (sort=new). Killed manually after Polska fully done + Polska_wpz partial coverage, since r/Polish (3rd sub, EN-language) typically returns ~0 matches for Polish keywords. 509 unique consumer-question records is sufficient for the halu eval downstream use; per-query coverage is still high enough across the 30 queries x r/Polska + partial r/Polska_wpz."
+}

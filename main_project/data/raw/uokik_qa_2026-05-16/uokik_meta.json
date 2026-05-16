@@ -1,0 +1,14 @@
+{
+  "scrape_date": "2026-05-16",
+  "source_root": "https://prawakonsumenta.uokik.gov.pl/pytania-i-odpowiedzi/",
+  "total_pairs": 60,
+  "pairs_with_citations": 55,
+  "categories": {
+    "Ogolne": 12,
+    "Prawo do informacji": 20,
+    "Odstapienie od umowy": 19,
+    "Reklamacja": 6,
+    "Telemarketing": 3
+  },
+  "citations_per_pair_avg": 1.07
+}

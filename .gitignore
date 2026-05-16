@@ -208,3 +208,16 @@ __marimo__/
 
 # Claude Code
 .claude/settings.local.json
+
+# JetBrains IDE
+.idea/
+*.iml
+
+# Locked artifact z v3.1 iter0a probe (73MB binary, can't move w sesji)
+thesis_research/iter0_feasibility/
+
+# Future: data/raw/ + processed/ → DVC tracking w Iter. 1
+# Currently committed dla session 2026-05-16 snapshot (5,150 items scrape)
+# main_project/data/raw/
+# main_project/data/processed/
+
