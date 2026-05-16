@@ -23,13 +23,12 @@ import re
 import sys
 from pathlib import Path
 
-import requests
 from bs4 import BeautifulSoup
 
 # Setup PYTHONPATH for direct module execution.
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
-from scrape.extended.common import (  # noqa: E402
+from scrape.extended.common import (
     TODAY,
     EncyclopedicChunk,
     Fetcher,

@@ -152,29 +152,23 @@ class Fetcher:
             time.sleep(wait)
         for attempt in range(retries + 1):
             try:
-                resp = self._session().get(
-                    url, timeout=REQUEST_TIMEOUT_SEC, allow_redirects=True
-                )
+                resp = self._session().get(url, timeout=REQUEST_TIMEOUT_SEC, allow_redirects=True)
                 self._last_fetch = time.monotonic()
                 if resp.status_code == 200:
                     # Force UTF-8 (most Polish sites)
                     if not resp.encoding or resp.encoding.lower() == "iso-8859-1":
                         resp.encoding = "utf-8"
                     # WAF challenge check — tiny body z _Incapsula_Resource
-                    if (
-                        len(resp.content) < 1024
-                        and b"_Incapsula_Resource" in resp.content
-                    ):
+                    if len(resp.content) < 1024 and b"_Incapsula_Resource" in resp.content:
                         logger.warning(
                             "GET %s -> WAF challenge (Incapsula) attempt %d",
-                            url, attempt + 1,
+                            url,
+                            attempt + 1,
                         )
                         time.sleep(3.0 * (attempt + 1))
                         continue
                     return resp
-                logger.warning(
-                    "GET %s -> %d (attempt %d)", url, resp.status_code, attempt + 1
-                )
+                logger.warning("GET %s -> %d (attempt %d)", url, resp.status_code, attempt + 1)
             except requests.RequestException as exc:
                 logger.warning("GET %s ERR %s (attempt %d)", url, exc, attempt + 1)
             time.sleep(2.0 * (attempt + 1))

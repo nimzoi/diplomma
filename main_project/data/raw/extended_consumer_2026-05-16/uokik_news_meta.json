@@ -1,0 +1,14 @@
+{
+  "source": "uokik.gov.pl/aktualnosci",
+  "scrape_date": "2026-05-16",
+  "license": "urzędowe — Art. 4 PrAut (UOKiK, organ administracji państwowej)",
+  "total_records": 111,
+  "records_with_citations": 3,
+  "avg_text_length": 3837.1,
+  "categories": {
+    "2026": 38,
+    "unknown": 11,
+    "2025": 62
+  },
+  "notes": "12 pages indexed, 144 unique articles. UOKiK news format: krótkie reporty + decyzje + komunikaty kontrolne. Heterogeneous content — niektóre artykuły mają explicit citations, większość to journalistic style."
+}

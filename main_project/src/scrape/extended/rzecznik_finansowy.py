@@ -23,13 +23,12 @@ import logging
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
-from scrape.extended.common import (  # noqa: E402
+from scrape.extended.common import (
     TODAY,
     Fetcher,
     QARecord,
@@ -105,9 +104,7 @@ def discover_faq_pages(fetcher: Fetcher) -> dict[str, str]:
     return pages
 
 
-def parse_faq_page(
-    html: str, category_slug: str, source_url: str
-) -> list[QARecord]:
+def parse_faq_page(html: str, category_slug: str, source_url: str) -> list[QARecord]:
     """Wyciągnij Q&A pairs z accordion na stronie FAQ."""
     soup = BeautifulSoup(html, "lxml")
     pairs: list[QARecord] = []
@@ -123,8 +120,16 @@ def parse_faq_page(
         items = soup.select(".elementor-accordion-item, .toggle-item, .qa-item")
 
     for idx, item in enumerate(items, start=1):
-        header = item.select_one(".accordion-header") or item.select_one("h3") or item.select_one(".toggle-title")
-        body = item.select_one(".accordion-collapse") or item.select_one(".accordion-body") or item.select_one(".toggle-content")
+        header = (
+            item.select_one(".accordion-header")
+            or item.select_one("h3")
+            or item.select_one(".toggle-title")
+        )
+        body = (
+            item.select_one(".accordion-collapse")
+            or item.select_one(".accordion-body")
+            or item.select_one(".toggle-content")
+        )
         if not header or not body:
             continue
         q = normalize_pl(header.get_text(" ", strip=True))

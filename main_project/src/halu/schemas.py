@@ -49,6 +49,55 @@ class ConsumerSource(str, Enum):
     REDDIT_POLSKA_WPZ = "reddit.com/r/Polska_wpz"
 
 
+class ExtendedSource(str, Enum):
+    """Źródła dodane w Iter. 0 extended scrape (2026-05-16).
+
+    Mix Q&A pairs, encyclopedic chunks, articles, news. Każdy ma własną
+    licencję — patrz ``EncyclopedicChunk.license`` field.
+    """
+
+    WIKIPEDIA_PL = "pl.wikipedia.org"  # CC BY-SA 4.0
+    FEDERACJA_KONSUMENTOW = "federacja-konsumentow.org.pl"  # fair-use NGO
+    RZECZNIK_FINANSOWY = "rf.gov.pl"  # urzędowe Art. 4 PrAut
+    UOKIK_NEWS = "uokik.gov.pl/aktualnosci"  # urzędowe Art. 4 PrAut
+    GOV_PL_CONSUMER = "gov.pl"  # urzędowe Art. 4 PrAut
+
+
+class EncyclopedicChunk(BaseModel):
+    """Atomic chunk z encyclopedycznego / porady source (Wikipedia, NGO, gov.pl).
+
+    Bardziej elastyczny niż ``LegalChunk`` — nie wymaga citation hierarchy
+    (art./§/ust.). Używany dla:
+    - Wikipedia articles (per H2 section)
+    - Federacja Konsumentów porady (per article)
+    - UOKiK aktualności (per news article)
+    - Gov.pl konsumencki content (per page)
+
+    ``cited_articles`` w metadata (jeśli extracted via regex z body text).
+    """
+
+    model_config = ConfigDict(strict=True, frozen=True)
+
+    chunk_id: str = Field(..., description="np. 'wiki_pl_rekojmia_lead'")
+    source: str = Field(..., description="domain, np. 'pl.wikipedia.org'")
+    source_url: str
+    title: str = Field(..., min_length=2)
+    section: str | None = Field(None, description="H2 section title lub kategoria")
+    tresc: str = Field(..., min_length=50, description="Body text po NFC normalizacji")
+    license: str = Field(..., description="np. 'CC BY-SA 4.0 (Wikipedia)'")
+    scrape_date: date
+    metadata: dict[str, Any] = Field(default_factory=dict)
+
+    @field_validator("tresc")
+    @classmethod
+    def validate_nfc(cls, v: str) -> str:
+        import unicodedata
+
+        if v != unicodedata.normalize("NFC", v):
+            raise ValueError("tresc must be NFC-normalized")
+        return v
+
+
 class LegalChunk(BaseModel):
     """Atomic chunk z polskiej ustawy (ISAP/ELI scrape).
 

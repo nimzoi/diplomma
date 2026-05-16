@@ -40,7 +40,7 @@ Schema (rozszerzony LegalChunk pattern, zob. `src/halu/schemas.py`):
         "section_heading":  "Procedura odstąpienia" | null,
         "tresc":            "...",                  # NFC-normalized
         "scrape_date":      "2026-05-16",
-        "license":          "urzędowe (Art. 4 PrAut)" | "CC BY-SA 4.0" | "fair-use Art. 29 PrAut" | "TBD",
+        "license":          "urzędowe (Art. 4 PrAut)" | "CC BY-SA 4.0" | "fair-use Art. 29" | "TBD",
         "metadata":         {...}                   # author, date, etc.
     }
 
@@ -75,10 +75,10 @@ import re
 import sys
 import time
 import unicodedata
+from collections.abc import Iterable
 from dataclasses import asdict, dataclass, field
 from io import BytesIO
 from pathlib import Path
-from typing import Iterable
 
 import pdfplumber
 import requests
@@ -87,14 +87,13 @@ from bs4 import BeautifulSoup, Tag
 LOGGER = logging.getLogger("scrape_consumer_docs")
 
 USER_AGENT = (
-    "Mozilla/5.0 (compatible; PJATK-thesis-bot/1.0; "
-    "+research, contact magmarsochacka@gmail.com)"
+    "Mozilla/5.0 (compatible; PJATK-thesis-bot/1.0; +research, contact magmarsochacka@gmail.com)"
 )
 RATE_LIMIT_SECONDS = 1.0
 REQUEST_TIMEOUT = 60
-MIN_DOCUMENT_WORDS = 350           # skip if shorter (faux long-form)
-MAX_CHUNK_CHARS = 1800             # target ~500-2000 chars/chunk
-MIN_CHUNK_CHARS = 250              # don't emit tiny stub chunks
+MIN_DOCUMENT_WORDS = 350  # skip if shorter (faux long-form)
+MAX_CHUNK_CHARS = 1800  # target ~500-2000 chars/chunk
+MIN_CHUNK_CHARS = 250  # don't emit tiny stub chunks
 SCRAPE_DATE = "2026-05-16"
 
 LICENSE_URZEDOWE = "urzędowe (Art. 4 ust. 2 PrAut)"
@@ -113,7 +112,7 @@ class DocumentChunk:
     chunk_id: str
     document_id: str
     document_title: str
-    document_type: str             # "poradnik" / "raport" / "artykul" / "orzeczenie" / "broszura"
+    document_type: str  # "poradnik" / "raport" / "artykul" / "orzeczenie" / "broszura"
     source: str
     source_url: str
     chunk_position: int
@@ -251,7 +250,7 @@ def chunk_long_text(
                 # If single paragraph alone exceeds MAX, hard split it.
                 if len(para) > MAX_CHUNK_CHARS:
                     for offset in range(0, len(para), MAX_CHUNK_CHARS):
-                        output.append((sec_title, para[offset:offset + MAX_CHUNK_CHARS]))
+                        output.append((sec_title, para[offset : offset + MAX_CHUNK_CHARS]))
                     buf = ""
                 else:
                     buf = para
@@ -311,24 +310,52 @@ def extract_pdf_text(pdf_bytes: bytes) -> tuple[str, list[tuple[str, int]]]:
                 txt = page.extract_text() or ""
                 page_texts.append(txt)
         full = "\n\n".join(page_texts)
-    except Exception as exc:  # noqa: BLE001 — pdfplumber raises wide variety
+    except Exception as exc:
         LOGGER.warning("  pdfplumber failed: %s", exc)
         return "", []
 
-    # Heading detection on raw lines.
-    headings: list[tuple[str, int]] = []
-    offset = 0
+    # Heading detection: collect candidate heading texts from raw lines, then
+    # re-locate offsets w znormalizowanym tekście (offsety w raw vs normalized
+    # różnią się po collapse'ie whitespace). Filter noise: single roman numerals,
+    # SPIS TREŚCI, page/footer markers, very short stubs.
+    noise_heading_re = re.compile(
+        r"^(SPIS\s+TREŚCI|I{1,3}V?|VI{0,3}|IX|X|RF\s+DLA\s+POSZKODOWANYCH:?|"
+        r"Strona\s+\d+|\d+|©.*)$",
+        re.IGNORECASE,
+    )
+    candidate_headings: list[str] = []
     for line in full.split("\n"):
         ln = line.strip()
-        if ln and len(ln) < 80 and not ln.endswith(("." , "?", "!")) and (
-            ln.isupper()
-            or re.match(r"^(Rozdział|Część|Sekcja|Cz\.)\s+\w+", ln, re.IGNORECASE)
-            or re.match(r"^\d+(\.\d+)*\.?\s+[A-ZĄĆĘŁŃÓŚŹŻ]", ln)
+        if (
+            ln
+            and 5 <= len(ln) < 80
+            and not ln.endswith((".", "?", "!"))
+            and not noise_heading_re.match(ln)
+            and (
+                ln.isupper()
+                or re.match(r"^(Rozdział|Część|Sekcja|Cz\.)\s+\w+", ln, re.IGNORECASE)
+                or re.match(r"^\d+(\.\d+)*\.?\s+[A-ZĄĆĘŁŃÓŚŹŻ]", ln)
+            )
         ):
-            headings.append((normalize_text(ln), offset))
-        offset += len(line) + 1     # account for \n separator
+            candidate_headings.append(normalize_text(ln))
 
-    return normalize_text(full), headings
+    normalized = normalize_text(full)
+    # Re-locate each heading in normalized text. Dedup duplicates (TOC repeats);
+    # for each heading text take FIRST occurrence past the previous one.
+    headings: list[tuple[str, int]] = []
+    cursor = 0
+    seen_titles: set[str] = set()
+    for title in candidate_headings:
+        if not title or title in seen_titles:
+            continue
+        idx = normalized.find(title, cursor)
+        if idx == -1:
+            continue
+        headings.append((title, idx))
+        cursor = idx + len(title)
+        seen_titles.add(title)
+
+    return normalized, headings
 
 
 # ---------------------------------------------------------------------------
@@ -513,7 +540,10 @@ def scrape_uokik_pdfs(
         stats.total_words += words
         LOGGER.info(
             "  scraped %s: %d words → %d chunks (%d sections detected)",
-            doc_id, words, total, len(headings or []),
+            doc_id,
+            words,
+            total,
+            len(headings or []),
         )
 
     return out_chunks
@@ -529,13 +559,13 @@ def scrape_rf_index(session: requests.Session) -> list[dict[str, str]]:
 
     Returns: list[{"title", "url"}] gdzie url == direct PDF download.
     """
-    INDEX_URLS = [
+    index_urls = [
         "https://rf.gov.pl/edukacja/baza-wiedzy/analizy-i-raporty/",
         "https://rf.gov.pl/edukacja/baza-wiedzy/poradniki/",
     ]
-    found: dict[str, dict[str, str]] = {}     # dedup by url
+    found: dict[str, dict[str, str]] = {}  # dedup by url
 
-    for index_url in INDEX_URLS:
+    for index_url in index_urls:
         resp = fetch(index_url, session)
         if resp is None:
             continue
@@ -648,9 +678,7 @@ def scrape_rf_pdfs(
             total_words=words,
             license=LICENSE_URZEDOWE,
             scrape_date=SCRAPE_DATE,
-            citation_recommendation=(
-                f"Rzecznik Finansowy. {title}. {url}"
-            ),
+            citation_recommendation=(f"Rzecznik Finansowy. {title}. {url}"),
             author="Rzecznik Finansowy",
             pdf_size_bytes=len(resp.content),
         )
@@ -863,9 +891,7 @@ def scrape_federacja(
             total_words=words,
             license=LICENSE_FAIR_USE,
             scrape_date=SCRAPE_DATE,
-            citation_recommendation=(
-                f"Federacja Konsumentów. {title}. {spec['url']}"
-            ),
+            citation_recommendation=(f"Federacja Konsumentów. {title}. {spec['url']}"),
             author="Federacja Konsumentów",
         )
         write_meta(fk_dir / f"{spec['id']}.meta.json", meta)
@@ -1045,10 +1071,11 @@ def scrape_orzeczenia(
             continue
 
         # Pre-split na strukturalne sekcje wyroku (WYROK / UZASADNIENIE /
-        # Powołane przepisy / etc.) jeśli wykrywalne.
+        # Powołane przepisy / etc.) jeśli wykrywalne. Tekst już znormalizowany
+        # (jednoliniowy), więc szukamy po spacjach + dużych literach.
         section_pattern = re.compile(
-            r"^(WYROK|UZASADNIENIE|Powołane\s+przepisy|Orzeczenia\s+podobne|Treść|Metryka)\b",
-            re.MULTILINE,
+            r"(?<=\s)(WYROK|UZASADNIENIE|POSTANOWIENIE|"
+            r"Powołane\s+przepisy|Orzeczenia\s+podobne|Sygn\.\s*akt)\b",
         )
         headings: list[tuple[str, int]] = []
         for m in section_pattern.finditer(body):
@@ -1100,7 +1127,10 @@ def scrape_orzeczenia(
         stats.total_words += words
         LOGGER.info(
             "  scraped orzeczenie %s (%s): %d words → %d chunks",
-            spec["id"], spec.get("syg", ""), words, total,
+            spec["id"],
+            spec.get("syg", ""),
+            words,
+            total,
         )
 
     return out_chunks
@@ -1132,12 +1162,13 @@ def main(argv: Iterable[str] | None = None) -> int:
     parser.add_argument("--scrape-date", default=SCRAPE_DATE)
     parser.add_argument(
         "--source",
-        choices=list(SOURCES.keys()) + ["all"],
+        choices=[*list(SOURCES.keys()), "all"],
         default="all",
         help="Single source or 'all' (default).",
     )
-    parser.add_argument("--rf-max-docs", type=int, default=None,
-                        help="Cap na liczbę RF PDFs (testing).")
+    parser.add_argument(
+        "--rf-max-docs", type=int, default=None, help="Cap na liczbę RF PDFs (testing)."
+    )
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--verbose", "-v", action="store_true")
     args = parser.parse_args(list(argv) if argv is not None else None)
@@ -1162,22 +1193,28 @@ def main(argv: Iterable[str] | None = None) -> int:
         try:
             if src == "rf":
                 chunks = scraper(  # type: ignore[call-arg]
-                    session, output_dir, stats,
-                    dry_run=args.dry_run, max_docs=args.rf_max_docs,
+                    session,
+                    output_dir,
+                    stats,
+                    dry_run=args.dry_run,
+                    max_docs=args.rf_max_docs,
                 )
             else:
                 chunks = scraper(session, output_dir, stats, dry_run=args.dry_run)
-        except Exception as exc:  # noqa: BLE001 — log + continue
+        except Exception as exc:
             LOGGER.exception("source %s crashed: %s", src, exc)
             chunks = []
 
         # Write per-source documents.jsonl.
-        src_dir = output_dir / {
-            "uokik": "uokik_pdfs",
-            "rf": "rf_pdfs",
-            "federacja": "federacja_konsumentow",
-            "orzeczenia": "orzeczenia",
-        }[src]
+        src_dir = (
+            output_dir
+            / {
+                "uokik": "uokik_pdfs",
+                "rf": "rf_pdfs",
+                "federacja": "federacja_konsumentow",
+                "orzeczenia": "orzeczenia",
+            }[src]
+        )
         src_dir.mkdir(parents=True, exist_ok=True)
         jsonl_path = src_dir / "documents.jsonl"
         n = write_jsonl(jsonl_path, chunks)

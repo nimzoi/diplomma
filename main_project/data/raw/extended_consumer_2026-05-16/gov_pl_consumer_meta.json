@@ -1,0 +1,12 @@
+{
+  "source": "gov.pl",
+  "scrape_date": "2026-05-16",
+  "license": "urzędowe — Art. 4 PrAut (gov.pl, materiały rządowe)",
+  "total_records": 5,
+  "records_with_citations": 0,
+  "avg_text_length": 16462.6,
+  "categories": {
+    "konsumencki_gov": 5
+  },
+  "notes": "Kurated lista 5 stron rządowych konsumenckich; 0 failures. Strony krótkie (350-500 słów each) — supplementary do main UOKiK portal."
+}

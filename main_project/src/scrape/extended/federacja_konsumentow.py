@@ -31,7 +31,7 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
-from scrape.extended.common import (  # noqa: E402
+from scrape.extended.common import (
     TODAY,
     EncyclopedicChunk,
     Fetcher,
@@ -127,11 +127,15 @@ def discover_article_links(fetcher: Fetcher) -> list[tuple[str, str, str]]:
             seen_urls.add(full_url)
             results.append((label, full_url, text or "(no text)"))
 
-    logger.info("discovered %d unique article URLs across %d categories", len(results), len(TOP_CATEGORIES))
+    logger.info(
+        "discovered %d unique article URLs across %d categories", len(results), len(TOP_CATEGORIES)
+    )
     return results
 
 
-def parse_article(html: str, source_url: str, category: str, article_idx: int) -> EncyclopedicChunk | None:
+def parse_article(
+    html: str, source_url: str, category: str, article_idx: int
+) -> EncyclopedicChunk | None:
     """Wyciągnij title + body z artykułu Federacji."""
     soup = BeautifulSoup(html, "lxml")
     content = soup.select_one("div#content")

@@ -1,22 +1,46 @@
 {
   "scrape_date": "2026-05-16",
-  "dry_run": false,
+  "agent": "E2 long-form documents",
   "per_source": [
     {
-      "source": "rf",
-      "attempted_urls": 15,
-      "documents_scraped": 15,
-      "documents_skipped": 0,
-      "skip_reasons": {},
-      "total_chunks": 318,
-      "total_words": 59532,
+      "source": "uokik.gov.pl",
+      "subdir": "uokik_pdfs",
+      "documents_scraped": 8,
+      "total_chunks": 202,
+      "total_words": 36085,
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)"
+    },
+    {
+      "source": "rf.gov.pl",
+      "subdir": "rf_pdfs",
+      "documents_scraped": 36,
+      "total_chunks": 2105,
+      "total_words": 422731,
+      "license": "urzędowe (Art. 4 ust. 2 PrAut)"
+    },
+    {
+      "source": "federacja-konsumentow.org.pl",
+      "subdir": "federacja_konsumentow",
+      "documents_scraped": 5,
+      "total_chunks": 70,
+      "total_words": 11557,
+      "license": "fair-use Art. 29 PrAut"
+    },
+    {
+      "source": "orzeczenia.ms.gov.pl",
+      "subdir": "orzeczenia",
+      "documents_scraped": 10,
+      "total_chunks": 191,
+      "total_words": 44744,
       "license": "urzędowe (Art. 4 ust. 2 PrAut)"
     }
   ],
   "totals": {
-    "documents_scraped": 15,
-    "documents_skipped": 0,
-    "total_chunks": 318,
-    "total_words": 59532
-  }
+    "documents_scraped": 59,
+    "total_chunks": 2568,
+    "total_words": 515117
+  },
+  "baseline_chunks_before": 2183,
+  "baseline_chunks_after": 4751,
+  "growth_factor": 2.18
 }
