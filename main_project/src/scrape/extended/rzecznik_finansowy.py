@@ -156,7 +156,8 @@ def parse_faq_page(
 
 def scrape_all(output_dir: Path) -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
-    fetcher = Fetcher()
+    # rf.gov.pl używa Incapsula WAF → fresh session per request
+    fetcher = Fetcher(per_request_session=True)
 
     pages = discover_faq_pages(fetcher)
     logger.info("discovered %d FAQ category pages", len(pages))

@@ -3,22 +3,20 @@
   "dry_run": false,
   "per_source": [
     {
-      "source": "uokik",
-      "attempted_urls": 11,
-      "documents_scraped": 8,
-      "documents_skipped": 3,
-      "skip_reasons": {
-        "too_short": 3
-      },
-      "total_chunks": 205,
-      "total_words": 36085,
+      "source": "rf",
+      "attempted_urls": 15,
+      "documents_scraped": 15,
+      "documents_skipped": 0,
+      "skip_reasons": {},
+      "total_chunks": 318,
+      "total_words": 59532,
       "license": "urzędowe (Art. 4 ust. 2 PrAut)"
     }
   ],
   "totals": {
-    "documents_scraped": 8,
-    "documents_skipped": 3,
-    "total_chunks": 205,
-    "total_words": 36085
+    "documents_scraped": 15,
+    "documents_skipped": 0,
+    "total_chunks": 318,
+    "total_words": 59532
   }
 }

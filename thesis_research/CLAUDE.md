@@ -23,6 +23,7 @@ Source-of-truth dokumenty projektu.
 | **`decisions/DEC-003_pivot-na-halu-detection.md`** | Gdy potrzebny defense argument dla pivot lub pełny rationale | 🔴 P0 |
 | `research/halu_detection_sota_2024_2026.md` | Praca nad R2 (literatura), R6 (modele methodology) | 🟠 P1 |
 | `research/domain_A_feasibility.md` | Praca nad R3 (dane), scrape pipeline ISAP+UOKiK+Reddit | 🟠 P1 |
+| **`notes/sources_z_v3.1_do_reuse_w_v3.2.md`** | Praca nad R1+R2 — 24/31 v3.1 refs reusable + framing carry-over (~70% R1 adapter) | 🟠 P1 |
 | `05_stack_techniczny.docx` | Decyzje technologiczne, uzasadnienia, alternatywy | 🟡 P2 |
 | `04_dev_environment.docx` | Setup kodu, CI/CD, reproducibility | 🟡 P2 |
 | `01_agent_brief.docx` | Historical context (psych framing pre-pivots) | 🟢 P3 |

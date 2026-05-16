@@ -111,16 +111,40 @@ class ScrapeStats:
         return asdict(self)
 
 
-class Fetcher:
-    """Politely-rate-limited HTTP client z retries."""
+DEFAULT_HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept-Language": "pl,en;q=0.7",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+}
 
-    def __init__(self, rate_limit_sec: float = RATE_LIMIT_SEC) -> None:
-        self.session = requests.Session()
-        self.session.headers.update(
-            {"User-Agent": USER_AGENT, "Accept-Language": "pl,en;q=0.7"}
-        )
+
+class Fetcher:
+    """Politely-rate-limited HTTP client z retries.
+
+    ``per_request_session=True`` używa fresh ``requests.Session`` na każdy
+    request — workaround dla Incapsula/WAF deployments które flagują session
+    reuse jako bot (np. rf.gov.pl).
+    """
+
+    def __init__(
+        self,
+        rate_limit_sec: float = RATE_LIMIT_SEC,
+        per_request_session: bool = False,
+    ) -> None:
+        self.per_request_session = per_request_session
+        if not per_request_session:
+            self.session = requests.Session()
+            self.session.headers.update(DEFAULT_HEADERS)
         self.rate_limit_sec = rate_limit_sec
         self._last_fetch = 0.0
+
+    def _session(self) -> requests.Session:
+        if self.per_request_session:
+            s = requests.Session()
+            s.headers.update(DEFAULT_HEADERS)
+            return s
+        return self.session
 
     def get(self, url: str, *, retries: int = 2) -> requests.Response | None:
         wait = self.rate_limit_sec - (time.monotonic() - self._last_fetch)
@@ -128,7 +152,7 @@ class Fetcher:
             time.sleep(wait)
         for attempt in range(retries + 1):
             try:
-                resp = self.session.get(
+                resp = self._session().get(
                     url, timeout=REQUEST_TIMEOUT_SEC, allow_redirects=True
                 )
                 self._last_fetch = time.monotonic()
@@ -136,6 +160,17 @@ class Fetcher:
                     # Force UTF-8 (most Polish sites)
                     if not resp.encoding or resp.encoding.lower() == "iso-8859-1":
                         resp.encoding = "utf-8"
+                    # WAF challenge check — tiny body z _Incapsula_Resource
+                    if (
+                        len(resp.content) < 1024
+                        and b"_Incapsula_Resource" in resp.content
+                    ):
+                        logger.warning(
+                            "GET %s -> WAF challenge (Incapsula) attempt %d",
+                            url, attempt + 1,
+                        )
+                        time.sleep(3.0 * (attempt + 1))
+                        continue
                     return resp
                 logger.warning(
                     "GET %s -> %d (attempt %d)", url, resp.status_code, attempt + 1
