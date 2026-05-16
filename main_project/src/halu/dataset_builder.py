@@ -21,8 +21,15 @@ CLI:
     uv run python -m src.halu.dataset_builder \\
         --raw-dir data/raw \\
         --output-dir data/processed \\
-        --version v0.1 \\
+        --version v0.5 \\
+        --filter-policy strict \\
         --halu-injection-per-pair 3
+
+**Filter policies** (per ``chunk_filter.py``):
+
+- ``strict`` — Wariant B per krytyka 2026-05-16. Drop ~50% chunks scope creep.
+- ``loose`` — drop only uchylone ustawy + KPC + ING CSS artifacts.
+- ``none`` — backwards-compat dla v0.4 (no filter).
 """
 
 from __future__ import annotations
@@ -39,7 +46,11 @@ from typing import Any
 
 from pydantic import ValidationError
 
-from src.halu.halu_injector import generate_halu_pairs_from_qa
+from src.halu.chunk_filter import FilterPolicy, FilterResult, explain_drop_reason, filter_chunks
+from src.halu.halu_injector import (
+    generate_halu_pairs_from_legal_chunks,
+    generate_halu_pairs_from_qa,
+)
 from src.halu.normalizers import (
     normalize_consumer_document,
     normalize_consumer_question,
@@ -174,18 +185,25 @@ def load_new_sources_articles(raw_dir: Path) -> list[Chunk]:
     `uokik_*` (już handled przez dedicated loaders).
     """
     s6_sources = [
-        "bankier_pl", "money_pl", "infor_pl", "gazeta_prawna", "prawo_pl",
-        "bezprawnik_pl", "ecc_polska", "uodo", "knf_consumer", "uke_consumer",
-        "ure_consumer", "banki_consumer",
+        "bankier_pl",
+        "money_pl",
+        "infor_pl",
+        "gazeta_prawna",
+        "prawo_pl",
+        "bezprawnik_pl",
+        "ecc_polska",
+        "uodo",
+        "knf_consumer",
+        "uke_consumer",
+        "ure_consumer",
+        "banki_consumer",
     ]
     paths: list[Path] = []
     for src in s6_sources:
         paths.extend(sorted(raw_dir.glob(f"{src}_*/articles.jsonl")))
     if not paths:
         return []
-    chunks, _ = _load_jsonl_with_normalizer(
-        paths, normalize_new_source_article, "S6 articles"
-    )
+    chunks, _ = _load_jsonl_with_normalizer(paths, normalize_new_source_article, "S6 articles")
     return chunks
 
 
@@ -262,8 +280,14 @@ def write_dataset_card(
     snapshot_date: str,
     chunk_stats: dict[str, Any],
     halu_count: int,
+    filter_result: FilterResult | None = None,
 ) -> None:
-    """Generate HuggingFace dataset card."""
+    """Generate HuggingFace dataset card.
+
+    Jeśli ``filter_result`` podane (i policy != 'none'), card zawiera dodatkową
+    sekcję ``## Scope filter audit`` z per-reason drop stats + cross-link do
+    `thesis_research/notes/scope_cleanup_decisions_2026-05-16.md`.
+    """
     sources_table = "\n".join(
         f"| {src} | {count} |" for src, count in chunk_stats["sources"].items()
     )
@@ -273,6 +297,31 @@ def write_dataset_card(
     categories_table = "\n".join(
         f"| {cat} | {count} |" for cat, count in chunk_stats["categories"].items()
     )
+
+    # Filter audit section (jeśli policy != 'none')
+    filter_audit_section = ""
+    if filter_result is not None and filter_result.policy != "none":
+        drops_table_lines: list[str] = []
+        for reason, count in filter_result.drop_stats_by_reason.items():
+            explanation = explain_drop_reason(reason, filter_result.policy)
+            drops_table_lines.append(f"| `{reason}` | {count} | {explanation} |")
+        drops_table = "\n".join(drops_table_lines) if drops_table_lines else "| (none) | 0 | — |"
+        filter_audit_section = f"""
+
+## Scope filter audit (policy: `{filter_result.policy}`)
+
+Per-source decyzje + uzasadnienie: `thesis_research/notes/scope_cleanup_decisions_2026-05-16.md`.
+
+- **Input chunks (pre-filter):** {filter_result.total}
+- **Kept chunks:** {filter_result.kept_count} ({100 * (1 - filter_result.drop_ratio):.1f}%)
+- **Dropped chunks:** {filter_result.dropped_count} ({100 * filter_result.drop_ratio:.1f}%)
+
+### Drops by reason
+
+| reason | count | wyjaśnienie |
+|---|---|---|
+{drops_table}
+"""
 
     card = f"""---
 language:
@@ -380,11 +429,13 @@ problemem dla downstream use.
 
 ## Świadome biases (per R3 thesis chapter v3.2)
 
-1. **Source type bias:** legal_statute + legal_document_pdf dominują (~70%) względem QA pairs (~25%)
-2. **Finance adjacent bias:** RF FAQ (~22% E1 extended) jest finance/banking dominated — oznaczone `FINANCE_ADJACENT` category
+1. **Source type bias:** legal_statute + legal_document_pdf dominują względem QA pairs
+2. **Finance adjacent bias:** RF FAQ + consumer credit chunks oznaczone `FINANCE_ADJACENT` category (świadomy bias, audytowany w R3)
 3. **Recency bias:** post-2014 content dominuje (UPK 2014/827 jako CORE)
 4. **Polish-only bias:** wyłączony EN content (świadomy: praca dotyczy polish-specific halu detection)
-5. **Court judgment selection bias:** orzeczenia wybierane głównie via Google search (10 wyroków w E4)
+5. **Court judgment selection bias:** orzeczenia wybierane głównie via Google search (38 unikalnych orzeczeń ms.gov.pl chunked do {chunk_stats["sources"].get("orzeczenia.ms.gov.pl", "N/A")} chunks)
+6. **Scope filter bias (v0.5+ z `--filter-policy strict`):** drop ~50% chunks v0.4 per Wariant B krytyki — KPC, Prawo upadłościowe, Prawo bankowe, Usługi płatnicze, finance journalism (bankier/money/infor/gazeta_prawna/prawo.pl/bezprawnik), uchylone ustawy, CHF/franki orzeczenia SN, pure-insurance RF chunks. Świadome zwężenie do consumer-rights core dla probe training distribution. Per-source decyzje + uzasadnienie: `thesis_research/notes/scope_cleanup_decisions_2026-05-16.md`.
+{filter_audit_section}
 
 ## Note dla v3.1 → v3.2 pivot (DEC-003)
 
@@ -407,10 +458,29 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--halu-injection-per-pair",
         type=int,
-        default=3,
-        help="Liczba synthetic halu samples per UOKiK gold pair (default 3)",
+        default=10,
+        help="Liczba synthetic halu samples per UOKiK gold pair (default 10, was 3 in v0.4)",
+    )
+    parser.add_argument(
+        "--halu-legal-chunks-sample",
+        type=int,
+        default=1500,
+        help=(
+            "Sample N legal chunks (statute/UE/court) dla halu generation. "
+            "0=disable. Default 1500 → ~9000 halu pairs total kombinowane z UOKiK (per Magda critique 2026-05-16)."
+        ),
     )
     parser.add_argument("--seed", type=int, default=42, help="RNG seed dla halu injection")
+    parser.add_argument(
+        "--filter-policy",
+        type=str,
+        choices=["strict", "loose", "none"],
+        default="none",
+        help=(
+            "Chunk-level scope filter (default 'none' for v0.4 backwards-compat). "
+            "Use 'strict' dla v0.5+ per Wariant B krytyki 2026-05-16."
+        ),
+    )
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args(argv)
 
@@ -446,13 +516,32 @@ def main(argv: list[str] | None = None) -> int:
     # Dedup
     all_chunks = deduplicate_chunks(all_chunks)
 
-    # Halu injection z UOKiK QA
+    # Scope filter (per --filter-policy)
+    policy: FilterPolicy = args.filter_policy
+    filter_result = filter_chunks(all_chunks, policy=policy)
+    all_chunks = filter_result.kept
+
+    # Halu injection: 2 sources kombinowane → balanced 5 typów coverage
+    # Per Magda critique: 240 pairs (1.3% of 17,862) too low; target 5-10k balanced.
     halu_pairs: list[HaluPair] = []
     if uokik_raw_qa:
-        halu_pairs = generate_halu_pairs_from_qa(
-            uokik_raw_qa,
-            seed=args.seed,
-            n_halu_per_pair=args.halu_injection_per_pair,
+        halu_pairs.extend(
+            generate_halu_pairs_from_qa(
+                uokik_raw_qa,
+                seed=args.seed,
+                n_halu_per_pair=args.halu_injection_per_pair,
+            )
+        )
+    # Plus legal_statute / UE / TSUE / court chunks (sampled)
+    if args.halu_legal_chunks_sample > 0:
+        legal_dicts = [c.model_dump(mode="json") for c in all_chunks]
+        halu_pairs.extend(
+            generate_halu_pairs_from_legal_chunks(
+                legal_dicts,
+                seed=args.seed,
+                n_chunks_sample=args.halu_legal_chunks_sample,
+                n_halu_per_chunk=5,
+            )
         )
 
     # Write outputs
@@ -461,11 +550,28 @@ def main(argv: list[str] | None = None) -> int:
 
     # Stats + dataset card
     chunk_stats = _compute_stats(all_chunks)
-    write_dataset_card(output_subdir, args.version, today, chunk_stats, len(halu_pairs))
+    write_dataset_card(
+        output_subdir,
+        args.version,
+        today,
+        chunk_stats,
+        len(halu_pairs),
+        filter_result=filter_result,
+    )
 
     # Final summary
     print(f"\n=== Polish CitationBench {args.version} build summary ===")
     print(f"Output: {output_subdir}")
+    print(f"Filter policy: {policy}")
+    if policy != "none":
+        print(
+            f"  Filter: kept {filter_result.kept_count} / dropped "
+            f"{filter_result.dropped_count} ({100 * filter_result.drop_ratio:.1f}%) "
+            f"z {filter_result.total} input chunks"
+        )
+        print("  Top drop reasons:")
+        for reason, count in list(filter_result.drop_stats_by_reason.items())[:10]:
+            print(f"    {reason:40s} {count:6d}")
     print(f"\nUnified chunks: {chunk_stats['total_chunks']}")
     print(f"  with citations: {chunk_stats['with_citations']} ({chunk_stats['citation_rate']:.1%})")
     print("\nSource types:")
