@@ -1,0 +1,101 @@
+{
+  "model": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+  "n_samples": 49,
+  "accuracy": 0.061,
+  "kill_criterion": "accuracy >= 0.50 (random baseline)",
+  "PASS": false,
+  "per_class": {
+    "entailed": {
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "neutral": {
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "contradicted": {
+      "precision": 0.375,
+      "recall": 0.12
+    }
+  },
+  "confusion_matrix": {
+    "entailed->neutral": 19,
+    "entailed->contradicted": 5,
+    "contradicted->neutral": 21,
+    "contradicted->contradicted": 3,
+    "contradicted->entailed": 1
+  },
+  "sample_errors": [
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_001_neg",
+      "claim": "Konsument to osoba fizyczna dokonująca z przedsiębiorcą czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową . Przykład Jan jest konsumentem, jeżeli kupi dziecku laptop; nie będzie nim jednak, gdy kupi laptop dla firmy i pozwoli dziecku sporadycznie z niego korzystać. Uznanie za konsumenta ma istotne znaczenie prawne – od tego często zależy jakie przepisy zostaną zastosowane do oceny całej transakcji. W wielu przypadkach sytuacja prawna konsumenta jest z góry wzmacniana przez przepisy .",
+      "evidence": "art. 22^1 Kodeksu cywilnego",
+      "expected": "entailed",
+      "halu_type": null,
+      "predicted": "neutral",
+      "logits": [
+        0.51171875,
+        1.6953125,
+        -2.009765625
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_002_neg",
+      "claim": "Nie jesteś konsumentem, gdy kupujesz towar od osoby prywatnej (fizycznej). Konsumentem jest się tylko w sytuacji zakupu od przedsiębiorcy – także od osoby fizycznej prowadzącej działalność gospodarczą. Tylko w tym przypadku kupujący może korzystać z uprawnień przysługujących konsumentom – w pozostałych sytuacjach prawa te nie przysługują.",
+      "evidence": "art. 22^1 Kodeksu cywilnego",
+      "expected": "entailed",
+      "halu_type": null,
+      "predicted": "neutral",
+      "logits": [
+        -0.07330322265625,
+        1.708984375,
+        -1.443359375
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_003_neg",
+      "claim": "Wyraźną zgodę wyraża sam konsument. Nie można zakładać jej przez zastosowanie domyślnych opcji, które trzeba dopiero odrzucić. Zgody nie można domniemywać na podstawie tego, że konsument nie wyraził sprzeciwu. Przykład Wyraźną zgodą nie jest domyślnie zaznaczona opcja wykupienia dodatkowej gwarancji w przypadku e-zakupu sprzętu elektronicznego. Ważne! Konsument ma prawo do zwrotu płatności dodatkowej, na którą nie wyraził wyraźnej zgody.",
+      "evidence": "art. 10 ust. 1 i 2 ustawy o prawach konsumenta",
+      "expected": "entailed",
+      "halu_type": null,
+      "predicted": "neutral",
+      "logits": [
+        -0.59375,
+        1.6025390625,
+        -0.91796875
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_004_neg",
+      "claim": "Nie, przedsiębiorca nie może ustalać tego w sposób dowolny. Jeżeli wskazuje numer telefonu do kontaktu z nim w sprawie zawartej umowy, opłata dla konsumenta za połączenie z tym numerem nie może być wyższa niż opłata za zwykłe połączenie telefoniczne , zgodnie z pakietem taryfowym dostawcy usług, z którego korzysta konsument. Dowiedz się więcej",
+      "evidence": "art. 11 ustawy o prawach konsumenta",
+      "expected": "entailed",
+      "halu_type": null,
+      "predicted": "neutral",
+      "logits": [
+        -0.43896484375,
+        2.05859375,
+        -1.365234375
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_005_neg",
+      "claim": "Tak, przepisy ustawy o prawach konsumenta stosuje się do umów zawieranych przez tego typu placówki. Teatr jest przedsiębiorcą w rozumieniu przepisów Kodeksu cywilnego, niezależnie od tego, czy jest finansowany ze środków publicznych, czy też prywatnych. Uwaga! W odniesieniu do umów zawartych poza lokalem przedsiębiorstwa lub na odległość i związanych z wydarzeniami rozrywkowymi lub kulturalnymi, konsumentowi nie przysługuje prawo odstąpienia od umowy .",
+      "evidence": "art. 38 pkt 12 ustawy o prawach konsumenta",
+      "expected": "entailed",
+      "halu_type": null,
+      "predicted": "contradicted",
+      "logits": [
+        -1.3818359375,
+        0.274169921875,
+        0.9794921875
+      ],
+      "correct": false
+    }
+  ],
+  "timestamp": "2026-05-16T11:25:32.688905"
+}
