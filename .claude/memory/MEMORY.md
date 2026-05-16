@@ -1,0 +1,5 @@
+- [Praca dyplomowa context](thesis_context.md) — temat v3.2 (DEC-003), 3+1 RQ, stack, CitationBench v0.6 (11k chunks + 5,402 halu pairs), DEC-004 PARTIAL (T1 PASS 80.6%), DEC-005 (200 par eval), Iter. 0b-8
+- [Speed-run + iteration mode](feedback_workflow.md) — bursts (6 mies w 3 dni), brak calendar deadlines (z 48h-sprint exception), twarde done criteria per iteracja
+- [Brutal feedback + Decision before output](feedback_collaboration.md) — no validation theater, citation hygiene, honest motivation framing, outsourced decisiveness anti-pattern + mitygacje
+- [Multi-agent parallel workflow](multi_agent_workflow.md) — 3-12 concurrent subagents, sync przez git, fragment workflow dla long chapters (R5 5-fragment), 48h-sprint writing-first override
+- [Wariant B cleanup pattern](wariant_b_cleanup_pattern.md) — scope creep trigger → devil's advocate → archive → cleanup pipeline → POC kill criteria → single-shot (NIE infinite loop)
