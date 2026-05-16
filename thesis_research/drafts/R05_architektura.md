@@ -1,30 +1,236 @@
 # R5. Architektura systemu
 
-> **48h-draft (2026-05-16) — FRAGMENT 1: SZKIELET.** Brak prozy. Tylko struktura nagłówków H1/H2/H3 z 1-zdaniowymi opisami zakresu per sub-sekcja. Po sign-off Magdy → FRAGMENT 2 (sekcje 5.1+5.2 z prozą i wykresami C4).
->
-> Figury w wariancie SZKIELET (text-only listing nodów i strzałek). Polishing Mermaid post-sprint w Iteracji 7.
+> **48h-draft (2026-05-16).** Fragmenty 1+2 ukończone (szkielet + sekcje 5.1+5.2 z prozą i 3 wykresami C4 w wariancie szkielet). Fragmenty 3-5: pending. Polishing Mermaid post-sprint w Iteracji 7.
 
 ---
 
 ## 5.1 Wprowadzenie do architektury
 
-> Cel R5 (CENTRALNY rozdział): opisanie warstwowej architektury systemu citation-grounded RAG z hidden-states halu probe, z naciskiem na pipeline treningu + MLOps (~37,5 % rozdziału). Wprowadzenie metody C4 [CYT: Brown 2018 C4 model] i czterech widoków systemowych: Context, Container, Inference Pipeline, Training Pipeline. Forward refs do R6 (parametryzacja modeli) i R7 (wyniki ewaluacji).
+Rozdział 5 dokumentuje warstwową architekturę systemu citation-grounded RAG z hidden-states halu probe. Jest **centralnym rozdziałem pracy** — uzasadnia decyzje konstrukcyjne, pokazuje rozdział odpowiedzialności między kontenerami serwisowymi oraz definiuje przepływ danych przez pipeline. Z dziewięciu sekcji rozdziału trzy (5.4, 5.5, 5.6) opisują warstwę treningową i MLOps, co odpowiada deklarowanemu naciskowi na pipeline jako produkt inżynierski, a nie wyłącznie na model end-to-end.
+
+Architektura jest udokumentowana metodą **C4** [CYT: Brown 2018 C4 model] — standardem dokumentacji architektonicznej rozróżniającym cztery poziomy abstrakcji: Context (system w otoczeniu zewnętrznych aktorów), Container (deployable services), Component (moduły wewnątrz kontenerów) oraz Code (struktura klas i funkcji). Pierwsze trzy poziomy są wykorzystane w sekcji 5.2; poziom Code jest pominięty jako za szczegółowy dla rozdziału architektonicznego — zainteresowani znajdą go w kodzie źródłowym w katalogu `main_project/src/`. Uzupełnieniem C4 są dwa widoki dynamiczne: pipeline inferencji (sekcja 5.3) i pipeline treningu (sekcja 5.4), pokazujące przepływ danych w runtime'ie.
+
+Wybór C4 jako metody dokumentacji motywowany jest trzema czynnikami. Po pierwsze C4 jest *industry standard* w dokumentacji systemów MLOps, znanym promotorowi Kojałowiczowi z praktyki klasycznych ML pipelines. Po drugie hierarchiczna struktura *gradual zoom-in* umożliwia czytelnikowi wybranie poziomu szczegółowości adekwatnego do potrzeb — komisja egzaminacyjna może zatrzymać się na poziomie Container, recenzent szczegółowy schodzi do Component. Po trzecie C4 jest *technology-agnostic* — diagramy nie zmieniają sensu jeśli SGLang zostanie zastąpiony przez vLLM lub Qdrant przez Weaviate, co jest pożądane dla pracy o cyklu życia kilkuletnim.
+
+Wszystkie wykresy w rozdziale generowane są w notacji **Mermaid** [CYT: Mermaid documentation], która umożliwia version-controlled diagrams (tekst w git) oraz eksport do SVG dla finalnej wersji Worda. W niniejszym 48h-draft wykresy mają postać tekstowego szkieletu (listing nodów i strzałek) — polishing do pełnej notacji Mermaid zaplanowany jest w Iteracji 7 writing phase. Pełen kod źródłowy wykresów znajdzie się w `thesis_research/diagrams/r05_*.mmd`.
+
+Decyzje konstrukcyjne i kompromisy omówione są w sekcji 5.9. Parametryzacja modeli (hyperparams, architektury, fine-tune procedures) przeniesiona jest do Rozdziału 6. Empiryczne wyniki ewaluacji raportowane są w Rozdziale 7.
 
 ---
 
 ## 5.2 Widoki systemowe wg metody C4
 
-### 5.2.1 Kontekst (Fig 5.1)
+### 5.2.1 Kontekst systemu (Fig 5.1)
 
-> System-as-blackbox + jego użytkownicy + zewnętrzne źródła. Aktorzy: Magda (developer + ewaluator), lab GPU operator (SP7 H200), Kojałowicz (promotor obserwator). Zewnętrzne systemy: ISAP (Sejm), UOKiK portal, EUR-Lex, fora konsumenckie (e-prawnik / forumprawne / Reddit / eporady24), HuggingFace Hub (dla publikacji 3 artefaktów). Granice systemu: Polish CitationBench v0.6 + pipeline citation-grounded RAG + halu detection.
+Widok kontekstowy traktuje system jako *blackbox* i pokazuje jego użytkowników oraz zewnętrzne systemy, z którymi się komunikuje. System obejmuje całość pipeline'u Polish CitationBench: scrape źródeł, preprocessing, halu injection, training probe + verifier, serving Bielika dla inferencji oraz UI Gradio. Granice systemu są jasne — wszystko od scrape do UI należy do systemu, wszystko poza nimi jest external.
+
+**Aktorzy systemu:**
+
+- **Autorka (Magda)** — primary user; pełni trzy role: *developer* (kod, scrape, hyperparam tuning), *ewaluator* (anotacja 140 par gold standard, manual spot-check silver labels), *operator* (deployment Gradio na laptopie + lab GPU dla heavy compute).
+- **Operator lab GPU** — pośrednik dostępu do infrastruktury PJATK SP7 H200 80GB; dostarcza compute dla treningu probe (Bielik 11B forward pass z hooks) oraz fine-tune'u Tier 2 verifier (HerBERT-large + CDSC-E).
+- **Promotor (Kojałowicz)** — observer; otrzymuje artefakty (repozytorium kodu, draft pracy, demo Gradio) async via DVC pull i GitHub repo, NIE bezpośrednio interaguje z systemem runtime.
+
+**Zewnętrzne systemy (źródła danych + sink dla artefaktów):**
+
+- **ISAP (Sejm)** — Polish statutes (27 ustaw konsumenckich), Sejm ELI API XML + PDF.
+- **UOKiK Portal** — Q&A FAQ, decyzje Prezesa, poradniki PDF.
+- **EUR-Lex** — UE dyrektywy konsumenckie (8), TSUE orzeczenia (29).
+- **Orzeczenia.ms.gov.pl + SN.pl** — orzecznictwo sądów powszechnych + Sądu Najwyższego.
+- **Fora prawne** — forumprawne.org, e-prawnik.pl, Reddit r/Polska, eporady24.pl jako real consumer questions.
+- **HuggingFace Hub** — sink dla publikacji trzech artefaktów (Polish CitationBench v0.6 + probe model + mDeBERTa verifier card).
+
+**Fig 5.1 — szkielet wykresu C4 Context:**
+
+```
+Aktorzy (lewa strona):
+  [Magda — developer + ewaluator + operator]
+  [Operator lab GPU PJATK SP7 H200]
+  [Promotor Kojałowicz — observer]
+
+System (centrum):
+  [System: Polish CitationBench RAG + Halu Detection]
+    boundary: scrape pipeline + preprocessing + halu injection + training +
+              inference RAG + 3-tier NLI verifier + halu probe + Gradio UI
+
+Zewnętrzne systemy (prawa strona):
+  [ISAP Sejm] — polskie ustawy
+  [UOKiK Portal] — Q&A + decyzje + poradniki
+  [EUR-Lex] — UE dyrektywy + TSUE
+  [Orzeczenia.ms.gov.pl + SN.pl] — orzecznictwo sądowe
+  [Fora prawne] — real consumer questions
+  [HuggingFace Hub] — publikacja 3 artefaktów
+
+Strzałki:
+  Magda → System : queries + anotacje + kod
+  System → Magda : odpowiedzi z citation badges + halu scores + dashboardy
+  Operator lab GPU → System : GPU compute dla treningu probe + verifier
+  Promotor → System : async code review, observability
+  System → ISAP, UOKiK, EUR-Lex, Orzeczenia, Fora : scrape requests (one-time, NFC normalized)
+  System → HuggingFace Hub : push dataset + model cards (w Iteracji 6)
+```
 
 ### 5.2.2 Kontenery (Fig 5.2)
 
-> Rozbicie systemu na deployable services: SGLang (Bielik 11B v3 serving), TEI (BGE-M3 + mDeBERTa serving), Qdrant (vector index), PostgreSQL (metadata + traces), FastAPI (REST API gateway), Prefect 3 (orchestration), MLflow (experiment tracking + model registry), Langfuse (LLM observability), LGTM stack (Loki + Grafana + Tempo + Mimir), Alertmanager, Gradio (UI). Relacje między kontenerami + technology stack notes.
+Widok kontenerowy rozbija system na *deployable services* — jednostki które można uruchomić samodzielnie, z własnym procesem, własnym formatem komunikacji i własnym tech stack. W terminologii C4 *kontener* nie oznacza Docker container, lecz logiczną granicę deploymentu — może to być proces Pythona, baza danych, serwis HTTP lub kontener Docker (większość kontenerów w pracy faktycznie jest deployowana jako Docker container w configurations dla lab GPU).
+
+System składa się z **jedenastu kontenerów** w czterech logicznych grupach: serving modeli ML (3 kontenery), storage (2), orchestration + experiment tracking (2), observability (3), oraz application + UI (1).
+
+**Tabela 5.1.** Kontenery systemowe.
+
+| Kontener | Grupa | Technologia | Rola |
+|---|---|---|---|
+| SGLang | Serving | SGLang 0.4 + Bielik 11B v3 bf16 | High-throughput LLM serving generator + probe extraction |
+| TEI | Serving | text-embeddings-inference (HF) + BGE-M3 + mDeBERTa | Embeddings + NLI inference, low latency |
+| Qdrant | Storage | Qdrant 1.10 | Vector index dla retrievalu (HNSW, 1 024-dim BGE-M3) |
+| PostgreSQL | Storage | PostgreSQL 17 + JSONB | Metadata + traces + run history |
+| FastAPI | Application | FastAPI 0.115 + Uvicorn | REST API gateway agregujący wywołania |
+| Prefect 3 | Orchestration | Prefect 3 (async) | Workflow orchestration dla pipeline'u treningu + retraining |
+| MLflow | Experiment tracking | MLflow 2.15 + S3-compat MinIO | Experiment runs + model registry + artifact storage |
+| Langfuse | Observability | Langfuse 2.x | LLM-specific tracing (prompt/response, token usage, latency per komponent) |
+| LGTM stack | Observability | Loki + Grafana + Tempo + Mimir | Logi + dashboards + distributed traces + metryki time-series |
+| Alertmanager | Observability | Prometheus Alertmanager | Routing alertów z 3 severity levels |
+| Gradio | UI | Gradio 5.x | Front-end (3 zakładki: Chat / Inspect / Compare) |
+
+Środowisko developerskie wykorzystuje Python 3.13 z menedżerem pakietów *uv* [CYT: Astral uv documentation], lintingu i formatowania *ruff* (jako pojedyncze źródło prawdy stylu), type checkingu *pyrefly* w trybie strict dla `src/`, oraz testów *pytest*. Pre-commit hooks zapewniają, że `ruff format` + `ruff check` + `pyrefly check` przechodzą przed każdym commitem.
+
+**Fig 5.2 — szkielet wykresu C4 Container:**
+
+```
+Granica systemu: Polish CitationBench RAG + Halu Detection
+
+Grupa "Serving":
+  [SGLang : Bielik 11B v3 bf16]
+  [TEI : BGE-M3 + mDeBERTa]
+
+Grupa "Storage":
+  [Qdrant : vector index HNSW]
+  [PostgreSQL : metadata + traces]
+  [MinIO (S3-compat) : artifact storage]
+
+Grupa "Orchestration + Tracking":
+  [Prefect 3 : workflow orchestration]
+  [MLflow : experiment tracking + model registry]
+
+Grupa "Observability":
+  [Langfuse : LLM tracing]
+  [LGTM stack : Loki/Grafana/Tempo/Mimir]
+  [Alertmanager : alert routing]
+
+Grupa "Application":
+  [FastAPI : REST API gateway]
+  [Gradio : UI 3 zakładki]
+
+Aktorzy zewnętrzni:
+  [Magda] [Operator lab GPU] [Promotor]
+
+Strzałki głównych przepływów:
+  [Gradio] → [FastAPI] : REST query
+  [FastAPI] → [TEI] : BGE-M3 embedding query
+  [FastAPI] → [Qdrant] : vector search top-k
+  [FastAPI] → [SGLang] : Bielik generation + probe hooks
+  [FastAPI] → [TEI] : mDeBERTa per claim NLI scoring
+  [FastAPI] → [PostgreSQL] : log trace metadata
+  [FastAPI] → [Langfuse] : LLM trace
+  [Langfuse, LGTM, PostgreSQL] → [Grafana dashboards] : visualization
+  [LGTM Mimir] → [Alertmanager] : metric rule triggers
+  [Prefect 3] → [SGLang, TEI, MLflow] : training pipeline orchestration
+  [MLflow] → [MinIO] : artifact storage
+  [Magda] → [Gradio] : queries
+  [Magda] → [Prefect 3 CLI] : retraining triggers
+  [Operator lab GPU] → [SGLang + TEI] : GPU compute access
+  [Promotor] → [GitHub repo + Gradio public URL] : async observation
+```
 
 ### 5.2.3 Komponenty wewnątrz kluczowych kontenerów (Fig 5.3)
 
-> Zoom-in na trzy kluczowe kontenery: (a) probe extraction component (PyTorch hooks layer 47 + mean-pool + sklearn LR), (b) 3-tier NLI verifier (mDeBERTa Tier 1 + HerBERT Tier 2 fallback + LLM judge Tier 3 ablation), (c) citation alignment component (claim extractor + NLI scorer + best-evidence selector). C4 Component level pokazuje internal modules tych kontenerów.
+Widok komponentowy zaglądamy do wnętrza trzech kluczowych kontenerów — tych, których wewnętrzna struktura jest istotna dla zrozumienia kontrybucji metodologicznej pracy. Pozostałe kontenery (Qdrant, PostgreSQL, LGTM stack itd.) są standardowymi off-the-shelf systemami i ich wewnętrzna struktura nie wymaga dokumentacji w pracy.
+
+**Kontener 1 — FastAPI (komponenty pipeline'u inferencji + treningu):**
+
+- `query_handler` — entry point z UI; przekazuje query do retrievera
+- `retriever` — embeds query (TEI BGE-M3), wykonuje search w Qdrant, zwraca top-k chunków z metadata
+- `prompt_builder` — assembly kontekstu z retrieved chunks + Polish-specific system prompt
+- `generator_client` — wywołuje SGLang dla Bielik 11B v3 generation (streaming response)
+- `probe_extractor` — równolegle do generation, ekstraktuje hidden states z layer 47 via PyTorch hooks
+- `claim_extractor` — rozkłada generated answer na atomic claims (sentence segmentation + claim prompt)
+- `nli_verifier` — orchestrates 3-tier verification (mDeBERTa Tier 1 → HerBERT Tier 2 jeśli low confidence → LLM judge Tier 3 w ablacji)
+- `citation_aligner` — selekcjonuje best-supporting evidence per claim, przypisuje badge color
+- `response_builder` — agreguje wynik dla UI
+
+**Kontener 2 — Prefect 3 + Training Pipeline:**
+
+- `data_loader` — wczytuje raw scrape z `data/raw/`
+- `preprocessor` — `dataset_builder.py` z chunk_filter strict policy
+- `halu_generator` — `halu_injector.py` z 5 typami templates + deterministic seed
+- `eval_splitter` — stratified split train/val/test per source_type
+- `probe_trainer` — train loop z PyTorch hooks Bielik forward pass + sklearn LR + Optuna HP search + 3 random seeds
+- `verifier_trainer` — opcjonalny (Tier 2 fine-tune jeśli wymagany)
+- `eval_runner` — eval na primary eval set 200 par gold + bootstrap CI 95 %
+- `ab_gate` — decision logic dla promote/skip do MLflow Registry
+- `mlflow_logger` — params + metrics + artifacts logging
+
+**Kontener 3 — Halu Detection Stack (cross-container):**
+
+- `probe_extractor` (wewnątrz FastAPI runtime + Prefect training): PyTorch hooks layer 47 + mean-pool last 5 tokens + sklearn LogisticRegression linear primary + (opcjonalnie) 1-3 layer MLP nonlinear w ablacji
+- `nli_verifier` (Tier 1 mDeBERTa primary + Tier 2 HerBERT-large + CDSC-E fallback + Tier 3 LLM judge ablation): confidence-based fallback chain z threshold 0,5
+- `citation_aligner` (claim extractor + best-evidence selector + halu score aggregator)
+
+**Fig 5.3 — szkielet wykresu C4 Component (3 zoom-ins):**
+
+```
+Zoom-in 1: FastAPI Container internals
+  [query_handler]
+    → [retriever]
+      → [TEI: BGE-M3 embed]
+      → [Qdrant: vector search top-k]
+    → [prompt_builder]
+    → [generator_client]
+      → [SGLang: Bielik 11B v3]
+    → (parallel) [probe_extractor]
+      → [SGLang: hidden states layer 47]
+    → [claim_extractor]
+    → [nli_verifier]
+      → [TEI: mDeBERTa Tier 1]
+      → (fallback) [TEI: HerBERT Tier 2]
+      → (ablation) [SGLang: LLM judge Tier 3]
+    → [citation_aligner]
+    → [response_builder]
+    → output do UI
+
+Zoom-in 2: Prefect 3 Training Pipeline internals
+  [data_loader] z data/raw/
+    → [preprocessor] dataset_builder.py + chunk_filter strict
+    → [halu_generator] halu_injector.py 5 typów + seed 42
+    → [eval_splitter] stratified by source_type
+    → (parallel branch) [probe_trainer]
+      → [PyTorch hooks Bielik layer 47]
+      → [sklearn LR + Optuna HP search]
+      → [3 random seeds + bootstrap CI 95%]
+      → [MLflow logger]
+    → (parallel branch) [verifier_trainer] (Tier 2 HerBERT + CDSC-E, opcjonalne)
+    → [eval_runner] na primary eval set 200 par gold
+    → [ab_gate] decision logic
+    → [MLflow Registry] promote/skip
+
+Zoom-in 3: Halu Detection Stack (cross-container)
+  [probe_extractor] cross-container:
+    - runtime: FastAPI runtime path
+    - training: Prefect 3 training path
+    - shared core: PyTorch hooks + sklearn LR linear primary
+  [nli_verifier] cross-container Tier 1 → Tier 2 → Tier 3:
+    - Tier 1: TEI mDeBERTa (production default, T1 PASS 80.6%)
+    - Tier 2: TEI HerBERT-large + CDSC-E fine-tune (reserved fallback)
+    - Tier 3: SGLang LLM judge (Bielik/PLLuM/Gemma 3/Claude Haiku ablation w R7)
+    - confidence-based routing z threshold 0.5
+  [citation_aligner]:
+    - claim_extractor (sentence segmentation + claim prompt)
+    - best_evidence_selector (highest NLI entailment score)
+    - halu_score_aggregator (probe + verifier combined signal)
+```
+
+Trzy zoom-iny pokrywają wszystkie kontenery, których wewnętrzna struktura jest *contribution-specific* dla pracy. Standardowe off-the-shelf services (Qdrant, PostgreSQL, Loki, Grafana itd.) są używane zgodnie z domyślną konfiguracją i nie wymagają zoom-inu.
+
+---
 
 ---
 
