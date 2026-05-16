@@ -6,6 +6,8 @@
 
 **Domena:** polish consumer rights (informational, NIE doradcze prawnie — explicit disclaimer w UI).
 
+> 📖 **PEŁEN OPIS PRACY:** [`thesis_research/02_konspekt_v3.2_skeleton.md`](thesis_research/02_konspekt_v3.2_skeleton.md) (14 sekcji: tytuł / abstract / domena / RQ / dane / architektura / modele / citation grounding / MLOps / defense / OUT scope / iter plan / promotor). Plus operational: [`PLAN_cele_i_kroki.md`](thesis_research/PLAN_cele_i_kroki.md) (D1-D15 decisions per iter) + [`EXPLAINER_temat_dla_siebie.md`](thesis_research/EXPLAINER_temat_dla_siebie.md) (narrative + glossary 50+ pojęć).
+
 ## Status (current — 2026-05-16 evening)
 
 - **Polish CitationBench v0.6:** 11,000 unified chunks + 5,402 halu pairs (balanced 5/5 typów). `main_project/data/processed/citationbench_v0.6_2026-05-16/`
