@@ -52,23 +52,29 @@
 
 ---
 
-## 5.7 Interfejs użytkownika — Gradio (Fig 5.8 mockup)
+## 5.7 Bezpieczeństwo, prywatność, compliance
+
+> Krótka sekcja (~400-600 słów). (a) **Anonimizacja PII** — Reddit usernames sha1:10, forum regex redaction (PESEL/NIP/REGON/email/telefon polski +48), audit v0.6 confirms zero residual PII. (b) **Polish TDM exception (Wrzesień 2024)** jako legal basis dla scraping źródeł publicznych, opt-out signals verification per source. (c) **License compliance** — mixed-license corpus z explicit per-chunk attribution w polu `license`; Wikipedia CC BY-SA share-alike caveat raportowany w karcie HF dataset. (d) **Mandatory UI disclaimer** — Gradio explicit *„Nie udziela porad prawnych"*, fail-closed pattern jeśli LLM próbuje udzielać porady. (e) **EU AI Act note** — system klasyfikowany jako *informacyjny* (NIE high-risk legal advisory per Annex III), ale future production deployment wymagałby risk assessment per AI Act Title III. (f) **RODO art. 17 right to be forgotten** — local hashmap mapowania anonimowych ID do oryginalnych Reddit usernames umożliwia re-identyfikację dla usunięcia.
+
+---
+
+## 5.8 Interfejs użytkownika — Gradio (Fig 5.8 mockup)
 
 > Front-end: Gradio 3 zakładki. (a) **Chat** — primary use case, zapytanie tekstowe → odpowiedź z citation badges + probe halu score per claim + linkowany evidence chunk. (b) **Inspect** — debugging view, pokazuje internal state pipeline'u (retrieved chunks z scores, claim extraction, NLI verdicts per Tier, probe activations). (c) **Compare** — A/B porównanie wersji pipeline'u (baseline vs probe-augmented + with/without verifier ablation). Mockup tekstowy figur 5.8 — polishing Gradio UI w Iteracji 6. Mandatory disclaimer: *„Nie udziela porad prawnych — w sprawach złożonych skontaktuj się z prawnikiem lub Rzecznikiem Konsumentów."*
 
 ---
 
-## 5.8 Decyzje konstrukcyjne, kompromisy i podsumowanie
+## 5.9 Decyzje konstrukcyjne, kompromisy i podsumowanie
 
-### 5.8.1 Decyzje konstrukcyjne (rationale)
+### 5.9.1 Decyzje konstrukcyjne (rationale)
 
 > Tabela 5.X: top 10 decyzji konstrukcyjnych z uzasadnieniem. (a) Bielik 11B v3 jako generator + probe target — Apache 2.0, native polish, fertilność APT4 1,62 vs Mistral 3,22. (b) BGE-M3 frozen — multilingual coverage, MIT, brak fine-tune budget. (c) mDeBERTa Tier 1 — T1 PASS 80,6 %, polish explicit w training. (d) Post-hoc citation alignment domyślnie — generation-time czeka na T2 lab GPU verify. (e) Linear probe primary — Liang & Wang Dec 2025 + Dubanowska EMNLP 2025 evidence. (f) PyTorch hooks zamiast transformer-lens — natywny support 50L Mistral arch. (g) Wariant B strict policy — scope creep mitigation. (h) Prefect 3 — async natywny. (i) MLflow + Optuna — standard MLOps stack. (j) Single-machine deployment (NIE Kubernetes) — scope thesis vs production.
 
-### 5.8.2 Kompromisy znane (trade-offs)
+### 5.9.2 Kompromisy znane (trade-offs)
 
 > Trzy kluczowe kompromisy: (a) Monolith vs microservices — wybrano monolith FastAPI z modułami, microservices = future work. (b) Hidden-states probe vs LLM-judge — probe szybszy (<100 ms vs 200-500 ms), tańszy, deterministyczny; LLM-judge dokładniejszy w edge cases (oracle baseline w R7 ablacji A3). (c) Polish-only vs multilingual — świadoma decyzja first-mover, cross-language transfer = future work.
 
-### 5.8.3 Podsumowanie + transition do R6
+### 5.9.3 Podsumowanie + transition do R6
 
 > Recap 4 view stack (Context / Container / Inference / Training). MLOps stanowi 37,5 % rozdziału (sekcje 5.4 + 5.5 + 5.6). Wszystkie 7 figur Mermaid + 1 mockup Gradio. R6 dokumentuje parametryzację modeli (probe hyperparams Optuna, verifier fine-tune config jeśli Tier 2, generator config Bielik). R7 raportuje empirical results pipeline'u.
 
