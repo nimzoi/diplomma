@@ -263,6 +263,20 @@ def _try_all_types_balanced(
     return results
 
 
+# Per T1 mDeBERTa results 2026-05-16: factual_fabrication adds new claim,
+# NIE kontradyguje original → NLI poprawnie predict NEUTRAL.
+# entity_confusion + negation_flip + paragraph_mis_citation + temporal_drift =
+# explicit contradictions of original. factual_fabrication = unsupported addition.
+# Reflects in ground truth NLI label per type.
+_HALU_TYPE_NLI_LABEL = {
+    HaluType.FACTUAL_FABRICATION: NLILabel.NEUTRAL,  # added claim, NIE contradiction
+    HaluType.ENTITY_CONFUSION: NLILabel.CONTRADICTED,
+    HaluType.TEMPORAL_DRIFT: NLILabel.CONTRADICTED,
+    HaluType.NEGATION_FLIP: NLILabel.CONTRADICTED,
+    HaluType.PARAGRAPH_MIS_CITATION: NLILabel.CONTRADICTED,
+}
+
+
 def generate_halu_pairs_from_qa(
     qa_pairs: list[dict[str, Any]],
     seed: int = 42,
@@ -311,7 +325,7 @@ def generate_halu_pairs_from_qa(
                     evidence_chunks=qa.get("cited_articles", []),
                     is_hallucinated=True,
                     halu_type=halu_type,
-                    nli_label=NLILabel.CONTRADICTED,
+                    nli_label=_HALU_TYPE_NLI_LABEL.get(halu_type, NLILabel.CONTRADICTED),
                     generation_method="programmatic_template_injection_v1",
                     metadata={
                         "source": "uokik_qa",
@@ -407,7 +421,7 @@ def generate_halu_pairs_from_legal_chunks(
                     evidence_chunks=[chunk_id],
                     is_hallucinated=True,
                     halu_type=halu_type,
-                    nli_label=NLILabel.CONTRADICTED,
+                    nli_label=_HALU_TYPE_NLI_LABEL.get(halu_type, NLILabel.CONTRADICTED),
                     generation_method="legal_chunk_template_injection_v2",
                     metadata={
                         "source_type": chunk.get("source_type"),

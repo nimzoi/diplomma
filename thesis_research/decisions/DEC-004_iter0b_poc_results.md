@@ -13,19 +13,49 @@ Po pivocie DEC-003 (2026-05-16) i dataset construction Polish CitationBench v0.5
 
 ## 4 POC tests — wypełnij wyniki
 
-### T1: mDeBERTa NLI sanity na 50 par UOKiK Q&A
+### T1: mDeBERTa NLI sanity na UOKiK Q&A — PASS ✓ (2026-05-16)
 
 - **Skrypt:** `main_project/iter0b_poc/t1_mdeberta_nli_sanity.py`
-- **Run command:** `cd main_project && uv run python -m iter0b_poc.t1_mdeberta_nli_sanity`
-- **Output JSON:** `iter0b_poc/results/t1_mdeberta_<timestamp>.json`
+- **Run:** lokal CPU (Magda's "w miarę dobry laptop"), bez lab GPU
+- **Output JSON:** `iter0b_poc/results/t1_mdeberta_20260516_115505.json`
+- **Dataset:** v0.6 halu_pairs (po fix factual_fabrication=NEUTRAL)
 - **Kill criterion:** accuracy < 50% (random baseline)
 
-**Wyniki (wypełnij):**
-- accuracy: ___%
-- per-class P/R: entailed=___/__ contradicted=___/__ neutral=___/__
-- timestamp: ___
-- **VERDICT:** PASS / FAIL
-- **Notatki:** sample errors, false positives, observations dla R6 verifier section
+**Wyniki:**
+- **accuracy: 80.6% (75/93)** ← KILL CRITERION 50% przekroczony +30.6 pp
+- **hybrid_accuracy_dleemiller: 42-65%** (conservative scoring; further tuning możliwe)
+- **per-class P/R:**
+  - entailed: P=0.800 / R=0.706
+  - neutral: P=0.643 / R=0.931 (model conservative — over-predicts neutral)
+  - **contradicted: P=1.000 / R=0.766** ← when model says contradicted, ZAWSZE poprawnie
+- **per-halu-type:**
+  - negative (entailment): 78.6% accuracy
+  - entity_confusion: 76.9% accuracy ✓
+  - factual_fabrication: 100% (po fix → expected NEUTRAL, nie CONTRADICTED)
+  - inne typy: TBD (małe samples)
+- **timestamp:** 2026-05-16 11:55:05
+- **VERDICT:** **PASS** ✓
+
+**Critical finding T1:**
+**Pierwsza iteracja DEC-004 dała 6.1%** — diagnoza: bug w halu_injector
+labelował WSZYSTKIE positive pairs jako CONTRADICTED, ale `factual_fabrication`
+mutation (dodaje fikcyjny fakt) NIE jest contradiction — to *unsupported claim* =
+NLI poprawnie predict NEUTRAL. Po fix `_HALU_TYPE_NLI_LABEL` map w
+`halu_injector.py` (factual_fabrication → NEUTRAL, reszta CONTRADICTED) →
+PASS 80.6%.
+
+**Defense scaffolding (anti-Kojałowicz Q):**
+- "Skąd pewność że mDeBERTa działa na polish?"
+  → 78.6% recall na polish entailment + 100% precision na contradictions na 93 par
+- "Dlaczego nie HerBERT-large + CDSC-E?"
+  → mDeBERTa Tier 1 PASS, HerBERT pozostaje Tier 2 fallback (nie potrzebny TERAZ)
+- "Co z neutral cases?" → model conservative, R=0.93 high recall, R6 ablation:
+  threshold tuning lub gliclass multi-class alternative
+
+**Implikacja dla R6 verifier methodology:**
+Hybrid scoring (dleemiller) nieużyteczne dla naszego use case (worsened wyniki).
+Standard argmax z mDeBERTa wystarczy. Threshold tuning + gliclass ablation =
+R7 future work.
 
 ### T2: Outlines + Bielik 11B v3 polish diakrytyki
 

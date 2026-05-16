@@ -1,0 +1,106 @@
+{
+  "model": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+  "n_samples": 36,
+  "accuracy": 0.389,
+  "kill_criterion": "accuracy >= 0.50 (random baseline)",
+  "PASS": false,
+  "per_class": {
+    "entailed": {
+      "precision": 0.778,
+      "recall": 0.778
+    },
+    "neutral": {
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "contradicted": {
+      "precision": 1.0,
+      "recall": 0.259
+    }
+  },
+  "confusion_matrix": {
+    "entailed->entailed": 7,
+    "contradicted->neutral": 18,
+    "contradicted->contradicted": 7,
+    "entailed->neutral": 2,
+    "contradicted->entailed": 2
+  },
+  "sample_errors": [
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_001_pos_factual_fabrication_0",
+      "claim": "Konsument to osoba fizyczna dokonująca z przedsiębiorcą czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową . Przykład Jan jest konsumentem, jeżeli kupi dziecku laptop; nie będzie nim jednak, gdy kupi laptop dla firmy i pozwoli dziecku sporadycznie z niego korzystać. Uznanie za konsumenta ma istotne znaczenie prawne – od tego często zależy jakie przepisy zostaną zastosowane do oceny całej transakcji. W wielu przypadkach sytuacja prawna konsumenta jest z góry wzmacniana przez przepisy . Termin ten może zostać przedłużony o kolejne 21 dni za zgodą obu stron.",
+      "evidence": "Konsument to osoba fizyczna dokonująca z przedsiębiorcą czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową . Przykład Jan jest konsumentem, jeżeli kupi dziecku laptop; nie będzie nim jednak, gdy kupi laptop dla firmy i pozwoli dziecku sporadycznie z niego korzystać. Uznanie za konsumenta ma istotne znaczenie prawne – od tego często zależy jakie przepisy zostaną zastosowane do oceny całej transakcji. W wielu przypadkach sytuacja prawna konsumenta jest z góry wzmacniana przez przepisy .",
+      "expected": "contradicted",
+      "halu_type": "factual_fabrication",
+      "source": "uokik_qa_mutation",
+      "predicted": "neutral",
+      "logits": [
+        -1.3193359375,
+        3.69921875,
+        -1.75390625
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_001_pos_factual_fabrication_2",
+      "claim": "Konsument to osoba fizyczna dokonująca z przedsiębiorcą czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową . Przykład Jan jest konsumentem, jeżeli kupi dziecku laptop; nie będzie nim jednak, gdy kupi laptop dla firmy i pozwoli dziecku sporadycznie z niego korzystać. Uznanie za konsumenta ma istotne znaczenie prawne – od tego często zależy jakie przepisy zostaną zastosowane do oceny całej transakcji. W wielu przypadkach sytuacja prawna konsumenta jest z góry wzmacniana przez przepisy . Powyższe zasady stosuje się wyłącznie do umów o wartości powyżej 1000 zł.",
+      "evidence": "Konsument to osoba fizyczna dokonująca z przedsiębiorcą czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową . Przykład Jan jest konsumentem, jeżeli kupi dziecku laptop; nie będzie nim jednak, gdy kupi laptop dla firmy i pozwoli dziecku sporadycznie z niego korzystać. Uznanie za konsumenta ma istotne znaczenie prawne – od tego często zależy jakie przepisy zostaną zastosowane do oceny całej transakcji. W wielu przypadkach sytuacja prawna konsumenta jest z góry wzmacniana przez przepisy .",
+      "expected": "contradicted",
+      "halu_type": "factual_fabrication",
+      "source": "uokik_qa_mutation",
+      "predicted": "neutral",
+      "logits": [
+        -0.270263671875,
+        0.388916015625,
+        -0.28173828125
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_002_pos_factual_fabrication_0",
+      "claim": "Nie jesteś konsumentem, gdy kupujesz towar od osoby prywatnej (fizycznej). Konsumentem jest się tylko w sytuacji zakupu od przedsiębiorcy – także od osoby fizycznej prowadzącej działalność gospodarczą. Tylko w tym przypadku kupujący może korzystać z uprawnień przysługujących konsumentom – w pozostałych sytuacjach prawa te nie przysługują. Konsument musi przedstawić oryginał paragonu, w przeciwnym razie reklamacja jest nieskuteczna.",
+      "evidence": "Nie jesteś konsumentem, gdy kupujesz towar od osoby prywatnej (fizycznej). Konsumentem jest się tylko w sytuacji zakupu od przedsiębiorcy – także od osoby fizycznej prowadzącej działalność gospodarczą. Tylko w tym przypadku kupujący może korzystać z uprawnień przysługujących konsumentom – w pozostałych sytuacjach prawa te nie przysługują.",
+      "expected": "contradicted",
+      "halu_type": "factual_fabrication",
+      "source": "uokik_qa_mutation",
+      "predicted": "neutral",
+      "logits": [
+        -1.4853515625,
+        6.08984375,
+        -3.3046875
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_002_pos_factual_fabrication_2",
+      "claim": "Nie jesteś konsumentem, gdy kupujesz towar od osoby prywatnej (fizycznej). Konsumentem jest się tylko w sytuacji zakupu od przedsiębiorcy – także od osoby fizycznej prowadzącej działalność gospodarczą. Tylko w tym przypadku kupujący może korzystać z uprawnień przysługujących konsumentom – w pozostałych sytuacjach prawa te nie przysługują. Konsument musi przedstawić oryginał paragonu, w przeciwnym razie reklamacja jest nieskuteczna.",
+      "evidence": "Nie jesteś konsumentem, gdy kupujesz towar od osoby prywatnej (fizycznej). Konsumentem jest się tylko w sytuacji zakupu od przedsiębiorcy – także od osoby fizycznej prowadzącej działalność gospodarczą. Tylko w tym przypadku kupujący może korzystać z uprawnień przysługujących konsumentom – w pozostałych sytuacjach prawa te nie przysługują.",
+      "expected": "contradicted",
+      "halu_type": "factual_fabrication",
+      "source": "uokik_qa_mutation",
+      "predicted": "neutral",
+      "logits": [
+        -1.4853515625,
+        6.08984375,
+        -3.3046875
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_003_neg",
+      "claim": "Wyraźną zgodę wyraża sam konsument. Nie można zakładać jej przez zastosowanie domyślnych opcji, które trzeba dopiero odrzucić. Zgody nie można domniemywać na podstawie tego, że konsument nie wyraził sprzeciwu. Przykład Wyraźną zgodą nie jest domyślnie zaznaczona opcja wykupienia dodatkowej gwarancji w przypadku e-zakupu sprzętu elektronicznego. Ważne! Konsument ma prawo do zwrotu płatności dodatkowej, na którą nie wyraził wyraźnej zgody.",
+      "evidence": "Wyraźną zgodę wyraża sam konsument. Nie można zakładać jej przez zastosowanie domyślnych opcji, które trzeba dopiero odrzucić. Zgody nie można domniemywać na podstawie tego, że konsument nie wyraził sprzeciwu. Przykład Wyraźną zgodą nie jest domyślnie zaznaczona opcja wykupienia dodatkowej gwarancji w przypadku e-zakupu sprzętu elektronicznego. Ważne! Konsument ma prawo do zwrotu płatności dodatkowej, na którą nie wyraził wyraźnej zgody.",
+      "expected": "entailed",
+      "halu_type": null,
+      "source": "uokik_qa_self_entailment",
+      "predicted": "neutral",
+      "logits": [
+        0.3447265625,
+        1.4296875,
+        -1.7412109375
+      ],
+      "correct": false
+    }
+  ],
+  "timestamp": "2026-05-16T11:31:23.732560"
+}

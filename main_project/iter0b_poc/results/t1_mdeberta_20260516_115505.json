@@ -1,0 +1,148 @@
+{
+  "model": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+  "n_samples": 93,
+  "accuracy": 0.806,
+  "hybrid_accuracy_dleemiller": 0.559,
+  "kill_criterion": "accuracy >= 0.50 (random baseline)",
+  "PASS": true,
+  "per_class": {
+    "entailed": {
+      "precision": 0.8,
+      "recall": 0.706
+    },
+    "neutral": {
+      "precision": 0.643,
+      "recall": 0.931
+    },
+    "contradicted": {
+      "precision": 1.0,
+      "recall": 0.766
+    }
+  },
+  "per_halu_type": {
+    "_negative_": {
+      "total": 17,
+      "correct": 12,
+      "predicted_distribution": {
+        "entailed": 12,
+        "neutral": 5
+      },
+      "accuracy": 0.706
+    },
+    "factual_fabrication": {
+      "total": 29,
+      "correct": 27,
+      "predicted_distribution": {
+        "neutral": 27,
+        "entailed": 2
+      },
+      "accuracy": 0.931
+    },
+    "entity_confusion": {
+      "total": 29,
+      "correct": 22,
+      "predicted_distribution": {
+        "contradicted": 22,
+        "neutral": 7
+      },
+      "accuracy": 0.759
+    },
+    "negation_flip": {
+      "total": 18,
+      "correct": 14,
+      "predicted_distribution": {
+        "contradicted": 14,
+        "neutral": 3,
+        "entailed": 1
+      },
+      "accuracy": 0.778
+    }
+  },
+  "confusion_matrix": {
+    "entailed->entailed": 12,
+    "neutral->neutral": 27,
+    "contradicted->contradicted": 36,
+    "entailed->neutral": 5,
+    "contradicted->neutral": 10,
+    "contradicted->entailed": 1,
+    "neutral->entailed": 2
+  },
+  "sample_errors": [
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_003_neg",
+      "claim": "Wyraźną zgodę wyraża sam konsument. Nie można zakładać jej przez zastosowanie domyślnych opcji, które trzeba dopiero odrzucić. Zgody nie można domniemywać na podstawie tego, że konsument nie wyraził sprzeciwu. Przykład Wyraźną zgodą nie jest domyślnie zaznaczona opcja wykupienia dodatkowej gwarancji w przypadku e-zakupu sprzętu elektronicznego. Ważne! Konsument ma prawo do zwrotu płatności dodatkowej, na którą nie wyraził wyraźnej zgody.",
+      "evidence": "Wyraźną zgodę wyraża sam konsument. Nie można zakładać jej przez zastosowanie domyślnych opcji, które trzeba dopiero odrzucić. Zgody nie można domniemywać na podstawie tego, że konsument nie wyraził sprzeciwu. Przykład Wyraźną zgodą nie jest domyślnie zaznaczona opcja wykupienia dodatkowej gwarancji w przypadku e-zakupu sprzętu elektronicznego. Ważne! Konsument ma prawo do zwrotu płatności dodatkowej, na którą nie wyraził wyraźnej zgody.",
+      "expected": "entailed",
+      "halu_type": null,
+      "source": "uokik_qa_self_entailment",
+      "predicted": "neutral",
+      "logits": [
+        0.3447265625,
+        1.4296875,
+        -1.7412109375
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_004_neg",
+      "claim": "Nie, przedsiębiorca nie może ustalać tego w sposób dowolny. Jeżeli wskazuje numer telefonu do kontaktu z nim w sprawie zawartej umowy, opłata dla konsumenta za połączenie z tym numerem nie może być wyższa niż opłata za zwykłe połączenie telefoniczne , zgodnie z pakietem taryfowym dostawcy usług, z którego korzysta konsument. Dowiedz się więcej",
+      "evidence": "Nie, przedsiębiorca nie może ustalać tego w sposób dowolny. Jeżeli wskazuje numer telefonu do kontaktu z nim w sprawie zawartej umowy, opłata dla konsumenta za połączenie z tym numerem nie może być wyższa niż opłata za zwykłe połączenie telefoniczne , zgodnie z pakietem taryfowym dostawcy usług, z którego korzysta konsument. Dowiedz się więcej",
+      "expected": "entailed",
+      "halu_type": null,
+      "source": "uokik_qa_self_entailment",
+      "predicted": "neutral",
+      "logits": [
+        -0.056396484375,
+        1.6640625,
+        -1.544921875
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_004_pos_negation_flip_3",
+      "claim": "Nie, przedsiębiorca nie nie może ustalać tego w sposób dowolny. Jeżeli wskazuje numer telefonu do kontaktu z nim w sprawie zawartej umowy, opłata dla konsumenta za połączenie z tym numerem nie może być wyższa niż opłata za zwykłe połączenie telefoniczne , zgodnie z pakietem taryfowym dostawcy usług, z którego korzysta konsument. Dowiedz się więcej",
+      "evidence": "Nie, przedsiębiorca nie może ustalać tego w sposób dowolny. Jeżeli wskazuje numer telefonu do kontaktu z nim w sprawie zawartej umowy, opłata dla konsumenta za połączenie z tym numerem nie może być wyższa niż opłata za zwykłe połączenie telefoniczne , zgodnie z pakietem taryfowym dostawcy usług, z którego korzysta konsument. Dowiedz się więcej",
+      "expected": "contradicted",
+      "halu_type": "negation_flip",
+      "source": "uokik_qa_mutation",
+      "predicted": "neutral",
+      "logits": [
+        -0.1268310546875,
+        0.685546875,
+        -0.697265625
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_005_pos_negation_flip_4",
+      "claim": "Tak, przepisy ustawy o prawach konsumenta stosuje się do umów zawieranych przez tego typu placówki. Teatr jest przedsiębiorcą w rozumieniu przepisów Kodeksu cywilnego, niezależnie od tego, czy jest finansowany ze środków publicznych, czy też prywatnych. Uwaga! W odniesieniu do umów zawartych poza lokalem przedsiębiorstwa lub na odległość i związanych z wydarzeniami rozrywkowymi lub kulturalnymi, konsumentowi nie nie przysługuje prawo odstąpienia od umowy .",
+      "evidence": "Tak, przepisy ustawy o prawach konsumenta stosuje się do umów zawieranych przez tego typu placówki. Teatr jest przedsiębiorcą w rozumieniu przepisów Kodeksu cywilnego, niezależnie od tego, czy jest finansowany ze środków publicznych, czy też prywatnych. Uwaga! W odniesieniu do umów zawartych poza lokalem przedsiębiorstwa lub na odległość i związanych z wydarzeniami rozrywkowymi lub kulturalnymi, konsumentowi nie przysługuje prawo odstąpienia od umowy .",
+      "expected": "contradicted",
+      "halu_type": "negation_flip",
+      "source": "uokik_qa_mutation",
+      "predicted": "entailed",
+      "logits": [
+        1.2626953125,
+        -0.6494140625,
+        -0.828125
+      ],
+      "correct": false
+    },
+    {
+      "pair_id": "halu_uokik_zagadnienia-ogolne_006_pos_entity_confusion_0",
+      "claim": "Niedozwolona jest odsprzedaż przedsiębiorcaom biletów na wszelkiego rodzaju imprezy kulturalne lub sportowe, jeżeli przedsiębiorca nabył je z wykorzystaniem oprogramowania pozwalającego mu obchodzić środki techniczne lub przekraczać limity techniczne nałożone na pierwotnego sprzedawcę, aby obejść ograniczenia nałożone na liczbę biletów , które dana osoba może kupić , lub inne zasady dotyczące zakupu biletów.",
+      "evidence": "Niedozwolona jest odsprzedaż konsumentom biletów na wszelkiego rodzaju imprezy kulturalne lub sportowe, jeżeli przedsiębiorca nabył je z wykorzystaniem oprogramowania pozwalającego mu obchodzić środki techniczne lub przekraczać limity techniczne nałożone na pierwotnego sprzedawcę, aby obejść ograniczenia nałożone na liczbę biletów , które dana osoba może kupić , lub inne zasady dotyczące zakupu biletów.",
+      "expected": "contradicted",
+      "halu_type": "entity_confusion",
+      "source": "uokik_qa_mutation",
+      "predicted": "neutral",
+      "logits": [
+        -3.826171875,
+        2.38671875,
+        1.58984375
+      ],
+      "correct": false
+    }
+  ],
+  "timestamp": "2026-05-16T11:55:05.752901"
+}
