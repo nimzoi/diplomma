@@ -6,7 +6,7 @@
 
 ## 5.1 Wprowadzenie do architektury
 
-Rozdział 5 dokumentuje warstwową architekturę systemu citation-grounded RAG z hidden-states halu probe. Jest **centralnym rozdziałem pracy** — uzasadnia decyzje konstrukcyjne, pokazuje rozdział odpowiedzialności między kontenerami serwisowymi oraz definiuje przepływ danych przez pipeline. Z dziewięciu sekcji rozdziału trzy (5.4, 5.5, 5.6) opisują warstwę treningową i MLOps, co odpowiada deklarowanemu naciskowi na pipeline jako produkt inżynierski, a nie wyłącznie na model end-to-end.
+Rozdział 5 dokumentuje warstwową architekturę systemu citation-grounded RAG z hidden-states halu probe. Jest **centralnym rozdziałem pracy** — uzasadnia decyzje konstrukcyjne, pokazuje rozdział odpowiedzialności między kontenerami serwisowymi oraz definiuje przepływ danych przez pipeline. Z dziewięciu sekcji rozdziału trzy (5.4, 5.5, 5.6) opisują warstwę treningową i MLOps — 33,3 % rozdziału — co odpowiada deklarowanemu naciskowi na pipeline jako produkt inżynierski, a nie wyłącznie na model end-to-end.
 
 Architektura jest udokumentowana metodą **C4** [CYT: Brown 2018 C4 model] — standardem dokumentacji architektonicznej rozróżniającym cztery poziomy abstrakcji: Context (system w otoczeniu zewnętrznych aktorów), Container (deployable services), Component (moduły wewnątrz kontenerów) oraz Code (struktura klas i funkcji). Pierwsze trzy poziomy są wykorzystane w sekcji 5.2; poziom Code jest pominięty jako za szczegółowy dla rozdziału architektonicznego — zainteresowani znajdą go w kodzie źródłowym w katalogu `main_project/src/`. Uzupełnieniem C4 są dwa widoki dynamiczne: pipeline inferencji (sekcja 5.3) i pipeline treningu (sekcja 5.4), pokazujące przepływ danych w runtime'ie.
 
@@ -73,50 +73,51 @@ Strzałki:
 
 Widok kontenerowy rozbija system na *deployable services* — jednostki które można uruchomić samodzielnie, z własnym procesem, własnym formatem komunikacji i własnym tech stack. W terminologii C4 *kontener* nie oznacza Docker container, lecz logiczną granicę deploymentu — może to być proces Pythona, baza danych, serwis HTTP lub kontener Docker (większość kontenerów w pracy faktycznie jest deployowana jako Docker container w configurations dla lab GPU).
 
-System składa się z **jedenastu kontenerów** w czterech logicznych grupach: serving modeli ML (3 kontenery), storage (2), orchestration + experiment tracking (2), observability (3), oraz application + UI (1).
+System składa się z **dwunastu kontenerów** w pięciu logicznych grupach: serving modeli ML (2 kontenery: SGLang + TEI), storage (3: Qdrant + PostgreSQL + MinIO), orchestration + experiment tracking (2: Prefect 3 + MLflow), observability (3: Langfuse + LGTM stack + Alertmanager), oraz application + UI (2: FastAPI + Gradio).
 
-**Tabela 5.1.** Kontenery systemowe.
+**Tabela 5.1.** Kontenery systemowe (status: ✓ = istnieje w `src/`, 🚧 = scaffolding lub planowany w Iteracji 1+).
 
-| Kontener | Grupa | Technologia | Rola |
-|---|---|---|---|
-| SGLang | Serving | SGLang 0.4 + Bielik 11B v3 bf16 | High-throughput LLM serving generator + probe extraction |
-| TEI | Serving | text-embeddings-inference (HF) + BGE-M3 + mDeBERTa | Embeddings + NLI inference, low latency |
-| Qdrant | Storage | Qdrant 1.10 | Vector index dla retrievalu (HNSW, 1 024-dim BGE-M3) |
-| PostgreSQL | Storage | PostgreSQL 17 + JSONB | Metadata + traces + run history |
-| FastAPI | Application | FastAPI 0.115 + Uvicorn | REST API gateway agregujący wywołania |
-| Prefect 3 | Orchestration | Prefect 3 (async) | Workflow orchestration dla pipeline'u treningu + retraining |
-| MLflow | Experiment tracking | MLflow 2.15 + S3-compat MinIO | Experiment runs + model registry + artifact storage |
-| Langfuse | Observability | Langfuse 2.x | LLM-specific tracing (prompt/response, token usage, latency per komponent) |
-| LGTM stack | Observability | Loki + Grafana + Tempo + Mimir | Logi + dashboards + distributed traces + metryki time-series |
-| Alertmanager | Observability | Prometheus Alertmanager | Routing alertów z 3 severity levels |
-| Gradio | UI | Gradio 5.x | Front-end (3 zakładki: Chat / Inspect / Compare) |
+| Kontener | Grupa | Technologia | Rola | Status |
+|---|---|---|---|---|
+| SGLang | Serving | SGLang 0.4 + Bielik 11B v3 bf16 | High-throughput LLM serving generator + probe extraction | 🚧 Iter. 1 |
+| TEI | Serving | text-embeddings-inference (HF) + BGE-M3 + mDeBERTa | Embeddings + NLI inference, low latency | 🚧 Iter. 1 (mDeBERTa T1 PASS lokal CPU) |
+| Qdrant | Storage | Qdrant 1.10 | Vector index dla retrievalu (HNSW, 1 024-dim BGE-M3) | ✓ `src/halu/qdrant_indexer.py` scaffolding |
+| PostgreSQL | Storage | PostgreSQL 17 + JSONB | Metadata + traces + run history | 🚧 Iter. 3 (z Langfuse) |
+| MinIO | Storage | MinIO (S3-compat) | Artifact storage dla MLflow model registry | 🚧 Iter. 2 (z MLflow) |
+| FastAPI | Application | FastAPI 0.115 + Uvicorn | REST API gateway agregujący wywołania | 🚧 Iter. 1 |
+| Prefect 3 | Orchestration | Prefect 3 (async) | Workflow orchestration dla pipeline'u treningu + retraining | 🚧 Iter. 2 |
+| MLflow | Experiment tracking | MLflow 2.15 + S3-compat MinIO | Experiment runs + model registry + artifact storage | 🚧 Iter. 2 |
+| Langfuse | Observability | Langfuse 2.x | LLM-specific tracing (prompt/response, token usage, latency per komponent) | 🚧 Iter. 3 |
+| LGTM stack | Observability | Loki + Grafana + Tempo + Mimir | Logi + dashboards + distributed traces + metryki time-series | 🚧 Iter. 3 |
+| Alertmanager | Observability | Prometheus Alertmanager | Routing alertów z 3 severity levels | 🚧 Iter. 3 |
+| Gradio | UI | Gradio 5.x | Front-end (3 zakładki: Chat / Inspect / Compare) | 🚧 Iter. 1 MVP, Iter. 6 polish |
 
 Środowisko developerskie wykorzystuje Python 3.13 z menedżerem pakietów *uv* [CYT: Astral uv documentation], lintingu i formatowania *ruff* (jako pojedyncze źródło prawdy stylu), type checkingu *pyrefly* w trybie strict dla `src/`, oraz testów *pytest*. Pre-commit hooks zapewniają, że `ruff format` + `ruff check` + `pyrefly check` przechodzą przed każdym commitem.
 
-**Fig 5.2 — szkielet wykresu C4 Container:**
+**Fig 5.2 — szkielet wykresu C4 Container (12 kontenerów w 5 grupach):**
 
 ```
 Granica systemu: Polish CitationBench RAG + Halu Detection
 
-Grupa "Serving":
+Grupa 1 "Serving" (2):
   [SGLang : Bielik 11B v3 bf16]
   [TEI : BGE-M3 + mDeBERTa]
 
-Grupa "Storage":
+Grupa 2 "Storage" (3):
   [Qdrant : vector index HNSW]
   [PostgreSQL : metadata + traces]
   [MinIO (S3-compat) : artifact storage]
 
-Grupa "Orchestration + Tracking":
+Grupa 3 "Orchestration + Tracking" (2):
   [Prefect 3 : workflow orchestration]
   [MLflow : experiment tracking + model registry]
 
-Grupa "Observability":
+Grupa 4 "Observability" (3):
   [Langfuse : LLM tracing]
   [LGTM stack : Loki/Grafana/Tempo/Mimir]
   [Alertmanager : alert routing]
 
-Grupa "Application":
+Grupa 5 "Application + UI" (2):
   [FastAPI : REST API gateway]
   [Gradio : UI 3 zakładki]
 
@@ -145,35 +146,37 @@ Strzałki głównych przepływów:
 
 Widok komponentowy zaglądamy do wnętrza trzech kluczowych kontenerów — tych, których wewnętrzna struktura jest istotna dla zrozumienia kontrybucji metodologicznej pracy. Pozostałe kontenery (Qdrant, PostgreSQL, LGTM stack itd.) są standardowymi off-the-shelf systemami i ich wewnętrzna struktura nie wymaga dokumentacji w pracy.
 
+Status oznaczeń: ✓ = istnieje w `src/halu/` lub `src/halu/<submodule>/`, 🚧 Iter. X = planowane do implementacji w iteracji X.
+
 **Kontener 1 — FastAPI (komponenty pipeline'u inferencji + treningu):**
 
-- `query_handler` — entry point z UI; przekazuje query do retrievera
-- `retriever` — embeds query (TEI BGE-M3), wykonuje search w Qdrant, zwraca top-k chunków z metadata
-- `prompt_builder` — assembly kontekstu z retrieved chunks + Polish-specific system prompt
-- `generator_client` — wywołuje SGLang dla Bielik 11B v3 generation (streaming response)
-- `probe_extractor` — równolegle do generation, ekstraktuje hidden states z layer 47 via PyTorch hooks
-- `claim_extractor` — rozkłada generated answer na atomic claims (sentence segmentation + claim prompt)
-- `nli_verifier` — orchestrates 3-tier verification (mDeBERTa Tier 1 → HerBERT Tier 2 jeśli low confidence → LLM judge Tier 3 w ablacji)
-- `citation_aligner` — selekcjonuje best-supporting evidence per claim, przypisuje badge color
-- `response_builder` — agreguje wynik dla UI
+- `query_handler` 🚧 Iter. 1 — entry point z UI; przekazuje query do retrievera
+- `retriever` ✓ `src/halu/retriever.py` scaffolding — embeds query (TEI BGE-M3), wykonuje search w Qdrant, zwraca top-k chunków z metadata
+- `prompt_builder` 🚧 Iter. 1 — assembly kontekstu z retrieved chunks + Polish-specific system prompt
+- `generator_client` 🚧 Iter. 1 — wywołuje SGLang dla Bielik 11B v3 generation (streaming response)
+- `probe_extractor` 🚧 Iter. 1 (`src/probe/` scaffolding) — równolegle do generation, ekstraktuje hidden states z layer 47 via PyTorch hooks
+- `claim_extractor` 🚧 Iter. 1 — rozkłada generated answer na atomic claims (sentence segmentation + claim prompt)
+- `nli_verifier` 🚧 Iter. 1 (`src/verifier/` scaffolding) — orchestrates 3-tier verification (mDeBERTa Tier 1 → HerBERT Tier 2 jeśli low confidence → LLM judge Tier 3 w ablacji)
+- `citation_aligner` 🚧 Iter. 1 (`src/citation/` scaffolding) — selekcjonuje best-supporting evidence per claim, przypisuje badge color
+- `response_builder` 🚧 Iter. 1 — agreguje wynik dla UI
 
 **Kontener 2 — Prefect 3 + Training Pipeline:**
 
-- `data_loader` — wczytuje raw scrape z `data/raw/`
-- `preprocessor` — `dataset_builder.py` z chunk_filter strict policy
-- `halu_generator` — `halu_injector.py` z 5 typami templates + deterministic seed
-- `eval_splitter` — stratified split train/val/test per source_type
-- `probe_trainer` — train loop z PyTorch hooks Bielik forward pass + sklearn LR + Optuna HP search + 3 random seeds
-- `verifier_trainer` — opcjonalny (Tier 2 fine-tune jeśli wymagany)
-- `eval_runner` — eval na primary eval set 200 par gold + bootstrap CI 95 %
-- `ab_gate` — decision logic dla promote/skip do MLflow Registry
-- `mlflow_logger` — params + metrics + artifacts logging
+- `data_loader` ✓ `src/halu/dataset_builder.py` (loaders) — wczytuje raw scrape z `data/raw/`
+- `preprocessor` ✓ `src/halu/dataset_builder.py` z `chunk_filter` strict policy
+- `halu_generator` ✓ `src/halu/halu_injector.py` z 5 typami templates + deterministic seed
+- `eval_splitter` 🚧 Iter. 1 — stratified split train/val/test per source_type
+- `probe_trainer` 🚧 Iter. 1 — train loop z PyTorch hooks Bielik forward pass + sklearn LR + Optuna HP search + 3 random seeds
+- `verifier_trainer` 🚧 Iter. 5 (opcjonalny) — Tier 2 HerBERT-large + CDSC-E fine-tune jeśli wymagany
+- `eval_runner` 🚧 Iter. 1 — eval na primary eval set 200 par gold + bootstrap CI 95 %
+- `ab_gate` 🚧 Iter. 3 — decision logic dla promote/skip do MLflow Registry
+- `mlflow_logger` 🚧 Iter. 2 — params + metrics + artifacts logging
 
 **Kontener 3 — Halu Detection Stack (cross-container):**
 
-- `probe_extractor` (wewnątrz FastAPI runtime + Prefect training): PyTorch hooks layer 47 + mean-pool last 5 tokens + sklearn LogisticRegression linear primary + (opcjonalnie) 1-3 layer MLP nonlinear w ablacji
-- `nli_verifier` (Tier 1 mDeBERTa primary + Tier 2 HerBERT-large + CDSC-E fallback + Tier 3 LLM judge ablation): confidence-based fallback chain z threshold 0,5
-- `citation_aligner` (claim extractor + best-evidence selector + halu score aggregator)
+- `probe_extractor` 🚧 Iter. 1 (`src/probe/`) — wewnątrz FastAPI runtime + Prefect training: PyTorch hooks layer 47 + mean-pool last 5 tokens + sklearn LogisticRegression linear primary + (opcjonalnie) 1-3 layer MLP nonlinear w ablacji
+- `nli_verifier` 🚧 Iter. 1 (`src/verifier/`) — Tier 1 mDeBERTa primary ✓ T1 PASS 80,6 % na lokal CPU + Tier 2 HerBERT-large + CDSC-E fallback (reserved) + Tier 3 LLM judge ablation: confidence-based fallback chain z threshold 0,5
+- `citation_aligner` 🚧 Iter. 1 (`src/citation/`) — claim extractor + best-evidence selector + halu score aggregator
 
 **Fig 5.3 — szkielet wykresu C4 Component (3 zoom-ins):**
 

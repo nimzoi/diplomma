@@ -18,7 +18,7 @@ Tabela 3.1 prezentuje trzy role korpusu wraz z mapowaniem na komponenty pipeline
 
 | Rola | Wykorzystanie | Materiał źródłowy | Pojemność |
 |---|---|---|---|
-| Retrieval corpus | Indeks wektorowy Qdrant dla RAG | `legal_statute` + `legal_ue_directive` + `legal_tsue_judgment` + `legal_court_judgment` + `legal_uokik_decision` + `legal_document_pdf` + `encyclopedic` | 8 022 chunków |
+| Retrieval corpus | Indeks wektorowy Qdrant dla RAG | `legal_statute` + `legal_ue_directive` + `legal_tsue_judgment` + `legal_court_judgment` + `legal_uokik_decision` + `legal_document_pdf` + `encyclopedic` | 7 622 chunków |
 | Training data | Probe + verifier (uczenie nadzorowane) | `halu_pairs.jsonl` (syntetyczne) | 5 402 par |
 | Eval set | Walidacja RQ1–RQ4 | Gold standard manual + silver labels | 200 par gold + ~1 000 par silver |
 | Query distribution | Stres-test pipeline'u (real consumer questions) | `qa_raw` + `qa_gold` | 3 378 zapytań |
@@ -177,9 +177,15 @@ Mapowanie typów halucynacji na etykiety NLI nie jest jednoznaczne. Typ `factual
 
 To rozróżnienie zostało wprowadzone do generatora `halu_injector.py` jako mapa `_HALU_TYPE_NLI_LABEL` w iteracji 2026-05-16. Wcześniejsza wersja etykietowała wszystkie pięć typów halucynacji jednolicie jako `CONTRADICTED`, co prowadziło do mismatch z behavior modeli NLI — szczegóły walidacji w Rozdziale 6.
 
-### 3.5.3 Manual annotation — 200 par gold standard
+### 3.5.3 Zbiór `qa_gold` — kompozycja
 
-Zbiór gold standard 200 par stanowi podstawę walidacji RQ1–RQ4. Składa się z dwóch komponentów. Pierwszy to 60 par UOKiK Q&A z portalu *prawakonsumenta.uokik.gov.pl*, z których 55 zawiera explicit cytację prawną w formacie *Podstawa prawna: <statute>*. Te 60 par stanowi ready-made gold standard o zerowym koszcie anotacji manualnej. Drugi komponent to **140 par hand-annotated przez autorkę** w trakcie weekend hyperfocus burst — celem jest pokrycie typów halucynacji niedoreprezentowanych w dystrybucji UOKiK, w szczególności `paragraph_mis_citation` w aktach wymagających cross-references między ustawami oraz `temporal_drift` w obszarach takich jak prawo telekomunikacyjne konsumenckie i RODO w kontekście praw konsumenta.
+Typ `qa_gold` w korpusie v0.6 obejmuje 433 chunki z dwóch źródeł komplementarnych. **Pierwsze źródło** — 60 par pytanie-odpowiedź pobranych z portalu UOKiK *prawakonsumenta.uokik.gov.pl*, z których 55 (91,7 %) zawiera explicit cytację prawną w formacie *Podstawa prawna: <statute>*. **Drugie źródło** — 373 par pytanie-odpowiedź pochodzących z ekspansji RF FAQ portalu *rf.gov.pl* (FAQ Rzecznika Finansowego), pobranych w ramach E1 extended scrape. Para RF FAQ zachowuje strukturę pytanie + pełna odpowiedź podobnie do UOKiK Q&A, lecz dotyczy ubezpieczeń i bankowości konsumenckiej (kategoria `FINANCE_ADJACENT` w klasyfikacji multi-label).
+
+Decyzja o włączeniu RF FAQ do typu `qa_gold` zamiast typu `encyclopedic` lub `legal_document_pdf` motywowana jest strukturą danych — RF FAQ ma natywny format Q&A z explicit pytaniem i autorytatywną odpowiedzią ekspercką, podobnie do UOKiK Q&A. Z perspektywy treningu probe i verifiera obie podrodziny są wykorzystywane jednolicie jako wysokojakościowe źródło par claim-evidence.
+
+### 3.5.4 Manual annotation — 200 par gold standard ewaluacyjnych
+
+Zbiór ewaluacyjny gold standard 200 par stanowi podstawę walidacji RQ1–RQ4. Jest *odrębny* od 433-elementowego typu `qa_gold` w korpusie — gold standard ewaluacyjny służy *wyłącznie* do pomiaru metryk modeli (probe + verifier), nie do treningu. Składa się z dwóch komponentów. **Pierwszy** to 60 par UOKiK Q&A z portalu *prawakonsumenta.uokik.gov.pl* (te same 60 par co w `qa_gold` typu korpusowego). **Drugi** to **140 par hand-annotated przez autorkę** w trakcie weekend hyperfocus burst w Iteracji 5 — celem jest pokrycie typów halucynacji niedoreprezentowanych w dystrybucji UOKiK, w szczególności `paragraph_mis_citation` w aktach wymagających cross-references między ustawami oraz `temporal_drift` w obszarach takich jak prawo telekomunikacyjne konsumenckie i RODO w kontekście praw konsumenta.
 
 Wytyczne anotacji manualnej obejmują trzy reguły operacyjne:
 
@@ -188,6 +194,8 @@ Wytyczne anotacji manualnej obejmują trzy reguły operacyjne:
 3. **Neutral** stosuje się w pozostałych przypadkach, w tym dla unsupported additions, gdzie claim wykracza poza retrieved context bez bezpośredniego konfliktu.
 
 Te zasady są zgodne ze standardową interpretacją SNLI/MultiNLI przyjętą również dla polskich datasetów (CDSC-E).
+
+**Ograniczenie: brak inter-annotator agreement (IAA).** Gold standard 200 par jest produktem *pojedynczego anotatora* — autorki pracy. Brak wtórnego anotatora wyklucza obliczenie Cohen's kappa dla walidacji subiektywności decyzji anotacyjnych. Jest to świadome ograniczenie metodologiczne wymuszone przez zakres pracy inżynierskiej (jedna autorka + ograniczony budżet ekspertów dziedzinowych). Mitygacja obejmuje trzy elementy: (a) explicit pisemne wytyczne anotacji w protokole (powyżej, reguły 1-3), (b) self-review 10 % próby (20 par) po 48-godzinnej przerwie dla wykrycia drift w decyzjach, (c) cross-validation z Tier 1 mDeBERTa NLI na całej próbie 200 par — duże rozbieżności (>20 %) wskazują pary do reanalizy. Pełne raportowanie IAA jako future work zaplanowane jest w Iteracji 8+ (post-defense, jeśli secondary anotator dostępny przez kontakt z UOKiK lub Federacją Konsumentów).
 
 Zbiór wtórny `~1 000` par silver labels generowany jest automatycznie z syntetycznych par halucynacyjnych przy użyciu Tier 1 verifier'a (mDeBERTa) jako auto-anotatora, z manualnym spot-check 5 % próby (50 par) przez autorkę dla walidacji silver-gold agreement.
 
